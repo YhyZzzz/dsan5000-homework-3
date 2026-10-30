@@ -1,0 +1,956 @@
+{
+  "search_metadata": {
+    "id": "6ae50a494b95962a11db236e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Uft8LhR9qMxwqR9Dz9gEjOQEgHi3sLd_XfNjolW7Ogc/6ae50a494b95962a11db236e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Uft8LhR9qMxwqR9Dz9gEjOQEgHi3sLd_XfNjolW7Ogc/6ae50a494b95962a11db236e.md",
+    "created_at": "2026-10-30 21:21:13 UTC",
+    "processed_at": "2026-10-30 21:21:13 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Big+Data+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Uft8LhR9qMxwqR9Dz9gEjOQEgHi3sLd_XfNjolW7Ogc/6ae50a494b95962a11db236e.html",
+    "total_time_taken": 15.51
+  },
+  "search_parameters": {
+    "q": "Big Data Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHh_rOtY3fjZgw8_MScrhfEUFsLPfMBxzo88R66HPKMJN9z7zfkZkdaQZ6-6ifpo_f9M19BFys845eLbnecvaHcNqZCk-zKKkT15yLqCNE8qkC6kZs1jW-VV5_lFjVYiNcVVrSeg",
+        "q": "Big Data Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHh_rOtY3fjZgw8_MScrhfEUFsLPfMBxzo88R66HPKMJN9z7zfkZkdaQZ6-6ifpo_f9M19BFys845eLbnecvaHcNqZCk-zKKkT15yLqCNE8qkC6kZs1jW-VV5_lFjVYiNcVVrSeg&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQxKsJKAB6BAgWEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHh_rOtY3fjZgw8_MScrhfEUFsLPfMBxzo88R66HPKMJN9z7zfkZkdaQZ6-6ifpo_f9M19BFys845eLbnecvaHcNqZCk-zKKkT15yLqCNE8qkC6kZs1jW-VV5_lFjVYiNcVVrSeg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdbweHtgB1C5k7zCV2bD1bgp6Nbokyv88jxJhpAxhkb3RUZF0DK94D1LAgVQZ-jBq1ngqlE7M-F0zD-AxKHD6FocL2prpkCi55dl41gc5Cnp7zIW8z5wBlYTihNVA-lgoiulcPmYs",
+        "q": "Big Data Engineer no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdbweHtgB1C5k7zCV2bD1bgp6Nbokyv88jxJhpAxhkb3RUZF0DK94D1LAgVQZ-jBq1ngqlE7M-F0zD-AxKHD6FocL2prpkCi55dl41gc5Cnp7zIW8z5wBlYTihNVA-lgoiulcPmYs&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQxKsJKAF6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdbweHtgB1C5k7zCV2bD1bgp6Nbokyv88jxJhpAxhkb3RUZF0DK94D1LAgVQZ-jBq1ngqlE7M-F0zD-AxKHD6FocL2prpkCi55dl41gc5Cnp7zIW8z5wBlYTihNVA-lgoiulcPmYs&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w2CF5YcwwIO8mx0cgi5AeMtlTsBx072uaBvmcfZZ3glI2TSPvukN0NDShI1cG33B5JONSMjM89oj-mC7pSyb4Amd9KwnEFTUFMmyUbdSm3BLS8lNPGb0N8rmwCkatzccfO7UmygVlrATXzOT8zWROHemOnWZ0Og5Mh8afSa9IlqITXFIAQIPlJiPzquTUoIVqYKAzYnG8KR2SB19e8ZrBwBhAL2iQ5x3zgfhR-SRzC7StY2CP0WbsPWF1_6bW3dziT_J5RG4NC9NAew3NQy2oLvcEm5A",
+            "q": "Big Data Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w2CF5YcwwIO8mx0cgi5AeMtlTsBx072uaBvmcfZZ3glI2TSPvukN0NDShI1cG33B5JONSMjM89oj-mC7pSyb4Amd9KwnEFTUFMmyUbdSm3BLS8lNPGb0N8rmwCkatzccfO7UmygVlrATXzOT8zWROHemOnWZ0Og5Mh8afSa9IlqITXFIAQIPlJiPzquTUoIVqYKAzYnG8KR2SB19e8ZrBwBhAL2iQ5x3zgfhR-SRzC7StY2CP0WbsPWF1_6bW3dziT_J5RG4NC9NAew3NQy2oLvcEm5A&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w2CF5YcwwIO8mx0cgi5AeMtlTsBx072uaBvmcfZZ3glI2TSPvukN0NDShI1cG33B5JONSMjM89oj-mC7pSyb4Amd9KwnEFTUFMmyUbdSm3BLS8lNPGb0N8rmwCkatzccfO7UmygVlrATXzOT8zWROHemOnWZ0Og5Mh8afSa9IlqITXFIAQIPlJiPzquTUoIVqYKAzYnG8KR2SB19e8ZrBwBhAL2iQ5x3zgfhR-SRzC7StY2CP0WbsPWF1_6bW3dziT_J5RG4NC9NAew3NQy2oLvcEm5A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w-NCQadnMUQJj2DNL4z0bWnBMR06VsQdMeVhijfWegLrvKIw0V3AFkJUPtfbGzkaH68I_zg09cbyx6Zll3md1KV0tTOzN1tOYDjrDuNjOWBPPYNXkxB6xierBCHfS4ugYKv_t08OUWDw04MDa7VH0rin_lep_XPiF-WOPKqG7pNNkxpQBNg-cpDFSo00ybxjWYEkk_FUCNs6rd8ddgDOYXS19yZEzuIW8f7uOMp0F0aMsEOIMD1v6HtqsFiM6B-pVfkL_2lvLm0-FI8cTJnn3zGH8P3A",
+            "q": "Big Data Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w-NCQadnMUQJj2DNL4z0bWnBMR06VsQdMeVhijfWegLrvKIw0V3AFkJUPtfbGzkaH68I_zg09cbyx6Zll3md1KV0tTOzN1tOYDjrDuNjOWBPPYNXkxB6xierBCHfS4ugYKv_t08OUWDw04MDa7VH0rin_lep_XPiF-WOPKqG7pNNkxpQBNg-cpDFSo00ybxjWYEkk_FUCNs6rd8ddgDOYXS19yZEzuIW8f7uOMp0F0aMsEOIMD1v6HtqsFiM6B-pVfkL_2lvLm0-FI8cTJnn3zGH8P3A&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w-NCQadnMUQJj2DNL4z0bWnBMR06VsQdMeVhijfWegLrvKIw0V3AFkJUPtfbGzkaH68I_zg09cbyx6Zll3md1KV0tTOzN1tOYDjrDuNjOWBPPYNXkxB6xierBCHfS4ugYKv_t08OUWDw04MDa7VH0rin_lep_XPiF-WOPKqG7pNNkxpQBNg-cpDFSo00ybxjWYEkk_FUCNs6rd8ddgDOYXS19yZEzuIW8f7uOMp0F0aMsEOIMD1v6HtqsFiM6B-pVfkL_2lvLm0-FI8cTJnn3zGH8P3A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oqCC9L_iq8fXhplpMPPZjGAi2XR3KyF00UI_HHj90tt_h_pwkEonScU0U81Xgj_GQFfEM4tjDTH8Tz8QBSbHkmJQSexkS97Wu7Diy6jsZLlI193BU7hMniREP16UpBUVzZ42oizTldsys-7o_Fpq1wB1STOrXJTUQcvB9rk4BlcNGtXuA7dKF2GyHCzFva5FRRtOzq_vS8JaJHFQ6OraYHBiK91xoIj3AICGN47TQ4Dl-qgpvHx5h6avqvWxnMaXYDJKUUmlbRHeWpz5fVcrLmFfNDcl6laZe58k_fkdVEbmkMoQ1w",
+            "q": "Big Data Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oqCC9L_iq8fXhplpMPPZjGAi2XR3KyF00UI_HHj90tt_h_pwkEonScU0U81Xgj_GQFfEM4tjDTH8Tz8QBSbHkmJQSexkS97Wu7Diy6jsZLlI193BU7hMniREP16UpBUVzZ42oizTldsys-7o_Fpq1wB1STOrXJTUQcvB9rk4BlcNGtXuA7dKF2GyHCzFva5FRRtOzq_vS8JaJHFQ6OraYHBiK91xoIj3AICGN47TQ4Dl-qgpvHx5h6avqvWxnMaXYDJKUUmlbRHeWpz5fVcrLmFfNDcl6laZe58k_fkdVEbmkMoQ1w&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oqCC9L_iq8fXhplpMPPZjGAi2XR3KyF00UI_HHj90tt_h_pwkEonScU0U81Xgj_GQFfEM4tjDTH8Tz8QBSbHkmJQSexkS97Wu7Diy6jsZLlI193BU7hMniREP16UpBUVzZ42oizTldsys-7o_Fpq1wB1STOrXJTUQcvB9rk4BlcNGtXuA7dKF2GyHCzFva5FRRtOzq_vS8JaJHFQ6OraYHBiK91xoIj3AICGN47TQ4Dl-qgpvHx5h6avqvWxnMaXYDJKUUmlbRHeWpz5fVcrLmFfNDcl6laZe58k_fkdVEbmkMoQ1w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkSZlRMf5SAN2Q_SSXbOgwUhMnetFSU8Qh2Lm1AnnlUU_bVRj5OUFOl-35VOpnbirWHImbG5Pq04tYWOexBOexYUfBtkiWFPNIyqTh5rMvsl9-SiCyc5gntKgwZqy9WuqA-PuPgQzAbYHRp5m9R1ix91m0crcMmaBAmTQSYPkagnD891e3IepRJeg376Gqj9GjAwLWxIh30p_uT9ov2HzvmWwWZuH9EzpjVXlQSnrQ0XmXbMMucCqLrBfqY0dRTtMR1EeOYR790GQj0rxkq1JunZTlG_mbtPWFlY7t5zLVRS1oeexw",
+            "q": "Big Data Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkSZlRMf5SAN2Q_SSXbOgwUhMnetFSU8Qh2Lm1AnnlUU_bVRj5OUFOl-35VOpnbirWHImbG5Pq04tYWOexBOexYUfBtkiWFPNIyqTh5rMvsl9-SiCyc5gntKgwZqy9WuqA-PuPgQzAbYHRp5m9R1ix91m0crcMmaBAmTQSYPkagnD891e3IepRJeg376Gqj9GjAwLWxIh30p_uT9ov2HzvmWwWZuH9EzpjVXlQSnrQ0XmXbMMucCqLrBfqY0dRTtMR1EeOYR790GQj0rxkq1JunZTlG_mbtPWFlY7t5zLVRS1oeexw&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkSZlRMf5SAN2Q_SSXbOgwUhMnetFSU8Qh2Lm1AnnlUU_bVRj5OUFOl-35VOpnbirWHImbG5Pq04tYWOexBOexYUfBtkiWFPNIyqTh5rMvsl9-SiCyc5gntKgwZqy9WuqA-PuPgQzAbYHRp5m9R1ix91m0crcMmaBAmTQSYPkagnD891e3IepRJeg376Gqj9GjAwLWxIh30p_uT9ov2HzvmWwWZuH9EzpjVXlQSnrQ0XmXbMMucCqLrBfqY0dRTtMR1EeOYR790GQj0rxkq1JunZTlG_mbtPWFlY7t5zLVRS1oeexw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w2CF5YcwwIO8mx0cgi5AeMtlTsBx072uaBvmcfZZ3glI2TSPvukN0NDShI1cG33B5JONSMjM89oj-mC7pSyb4Amd9KwnEFTUFMmyUbdSm3BLS8lNPGb0N8rmwCkatzccfO7UmygVlrATXzOT8zWROHemOnWZ0Og5Mh8afSa9IlqITXFIAQIPlJiPzquTUoIVqYKAzYnG8KR2SB19e8ZrBwBhAL2iQ5x3zgfhR-SRzC7StY2CP0WbsPWF1_6bW3dziT_J5RG4NC9NAew3NQy2oLvcEm5A",
+            "q": "Big Data Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w2CF5YcwwIO8mx0cgi5AeMtlTsBx072uaBvmcfZZ3glI2TSPvukN0NDShI1cG33B5JONSMjM89oj-mC7pSyb4Amd9KwnEFTUFMmyUbdSm3BLS8lNPGb0N8rmwCkatzccfO7UmygVlrATXzOT8zWROHemOnWZ0Og5Mh8afSa9IlqITXFIAQIPlJiPzquTUoIVqYKAzYnG8KR2SB19e8ZrBwBhAL2iQ5x3zgfhR-SRzC7StY2CP0WbsPWF1_6bW3dziT_J5RG4NC9NAew3NQy2oLvcEm5A&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w2CF5YcwwIO8mx0cgi5AeMtlTsBx072uaBvmcfZZ3glI2TSPvukN0NDShI1cG33B5JONSMjM89oj-mC7pSyb4Amd9KwnEFTUFMmyUbdSm3BLS8lNPGb0N8rmwCkatzccfO7UmygVlrATXzOT8zWROHemOnWZ0Og5Mh8afSa9IlqITXFIAQIPlJiPzquTUoIVqYKAzYnG8KR2SB19e8ZrBwBhAL2iQ5x3zgfhR-SRzC7StY2CP0WbsPWF1_6bW3dziT_J5RG4NC9NAew3NQy2oLvcEm5A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w-NCQadnMUQJj2DNL4z0bWnBMR06VsQdMeVhijfWegLrvKIw0V3AFkJUPtfbGzkaH68I_zg09cbyx6Zll3md1KV0tTOzN1tOYDjrDuNjOWBPPYNXkxB6xierBCHfS4ugYKv_t08OUWDw04MDa7VH0rin_lep_XPiF-WOPKqG7pNNkxpQBNg-cpDFSo00ybxjWYEkk_FUCNs6rd8ddgDOYXS19yZEzuIW8f7uOMp0F0aMsEOIMD1v6HtqsFiM6B-pVfkL_2lvLm0-FI8cTJnn3zGH8P3A",
+            "q": "Big Data Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w-NCQadnMUQJj2DNL4z0bWnBMR06VsQdMeVhijfWegLrvKIw0V3AFkJUPtfbGzkaH68I_zg09cbyx6Zll3md1KV0tTOzN1tOYDjrDuNjOWBPPYNXkxB6xierBCHfS4ugYKv_t08OUWDw04MDa7VH0rin_lep_XPiF-WOPKqG7pNNkxpQBNg-cpDFSo00ybxjWYEkk_FUCNs6rd8ddgDOYXS19yZEzuIW8f7uOMp0F0aMsEOIMD1v6HtqsFiM6B-pVfkL_2lvLm0-FI8cTJnn3zGH8P3A&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6dxDoHiQ4FfGoIoVXqAe40w-NCQadnMUQJj2DNL4z0bWnBMR06VsQdMeVhijfWegLrvKIw0V3AFkJUPtfbGzkaH68I_zg09cbyx6Zll3md1KV0tTOzN1tOYDjrDuNjOWBPPYNXkxB6xierBCHfS4ugYKv_t08OUWDw04MDa7VH0rin_lep_XPiF-WOPKqG7pNNkxpQBNg-cpDFSo00ybxjWYEkk_FUCNs6rd8ddgDOYXS19yZEzuIW8f7uOMp0F0aMsEOIMD1v6HtqsFiM6B-pVfkL_2lvLm0-FI8cTJnn3zGH8P3A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oqCC9L_iq8fXhplpMPPZjGAi2XR3KyF00UI_HHj90tt_h_pwkEonScU0U81Xgj_GQFfEM4tjDTH8Tz8QBSbHkmJQSexkS97Wu7Diy6jsZLlI193BU7hMniREP16UpBUVzZ42oizTldsys-7o_Fpq1wB1STOrXJTUQcvB9rk4BlcNGtXuA7dKF2GyHCzFva5FRRtOzq_vS8JaJHFQ6OraYHBiK91xoIj3AICGN47TQ4Dl-qgpvHx5h6avqvWxnMaXYDJKUUmlbRHeWpz5fVcrLmFfNDcl6laZe58k_fkdVEbmkMoQ1w",
+            "q": "Big Data Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oqCC9L_iq8fXhplpMPPZjGAi2XR3KyF00UI_HHj90tt_h_pwkEonScU0U81Xgj_GQFfEM4tjDTH8Tz8QBSbHkmJQSexkS97Wu7Diy6jsZLlI193BU7hMniREP16UpBUVzZ42oizTldsys-7o_Fpq1wB1STOrXJTUQcvB9rk4BlcNGtXuA7dKF2GyHCzFva5FRRtOzq_vS8JaJHFQ6OraYHBiK91xoIj3AICGN47TQ4Dl-qgpvHx5h6avqvWxnMaXYDJKUUmlbRHeWpz5fVcrLmFfNDcl6laZe58k_fkdVEbmkMoQ1w&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oqCC9L_iq8fXhplpMPPZjGAi2XR3KyF00UI_HHj90tt_h_pwkEonScU0U81Xgj_GQFfEM4tjDTH8Tz8QBSbHkmJQSexkS97Wu7Diy6jsZLlI193BU7hMniREP16UpBUVzZ42oizTldsys-7o_Fpq1wB1STOrXJTUQcvB9rk4BlcNGtXuA7dKF2GyHCzFva5FRRtOzq_vS8JaJHFQ6OraYHBiK91xoIj3AICGN47TQ4Dl-qgpvHx5h6avqvWxnMaXYDJKUUmlbRHeWpz5fVcrLmFfNDcl6laZe58k_fkdVEbmkMoQ1w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkSZlRMf5SAN2Q_SSXbOgwUhMnetFSU8Qh2Lm1AnnlUU_bVRj5OUFOl-35VOpnbirWHImbG5Pq04tYWOexBOexYUfBtkiWFPNIyqTh5rMvsl9-SiCyc5gntKgwZqy9WuqA-PuPgQzAbYHRp5m9R1ix91m0crcMmaBAmTQSYPkagnD891e3IepRJeg376Gqj9GjAwLWxIh30p_uT9ov2HzvmWwWZuH9EzpjVXlQSnrQ0XmXbMMucCqLrBfqY0dRTtMR1EeOYR790GQj0rxkq1JunZTlG_mbtPWFlY7t5zLVRS1oeexw",
+            "q": "Big Data Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkSZlRMf5SAN2Q_SSXbOgwUhMnetFSU8Qh2Lm1AnnlUU_bVRj5OUFOl-35VOpnbirWHImbG5Pq04tYWOexBOexYUfBtkiWFPNIyqTh5rMvsl9-SiCyc5gntKgwZqy9WuqA-PuPgQzAbYHRp5m9R1ix91m0crcMmaBAmTQSYPkagnD891e3IepRJeg376Gqj9GjAwLWxIh30p_uT9ov2HzvmWwWZuH9EzpjVXlQSnrQ0XmXbMMucCqLrBfqY0dRTtMR1EeOYR790GQj0rxkq1JunZTlG_mbtPWFlY7t5zLVRS1oeexw&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkSZlRMf5SAN2Q_SSXbOgwUhMnetFSU8Qh2Lm1AnnlUU_bVRj5OUFOl-35VOpnbirWHImbG5Pq04tYWOexBOexYUfBtkiWFPNIyqTh5rMvsl9-SiCyc5gntKgwZqy9WuqA-PuPgQzAbYHRp5m9R1ix91m0crcMmaBAmTQSYPkagnD891e3IepRJeg376Gqj9GjAwLWxIh30p_uT9ov2HzvmWwWZuH9EzpjVXlQSnrQ0XmXbMMucCqLrBfqY0dRTtMR1EeOYR790GQj0rxkq1JunZTlG_mbtPWFlY7t5zLVRS1oeexw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepns3mmwK0Csf7N-dnTekIep_5Rpdh-zDszGezPiZklPIctr4wmD1oOKZUwQ163rSHFzH9CrMIoyi2yoEnuRuMmpwcXfF1Hddza9vXsEqTuT-QpnZ6S-jAjWl-4k8Nb5mqdSq8GrapQbBZ6L7gEG4YKBpEEVGwu57KFKt1emLLZtFXxk8O1bV6Z0JC70maE8KFGPc6hVg1KqroQ3u3ikzonroedT2jC8a8fGmnUxIrIzk3ImYkXWQT-nL-InnPEl7sI6uFjYTUMb_g1ryg_TLY75IxggOxYYy9z_U1uHyXN1c7iW7VzAHiy1stleRe9TJoR6p2R4",
+            "q": "Big Data Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepns3mmwK0Csf7N-dnTekIep_5Rpdh-zDszGezPiZklPIctr4wmD1oOKZUwQ163rSHFzH9CrMIoyi2yoEnuRuMmpwcXfF1Hddza9vXsEqTuT-QpnZ6S-jAjWl-4k8Nb5mqdSq8GrapQbBZ6L7gEG4YKBpEEVGwu57KFKt1emLLZtFXxk8O1bV6Z0JC70maE8KFGPc6hVg1KqroQ3u3ikzonroedT2jC8a8fGmnUxIrIzk3ImYkXWQT-nL-InnPEl7sI6uFjYTUMb_g1ryg_TLY75IxggOxYYy9z_U1uHyXN1c7iW7VzAHiy1stleRe9TJoR6p2R4&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepns3mmwK0Csf7N-dnTekIep_5Rpdh-zDszGezPiZklPIctr4wmD1oOKZUwQ163rSHFzH9CrMIoyi2yoEnuRuMmpwcXfF1Hddza9vXsEqTuT-QpnZ6S-jAjWl-4k8Nb5mqdSq8GrapQbBZ6L7gEG4YKBpEEVGwu57KFKt1emLLZtFXxk8O1bV6Z0JC70maE8KFGPc6hVg1KqroQ3u3ikzonroedT2jC8a8fGmnUxIrIzk3ImYkXWQT-nL-InnPEl7sI6uFjYTUMb_g1ryg_TLY75IxggOxYYy9z_U1uHyXN1c7iW7VzAHiy1stleRe9TJoR6p2R4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYjvySwCEHBMRSGDIh6fNarPQVS5lUrv8G5CA18el6OrSOun6mDYKWuijTtpfZUMHeoDjdIILNU651xlx3YqdReElX0EG4k9W1rdsMHQTnADJ7PSjT_wncJUEbR6gnXVvCDAUFr8IcBJAJN0aIni5pvAly98HkDihQcw3OqYKjDaiNJU84kU6A8RP-8RHhr09ZelcWJDcmiRtWp-vSB6OHcStOZSUdi4UCyS1zV1HyGv0dk9aiySGmOKDWokx6QamMnCaYOTxUQBA-0FId3GxRj8HcrBtCxUB2ueM_60W83C7t4oYjE020NJS-lyRDQioCulpZqk",
+            "q": "Big Data Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYjvySwCEHBMRSGDIh6fNarPQVS5lUrv8G5CA18el6OrSOun6mDYKWuijTtpfZUMHeoDjdIILNU651xlx3YqdReElX0EG4k9W1rdsMHQTnADJ7PSjT_wncJUEbR6gnXVvCDAUFr8IcBJAJN0aIni5pvAly98HkDihQcw3OqYKjDaiNJU84kU6A8RP-8RHhr09ZelcWJDcmiRtWp-vSB6OHcStOZSUdi4UCyS1zV1HyGv0dk9aiySGmOKDWokx6QamMnCaYOTxUQBA-0FId3GxRj8HcrBtCxUB2ueM_60W83C7t4oYjE020NJS-lyRDQioCulpZqk&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYjvySwCEHBMRSGDIh6fNarPQVS5lUrv8G5CA18el6OrSOun6mDYKWuijTtpfZUMHeoDjdIILNU651xlx3YqdReElX0EG4k9W1rdsMHQTnADJ7PSjT_wncJUEbR6gnXVvCDAUFr8IcBJAJN0aIni5pvAly98HkDihQcw3OqYKjDaiNJU84kU6A8RP-8RHhr09ZelcWJDcmiRtWp-vSB6OHcStOZSUdi4UCyS1zV1HyGv0dk9aiySGmOKDWokx6QamMnCaYOTxUQBA-0FId3GxRj8HcrBtCxUB2ueM_60W83C7t4oYjE020NJS-lyRDQioCulpZqk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2D0KhfrtDm_OA3cKTZA6eLkYpVCJQ05qj8rYI05QFMPOAMg8MH8oj4zWG-Q4au5q3ZDTXE_SsucFuoIy4eKa8FMlhSNrLnBP5Jiu8wbzIJZBFsmdPMcSetHIhrOm1BhkkkwTutmRTMLfYS63UVCg21ResnydGoCuemoL-rJCbj7eo77lS3HvZ_hsEWv4nKxlaN_5V63S-M8YKGmbV-4YTEE2utFnHHTwybQVMyrz1WX4gjDRL3-b7IvYY2mh14zd_2wwpRg4-CmUuCsV8_M-0-NNRbi3HhrjlrfMC1Xk_tbneY28jlHBjxazq9oQ2Div61c69Us",
+            "q": "Big Data Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2D0KhfrtDm_OA3cKTZA6eLkYpVCJQ05qj8rYI05QFMPOAMg8MH8oj4zWG-Q4au5q3ZDTXE_SsucFuoIy4eKa8FMlhSNrLnBP5Jiu8wbzIJZBFsmdPMcSetHIhrOm1BhkkkwTutmRTMLfYS63UVCg21ResnydGoCuemoL-rJCbj7eo77lS3HvZ_hsEWv4nKxlaN_5V63S-M8YKGmbV-4YTEE2utFnHHTwybQVMyrz1WX4gjDRL3-b7IvYY2mh14zd_2wwpRg4-CmUuCsV8_M-0-NNRbi3HhrjlrfMC1Xk_tbneY28jlHBjxazq9oQ2Div61c69Us&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2D0KhfrtDm_OA3cKTZA6eLkYpVCJQ05qj8rYI05QFMPOAMg8MH8oj4zWG-Q4au5q3ZDTXE_SsucFuoIy4eKa8FMlhSNrLnBP5Jiu8wbzIJZBFsmdPMcSetHIhrOm1BhkkkwTutmRTMLfYS63UVCg21ResnydGoCuemoL-rJCbj7eo77lS3HvZ_hsEWv4nKxlaN_5V63S-M8YKGmbV-4YTEE2utFnHHTwybQVMyrz1WX4gjDRL3-b7IvYY2mh14zd_2wwpRg4-CmUuCsV8_M-0-NNRbi3HhrjlrfMC1Xk_tbneY28jlHBjxazq9oQ2Div61c69Us&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjdb_Rs6DplsLfF7cLKSCVrxc-n6JgSjszTdwl1V_I1b8Czf-jrDrMwMxqWjO9zYLVvE3BvVv-2s2zJes9Li9uh3mH8SYRqOKjC_SL45pTclmxqYIl0_a7Sdv_c1gYD3YKDm47bv7NXxVn0KRGdoOJ1Tu6D2YheeZp_f3a7NXdetlF_lc5aY1CnBx3O_Dw1feWTUO9s4z20_CiXmHrTPyHUyXTUQ8mXM_NhJ2fesO1k6A4Yv7rKJgpPXdAt4hAgLVh7bsS9tkBT23n1xGxgLerPsQN5Oys1jjOE4IwxYg76omStpXB7u4Gh3kMhZ9hHm3BJd3UnU",
+            "q": "Big Data Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjdb_Rs6DplsLfF7cLKSCVrxc-n6JgSjszTdwl1V_I1b8Czf-jrDrMwMxqWjO9zYLVvE3BvVv-2s2zJes9Li9uh3mH8SYRqOKjC_SL45pTclmxqYIl0_a7Sdv_c1gYD3YKDm47bv7NXxVn0KRGdoOJ1Tu6D2YheeZp_f3a7NXdetlF_lc5aY1CnBx3O_Dw1feWTUO9s4z20_CiXmHrTPyHUyXTUQ8mXM_NhJ2fesO1k6A4Yv7rKJgpPXdAt4hAgLVh7bsS9tkBT23n1xGxgLerPsQN5Oys1jjOE4IwxYg76omStpXB7u4Gh3kMhZ9hHm3BJd3UnU&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjdb_Rs6DplsLfF7cLKSCVrxc-n6JgSjszTdwl1V_I1b8Czf-jrDrMwMxqWjO9zYLVvE3BvVv-2s2zJes9Li9uh3mH8SYRqOKjC_SL45pTclmxqYIl0_a7Sdv_c1gYD3YKDm47bv7NXxVn0KRGdoOJ1Tu6D2YheeZp_f3a7NXdetlF_lc5aY1CnBx3O_Dw1feWTUO9s4z20_CiXmHrTPyHUyXTUQ8mXM_NhJ2fesO1k6A4Yv7rKJgpPXdAt4hAgLVh7bsS9tkBT23n1xGxgLerPsQN5Oys1jjOE4IwxYg76omStpXB7u4Gh3kMhZ9hHm3BJd3UnU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepns3mmwK0Csf7N-dnTekIep_5Rpdh-zDszGezPiZklPIctr4wmD1oOKZUwQ163rSHFzH9CrMIoyi2yoEnuRuMmpwcXfF1Hddza9vXsEqTuT-QpnZ6S-jAjWl-4k8Nb5mqdSq8GrapQbBZ6L7gEG4YKBpEEVGwu57KFKt1emLLZtFXxk8O1bV6Z0JC70maE8KFGPc6hVg1KqroQ3u3ikzonroedT2jC8a8fGmnUxIrIzk3ImYkXWQT-nL-InnPEl7sI6uFjYTUMb_g1ryg_TLY75IxggOxYYy9z_U1uHyXN1c7iW7VzAHiy1stleRe9TJoR6p2R4",
+            "q": "Big Data Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepns3mmwK0Csf7N-dnTekIep_5Rpdh-zDszGezPiZklPIctr4wmD1oOKZUwQ163rSHFzH9CrMIoyi2yoEnuRuMmpwcXfF1Hddza9vXsEqTuT-QpnZ6S-jAjWl-4k8Nb5mqdSq8GrapQbBZ6L7gEG4YKBpEEVGwu57KFKt1emLLZtFXxk8O1bV6Z0JC70maE8KFGPc6hVg1KqroQ3u3ikzonroedT2jC8a8fGmnUxIrIzk3ImYkXWQT-nL-InnPEl7sI6uFjYTUMb_g1ryg_TLY75IxggOxYYy9z_U1uHyXN1c7iW7VzAHiy1stleRe9TJoR6p2R4&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepns3mmwK0Csf7N-dnTekIep_5Rpdh-zDszGezPiZklPIctr4wmD1oOKZUwQ163rSHFzH9CrMIoyi2yoEnuRuMmpwcXfF1Hddza9vXsEqTuT-QpnZ6S-jAjWl-4k8Nb5mqdSq8GrapQbBZ6L7gEG4YKBpEEVGwu57KFKt1emLLZtFXxk8O1bV6Z0JC70maE8KFGPc6hVg1KqroQ3u3ikzonroedT2jC8a8fGmnUxIrIzk3ImYkXWQT-nL-InnPEl7sI6uFjYTUMb_g1ryg_TLY75IxggOxYYy9z_U1uHyXN1c7iW7VzAHiy1stleRe9TJoR6p2R4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYjvySwCEHBMRSGDIh6fNarPQVS5lUrv8G5CA18el6OrSOun6mDYKWuijTtpfZUMHeoDjdIILNU651xlx3YqdReElX0EG4k9W1rdsMHQTnADJ7PSjT_wncJUEbR6gnXVvCDAUFr8IcBJAJN0aIni5pvAly98HkDihQcw3OqYKjDaiNJU84kU6A8RP-8RHhr09ZelcWJDcmiRtWp-vSB6OHcStOZSUdi4UCyS1zV1HyGv0dk9aiySGmOKDWokx6QamMnCaYOTxUQBA-0FId3GxRj8HcrBtCxUB2ueM_60W83C7t4oYjE020NJS-lyRDQioCulpZqk",
+            "q": "Big Data Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYjvySwCEHBMRSGDIh6fNarPQVS5lUrv8G5CA18el6OrSOun6mDYKWuijTtpfZUMHeoDjdIILNU651xlx3YqdReElX0EG4k9W1rdsMHQTnADJ7PSjT_wncJUEbR6gnXVvCDAUFr8IcBJAJN0aIni5pvAly98HkDihQcw3OqYKjDaiNJU84kU6A8RP-8RHhr09ZelcWJDcmiRtWp-vSB6OHcStOZSUdi4UCyS1zV1HyGv0dk9aiySGmOKDWokx6QamMnCaYOTxUQBA-0FId3GxRj8HcrBtCxUB2ueM_60W83C7t4oYjE020NJS-lyRDQioCulpZqk&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYjvySwCEHBMRSGDIh6fNarPQVS5lUrv8G5CA18el6OrSOun6mDYKWuijTtpfZUMHeoDjdIILNU651xlx3YqdReElX0EG4k9W1rdsMHQTnADJ7PSjT_wncJUEbR6gnXVvCDAUFr8IcBJAJN0aIni5pvAly98HkDihQcw3OqYKjDaiNJU84kU6A8RP-8RHhr09ZelcWJDcmiRtWp-vSB6OHcStOZSUdi4UCyS1zV1HyGv0dk9aiySGmOKDWokx6QamMnCaYOTxUQBA-0FId3GxRj8HcrBtCxUB2ueM_60W83C7t4oYjE020NJS-lyRDQioCulpZqk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2D0KhfrtDm_OA3cKTZA6eLkYpVCJQ05qj8rYI05QFMPOAMg8MH8oj4zWG-Q4au5q3ZDTXE_SsucFuoIy4eKa8FMlhSNrLnBP5Jiu8wbzIJZBFsmdPMcSetHIhrOm1BhkkkwTutmRTMLfYS63UVCg21ResnydGoCuemoL-rJCbj7eo77lS3HvZ_hsEWv4nKxlaN_5V63S-M8YKGmbV-4YTEE2utFnHHTwybQVMyrz1WX4gjDRL3-b7IvYY2mh14zd_2wwpRg4-CmUuCsV8_M-0-NNRbi3HhrjlrfMC1Xk_tbneY28jlHBjxazq9oQ2Div61c69Us",
+            "q": "Big Data Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2D0KhfrtDm_OA3cKTZA6eLkYpVCJQ05qj8rYI05QFMPOAMg8MH8oj4zWG-Q4au5q3ZDTXE_SsucFuoIy4eKa8FMlhSNrLnBP5Jiu8wbzIJZBFsmdPMcSetHIhrOm1BhkkkwTutmRTMLfYS63UVCg21ResnydGoCuemoL-rJCbj7eo77lS3HvZ_hsEWv4nKxlaN_5V63S-M8YKGmbV-4YTEE2utFnHHTwybQVMyrz1WX4gjDRL3-b7IvYY2mh14zd_2wwpRg4-CmUuCsV8_M-0-NNRbi3HhrjlrfMC1Xk_tbneY28jlHBjxazq9oQ2Div61c69Us&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2D0KhfrtDm_OA3cKTZA6eLkYpVCJQ05qj8rYI05QFMPOAMg8MH8oj4zWG-Q4au5q3ZDTXE_SsucFuoIy4eKa8FMlhSNrLnBP5Jiu8wbzIJZBFsmdPMcSetHIhrOm1BhkkkwTutmRTMLfYS63UVCg21ResnydGoCuemoL-rJCbj7eo77lS3HvZ_hsEWv4nKxlaN_5V63S-M8YKGmbV-4YTEE2utFnHHTwybQVMyrz1WX4gjDRL3-b7IvYY2mh14zd_2wwpRg4-CmUuCsV8_M-0-NNRbi3HhrjlrfMC1Xk_tbneY28jlHBjxazq9oQ2Div61c69Us&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjdb_Rs6DplsLfF7cLKSCVrxc-n6JgSjszTdwl1V_I1b8Czf-jrDrMwMxqWjO9zYLVvE3BvVv-2s2zJes9Li9uh3mH8SYRqOKjC_SL45pTclmxqYIl0_a7Sdv_c1gYD3YKDm47bv7NXxVn0KRGdoOJ1Tu6D2YheeZp_f3a7NXdetlF_lc5aY1CnBx3O_Dw1feWTUO9s4z20_CiXmHrTPyHUyXTUQ8mXM_NhJ2fesO1k6A4Yv7rKJgpPXdAt4hAgLVh7bsS9tkBT23n1xGxgLerPsQN5Oys1jjOE4IwxYg76omStpXB7u4Gh3kMhZ9hHm3BJd3UnU",
+            "q": "Big Data Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDh_UM1R8aqg0C_SyzX2451aD8UaIA:1793395287793&q=Big+Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjdb_Rs6DplsLfF7cLKSCVrxc-n6JgSjszTdwl1V_I1b8Czf-jrDrMwMxqWjO9zYLVvE3BvVv-2s2zJes9Li9uh3mH8SYRqOKjC_SL45pTclmxqYIl0_a7Sdv_c1gYD3YKDm47bv7NXxVn0KRGdoOJ1Tu6D2YheeZp_f3a7NXdetlF_lc5aY1CnBx3O_Dw1feWTUO9s4z20_CiXmHrTPyHUyXTUQ8mXM_NhJ2fesO1k6A4Yv7rKJgpPXdAt4hAgLVh7bsS9tkBT23n1xGxgLerPsQN5Oys1jjOE4IwxYg76omStpXB7u4Gh3kMhZ9hHm3BJd3UnU&udm=8&sa=X&ved=2ahUKEwjlgMiI1uKXAxV0GlkFHWFQGZgQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Big+Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjdb_Rs6DplsLfF7cLKSCVrxc-n6JgSjszTdwl1V_I1b8Czf-jrDrMwMxqWjO9zYLVvE3BvVv-2s2zJes9Li9uh3mH8SYRqOKjC_SL45pTclmxqYIl0_a7Sdv_c1gYD3YKDm47bv7NXxVn0KRGdoOJ1Tu6D2YheeZp_f3a7NXdetlF_lc5aY1CnBx3O_Dw1feWTUO9s4z20_CiXmHrTPyHUyXTUQ8mXM_NhJ2fesO1k6A4Yv7rKJgpPXdAt4hAgLVh7bsS9tkBT23n1xGxgLerPsQN5Oys1jjOE4IwxYg76omStpXB7u4Gh3kMhZ9hHm3BJd3UnU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Big Data Engineer III (60641)",
+      "company_name": "AAA Northeast",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree Computer science, Information Technology, Engineering, or a related field",
+            "6-8 years of additional relevant experience required",
+            "Master's Degree Computer science, Information Technology, Engineering, or a related field or 5+ YOE of direct experience",
+            "5+ years Experience in data engineering or a related field required",
+            "Licenses and Certifications",
+            "While not required, there are a variety of certifications that prove skillset (Big data certs, Azure cloud certs, Snowflake certs)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "During this time, new team members will learn our systems and processes while building relationships with colleagues",
+            "We also expect team members to be onsite a few times per year for team building and key project kickoffs",
+            "Big Data Engineer III is responsible for designing, developing, and maintaining large-scale data processing systems",
+            "This role includes building and optimizing data pipelines and ETL processes, designing and maintaining data models and architectures, and conducting performance tuning and optimization of data processing systems",
+            "Collaboration with data scientists and analysts is essential to deliver actionable insights",
+            "Data Engineering: Architect and optimize ETL processes for complex data requirements",
+            "Design advanced data models to support sophisticated data processing needs",
+            "Design and manage robust, scalable data pipelines",
+            "Database Management: Oversee the management and optimization of databases",
+            "Utilize advanced SQL techniques for complex data operations",
+            "Oversee the implementation and management of NoSQL databases",
+            "Architect and manage data warehousing solutions",
+            "Big Data and Cloud Technologies: Lead the implementation and optimization of big data technologies",
+            "Manage and optimize distributed computing resources for large-scale data processing",
+            "Build, maintain, and manage data pipelines using cloud technologies, Snowflake, Fivetran, DBT, Airflow",
+            "Utilize cloud platforms for scalable data processing and storage",
+            "DevOps and Security: Apply DevOps practices to automate and streamline data engineering workflows",
+            "Implement containerization solutions for data processing jobs",
+            "Implement data security measures to protect sensitive information",
+            "Optimize the performance of data processing and storage systems",
+            "Leadership: Mentor and guide junior engineers, fostering a collaborative and innovative work environment"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=mo0ka_TVHBHyed2_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMOw6CQBAA0NhyBKsp1SiLBii0wk8MFvRWZMDJ7hrcITtT4EG8r9q88iWfWZIfvYUzKsIlWB-IItR1DYsyK_PtEjZw4w6EMPYOOMCV2Q40PzjVUfbGiAypFUX1fdrzy3Cgjifz5E7-tOIw0jigUrsrsikdg11BVVXQcFRHKAr-t2J8UICT1_camvsXqDIrIpgAAAA&shmds=v1_Ac3VAowJ9k-9vdLadMdmEzfz6haXm06PJSVirYgJ5K24OxWIUQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=mo0ka_TVHBHyed2_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a494b95962a11db236e/images/mOo9qcq2p06m-hlphGmmvscZ2wwfOSUiNKOHWxGkM6I.jpeg",
+      "extensions": [
+        "1 month ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/big-data-engineer-iii-60641-at-aaa-northeast-4469778954",
+      "job_title": "Big Data Engineer III (60641)",
+      "description": "This is a remote role that begins with an in-person onboarding experience at our corporate office in Providence, RI to establish strong connections and set the foundation for success. During this time, new team members will learn our systems and processes while building relationships with colleagues. We also expect team members to be onsite a few times per year for team building and key project kickoffs. Travel expenses are fully covered by AAA Northeast.\n\nAt AAA Northeast, how we work together matters. We are a highly collaborative organization that values connection, transparency, and trust. Our “cameras on” approach during virtual meetings reflects our expectation that team members are present, engaged, and actively participating, helping to build strong working relationships and a sense of shared accountability, no matter where we’re located.\n\nBig Data Engineer III is responsible for designing, developing, and maintaining large-scale data processing systems. This role includes building and optimizing data pipelines and ETL processes, designing and maintaining data models and architectures, and conducting performance tuning and optimization of data processing systems. Collaboration with data scientists and analysts is essential to deliver actionable insights.\n\nWhat You Will Do\n\n\n\nData Engineering: Architect and optimize ETL processes for complex data requirements. Design advanced data models to support sophisticated data processing needs. Design and manage robust, scalable data pipelines.Database Management: Oversee the management and optimization of databases. Utilize advanced SQL techniques for complex data operations. Oversee the implementation and management of NoSQL databases. Architect and manage data warehousing solutions.Big Data and Cloud Technologies: Lead the implementation and optimization of big data technologies. Manage and optimize distributed computing resources for large-scale data processing. Build, maintain, and manage data pipelines using cloud technologies, Snowflake, Fivetran, DBT, Airflow. Utilize cloud platforms for scalable data processing and storage.DevOps and Security: Apply DevOps practices to automate and streamline data engineering workflows. Implement containerization solutions for data processing jobs. Implement data security measures to protect sensitive information. Optimize the performance of data processing and storage systems.Leadership: Mentor and guide junior engineers, fostering a collaborative and innovative work environment.\n\nQualifications\n\nEducation\n\nBachelor's Degree Computer science, Information Technology, Engineering, or a related field. required or6-8 years of additional relevant experience requiredMaster's Degree Computer science, Information Technology, Engineering, or a related field or 5+ YOE of direct experience. preferred\n\nExperience\n\n5+ years Experience in data engineering or a related field required\n\nLicenses and Certifications\n\nWhile not required, there are a variety of certifications that prove skillset (Big data certs, Azure cloud certs, Snowflake certs)\n\nAAA Northeast is proud of our diverse culture, fostered by the many talents, skills, passions, and expertise of our employees. We are an equal opportunity employer. We do not discriminate in recruiting, hiring, or promotion based on race, color, creed or religion, national origin, sex, age, sexual orientation, veteran’s status, gender identity or expression, disability, genetic information, marital status, pregnancy, or membership in any other protected class. We thrive when our team members bring their whole selves to work.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/big-data-engineer-iii-60641-at-aaa-northeast-4469778954?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/big-data-engineer-iii-60641--village-of-garden-city--e63f405ec13ebad8a3eb3d83604c60e3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/1668564284122071040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBFbmdpbmVlciBJSUkgKDYwNjQxKSIsImNvbXBhbnlfbmFtZSI6IkFBQSBOb3J0aGVhc3QiLCJodGlkb2NpZCI6Im1vMGthX1RWSEJIeWVkMl9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZWFZEYjJaeFVHdEplWGs1TVMxeFkyeG9hSFZpUzNrd05GVTBhVUYyUzFWc2JuVllTMnB3WkhBeE5IaFBUM1JEVjNGMGEwRmZRV0pxZVZSaWIwRlhjMUZuYm1oS1YzaFlielpUT0Y5NVEzTkRYMWxLZEhadWQyaHFjMWd6YzBKM1RFMUZWbXR0WTBOeVluUktWblJDZDNkUVJWQnhaRm96VFVGT1JYUlFXa1U1Ym0xcU1YUVNGMVozY214aGNWZzFURjlUTURWT2IxQTBZVVJzZDBGckdpSkJTRTR3UlRkSGMxWm5UelF3UlZsRGIwc3hSRkE1YWxwR2RGOXZhbXhGWm5GQiIsImZjdiI6IjMiLCJmY19pZCI6Im1vMGthX1RWSEJIeWVkMl9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Big Data Engineer",
+      "company_name": "SAIC",
+      "location": "Honolulu, HI",
+      "via": "SAIC Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "TYPICAL EDUCATION AND EXPERIENCE: Bachelors and nine (9) years or more experience; Masters and seven (7) years or more experience ; PhD or JD and four (4) years or more experience",
+            "U.S. Citizenship and an active TS/SCI clearance",
+            "Bachelor of Science degree in Computer Science, Mathematics, Electrical Engineering, Physics, Information Systems, Information Technology, or related field",
+            "3+ years of experience in data engineering, data operations, or DevOps roles supporting production data pipelines",
+            "Proficiency in Python, Bash, or similar scripting languages commonly used in data science/data analytics applications",
+            "Working knowledge of the Linux (RedHat) command line; familiarity with Windows environments",
+            "Solid understanding of data engineering fundamentals: data pipelines, streaming architectures, ETL/ELT concepts, and data quality principles",
+            "Familiarity with JSON, XML, CSV, and Excel data formats, parsing, and transformation"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Target salary range: $120,001 - $160,000",
+            "The estimate displayed represents the typical salary range for this position based on experience and other factors"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be responsible for the reliable flow of streaming data from a wide range of sources into our data platform, ensuring data quality, observability, and scalability",
+            "You'll partner closely with data engineers, platform engineers, analytics teams, and security/governance personnel to deliver trustworthy, low-latency data that supports operational decisions — while ensuring compliance with cross-domain and data classification requirements",
+            "Aid the team in delivering continual data feeds to users and monitoring the health of data quality and overall data ingest",
+            "Design, build, and maintain resilient real-time/near-realtime ingestion pipelines using Apache NiFi and REST APIs, with appropriate backpressure, prioritization, retries, and error-handling strategies",
+            "Configure and monitor data flows moving across security domains via cross domain guards/solutions, ensuring data integrity and compliance with transfer policies",
+            "Parse, transform, validate, and route structured and unstructured data in a variety of formats, including Excel, CSV, JSON, and XML",
+            "Employ data manipulation and visualization tools (e.g., Grafana, Prometheus) to effectively convey pipeline status, data quality, and historical trends to leadership, users, and the data team",
+            "Collaborate with platform, software, and other data engineers to (re)configure and continuously improve data ingestion pipeline reliability",
+            "Develop and maintain software/scripts to automate monitoring of real-time feeds and alert on timeliness, volume, lineage, and distribution data issues",
+            "Translate learnings from historical pipeline data into actionable steps to improve data ingest reliability and performance",
+            "Partner with security and governance teams to enforce encryption, authentication, authorization, and data classification requirements across pipelines and cross-domain transfers",
+            "Write and maintain scripts (Python, Bash, or similar) to automate data processing, validation, and monitoring tasks",
+            "Document data flows, system configurations, and standard operating procedures"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=4ObbMxcBn0ZqwlqzAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAA4L2zk9ONIpqI4KKTf9i6-gDlEo4kEu9CLoUuvrv4DV_37VaXFOCGDeHOITFRhS08xYESVh9BGB4iIdPyFFsrerRWNZugDVvyxsvHCpOT2b7F6b9RI1YqGRuN-8NuNoXDevE6D1dIDL2w5ClPG-iHHwrmbK5_AAAA&shmds=v1_Ac3VAoy7LWZfBM2lF5zVAkyfOtjwV_SEsyz6UG7kkmUQAQZV4g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=4ObbMxcBn0ZqwlqzAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a494b95962a11db236e/images/MadqEhf6ccMIzNGSnkGzYUMwNNJMReYXQTWlOvJ4HVU.jpeg",
+      "extensions": [
+        "17 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://jobs.saic.com/jobs/18357499-big-data-engineer",
+      "job_title": "Big Data Engineer",
+      "description": "Description \n\n \nWe are seeking a Big Data Engineer to design, build, and maintain real-time and near-realtime data ingestion pipelines supporting a mission-critical system and moves data across security domains using cross domain solutions (CDS) / guards. You will be responsible for the reliable flow of streaming data from a wide range of sources into our data platform, ensuring data quality, observability, and scalability.\n\nYou'll partner closely with data engineers, platform engineers, analytics teams, and security/governance personnel to deliver trustworthy, low-latency data that supports operational decisions — while ensuring compliance with cross-domain and data classification requirements. This position is on-site in Honolulu, HI.\n\nKey Responsibilities\n\nAid the team in delivering continual data feeds to users and monitoring the health of data quality and overall data ingest.Design, build, and maintain resilient real-time/near-realtime ingestion pipelines using Apache NiFi and REST APIs, with appropriate backpressure, prioritization, retries, and error-handling strategies.Configure and monitor data flows moving across security domains via cross domain guards/solutions, ensuring data integrity and compliance with transfer policies.Parse, transform, validate, and route structured and unstructured data in a variety of formats, including Excel, CSV, JSON, and XML.Employ data manipulation and visualization tools (e.g., Grafana, Prometheus) to effectively convey pipeline status, data quality, and historical trends to leadership, users, and the data team.Collaborate with platform, software, and other data engineers to (re)configure and continuously improve data ingestion pipeline reliability.Develop and maintain software/scripts to automate monitoring of real-time feeds and alert on timeliness, volume, lineage, and distribution data issues.Translate learnings from historical pipeline data into actionable steps to improve data ingest reliability and performance.Partner with security and governance teams to enforce encryption, authentication, authorization, and data classification requirements across pipelines and cross-domain transfers.Write and maintain scripts (Python, Bash, or similar) to automate data processing, validation, and monitoring tasks.Document data flows, system configurations, and standard operating procedures.\t\t \n\n \n\t\tQualifications \n\n \nTYPICAL EDUCATION AND EXPERIENCE: Bachelors and nine (9) years or more experience; Masters and seven (7) years or more experience ; PhD or JD and four (4) years or more experience.U.S. Citizenship and an active TS/SCI clearance.Bachelor of Science degree in Computer Science, Mathematics, Electrical Engineering, Physics, Information Systems, Information Technology, or related field.3+ years of experience in data engineering, data operations, or DevOps roles supporting production data pipelines.Proficiency in Python, Bash, or similar scripting languages commonly used in data science/data analytics applications.Working knowledge of the Linux (RedHat) command line; familiarity with Windows environments.Solid understanding of data engineering fundamentals: data pipelines, streaming architectures, ETL/ELT concepts, and data quality principles.Familiarity with JSON, XML, CSV, and Excel data formats, parsing, and transformation.Preferred Qualifications (Nice to Have)\n\nExperience with streaming/messaging platforms and tools: Kafka, JMS, Apache Flink/Spark Streaming.Experience with monitoring/observability tools: Grafana, Prometheus, Elasticsearch.Experience with data platforms such as Snowflake.Familiarity with cross domain solutions/guards (e.g., data diode concepts, transfer validation, content filtering).Experience enforcing encryption, authentication/authorization, and data classification policies in partnership with security/governance teams.Experience with version control tools (e.g., Git) and Agile/Scrum practices.Prior experience in a government, defense, or intelligence community environment.\t\t \n\n Target salary range: $120,001 - $160,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.",
+      "apply_options": [
+        {
+          "title": "SAIC Careers",
+          "link": "https://jobs.saic.com/jobs/18357499-big-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=d38f37d6af0de0ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cloud Sign In",
+          "link": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/2617910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/big-data-engineer-honolulu-cymertek-95ac058a04be624ff127ff7be00124d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-engineer-honolulu-hi--af8322db-6807-4a8b-b343-67455258d2fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ClearedJobs.Net",
+          "link": "https://clearedjobs.net/job/data-engineer-honolulu-hawaii-1932913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/KBR/Job/Data-Engineer-with-Security-Clearance/-in-Honolulu,HI?jid=f3ffbedb5d1b0dc8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/bLs1dlHakzjXrK4dL9e-_I6Z3irw7c4z5d_JpQahGktbbAfGzlh7XQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlNBSUMiLCJodGlkb2NpZCI6IjRPYmJNeGNCbjBacXdscXpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVGRJTm14b2JEWldkVTVVUTI1eE5HbHpaRWhhVkZCNVFVUnNXbFJwYjNkSlNUaE5TVVZ2T0ZGTk5sVktXR2QzUW5KZlNWRlNibEV6YkZSaVFrdHlZMlp1U2tORFIxVkZlbDl4T1RaWlJFNW1aMEZST0ZkTE9EUjBVWGRIZEdoMkxVUkdiWHBHWm1GQmFHWldXRnByVEhORkxYSlpaMnhUY1hsVk9XZFFkM1JwUmtaQ1UxQVNGMVozY214aGNWZzFURjlUTURWT2IxQTBZVVJzZDBGckdpSkJTRTR3UlRkSVRVMXBiMUJSWDNkc2VsTklka0ZLVmxKaVRVbEtNbWhYU1VKbiIsImZjdiI6IjMiLCJmY19pZCI6IjRPYmJNeGNCbjBacXdscXpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Big Data Engineer",
+      "company_name": "RitePros",
+      "location": "Portland, ME",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Big Data Engineer with Bachelor Degree in Computer Science, Computer Information Systems, Information Technology, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects",
+            "Work experience / Technologies required for the position:",
+            "At least 5+ years of experience in building and optimizing Big Data, Data pipelines, architectures and data sets",
+            "Experience in performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement",
+            "Strong analytic skills related to working with unstructured datasets",
+            "Build processes supporting data transformation, data structures, meta data, dependency and workload management",
+            "A successful history of manipulating, processing and extracting value from large disconnected data sets",
+            "Working knowledge of message queuing, stream processing, and highly scalable Big Data, data stores",
+            "Experience in supporting and working with cross-functional teams in a dynamic environment",
+            "Experience with big data tools: Hadoop, Spark, Kafka, etc",
+            "Experience with relational SQL and NoSQL databases, including AzureSQL and Snowflake",
+            "Experience with Azure cloud services: ADLS, AzureSynapse, Azure Databricks, Delta Lake",
+            "Experience with stream-processing systems: Storm, Spark-Streaming, etc",
+            "Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc",
+            "Work location is Portland, ME with required travel to client locations throughout USA"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Collaborate with System Architects to design, develop, test, and implement efficient Snowflake data models aligned with enterprise data warehousing standards",
+            "Build and manage cloud and hybrid integrations using third-party ETL tools like Azure Data Factory for seamless Snowflake data pipelines",
+            "Maintain CI/CD pipelines in GitHub and Azure DevOps to ensure code quality, version control, and automated deployment for Snowflake solutions",
+            "Conduct SQL performance analysis, query optimization, and database tuning to improve efficiency and scalability in Snowflake models",
+            "Develop robust, scalable Snowflake integrations and data models following industry best practices",
+            "Perform root cause analysis on data model issues and resolve performance bottlenecks to maintain reliable Snowflake systems",
+            "Engage with customers and architects to refine requirements and communicate effectively for business alignment",
+            "Apply strong time management to prioritize concurrent tasks and deliver Snowflake projects promptly",
+            "Use analytical and problem-solving skills to address complex warehouse challenges within the Snowflake ecosystem"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=jg2hs4MyES28WT22AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvC8Qpo4i2IrjoJh6CIBz-wJHW0KvUpDQZbvXPxTe87rvo1pec4IqG0HPKTNRgB3cJoIQtTiAMN5FUaHWezKqevFctLqmh5eiifLwwBZn9W4L-G3XCRrWg0Xg47mdXOW2Wz2w0NFHIDIM0K8ivLTz6H1TmwzmEAAAA&shmds=v1_Ac3VAowiJRrIaBSOugkdQ8Iu3dbljZENngZPD57xPa614x1N5Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=jg2hs4MyES28WT22AAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=0227bae85263e0ce",
+      "job_title": "Big Data Engineer",
+      "description": "Big Data Engineer with Bachelor Degree in Computer Science, Computer Information Systems, Information Technology, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects.\n\n\n \n \n  Job Duties and Responsibilities:\n\n\n  \n   Collaborate with System Architects to design, develop, test, and implement efficient Snowflake data models aligned with enterprise data warehousing standards.\n   Build and manage cloud and hybrid integrations using third-party ETL tools like Azure Data Factory for seamless Snowflake data pipelines.\n   Maintain CI/CD pipelines in GitHub and Azure DevOps to ensure code quality, version control, and automated deployment for Snowflake solutions.\n   Conduct SQL performance analysis, query optimization, and database tuning to improve efficiency and scalability in Snowflake models.\n   Develop robust, scalable Snowflake integrations and data models following industry best practices.\n   Perform root cause analysis on data model issues and resolve performance bottlenecks to maintain reliable Snowflake systems.\n   Engage with customers and architects to refine requirements and communicate effectively for business alignment.\n   Apply strong time management to prioritize concurrent tasks and deliver Snowflake projects promptly.\n   Use analytical and problem-solving skills to address complex warehouse challenges within the Snowflake ecosystem.\n  \n \n \n  Work experience / Technologies required for the position:\n\n\n  \n   At least 5+ years of experience in building and optimizing Big Data, Data pipelines, architectures and data sets.\n   Experience in performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.\n   Strong analytic skills related to working with unstructured datasets.\n   Build processes supporting data transformation, data structures, meta data, dependency and workload management.\n   A successful history of manipulating, processing and extracting value from large disconnected data sets.\n   Working knowledge of message queuing, stream processing, and highly scalable Big Data, data stores.\n   Experience in supporting and working with cross-functional teams in a dynamic environment.\n   Experience with big data tools: Hadoop, Spark, Kafka, etc.\n   Experience with relational SQL and NoSQL databases, including AzureSQL and Snowflake.\n   Experience with Azure cloud services: ADLS, AzureSynapse, Azure Databricks, Delta Lake\n   Experience with stream-processing systems: Storm, Spark-Streaming, etc.\n   Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.\n  \n \n Work location is Portland, ME with required travel to client locations throughout USA. \n\n\n   Rite Pros is an equal opportunity employer (EOE). \n\nPlease Mail Resumes to: \n\n   Rite Pros, Inc. \n\n   565 Congress St, Suite # 305 \n\n   Portland, ME 04101.\n\n\n Email: resumes@ritepros.com",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=0227bae85263e0ce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/synergisticit/data-engineer-entry-level-27953459/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_75DFC4E875D067ECD38AE33613D41C9E?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/43fbbf80-98af-4594-8d4a-ccf37608e1e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/6068578577442406400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-engineer-entry-level-synergisticit-portland--ss-us-1i2a28d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-me-portland-data-engineer-entry-level-synergisticit-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlJpdGVQcm9zIiwiaHRpZG9jaWQiOiJqZzJoczRNeUVTMjhXVDIyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VoblVGcEtZMXBVZWxNd2QwbFNUVEZzY0U1V1owb3lhRUpDTjFSMVRVTnphVXhDWmtSbWJUQmFjRVp3VjBoRlVrbENZVEZqU0dSS1h6Sm5hak5UVVZJMVlXSkVVMGhCTVhNd2JsVnJXRUpQVFRKcGVHc3pjRlpxUzFZeFRHdzBNVGRQUWpVM1JXNDJlRzFHVGw5TVVrdDBWRkZNWmtOaWFUWkZaWGxDVjI1VlVFSlhXVWdTRjFaM2NteGhjVmcxVEY5VE1EVk9iMUEwWVVSc2QwRnJHaUpCU0U0d1JUZEhNa05WUVZCeWFVWTFjbEF5UkRWRk9XbE5WWFp2WjNnM1dHMTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJqZzJoczRNeUVTMjhXVDIyQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Big Data Operations Engineer (002482)",
+      "company_name": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "via": "Wells Fargo",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Degree required: Bachelor's degree in Electronic Engineering, or related technical field",
+            "Amount and type of experience required: 4 years of experience in the job offered or in a related position involving software engineering experience",
+            "4 years of hands-on experience in Hadoop;",
+            "4 years of experience with MongoDB;",
+            "3 years of experience with Python or Unix/Shell scripting or Spark;",
+            "3 years of experience with Autosys;",
+            "2 years of experience with Dremio;",
+            "2 years of experience in setting up monitoring dashboards through Grafana or Prometheus;",
+            "1 year of experience with Kubernetes; and",
+            "1 year of experience with Azure or GCP",
+            "Third-Party recordings are prohibited unless authorized by Wells Fargo",
+            "Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Telecommuting is permitted up to 2 days a week"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will lead moderately complex initiatives and deliverables within technical domain environments",
+            "Contribute to large scale planning of strategies",
+            "Design, code, test, debug, and document for projects and programs associated with technology domain, including upgrades and deployments",
+            "Review moderately complex technical challenges that require an in-depth evaluation of technologies and procedures",
+            "Resolve moderately complex issues and lead a team to meet existing client needs or potential new clients' needs while leveraging solid understanding of the function, policies, procedures, or compliance requirements",
+            "Collaborate and consult with peers, colleagues, and mid-level managers to resolve technical challenges and achieve goals",
+            "Lead projects and act as an escalation point, provide guidance and direction to less experienced staff",
+            "Support the application tenant teams for setting up their respective queues (compute), storage and help with bringing their data and help processing the same through Jobs",
+            "Help with any issues with process or services and provide end-to-end support on same in Big data environment",
+            "Help support migration activities while RDS plan to move out from current infrastructure to new data centers - align to strategies and help design and migrate tenant teams within specified timelines along with supporting legacy environments",
+            "Position must appear in person to the location listed as the work address",
+            "Travel required: 0%"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=PGlTw_N3xvRIJD15AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLvwrCMBCAcVz7COJwo4o2pSiIbtY_4KCDg2NJypFG4l3I3dDH8VGtyzf9vuI7KZonUuAMx-DhZNXCI2G2GpgEzuQDIWaYV1W92dULWMONHQja3PXABFdmH3F66FWT7I0RiaUXHf-u7PhjmNDxYN7s5J9WepsxRavY1ttqKBP55eyFMQpcbPYMgaAZTWRVXMG9-QHUoGP9owAAAA&shmds=v1_Ac3VAowmWDUGyI9lrizPlQ9IDbWRSFpjqEK9whwyQIc1o1WG2Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=PGlTw_N3xvRIJD15AAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.wellsfargojobs.com/fr-ca/jobs/r-582781/senior-big-data-operations-engineer-002482/",
+      "job_title": "Senior Big Data Operations Engineer (002482)",
+      "description": "At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do.\n\nHelp us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.\n\nWells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.\n\nWells Fargo Bank N.A. seeks a Senior Big Data Operations Engineer in Charlotte, NC.\n\nJob Role and Responsibility:\n\nWells Fargo is seeking a Senior Big Data Operations Engineer to support Risk Data Services (RDS). RDS is a multi-tenant big data platform that will provide consistent and integrated data to support Risk Management, Monitoring and reporting for various risk stripes (Credit, Market, Liquidity, Interest Rate, Model, Compliance, Operational, Strategic and Reputation Risk). RDS is a big data platform that is hosted on premises by Hortonworks that offers compute (Spark & Hive), storage (HDFS), tools and capabilities for tenants to build and manage their data assets. In this role, you will lead moderately complex initiatives and deliverables within technical domain environments. Contribute to large scale planning of strategies. Design, code, test, debug, and document for projects and programs associated with technology domain, including upgrades and deployments. Review moderately complex technical challenges that require an in-depth evaluation of technologies and procedures. Resolve moderately complex issues and lead a team to meet existing client needs or potential new clients' needs while leveraging solid understanding of the function, policies, procedures, or compliance requirements. Collaborate and consult with peers, colleagues, and mid-level managers to resolve technical challenges and achieve goals. Lead projects and act as an escalation point, provide guidance and direction to less experienced staff. Support the application tenant teams for setting up their respective queues (compute), storage and help with bringing their data and help processing the same through Jobs. Help with any issues with process or services and provide end-to-end support on same in Big data environment. Help support migration activities while RDS plan to move out from current infrastructure to new data centers - align to strategies and help design and migrate tenant teams within specified timelines along with supporting legacy environments. Telecommuting is permitted up to 2 days a week. Position must appear in person to the location listed as the work address.\n\nTravel required:  0%\n\nRequired Qualifications:\n\n \n\nDegree required: Bachelor's degree in Electronic Engineering, or related technical field.\n\n \n\nAmount and type of experience required: 4 years of experience in the job offered or in a related position involving software engineering experience.\n\n \n\nSpecific skills required:\n\n•              4 years of hands-on experience in Hadoop;\n\n•              4 years of experience with MongoDB;\n\n•              3 years of experience with Python or Unix/Shell scripting or Spark;\n\n•              3 years of experience with Autosys;\n\n•              2 years of experience with Dremio;\n\n•              2 years of experience in setting up monitoring dashboards through Grafana or Prometheus;\n\n•              1 year of experience with Kubernetes; and\n\n•              1 year of experience with Azure or GCP.\n\nPosting End Date:\n\n4 Nov 2026\n\n*Job posting may come down early due to volume of applicants.\n\nWe Value Equal Opportunity\n\nWells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.\n\nEmployees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.\n\nCandidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process.\n\nApplicants with Disabilities\n\nTo request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.\n\nDrug and Alcohol Policy\n\n \n\nWells Fargo maintains a drug free workplace.  Please see our Drug and Alcohol Policy to learn more.\n\nWells Fargo Recruitment and Hiring Requirements:\n\na. Third-Party recordings are prohibited unless authorized by Wells Fargo.\n\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
+      "apply_options": [
+        {
+          "title": "Wells Fargo",
+          "link": "https://www.wellsfargojobs.com/fr-ca/jobs/r-582781/senior-big-data-operations-engineer-002482/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=f4ac4605d17187c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-big-data-operations-engineer-002482-charlotte-nc--3fbecd8a-57cb-4736-926e-e98b23cb2902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/senior-big-data-operations-engineer-002482/11784269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-big-data-operations-engineer_7ea1aa3f6866759615e285417a61bd729a663?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/senior-big-data-operations-engineer-002482-wells-fargo-charlotte-xnfyg4tqmvne0rqg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hire Heroes USA Job Board",
+          "link": "https://jobs.hireheroesusa.org/jobs/628697930-senior-big-data-operations-engineer-002482-at-wells-fargo-bank?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ALPFA Job Board",
+          "link": "https://jobs.alpfa.org/job/senior-big-data-operations-engineer-002482/86575256/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmlnIERhdGEgT3BlcmF0aW9ucyBFbmdpbmVlciAoMDAyNDgyKSIsImNvbXBhbnlfbmFtZSI6IldlbGxzIEZhcmdvIiwiaHRpZG9jaWQiOiJQR2xUd19OM3h2UklKRDE1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2sxUmJXUnBaMWd3ZW14VExVcFhUalZFUVZsRU5tUXlhMGhaTkZFdFRrOXJSaTFITXpneGNXVmFaMFV4UkUxMlNuZGtRbDlJVjA1RlRUQmxVSE52ZURGVU9WSlhUbFU1TjNwYVEyUlNVbk0zTFRWamFWUXhTRTFVVHpVMk5XSjZYekpZUjB0VE0xSnROSFEyYTJocFZtcDRhVWhIWkUxVWRGcEtWRFYyV1hoUVdYSkNRVXdTRjFaM2NteGhjVmcxVEY5VE1EVk9iMUEwWVVSc2QwRnJHaUpCU0U0d1JUZEdVVEZaTjBFM1psTlpObVo0VW1sR1FtVlBjak5STkZKVVNuWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJQR2xUd19OM3h2UklKRDE1QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Principal Engineer, Big Data Platform",
+      "company_name": "Pinterest",
+      "location": "Anywhere",
+      "via": "Pinterest Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "12+ years of industry experience with a proven track record of technical excellence",
+            "8+ years of experience of building and support large scalable Kubernetes or big data platform",
+            "Deep knowledge of big data / ML technologies (e.g. Flink, Spark, Presto, Kubernetes, Ray, PyTorch/TensorFlow)",
+            "Proficiency in one or more programming languages (Java, Go, Scala, Python)",
+            "Experiences in Kubernetes and AWS technologies",
+            "Exceptional collaboration skills with cross-functional partners, with the ability to navigate ambiguity, make tradeoffs, and keep stakeholders aligned on priorities and progress",
+            "Bachelor’s degree in Computer Science, a related technical field, or equivalent experience"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In an effort to provide greater transparency, we are sharing the base salary range for this position",
+            "The position is also eligible for equity",
+            "Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise",
+            "$242,634—$499,541 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You’ll be working on some of the most exciting big data and AI open source technologies (Flink, Spark, Kubernetes, etc.), at the scale of exabytes of data to help Pinners discover and do what they love",
+            "Lead the strategy and technical direction of Pinterest’s data infrastructure for big data and AI applications",
+            "Build and scale data infra frameworks and infrastructure to process petabytes-scale datasets, including compute engines, job management, resource management, scheduling and remote shuffling",
+            "Work with internal customers on critical business use cases that rely on big data",
+            "Provide thought leadership to the entire company on how data should be processed and stored more reliably, quickly and efficiently at scale",
+            "Contribute to the team’s technical vision and long-term roadmap",
+            "We let the type of work you do guide the collaboration style",
+            "This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=cDEiiyVETUHZ2Tf1AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOPQrCQBBAYWxzBAuZWmJWBBu18R-sAh4gTJZxs7KZWXam8C5e1ti88uNV31l1aEtkHzMmuHKITFRqOMUAFzSENqG9pIywgof0oITFDyAMd5GQaL4fzLLunFNNTVBDi77xMjph6uXj3tLrP50OWChPGnWb7frTZA7LRRvZqJAaRIYnMtwKTi_qpYbz8Qd-wfTgngAAAA&shmds=v1_Ac3VAoxGvZ3aFX0YG0g9bVcS-7o5-97se7UD1z8Z0iTfU4QI9A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=cDEiiyVETUHZ2Tf1AAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.pinterestcareers.com/jobs/7683981/principal-engineer-big-data-platform/",
+      "job_title": "Principal Engineer, Big Data Platform",
+      "description": "About Pinterest:\n\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nWe’re looking for a principal software engineer to lead the next generation of data infrastructure at Pinterest which powers mission critical big data and AI applications. You’ll be working on some of the most exciting big data and AI open source technologies (Flink, Spark, Kubernetes, etc.), at the scale of exabytes of data to help Pinners discover and do what they love.\n\n What you’ll do:\n\n  Lead the strategy and technical direction of Pinterest’s data infrastructure for big data and AI applications Build and scale data infra frameworks and infrastructure to process petabytes-scale datasets, including compute engines, job management, resource management, scheduling and remote shuffling Work with internal customers on critical business use cases that rely on big data  Provide thought leadership to the entire company on how data should be processed and stored more reliably, quickly and efficiently at scale Contribute to the team’s technical vision and long-term roadmap  What we’re looking for:\n\n  12+ years of industry experience with a proven track record of technical excellence 8+ years of experience of building and support large scalable Kubernetes or big data platform Deep knowledge of big data / ML technologies (e.g. Flink, Spark, Presto, Kubernetes, Ray, PyTorch/TensorFlow) Proficiency in one or more programming languages (Java, Go, Scala, Python) Experiences in Kubernetes and AWS technologies Exceptional collaboration skills with cross-functional partners, with the ability to navigate ambiguity, make tradeoffs, and keep stakeholders aligned on priorities and progress. Bachelor’s degree in Computer Science, a related technical field, or equivalent experience.\n\n  In-Office Requirement Statement:\n\n  We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection. This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.   Relocation Statement:\n\n  This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.  #LI-REMOTE\n\n #LI-CL5\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\n Information regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only$242,634—$499,541 USDOur Commitment to Inclusion:\n\n Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.   By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.",
+      "apply_options": [
+        {
+          "title": "Pinterest Careers",
+          "link": "https://www.pinterestcareers.com/jobs/7683981/principal-engineer-big-data-platform/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Gem",
+          "link": "https://jobs.gem.com/retool/am9icG9zdDrWsqKmo7GEKkxG6frVxgV7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "UW Career & Internship Center - University Of Washington",
+          "link": "https://careers.uw.edu/jobs/autodesk-senior-principal-engineer-ai-ml-platform/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career Development Office Pomona College",
+          "link": "https://cdo.pomona.edu/jobs/autodesk-senior-principal-engineer-ai-ml-platform/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Principal-Engineer--Platform-Services_26WD101134?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=045a6dd625e58845&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In Los Angeles",
+          "link": "https://www.builtinla.com/job/principal-ui-engineer-design-developer-tools/11668723?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/8a5c82e0-fc39-440d-ae71-0495cb95c034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgRW5naW5lZXIsIEJpZyBEYXRhIFBsYXRmb3JtIiwiY29tcGFueV9uYW1lIjoiUGludGVyZXN0IiwiaHRpZG9jaWQiOiJjREVpaXlWRVRVSFoyVGYxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVd0RWEwaExObXc0Y0dzd01TMUNXbUZVVlV4elJWUnFabm8yYUdnNWJuUkRRbTVZYkVORFFVODJjbkJMYkcxWVFqaFhNa1ZuVDE4NE1qbFRYMnR1VTFaYVUxUTRlVGMyTmxWVmJFVmFTbEZGYVcxTGIzY3RjM1E0ZUZvek5rTmxOM0Y1ZDNGNlVGUlJXRXBpWkhaSFNtTTRka2w2UjNBMk4yRlBTMUpHYzFWTGFsVnVkMjhTRjFaM2NteGhjVmcxVEY5VE1EVk9iMUEwWVVSc2QwRnJHaUpCU0U0d1JUZEdMV0ZmWm1FMVdEZEdTa0pXTURkcVpGaENiMUp6YlRaNk4yMVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJjREVpaXlWRVRVSFoyVGYxQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Big Data Engineer",
+      "company_name": "Publicis Groupe Holdings B.V",
+      "location": "Westminster, CO",
+      "via": "Publicis Groupe Holdings B.V Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of software development experience in a scalable, distributed, or multi-node environment",
+            "Significant experience with Apache Spark and exposure to Hadoop, Hive, and related big data technologies",
+            "Exposure to modern data tools and frameworks such as Kubernetes, Docker, and MWAA/Airflow",
+            "Strong problem-solving skills with the ability to own problems end-to-end and deliver results",
+            "Consultative mindset — comfortable taking initiative, building relationships, communicating broadly, and tackling challenges head-on",
+            "Collaborative team player with an eagerness to learn from peers and mentors while contributing to a culture of growth",
+            "BA/BS in Computer Science or related discipline",
+            "At least 5 years of experience as a big data software developer",
+            "Experience in Machine Learning, including model development, feature engineering, or integrating ML workflows into data pipelines"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Motivated to grow your career within a dynamic, innovative company",
+            "Empower with accountability",
+            "Our benefits encompass a wide range of offerings, including but not limited to:",
+            "Time to recharge: Flexible time off (FTO), 14 paid holidays, paid sick time",
+            "Family well-being: Parental/new child leave, childcare & elder care assistance, adoption assistance",
+            "Extra perks: Comprehensive health coverage, 401(k), tuition assistance, commuter benefits, professional development, employee recognition, charitable donation matching, health coaching and counseling",
+            "Epsilon benefits are subject to eligibility requirements and other terms",
+            "Compensation Range: USD $88,900.00 - USD $165,100.00/Annually",
+            "This is the pay range the Company believes it will pay for this position at the time of this posting",
+            "For regular roles, the Company will offer medical coverage, dental, vision, disability, 401k, and paid time off"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a member of the Epsilon Data Team, you will work in a group that is not only focused on their project work but also their efficiency, compliance, standards, situational awareness, and readiness",
+            "You’ll be a critical part of a fast-moving, innovative team where you’ll work independently in some situations as well as working with a greater team in tasks that require full collaboration",
+            "Design, develop, and maintain scalable data processing solutions across on-premises and cloud environments using Python and Apache Spark on Databricks",
+            "Optimize and fine-tune Spark jobs for performance, including resource utilization, shuffling, partitioning, and caching, to ensure maximum efficiency in large-scale big data environments",
+            "Design and implement scalable, fault-tolerant data pipelines with end-to-end monitoring, alerting, and logging",
+            "Leverage AWS cloud services (2+ years preferred) to build and manage data pipelines and distributed processing workloads",
+            "Develop and optimize SQL queries across relational and data warehouse systems (RDBMS/Data Warehouse)",
+            "Apply design patterns and best practices for efficient data modeling, partitioning, and distributed system performance",
+            "Use Git (or equivalent) for source control and maintain strong unit and integration testing practices",
+            "Collaborate with Product Owners, partners, and cross-functional teams to translate business requirements into technical solutions",
+            "Demonstrate strong analytical skills with the ability to extract actionable insights from large datasets and support data-driven decision-making",
+            "Mentor junior engineers, conduct code reviews, and contribute to establishing engineering best practices and standards"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=uPm68UPaZjB6ruSVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz9BKebRRMRXHSrSsVFQdCxJPFIT9K7kEuhf-Ovim948-9sbh_IJAUainBy1cGZIzFigTVcxYOiK6EHYWhFYsLFoa81695a1WSiVlcpmCCDFUYvk_2I13-d9q5gTq5it91tJpM5Lu199IkCKbRFxoxwkfQmjgqNeQIxvFDrQKwVywqOtx9i9VvcogAAAA&shmds=v1_Ac3VAow0cA1G8v-pk1_tIT3_WHY-cmtAv34pUVWwLCUoeOgUew&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=uPm68UPaZjB6ruSVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIABgAOAMBIgACEQEDEQH_xAAbAAEAAgIDAAAAAAAAAAAAAAAABAUCBgEDB__EACkQAAEDAgUEAQUBAAAAAAAAAAECAxEAIQQFEjFBIjJRYRNSgaGx4RT_xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID_8QAGhEBAQEBAAMAAAAAAAAAAAAAABEBAgMhMf_aAAwDAQACEQMRAD8A9xpSlARsdiRhWtZIB3ukm3O1VLL2IUyHEPJlKVQmSSAb7_q9WeZ4X_UwE9RIUICY8-xWtpy95DxZbQ4JVqUnVAUq838iKw8m9Zq-ZGz4HEjEs6pBVyANqk1DyrDHDYRKVAgm8fzg1Mrbmz2nfpSlKZK1jNdbTa3sOpouplAJ7u2wkAz1eODXGFzht8j5EBoFQAUV2uCYPvp29ilKmrzMZt5mFrj4o7ekq67wZ0_TeJ8ijGYpewz7xauxcpCtXHnafMTFc0opR1JzjV8ZQwpxKiQpTckAyRa19uYniSayRmyCklSB2qKdCwoKIAISDyozt6pSinMYjNl6mwrDaA4vSlS1lIj7jf8AHulKUUo__9k.jpeg",
+      "extensions": [
+        "25 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://careers.publicisgroupe.com/epsilon/jobs/154233?lang=en-us",
+      "job_title": "Senior Big Data Engineer",
+      "description": "Company Description\n\n\n\nSee how Epsilon powers connected marketing by unlocking the full potential of data and identity.\n\n \nOverview\n\nFor this role, we are seeking a qualified Senior Software Engineer to join Epsilon’s Development Team in our Data Practice. In this role with our company, you will be focused on project tasks for Epsilon's TotalSource Plus (TSP) demographic and lifestyle products.\n\n \n\nAs a member of the Epsilon Data Team, you will work in a group that is not only focused on their project work but also their efficiency, compliance, standards, situational awareness, and readiness. You’ll be a critical part of a fast-moving, innovative team where you’ll work independently in some situations as well as working with a greater team in tasks that require full collaboration.\n\n \n\n \nResponsibilities\n\nWhat you’ll do:\n\n• Design, develop, and maintain scalable data processing solutions across on-premises and cloud environments using Python and Apache Spark on Databricks.\n• Optimize and fine-tune Spark jobs for performance, including resource utilization, shuffling, partitioning, and caching, to ensure maximum efficiency in large-scale big data environments.\n• Design and implement scalable, fault-tolerant data pipelines with end-to-end monitoring, alerting, and logging.\n• Leverage AWS cloud services (2+ years preferred) to build and manage data pipelines and distributed processing workloads.\n• Develop and optimize SQL queries across relational and data warehouse systems (RDBMS/Data Warehouse).\n• Apply design patterns and best practices for efficient data modeling, partitioning, and distributed system performance.\n• Use Git (or equivalent) for source control and maintain strong unit and integration testing practices.\n• Collaborate with Product Owners, partners, and cross-functional teams to translate business requirements into technical solutions.\n• Demonstrate strong analytical skills with the ability to extract actionable insights from large datasets and support data-driven decision-making.\n• Mentor junior engineers, conduct code reviews, and contribute to establishing engineering best practices and standards.\n\n \nQualifications\n\nAbout you:\n• 5+ years of software development experience in a scalable, distributed, or multi-node environment.\n• Proficient in programming with Scala, Python, or Java; comfortable building data-driven solutions at scale, with Databricks preferred.\n• Significant experience with Apache Spark and exposure to Hadoop, Hive, and related big data technologies.\n• Demonstrated experience with cloud platforms (AWS, preferred) and an interest in cloud migration projects.\n\n• Exposure to modern data tools and frameworks such as Kubernetes, Docker, and MWAA/Airflow.\n• Strong problem-solving skills with the ability to own problems end-to-end and deliver results.\n• Consultative mindset — comfortable taking initiative, building relationships, communicating broadly, and tackling challenges head-on.\n• Collaborative team player with an eagerness to learn from peers and mentors while contributing to a culture of growth.\n• Motivated to grow your career within a dynamic, innovative company.\n\n \n\nWhat you’ll bring:\n\n• BA/BS in Computer Science or related discipline.\n• At least 5 years of experience as a big data software developer. \n• Experience in Machine Learning, including model development, feature engineering, or integrating ML workflows into data pipelines.\n• Experience with Databricks, including Notebooks, Delta Lake, Jobs, Pipelines, and Unity Catalog, preferred.\n• AWS, Databricks, or Spark certification a plus.\n\n \nAdditional Information\n\nWhen you join Epsilon, we’ll create something EPIC together. We’re a global leader in data and identity, with deep expertise in digital media, clean rooms, customer data platforms, loyalty and marketing services. Positioned at the center of Publicis Groupe, Epsilon helps brands deliver personalized experiences at scale and build lasting customer relationships by unlocking the full potential of data and identity. Epsilon operates in 30+ countries across EMEA, the Americas and APAC, with more than 8,000 employees.\n\n \n\nCheck out a few of these resources to learn more about what makes Epsilon so EPIC:\n\n \n\nOur Culture: https://www.epsilon.com/us/about-us/our-culture-epsilon\n\nLife at Epsilon: https://www.epsilon.com/us/about-us/epic-blog\n\n \n\nEpsilon has five values that define our culture and guide us as we create value for our clients, our people and consumers. We seek candidates who align with our company values, demonstrate them and make them meaningful in their day-to-day work:\n\nAct with integrity. We are transparent and have the courage to do the right thing.Work together to win together. We believe collaboration is the catalyst that unlocks our full potential.Innovate with purpose. We shape the market with big ideas that drive big outcomes.Respect all voices. We embrace differences and foster a culture of connection and belonging.Empower with accountability. We trust each other to own and deliver on common goals. \n\nBecause You Matter\n\nAs an Epsilon employee, you deserve perks and benefits that put you, your family and your finances first. Our benefits encompass a wide range of offerings, including but not limited to:\n\nTime to recharge: Flexible time off (FTO), 14 paid holidays, paid sick timeFamily well-being: Parental/new child leave, childcare & elder care assistance, adoption assistanceExtra perks: Comprehensive health coverage, 401(k), tuition assistance, commuter benefits, professional development, employee recognition, charitable donation matching, health coaching and counselingEpsilon benefits are subject to eligibility requirements and other terms.\n\n \n\nEpsilon is an Equal Opportunity Employer. Epsilon’s policy is not to discriminate against any applicant or employee based on actual or perceived race, age, sex or gender (including pregnancy), marital status, national origin, ancestry, citizenship status, mental or physical disability, religion, creed, color, sexual orientation, gender identity or expression (including transgender status), veteran status, genetic information or any other characteristic protected by applicable federal, state or local law. Epsilon also prohibits harassment of applicants and employees based on any of these protected categories. Epsilon will provide accommodations to applicants who need accommodations to complete the application process. Please reach out to LeaveofAbsence@epsilon.com to request an accommodation.\n\n \n\nFor San Francisco Bay and Los Angeles Areas: Epsilon will consider qualified applicants with criminal histories for employment in a manner consistent with the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance and San Francisco Police Code Sections 4901-4919, commonly referred to as the San Francisco Fair Chance Ordinance. Applicants with criminal histories are welcome to apply. \n\n#LI-AM1\n\n \n \n\nCompensation Range: USD $88,900.00 - USD $165,100.00/Annually. This is the pay range the Company believes it will pay for this position at the time of this posting. Consistent with applicable law, compensation will be determined based on the skills, qualifications, and experience of the applicant along with the requirements of the position, and the Company reserves the right to modify this pay range at any time. Temporary roles may be eligible to participate in our freelancer/temporary employee medical plan through a third-party benefits administration system once certain criteria have been met. For regular roles, the Company will offer medical coverage, dental, vision, disability, 401k, and paid time off. The Company anticipates the application deadline for this job posting will be 11/6/2026.",
+      "apply_options": [
+        {
+          "title": "Publicis Groupe Holdings B.V Careers",
+          "link": "https://careers.publicisgroupe.com/epsilon/jobs/154233?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Epsilon/Job/Senior-Big-Data-Engineer/-in-Westminster,CO?jid=ecf6efecbabdba73&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Simplify",
+          "link": "https://simplify.jobs/p/d29b2865-a9f1-49c0-a098-36188217acf7/Senior-Big-Data-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010173071147&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/digitas/westminster-co/senior-big-data-engineer/121b4b5d096367b6872dd3f12623f274?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-big-data-engineer-epsilon-westminster-co--t7xk-870687742?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextChapter",
+          "link": "https://launchyournextchapter.com/jobs/cmv9r2wkp03wnl606hrv6kl5e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmlnIERhdGEgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJQdWJsaWNpcyBHcm91cGUgSG9sZGluZ3MgQi5WIiwiaHRpZG9jaWQiOiJ1UG02OFVQYVpqQjZydVNWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VwUmNXOVhRVFJETmtNNWExVmpOVXhFWWxCYVpGWmhZbGRDYnpaV2NtVlRhbFl0WTFvM01HMURXbmxKYldWTmNFZ3pTRnBLY2tZek1uaDNVVzh3WXpRd1MzaDNiVkZOTFcxbFpVd3RhMUpqYUZoME0xVkNZMUZrY2psQ09URjJiMHBTWlRZdFJrSmtZVlZqUkhKVlVFNHpUVXRxUjNOaFNVcFlaMjkzVFRKdlFqRmtPVkVTRjFaM2NteGhjVmcxVEY5VE1EVk9iMUEwWVVSc2QwRnJHaUpCU0U0d1JUZElaRVY2V0ZJMFQxQkNNbVZ6YnpNeGFXNHdhRE5UTFhCdU5YSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ1UG02OFVQYVpqQjZydVNWQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior / Lead Big Data Engineer",
+      "company_name": "Compunnel Inc.",
+      "location": "Plano, TX",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "10+ years of application development experience using Python and SQL",
+            "5+ years of experience working with public cloud platforms such as AWS, GCP, or Azure",
+            "5+ years of experience with distributed data and computing technologies such as MapReduce, Hadoop, EMR, Kafka, or Spark",
+            "5+ years of experience working with real-time data and streaming applications",
+            "5+ years of experience with data warehouses and services such as Snowflake, Databricks, or Redshift",
+            "5+ years of experience with data modeling for data warehousing",
+            "Strong hands-on experience with Python and SQL",
+            "Strong understanding of data engineering, data movement, and data pipeline development",
+            "Experience working with relational and NoSQL databases",
+            "Experience working in Agile development environments",
+            "Experience leveraging interactive AI development tools such as Claude Code, Windsurf, or GitHub Copilot",
+            "Strong problem-solving, collaboration, and communication skills",
+            "Experience with Cube for semantic data layers",
+            "Experience with Tableau or Quick for business intelligence and analytics"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Lead Data Engineer will be responsible for designing, developing, testing, implementing, and supporting scalable data engineering solutions",
+            "The role will focus on building data pipelines, data movement solutions, data modeling, data quality, governance, and developer productivity metrics",
+            "As part of the CODE Metrics team, the Lead Data Engineer will help develop a developer productivity metrics platform used by engineers across the enterprise to measure developer effectiveness and experience",
+            "The role requires strong expertise in Python, SQL, cloud technologies, distributed computing, real-time data processing, data warehouses, and modern data engineering technologies",
+            "Collaborate with Agile teams to design, develop, test, implement, and support technical solutions using data movement tools and technologies",
+            "Lead development efforts involving data movement, distributed computing, and full-stack data systems",
+            "Design and develop scalable data pipelines and data engineering solutions using Python and SQL",
+            "Work with open-source relational and NoSQL databases and cloud-based data warehousing services",
+            "Develop and maintain solutions using Snowflake, Databricks, and other modern data platforms",
+            "Optimize information systems for end users and downstream application consumers using sound data design practices",
+            "Design and implement data models for data warehousing environments",
+            "Develop and support real-time data and streaming applications",
+            "Work with distributed data and computing technologies such as MapReduce, Hadoop, EMR, Kafka, and Spark",
+            "Apply data quality, governance, and permissible-use principles throughout data engineering activities",
+            "Leverage interactive AI development tools such as Claude Code, Windsurf, and GitHub Copilot to accelerate software delivery",
+            "Stay current with emerging technologies and modern data engineering practices",
+            "Experiment with and evaluate new technologies to improve engineering solutions",
+            "Participate in internal and external technology communities",
+            "Mentor other members of the engineering team and contribute to the broader engineering community"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=JOPjvc5rHq6_nrsYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3CNpMLZqIoIV2fhDFQtDCbpmNQxLJzoRMhD2HJxZf8ZrvqFnfiaMUsHAlfMEuejhgRTiyj0xUYA4X6UAJiwsgDCcRn2i8DbVm3VirmozXijU646S3wtTJYN_S6b9WAxbKCSu1y9ViMJn9dLKXPn-YKcGZnYHIcEvIMoPH8wdAzohelQAAAA&shmds=v1_Ac3VAoxJTax1HenVRaYbvPYxoNozH1bZt-S7Z89kaQRu1znJuQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=JOPjvc5rHq6_nrsYAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-2283-07544f493e3e8f0939e2ad56d93798d1",
+      "job_title": "Senior / Lead Big Data Engineer",
+      "description": "The Lead Data Engineer will be responsible for designing, developing, testing, implementing, and supporting scalable data engineering solutions. The role will focus on building data pipelines, data movement solutions, data modeling, data quality, governance, and developer productivity metrics. As part of the CODE Metrics team, the Lead Data Engineer will help develop a developer productivity metrics platform used by engineers across the enterprise to measure developer effectiveness and experience. The role requires strong expertise in Python, SQL, cloud technologies, distributed computing, real-time data processing, data warehouses, and modern data engineering technologies.\n\nKey Responsibilities\n\nCollaborate with Agile teams to design, develop, test, implement, and support technical solutions using data movement tools and technologies.Lead development efforts involving data movement, distributed computing, and full-stack data systems.Design and develop scalable data pipelines and data engineering solutions using Python and SQL.Work with open-source relational and NoSQL databases and cloud-based data warehousing services.Develop and maintain solutions using Snowflake, Databricks, and other modern data platforms.Optimize information systems for end users and downstream application consumers using sound data design practices.Design and implement data models for data warehousing environments.Develop and support real-time data and streaming applications.Work with distributed data and computing technologies such as MapReduce, Hadoop, EMR, Kafka, and Spark.Apply data quality, governance, and permissible-use principles throughout data engineering activities.Leverage interactive AI development tools such as Claude Code, Windsurf, and GitHub Copilot to accelerate software delivery.Stay current with emerging technologies and modern data engineering practices.Experiment with and evaluate new technologies to improve engineering solutions.Participate in internal and external technology communities.Mentor other members of the engineering team and contribute to the broader engineering community.Required Qualifications\n\n10+ years of application development experience using Python and SQL.5+ years of experience working with public cloud platforms such as AWS, GCP, or Azure.5+ years of experience with distributed data and computing technologies such as MapReduce, Hadoop, EMR, Kafka, or Spark.5+ years of experience working with real-time data and streaming applications.5+ years of experience with data warehouses and services such as Snowflake, Databricks, or Redshift.5+ years of experience with data modeling for data warehousing.Strong hands-on experience with Python and SQL.Strong understanding of data engineering, data movement, and data pipeline development.Experience working with relational and NoSQL databases.Experience working in Agile development environments.Experience leveraging interactive AI development tools such as Claude Code, Windsurf, or GitHub Copilot.Strong problem-solving, collaboration, and communication skills.Preferred Qualifications\n\nExperience with Cube for semantic data layers.\n\nExperience with Tableau or Quick for business intelligence and analytics.\n\nJ-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-07544f493e3e8f0939e2ad56d93798d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgLyBMZWFkIEJpZyBEYXRhIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQ29tcHVubmVsIEluYy4iLCJodGlkb2NpZCI6IkpPUGp2YzVySHE2X25yc1lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVE5RYzJzM01FTktSbVowY0RsVE1rUkplWFpLUlRJM1pWTkhOelpFWkd0d1RHRm1NREZwVVVrdE0zUjJkMUphTUhoTE1WVjRiRlJoY0dGUU1ERlBOSE5tV1V0d1kwcEpjalZTVXpoeU5WVkZla0pZU2pjMlZtUjZUWEJTY0dSa1puZDBNbEo0ZURGU2FUaFVkekpGU2pCMlNIQk9jMEZmTjFoR1ZuVjNYMHhPVmpaTWFHVVNGMVozY214aGNWZzFURjlUTURWT2IxQTBZVVJzZDBGckdpSkJTRTR3UlRkSFdqZDNhazFYWmtOaWR6WkRjM0Z6Y2t4dFQwWllRUzEzUVhGbiIsImZjdiI6IjMiLCJmY19pZCI6IkpPUGp2YzVySHE2X25yc1lBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Big Data Engineer",
+      "company_name": "GFR Technologies SE",
+      "location": "Mineral Springs, NC",
+      "via": "ZipRecruiter",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=4rCmh_vwVqZYDtN9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43StFGBBfdqrUg6GDdSxqOSyTehVyG_oc_rC5vfdVnUa3aQHC2xULHFBgxwwauMoGizc6DMPQiFHF59KUkPRijGhvSYktwjZO3EcZJZvOSSf-M6m3GFG3Bcbffzk1iquv-8oAnOs8ShQIqDB0EhtuvzDbCkHJg0jXcT19--zm_lgAAAA&shmds=v1_Ac3VAowYR1UJsRPHdsnq5IfmIxGL3TaLEo882gD66QR6LM5qFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=4rCmh_vwVqZYDtN9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAARVBMVEUhP3____8AJmnZ4e-xvM2DjqscPYAAJm8SN31DU4AhPX4lQYASNn4WOX4sRH2KlbN5iKsXNXbf5_Q6ToSerckRMHEHK3GEYUqeAAAAdUlEQVRIie2UyQ6AMAhEsdVaad2X__9UvRppSDh40HlHkgctCUMEAAD_gQ1KCjnmeOMq9Gor5mFsnkyzaoauElicJrIsekfJNNE7Nou2P0KE-CGxN4rFQ7ZHh3rIay2w7Vp0MIVW4NAeWm6oLqeY4oZ0B69zAv2uB2E60ZssAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "17 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.ziprecruiter.com/c/gft-technologies/Job/Big-Data-Engineer/-in-Mineral-Springs,NC?jid=15cd987d6111cbe2",
+      "job_title": "Big Data Engineer",
+      "description": "GFT impulsa la transformacion digital de las empresas lideres mundiales.Con sus servicios de consultoria y la implementacion de las ultimas tecnologias, los clientes de GFT obtienen un acceso mas rapido a nuevas aplicaciones de TI y modelos de negocio.\n\n \n\nQue estamos buscando?\n\n \n\nActualmente tenemos un puesto vacante para un/a Big Data Engineer. Buscamos una persona entusiasta y dinamica dispuesta a empezar y crecer en un entorno multicultural, motivador y desafiante. \n\n \n\nTus principales responsabilidades seran:\n\n   Disenar, desarrollar y testear soluciones data alineadas con las necesidades de negocio.  Investigar nuevas tecnologias y algoritmos de los que desarrollaras prototipos y PoC (Proof of Concept).  Trabajar en un equipo multidisciplinar, junto a Data Scientists, Software Architects y Developers.  Desarrollar herramientas analiticas y programas.  Desarrollar y procesar sistemas de datos y algoritmos y prototipos. Requisitos minimos:\n\n \n\n   Experiencia en proyectos Big Data con Scala y Spark.  Conocimiento del ciclo de vida del desarrollo de software (ingenieria data, desarrollo, testeo y despliegue de soluciones data)  Experiencia en desarrollo de software, analisis y diseno de arquitecturas.  Conocimiento en transformacion de datos o ETL.  \n\nCompetencias personales:\n\n \n\n    Capacidad de organizacion   Capacidad analitica En GFT consideramos que la diversidad es uno de nuestros pilares fundamentales y promovemos un entorno de trabajo inclusivo basado en la cooperacion y el respeto mutuo. Ofrecemos igualdad de oportunidades a todas las personas sin tener en cuenta su raza, origen cultural, sexo, edad, orientacion sexual, identidad de genero, discapacidad o creencias religiosas. \n\nGFT dispone y ha registrado un Plan de Igualdad que recoge las medidas a adoptar con el objetivo de alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar, si es que la hay, la discriminacion por razon de sexo.\n\nUnete a nuestro equipo global!",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/gft-technologies/Job/Big-Data-Engineer/-in-Mineral-Springs,NC?jid=15cd987d6111cbe2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkdGUiBUZWNobm9sb2dpZXMgU0UiLCJodGlkb2NpZCI6IjRyQ21oX3Z3VnFaWUR0TjlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZblY0WWtFMGVYbEtOR0ZoYTNSS05ITnlUa1JVTUdKUk5XRXhUakJ4ZDB4WFQyOU9PRnBMVEV0Q1pYWjVOR0pGVEY5NlVFVjVOVEZhV2kxRFgyRnBWR3d5ZFVWMWR6SjJUMUZvVTBacFpGOWpaa2w2YlZGWFYxTXlNRkJ1YTJOM1puSkdkUzF5VWpoUlJHdFBRVzR3ZVZCblgzRkdWbUV0ZFhwMFJWcDJibk5rYTJKZk5tY1NGMVozY214aGNWZzFURjlUTURWT2IxQTBZVVJzZDBGckdpSkJTRTR3UlRkSVZVSTJWRkV6ZFd0UlFYUlBlVTlQTmxkSWJURmZNMjR6VjFoUiIsImZjdiI6IjMiLCJmY19pZCI6IjRyQ21oX3Z3VnFaWUR0TjlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Big Data engineer",
+      "company_name": "CPC Technologies LLC",
+      "location": "Kennesaw, GA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Deep understanding and experience in tuning Dataproc, BigQuery, and Spark Applications",
+            "Solid knowledge of software engineering best practices, including version control systems (e.g., Git), code reviews, and testing methodologies",
+            "Experience: 5+ Years",
+            "Posted Date: 2 Y ago"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Specifically, you will be working on projects involving leveraging AI/ML for Data Management Efficiencies & Query Optimizations",
+            "Collaborate with cross-functional teams such as Data Scientists, Product Partners and Partner Team Developers to identify opportunities for Big Data, Query ( Spark, Hive SQL, BigQuery, SQL ) tuning opportunities that can be solved using machine learning and generative AI",
+            "Write clean, high-performance, high-quality, maintainable code",
+            "Create backend applications using Python, docker, Google Cloud & in-house ML frameworks to orchestrate end to end applications",
+            "Stay abreast of the latest advancements in the field of Generative AI Application Development and actively contribute to the research and development of new Generative AI Applications"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=71Ela5FljSpYo_DpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OIhoI4KLnbRCQTs4uJdLOJJIvAu5gP0J_1l8w2u-i2Z9iR6uWBGIfWSiAju4iQUlLC6AMAwiPtGyC7VmPRmjmlqvFWt0rZO3ESYrs3mJ1X-TBiyUE1aaDsf93Gb2m1X_6OFJLrAk8ZEUxrGHyHAnZlL8bGE4_wCf39xgkAAAAA&shmds=v1_Ac3VAoxrgTvbiwZw15OTcFBGqIA0dZLXRFxWZccesf1QUs85gg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=71Ela5FljSpYo_DpAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=4e506912a7afaa6e",
+      "job_title": "Big Data engineer",
+      "description": "Kennesaw, USA Full Time 2 Y ago\n\n\n\n\n \n  \n   \n    \n     Specifically, you will be working on projects involving leveraging AI/ML for Data Management Efficiencies & Query Optimizations. \n     \n\n\n     Job Description\n     \n\n\n     \n      Collaborate with cross-functional teams such as Data Scientists, Product Partners and Partner Team Developers to identify opportunities for Big Data, Query ( Spark, Hive SQL, BigQuery, SQL ) tuning opportunities that can be solved using machine learning and generative AI.\n     \n     \n      Write clean, high-performance, high-quality, maintainable code.\n     \n     \n      Create backend applications using Python, docker, Google Cloud & in-house ML frameworks to orchestrate end to end applications\n     \n     \n      Stay abreast of the latest advancements in the field of Generative AI Application Development and actively contribute to the research and development of new Generative AI Applications.\n     \n     \n      Deep understanding and experience in tuning Dataproc, BigQuery, and Spark Applications.\n     \n     \n      Solid knowledge of software engineering best practices, including version control systems (e.g., Git), code reviews, and testing methodologies.\n     \n    \n   \n  \n  \n\n\n  \n   \n    \n     Job Features\n    \n    \n\n\n    \n     \n      \n       \n        Job Category: Software Developer\n        Education: BTECH\n        Positions: 2\n        Experience: 5+ Years\n        Posted Date: 2 Y ago",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=4e506912a7afaa6e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/nMYU2jbD9z3kivau66tDdRRzu31A8j08jNegdMBDBBR2RXtCzgaIDg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/big-data-engineer-dexian-kennesaw--lifeworq-c32ece7e-532c-497d-b7d4-5e2e545803fc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBlbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkNQQyBUZWNobm9sb2dpZXMgTExDIiwiaHRpZG9jaWQiOiI3MUVsYTVGbGpTcFlvX0RwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWpJMkxUTm1aMFE0ZWxwRlNubFZiSE0zYld0Q04yOXhlV1ZyVUZwUU5UUXpObFpCUldnMGJGTTJaVWQyU21OSlUxbENUeloxZUc0d01FSjBaRlU0TjI5cU5VSnZXVlIxVkZkeVMzcHNWVXgyWjB4T2NYQkhOREZuTTI4MVRXWnJXV3hyTVRkcVNrOUtiRUZyVEV0ZmJWRXdVMUV5VUd4RVpXSlBURTVYUTNwdVRFeEJTa0lTRjFaM2NteGhjVmcxVEY5VE1EVk9iMUEwWVVSc2QwRnJHaUpCU0U0d1JUZEZTMTkyWm1OelNsaHlZMjVRYUc0M05FMXlOWFo2UWkxRFEzWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiI3MUVsYTVGbGpTcFlvX0RwQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Big Data/Machine Learning Engineer - Sr",
+      "company_name": "Artech LLC",
+      "location": "Plano, TX",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "4 years of experience building or operating data pipeline and orchestration systems",
+            "4 years of data or application engineering experience, including Java, Python and SQL",
+            "4 years of experience building and operating real-time or event-driven data systems",
+            "4 years of experience with distributed data and computing tools (Kafka, Spark, EMR, Hadoop, or equivalent)",
+            "4 years of experience with cloud data warehousing platforms at scale",
+            "4 years of experience with cloud platforms (AWS, Azure, or GCP)",
+            "3 years of experience with pipeline scheduling and workflow orchestration tools",
+            "2 years of experience with secure secrets management and credential handling in production systems",
+            "2 years of experience working in Agile engineering environments",
+            "Familiarity with data observability practices monitoring, alerting, SLA tracking, and data quality frameworks",
+            "Experience in financial services or other regulated, compliance-driven industries"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, build, and operate large-scale batch and real-time data pipelines that move, transform, and publish data across the enterprise with high reliability and low latency",
+            "Collaborate with Agile teams to architect end-to-end data solutions from ingestion and orchestration through to event streaming and downstream delivery"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Big+Data+Engineer&htidocid=MnTF6R8mNKBrITI6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMuwoCMRAAsb0fEKy2Fr2IYKMg-EKQEwQt7I5NWJJI3D2SLe5L_F7vmoFhYKrfpNofo4czKpo7uhCZoCHMHNnDhf3glGEJzxE3sVCG6AIIw1XEJ5rtgmpXtsaUkmpfFDW62snXCJOV3nzElhFtCZipS6jUrjervu7Yz6eHrDTsmuYEkeGRkGUBr_cfS-u4-5kAAAA&shmds=v1_Ac3VAoxIK_3gmjry_QGICHUZrPaWumHscIt3gq9DFjeN9EZGZA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Big+Data+Engineer&htidocid=MnTF6R8mNKBrITI6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a494b95962a11db236e/images/yvgwXTYminW_Onhe4fuuVe6cEYpkIuQJDaNMcI8L25c.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Contractor"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/artech/Job/Big-Data-Machine-Learning-Engineer-Sr/-in-Plano,TX?jid=f2aa4cbe9c7f442a",
+      "job_title": "Big Data/Machine Learning Engineer - Sr",
+      "description": "Job Title: Data Engineer\n Position Type: Contract \n Location: Plano, TX, United States\n\n  Responsibilities:\n Design, build, and operate large-scale batch and real-time data pipelines that move, transform, and publish data across the enterprise with high reliability and low latency\n Collaborate with Agile teams to architect end-to-end data solutions from ingestion and orchestration through to event streaming and downstream delivery\n\n Qualifications:\n 4 years of experience building or operating data pipeline and orchestration systems\n 4 years of data or application engineering experience, including Java, Python and SQL\n 4 years of experience building and operating real-time or event-driven data systems\n 4 years of experience with distributed data and computing tools (Kafka, Spark, EMR, Hadoop, or equivalent)\n 4 years of experience with cloud data warehousing platforms at scale\n 4 years of experience with cloud platforms (AWS, Azure, or GCP)\n 3 years of experience with pipeline scheduling and workflow orchestration tools\n 2 years of experience with secure secrets management and credential handling in production systems\n 2 years of experience working in Agile engineering environments\n Familiarity with data observability practices monitoring, alerting, SLA tracking, and data quality frameworks\n Experience in financial services or other regulated, compliance-driven industries",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/artech/Job/Big-Data-Machine-Learning-Engineer-Sr/-in-Plano,TX?jid=f2aa4cbe9c7f442a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/big-datamachine-learning-engineer-sr-plano-omega-solutions-66d7a5f9ac5efed6044595216f184273?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/big-data-machine-learning-engineer-sr-plano-tx--c68251be-bf77-4b97-b651-a0ea46eeb271?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/rapinno-tech/plano/big-data-machine-learning-engineer-sr-101186814/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/samprasoft/plano-tx/senior-machine-learning-engineer/32804cf49aa9b46d342b2183a87a70ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sonara AI",
+          "link": "https://www.sonara.ai/job-details/big-data-machine-learning-engineer-at-artech-llc-c75d6fdc-b0a7-2870-08d1-f1166efe12e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/big-data-machine-learning-engineer-sr-omega-solutions-plano--ss-us-vepqod?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/6adc0d08-1d6f-4888-8dbf-8bce4a5eaf6b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YS9NYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIC0gU3IiLCJjb21wYW55X25hbWUiOiJBcnRlY2ggTExDIiwiaHRpZG9jaWQiOiJNblRGNlI4bU5LQnJJVEk2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV25WRlRqRTVXRWxqTTNjeGNrOXpMWGhpVm0xaldGaDJUMUpKU0d3dGVHVm1aR2RzYTBObGNXdFVTRXRaWlVSRGJqUk9Tbkp6T0RWWGFtcHVUMVE0UVRaQ2EzcFFkVkZOVEZkS1prdEpWWE5XTWtsVFprbENXVU5pYUc1RlltRnBVek54TmxOa1dqSTBTVUZFT0hKMFJEaERXbUZLVG04MVZVYzJNR2RSV0c5NGRGRklhVVlTRjFaM2NteGhjVmcxVEY5VE1EVk9iMUEwWVVSc2QwRnJHaUpCU0U0d1JUZElTa2hZVGpsU2FqZEZTbGcyUzBOT1VtMVBWamRTTlRCNlgwTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJNblRGNlI4bU5LQnJJVEk2QUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXWHB0WkdSM056RTJWRlJ1UlVzM1gxWnpNVk5EU2pGNlZ6TjRUemxaUmtveFVEUmtORXR3WlRWZmJGUmZOM1p2V2xsR1NURlZkbHBLTURKcVpqaFZNV1E1VEdkU2RXWjJaVEpwTkVaaU5tbDFjMTlVYm0wMGRXVjFjVmN6YzJ4SFVYaHFNbkExZUROVlJVWnpjbE55YlhWTlMyOXNlWFJIY1ZCM2FuRTBVVWgxWlhSVVlVaFVVbE5CTjJaVU5WSkVVVmd4ZEROU1NHZEVkRWRXZEZveU5FUTFjR1IwYTNaR1UyTnJOa05VUm5OM1ZsbDJUMlp0YnpsMlR6TmFVVkZEZEY5NE0xbEdWRzVDUlZKdU0zVlNSMkprYkZWTk4zcFVWWEZ4Ym1WM1NGaHdka3B5WkRGdVRrWnZSbVp1TWtaZlYyRlVURTlvV0c5TVdITXdOMVZMZFdrdFQwSTVNR2x1YkZSdFIyRTRPRTEwZUZNNWMzY3dWV2g0Vlc1NlpVcHdNVk5GU1Mxa1ZsZGhOMUpFVUVwWVFqRkhjV041ZVVoTWEyeDJhRTFWUTFsMFUzazVNR2hRT0hsd1FuWm5PVFpqWDNwTWMzaDJNVTlzU1Y5TGMzQndjblIzUzB0cU1YaHBSa296TjAxeE9YazBkRkZtUldwclIwSlRNbmxOTWpVd1QzaGFORU00UVVFMlZHWnhPWFJMYm1jelUxOXlTa28xY2taNWRqZGFlVmRDZWpjM1JIZDVOVGxMZEVwdWFHbGtVbE5aUTFGZldXSlZkVlUwUVd4d1NqQjJjbE5XVTBNMmNFWmphRzEzUlZCZlkxVmtaRmh5ZEdoTFlTMUdVa295UzFBM1ptNUlUalJ4VGtWUVVsOTBTbW8wV1d4dGJtaFdaRWsxTlV3eFZuSXRVbUZhZWpWMGNGSm5VbTFwZEZOeU9EZDNPVmRaWnpkaFltSnJTek42VW5wRlVHdEpkR2hITkZsNFdHbE5kRzF2RWhkV2QzSnNZWEZZTlV4ZlV6QTFUbTlRTkdGRWJIZEJheG9pUVVoT01FVTNSbGRSVGs1d1V6VkhjbTlaYTI4MWRGTXhiWE5VU21aTlFsTlRRUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXWHB0WkdSM056RTJWRlJ1UlVzM1gxWnpNVk5EU2pGNlZ6TjRUemxaUmtveFVEUmtORXR3WlRWZmJGUmZOM1p2V2xsR1NURlZkbHBLTURKcVpqaFZNV1E1VEdkU2RXWjJaVEpwTkVaaU5tbDFjMTlVYm0wMGRXVjFjVmN6YzJ4SFVYaHFNbkExZUROVlJVWnpjbE55YlhWTlMyOXNlWFJIY1ZCM2FuRTBVVWgxWlhSVVlVaFVVbE5CTjJaVU5WSkVVVmd4ZEROU1NHZEVkRWRXZEZveU5FUTFjR1IwYTNaR1UyTnJOa05VUm5OM1ZsbDJUMlp0YnpsMlR6TmFVVkZEZEY5NE0xbEdWRzVDUlZKdU0zVlNSMkprYkZWTk4zcFVWWEZ4Ym1WM1NGaHdka3B5WkRGdVRrWnZSbVp1TWtaZlYyRlVURTlvV0c5TVdITXdOMVZMZFdrdFQwSTVNR2x1YkZSdFIyRTRPRTEwZUZNNWMzY3dWV2g0Vlc1NlpVcHdNVk5GU1Mxa1ZsZGhOMUpFVUVwWVFqRkhjV041ZVVoTWEyeDJhRTFWUTFsMFUzazVNR2hRT0hsd1FuWm5PVFpqWDNwTWMzaDJNVTlzU1Y5TGMzQndjblIzUzB0cU1YaHBSa296TjAxeE9YazBkRkZtUldwclIwSlRNbmxOTWpVd1QzaGFORU00UVVFMlZHWnhPWFJMYm1jelUxOXlTa28xY2taNWRqZGFlVmRDZWpjM1JIZDVOVGxMZEVwdWFHbGtVbE5aUTFGZldXSlZkVlUwUVd4d1NqQjJjbE5XVTBNMmNFWmphRzEzUlZCZlkxVmtaRmh5ZEdoTFlTMUdVa295UzFBM1ptNUlUalJ4VGtWUVVsOTBTbW8wV1d4dGJtaFdaRWsxTlV3eFZuSXRVbUZhZWpWMGNGSm5VbTFwZEZOeU9EZDNPVmRaWnpkaFltSnJTek42VW5wRlVHdEpkR2hITkZsNFdHbE5kRzF2RWhkV2QzSnNZWEZZTlV4ZlV6QTFUbTlRTkdGRWJIZEJheG9pUVVoT01FVTNSbGRSVGs1d1V6VkhjbTlaYTI4MWRGTXhiWE5VU21aTlFsTlRRUSIsImZjdiI6IjMifQ%3D%3D&q=Big+Data+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Big Data Engineer",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:21:13.409282+00:00",
+    "request_fingerprint": "2cd24b3c636305e9863c044c2afc34cf92b32481f66ec2ec324d5bac9598f790",
+    "job_count": 10
+  }
+}

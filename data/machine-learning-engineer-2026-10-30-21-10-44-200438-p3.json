@@ -1,0 +1,842 @@
+{
+  "search_metadata": {
+    "id": "6ae507d46771809ba0279dcd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/11eA6yvnGD1C5PIJCXZIjcrVJ7vojxboQoIQoOtXFoc/6ae507d46771809ba0279dcd.json",
+    "markdown_endpoint": "https://serpapi.com/searches/11eA6yvnGD1C5PIJCXZIjcrVJ7vojxboQoIQoOtXFoc/6ae507d46771809ba0279dcd.md",
+    "created_at": "2026-10-30 21:10:44 UTC",
+    "processed_at": "2026-10-30 21:10:44 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Machine+Learning+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/11eA6yvnGD1C5PIJCXZIjcrVJ7vojxboQoIQoOtXFoc/6ae507d46771809ba0279dcd.html",
+    "prettify_html_file": "https://serpapi.com/searches/11eA6yvnGD1C5PIJCXZIjcrVJ7vojxboQoIQoOtXFoc/6ae507d46771809ba0279dcd.prettify",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "q": "Machine Learning Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVvc0ZDc3dFUVVSRVlsZGxZbDgwYkVKTVJYVnZjMUE0YXpOTFFVOXlOV0ZOZEVkTFRUVTBOR0ZPZW5oUWFXMVZZVXhUVjAxcWIxZEtUbk0wU0d4Q1ltWlBjbWRoTFcwemNqQXhSRFJxVkVvNVJTMDBPVVkwUkRSMGVGYzVUSFpEYW5wa00zWjNNbGRFYmpkVkxXTTVRMHRLYkdaYVdtMVNWME5oYzJOWFlVMDJUMGsyVVMxWFREQjVYMjR4Yld0RlRWRTRVVEUwTkZaNGVqWldUSFZLU0dsaGRTMVpVVlZqTkZWVlUwUnlia042TldodmVuZzJReTEzUld0dU16bEhSWEEzY1VSMmJXSTNUVms0TVhOV1puVmpaRFpTZVUxa1gzUk5PV2wwYjI5RlRrSnhhMVUyY1ZSdmVrMWlZVE5oYlY5NGJrWmxRM1JRY1RBdFVqQjJOa0ZHWDJWVVlraHBjVUZyUlVodlptMW5WMEZOVW5kUlIzTkNXRTVYYjFwSlRraEhUbVZWV1VWVWVFMXlUVzVqUzNKNWVua3hjVmhLVDBveVQyazBUVGxoYlRoeFprMXlTMHBsZDFwdWJuZERlWEp2YTFwaFJqY3lORGhoTlVONmVrTjZOR05yTVdGb1MwaGpZa3BSU0U1cGRXOHdaSGxZYmpGemIxRm9SMHQzUjFSTFVHbFpjRVJEVEVGRFdVTTBhRFIwU0VsbWNqSXpWV2gyUkRaSFIxSTVNalJOZGkxMWRFd3dWRk5QV0RGZlRuWlhMVlp2YURGMU1tRTRhR1o1TWtSbFNtNXljR1JWZEdoWmVVZEhOWGd3VGpabWVWQmtPVVJXVmtaQmVuVXpWbGhWWkdkUmFGYzJURXRhYldwTFVFSmllRnBuY0dGbmFXVTBWRnAwY1hBMlFXeFBabmRIV1hkRmRVRTFiR2hNUzB4eFowMXFZamRSUzBoWmVIY3RlRWRqZFVOUU5HTlFkbEJFVFY5V1JuWTBOa2RFWWtKNVUyaGlaV3hyTjNsYVQydGFXRzFVV25sd2VtRmFWemswZVhkMUVoWjRRV1pzWVhOWlVUZHliWEV5ZHkweWIwNXhTVUpSR2lKQlNFNHdSVGRGWjFaTmNVdFFNMVJHUjBKSGVHTkZhblpxV2pOVlduZEdZa2xSIiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Machine Learning Engineer, Scenes",
+      "company_name": "Waymo",
+      "location": "Mountain View, CA",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Master’s degree in Computer Science, Machine Learning, Robotics, or a related technical field, or equivalent practical experience",
+            "Hands-on experience deploying, evaluating, and maintaining ML-based systems in real-world production environments",
+            "Proficient programming skills in Python and/or C++, with strong analytical and debugging abilities",
+            "Expertise with modern deep learning frameworks, such as JAX or PyTorch",
+            "Experience in deep learning, reinforcement learning, and ML systems",
+            "Prior industry experience, such as internships, in applied ML or software development",
+            "Publications in top-tier conferences such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICRA, IROS, RSS, CoRL, ACL, or EMNLP",
+            "Domain expertise in motion planning, prediction, or related robotics problems"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Discretionary annual bonus program, subject to eligibility requirements",
+            "Equity incentive plan, subject to eligibility requirements",
+            "Company benefits program, described as generous and subject to eligibility requirements"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will help bridge machine learning and real-world vehicle performance by engineering systems that help autonomous vehicles execute intelligent and predictable maneuvers",
+            "You will develop ML-powered systems, adapt and benchmark generative models for autonomous driving tasks, and bring machine learning into production through scalable, tested code",
+            "You will work with engineers and product managers to deliver safe and smooth autonomous vehicle behaviors",
+            "Develop next-generation, ML-powered systems that enhance the capabilities of the ML driver and accelerate the scaling of Waymo’s business",
+            "Fine-tune, adapt, and benchmark state-of-the-art generative models to improve autonomous vehicle perception, motion prediction, and trajectory planning",
+            "Write high-quality, scalable, and thoroughly tested code to bring cutting-edge ML into production",
+            "Partner with engineers and product managers to deliver safe and smooth autonomous vehicle behaviors"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=oIltLwVaRdjHrOpDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWJQQrCMBAA8don9LRnqYkIguipiAhiT4IeyzYsSaTdDd2I9R1-2HoZZpjiuyh2DboQmeBKOHJkDyf2c9NYwc0Rk8IKLtKBzt8FEIaziO-pPISck-6tVe2N14w5OuNksMLUyWSf0ukfrQYcKfWYqd1s15NJ7JflAz-DQGRo5MUZZ7lHeldwrH8i3jNklgAAAA&shmds=v1_Ac3VAow3cEAcX_SWKHKislQ_C5ivQyCSWIrJtjr6IqFzMWl2Sg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=oIltLwVaRdjHrOpDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507d46771809ba0279dcd/images/Avcgqh6bsenwfOsM17192bbvCjYzpp4atW4RlPLBXVQ.png",
+      "extensions": [
+        "8 days ago",
+        "175K–215K a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.tealhq.com/job/machine-learning-engineer_7ea1a290e76b6af967ff180580b5e5871d1bb",
+      "job_title": "Machine Learning Engineer, Scenes",
+      "description": "About the position\n\nWaymo is an autonomous driving technology company focused on building the Waymo Driver, which powers its fully autonomous ride-hail service and can be applied to other vehicle platforms and product use cases. Driver Refinement and Validation (DRV) refines the ML Driver’s performance in complex real-world contexts and works to ensure it produces safe, compliant, comfortable, and useful plans. In this role, you will help bridge machine learning and real-world vehicle performance by engineering systems that help autonomous vehicles execute intelligent and predictable maneuvers.\\n\\nYou will develop ML-powered systems, adapt and benchmark generative models for autonomous driving tasks, and bring machine learning into production through scalable, tested code. You will work with engineers and product managers to deliver safe and smooth autonomous vehicle behaviors.\n\nResponsibilities\n\nDevelop next-generation, ML-powered systems that enhance the capabilities of the ML driver and accelerate the scaling of Waymo’s business.Fine-tune, adapt, and benchmark state-of-the-art generative models to improve autonomous vehicle perception, motion prediction, and trajectory planning.Write high-quality, scalable, and thoroughly tested code to bring cutting-edge ML into production.Partner with engineers and product managers to deliver safe and smooth autonomous vehicle behaviors.Requirements\n\nMaster’s degree in Computer Science, Machine Learning, Robotics, or a related technical field, or equivalent practical experience.Hands-on experience deploying, evaluating, and maintaining ML-based systems in real-world production environments.Proficient programming skills in Python and/or C++, with strong analytical and debugging abilities.Expertise with modern deep learning frameworks, such as JAX or PyTorch.Nice-to-haves\n\nExperience in deep learning, reinforcement learning, and ML systems.Prior industry experience, such as internships, in applied ML or software development.Publications in top-tier conferences such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICRA, IROS, RSS, CoRL, ACL, or EMNLP.Domain expertise in motion planning, prediction, or related robotics problems.Benefits\n\nDiscretionary annual bonus program, subject to eligibility requirements.Equity incentive plan, subject to eligibility requirements.Company benefits program, described as generous and subject to eligibility requirements.",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/machine-learning-engineer_7ea1a290e76b6af967ff180580b5e5871d1bb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyLCBTY2VuZXMiLCJjb21wYW55X25hbWUiOiJXYXltbyIsImh0aWRvY2lkIjoib0lsdEx3VmFSZGpIck9wREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWbDRaVTlPWm5obFluSkVUVzB4YlRaalUxaGpiVTh6T1dKb1FVbzVRekJ2V0dOclF6bGFPVGxzYm1GMVFqZHhkbGM0UkcxbFJrcHJjMnhLVjBaV1NrdFVXRk5FU0hKZldtZEJRMm8xWlZBMFprTldkbGc0VWpFM1YxSmthWEJKYWtsZmREUldVVzFhWm0xeFFYRjNWRXhSY0ZKVWRVdExTMEZFTVcxbk1rcDZTamRCTVdFU0Z6RkJabXhoYjB4V1J6VXlXWEIwVVZBd1MwZ3daMUV3R2lKQlNFNHdSVGRITlhFMlZqQTViWHBXTTFWWFJERlVhVVZWTTAxRlR6ZHVaV0ZSIiwiZmN2IjoiMyIsImZjX2lkIjoib0lsdEx3VmFSZGpIck9wREFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Machine Learning Engineer – NLP/LLM",
+      "company_name": "USA018 Thomson Reuters Holdings Inc.",
+      "location": "Anywhere",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Qualifications Master’s degree in Machine Learning, Computer Science, Statistics, or a closely related quantitative field with a focus on machine learning or artificial intelligence",
+            "5+ years of professional machine learning engineering, applied machine learning, research engineering, or closely related software engineering experience",
+            "Demonstrated hands-on experience building, training, and deploying machine learning models into production, including the ability to explain your individual contribution from model development through production deployment",
+            "Strong practical experience with machine learning, natural language processing, and modern LLM architectures",
+            "Experience with at least one of the following: information extraction, text generation/summarization, AI agents, or search",
+            "Advanced Python programming skills and hands-on experience with machine learning frameworks such as PyTorch or TensorFlow",
+            "Experience developing or fine-tuning language models or other machine learning models for specialized use cases or domains",
+            "Experience designing and applying model evaluation methods and metrics to measure the performance and reliability of production machine learning systems",
+            "Ability to translate product or business problems into machine learning solutions and clearly communicate technical decisions, trade-offs, and outcomes",
+            "Strong problem-solving, collaboration, and ownership skills, with the ability to work effectively across technical and domain-focused teams",
+            "Experience deploying and operating ML or LLM systems at scale in production environments",
+            "Experience with legal technology, legal natural language processing, legal document analysis, or other domain-specific language modeling",
+            "Experience applying machine learning within financial services, economics, or other regulated or data-sensitive industries",
+            "Experience serving or self-hosting large language models and optimizing model performance and computational efficiency",
+            "Experience taking complex ML initiatives from experimentation or research through production and demonstrating measurable product or business impact"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Flexibility & Work-Life Balance: Flex My Way is a set of supportive workplace policies designed to help manage personal and professional responsibilities, whether caring for family, giving back to the community, or finding time to refresh and reset",
+            "This builds upon our flexible work arrangements, including work from anywhere for up to 8 weeks per year, empowering employees to achieve a better work-life balance",
+            "Industry Competitive Benefits: We offer comprehensive benefit plans to include flexible vacation, two company-wide Mental Health Days off, access to the Headspace app, retirement savings, tuition reimbursement, employee incentive programs, and resources for mental, physical, and financial wellbeing",
+            "Culture: Globally recognized, award-winning reputation for inclusion and belonging, flexibility, work-life balance, and more",
+            "We offer employees two paid volunteer days off annually and opportunities to get involved with pro-bono consulting projects and Environmental, Social, and Governance (ESG) initiatives",
+            "Our benefit package includes market competitive health, dental, vision, disability, and life insurance programs, as well as a competitive 401k plan with company match",
+            "In addition, Thomson Reuters offers market leading work life benefits with competitive vacation, sick and safe paid time off, paid holidays (including two company mental health days off), parental leave, sabbatical leave",
+            "These benefits meet or exceeds the requirements of paid time off in accordance with any applicable state or municipal laws",
+            "Finally, Thomson Reuters offers the following additional benefits: optional hospital, accident and sickness insurance paid 100% by the employee; optional life and AD&D insurance paid 100% by the employee; Flexible Spending and Health Savings Accounts; fitness reimbursement; access to Employee Assistance Program; Group Legal Identity Theft Protection benefit paid 100% by employee; access to 529 Plan; commuter benefits; Adoption & Surrogacy Assistance; Tuition Reimbursement; and access to Employee Stock Purchase Plan",
+            "Thomson Reuters complies with local laws that require upfront disclosure of the expected pay range for a position",
+            "The base compensation range varies across locations",
+            "The base compensation range for the role in any of those locations is $127,000 USD - $235,000 USD",
+            "For any eligible US locations, unless otherwise noted, the base compensation range for this role is $110,000 USD - $204,200 USD",
+            "For Ontario, Canada, the base compensation range for this role is $100,000 CAD - $145,000 CAD",
+            "Base pay is positioned within the range based on several factors including an individual’s knowledge, skills and experience with consideration given to internal equity",
+            "Base pay is one part of a comprehensive Total Reward program which also includes flexible and supportive benefits and other wellbeing programs",
+            "This role may also be eligible for an Annual Bonus based on a combination of enterprise and individual performance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Job Description As a Senior Machine Learning Engineer, you will build and deploy production machine learning and large language model (LLM) systems that extract actionable insights from complex legal documents and data",
+            "You will work on challenging natural language processing problems involving contractual language, information extraction, model-driven analysis, and comparisons across large collections of documents",
+            "You will join a highly technical machine learning team and collaborate with machine learning engineers, legal subject matter experts, product engineers, and data and security partners",
+            "This is a hands-on role for someone who has personally built, trained, evaluated, and deployed machine learning models into production and wants to apply that expertise to sophisticated real-world products",
+            "Key Responsibilities Design, build, train, and deploy machine learning and LLM-based models and systems that solve complex natural language processing and document intelligence problems",
+            "Develop production solutions for areas such as information extraction, text generation and summarization, AI agents, search, and document analysis",
+            "Build scalable and reliable machine learning pipelines that support model training, evaluation, deployment, and ongoing production use",
+            "Develop rigorous model evaluation frameworks and metrics to assess model quality, accuracy, reliability, drift, and potential bias",
+            "Optimize model performance and resource utilization through experimentation, feature engineering, model selection, and tuning",
+            "Translate complex business and product problems into practical machine learning solutions and take those solutions from experimentation through production deployment at scale",
+            "Collaborate across machine learning, engineering, product, legal domain, data, and security teams to deliver reliable AI capabilities while protecting sensitive information"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=TT5Cxj7n_-Ws9MS_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQWoCQRBFcesRXP216LQGAyFZBQkmYRwkJgtX0tMW3R3HqqGrRZfewct4npwk4-bDg8fj92-9_nxNHCVhaV2ITCjJJo7s8ca-Y0r4u1xRlStTlkuM8Sk1tHNcgDAWIr6hwUvIudVnY1Sbwmu2ObrCycEIUy1n8yu13merwSZqG5tp-_A4ORct--HsZ_06mT7hO8hBu-YXHTMlxbs0u-6I4oNdgcio6ISNpP0I1eYf5rG5J7sAAAA&shmds=v1_Ac3VAozpOpcnXaYpE8TjjB1gZJWUIr_XwfTEjW6EZCrHJ3EDKA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=TT5Cxj7n_-Ws9MS_AAAAAA%3D%3D",
+      "extensions": [
+        "16 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Machine-Learning-Engineer---NLP-LLM_JREQ204148-2",
+      "job_title": "Senior Machine Learning Engineer – NLP/LLM",
+      "description": "Job Description As a Senior Machine Learning Engineer, you will build and deploy production machine learning and large language model (LLM) systems that extract actionable insights from complex legal documents and data. You will work on challenging natural language processing problems involving contractual language, information extraction, model-driven analysis, and comparisons across large collections of documents. You will join a highly technical machine learning team and collaborate with machine learning engineers, legal subject matter experts, product engineers, and data and security partners. This is a hands-on role for someone who has personally built, trained, evaluated, and deployed machine learning models into production and wants to apply that expertise to sophisticated real-world products. This role may be remote within the United States or hybrid from our New York City office. Key Responsibilities Design, build, train, and deploy machine learning and LLM-based models and systems that solve complex natural language processing and document intelligence problems. Develop production solutions for areas such as information extraction, text generation and summarization, AI agents, search, and document analysis. Build scalable and reliable machine learning pipelines that support model training, evaluation, deployment, and ongoing production use. Develop rigorous model evaluation frameworks and metrics to assess model quality, accuracy, reliability, drift, and potential bias. Optimize model performance and resource utilization through experimentation, feature engineering, model selection, and tuning. Translate complex business and product problems into practical machine learning solutions and take those solutions from experimentation through production deployment at scale. Collaborate across machine learning, engineering, product, legal domain, data, and security teams to deliver reliable AI capabilities while protecting sensitive information. Required Qualifications Master’s degree in Machine Learning, Computer Science, Statistics, or a closely related quantitative field with a focus on machine learning or artificial intelligence. 5+ years of professional machine learning engineering, applied machine learning, research engineering, or closely related software engineering experience. Demonstrated hands-on experience building, training, and deploying machine learning models into production, including the ability to explain your individual contribution from model development through production deployment. Strong practical experience with machine learning, natural language processing, and modern LLM architectures. Experience with at least one of the following: information extraction, text generation/summarization, AI agents, or search. Advanced Python programming skills and hands-on experience with machine learning frameworks such as PyTorch or TensorFlow. Experience developing or fine-tuning language models or other machine learning models for specialized use cases or domains. Experience designing and applying model evaluation methods and metrics to measure the performance and reliability of production machine learning systems. Ability to translate product or business problems into machine learning solutions and clearly communicate technical decisions, trade-offs, and outcomes. Strong problem-solving, collaboration, and ownership skills, with the ability to work effectively across technical and domain-focused teams. Preferred Qualifications PhD in Machine Learning, Computer Science, Statistics, or a closely related quantitative field. Experience deploying and operating ML or LLM systems at scale in production environments. Experience with legal technology, legal natural language processing, legal document analysis, or other domain-specific language modeling. Experience applying machine learning within financial services, economics, or other regulated or data-sensitive industries. Experience serving or self-hosting large language models and optimizing model performance and computational efficiency. Experience taking complex ML initiatives from experimentation or research through production and demonstrating measurable product or business impact. #LI-TH1 This posting is for proactive recruitment purposes and may be used to fill current openings or future vacancies within our organization. What’s in it For You? Hybrid Work Model: We’ve adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connected. Flexibility & Work-Life Balance: Flex My Way is a set of supportive workplace policies designed to help manage personal and professional responsibilities, whether caring for family, giving back to the community, or finding time to refresh and reset. This builds upon our flexible work arrangements, including work from anywhere for up to 8 weeks per year, empowering employees to achieve a better work-life balance. Career Development and Growth: By fostering a culture of continuous learning and skill development, we prepare our talent to tackle tomorrow’s challenges and deliver real-world solutions. Our Grow My Way programming and skills-first approach ensures you have the tools and knowledge to grow, lead, and thrive in an AI-enabled future. Industry Competitive Benefits: We offer comprehensive benefit plans to include flexible vacation, two company-wide Mental Health Days off, access to the Headspace app, retirement savings, tuition reimbursement, employee incentive programs, and resources for mental, physical, and financial wellbeing. Culture: Globally recognized, award-winning reputation for inclusion and belonging, flexibility, work-life balance, and more. We live by our values: Obsess over our Customers, Compete to Win, Challenge (Y)our Thinking, Act Fast / Learn Fast, and Stronger Together. Social Impact: Make an impact in your community with our Social Impact Institute. We offer employees two paid volunteer days off annually and opportunities to get involved with pro-bono consulting projects and Environmental, Social, and Governance (ESG) initiatives. Making a Real-World Impact: We are one of the few companies globally that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. Our use of AI within the recruitment process Thomson Reuters utilizes Artificial Intelligence (AI) to support parts of our global recruitment process. Unless you opt-out, our AI system will assess the information provided by you and compare it to the requirements listed for the role, and present the result to our recruitment personnel for further review. The AI system acts as a supporting tool, but there is always a human making the decision if you will be considered for the role. In the United States, Thomson Reuters offers a comprehensive benefits package to our employees. Our benefit package includes market competitive health, dental, vision, disability, and life insurance programs, as well as a competitive 401k plan with company match. In addition, Thomson Reuters offers market leading work life benefits with competitive vacation, sick and safe paid time off, paid holidays (including two company mental health days off), parental leave, sabbatical leave. These benefits meet or exceeds the requirements of paid time off in accordance with any applicable state or municipal laws. Finally, Thomson Reuters offers the following additional benefits: optional hospital, accident and sickness insurance paid 100% by the employee; optional life and AD&D insurance paid 100% by the employee; Flexible Spending and Health Savings Accounts; fitness reimbursement; access to Employee Assistance Program; Group Legal Identity Theft Protection benefit paid 100% by employee; access to 529 Plan; commuter benefits; Adoption & Surrogacy Assistance; Tuition Reimbursement; and access to Employee Stock Purchase Plan. Thomson Reuters complies with local laws that require upfront disclosure of the expected pay range for a position. The base compensation range varies across locations. Eligible office location(s) for this role include one or more of the following: New York City, San Francisco, Los Angeles, and/or Irvine, CA; McLean, VA; Washington, DC. The base compensation range for the role in any of those locations is $127,000 USD - $235,000 USD. For any eligible US locations, unless otherwise noted, the base compensation range for this role is $110,000 USD - $204,200 USD. For Ontario, Canada, the base compensation range for this role is $100,000 CAD - $145,000 CAD. Base pay is positioned within the range based on several factors including an individual’s knowledge, skills and experience with consideration given to internal equity. Base pay is one part of a comprehensive Total Reward program which also includes flexible and supportive benefits and other wellbeing programs. This role may also be eligible for an Annual Bonus based on a combination of enterprise and individual performance. About Us Thomson Reuters informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. We serve professionals across legal, tax, accounting, compliance, government, and media. Our products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth, and transparency. Reuters, part of Thomson Reuters, is a world leading provider of trusted journalism and news. We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments. At a time when objectivity, accuracy, fairness, and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward. As a global business, we rely on the unique backgrounds, perspectives, and experiences of all employees to deliver on our business goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity Employer providing a drug-free workplace. Thomson Reuters makes reasonable accommodations for applicants with disabilities, including veterans with disabilities, and for sincerely held religious beliefs in accordance with applicable law. If you reside in the United States and require an accommodation in the recruiting process, you may contact our Human Resources Department at HR.Leave-Expert@thomsonreuters.com. Disability accommodations in the recruiting process may include things like a sign language interpreter, making interview rooms accessible, providing assistive technology, or other relevant accommodations. Please note this email is not intended for general recruitment questions and we will promptly respond to inquiries regarding accommodations. More information on requesting an accommodation here. Learn more on how to protect yourself from fraudulent job postings here. More information about Thomson Reuters can be found on thomsonreuters.com At Thomson Reuters, we’re not riding the AI wave — we’re reshaping the future of professional work across law, tax, compliance, and journalism. Here, you will collaborate with smart, ambitious people who thrive on solving complex problems, delivering market-leading solutions, and innovating with curiosity and care. Learn more about a career with us 📖 Our Employer Story 🔍 Inside Thomson Reuters Blog 🏆 Awards and Recognition 🌱 Join Our Talent Community ✅ Protect Your Job Search Future-ready careers Our focus on a skills-first approach ensures you’ll have the tools and knowledge to grow, lead, and thrive in an AI-enabled future.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Machine-Learning-Engineer---NLP-LLM_JREQ204148-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mignone Center For Career Success - Harvard University",
+          "link": "https://careerservices.fas.harvard.edu/jobs/amgen-inc-undergrad-intern-machine-learning-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MIT Career Advising & Professional Development",
+          "link": "https://capd.mit.edu/jobs/cisco-machine-learning-engineer-i-intern-united-states/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Upwork",
+          "link": "https://www.upwork.com/freelance-jobs/apply/Machine-Learning-Operations-Engineer-Agent-Harnesses_~022108613633931767640/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bright Vision Technologies - JazzHR",
+          "link": "https://brightvisiontechnologies.applytojob.com/apply/MoGyJuzc6M/Machine-Learning-Engineer-RL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/machine-learning-engineer-i-intern_7ea1adbb597c0f50434c53ea01cb420391b77?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Torre.ai",
+          "link": "https://torre.ai/post/JdmMM29d-ai-talent-hunt-machine-learning-engineer-evals?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "OneRoadmap",
+          "link": "https://www.oneroadmap.io/jobs/6abdad3136c2e1375dc8f906?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciDigJMgTkxQL0xMTSIsImNvbXBhbnlfbmFtZSI6IlVTQTAxOCBUaG9tc29uIFJldXRlcnMgSG9sZGluZ3MgSW5jLiIsImh0aWRvY2lkIjoiVFQ1Q3hqN25fLVdzOU1TX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrTkVXVUkzTm1kbWFFWTRUbHB0YmxNemNsQlVhR05vV1RsZlkwOVNVelpOZUhOSFltbEZOMEkyZFZOb1RUWldRa05tYmpab1EwNUNOSE5sU0ZoNlkwUnFkSFl6UjBKVWJHdG9XVmxRTFhwYVYyeElNbmxCUjBka2VVaHhZakZ2VVVFNVJtb3hjVTk1VlhkUGJuTjBiVXB0ZFV3M1NESnBhMFJhZUZwd1NYRk5lRTFKV1hBU0Z6RkJabXhoYjB4V1J6VXlXWEIwVVZBd1MwZ3daMUV3R2lKQlNFNHdSVGRHZWtSWU1qZGhSVXR6YzJoWE4wNVZVM2RCWlVWM01HWmxjRFpCIiwiZmN2IjoiMyIsImZjX2lkIjoiVFQ1Q3hqN25fLVdzOU1TX0FBQUFBQT09In0="
+    },
+    {
+      "title": "Engineering Manager - Machine Learning Engineering",
+      "company_name": "The Aerospace Corp",
+      "location": "Chantilly, VA",
+      "via": "Monster",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=DNeFL9DV_nZ7ncd5AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02KsQrCMBCGce0jOB24iW1EcNGpFBFFN3Et13AkkXgXchnqQ_mOtpvLz8f3_dV3UV1O7AIT5cAO7sjoKEM9kfWThhth5jn932q4ygA6JetBGM4iLtLy6EtJejBGNTZOC5ZgGytvI0yDjOYlg87Tq8dMKWKhfrffjk1it149PEFLWTShJegkJwgMnUcuIcbPBp7tDw0m2wewAAAA&shmds=v1_Ac3VAoweE-BAINBjKjoyft_OMvDfsS51hzSXj-V1ELyXgluTFg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=DNeFL9DV_nZ7ncd5AAAAAA%3D%3D",
+      "extensions": [
+        "148K–221K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.monster.com/job-openings/engineering-manager-machine-learning-engineering-chantilly-va--c08fccbb-2383-41da-a98e-356983fa477f",
+      "job_title": "Engineering Manager - Machine Learning Engineering",
+      "description": "The Aerospace Corporation is the trusted partner to the nation's space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space- delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you'll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.\n\nInformation Systems and Cyber Division (ISCD) staff couple the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our Intelligence Community, DoD, and civilian customers.\n\nThe Engineering Manager of Machine Learning Engineering (MLE) leads a team of engineers and technical staff in developing and deploying cutting-edge data science, artificial intelligence (AI), and machine learning (ML) solutions. This role bridges the gap between innovation and implementation, transforming proof-of-concept models into production-ready applications that deliver real business value. This position is a critical leadership role that coordinates technical assignments, deliverable execution, customer relationships, career development, technical consultation, and overall direction. The Engineering Manager provides leadership to the MLE section and contributes to technical projects that solve customer problems.\n\nWork Model\n\nThis is a full-time position based in Chantilly, VA\n\nWhat You'll Be Doing\n\nProvides task planning, schedule, and labor estimates for proposed technical work assignments. Advises supervision of resources needs and capabilities. Provides inputs for budgetary planning.Participates in day-to-day technical activities and task accomplishments. Monitors and evaluates processes, techniques, and performance. Reviews documentation and delivery of services.Works closely with customers to coordinate tasking, report progress, resolve technical issues, and assure project success. Initiates and coordinates exchanges of technical information with other work groups and organizations. Prepares written and oral reports of organization's activities, issues, and accomplishments to higher management, subordinates, and teaming organizations.Recommends staffing needs, reassignments, transfers, and terminations. Recommends and assists evaluation of potential staff additions. Conducts performance reviews, recommends performance improvements, career development, and promotional actions.Implements policies, practices, and operating processes and recommends changes and improvements to supervision. Responsible for compliance with security monitoring, processes, and recommendations.Participates in inter-organizational team assignments and educational activities.Identifies opportunities for additional, expanded, and new business. Aids in the evaluation and pursuit of new business opportunities.Supervises and provides technical direction to engineering and engineering support staff involved in design and development efforts on shorter-range or discrete product outputs.Assigns specific task responsibilities to engineering and support personnel to achieve work schedule requirements. Specifies, monitors, and evaluates techniques and operating procedures.What You Need to be Successful\n\nMinimum Requirements:\n\nBachelors degree in STEM with emphasis in Data Science, Computer Science, Electrical or Computer Engineering, Physics, Mathematics, or related field(s)6 or more years of increasingly responsible professional engineering/scientific experience as a data scientist, machine learning engineer, or AI/ML researcher in any domainDemonstrated ability to lead, advise, and provide direction to subordinate team.Experience with and understanding of machine learning and artificial intelligence, software engineering, and statisticsProven ability to take initiative and successfully complete tasks, lead complex technical projects, and collaborate effectively.This position requires ability to obtain and maintain a security clearance, which is issued by the US government. U.S citizenship is required to obtain a security clearanceAbility to establish and maintain effective working relationships with all levels of customers and corporate staff.Proven ability to organize and lead technical tasks.Demonstrated initiative and strong leadership skills, with proven ability to build and manage effective teams.Demonstrated ability to rapidly learn and apply new technical skills.Demonstrated ability in oral and written communication skills.Some travel may be required.How You Can Stand Out\n\nIt would be impressive if you have one or more of these:\n\nAn advanced degree, from a recognized institution, in an appropriate technical discipline.Strong background in software development, algorithms, Data Science, Machine Learning, and Computer Vision.Broad exposure to the Machine Learning needs of Aerospace program offices and commercial customer base.Strong background with tools and techniques for ingesting, distilling, organizing, extracting and interpreting meaning from large and complex data sets.Experience in leading large sets of diverse teams to accomplish difficult applied AI goals in the DoD enterpriseDemonstrated contributions to open-source software repositories (github, kaggle, etc.)Active security clearanceWe offer a competitive compensation package where you'll be rewarded based on your performance and recognized for the value you bring to our business. The grade-based pay range for this job is listed below. Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.\n\n(Min - Max)\n\n$147,600.00 - $221,400.00\n\nPay Basis: Annual\n\nLeadership Competencies\n\nOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:\n\nOperate StrategicallyLead ChangeEngage with ImpactFoster InnovationDeliver ResultsWays We Reward Our Employees\n\nDuring your interview process, our team will provide details of our industry-leading benefits.\n\nBenefits vary and are applicable based on Job Type. A few highlights include:\n\nComprehensive health care and wellness plans\n\nPaid holidays, sick time, and vacation\n\nStandard and alternate work schedules, including telework options\n\n401(k) Plan - Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hire\n\nFlexible spending accounts\n\nVariable pay program for exceptional contributions\n\nRelocation assistance\n\nProfessional growth and development programs to help advance your career\n\nEducation assistance programs\n\nAn inclusive work environment built on teamwork, flexibility, and respect\n\nWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other-the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.\n\nEqual Opportunity Commitment\n\nThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you're an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.\n\n\nSkills:\nAerospace and Defense, Algorithms, Amazon Elastic Compute Cloud (EC2), Artificial Intelligence (AI), Bond Market, Budget Management, Calendar Management, Career Development, Communication Skills, Computer Engineering, Computer Science, Computer Vision, Customer Relations, Data Science, Data Sets, Documentation Review, Electrical Engineering, Engineering Management, Government, Healthcare, Information Technology & Information Systems, Intelligence Community, Internet Security, Leadership, Machine Learning, Maintain Compliance, Mathematics, Microservices, Operations Processes, Performance Management, Performance Reviews, Physics, Policy Implementation, Presentation/Verbal Skills, Problem Solving Skills, Process Improvement, Progress Reports, Proof of Concept, Realtime Operating System, Research & Development (R&D), Research Skills, Security Clearance, Security Compliance, Security Monitoring, Security Software, Service Delivery, Software Architecture, Software Development, Software Engineering, Special Collections, Staff Requirements, Statistics, Team Lead/Manager, Technical Delivery, Technical Leadership, Technical Support, Time Management, United States Department of Defense (DoD), Willing to Travel, Writing Skills\n\n\nThe Aerospace Corp\n\n\nThe Aerospace Corporation is a national nonprofit corporation that operates a federally funded research and development center and has more than 4,600 employees. With major locations in Chantilly, Virginia; El Segundo, California; Albuquerque, New Mexico; and Colorado Springs, Colorado, Aerospace addresses complex problems across the space enterprise and other areas of national and international significance through agility, innovation, and objective technical leadership. For more information, visit www.aerospace.org.\n\nCompany Size:\n500 to 999 employees\n\n\nIndustry:\nOther/Not Classified\n\n\n0\n\n\nWebsite:\nhttps://aerospace.org/",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/engineering-manager-machine-learning-engineering-chantilly-va--c08fccbb-2383-41da-a98e-356983fa477f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/engineering-manager-machine-learning-engineering-chantilly-va--c08fccbb-2383-41da-a98e-356983fa477f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/4ea9b25a-a444-4b22-a940-ffa93cdc52fb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/engineering-manager-machine-learning-engineering-aero-chantilly--lifeworq-28c86b53-ec70-4473-b6a5-7b9c4303b7bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-va-chantilly-engineering-manager-machine-learning-aerospace-corporation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbmdpbmVlcmluZyBNYW5hZ2VyIC0gTWFjaGluZSBMZWFybmluZyBFbmdpbmVlcmluZyIsImNvbXBhbnlfbmFtZSI6IlRoZSBBZXJvc3BhY2UgQ29ycCIsImh0aWRvY2lkIjoiRE5lRkw5RFZfblo3bmNkNUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdqaEdUVzk1WWxoR05HdFRVbE5FZHpGVWQyRk5RVEk0Um5Ga1RVWkdhbHAwYlZwUU1XMUdhV1ZpVVdaUFpYRlZkamhLUVU5Vk5tMW1NVmx4ZURkb1luRnRZVnA1UTNKUVNFdFlXVFJaTTNsWVFuVXhNVTFwWDBZd1ZtcDVTbWRmVXpoVVQwbHNiWE51VTJwRVRWWnlMVzVNYjNWUVpHRnNMWGhYUW1WclVGcHRXVmRHT0dzU0Z6RkJabXhoYjB4V1J6VXlXWEIwVVZBd1MwZ3daMUV3R2lKQlNFNHdSVGRJTWxWTFdqQmlhbXBSZFhnM2NsVmhlVlJVWTFGbmMxTlpNbGxuIiwiZmN2IjoiMyIsImZjX2lkIjoiRE5lRkw5RFZfblo3bmNkNUFBQUFBQT09In0="
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company_name": "THE DOW CHEMICAL COMPANY",
+      "location": "Riverdale, IL",
+      "via": "THE DOW CHEMICAL COMPANY",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A minimum of a bachelor’s degree or relevant military experience at the E5 rank/Petty Officer 2nd Class or higher or 8 years of experience in lieu of a bachelors degree is required",
+            "A minimum of three years of experience developing and delivering solutions in machine learning, data science, software engineering, data engineering, or a related field",
+            "The minimum requirement for this U.S.-based position is the ability to work legally in the United States",
+            "No visa sponsorship or support is available for this position, including for any type of U.S. permanent residency process",
+            "Additional preference for an advanced degree from a relevant field",
+            "Demonstrated experience architecting or operating an enterprise MLOps framework, platform, or shared set of deployment practices",
+            "Advanced proficiency in Python, PySpark, and SQL, with experience using one or more machine learning frameworks such as scikit-learn, TensorFlow, PyTorch, Keras, Spark MLlib, or Ray",
+            "Hands-on experience developing and deploying machine learning models and pipelines on Databricks, including MLflow, Delta Lake, Unity Catalog, Workflows or Jobs, model registry capabilities, and batch or real-time serving",
+            "Experience implementing modern software engineering practices for ML workloads using Git, automated testing, code review, CI/CD, packaging, infrastructure as code, and Azure DevOps",
+            "Strong knowledge of machine learning concepts, algorithms, evaluation methods, feature engineering, model selection, optimization, explainability, and production monitoring",
+            "Experience designing and operating batch, streaming, and real-time inference patterns, including model integration through REST APIs, event platforms such as Event Hubs or Kafka, or enterprise batch interfaces",
+            "Experience with Azure services such as Azure Machine Learning, Azure Data Factory, Azure Data Lake Storage Gen2, Functions, Logic Apps, Azure SQL, or Azure Kubernetes Service",
+            "Experience designing and deploying both traditional machine learning and generative AI systems into production",
+            "Knowledge of data modeling, lakehouse architecture, data warehousing, ETL/ELT, Apache Spark, and distributed data processing",
+            "Demonstrated ability to influence technical communities, define standards, facilitate architecture decisions, coach practitioners, and communicate complex concepts to technical and non-technical audiences",
+            "Ability to lead complex, cross-functional work, manage priorities across multiple projects with limited supervision, and resolve ambiguous technical and organizational challenges",
+            "Curiosity and a demonstrated ability to evaluate and apply emerging technologies to business objectives",
+            "Excellent consulting skills and the ability to communicate effectively across diverse technical and business audiences, translating complex concepts into clear, actionable recommendations",
+            "MLOps Architecture: Designs scalable, secure, and maintainable frameworks spanning data and feature pipelines, experiment tracking, model governance, automated testing, CI/CD, deployment, monitoring, retraining, and support",
+            "Production ML Engineering: Delivers reliable ML systems end to end—from ambiguous requirements and architecture through build, test, deployment, integration, monitoring, and operational support—with attention to performance and cost",
+            "Databricks and Azure Engineering: Designs and operates cloud-native solutions using the Databricks Lakehouse, MLflow, Unity Catalog, Spark, Azure DevOps, and relevant Azure data, integration, compute, and application services",
+            "Software Development Excellence: Applies modular design, source control, code review, automated testing, packaging, dependency management, CI/CD, infrastructure as code, observability, and maintainable documentation to ML workloads",
+            "Strategic Planning and Continuous Improvement: Aligns platform roadmaps and technology choices with enterprise priorities, defines measurable outcomes, and prioritizes modernization, reliability, productivity, and cost optimization"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We invest in you",
+            "Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career",
+            "You bring your background, talent, and perspective to work every day",
+            "Dow rewards that commitment by investing in your total wellbeing",
+            "Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives",
+            "Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it",
+            "Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals",
+            "Employee stock purchase programs (availability varies depending on location)",
+            "Student Debt Retirement Savings Match Program (U.S. only)",
+            "Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match",
+            "Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs",
+            "Travel insurance is also available in certain countries/locations",
+            "Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building",
+            "Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs",
+            "Competitive yearly vacation allowance",
+            "Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents)",
+            "Paid time off to care for family members who are sick or injured",
+            "Paid time off to support volunteering and Employee Resource Group’s (ERG) participation",
+            "On-site fitness facilities to help stay healthy and active (availability varies depending on location)",
+            "Employee discounts for online shopping, cinema tickets, gym memberships and more",
+            "Transportation allowance (availability varies depending on location)",
+            "Meal subsidiaries/vouchers (availability varies depending on location)",
+            "Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will architect, manage, support, and continuously enhance the tools, technology, and processes that enable data science teams to move reliably through the end-to-end machine learning lifecycle using a Databricks-first approach",
+            "You will also lead the adoption of modern software engineering and MLOps practices across Dow’s data science community and work hands-on as an ML engineer on priority projects, designing and implementing production-grade model deployments and integrations with enterprise IT systems",
+            "Success in this role requires close collaboration with data scientists, data engineers, platform and DevOps engineers, application teams, domain experts, cybersecurity partners, and business stakeholders",
+            "Own the architecture and technical roadmap for Dow’s enterprise MLOps framework, integrating the tools, technology, environments, controls, and processes required to move machine learning assets from development through production successfully with a Databricks-first approach",
+            "Design repeatable workflows for development, testing, release, deployment, monitoring, retraining, and retirement across appropriately separated development, test, and production environments that incorporate best practices and meet security requirements",
+            "Build and enhance CI/CD, configuration-as-code, and infrastructure-as-code patterns for ML code, data pipelines, models, and supporting services using Databricks and Azure DevOps",
+            "Establish reusable reference architectures, templates, libraries, automated tests, quality gates, deployment patterns, observability, and operational support practices for batch, streaming, and real-time inference",
+            "Implement secure and governed lifecycle management for data, features, experiments, models, and deployments, including access control, lineage, auditability, versioning, and model discovery",
+            "Evaluate and incorporate emerging Databricks, Azure, open-source, and generative AI capabilities when they improve reliability, developer productivity, governance, scalability, or cost efficiency",
+            "Engineering Excellence Leader",
+            "Define, document, and promote modern development standards for machine learning solutions, including source control, branching, code reviews, modular design, automated testing, dependency management, reproducibility, CI/CD, and production readiness",
+            "Drive adoption of Dow’s MLOps framework across the company’s data science community through coaching, hands-on enablement, reusable examples, technical reviews, office hours, and targeted learning",
+            "Partner with data science, data engineering, platform, architecture, cybersecurity, and application development leaders to align practices, remove delivery friction, and establish clear ownership across the ML lifecycle",
+            "Define and monitor meaningful measures of framework adoption, solution quality, deployment speed, reliability, maintainability, operational health, and business value; use the results to guide continuous improvement",
+            "Serve as a trusted technical advisor and mentor, helping teams make pragmatic architecture and engineering decisions for traditional machine learning and generative AI solutions",
+            "Use Case Delivery",
+            "Operate as a hands-on ML engineer on high-priority use cases, translating business, analytical, security, integration, scalability, and service-level requirements into production solution designs",
+            "Design and implement training, validation, batch inference, streaming inference, and real-time serving pipelines on Azure and Databricks",
+            "Use MLflow and related Databricks capabilities for experiment tracking, evaluation, model registration, deployment, observability, and lifecycle management",
+            "Perform or support data analysis, feature engineering, model selection, hyperparameter optimization, model evaluation, packaging, and production validation as needed across the end-to-end lifecycle",
+            "Collaborate with application development teams to integrate model outputs or serving endpoints securely and reliably into production IT systems using APIs, events, streams, or batch interfaces",
+            "Implement monitoring and support practices for data quality, system performance, prediction quality, drift, failures, and cost; lead troubleshooting and remediation for production ML solutions",
+            "Communicate solution designs, tradeoffs, model performance, operational risks, and business outcomes clearly to technical and non-technical stakeholders",
+            "Technical Leadership and Influence: Establishes a clear technical direction, builds alignment across teams, mentors practitioners, and drives adoption of standards through practical enablement rather than authority alone",
+            "Integration Services: Builds secure, high-throughput REST API, event, streaming, and batch integrations that connect models with enterprise applications and polyglot data stores",
+            "Security and Governance: Embeds identity, access control, data and model governance, lineage, auditability, compliance, code review, and automated controls into architecture and delivery practices"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=NEoonW3US-qDTHfhAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIwQqCQBCAYbr6CJ3mWpQrQZc6iUkamhFBdJJ1G3Y3bEZ2l_BZetrs8sP3R99ZlNRSGUsIFUpHljTkpCejgzWcuAM_fWWACY7Musf53oQw-J0Q3vex9kEGq2LFb8GEHY_ixZ3_p_VGOhx6GbDdbJMxHkgvF7cih0Nzh6zI6zJLK8ia-pKeH2AJrvaD7il7XEFZ_QBBN4cxnQAAAA&shmds=v1_Ac3VAoxHNBlPaKFqwnXziHh0X_BmSzuDu7sQJXCN2C4zPCm1Eg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=NEoonW3US-qDTHfhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAMAAAAgENppAAAAaVBMVEX____vPkLvPEDvNTnuMDXvNzv4ubrxYWT5w8TuLTLuKC771tf1kpTuJSv0hIb--Pjyc3b0i43ze33uHCP6y8z1lpj84-TwRkr-8fH2m534tLXxXF_3qKn2n6DtAAztFh3tAADxU1bybG4Kx8GiAAABJ0lEQVRIie2T3W6DMAxGjeMEkpAQfhogQBm8_0MulGrSqqplkybtgnOJcvhsxwE4OfknFJkr9S-siiRnKsl_4u4WJhFkqj2YGys0teLJF5v7NrdoLPVBCDGwKEjJEs4QOWc1vsptLMa-LqC1h4GzUevclFOK1UD5NJjnuTErUVtfUbzKWevZg8ggWHAl-Kv29LzmrqrNPo4o1kh918Kq6gk-QMSzC7hb18zMrnuMFKskvIvomxbikEaYA4CFrjNxSiRX8ajtsSFVROPtN61qIGtglAsU1wxyIpWGp9aOHxdXWWsRkawITmI6Tdz26TC-sO7upa1lrBk5Ed8KVGaZ_Fvths4Txe6bY5bexy99dsjc7pRvu9pe9vn7cHxnv7-O4rB3cvI3fAJceRA8l4bPJgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "16 days ago",
+        "Full-time",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.dow.com/hiring/machine-learning-engineer-riverdale-il-6ac623301226fc08034af7d7",
+      "job_title": "Machine Learning Engineer",
+      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.\n\nOur people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.If you’re looking for a challenge and meaningful role, you’re in the right place.\n\nAbout you and this role\n\nDow has an exciting and challenging opportunity for a Machine Learning Engineer within our Enterprise Data & AI organization, located in Houston, TX; Midland, MI; or Champaign, IL.\n\nAs a Machine Learning Engineer on our Data Science & Engineering team, you will serve in a multi-faceted technical leadership role spanning three key areas: MLOps Framework Architecture, Engineering Excellence, and Use Case Delivery. You will architect, manage, support, and continuously enhance the tools, technology, and processes that enable data science teams to move reliably through the end-to-end machine learning lifecycle using a Databricks-first approach. You will also lead the adoption of modern software engineering and MLOps practices across Dow’s data science community and work hands-on as an ML engineer on priority projects, designing and implementing production-grade model deployments and integrations with enterprise IT systems. Success in this role requires close collaboration with data scientists, data engineers, platform and DevOps engineers, application teams, domain experts, cybersecurity partners, and business stakeholders.\n\nResponsibilities\n\nMLOps Framework Architect\n\n\nOwn the architecture and technical roadmap for Dow’s enterprise MLOps framework, integrating the tools, technology, environments, controls, and processes required to move machine learning assets from development through production successfully with a Databricks-first approach.Design repeatable workflows for development, testing, release, deployment, monitoring, retraining, and retirement across appropriately separated development, test, and production environments that incorporate best practices and meet security requirements.Build and enhance CI/CD, configuration-as-code, and infrastructure-as-code patterns for ML code, data pipelines, models, and supporting services using Databricks and Azure DevOps.Establish reusable reference architectures, templates, libraries, automated tests, quality gates, deployment patterns, observability, and operational support practices for batch, streaming, and real-time inference.Implement secure and governed lifecycle management for data, features, experiments, models, and deployments, including access control, lineage, auditability, versioning, and model discovery.Evaluate and incorporate emerging Databricks, Azure, open-source, and generative AI capabilities when they improve reliability, developer productivity, governance, scalability, or cost efficiency.Engineering Excellence Leader\n\n\nDefine, document, and promote modern development standards for machine learning solutions, including source control, branching, code reviews, modular design, automated testing, dependency management, reproducibility, CI/CD, and production readiness.Drive adoption of Dow’s MLOps framework across the company’s data science community through coaching, hands-on enablement, reusable examples, technical reviews, office hours, and targeted learning.Partner with data science, data engineering, platform, architecture, cybersecurity, and application development leaders to align practices, remove delivery friction, and establish clear ownership across the ML lifecycle.Define and monitor meaningful measures of framework adoption, solution quality, deployment speed, reliability, maintainability, operational health, and business value; use the results to guide continuous improvement.Serve as a trusted technical advisor and mentor, helping teams make pragmatic architecture and engineering decisions for traditional machine learning and generative AI solutions.Use Case Delivery\n\n\nOperate as a hands-on ML engineer on high-priority use cases, translating business, analytical, security, integration, scalability, and service-level requirements into production solution designs.Design and implement training, validation, batch inference, streaming inference, and real-time serving pipelines on Azure and Databricks.Use MLflow and related Databricks capabilities for experiment tracking, evaluation, model registration, deployment, observability, and lifecycle management.Perform or support data analysis, feature engineering, model selection, hyperparameter optimization, model evaluation, packaging, and production validation as needed across the end-to-end lifecycle.Collaborate with application development teams to integrate model outputs or serving endpoints securely and reliably into production IT systems using APIs, events, streams, or batch interfaces.Implement monitoring and support practices for data quality, system performance, prediction quality, drift, failures, and cost; lead troubleshooting and remediation for production ML solutions.Communicate solution designs, tradeoffs, model performance, operational risks, and business outcomes clearly to technical and non-technical stakeholders.Qualifications\n\n\nA minimum of a bachelor’s degree or relevant military experience at the E5 rank/Petty Officer 2nd Class or higher or 8 years of experience in lieu of a bachelors degree is required.A minimum of three years of experience developing and delivering solutions in machine learning, data science, software engineering, data engineering, or a related field.The minimum requirement for this U.S.-based position is the ability to work legally in the United States. No visa sponsorship or support is available for this position, including for any type of U.S. permanent residency process.Preferred qualifications\n\n\nDegree in computer science, engineering, mathematics, statistics, data science, or a related field. Additional preference for an advanced degree from a relevant field.Demonstrated experience architecting or operating an enterprise MLOps framework, platform, or shared set of deployment practices.Advanced proficiency in Python, PySpark, and SQL, with experience using one or more machine learning frameworks such as scikit-learn, TensorFlow, PyTorch, Keras, Spark MLlib, or Ray.Hands-on experience developing and deploying machine learning models and pipelines on Databricks, including MLflow, Delta Lake, Unity Catalog, Workflows or Jobs, model registry capabilities, and batch or real-time serving.Experience implementing modern software engineering practices for ML workloads using Git, automated testing, code review, CI/CD, packaging, infrastructure as code, and Azure DevOps.Strong knowledge of machine learning concepts, algorithms, evaluation methods, feature engineering, model selection, optimization, explainability, and production monitoring.Experience designing and operating batch, streaming, and real-time inference patterns, including model integration through REST APIs, event platforms such as Event Hubs or Kafka, or enterprise batch interfaces.Experience with Azure services such as Azure Machine Learning, Azure Data Factory, Azure Data Lake Storage Gen2, Functions, Logic Apps, Azure SQL, or Azure Kubernetes Service.Experience designing and deploying both traditional machine learning and generative AI systems into production.Knowledge of data modeling, lakehouse architecture, data warehousing, ETL/ELT, Apache Spark, and distributed data processing.Demonstrated ability to influence technical communities, define standards, facilitate architecture decisions, coach practitioners, and communicate complex concepts to technical and non-technical audiences.Ability to lead complex, cross-functional work, manage priorities across multiple projects with limited supervision, and resolve ambiguous technical and organizational challenges.Curiosity and a demonstrated ability to evaluate and apply emerging technologies to business objectives.Excellent consulting skills and the ability to communicate effectively across diverse technical and business audiences, translating complex concepts into clear, actionable recommendations.Your Skills\n\n\nMLOps Architecture: Designs scalable, secure, and maintainable frameworks spanning data and feature pipelines, experiment tracking, model governance, automated testing, CI/CD, deployment, monitoring, retraining, and support.Technical Leadership and Influence: Establishes a clear technical direction, builds alignment across teams, mentors practitioners, and drives adoption of standards through practical enablement rather than authority alone.Production ML Engineering: Delivers reliable ML systems end to end—from ambiguous requirements and architecture through build, test, deployment, integration, monitoring, and operational support—with attention to performance and cost.Databricks and Azure Engineering: Designs and operates cloud-native solutions using the Databricks Lakehouse, MLflow, Unity Catalog, Spark, Azure DevOps, and relevant Azure data, integration, compute, and application services.Software Development Excellence: Applies modular design, source control, code review, automated testing, packaging, dependency management, CI/CD, infrastructure as code, observability, and maintainable documentation to ML workloads.Integration Services: Builds secure, high-throughput REST API, event, streaming, and batch integrations that connect models with enterprise applications and polyglot data stores.Security and Governance: Embeds identity, access control, data and model governance, lineage, auditability, compliance, code review, and automated controls into architecture and delivery practices.Strategic Planning and Continuous Improvement: Aligns platform roadmaps and technology choices with enterprise priorities, defines measurable outcomes, and prioritizes modernization, reliability, productivity, and cost optimization.Additional notes\n\n\nThis position does not offer relocation assistance.This position does not have people leadership responsibility. This position is an Independent Contributor; however, you may act as coach and mentor to junior resources.Benefits – What Dow offers you\n\nWe invest in you.\n\n\nDow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.\n\nHere are just a few highlights of what you would be offered as a Dow employee:\n\nEquitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives.Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it.Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.Employee stock purchase programs (availability varies depending on location).Student Debt Retirement Savings Match Program (U.S. only).Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building.Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs.Competitive yearly vacation allowance.Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).Paid time off to care for family members who are sick or injured.Paid time off to support volunteering and Employee Resource Group’s (ERG) participation.Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.On-site fitness facilities to help stay healthy and active (availability varies depending on location).Employee discounts for online shopping, cinema tickets, gym memberships and more.Additionally, some of our locations might offer:Transportation allowance (availability varies depending on location)Meal subsidiaries/vouchers (availability varies depending on location)Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)Join our team, we can make a difference together.\n\nAbout Dow\nDow (NYSE: DOW) is one of the world’s leading materials science companies, serving customers in high-growth markets such as packaging, infrastructure, mobility and consumer applications.Our global breadth, asset integration and scale, focused innovation, leading business positions and commitment to sustainability enable us to achieve profitable growth and help deliver a sustainable future. We operate manufacturing sites in 30countries and employ approximately36,000 people. Dow delivered sales of approximately$43 billionin 2024. References to Dow or the Company mean Dow Inc. and its subsidiaries. Learn more about us and our ambition to be the most innovative, customer-centric, inclusive and sustainable materials science company in the world by visitingwww.dow.comopens in a new tab.\n\nAs part of our dedication to inclusion, Dow is committed to equal opportunities in employment. We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow's equal opportunities is available on www.dow.comopens in a new tab.\n\nDow is an Equal Employment Opportunity employer and is committed to providing opportunities without regard for race, color, religion, sex, including pregnancy, sexual orientation, or gender identity, national origin, age, disability and genetic information, including family medical history. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may call us at 1-833-My Dow HR (833-693-6947) and select option 8.",
+      "apply_options": [
+        {
+          "title": "THE DOW CHEMICAL COMPANY",
+          "link": "https://jobs.dow.com/hiring/machine-learning-engineer-riverdale-il-6ac623301226fc08034af7d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tech Engineer Jobs",
+          "link": "https://techengineerjobs.ai/listings/1qevo96nnbie-0fb91467b947e81dd0edf39-f24366636?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVEhFIERPVyBDSEVNSUNBTCBDT01QQU5ZIiwiaHRpZG9jaWQiOiJORW9vblczVVMtcURUSGZoQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2xrM1VFdG9PVlZtVjJGUFZESkVZMnM1Y2pWQ1JsbGhZakZHZGxaVmVuTk5RVjk0U1dGQlpYbFhNR2RhVUd4NFZrSlJTV3hCTldzelRFbFdkR3BZV25OWldWbDFZVlpTTFhKRVZGUm1Uemd4U1ZoMFJsUlhkV2hGWVZaMmNYWkNaR05sTm05QlRUZG1WbVp3YVZkUE5UWkxPSEkxVTFaclJYRjFlR0pxYzE4MmNHSlBiRXNTRnpGQlpteGhiMHhXUnpVeVdYQjBVVkF3UzBnd1oxRXdHaUpCU0U0d1JUZEZhVkZ6UmpCbFkxSlRSMUpQWWpGRGFGZGFVbXMwZG5Wek5WQjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJORW9vblczVVMtcURUSGZoQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Audio Machine Learning Intern/Co-op",
+      "company_name": "Bose Corporation",
+      "location": "Bloomfield Hills, MI (+2 others)",
+      "via": "Bose Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Currently pursuing or recently completed an M.S. or Ph.D. in Computer Science, Electrical Engineering, Machine Learning, Music Technology, or a related field",
+            "Experience developing machine learning or deep learning models using PyTorch, TensorFlow, Keras, or similar frameworks",
+            "Programming experience with Python and familiarity with C/C++, MATLAB, or similar languages",
+            "Understanding of audio signal processing and/or digital signal processing fundamentals",
+            "Experience with at least one audio ML area, such as speech enhancement, source separation, microphone array processing, TinyML, generative audio, spatial audio, or audio perception",
+            "Strong problem-solving, collaboration, and communication skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary",
+            "The hiring range for this position in the primary work location of Framingham, Massachusetts is: $40.00-$51.25 per hour",
+            "In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role you’ll work alongside experts in machine learning, digital signal processing, software engineering, and psychoacoustics to research, prototype, and evaluate novel audio algorithms",
+            "You’ll have the opportunity to take ideas from research through proof of concept, with the potential to contribute to future Bose products, patents, and research publications",
+            "Develop, train, and evaluate machine learning and deep learning algorithms for audio applications",
+            "Research and implement state-of-the-art approaches in audio ML and digital signal processing",
+            "Prototype and integrate ML algorithms into software or hardware platforms to demonstrate new audio experiences",
+            "Develop and curate datasets, tools, and resources to support ML research and evaluation",
+            "Collaborate with researchers and engineers across disciplines to solve challenging audio problems",
+            "Present research findings and technical recommendations to Bose's interdisciplinary community"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=We7Zq7c9FEdSVdFeAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMQQ6CMBAA45UneNqjMUKNiRc8CQfFyBtIKWtbU3abbk34jx8VL3OZzBTfTVFfP5Nn6LVxnhCeqBN5stBRxkSq5ZIjlPDgEWR1xgET3JhtwO3F5RylVkokVFayzt5UhmfFhCMv6s2j_DGI0wlj0BmH0_m4VJHsftewILScIqc1XK-eoAnM88tjmODuQ5AD9N0PnWs2yaYAAAA&shmds=v1_Ac3VAozIXb9cNOqelVDNPwnVMimjaZwkrPMLqXZW42g4_1CEtQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=We7Zq7c9FEdSVdFeAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEX___8AAACfn5-Dg4PV1dV6enr5-fnY2Niurq719fWQkJDMzMwYGBgaGhotLS3j4-Nubm5nZ2cQEBC_v7_t7e1bW1uKiopUVFQ6OjpJSUkyMjJ0dHQhISFOTk5AQEAnJyc0Dbs9AAABEElEQVRIie2RW3aDMAxEZSg2hIcBQ6A897_LaFQgbg4raH0_fEYSAyNDFAgEAv8Em8RCkpOJDzRFR9NRGvt4xkQdDHQqlaenGt9NwTOiNOZbqcixqnPUeoIbr4xRN-br5O3DYCZalMp6ltbA3fGx0mPoVwt3frdiIwO2bxmrXZLnDz5SGWtW7e3dIFlZIC72iqSmko-iLIpWO5m3bau63z4MiomDNrSx7JA8oaGaphGWDIEqZq8_Poi9DOwD9tqO5ADJRyQt74JiuhDNSrlI9pKkPUNSO4nv83O5BrdQG-TTOx5E_US5mApJVzTxpPXvxGfWl7TPU_Xd1XSnMfpAU3ooR_Zqmmt--0cCgUDgz_ECTIIK1PHNNmUAAAAASUVORK5CYII.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.bose.com/us/en/job/BCRBCSUSR29277EXTERNALENUS/Audio-Machine-Learning-Intern-Co-op",
+      "job_title": "Audio Machine Learning Intern/Co-op",
+      "description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound. \n\n  \n\nToday, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. \n\n\n\n\n\nJob Description\n\nThe Role\n\nAt Bose, we have a passion for creating extraordinary audio experiences by combining innovative research with cutting-edge technology. We’re looking for an Audio Machine Learning Intern to help develop the next generation of AI-powered audio technologies.\n\n \n\nIn this role you’ll work alongside experts in machine learning, digital signal processing, software engineering, and psychoacoustics to research, prototype, and evaluate novel audio algorithms. Your work may span areas such as speech enhancement, voice pickup, hearing augmentation, spatial audio, and new applications enabled by real-time machine learning.\n\n \n\nYou’ll have the opportunity to take ideas from research through proof of concept, with the potential to contribute to future Bose products, patents, and research publications.\n\n \n\nResponsibilities\n\nDevelop, train, and evaluate machine learning and deep learning algorithms for audio applications.Research and implement state-of-the-art approaches in audio ML and digital signal processing.Prototype and integrate ML algorithms into software or hardware platforms to demonstrate new audio experiences.Develop and curate datasets, tools, and resources to support ML research and evaluation.Collaborate with researchers and engineers across disciplines to solve challenging audio problems.Present research findings and technical recommendations to Bose's interdisciplinary community.Minimum Qualifications\n\nCurrently pursuing or recently completed an M.S. or Ph.D. in Computer Science, Electrical Engineering, Machine Learning, Music Technology, or a related field.Experience developing machine learning or deep learning models using PyTorch, TensorFlow, Keras, or similar frameworks.Programming experience with Python and familiarity with C/C++, MATLAB, or similar languages.Understanding of audio signal processing and/or digital signal processing fundamentals.Experience with at least one audio ML area, such as speech enhancement, source separation, microphone array processing, TinyML, generative audio, spatial audio, or audio perception.Strong problem-solving, collaboration, and communication skills.Preferred Qualifications\n\nExperience deploying ML models for real-time or resource-constrained applications, including TFLite, ONNX, or similar technologies.Experience with spatial audio, room acoustics, or acoustic simulation and analysis.Software engineering experience demonstrated through internships, research, coursework, or personal projects.Research publications or demonstrated research experience in machine learning, audio, or signal processing.Passion for audio, music, machine learning, and creating exceptional sound experiences.\n\nTIMEFRAME \n\n\nJanuary 11-June 25, 2027\n\nJune 7- August 20, 2027\n\nJuly 12- December 17, 2027\n\n\n\n\n\n\n\nAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary.  The hiring range for this position in the primary work location of Framingham, Massachusetts is: $40.00-$51.25 per hour.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences.  We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.‎",
+      "apply_options": [
+        {
+          "title": "Bose Careers",
+          "link": "https://careers.bose.com/us/en/job/BCRBCSUSR29277EXTERNALENUS/Audio-Machine-Learning-Intern-Co-op?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/audio-machine-learning-intern-co-op-bloomfield-hills-mi--fda4cdb0-e325-43b8-ab13-abdcc1302f58?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/audio-machine-learning-intern-co-op/11565149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/audio-machine-learning-intern-co-op--bloomfield-hills--ed0f2dbda1df9a9d8b97340f2da413127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=1qzy6m9ov0vk9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/audio-machine-learning-intern-co-op-at-bose-corporation-4476945127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/bose/Job/Audio-Machine-Learning-Intern-Co-op/-in-Bloomfield-Hills,MI?jid=ce6aed809a0f845c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/496e3554-a063-461f-a07f-c94678135446?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdWRpbyBNYWNoaW5lIExlYXJuaW5nIEludGVybi9Dby1vcCIsImNvbXBhbnlfbmFtZSI6IkJvc2UgQ29ycG9yYXRpb24iLCJodGlkb2NpZCI6IldlN1pxN2M5RkVkU1ZkRmVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZWE5DY1UxQ05rcEVZa1YzWjNKalRWbFFiV1pmYkdoUU5sTk5OMjl3VUd0cWIxOVdZakJMUVVwcU1HSklWbWMyU2pOclZ6bGxjM0U1Um1aTFNHMUthRWx0UTB0TmNrdHVNQzFSWVdKcWJEZ3dValEzWW1sRGExcEllVVJzVkhnd2Qyb3lVSGRYU25SR2FFVndObTlNYnpFd1FsbExZa0V5ZG1kUmNFMXVTSFozWWpWRllVNFNGekZCWm14aGIweFdSelV5V1hCMFVWQXdTMGd3WjFFd0dpSkJTRTR3UlRkRlRIbDZMVE53T0U5NGMwNUZXVkppUVVjdGNXWlZiRUpQUkRGQiIsImZjdiI6IjMiLCJmY19pZCI6IldlN1pxN2M5RkVkU1ZkRmVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Machine Learning Engineer, Public Sector",
+      "company_name": "Scale AI, Inc.",
+      "location": "Honolulu, HI",
+      "via": "Snagajob",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Comfortable with light travel (approximately 10%) for customer interaction and team needs",
+            "2+yearsof experience building and deploying applied ML systems in production environments",
+            "Extensive experience with GenAI, Agentic AI, natural language processing, deep learning and deep reinforcement learning, or computer vision in a production environment",
+            "Solid background in algorithms, data structures, and object-oriented programming",
+            "Strong programming skills in Python, experience in Tensorflow or PyTorch",
+            "Experience deploying software into environments you can't reach from your laptop - on-prem, edge, air-gapped, or otherwise restricted networks",
+            "Any prior exposure to government or defense work: military or civilian service, a cleared internship, or time at a federal contractor",
+            "Having written evaluations for a system whose output isn't deterministic: benchmarks, LLM judges, or a regression suite that caught something real",
+            "Experience with geospatial data or maps - GIS tooling, spatial reference systems, or imagery",
+            "Comfortable with light travel (approximately 10%) for customer interaction and team needs",
+            "This role will require an active TS security clearance",
+            "2+yearsof experience building and deploying applied ML systems in production environments",
+            "Extensive experience with GenAI, Agentic AI, natural language processing, deep learning and deep reinforcement learning, or computer vision in a production environment",
+            "Solid background in algorithms, data structures, and object-oriented programming",
+            "Strong programming skills in Python, experience in Tensorflow or PyTorch",
+            "Experience deploying software into environments you can't reach from your laptop - on-prem, edge, air-gapped, or otherwise restricted networks",
+            "Any prior exposure to government or defense work: military or civilian service, a cleared internship, or time at a federal contractor",
+            "Hands-on fine-tuning of open-weight models - LoRA/PEFT, instruction tuning, or training embedding models, at work or on your own",
+            "Having written evaluations for a system whose output isn't deterministic: benchmarks, LLM judges, or a regression suite that caught something real",
+            "Experience with geospatial data or maps - GIS tooling, spatial reference systems, or imagery",
+            "A shipped project with real users behind it, where you owned it after launch rather than handing it off at merge"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation packages at Scale for eligible roles include base salary, equity, and benefits",
+            "The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training",
+            "Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval",
+            "Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant",
+            "You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO",
+            "Additionally, this role may be eligible for additional benefits such as a commuter stipend",
+            "$235,200—$294,000 USD",
+            "Compensation packages at Scale for eligible roles include base salary, equity, and benefits",
+            "The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training",
+            "Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval",
+            "Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant",
+            "You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO",
+            "Additionally, this role may be eligible for additional benefits such as a commuter stipend",
+            "$235,200—$294,000 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This includes building agent frameworks that integrate with custom retrieval pipelines and production APIs, as well as evaluation tools to benchmark and refine agent behavior",
+            "Take state of the art models developed internally and from the community, use them in production to solve problems for our customers and taskers",
+            "Improve and maintain production models through retraining, hyperparameter tuning, and architectural updates, while preserving core performance characteristics",
+            "Collaborate with product and research teams to identify and prototype ML-driven product enhancements, including for upcoming product lines",
+            "Work with massive datasets to develop both generic models as well as fine tune models for specific products",
+            "Build scalable machine learning infrastructure to automate and optimize our ML services",
+            "Serve as a cross-functional representative and advocate for machine learning techniques across engineering and product organizations",
+            "Be comfortable learning new technologies quickly and managing multiple priorities in a fast-paced environment",
+            "This role will require an active TS security clearance",
+            "Hands-on fine-tuning of open-weight models - LoRA/PEFT, instruction tuning, or training embedding models, at work or on your own",
+            "A shipped project with real users behind it, where you owned it after launch rather than handing it off at merge",
+            "This includes building agent frameworks that integrate with custom retrieval pipelines and production APIs, as well as evaluation tools to benchmark and refine agent behavior",
+            "We're also advancing research in areas like reinforcement learning for agentic LLMs, with successful deployment into real-world operational environments",
+            "Take state of the art models developed internally and from the community, use them in production to solve problems for our customers and taskers",
+            "Improve and maintain production models through retraining, hyperparameter tuning, and architectural updates, while preserving core performance characteristics",
+            "Collaborate with product and research teams to identify and prototype ML-driven product enhancements, including for upcoming product lines",
+            "Work with massive datasets to develop both generic models as well as fine tune models for specific products",
+            "Build scalable machine learning infrastructure to automate and optimize our ML services",
+            "Serve as a cross-functional representative and advocate for machine learning techniques across engineering and product organizations",
+            "Be comfortable learning new technologies quickly and managing multiple priorities in a fast-paced environment"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=0ix0__xWzcoee7bOAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKQQrCMBBAUdz2CC5k1lITEdzoorgQW1EQeoCSDEMSiTMlSaGn8azWzYcHv_ququZp0AcmeJBJHNjBld1iSjW8JhsDQk9YJMEO7mIhLxt6EIabiIu0PvtSxnzSOueoXC6mBFQoHy1MVmb9Fpv_GbI3icZoCg2H435WI7vtpkcTCS5dDR2jgsDQCkuc4lRD2_0A-id9DaEAAAA&shmds=v1_Ac3VAowRgrEU8EcY7NUcRn9LWp4MBoX4rQkVa8shT_AOhSgA-A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=0ix0__xWzcoee7bOAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAqCAMAAADRRmi8AAAA2FBMVEX////bo/DTkO/sWn7+/P7hou3pyPbivPbaoPDSje//9/L7r4n4iVj2gmH2l4j72NX4z9vsd6boVp/oarL1x+P66Pjhdd3ULNXTOtjhmuraufqqSvSZHvekUfrizP38mFb8wKP+7+v70svydG385eT1u8jrY4/98fb30uXjSa/wr9rZFcrqpuj33/bUaeLPYeOnN/KPD/v8hB7iYc7vtenKQt+kAO3u4f79vJX5ikf6rZL6w7bxjqPaA8Dbr/bEf/O1cPn5taL1inj1nJXzvuGaPvy1fP7lr+9X76rpAAAA1UlEQVRIie2RyRLBQBRFnyCJOYY2BCEJYiZmgsSY//8jnTQbmoUqC1V9Fv1eL07XrdsADAYDeOFLUYx8KQa4H4nRWDyRTOFFSmeyOTxRvlAsPUS5XKkqdLFWV1VNb0CzJRntThdQr48GwxERubGCBFOmihMyQkEDn8YZpjPvOuc9ES1CeF+aVHG13lg4qbS9P7DzR7jkiXsbbMe5mkuqqVqHo/5WFGTM+4ZO2lNUIpKoQG0nOsHlpJ7K8UXxXo5yudKTrl6/gwc3DK4I5Ds+JGUwGP/IDW48FbceFN9kAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "6 days ago",
+        "Full-time and Part-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.snagajob.com/jobs/1296113937",
+      "job_title": "Machine Learning Engineer, Public Sector",
+      "description": "The goal of a Machine Learning Engineer at Scale is to leverage techniques in the fields of generative AI, computer vision, reinforcement learning, and agentic AI to improve Scale's products and customer experience in production environments. Our machine learning engineers take advantage of robust internal infrastructure and unique access to massive datasets to deliver improvements to our customers.\n\n\nOur Public Sector Machine Learning team is focused on deploying cutting-edge models to mission-critical government systems through products like and. Our work spans multiple modalities, with a strong focus on both large language models and computer vision. On the LLM side, we are developing agentic systems that help solve complex operational and planning challenges for government partners. This includes building agent frameworks that integrate with custom retrieval pipelines and production APIs, as well as evaluation tools to benchmark and refine agent behavior. We're also advancing research in areas like reinforcement learning for agentic LLMs, with successful deployment into real-world operational environments. On the computer vision front, we're training advanced models to increase labeling throughput and automate perception tasks. Our efforts include building large-scale fine-tuning pipelines, training models across multiple modalities, and developing generalizable vision foundation models to support a wide range of defense applications.\n\n\nYou will:\n\nTake state of the art models developed internally and from the community, use them in production to solve problems for our customers and taskers\nImprove and maintain production models through retraining, hyperparameter tuning, and architectural updates, while preserving core performance characteristics\nCollaborate with product and research teams to identify and prototype ML-driven product enhancements, including for upcoming product lines\nWork with massive datasets to develop both generic models as well as fine tune models for specific products\nBuild scalable machine learning infrastructure to automate and optimize our ML services\nServe as a cross-functional representative and advocate for machine learning techniques across engineering and product organizations\nBe comfortable learning new technologies quickly and managing multiple priorities in a fast-paced environment\nComfortable with light travel (approximately 10%) for customer interaction and team needs\n\nThis role will require an active TS security clearance\n\n\nIdeally You'd Have:\n\n2+yearsof experience building and deploying applied ML systems in production environments\nExtensive experience with GenAI, Agentic AI, natural language processing, deep learning and deep reinforcement learning, or computer vision in a production environment\nSolid background in algorithms, data structures, and object-oriented programming\nStrong programming skills in Python, experience in Tensorflow or PyTorch\n\nNice to Haves:\n\nExperience deploying software into environments you can't reach from your laptop - on-prem, edge, air-gapped, or otherwise restricted networks. Regulated industries count; the constraint is the point, not the sector.\nAny prior exposure to government or defense work: military or civilian service, a cleared internship, or time at a federal contractor.\nHands-on fine-tuning of open-weight models - LoRA/PEFT, instruction tuning, or training embedding models, at work or on your own.\nHaving written evaluations for a system whose output isn't deterministic: benchmarks, LLM judges, or a regression suite that caught something real.\nExperience with geospatial data or maps - GIS tooling, spatial reference systems, or imagery.\nA shipped project with real users behind it, where you owned it after launch rather than handing it off at merge.\n\nCompensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.\n\nThe base salary range for this full-time position in the location of Washington DC is:$235,200—$294,000 USDPLEASE NOTE:Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.\n\n\nAbout Us:\n\n\nAt Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.\n\n\nWe believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.\n\n\nWe are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's  for additional information.\n\n\nWe comply with the United States Department of Labor's Pay Transparency provision.\n\n\nPLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants' needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our  for additional information.\n\nThe goal of a Machine Learning Engineer at Scale is to leverage techniques in the fields of generative AI, computer vision, reinforcement learning, and agentic AI to improve Scale's products and customer experience in production environments. Our machine learning engineers take advantage of robust internal infrastructure and unique access to massive datasets to deliver improvements to our customers.\n\n\nOur Public Sector Machine Learning team is focused on deploying cutting-edge models to mission-critical government systems through products like and. Our work spans multiple modalities, with a strong focus on both large language models and computer vision. On the LLM side, we are developing agentic systems that help solve complex operational and planning challenges for government partners. This includes building agent frameworks that integrate with custom retrieval pipelines and production APIs, as well as evaluation tools to benchmark and refine agent behavior. We're also advancing research in areas like reinforcement learning for agentic LLMs, with successful deployment into real-world operational environments. On the computer vision front, we're training advanced models to increase labeling throughput and automate perception tasks. Our efforts include building large-scale fine-tuning pipelines, training models across multiple modalities, and developing generalizable vision foundation models to support a wide range of defense applications.\n\n\nYou will:\n\nTake state of the art models developed internally and from the community, use them in production to solve problems for our customers and taskers\nImprove and maintain production models through retraining, hyperparameter tuning, and architectural updates, while preserving core performance characteristics\nCollaborate with product and research teams to identify and prototype ML-driven product enhancements, including for upcoming product lines\nWork with massive datasets to develop both generic models as well as fine tune models for specific products\nBuild scalable machine learning infrastructure to automate and optimize our ML services\nServe as a cross-functional representative and advocate for machine learning techniques across engineering and product organizations\nBe comfortable learning new technologies quickly and managing multiple priorities in a fast-paced environment\nComfortable with light travel (approximately 10%) for customer interaction and team needs\n\nThis role will require an active TS security clearance\n\n\nIdeally You'd Have:\n\n2+yearsof experience building and deploying applied ML systems in production environments\nExtensive experience with GenAI, Agentic AI, natural language processing, deep learning and deep reinforcement learning, or computer vision in a production environment\nSolid background in algorithms, data structures, and object-oriented programming\nStrong programming skills in Python, experience in Tensorflow or PyTorch\n\nNice to Haves:\n\nExperience deploying software into environments you can't reach from your laptop - on-prem, edge, air-gapped, or otherwise restricted networks. Regulated industries count; the constraint is the point, not the sector.\nAny prior exposure to government or defense work: military or civilian service, a cleared internship, or time at a federal contractor.\nHands-on fine-tuning of open-weight models - LoRA/PEFT, instruction tuning, or training embedding models, at work or on your own.\nHaving written evaluations for a system whose output isn't deterministic: benchmarks, LLM judges, or a regression suite that caught something real.\nExperience with geospatial data or maps - GIS tooling, spatial reference systems, or imagery.\nA shipped project with real users behind it, where you owned it after launch rather than handing it off at merge.\n\nCompensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.\n\nThe base salary range for this full-time position in the location of Washington DC is:$235,200—$294,000 USDPLEASE NOTE:Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.\n\n\nAbout Us:\n\n\nAt Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.\n\n\nWe believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.\n\n\nWe are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's  for additional information.\n\n\nWe comply with the United States Department of Labor's Pay Transparency provision.\n\n\nPLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants' needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our  for additional information.",
+      "apply_options": [
+        {
+          "title": "Snagajob",
+          "link": "https://www.snagajob.com/jobs/1296113937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/machine-learning-engineer-public-sector-scale-honolulu--lifeworq-31206875-ff69-4c0c-a48a-1bcb8d8c0e69?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/030e0801-1d5c-47b6-848d-32dca591a108?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-hi-honolulu-machine-learning-engineer-public-sector-scale-ai-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4112-7625580b6473e76f2a175dcf73291593?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyLCBQdWJsaWMgU2VjdG9yIiwiY29tcGFueV9uYW1lIjoiU2NhbGUgQUksIEluYy4iLCJodGlkb2NpZCI6IjBpeDBfX3hXemNvZWU3Yk9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbmhyYldJdFkzSTRNVmh2UkdkUVVVZFJTbVI1WDFoSWRVWndYMEpsVXkxRlozaGhXQzExYVhKMVpqRmZXWFJ5Y1ZRMFV6Z3lOemRyWTJObFdDMVhVME5NYW1kclFtTnZkSEkxVG5sUmVXRjZjM0l3WVhwUVVqWTVaWGRSTUY4MFRIUnVhbWwwZEd4b2FrOXFjMU5vTnpWU09EWXdRbm93TTJSdlFubDRVVGxWZDJaRU5uWVNGekZCWm14aGIweFdSelV5V1hCMFVWQXdTMGd3WjFFd0dpSkJTRTR3UlRkR2VHOWZjM2hvU0RKaGVFUkpORFI1V0ZBeExWVmpWa2xQUlhObiIsImZjdiI6IjMiLCJmY19pZCI6IjBpeDBfX3hXemNvZWU3Yk9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI / Machine Learning Engineer",
+      "company_name": "Robert Half",
+      "location": "Des Moines, IA",
+      "via": "Robert Half",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=2qtjKoUmEu7sr96mAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNwQrCMBAF8dpPEIR3Fm1E6EVPBUUrevEHShLWNBJ3SzaH_oc_bL0MzFym-i6qpu1g8LB-iEy4k80cOeDMYXbK2OImDjp3P0AYF5GQaHkcShn1YIxqqoMWW6KvvXyMMDmZzFuc_tHrYDONyRbq981uqkcO69VTHOWCq00vRMaJFA-Zf7pB1_4AZjJ74ZYAAAA&shmds=v1_Ac3VAoyb588iwt36c2hfZOgW9fpe0OcXxz8DeWvlQriJ4ngikg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=2qtjKoUmEu7sr96mAAAAAA%3D%3D",
+      "extensions": [
+        "17 days ago",
+        "80K–100K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.roberthalf.com/us/en/job/des-moines-ia/ai-machine-learning-engineer/01500-0013525794-usen",
+      "job_title": "AI / Machine Learning Engineer",
+      "description": "Position:  AI / Machine Learning Engineer - Direct Hire Permanent OpportunityLocation:  Hybrid - Des Moines, IASalary:  $80,000 - 100,000 base annual salary plus exceptional benefits*** For immediate and confidential consideration, please APPLY and EMAIL YOUR RESUME to MEREDITH CARLE .  My email can be found on my LinkedIn page.  ***AI / Machine Learning EngineerAre you passionate about applying machine learning and advanced analytics to solve real-world business challenges?We're partnering with an established and growing technology consulting organization seeking an AI / Machine Learning Engineer to help expand its AI, predictive analytics, and data science capabilities.In this highly visible role, you'll work directly with business leaders and analysts to develop machine learning models, improve anomaly detection, build forecasting solutions, and influence the future direction of the company's AI initiatives.What You'll Do\t• Develop and improve machine learning and predictive analytics models\t• Analyze complex data using Python and SQL\t• Support anomaly detection, forecasting, and advanced analytics initiatives\t• Evaluate model performance and recommend improvements\t• Collaborate with analysts, stakeholders, and leadership to solve business problems\t• Help shape AI/ML tools, methodologies, and best practicesWhat We're Looking For\t• 1-3+ years of AI, Machine Learning, Data Science, or Advanced Analytics experience\t• Strong Python skills with libraries such as Pandas, NumPy, and Scikit-Learn\t• Experience with statistical modeling, predictive analytics, and machine learning\t• Strong SQL and data analysis skills\t• Ability to explain technical concepts to both technical and non-technical audiences\t• Collaborative, self-directed, and entrepreneurial mindsetWhy Join?\t• Make a visible impact in a growing AI/ML practice\t• Work directly with decision-makers and leadership\t• Collaborative, team-oriented culture with exceptional employee tenure\t• Hybrid work environment\t• Opportunity to influence strategy, architecture, and future AI initiatives\t• Competitive compensation and benefitsThis is an excellent opportunity for someone who enjoys combining technical depth, business impact, and hands-on problem solving in a flexible, entrepreneurial environment.*** For immediate and confidential consideration, please APPLY and EMAIL YOUR RESUME to MEREDITH CARLE .  My email can be found on my LinkedIn page.  Also, you may contact me at 515-303-4654.  Or one click apply on our Robert Half website.  No third party inquiries please.  Our client cannot provide sponsorship and cannot hire C2C. ***",
+      "apply_options": [
+        {
+          "title": "Robert Half",
+          "link": "https://www.roberthalf.com/us/en/job/des-moines-ia/ai-machine-learning-engineer/01500-0013525794-usen?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/5e443ade-533f-45c3-b34c-424310f334b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-machine-learning-engineer-robert-half-des-moines--techmap_us_5e443ade-533f-45c3-b34c-424310f334b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-at-robert-half-4482811137?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Haystack",
+          "link": "https://haystackapp.io/jobs/02c2edd1-55e1-41d2-9bde-3d934d7e42aa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/7352592968934956913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Des Moines Jobs Expertini",
+          "link": "https://desmoines.us.expertini.com/job/ai-machine-learning-engineer-des-moines-robert-half-technology-8b59657f8d344d8eb0d2a95f8b617a71105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/amp/job/us-ia-des-moines-ai-machine-learning-engineer-robert-half-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSAvIE1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJSb2JlcnQgSGFsZiIsImh0aWRvY2lkIjoiMnF0aktvVW1FdTdzcjk2bUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlsQndOSFl4VWtSa1ZUTTJZbTFRUTBaUU1FWjRlQzFQZVdsZllXVlBORXRKUmtZNExVTnJZWFpvTlZCRVlsbDNNbmhDVW1ORGRXdzFjbWd0Ums4dFZWUkpUVkYwYm1scFZtYzJXVU5MYXpoUGQyRkJSMmQ0V2xaNFEwcG1MV0phUmw5aGRWQkpTbEZ3TkdaSlMwdEpZM1F3WVhsRFVsbHlZemxMWlZWd1ZFSlNSRXRCV20wU0Z6RkJabXhoYjB4V1J6VXlXWEIwVVZBd1MwZ3daMUV3R2lKQlNFNHdSVGRIUVRoUmRHdDRNbFpwTjI1S1ZHeEpaSFJNVnpCRk1Fc3liRGRuIiwiZmN2IjoiMyIsImZjX2lkIjoiMnF0aktvVW1FdTdzcjk2bUFBQUFBQT09In0="
+    },
+    {
+      "title": "Sr. Machine Learning Engineer - Answers, Knowledge & Information (AKI)",
+      "company_name": "Apple, Inc.",
+      "location": "Santa Clara, CA",
+      "via": "Dice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for an experienced ML engineer with hands-on experience in search and recommendation and deploying powerful machine learning models at scale",
+            "You will join a team that combines strong technical skills, product vision, and a love of all things local to bring together the pieces needed to deliver an extraordinary Maps experience in Siri and Spotlight",
+            "You have 5+ years of experience in information retrieval, natural language processing, machine learning, or deep learning",
+            "You have a deep understanding of machine learning theory, including supervised learning, ranking models, embeddings, representation learning, and evaluation metrics",
+            "You have proven ability to apply advanced ML techniques to improve search relevance and retrieval quality at scale",
+            "You are comfortable leading experimentation, offline evaluation, and online A/B testing for iterative improvements in search quality",
+            "You have excellent interpersonal skills, the ability to work independently as well as as part of a team",
+            "You have a Master's Degree in Computer Science or equivalent experience in machine learning or a related field",
+            "Advanced diploma in AI, Machine Learning, Computer Science, or Mathematics"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Own the entire ML development cycle from opportunity analysis, exploration, and prototyping to data collection, feature engineering, training, evaluation, and deployment in production",
+            "Lead the development of machine learning models to improve search quality across retrieval, ranking, reranking, and query understanding",
+            "Improve search quality and experience by leveraging techniques such as learning-to-rank, embedding models, contrastive learning, multi-task learning, and reinforcement learning where appropriate",
+            "Mentor junior engineers and provide technical leadership in architecting ML systems and designing ML models",
+            "Understand product requirements, then translate them into modeling tasks and engineering tasks"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=H3_7BQcD-fkeFHqVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQoCMRBEsfUTLGQrUTlzIthodYiInlbWIntxzZ3E3ZANeB_nxxmbgRnezAy_g-HtGg1c0LYdE5wJI3fsYM8ue4qwgIr1Q1ELqFk-nh6OYAJHfkp8Y-qEYVrVx1kGT9KA5gHbQk4PIs7TaNumFHRTlqreOE25Yo2VdylMjfTlSxr9y11bjBQ8Jrqv1sveBHbzcRWCpyK_WQMdwxU5Iew8RixgV_0AxTS43b8AAAA&shmds=v1_Ac3VAowzRVXZkopxrTCmrHHmEWXxwdjVA5fIdoV1Jwr_dyvxNw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=H3_7BQcD-fkeFHqVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507d46771809ba0279dcd/images/9jYogy4s7nk5wtUIdGFnc8E-wZXtYpIgvDw0AZcOSgo.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.dice.com/job-detail/3dde178a-30b7-40a6-80e0-e80824272fa6",
+      "job_title": "Sr. Machine Learning Engineer - Answers, Knowledge & Information (AKI)",
+      "description": "Siri helps hundreds of millions of people find the information they are looking for. A critical part of that mission is helping them quickly find and discover local businesses, places of interest, and addresses. Users rely on us for relevant and easy access to local information like finding a favorite or romantic restaurant, business hours, nearby coffee shop addresses, and directions to prominent locations.\n\nThe Geo domain team is redefining how hundreds of millions of people use their devices to navigate and explore the physical world around them. We are part of a wider effort to power search across a variety of Apple products - including Siri, Spotlight, Safari, Messages, and more. As part of our team, you will be using innovative machine learning techniques and LLMs in order to understand queries, rank documents, and find useful answers to users' questions.\n\nWe are looking for an experienced ML engineer with hands-on experience in search and recommendation and deploying powerful machine learning models at scale. You will join a team that combines strong technical skills, product vision, and a love of all things local to bring together the pieces needed to deliver an extraordinary Maps experience in Siri and Spotlight.\n\nDescription\n\nAs a member of our fast-paced group, you'll have the unique and rewarding opportunity to shape upcoming products from Apple. Our team includes a diversity of backgrounds from applied scientists with a focus in NLP to experienced distributed systems. We are looking for candidates with both applied machine learning experience and strong engineering skills.\n\nThe role will have the following responsibilities:\n\n- Own the entire ML development cycle from opportunity analysis, exploration, and prototyping to data collection, feature engineering, training, evaluation, and deployment in production.\n\n- Lead the development of machine learning models to improve search quality across retrieval, ranking, reranking, and query understanding.\n\n- Improve search quality and experience by leveraging techniques such as learning-to-rank, embedding models, contrastive learning, multi-task learning, and reinforcement learning where appropriate.\n\n- Mentor junior engineers and provide technical leadership in architecting ML systems and designing ML models.\n\n- Understand product requirements, then translate them into modeling tasks and engineering tasks.\n\nMinimum Qualifications\n\nYou have 5+ years of experience in information retrieval, natural language processing, machine learning, or deep learning.\n\nYou have a deep understanding of machine learning theory, including supervised learning, ranking models, embeddings, representation learning, and evaluation metrics.\n\nYou have proven ability to apply advanced ML techniques to improve search relevance and retrieval quality at scale.\n\nYou are comfortable leading experimentation, offline evaluation, and online A/B testing for iterative improvements in search quality.\n\nYou have excellent interpersonal skills, the ability to work independently as well as as part of a team.\n\nYou have a Master's Degree in Computer Science or equivalent experience in machine learning or a related field.\n\nPreferred Qualifications\n\nAdvanced diploma in AI, Machine Learning, Computer Science, or Mathematics",
+      "apply_options": [
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/3dde178a-30b7-40a6-80e0-e80824272fa6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Apple/Job/Sr.-Machine-Learning-Engineer-Answers,-Knowledge-&-Information-(AKI)/-in-Santa-Clara,CA?jid=d0f6a160bda6e7ac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/sr-machine-learning-engineer_7ea1ab0aa3a22d6747b8a096bf06c72856c75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/sr-machine-learning-engineer-answers-knowledge-information-aki-santa-clara-ca--fe2bbedb-b463-4634-8b78-de1caafa50a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010270148423&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/ZnkVyCszrp7woISOdu_GXanEUBWBUcgSnWBlG0eVgvSkGe7XtTd9dA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/512a181c-d081-11f1-87ec-4201ac122412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Match Moth",
+          "link": "https://www.matchmoth.com/listing/a76379d759257b34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAtIEFuc3dlcnMsIEtub3dsZWRnZSBcdTAwMjYgSW5mb3JtYXRpb24gKEFLSSkiLCJjb21wYW55X25hbWUiOiJBcHBsZSwgSW5jLiIsImh0aWRvY2lkIjoiSDNfN0JRY0QtZmtlRkhxVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduSjFPWGROY2tOSVRsRnBZbU0wVGtOTVRuWTFOREZyYzJSUU0wUjBPVzFRVlRKcmJXc3lVRWhHUW5sak5HaHJaRVZoVWtJNWVsZHBkM3BEZFcxM1pHRXRNSEZxUkUwNE5EQXdRM1pXVHpWdFExVmhkRVJSWjJoNVlXZ3dNMkZGV2tkc1RuVlFaMUZsUW1GTGFtTXdRWFkzVTBsWVl6TkVVR1JoY1U1QmJtbGpORzl5VjE4U0Z6RkJabXhoYjB4V1J6VXlXWEIwVVZBd1MwZ3daMUV3R2lKQlNFNHdSVGRGUTNWV1RVWXpZbmRDWlRGeFRrRk1ibDlqVlhoMmREUmllazFSIiwiZmN2IjoiMyIsImZjX2lkIjoiSDNfN0JRY0QtZmtlRkhxVkFBQUFBQT09In0="
+    },
+    {
+      "title": "Artificial Intelligence Engineer",
+      "company_name": "Photon",
+      "location": "Sunnyvale, CA",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum 7+ years fo experience",
+            "Build multi-agent orchestration platforms, LLM integration layers, retrieval systems (RAG), and production-grade evaluation pipelines",
+            "Integrate Generative AI services (e.g., OpenAI APIs, Claude, LangChain) to automate parsing, data mapping, and action triggers",
+            "Partner closely with design and product teams to translate workflow concepts into reliable, highly available backend architecture"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role bridges software engineering, API integrations, and AI-driven automation to design and deploys intelligent, highly scalable pipelines that connect underlying data layers to execution engines",
+            "Design, develop, and deploy the next-generation AI Agentic Workflow Framework enabling autonomous and semi-autonomous business operations"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=VPfJVTeWt2dMStJ4AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMwQrCMAwAULzuBwRPOYuuIojgTkNE9CT4AaMrsY3EZLRR5lf4y-rlHV_1mVTbNhvdKJBnOIkhM0WUgHCQSIKYYQln7aGgzyGBChxVI-OsSWZD2TlXCtexmDcKddCHU8FeR3fXvvzpSvIZB_aG3XqzGutB4nx6SWq_iwSuT5H3yzMuYN9-AediU_mSAAAA&shmds=v1_Ac3VAozbecsREI3O6TFOMe42PXc-FYIG8jsIS3zbYwiD67H39g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=VPfJVTeWt2dMStJ4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507d46771809ba0279dcd/images/q71vG_ZHyPUb8HkA_4uNqq3pqKyTtK6wGLP_TJxVvTY.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-photon-4483643516",
+      "job_title": "Artificial Intelligence Engineer",
+      "description": "AI Software Engineer | Full-Time\n\nSunnyvale, CA (Primary Location - Client preferred)\n\nSecondary locations: Dallas, TX / Berkeley Heights, NJ / Chicago, IL / Alpharetta, GA\n\n\n\n\nWhat are we looking?\n\n\n\n\nOverview: The AI Software Engineer is responsible for the technical backbone of our autonomous tools. This role bridges software engineering, API integrations, and AI-driven automation to design and deploys intelligent, highly scalable pipelines that connect underlying data layers to execution engines.\n\n\n\n\nWhat will you do?\n\nKey Responsibilities\n\nDesign, develop, and deploy the next-generation AI Agentic Workflow Framework enabling autonomous and semi-autonomous business operations. Minimum 7+ years fo experience.Build multi-agent orchestration platforms, LLM integration layers, retrieval systems (RAG), and production-grade evaluation pipelines.Integrate Generative AI services (e.g., OpenAI APIs, Claude, LangChain) to automate parsing, data mapping, and action triggers.Partner closely with design and product teams to translate workflow concepts into reliable, highly available backend architecture.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-photon-4483643516?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/artificial-intelligence-engineer-photon-sunnyvale--fj-2386926267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobServe",
+          "link": "https://www.jobserve.com/us/en/extjob/ARTIFICIAL-INTELLIGENCE-ENGINEER-in-Sunnyvale-California-USA-9E061590FBE9C68866/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2829061836161155072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5381-e8e36f54e0b5876aaae51c1a422cff36?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlBob3RvbiIsImh0aWRvY2lkIjoiVlBmSlZUZVd0MmRNU3RKNEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdUbFpSalpNU1ZoemNISTVjbUpoYTFORGJtUlVkalJ5U20xVlJUSkJTSFZtZDNFMGJWZFlYM3BsTkZGM1ZHMTNVa010V25SWk5scHVMV0ZWVHpCS1lVUlFjSEozV0c1b09VVnhabVpGVTNOWWEycEdTalp4WkZKcE0xUkJMWFZLV1d4QmNYb3ljMWx3UkMxTlQwVkNkVXhsYW5KNVVuQlZRM0EzYWtKWWRYZE1TbGh5WkZVU0Z6RkJabXhoYjB4V1J6VXlXWEIwVVZBd1MwZ3daMUV3R2lKQlNFNHdSVGRJTldaVlRrZHpZMU51Wmpsak4zTXpSM0kwZG1aSGEzVmFhbVpuIiwiZmN2IjoiMyIsImZjX2lkIjoiVlBmSlZUZVd0MmRNU3RKNEFBQUFBQT09In0="
+    },
+    {
+      "title": "A/AI Machine Learning Engineering Mgr - L5",
+      "company_name": "Lockheed Martin",
+      "location": "Fort Worth, TX",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s Degree in Engineering, Computer Science, or other related discipline",
+            "Experience building and deploying software for defense mission systems; experience with database solutions",
+            "Demonstrated functional and technical leadership experience in directing high-performing projects",
+            "Ability to effectively communicate technical concepts to both technical and non-technical stakeholders, with a strong focus on collaboration and teamwork",
+            "Experience with one of the following: C++, Java, GO, Rust and other compiled languages",
+            "Experience with DevOps tools: Docker, Git [GitLab, GitHub], Continuous Integration [CI], Continuous Deployment [CD]",
+            "Kubernetes, Helm, Istio/Linkerd) and modern GitOps workflows",
+            "Knowledge of machine learning frameworks (Pytorch, Tensorflow, MxNet, Caffe, etc.)",
+            "Experience developing microservices and microservice architectures",
+            "Experience with real-time embedded software engineering",
+            "Experience with hardware-accelerated computing for both CPUs and GPUs (e.g. CUDA, Intel oneAPI, SYCL)",
+            "Experience with model deployment software libraries and stacks (e.g. NVIDIA TensorRT, Triton Inference Server, OnnxRuntime)",
+            "Experience deploying AI-enabled systems in multiple environments (e.g. cloud, edge devices)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Full-Time Salary Range: $148300.00 - $275500.00",
+            "Benefits offered: Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP, Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability",
+            "Annual short-term and/or long-term incentive compensation programs may be offered depending on the position",
+            "Payments under these annual programs are not guaranteed and can vary from year to year and are tied to a range of performance metrics",
+            "For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+            "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+            "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The selected candidate will oversee deploying STAR",
+            "Data as a point solution that address specific, high impact use cases, as well as a fully integrated software stack that enables seamless data and function sharing across domains",
+            "Leadership of the STAR",
+            "Data product and team",
+            "Development and Maturation of STAR",
+            "Data product lines for deployment into mission applications",
+            "Close coordination with LM Business Areas and external customers to integrate trusted AI solutions to meet mission requirements, with a focus on proliferation of STAR",
+            "Cultivating a talent pipeline in coordination with the LM Business Areas to accelerate technology transition"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=1JLXyj2lhU2Z2T61AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCQBBEsc0nWK2taE6ENFqlUFGSTtAuXM7l7jTuhtst8j_-qBcYHvNgiil-i6KuTX2F1roQCaFBmyiShxP57Jjm3voEW2iqjBv3IHnjAjDBhdkPuDwG1VEOxogMpRe1Gl3p-GuYsOfJvLmXGZ0Em3AcrGK3r3ZTOZJfrxp2n4D4yh-SRoKcMyeFR0bYwP35B6V38ZmmAAAA&shmds=v1_Ac3VAowj-WDfRKr9IhKB0DGDNBvuXJF6owY-PRfCnIWT3mI2Hw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=1JLXyj2lhU2Z2T61AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507d46771809ba0279dcd/images/fEA1yhTG0ix8NOP_rmgNGLwzXvTYngqRSeSwOF23sls.jpeg",
+      "extensions": [
+        "148K–276K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=5ae1c30ee67fb223",
+      "job_title": "A/AI Machine Learning Engineering Mgr - L5",
+      "description": "Standard Job Description\n   \n   \n    The Lockheed Martin Chief Digital and AI Office (CDAO) is seeking a leader for the Applied AI Mission Integration team, leading STAR.Data. STAR.Data is a solution to DoW’s data distribution and management challenges, especially when operating in contested and bandwidth challenged environmentsand; it is also part of the STAR.OS ecosystem of capabilities. The STAR.Data team works in agile and faced paced environment, across all LM Business Areas and major corporate initiatives. The selected candidate will oversee deploying STAR.Data as a point solution that address specific, high impact use cases, as well as a fully integrated software stack that enables seamless data and function sharing across domains.\n\n\n    \n     Key responsibilities include: \n     \n\n     \n      Leadership of the STAR.Data product and team\n      Development and Maturation of STAR.Data product lines for deployment into mission applications\n      Close coordination with LM Business Areas and external customers to integrate trusted AI solutions to meet mission requirements, with a focus on proliferation of STAR.Data\n      Cultivating a talent pipeline in coordination with the LM Business Areas to accelerate technology transition\n     \n    \n   \n  \n  \n   \n     Basic Qualifications\n   \n   \n    \n     Bachelor’s Degree in Engineering, Computer Science, or other related discipline\n     Experience building and deploying software for defense mission systems; experience with database solutions\n     Demonstrated functional and technical leadership experience in directing high-performing projects\n     Ability to effectively communicate technical concepts to both technical and non-technical stakeholders, with a strong focus on collaboration and teamwork.\n     Experience with one of the following: C++, Java, GO, Rust and other compiled languages\n     Experience with DevOps tools: Docker, Git [GitLab, GitHub], Continuous Integration [CI], Continuous Deployment [CD]\n    \n   \n  \n  \n   \n     Desired Skills\n   \n   \n    \n     Master’s Degree in Engineering, Computer Science, or other related discipline\n     Experience with software orchestration (e.g. Kubernetes, Helm, Istio/Linkerd) and modern GitOps workflows\n     Knowledge of machine learning frameworks (Pytorch, Tensorflow, MxNet, Caffe, etc.)\n     Experience developing microservices and microservice architectures\n     Experience with real-time embedded software engineering\n     Experience with hardware-accelerated computing for both CPUs and GPUs (e.g. CUDA, Intel oneAPI, SYCL)\n     Experience with model deployment software libraries and stacks (e.g. NVIDIA TensorRT, Triton Inference Server, OnnxRuntime)\n     Experience deploying AI-enabled systems in multiple environments (e.g. cloud, edge devices)\n    \n   \n  \n \n  Pay Information\n\n\n Full-Time Salary Range: $148300.00 - $275500.00\n\n\n At Lockheed Martin, we know mission success starts with taking care of our people. Our Total Rewards program is designed to attract top talent, support your well-being, and help you grow—both professionally and personally.\n\n\n The salary range for this position is as listed on the requisition. Please note that the salary information listed is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market(work location) and business considerations when extending an offer.\n\n\n  Benefits offered: Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP, Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability.\n\n\n \n  Annual short-term and/or long-term incentive compensation programs may be offered depending on the position. Payments under these annual programs are not guaranteed and can vary from year to year and are tied to a range of performance metrics.\n  For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=5ae1c30ee67fb223&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/a-ai-machine-learning-engineering-mgr-l5-fort-worth-tx--cd9f0467-d3e7-4996-8ecf-b68efa29ea51?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/lockheed-martin/Job/A-AI-Machine-Learning-Engineering-Mgr-L5/-in-Fort-Worth,TX?jid=bd6197bda7733f59&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/a-ai-machine-learning-engineering-mgr-l5-at-lockheed-martin-4460706836?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/7286688241825666216?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/a-ai-machine-learning-engineering-mgr-l5-lockheedmartin-fort-worth-tx_88671732?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/MqUcstMgLxrjlNAQuxBzoS22sFP_iDNl_4bWsfHA1irhotCofIRlyg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_F1F2745122B24DC5387016D2033C06FB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBL0FJIE1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXJpbmcgTWdyIC0gTDUiLCJjb21wYW55X25hbWUiOiJMb2NraGVlZCBNYXJ0aW4iLCJodGlkb2NpZCI6IjFKTFh5ajJsaFUyWjJUNjFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXamRwYjFsNmQwSkdORU5CVGtoSVgwVkZhRk5wY0ZkWE4wUjNWMnRXUlMxelVsUmphMTlxVkZKdlUwbDFkWGx2Um1aT00xSlpORWxGVUdWRlEyNTZlR0ZwVkhwUmVuUk5iVzVQYzJwMmQycDFSMVowTW5wUlFrb3lZMDgxTjE5ZlFsUlFUalpOYTFOcFFXVmtRM1ZoTjBjeGNsSlhXRTkwUlROblZHbERSVkUyVUZwTVgzSVNGekZCWm14aGIweFdSelV5V1hCMFVWQXdTMGd3WjFFd0dpSkJTRTR3UlRkRmNVZHJVVTUwVVdSQlNHbEZaMEZGWlRaMmVsRlpUMlJsVFVobiIsImZjdiI6IjMiLCJmY19pZCI6IjFKTFh5ajJsaFUyWjJUNjFBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXVkpEVTBKSGNESktZM1ExT0hKaVdUaFZRVGd4V21SQlRsUXhXRVpvZDFGMlFsVTNSRU5OV1hCdU5ucHBXbE5IZEd0V2FrbzFlak5vUVVJMVoxUXhaSEE1ZEVVdFNXOU9lak5FZG0xTGFWOXlMVEIxVWpWUlprcDNNamxQTmxRMWMwSmtSa2hXWldscmNFeDJlbWR1VVUxUVFXeDZObGc0VVZjM05HRmZVWFZXVEhBNFNHdDZheTFhTmtJNFYwazVhVFpVTTFaT2QyOVRlbU5VUTFsVVdIbEZOMlJITTAxMmVrMWxNamw2Y1c4NWFuZzBXR0ZFYzJOMVRERXRjemgxZFd4TVdEVlhZMHBzWVZaVlR6Rm1OazlhTjBSelowNXRVR2wxY1hGbldEY3dVRmxUVFRaSU9VaGhkRVpvVUZsZlZ6UXRORk00VmxseFIwVjBUR1JzY201MlVXbElUSEIxTjI5bldTMWFObWxNZVhOa09YaHhNa0pUY3pGbGFuVkJVelJ0WTFwRWJXTldNVU5yV0dKemVHazFZblZyWms1S01Va3pVR2R6U1U1TlpFaHZOWGw1WTBSRVVrTkxXRXQwVEd0T1kweDBPVEo0YjJwMWRsZHZjVXhMVW5jM1ZEUXpZVUYzTldScGJVNVBWRXRWTWpad01HVllTbEZEWjJ4RE4zcHNOV2hvZWxodFNqWlVTRXgyT1dNMlgzSm9jMmw2VVhka1UzVm1TbVIzVmtWelZUazBWbmQxWjNGVFQyYzFWMlpLYkhweE0wMVJSbUY1VFVoeE9FeDBSa2xUV0U1NGJHZGtUVkIwWVhkU1YzZHZSak5ST0ZOSFpVOUJlalJuTm1wWVJYZFVZVWRwUVRZMlVWTnJPVEZpTUdWS1REVlJOamR1YjJFNGNtaFlRMmQ0VEdzNWRtczRSVEZYWmxwdWRXRkROMlpEVkdsM1drZG5aVEo1WkV4eFVVcFhWbWd6ZW5sUWJEZEdZa05WRWhjeFFXWnNZVzlNVmtjMU1sbHdkRkZRTUV0SU1HZFJNQm9pUVVoT01FVTNSM2N5UVZsdk1uaHFkM1ZHZEhkSVpXWjVTSHBDWkhocGFXcFZadyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXVkpEVTBKSGNESktZM1ExT0hKaVdUaFZRVGd4V21SQlRsUXhXRVpvZDFGMlFsVTNSRU5OV1hCdU5ucHBXbE5IZEd0V2FrbzFlak5vUVVJMVoxUXhaSEE1ZEVVdFNXOU9lak5FZG0xTGFWOXlMVEIxVWpWUlprcDNNamxQTmxRMWMwSmtSa2hXWldscmNFeDJlbWR1VVUxUVFXeDZObGc0VVZjM05HRmZVWFZXVEhBNFNHdDZheTFhTmtJNFYwazVhVFpVTTFaT2QyOVRlbU5VUTFsVVdIbEZOMlJITTAxMmVrMWxNamw2Y1c4NWFuZzBXR0ZFYzJOMVRERXRjemgxZFd4TVdEVlhZMHBzWVZaVlR6Rm1OazlhTjBSelowNXRVR2wxY1hGbldEY3dVRmxUVFRaSU9VaGhkRVpvVUZsZlZ6UXRORk00VmxseFIwVjBUR1JzY201MlVXbElUSEIxTjI5bldTMWFObWxNZVhOa09YaHhNa0pUY3pGbGFuVkJVelJ0WTFwRWJXTldNVU5yV0dKemVHazFZblZyWms1S01Va3pVR2R6U1U1TlpFaHZOWGw1WTBSRVVrTkxXRXQwVEd0T1kweDBPVEo0YjJwMWRsZHZjVXhMVW5jM1ZEUXpZVUYzTldScGJVNVBWRXRWTWpad01HVllTbEZEWjJ4RE4zcHNOV2hvZWxodFNqWlVTRXgyT1dNMlgzSm9jMmw2VVhka1UzVm1TbVIzVmtWelZUazBWbmQxWjNGVFQyYzFWMlpLYkhweE0wMVJSbUY1VFVoeE9FeDBSa2xUV0U1NGJHZGtUVkIwWVhkU1YzZHZSak5ST0ZOSFpVOUJlalJuTm1wWVJYZFVZVWRwUVRZMlVWTnJPVEZpTUdWS1REVlJOamR1YjJFNGNtaFlRMmQ0VEdzNWRtczRSVEZYWmxwdWRXRkROMlpEVkdsM1drZG5aVEo1WkV4eFVVcFhWbWd6ZW5sUWJEZEdZa05WRWhjeFFXWnNZVzlNVmtjMU1sbHdkRkZRTUV0SU1HZFJNQm9pUVVoT01FVTNSM2N5UVZsdk1uaHFkM1ZHZEhkSVpXWjVTSHBDWkhocGFXcFZadyIsImZjdiI6IjMifQ%3D%3D&q=Machine+Learning+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Machine Learning Engineer",
+    "page": 3,
+    "collected_at_utc": "2026-10-30T21:10:44.200438+00:00",
+    "request_fingerprint": "4e2ec10b73c72c7c2074de17c8373d60376a0bf87e9f029c7adfc5964617da07",
+    "job_count": 10
+  }
+}

@@ -1,0 +1,1034 @@
+{
+  "search_metadata": {
+    "id": "6ae50917961621c71058b5e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4d7pbJzKDwrbp6Ng7oq11_gM8aVn1h621QdAu4-vm30/6ae50917961621c71058b5e1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4d7pbJzKDwrbp6Ng7oq11_gM8aVn1h621QdAu4-vm30/6ae50917961621c71058b5e1.md",
+    "created_at": "2026-10-30 21:16:07 UTC",
+    "processed_at": "2026-10-30 21:16:07 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Computer+Vision+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/4d7pbJzKDwrbp6Ng7oq11_gM8aVn1h621QdAu4-vm30/6ae50917961621c71058b5e1.html",
+    "total_time_taken": 2.67
+  },
+  "search_parameters": {
+    "q": "Computer Vision Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX62mhrn9fvh0w9fGrzjim0vjWWH7d0vHd_AizoAaMVOxBal66MGdDhJCNKDarLoxb_RLbL4ITrSh8HwSUrcBatI0CXDjXWBlJm9cI8WEdbLV4QlQyWje916Qe6UC4YHqXVhZEd67clcylHk-NOoevc43py-Z371tM4PnnI_4vga7tsvA5",
+        "q": "Computer Vision Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX62mhrn9fvh0w9fGrzjim0vjWWH7d0vHd_AizoAaMVOxBal66MGdDhJCNKDarLoxb_RLbL4ITrSh8HwSUrcBatI0CXDjXWBlJm9cI8WEdbLV4QlQyWje916Qe6UC4YHqXVhZEd67clcylHk-NOoevc43py-Z371tM4PnnI_4vga7tsvA5&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX62mhrn9fvh0w9fGrzjim0vjWWH7d0vHd_AizoAaMVOxBal66MGdDhJCNKDarLoxb_RLbL4ITrSh8HwSUrcBatI0CXDjXWBlJm9cI8WEdbLV4QlQyWje916Qe6UC4YHqXVhZEd67clcylHk-NOoevc43py-Z371tM4PnnI_4vga7tsvA5&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQwoNcZMC5pVA8J2u_DVVJqbYS0JiRxP2kPaKUD4eIbnI6M7QfrUexyfDUmZ1ShrKjRoF3mNECM-hfDGAHqPtj2zHP2uRIYNpjgddIKhlTg_bO99RW16IvSbysP05Bm9YLY5IxarAlN-lLpltk_8tSpCtwYwXAcY-32p4myYgWZ28XcjD",
+        "q": "Computer Vision Engineer no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQwoNcZMC5pVA8J2u_DVVJqbYS0JiRxP2kPaKUD4eIbnI6M7QfrUexyfDUmZ1ShrKjRoF3mNECM-hfDGAHqPtj2zHP2uRIYNpjgddIKhlTg_bO99RW16IvSbysP05Bm9YLY5IxarAlN-lLpltk_8tSpCtwYwXAcY-32p4myYgWZ28XcjD&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQwoNcZMC5pVA8J2u_DVVJqbYS0JiRxP2kPaKUD4eIbnI6M7QfrUexyfDUmZ1ShrKjRoF3mNECM-hfDGAHqPtj2zHP2uRIYNpjgddIKhlTg_bO99RW16IvSbysP05Bm9YLY5IxarAlN-lLpltk_8tSpCtwYwXAcY-32p4myYgWZ28XcjD&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_BpkYiKC4zq542QnV6UXo-3Mv9ugI9A-HO-0PQc8Bk9pyxl1FxfBg7l04wXJHEH_ovdgkE_L-wDtbP0rDbfKnthSNOmzkTfVCjEEbJ9ghRwMGnyMAJwcYd5-zfmbdNOmwY2SPGOaeMNVTIR0OiK-VK_lmV9LSgnplbTp7oIFgn9-00R85C6P9CazoiJ6sd56ow2VBpaZ3oYupBWVMSwsryErcE9i5WaK5sJiBomGTkY85KeJb7ZOphFxDkQIuWs_nONaqN06mt9_xqGD_AQUcHtcTHwM",
+            "q": "Computer Vision Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_BpkYiKC4zq542QnV6UXo-3Mv9ugI9A-HO-0PQc8Bk9pyxl1FxfBg7l04wXJHEH_ovdgkE_L-wDtbP0rDbfKnthSNOmzkTfVCjEEbJ9ghRwMGnyMAJwcYd5-zfmbdNOmwY2SPGOaeMNVTIR0OiK-VK_lmV9LSgnplbTp7oIFgn9-00R85C6P9CazoiJ6sd56ow2VBpaZ3oYupBWVMSwsryErcE9i5WaK5sJiBomGTkY85KeJb7ZOphFxDkQIuWs_nONaqN06mt9_xqGD_AQUcHtcTHwM&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_BpkYiKC4zq542QnV6UXo-3Mv9ugI9A-HO-0PQc8Bk9pyxl1FxfBg7l04wXJHEH_ovdgkE_L-wDtbP0rDbfKnthSNOmzkTfVCjEEbJ9ghRwMGnyMAJwcYd5-zfmbdNOmwY2SPGOaeMNVTIR0OiK-VK_lmV9LSgnplbTp7oIFgn9-00R85C6P9CazoiJ6sd56ow2VBpaZ3oYupBWVMSwsryErcE9i5WaK5sJiBomGTkY85KeJb7ZOphFxDkQIuWs_nONaqN06mt9_xqGD_AQUcHtcTHwM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_fZ_A4lnBlU_2SP1fvKwPmR9XvE17MvbbsU1bwAarwjd-gdoKLFPxfZ9Xylnp2FunYbJYE_2xEFULjXAPN0YU8btIln3deiv1ZE1g33bzMrivPtILgyEYV1RnnPsCXN-iDY5prBWQ2cHEVgI9lOMws_QjpDeBnWwwhqCQvDT91lSBZfvmE3hJ1NYtkRDvAimc_bXDdUBoD82tL0e3xUGANL8fFyZ5U3l16oD5ChYVJc-NRkcrINVqXyAAc5-LLAwKdlMZdh-sSzafioM_uP3usEgvSFI",
+            "q": "Computer Vision Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_fZ_A4lnBlU_2SP1fvKwPmR9XvE17MvbbsU1bwAarwjd-gdoKLFPxfZ9Xylnp2FunYbJYE_2xEFULjXAPN0YU8btIln3deiv1ZE1g33bzMrivPtILgyEYV1RnnPsCXN-iDY5prBWQ2cHEVgI9lOMws_QjpDeBnWwwhqCQvDT91lSBZfvmE3hJ1NYtkRDvAimc_bXDdUBoD82tL0e3xUGANL8fFyZ5U3l16oD5ChYVJc-NRkcrINVqXyAAc5-LLAwKdlMZdh-sSzafioM_uP3usEgvSFI&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_fZ_A4lnBlU_2SP1fvKwPmR9XvE17MvbbsU1bwAarwjd-gdoKLFPxfZ9Xylnp2FunYbJYE_2xEFULjXAPN0YU8btIln3deiv1ZE1g33bzMrivPtILgyEYV1RnnPsCXN-iDY5prBWQ2cHEVgI9lOMws_QjpDeBnWwwhqCQvDT91lSBZfvmE3hJ1NYtkRDvAimc_bXDdUBoD82tL0e3xUGANL8fFyZ5U3l16oD5ChYVJc-NRkcrINVqXyAAc5-LLAwKdlMZdh-sSzafioM_uP3usEgvSFI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C25EzaHmMTmWzMzGNHusBpgZ4gQ93yRVqRzPvxz9R617X5EQOZLpveVkBam4RdpNK8KN8PYJzHDmfukLhG0anQUdCIJ8hYDLd-U8xAnhl_ZqikH2rWOqNcsMOggE6FI8iPEHf3jzMmlo90l5iRn5BSO31pN9z-5w5zLnkqyyVHtn9tBMdRJkISNIrkow16KYwSG1MLraQemiqDL-lLl_zurFatkdOIXdtTAvmjovtCWu_WHvsIjFvMCpqjCQrBr9JPLntAeGIKdJb2XXF6W0V9V_EySD9urYf-rrNpotTEVcvqLTnA",
+            "q": "Computer Vision Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C25EzaHmMTmWzMzGNHusBpgZ4gQ93yRVqRzPvxz9R617X5EQOZLpveVkBam4RdpNK8KN8PYJzHDmfukLhG0anQUdCIJ8hYDLd-U8xAnhl_ZqikH2rWOqNcsMOggE6FI8iPEHf3jzMmlo90l5iRn5BSO31pN9z-5w5zLnkqyyVHtn9tBMdRJkISNIrkow16KYwSG1MLraQemiqDL-lLl_zurFatkdOIXdtTAvmjovtCWu_WHvsIjFvMCpqjCQrBr9JPLntAeGIKdJb2XXF6W0V9V_EySD9urYf-rrNpotTEVcvqLTnA&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C25EzaHmMTmWzMzGNHusBpgZ4gQ93yRVqRzPvxz9R617X5EQOZLpveVkBam4RdpNK8KN8PYJzHDmfukLhG0anQUdCIJ8hYDLd-U8xAnhl_ZqikH2rWOqNcsMOggE6FI8iPEHf3jzMmlo90l5iRn5BSO31pN9z-5w5zLnkqyyVHtn9tBMdRJkISNIrkow16KYwSG1MLraQemiqDL-lLl_zurFatkdOIXdtTAvmjovtCWu_WHvsIjFvMCpqjCQrBr9JPLntAeGIKdJb2XXF6W0V9V_EySD9urYf-rrNpotTEVcvqLTnA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lplll79R674aAAX7f9JFKWU-RWHzPuBaqPCVSrPRA6fBTztjPFSw8xok2ISoZ3CkeCbKgPZ8p5GPW4FZ7B2SuUwYe4CrWyGD2rgqViZkkCC7bGQ8UesdFyJhinHZUupWScMvUGHnh_D5zomBF83ZwgRgv9ZQ65V5sVpe_QbG9cMAFQy639XDp-nTIt5mWRIDFxvIuPXx3-HY9tFqoVEJ9y8oVmQnI19itoqniJJ_qROOuHVTUuiwe8BnYrYxqytzMQ61dbC3jAsKbocfXBonAG7O8rxXc8k8Zd47TDz2PrAw1r1RHbFBg",
+            "q": "Computer Vision Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lplll79R674aAAX7f9JFKWU-RWHzPuBaqPCVSrPRA6fBTztjPFSw8xok2ISoZ3CkeCbKgPZ8p5GPW4FZ7B2SuUwYe4CrWyGD2rgqViZkkCC7bGQ8UesdFyJhinHZUupWScMvUGHnh_D5zomBF83ZwgRgv9ZQ65V5sVpe_QbG9cMAFQy639XDp-nTIt5mWRIDFxvIuPXx3-HY9tFqoVEJ9y8oVmQnI19itoqniJJ_qROOuHVTUuiwe8BnYrYxqytzMQ61dbC3jAsKbocfXBonAG7O8rxXc8k8Zd47TDz2PrAw1r1RHbFBg&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lplll79R674aAAX7f9JFKWU-RWHzPuBaqPCVSrPRA6fBTztjPFSw8xok2ISoZ3CkeCbKgPZ8p5GPW4FZ7B2SuUwYe4CrWyGD2rgqViZkkCC7bGQ8UesdFyJhinHZUupWScMvUGHnh_D5zomBF83ZwgRgv9ZQ65V5sVpe_QbG9cMAFQy639XDp-nTIt5mWRIDFxvIuPXx3-HY9tFqoVEJ9y8oVmQnI19itoqniJJ_qROOuHVTUuiwe8BnYrYxqytzMQ61dbC3jAsKbocfXBonAG7O8rxXc8k8Zd47TDz2PrAw1r1RHbFBg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_BpkYiKC4zq542QnV6UXo-3Mv9ugI9A-HO-0PQc8Bk9pyxl1FxfBg7l04wXJHEH_ovdgkE_L-wDtbP0rDbfKnthSNOmzkTfVCjEEbJ9ghRwMGnyMAJwcYd5-zfmbdNOmwY2SPGOaeMNVTIR0OiK-VK_lmV9LSgnplbTp7oIFgn9-00R85C6P9CazoiJ6sd56ow2VBpaZ3oYupBWVMSwsryErcE9i5WaK5sJiBomGTkY85KeJb7ZOphFxDkQIuWs_nONaqN06mt9_xqGD_AQUcHtcTHwM",
+            "q": "Computer Vision Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_BpkYiKC4zq542QnV6UXo-3Mv9ugI9A-HO-0PQc8Bk9pyxl1FxfBg7l04wXJHEH_ovdgkE_L-wDtbP0rDbfKnthSNOmzkTfVCjEEbJ9ghRwMGnyMAJwcYd5-zfmbdNOmwY2SPGOaeMNVTIR0OiK-VK_lmV9LSgnplbTp7oIFgn9-00R85C6P9CazoiJ6sd56ow2VBpaZ3oYupBWVMSwsryErcE9i5WaK5sJiBomGTkY85KeJb7ZOphFxDkQIuWs_nONaqN06mt9_xqGD_AQUcHtcTHwM&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_BpkYiKC4zq542QnV6UXo-3Mv9ugI9A-HO-0PQc8Bk9pyxl1FxfBg7l04wXJHEH_ovdgkE_L-wDtbP0rDbfKnthSNOmzkTfVCjEEbJ9ghRwMGnyMAJwcYd5-zfmbdNOmwY2SPGOaeMNVTIR0OiK-VK_lmV9LSgnplbTp7oIFgn9-00R85C6P9CazoiJ6sd56ow2VBpaZ3oYupBWVMSwsryErcE9i5WaK5sJiBomGTkY85KeJb7ZOphFxDkQIuWs_nONaqN06mt9_xqGD_AQUcHtcTHwM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_fZ_A4lnBlU_2SP1fvKwPmR9XvE17MvbbsU1bwAarwjd-gdoKLFPxfZ9Xylnp2FunYbJYE_2xEFULjXAPN0YU8btIln3deiv1ZE1g33bzMrivPtILgyEYV1RnnPsCXN-iDY5prBWQ2cHEVgI9lOMws_QjpDeBnWwwhqCQvDT91lSBZfvmE3hJ1NYtkRDvAimc_bXDdUBoD82tL0e3xUGANL8fFyZ5U3l16oD5ChYVJc-NRkcrINVqXyAAc5-LLAwKdlMZdh-sSzafioM_uP3usEgvSFI",
+            "q": "Computer Vision Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_fZ_A4lnBlU_2SP1fvKwPmR9XvE17MvbbsU1bwAarwjd-gdoKLFPxfZ9Xylnp2FunYbJYE_2xEFULjXAPN0YU8btIln3deiv1ZE1g33bzMrivPtILgyEYV1RnnPsCXN-iDY5prBWQ2cHEVgI9lOMws_QjpDeBnWwwhqCQvDT91lSBZfvmE3hJ1NYtkRDvAimc_bXDdUBoD82tL0e3xUGANL8fFyZ5U3l16oD5ChYVJc-NRkcrINVqXyAAc5-LLAwKdlMZdh-sSzafioM_uP3usEgvSFI&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rA2Qi_VWlkiAD7J1hqEdvShKji_0CK21s27YAc96wS3_fZ_A4lnBlU_2SP1fvKwPmR9XvE17MvbbsU1bwAarwjd-gdoKLFPxfZ9Xylnp2FunYbJYE_2xEFULjXAPN0YU8btIln3deiv1ZE1g33bzMrivPtILgyEYV1RnnPsCXN-iDY5prBWQ2cHEVgI9lOMws_QjpDeBnWwwhqCQvDT91lSBZfvmE3hJ1NYtkRDvAimc_bXDdUBoD82tL0e3xUGANL8fFyZ5U3l16oD5ChYVJc-NRkcrINVqXyAAc5-LLAwKdlMZdh-sSzafioM_uP3usEgvSFI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C25EzaHmMTmWzMzGNHusBpgZ4gQ93yRVqRzPvxz9R617X5EQOZLpveVkBam4RdpNK8KN8PYJzHDmfukLhG0anQUdCIJ8hYDLd-U8xAnhl_ZqikH2rWOqNcsMOggE6FI8iPEHf3jzMmlo90l5iRn5BSO31pN9z-5w5zLnkqyyVHtn9tBMdRJkISNIrkow16KYwSG1MLraQemiqDL-lLl_zurFatkdOIXdtTAvmjovtCWu_WHvsIjFvMCpqjCQrBr9JPLntAeGIKdJb2XXF6W0V9V_EySD9urYf-rrNpotTEVcvqLTnA",
+            "q": "Computer Vision Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C25EzaHmMTmWzMzGNHusBpgZ4gQ93yRVqRzPvxz9R617X5EQOZLpveVkBam4RdpNK8KN8PYJzHDmfukLhG0anQUdCIJ8hYDLd-U8xAnhl_ZqikH2rWOqNcsMOggE6FI8iPEHf3jzMmlo90l5iRn5BSO31pN9z-5w5zLnkqyyVHtn9tBMdRJkISNIrkow16KYwSG1MLraQemiqDL-lLl_zurFatkdOIXdtTAvmjovtCWu_WHvsIjFvMCpqjCQrBr9JPLntAeGIKdJb2XXF6W0V9V_EySD9urYf-rrNpotTEVcvqLTnA&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C25EzaHmMTmWzMzGNHusBpgZ4gQ93yRVqRzPvxz9R617X5EQOZLpveVkBam4RdpNK8KN8PYJzHDmfukLhG0anQUdCIJ8hYDLd-U8xAnhl_ZqikH2rWOqNcsMOggE6FI8iPEHf3jzMmlo90l5iRn5BSO31pN9z-5w5zLnkqyyVHtn9tBMdRJkISNIrkow16KYwSG1MLraQemiqDL-lLl_zurFatkdOIXdtTAvmjovtCWu_WHvsIjFvMCpqjCQrBr9JPLntAeGIKdJb2XXF6W0V9V_EySD9urYf-rrNpotTEVcvqLTnA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lplll79R674aAAX7f9JFKWU-RWHzPuBaqPCVSrPRA6fBTztjPFSw8xok2ISoZ3CkeCbKgPZ8p5GPW4FZ7B2SuUwYe4CrWyGD2rgqViZkkCC7bGQ8UesdFyJhinHZUupWScMvUGHnh_D5zomBF83ZwgRgv9ZQ65V5sVpe_QbG9cMAFQy639XDp-nTIt5mWRIDFxvIuPXx3-HY9tFqoVEJ9y8oVmQnI19itoqniJJ_qROOuHVTUuiwe8BnYrYxqytzMQ61dbC3jAsKbocfXBonAG7O8rxXc8k8Zd47TDz2PrAw1r1RHbFBg",
+            "q": "Computer Vision Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lplll79R674aAAX7f9JFKWU-RWHzPuBaqPCVSrPRA6fBTztjPFSw8xok2ISoZ3CkeCbKgPZ8p5GPW4FZ7B2SuUwYe4CrWyGD2rgqViZkkCC7bGQ8UesdFyJhinHZUupWScMvUGHnh_D5zomBF83ZwgRgv9ZQ65V5sVpe_QbG9cMAFQy639XDp-nTIt5mWRIDFxvIuPXx3-HY9tFqoVEJ9y8oVmQnI19itoqniJJ_qROOuHVTUuiwe8BnYrYxqytzMQ61dbC3jAsKbocfXBonAG7O8rxXc8k8Zd47TDz2PrAw1r1RHbFBg&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lplll79R674aAAX7f9JFKWU-RWHzPuBaqPCVSrPRA6fBTztjPFSw8xok2ISoZ3CkeCbKgPZ8p5GPW4FZ7B2SuUwYe4CrWyGD2rgqViZkkCC7bGQ8UesdFyJhinHZUupWScMvUGHnh_D5zomBF83ZwgRgv9ZQ65V5sVpe_QbG9cMAFQy639XDp-nTIt5mWRIDFxvIuPXx3-HY9tFqoVEJ9y8oVmQnI19itoqniJJ_qROOuHVTUuiwe8BnYrYxqytzMQ61dbC3jAsKbocfXBonAG7O8rxXc8k8Zd47TDz2PrAw1r1RHbFBg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnDmBC0TV2RXxsbVfo74TgKDkZ_1c2oZPIxAKjgUO5nY_ebTSrvx7UW5Wt_oPbiokdeGBHKvl03KUWO9Oae-aCtAFCRvYs716YjjkoDN8-UzvWq8G--tC-cc33LcaY2PKKp9aK8Pjd3hprk8OlaZ3ypmAmRULpa72-UUeKkKOQ8ePOoPbgpC7ooSuW2z-OD_N8pDlN0dJJNFUeCEhWM83vM-keA4NdlpLSYXoPxOMmC0wFO-DH2pCTJe8xM-oE_2vGAleSVuxlPKReoe8JyxvISjwkAd5Hfb3kvySA5I4QyuoGeH02tuqdnOd5IHEqvYR0kFMwG0",
+            "q": "Computer Vision Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnDmBC0TV2RXxsbVfo74TgKDkZ_1c2oZPIxAKjgUO5nY_ebTSrvx7UW5Wt_oPbiokdeGBHKvl03KUWO9Oae-aCtAFCRvYs716YjjkoDN8-UzvWq8G--tC-cc33LcaY2PKKp9aK8Pjd3hprk8OlaZ3ypmAmRULpa72-UUeKkKOQ8ePOoPbgpC7ooSuW2z-OD_N8pDlN0dJJNFUeCEhWM83vM-keA4NdlpLSYXoPxOMmC0wFO-DH2pCTJe8xM-oE_2vGAleSVuxlPKReoe8JyxvISjwkAd5Hfb3kvySA5I4QyuoGeH02tuqdnOd5IHEqvYR0kFMwG0&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnDmBC0TV2RXxsbVfo74TgKDkZ_1c2oZPIxAKjgUO5nY_ebTSrvx7UW5Wt_oPbiokdeGBHKvl03KUWO9Oae-aCtAFCRvYs716YjjkoDN8-UzvWq8G--tC-cc33LcaY2PKKp9aK8Pjd3hprk8OlaZ3ypmAmRULpa72-UUeKkKOQ8ePOoPbgpC7ooSuW2z-OD_N8pDlN0dJJNFUeCEhWM83vM-keA4NdlpLSYXoPxOMmC0wFO-DH2pCTJe8xM-oE_2vGAleSVuxlPKReoe8JyxvISjwkAd5Hfb3kvySA5I4QyuoGeH02tuqdnOd5IHEqvYR0kFMwG0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRb4_VnOTSH067F4LfxdAN5E8tD-FbgOAQiuObr1nXotwvAsEnIgYuL-I1lpcJypjT_5pn0uPPKP8nrYg0bBF4pafKcmWLoQ9kvUSLy5MpWBvs8gB2tBpwy3XzMyOPTdxReV-zbd0JUlSAqPBNbrOuPw8pVEW-7kAo9VMXq2jDuV_5FsaQloQH3nrKPsbSeMznB1MHtDyuEXp3p0yT2GXAxwJxXMO60LJw9wYSl_k4AZDJt25WDcmz-xBSHkcdgkCwdt1__zVYP3ZIJwo89YClwzgEbXwHKPmieDnNhlXkZRJ5Qe5gAEw96oZ2fbCvAmcM0wLE-t4",
+            "q": "Computer Vision Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRb4_VnOTSH067F4LfxdAN5E8tD-FbgOAQiuObr1nXotwvAsEnIgYuL-I1lpcJypjT_5pn0uPPKP8nrYg0bBF4pafKcmWLoQ9kvUSLy5MpWBvs8gB2tBpwy3XzMyOPTdxReV-zbd0JUlSAqPBNbrOuPw8pVEW-7kAo9VMXq2jDuV_5FsaQloQH3nrKPsbSeMznB1MHtDyuEXp3p0yT2GXAxwJxXMO60LJw9wYSl_k4AZDJt25WDcmz-xBSHkcdgkCwdt1__zVYP3ZIJwo89YClwzgEbXwHKPmieDnNhlXkZRJ5Qe5gAEw96oZ2fbCvAmcM0wLE-t4&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRb4_VnOTSH067F4LfxdAN5E8tD-FbgOAQiuObr1nXotwvAsEnIgYuL-I1lpcJypjT_5pn0uPPKP8nrYg0bBF4pafKcmWLoQ9kvUSLy5MpWBvs8gB2tBpwy3XzMyOPTdxReV-zbd0JUlSAqPBNbrOuPw8pVEW-7kAo9VMXq2jDuV_5FsaQloQH3nrKPsbSeMznB1MHtDyuEXp3p0yT2GXAxwJxXMO60LJw9wYSl_k4AZDJt25WDcmz-xBSHkcdgkCwdt1__zVYP3ZIJwo89YClwzgEbXwHKPmieDnNhlXkZRJ5Qe5gAEw96oZ2fbCvAmcM0wLE-t4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1lJDOZy31cU02UipiRcyTaKLfd7K0QhgTTagRXWjHpinEv5id3lLwlFjHd9Lua65-iqjaB5kHn6fotoU2hUYqJzcHuz1Ok72qjIcIcUJvlMAHpjtQtuChbwMaVNKovv0zP-QYhTPUbpUw6R9xkECSdqS7XVljJAlIXHwHx2oDmG2FavD8h-Vv9Gx1gfK-jDiUbzlTF2z819xr5MmWGsKIqiCZobsdlbhAk_LZRdZN6X6vQXMWeUT1YsO-R-HUyXlDne73po8nzoSVGIf1GLhK1Yl7pVNafcHfVerqbH0kdbm9JHaw87ijc19_Q_UCCdsQXuewQo",
+            "q": "Computer Vision Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1lJDOZy31cU02UipiRcyTaKLfd7K0QhgTTagRXWjHpinEv5id3lLwlFjHd9Lua65-iqjaB5kHn6fotoU2hUYqJzcHuz1Ok72qjIcIcUJvlMAHpjtQtuChbwMaVNKovv0zP-QYhTPUbpUw6R9xkECSdqS7XVljJAlIXHwHx2oDmG2FavD8h-Vv9Gx1gfK-jDiUbzlTF2z819xr5MmWGsKIqiCZobsdlbhAk_LZRdZN6X6vQXMWeUT1YsO-R-HUyXlDne73po8nzoSVGIf1GLhK1Yl7pVNafcHfVerqbH0kdbm9JHaw87ijc19_Q_UCCdsQXuewQo&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1lJDOZy31cU02UipiRcyTaKLfd7K0QhgTTagRXWjHpinEv5id3lLwlFjHd9Lua65-iqjaB5kHn6fotoU2hUYqJzcHuz1Ok72qjIcIcUJvlMAHpjtQtuChbwMaVNKovv0zP-QYhTPUbpUw6R9xkECSdqS7XVljJAlIXHwHx2oDmG2FavD8h-Vv9Gx1gfK-jDiUbzlTF2z819xr5MmWGsKIqiCZobsdlbhAk_LZRdZN6X6vQXMWeUT1YsO-R-HUyXlDne73po8nzoSVGIf1GLhK1Yl7pVNafcHfVerqbH0kdbm9JHaw87ijc19_Q_UCCdsQXuewQo&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFl60EBPgxoiZgsa6HfCBnONWXYPHURV3it69CpjTkvQfi_QippeIMWcUssLELVpTiOfOerHyRLzW6ngFBnQt06af3fB9WUBfmHbs0g5iHIFNeumM54NXPB0eUsPrUJVeLSs6q3dKrqyAqdV2tTOTCC70imEZEo4Gf3rFfj4RwNDFxoyEjZ8-3L7rDFr6F5wwheSNU7m7ypE6TAPy8EKGTx-Q7drr2RH7KYdYCmQt27LjRzxdwRv2MVOkTGr2yYs4zrqbDlPvediOU2EVmGsWyj-qUnlss8MUiFnu9Wk_odH0jDRyQgWe-9lEXQp_dfODsWusxro",
+            "q": "Computer Vision Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFl60EBPgxoiZgsa6HfCBnONWXYPHURV3it69CpjTkvQfi_QippeIMWcUssLELVpTiOfOerHyRLzW6ngFBnQt06af3fB9WUBfmHbs0g5iHIFNeumM54NXPB0eUsPrUJVeLSs6q3dKrqyAqdV2tTOTCC70imEZEo4Gf3rFfj4RwNDFxoyEjZ8-3L7rDFr6F5wwheSNU7m7ypE6TAPy8EKGTx-Q7drr2RH7KYdYCmQt27LjRzxdwRv2MVOkTGr2yYs4zrqbDlPvediOU2EVmGsWyj-qUnlss8MUiFnu9Wk_odH0jDRyQgWe-9lEXQp_dfODsWusxro&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFl60EBPgxoiZgsa6HfCBnONWXYPHURV3it69CpjTkvQfi_QippeIMWcUssLELVpTiOfOerHyRLzW6ngFBnQt06af3fB9WUBfmHbs0g5iHIFNeumM54NXPB0eUsPrUJVeLSs6q3dKrqyAqdV2tTOTCC70imEZEo4Gf3rFfj4RwNDFxoyEjZ8-3L7rDFr6F5wwheSNU7m7ypE6TAPy8EKGTx-Q7drr2RH7KYdYCmQt27LjRzxdwRv2MVOkTGr2yYs4zrqbDlPvediOU2EVmGsWyj-qUnlss8MUiFnu9Wk_odH0jDRyQgWe-9lEXQp_dfODsWusxro&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnDmBC0TV2RXxsbVfo74TgKDkZ_1c2oZPIxAKjgUO5nY_ebTSrvx7UW5Wt_oPbiokdeGBHKvl03KUWO9Oae-aCtAFCRvYs716YjjkoDN8-UzvWq8G--tC-cc33LcaY2PKKp9aK8Pjd3hprk8OlaZ3ypmAmRULpa72-UUeKkKOQ8ePOoPbgpC7ooSuW2z-OD_N8pDlN0dJJNFUeCEhWM83vM-keA4NdlpLSYXoPxOMmC0wFO-DH2pCTJe8xM-oE_2vGAleSVuxlPKReoe8JyxvISjwkAd5Hfb3kvySA5I4QyuoGeH02tuqdnOd5IHEqvYR0kFMwG0",
+            "q": "Computer Vision Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnDmBC0TV2RXxsbVfo74TgKDkZ_1c2oZPIxAKjgUO5nY_ebTSrvx7UW5Wt_oPbiokdeGBHKvl03KUWO9Oae-aCtAFCRvYs716YjjkoDN8-UzvWq8G--tC-cc33LcaY2PKKp9aK8Pjd3hprk8OlaZ3ypmAmRULpa72-UUeKkKOQ8ePOoPbgpC7ooSuW2z-OD_N8pDlN0dJJNFUeCEhWM83vM-keA4NdlpLSYXoPxOMmC0wFO-DH2pCTJe8xM-oE_2vGAleSVuxlPKReoe8JyxvISjwkAd5Hfb3kvySA5I4QyuoGeH02tuqdnOd5IHEqvYR0kFMwG0&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnDmBC0TV2RXxsbVfo74TgKDkZ_1c2oZPIxAKjgUO5nY_ebTSrvx7UW5Wt_oPbiokdeGBHKvl03KUWO9Oae-aCtAFCRvYs716YjjkoDN8-UzvWq8G--tC-cc33LcaY2PKKp9aK8Pjd3hprk8OlaZ3ypmAmRULpa72-UUeKkKOQ8ePOoPbgpC7ooSuW2z-OD_N8pDlN0dJJNFUeCEhWM83vM-keA4NdlpLSYXoPxOMmC0wFO-DH2pCTJe8xM-oE_2vGAleSVuxlPKReoe8JyxvISjwkAd5Hfb3kvySA5I4QyuoGeH02tuqdnOd5IHEqvYR0kFMwG0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRb4_VnOTSH067F4LfxdAN5E8tD-FbgOAQiuObr1nXotwvAsEnIgYuL-I1lpcJypjT_5pn0uPPKP8nrYg0bBF4pafKcmWLoQ9kvUSLy5MpWBvs8gB2tBpwy3XzMyOPTdxReV-zbd0JUlSAqPBNbrOuPw8pVEW-7kAo9VMXq2jDuV_5FsaQloQH3nrKPsbSeMznB1MHtDyuEXp3p0yT2GXAxwJxXMO60LJw9wYSl_k4AZDJt25WDcmz-xBSHkcdgkCwdt1__zVYP3ZIJwo89YClwzgEbXwHKPmieDnNhlXkZRJ5Qe5gAEw96oZ2fbCvAmcM0wLE-t4",
+            "q": "Computer Vision Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRb4_VnOTSH067F4LfxdAN5E8tD-FbgOAQiuObr1nXotwvAsEnIgYuL-I1lpcJypjT_5pn0uPPKP8nrYg0bBF4pafKcmWLoQ9kvUSLy5MpWBvs8gB2tBpwy3XzMyOPTdxReV-zbd0JUlSAqPBNbrOuPw8pVEW-7kAo9VMXq2jDuV_5FsaQloQH3nrKPsbSeMznB1MHtDyuEXp3p0yT2GXAxwJxXMO60LJw9wYSl_k4AZDJt25WDcmz-xBSHkcdgkCwdt1__zVYP3ZIJwo89YClwzgEbXwHKPmieDnNhlXkZRJ5Qe5gAEw96oZ2fbCvAmcM0wLE-t4&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRb4_VnOTSH067F4LfxdAN5E8tD-FbgOAQiuObr1nXotwvAsEnIgYuL-I1lpcJypjT_5pn0uPPKP8nrYg0bBF4pafKcmWLoQ9kvUSLy5MpWBvs8gB2tBpwy3XzMyOPTdxReV-zbd0JUlSAqPBNbrOuPw8pVEW-7kAo9VMXq2jDuV_5FsaQloQH3nrKPsbSeMznB1MHtDyuEXp3p0yT2GXAxwJxXMO60LJw9wYSl_k4AZDJt25WDcmz-xBSHkcdgkCwdt1__zVYP3ZIJwo89YClwzgEbXwHKPmieDnNhlXkZRJ5Qe5gAEw96oZ2fbCvAmcM0wLE-t4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1lJDOZy31cU02UipiRcyTaKLfd7K0QhgTTagRXWjHpinEv5id3lLwlFjHd9Lua65-iqjaB5kHn6fotoU2hUYqJzcHuz1Ok72qjIcIcUJvlMAHpjtQtuChbwMaVNKovv0zP-QYhTPUbpUw6R9xkECSdqS7XVljJAlIXHwHx2oDmG2FavD8h-Vv9Gx1gfK-jDiUbzlTF2z819xr5MmWGsKIqiCZobsdlbhAk_LZRdZN6X6vQXMWeUT1YsO-R-HUyXlDne73po8nzoSVGIf1GLhK1Yl7pVNafcHfVerqbH0kdbm9JHaw87ijc19_Q_UCCdsQXuewQo",
+            "q": "Computer Vision Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1lJDOZy31cU02UipiRcyTaKLfd7K0QhgTTagRXWjHpinEv5id3lLwlFjHd9Lua65-iqjaB5kHn6fotoU2hUYqJzcHuz1Ok72qjIcIcUJvlMAHpjtQtuChbwMaVNKovv0zP-QYhTPUbpUw6R9xkECSdqS7XVljJAlIXHwHx2oDmG2FavD8h-Vv9Gx1gfK-jDiUbzlTF2z819xr5MmWGsKIqiCZobsdlbhAk_LZRdZN6X6vQXMWeUT1YsO-R-HUyXlDne73po8nzoSVGIf1GLhK1Yl7pVNafcHfVerqbH0kdbm9JHaw87ijc19_Q_UCCdsQXuewQo&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1lJDOZy31cU02UipiRcyTaKLfd7K0QhgTTagRXWjHpinEv5id3lLwlFjHd9Lua65-iqjaB5kHn6fotoU2hUYqJzcHuz1Ok72qjIcIcUJvlMAHpjtQtuChbwMaVNKovv0zP-QYhTPUbpUw6R9xkECSdqS7XVljJAlIXHwHx2oDmG2FavD8h-Vv9Gx1gfK-jDiUbzlTF2z819xr5MmWGsKIqiCZobsdlbhAk_LZRdZN6X6vQXMWeUT1YsO-R-HUyXlDne73po8nzoSVGIf1GLhK1Yl7pVNafcHfVerqbH0kdbm9JHaw87ijc19_Q_UCCdsQXuewQo&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFl60EBPgxoiZgsa6HfCBnONWXYPHURV3it69CpjTkvQfi_QippeIMWcUssLELVpTiOfOerHyRLzW6ngFBnQt06af3fB9WUBfmHbs0g5iHIFNeumM54NXPB0eUsPrUJVeLSs6q3dKrqyAqdV2tTOTCC70imEZEo4Gf3rFfj4RwNDFxoyEjZ8-3L7rDFr6F5wwheSNU7m7ypE6TAPy8EKGTx-Q7drr2RH7KYdYCmQt27LjRzxdwRv2MVOkTGr2yYs4zrqbDlPvediOU2EVmGsWyj-qUnlss8MUiFnu9Wk_odH0jDRyQgWe-9lEXQp_dfODsWusxro",
+            "q": "Computer Vision Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDihhv1ipwQvJn3d1vvCbYPcXIxOCQ:1793394969616&q=Computer+Vision+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFl60EBPgxoiZgsa6HfCBnONWXYPHURV3it69CpjTkvQfi_QippeIMWcUssLELVpTiOfOerHyRLzW6ngFBnQt06af3fB9WUBfmHbs0g5iHIFNeumM54NXPB0eUsPrUJVeLSs6q3dKrqyAqdV2tTOTCC70imEZEo4Gf3rFfj4RwNDFxoyEjZ8-3L7rDFr6F5wwheSNU7m7ypE6TAPy8EKGTx-Q7drr2RH7KYdYCmQt27LjRzxdwRv2MVOkTGr2yYs4zrqbDlPvediOU2EVmGsWyj-qUnlss8MUiFnu9Wk_odH0jDRyQgWe-9lEXQp_dfODsWusxro&udm=8&sa=X&ved=2ahUKEwiOyOvw1OKXAxV6EVkFHRp4JEwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computer+Vision+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFl60EBPgxoiZgsa6HfCBnONWXYPHURV3it69CpjTkvQfi_QippeIMWcUssLELVpTiOfOerHyRLzW6ngFBnQt06af3fB9WUBfmHbs0g5iHIFNeumM54NXPB0eUsPrUJVeLSs6q3dKrqyAqdV2tTOTCC70imEZEo4Gf3rFfj4RwNDFxoyEjZ8-3L7rDFr6F5wwheSNU7m7ypE6TAPy8EKGTx-Q7drr2RH7KYdYCmQt27LjRzxdwRv2MVOkTGr2yYs4zrqbDlPvediOU2EVmGsWyj-qUnlss8MUiFnu9Wk_odH0jDRyQgWe-9lEXQp_dfODsWusxro&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Software Engineer - (RPA/Computer Vision)",
+      "company_name": "Curotec",
+      "location": "Providence, RI",
+      "via": "Ladders",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Deep, proven experience with OpenCV for image recognition, template matching, and document/image data extraction in production automation",
+            "Significant hands-on experience with image-based desktop automation libraries (e.g., PyAutoGUI) and the ability to design resilient automations for applications with no API or DOM",
+            "Proven experience with Selenium for complex browser-based automation",
+            "Comprehensive understanding of healthcare RCM workflows (e.g., billing, coding, claims, denial management)",
+            "Deep knowledge of HIPAA, HITRUST, and healthcare security best practices",
+            "Exceptional analytical, debugging, and documentation skills",
+            "Highly effective communicator; able to present technical decisions to non-technical audiences",
+            "Proficiency with version control tools and branching strategies (e.g., Git)",
+            "5+ years of professional software development experience, with significant focus on Python automation and a demonstrable concentration in computer vision-based RPA",
+            "Ability to operate as a senior contributor from the start of contract engagement, with minimal ramp-up time",
+            "Demonstrated ability to decompose highly complex problems, define solution architectures, and guide teams to deliver them, including in non-deterministic visual environments",
+            "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "Advanced experience with OCR engines (e.g., Tesseract, PaddleOCR) or cloud document-intelligence services, including tuning and model selection",
+            "Experience architecting automations inside Citrix, RDP, or other virtualized/remote environments where image-based control is required",
+            "Extensive experience applying AI/ML tools such as NLP and predictive modeling to production automation use cases",
+            "Extensive, proven experience leading automation of complex healthcare revenue cycle workflows including eligibility, claims processing, payments, and denials management",
+            "Expert-level experience designing and integrating with third-party healthcare software ecosystems (EHR/EMR systems, billing platforms, web portals)",
+            "Strong familiarity with EHR/billing systems and healthcare web portals at an architectural level",
+            "Extensive experience with Microsoft Azure (e.g., Azure Functions, Logic Apps, Key Vault, App Services, Azure DevOps)",
+            "Advanced knowledge of logging, alerting, and observability tools"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this senior role, you will drive technical direction for CV-heavy automation, architect scalable solutions for desktop, document, and portal workflows, and serve as a subject matter expert in Python, OpenCV, image-based desktop automation (e.g., PyAutoGUI), Selenium, and healthcare compliance",
+            "You will mentor engineers across the team, contribute to engineering standards, and partner closely with operations and clinical stakeholders to transform complex manual workflows into reliable, compliant automated systems",
+            "Computer Vision Leadership: Lead the design and long-term maintenance of OpenCV- and image-based automation frameworks for RCM workflows, including template matching, document understanding, and visual element detection at production scale",
+            "Desktop & Image-Based RPA Architecture: Architect robust automations for legacy desktop, thick-client, and virtualized (e.g., Citrix/RDP) environments using image-based control (e.g., PyAutoGUI), with resilience to UI drift, resolution changes, and visual variability",
+            "OCR & Document Intelligence: Drive the architecture for OCR and document-extraction pipelines against EOBs, remittance advice, correspondence, and payer documents, selecting appropriate engines and models for each use case",
+            "Web Automation at Scale: Own complex Selenium-based automation for payer portals and EHR web interfaces as a secondary but critical capability of the platform",
+            "Automation Leadership: Lead the design, implementation, and long-term maintenance of robust automation frameworks for RCM processes using Python, OpenCV, PyAutoGUI, and Selenium",
+            "AI/ML Strategy: Drive the adoption and integration of AI/ML capabilities (e.g., OCR, NLP, predictive analytics) to significantly enhance automation quality and process outcomes",
+            "System Integration: Own end-to-end integration of automation solutions with billing software, EHR systems, and healthcare web portals",
+            "Compliance & Standards: Champion healthcare data privacy and security compliance (HIPAA, HITRUST) across all engineering activities and establish team-wide standards",
+            "Documentation: Define documentation standards and ensure comprehensive technical documentation is maintained across all automation workflows",
+            "Monitoring & Reliability: Establish monitoring, alerting, and optimization practices for automation accuracy, efficiency, and reliability at production scale - with specific attention to CV-based workflows that drift as target UIs change",
+            "Architecture: Design resilient automation architectures that bridge legacy desktop systems, virtualized environments, and modern platforms",
+            "Stakeholder Partnership: Partner with SMEs, operations, and clinical stakeholders to translate complex manual workflows into automated solutions",
+            "Security: Own and enforce secure credential handling, logging, and audit trail practices in line with HITRUST/HIPAA requirements",
+            "Cloud Infrastructure: Architect and govern use of Azure services (e.g., Azure Functions, Azure Storage, Key Vault, Logic Apps) to support enterprise-scale automation",
+            "Mentorship: Mentor Junior and Mid-Level Software Engineers through code reviews, pairing sessions, and technical guidance",
+            "Expert proficiency in Python programming, including advanced patterns, performance optimization, and production-grade software design"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=EQ6kWNR777qrMJcvAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0f6HSjijYiuOgkRYpOpQXXksYzjbR3Iblqf8c_tS4P3lte8p0leYXkOEDFT_nogHAh6wgxwBaWZXFWGfd-kMnvLjqm1dRv3EBEHUwLTJAz2w4Xp1bEx6NSMXapjaLFmdRwr5iw4VG9uIl_1LGdNr7TgvX-sBtTT3Y9z4bAggYcQRH47R5IBjdQXn8c50XmpAAAAA&shmds=v1_Ac3VAoyB5HDZvCVObl1A3EB7wsU5ysvua69ZsWDFTscfyAb-Gg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=EQ6kWNR777qrMJcvAAAAAA%3D%3D",
+      "extensions": [
+        "9 hours ago",
+        "120K–145K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.theladders.com/job/senior-software-engineer-rpa-computer-vision-curotec-providence-ri_89602679",
+      "job_title": "Senior Software Engineer - (RPA/Computer Vision)",
+      "description": "We are seeking a Senior Software Engineer to lead the design and delivery of intelligent automation solutions focused on Revenue Cycle Management (RCM) in the healthcare industry, with specialization in computer vision-driven RPA. In this senior role, you will drive technical direction for CV-heavy automation, architect scalable solutions for desktop, document, and portal workflows, and serve as a subject matter expert in Python, OpenCV, image-based desktop automation (e.g., PyAutoGUI), Selenium, and healthcare compliance. You will mentor engineers across the team, contribute to engineering standards, and partner closely with operations and clinical stakeholders to transform complex manual workflows into reliable, compliant automated systems.\n\nWhat You Will Do:\n\n\n\nComputer Vision Leadership: Lead the design and long-term maintenance of OpenCV- and image-based automation frameworks for RCM workflows, including template matching, document understanding, and visual element detection at production scale.Desktop & Image-Based RPA Architecture: Architect robust automations for legacy desktop, thick-client, and virtualized (e.g., Citrix/RDP) environments using image-based control (e.g., PyAutoGUI), with resilience to UI drift, resolution changes, and visual variability.OCR & Document Intelligence: Drive the architecture for OCR and document-extraction pipelines against EOBs, remittance advice, correspondence, and payer documents, selecting appropriate engines and models for each use case.Web Automation at Scale: Own complex Selenium-based automation for payer portals and EHR web interfaces as a secondary but critical capability of the platform.Automation Leadership: Lead the design, implementation, and long-term maintenance of robust automation frameworks for RCM processes using Python, OpenCV, PyAutoGUI, and Selenium.AI/ML Strategy: Drive the adoption and integration of AI/ML capabilities (e.g., OCR, NLP, predictive analytics) to significantly enhance automation quality and process outcomes.System Integration: Own end-to-end integration of automation solutions with billing software, EHR systems, and healthcare web portals.Compliance & Standards: Champion healthcare data privacy and security compliance (HIPAA, HITRUST) across all engineering activities and establish team-wide standards.Documentation: Define documentation standards and ensure comprehensive technical documentation is maintained across all automation workflows.Monitoring & Reliability: Establish monitoring, alerting, and optimization practices for automation accuracy, efficiency, and reliability at production scale - with specific attention to CV-based workflows that drift as target UIs change.Architecture: Design resilient automation architectures that bridge legacy desktop systems, virtualized environments, and modern platforms.Stakeholder Partnership: Partner with SMEs, operations, and clinical stakeholders to translate complex manual workflows into automated solutions.Security: Own and enforce secure credential handling, logging, and audit trail practices in line with HITRUST/HIPAA requirements.Cloud Infrastructure: Architect and govern use of Azure services (e.g., Azure Functions, Azure Storage, Key Vault, Logic Apps) to support enterprise-scale automation.Mentorship: Mentor Junior and Mid-Level Software Engineers through code reviews, pairing sessions, and technical guidance.\n\nExpert proficiency in Python programming, including advanced patterns, performance optimization, and production-grade software design.Deep, proven experience with OpenCV for image recognition, template matching, and document/image data extraction in production automation.Significant hands-on experience with image-based desktop automation libraries (e.g., PyAutoGUI) and the ability to design resilient automations for applications with no API or DOM.Proven experience with Selenium for complex browser-based automation.Comprehensive understanding of healthcare RCM workflows (e.g., billing, coding, claims, denial management).Deep knowledge of HIPAA, HITRUST, and healthcare security best practices.Exceptional analytical, debugging, and documentation skills.Highly effective communicator; able to present technical decisions to non-technical audiences.Proficiency with version control tools and branching strategies (e.g., Git).5+ years of professional software development experience, with significant focus on Python automation and a demonstrable concentration in computer vision-based RPA.Ability to operate as a senior contributor from the start of contract engagement, with minimal ramp-up time.Demonstrated ability to decompose highly complex problems, define solution architectures, and guide teams to deliver them, including in non-deterministic visual environments.Bachelor's degree in Computer Science, Software Engineering, or a related field.Advanced experience with OCR engines (e.g., Tesseract, PaddleOCR) or cloud document-intelligence services, including tuning and model selection.Experience architecting automations inside Citrix, RDP, or other virtualized/remote environments where image-based control is required.Extensive experience applying AI/ML tools such as NLP and predictive modeling to production automation use cases.Extensive, proven experience leading automation of complex healthcare revenue cycle workflows including eligibility, claims processing, payments, and denials management.Expert-level experience designing and integrating with third-party healthcare software ecosystems (EHR/EMR systems, billing platforms, web portals).Strong familiarity with EHR/billing systems and healthcare web portals at an architectural level.Extensive experience with Microsoft Azure (e.g., Azure Functions, Logic Apps, Key Vault, App Services, Azure DevOps).Advanced knowledge of logging, alerting, and observability tools.",
+      "apply_options": [
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-software-engineer-rpa-computer-vision-curotec-providence-ri_89602679?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/brightstar-lottery-senior-software-engineer-providence-the-city-of-providence-f209b3c75dcf361dd9b5da045022961c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/jpKUYUM4p3liwUbWIdhy4n7WTEKWZfL9k-1pBNkN-NzMtqs0su5xcA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/rocket-software/providence-ri/senior-software-engineer/0bbcbd5b4ef091d5399dea45b90a9c89?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/the-city-of-providence/providence/brightstar-lottery-senior-software-engineer-19420-145179729/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_425613534FC88502B1A68F227FEF7CA5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/0cddc0c2-e83b-4dd3-bcaa-3804e348bda6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-software-engineer-ims-tm-db-application-programmer-rocket-software-providence--pureheal-29125_425613534FC88502B1A68F227FEF7CA5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSAoUlBBL0NvbXB1dGVyIFZpc2lvbikiLCJjb21wYW55X25hbWUiOiJDdXJvdGVjIiwiaHRpZG9jaWQiOiJFUTZrV05SNzc3cXJNSmN2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVRoelFVRjBSR2RqTUVaWFYwUkdhelF5WVVzeU5HMU1TRlpKY0hCQmVUZzRTbE5oUW5WMlVIWXhiVUpVTTNvdFNtTXRTMjFIUjA5WGRXaGtWVVJ6YWpOU1ZYTktaVVJuTjBFMWNsSTVjbUZMYVd3M2FrUnBOV05RU1hkTE9IWjVPRXhzYzBoV04wWXpZa05tWWt0T2JHbDBhSFpIVUVOT00weEROVWxPUVZKVGNuSnhZVXdTRjBkUmJteGhjemRZU2xCeGFUVk9iMUJ0ZGtOU05GRlJHaUpCU0U0d1JUZEZhemxPYlVFNFJGaDRZMEZGYlRsV1oyOU5aa1JPUlcwMWNWUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJFUTZrV05SNzc3cXJNSmN2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "company_name": "Clarapath",
+      "location": "Hawthorne, NY",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, Robotics, Applied Mathematics, or a related technical field",
+            "5+ years of professional experience developing computer vision, image processing, machine learning, or related systems",
+            "Strong programming skills in Python and/or C++",
+            "Experience with computer vision and image processing libraries such as OpenCV",
+            "Experience developing, training, evaluating, and deploying machine learning or deep learning models",
+            "Familiarity with frameworks such as PyTorch, TensorFlow, or similar",
+            "Strong understanding of image processing, computer vision fundamentals, and machine learning concepts",
+            "Experience working with real-world imaging data and developing solutions that perform reliably outside of controlled laboratory environments",
+            "Strong analytical and problem-solving skills",
+            "Ability to work hands-on with hardware, imaging systems, and laboratory or robotic equipment",
+            "Excellent communication and collaboration skills",
+            "Ability to work effectively in a fast-paced, multidisciplinary engineering environment",
+            "Willingness to work on-site in Hawthorne, NY"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "COMPENSATION: $130,000 - $180,000/yr",
+            "Competitive salary & equity opportunities",
+            "Medical, dental & vision insurance",
+            "Employer-paid life & disability insurance",
+            "401(k) with company contributions",
+            "HSA & FSA options",
+            "Generous PTO & paid holidays",
+            "Daily catered lunch",
+            "Commuter benefits",
+            "Employee wellness & assistance programs",
+            "Career growth & development opportunities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "TYPE: Full time, regular",
+            "The Computer Vision Engineer will play a key role in the development, integration, and continuous improvement of computer vision systems for Clarapath’s advanced SectionStar™ and TrimStar Pro™ platforms",
+            "This individual will contribute to all phases of the product development lifecycle, from algorithm development and data collection through model training, testing, validation, deployment, and continuous improvement in the field",
+            "Working closely with mechanical, electrical, embedded software, manufacturing, quality, and customer-facing teams, the Computer Vision Engineer will develop robust vision-based solutions that enable accurate, reliable, and automated laboratory workflows while meeting performance, reliability, and regulatory requirements",
+            "We are seeking a hands-on engineer who enjoys solving complex technical challenges, thrives in a collaborative and fast-paced environment, and is passionate about applying computer vision, machine learning, and image processing technologies to innovative medical devices and automation systems that improve laboratory workflows and patient outcomes",
+            "Develop, implement, and optimize computer vision and image processing algorithms for medical robotics and automated laboratory systems",
+            "Design vision-based solutions for object detection, segmentation, tracking, registration, measurement, inspection, and alignment",
+            "Develop and deploy machine learning and deep learning models for image analysis and automated decision-making",
+            "Collect, curate, annotate, and analyze image datasets to support algorithm and model development",
+            "Evaluate model and algorithm performance using appropriate metrics, testing methodologies, and real-world datasets",
+            "Integrate computer vision algorithms with robotic, mechanical, electrical, and software systems",
+            "Develop solutions that operate reliably under real-world variations in lighting, positioning, imaging conditions, tissue characteristics, and system configurations",
+            "Prototype and test algorithms using laboratory equipment, imaging systems, and production hardware",
+            "Troubleshoot and optimize vision systems during development, verification, manufacturing, and field deployment",
+            "Collaborate with Software, Electrical, Mechanical, Manufacturing, Quality, and R&D teams to translate system requirements into practical computer vision solutions",
+            "Participate in design reviews, technical investigations, root-cause analysis, and continuous improvement initiatives",
+            "Develop technical documentation, test plans, verification procedures, and other engineering documentation in accordance with medical device development practices",
+            "Support verification and validation activities and contribute to maintaining compliance with applicable quality and regulatory requirements",
+            "Monitor deployed systems and use performance data to identify opportunities for algorithm and product improvements",
+            "Stay current with advances in computer vision, machine learning, image processing, and AI technologies and evaluate their potential application to Clarapath products"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=4WME5Wc05q29fyddAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBCAYVz7CJ1uFk1EcNGxiOLgKDiVazmSSHoXcif2GXxq6_LDx998V43vZCpvowqPpEkYzhwS0-It3GQAJaxjhGVcREKm9hTNih69V80uqKGl0Y0yeWEaZPYvGfSfXiNWKhmN-v1hN7vCYd12GSsWtAiJ4Yofi1KZNnB__gAR-E_wjQAAAA&shmds=v1_Ac3VAoyZA7CpWu7v4AWpklDf7CRfMNzySPIAscGE67oq1U469g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=4WME5Wc05q29fyddAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEBAQADAQAAAAAAAAAAAAAABQIDBAcB_8QAKxAAAgIBAwQBAQkBAAAAAAAAAQIAAxEEEiEFE0FRMTIVIiNxgZGhsfAG_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH_xAAYEQEBAAMAAAAAAAAAAAAAAAAAAREhQf_aAAwDAQACEQMRAD8A9xiIgIiICIiAiIgIkm7qV6VX3htOERrUWl8h8oGOc55ztzjA4Oc--bqfUTo0qKJ3GbLMFUsQi8sQB-g_MiBQiSPtS1eoOj9saRXYdwjA2isOTu3cnn4x8ZPgzCdW1NtNIWrt6h79jI9TEqpRnHBIPgAn4yGgWp1NR1DTUWrW1gL71RgCMpuztLegcTqafqWou1I0z1rS7IF3MhYC0AMy8HB4Pg_KtJ-qtXUaOvWazR1am4aE3gou1V4DbWy3IyP4hZjq5odfp9dVW9FgJetbQh-oI30kjwDjiJG6X03XaD_odSfx_s-4tYnbant7uBhwUFmfWGYY9YAiWyS6KvmioubDUm9l2ltoyR6z6iqimkYpqSsekUCckSIx2atu3tpt9bePjH9T6UUtuKjd7xz_ALk_vNRAzsXj7o4ORx59x20xjYuMbcY8epqICIiAiIgIiICIiAiIgf_Z.jpeg",
+      "extensions": [
+        "130K–180K a year",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=ae8cd488609884b8",
+      "job_title": "Computer Vision Engineer",
+      "description": "JOB TITLE: Computer Vision Engineer\n\n\n LOCATION: Hawthorne, NY (on-site)\n\n\n TYPE: Full time, regular\n\n\n COMPENSATION: $130,000 - $180,000/yr\n\n\n Clarapath is a medical robotics company based in Westchester County, NY, dedicated to transforming and modernizing laboratory workflows. Our mission is to improve patient care by increasing efficiency, reducing costs, and enhancing the quality and consistency of laboratory processes.\n\n\n Our portfolio includes SectionStar™ and TrimStar Pro™, innovative electro-mechanical systems designed to automate and elevate critical steps in the histology workflow. SectionStar™ delivers high-quality, consistent tissue sections, while TrimStar Pro™ streamlines and standardizes the trimming process - together enabling laboratories to operate with greater precision, throughput, and reliability.\n\n\n At Clarapath, we bring together experts across engineering, data science, robotics, healthcare innovation, and laboratory operations. Our R&D team drives innovation, product enhancements, and a strong pipeline of new solutions, while our manufacturing team oversees production and quality control at our ISO-certified facility. Also based in our New York headquarters are our sales, marketing, administrative, and service teams, who work closely together to ensure every customer receives a seamless, personalized experience at every touchpoint.\n\n\n Role Summary:\n\n\n The Computer Vision Engineer will play a key role in the development, integration, and continuous improvement of computer vision systems for Clarapath’s advanced SectionStar™ and TrimStar Pro™ platforms. This individual will contribute to all phases of the product development lifecycle, from algorithm development and data collection through model training, testing, validation, deployment, and continuous improvement in the field. Working closely with mechanical, electrical, embedded software, manufacturing, quality, and customer-facing teams, the Computer Vision Engineer will develop robust vision-based solutions that enable accurate, reliable, and automated laboratory workflows while meeting performance, reliability, and regulatory requirements. We are seeking a hands-on engineer who enjoys solving complex technical challenges, thrives in a collaborative and fast-paced environment, and is passionate about applying computer vision, machine learning, and image processing technologies to innovative medical devices and automation systems that improve laboratory workflows and patient outcomes.\n\n\n Responsibilities: \n\n\n \n  Develop, implement, and optimize computer vision and image processing algorithms for medical robotics and automated laboratory systems\n  Design vision-based solutions for object detection, segmentation, tracking, registration, measurement, inspection, and alignment\n  Develop and deploy machine learning and deep learning models for image analysis and automated decision-making\n  Collect, curate, annotate, and analyze image datasets to support algorithm and model development\n  Evaluate model and algorithm performance using appropriate metrics, testing methodologies, and real-world datasets.\n  Integrate computer vision algorithms with robotic, mechanical, electrical, and software systems.\n  Develop solutions that operate reliably under real-world variations in lighting, positioning, imaging conditions, tissue characteristics, and system configurations\n  Prototype and test algorithms using laboratory equipment, imaging systems, and production hardware\n  Troubleshoot and optimize vision systems during development, verification, manufacturing, and field deployment\n  Collaborate with Software, Electrical, Mechanical, Manufacturing, Quality, and R&D teams to translate system requirements into practical computer vision solutions\n  Participate in design reviews, technical investigations, root-cause analysis, and continuous improvement initiatives\n  Develop technical documentation, test plans, verification procedures, and other engineering documentation in accordance with medical device development practices\n  Support verification and validation activities and contribute to maintaining compliance with applicable quality and regulatory requirements\n  Monitor deployed systems and use performance data to identify opportunities for algorithm and product improvements\n  Stay current with advances in computer vision, machine learning, image processing, and AI technologies and evaluate their potential application to Clarapath products\n \n Qualifications: \n\n\n \n  Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, Robotics, Applied Mathematics, or a related technical field\n  5+ years of professional experience developing computer vision, image processing, machine learning, or related systems\n  Strong programming skills in Python and/or C++\n  Experience with computer vision and image processing libraries such as OpenCV.\n  Experience developing, training, evaluating, and deploying machine learning or deep learning models.\n  Familiarity with frameworks such as PyTorch, TensorFlow, or similar\n  Strong understanding of image processing, computer vision fundamentals, and machine learning concepts\n  Experience working with real-world imaging data and developing solutions that perform reliably outside of controlled laboratory environments\n  Strong analytical and problem-solving skills\n  Ability to work hands-on with hardware, imaging systems, and laboratory or robotic equipment\n  Excellent communication and collaboration skills\n  Ability to work effectively in a fast-paced, multidisciplinary engineering environment\n  Willingness to work on-site in Hawthorne, NY\n  Experience with 3D computer vision, depth sensing, stereo vision, or point-cloud processing, a plus\n  Experience with object detection, image segmentation, image registration, feature extraction, or optical flow, a plus\n  Experience working with cameras, lenses, lighting systems, and image acquisition hardware, a plus\n  Experience integrating computer vision systems with robotics or automated equipment, a plus\n  Experience with NVIDIA GPUs, CUDA, TensorRT, or edge AI deployment, a plus\n  Experience optimizing computer vision or machine learning models for real-time performance, a plus\n  Experience with robotic systems, motion control, or automation, a plus\n  Experience working with medical devices, laboratory automation, biomedical imaging, or regulated products, a plus\n  Familiarity with software development practices including Git, code reviews, automated testing, and CI/CD, a plus\n  Experience with system-level debugging and root-cause analysis, a plus\n  Familiarity with ISO 13485, design controls, and medical device development processes, a plus\n \n Company Offers:\n\n\n \n  Competitive salary & equity opportunities\n  Medical, dental & vision insurance\n  Employer-paid life & disability insurance\n  401(k) with company contributions\n  HSA & FSA options\n  Generous PTO & paid holidays\n  Daily catered lunch\n  Commuter benefits\n  Employee wellness & assistance programs\n  Career growth & development opportunities\n  Collaborative, innovative, and mission-driven work environment\n \n Clarapath is proud to be an equal opportunity employer. We are committed to providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. In addition to federal law requirements, Clarapath complies with applicable state and local laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=ae8cd488609884b8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/clarapath/Job/Computer-Vision-Engineer/-in-Hawthorne,NY?jid=3c52c34fc98298d5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/computer-vision-engineer-hawthorne-ny--dda83ca9-1469-4bca-a80a-4ad68e64efb6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010256800238&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/5516085460637581312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4023-0cf4211cd764927af1193e22b66dcf3a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ny-hawthorne-computer-vision-engineer-clarapath-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBWaXNpb24gRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJDbGFyYXBhdGgiLCJodGlkb2NpZCI6IjRXTUU1V2MwNXEyOWZ5ZGRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZWFZaUlVOWVdHUmtSMDFRYlhVNWJEZHlWRUZMUVRkeFdGUnFOM0kzZVRoSlEyRkVkVGQ1TnpCS1p5MXNVMHhFV25WTmJUazFhako2ZVdNMlIxUkRhRlpYWmpZMWJFZDBOVWxOU21aUU9HZHBSa2RuUjFwcE1uZE5VRVJMWjBadGNGOXhObUpHVkVSbFZXUjNaV1pxTWpGQ1prZDZSMHhFV21ab1V6ZHlWRzFSYTIxbVRFZ1NGMGRSYm14aGN6ZFlTbEJ4YVRWT2IxQnRka05TTkZGUkdpSkJTRTR3UlRkRk9VWjRURkJWYWpGcFEweDJWME5EYmpSa2IwSllUVmQxVTFobiIsImZjdiI6IjMiLCJmY19pZCI6IjRXTUU1V2MwNXEyOWZ5ZGRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Computer Vision Engineer for Virtual Advertising at a Sporting Event",
+      "company_name": "Upwork",
+      "location": "Anywhere",
+      "via": "Upwork",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Applicants should have strong practical experience in several of the following areas:",
+            "OpenCV",
+            "Python and/or C++",
+            "PyTorch, TensorFlow or similar frameworks",
+            "Homography and perspective transformation",
+            "Semantic or instance segmentation",
+            "Video compositing",
+            "FFmpeg or GStreamer",
+            "CUDA or GPU optimisation",
+            "Experience with broadcast graphics, augmented reality, virtual production, sports analytics, Unreal Engine, NDI or SDI workflows would be useful but is not essential",
+            "This is not a video-editing or manual rotoscoping project",
+            "There is potential for a longer-term technical relationship for the right person or team",
+            "Describe a relevant project where you anchored graphics or virtual objects to footage from a moving camera",
+            "Full disclosure of any existing proprietary components",
+            "The supplied footage and commercial information must remain confidential and may not be used in portfolios or demonstrations without written permission",
+            "Recommended technology stack",
+            "Any assumptions or technical limitations"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Camera calibration",
+            "The first paid milestone will involve approximately 30–60 seconds of supplied football footage",
+            "Near-live or live video processing",
+            "Ownership of all bespoke source code following payment",
+            "Your proposed budget for the initial prototype and full development",
+            "Estimated delivery schedule"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The initial prototype should replace advertising shown on physical LED perimeter boards with new supplied creative, while keeping the replacement correctly positioned as the broadcast camera moves",
+            "Identify and track the visible LED perimeter boards",
+            "Replace the existing board content with supplied video or animated graphics",
+            "Maintain correct scale, perspective and positioning during camera movement",
+            "Mask players, officials and other foreground objects when they pass in front of the advertising",
+            "Produce a clean exported 1080p video",
+            "Use automated or semi-automated computer vision rather than manual frame-by-frame editing",
+            "Be capable of being adapted to additional footage and stadium configurations",
+            "The successful freelancer must provide the complete source code, documentation and setup instructions",
+            "Object detection and tracking",
+            "Real-time or near-real-time video processing",
+            "Replacement of the visible LED advertising",
+            "Stable tracking during camera pan, tilt and zoom",
+            "Foreground masking when players cross the advertising area",
+            "Complete source code",
+            "Instructions explaining how to run the system with replacement creative",
+            "Longer football broadcasts",
+            "Automated stadium and board calibration",
+            "Support for different stadiums and camera positions",
+            "How would you track the geometry of LED perimeter boards during camera movement?",
+            "The project will be structured through fixed-price milestones",
+            "Access to the code throughout development through a client-controlled repository",
+            "Documentation sufficient for another engineer to run and review the system"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=DxqBmEvLir66sdIJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBBFsc0FBKupBbMi2GglEgTbENuwScbNajKz7EyiZ_N0bpoP7_N42W-VNSWS5whXHsOkGOHhxTNBQc4TJn7y8kWd7ACXbsaoSSAHVsFCGThxomJGUtjBnRsQtLHtIUVuzG7AzblXDXIyRmTInahV3-Ytj4YJG_6aFzeyTC29jRgGq1gfjvtvHsht11X4cHyDJ6jIK3ZQpgDKH8jg5CC9AAAA&shmds=v1_Ac3VAozmSKicII82O-k_kJYycEPKDign9sqSfC_bu3UNQL6KeA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=DxqBmEvLir66sdIJAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Work from home",
+        "Contractor"
+      ],
+      "source_link": "https://www.upwork.com/freelance-jobs/apply/Senior-Computer-Vision-Engineer-for-Virtual-Advertising-Sporting-Event_~022115465686836218651/",
+      "job_title": "Senior Computer Vision Engineer for Virtual Advertising at a Sporting Event",
+      "description": "We are looking for an experienced computer-vision engineer to develop a proof-of-concept system for virtual advertising in recorded football broadcast footage.\n\nThe initial prototype should replace advertising shown on physical LED perimeter boards with new supplied creative, while keeping the replacement correctly positioned as the broadcast camera moves.\n\nThis is an early-stage technical feasibility project. The first version will work with recorded footage rather than a live broadcast feed but we eventually want to get to that.\n\nInitial prototype requirements\n\nUsing a short sample of football broadcast footage, the system should:\n\nIdentify and track the visible LED perimeter boards.\n\nReplace the existing board content with supplied video or animated graphics.\n\nMaintain correct scale, perspective and positioning during camera movement.\n\nMask players, officials and other foreground objects when they pass in front of the advertising.\n\nProduce a clean exported 1080p video.\n\nUse automated or semi-automated computer vision rather than manual frame-by-frame editing.\n\nBe capable of being adapted to additional footage and stadium configurations.\n\nThe successful freelancer must provide the complete source code, documentation and setup instructions.\n\nRequired experience\n\nApplicants should have strong practical experience in several of the following areas:\n\nOpenCV\n\nPython and/or C++\n\nPyTorch, TensorFlow or similar frameworks\n\nCamera calibration\n\nHomography and perspective transformation\n\nSemantic or instance segmentation\n\nObject detection and tracking\n\nVideo compositing\n\nFFmpeg or GStreamer\n\nCUDA or GPU optimisation\n\nReal-time or near-real-time video processing\n\nExperience with broadcast graphics, augmented reality, virtual production, sports analytics, Unreal Engine, NDI or SDI workflows would be useful but is not essential.\n\nInitial deliverable\n\nThe first paid milestone will involve approximately 30–60 seconds of supplied football footage.\n\nThe expected deliverable is:\n\nReplacement of the visible LED advertising.\n\nStable tracking during camera pan, tilt and zoom.\n\nForeground masking when players cross the advertising area.\n\nAn exported demonstration video.\n\nComplete source code.\n\nInstructions explaining how to run the system with replacement creative.\n\nThis is not a video-editing or manual rotoscoping project. We are looking for a technically reusable computer-vision solution.\n\nPotential future work\n\nIf the prototype is successful, further work may include:\n\nLonger football broadcasts.\n\nAutomated stadium and board calibration.\n\nVirtual 3D advertising carpets.\n\nSupport for different stadiums and camera positions.\n\nAn operator interface.\n\nGPU optimisation.\n\nNear-live or live video processing.\n\nMultiple regional advertising outputs.\n\nThere is potential for a longer-term technical relationship for the right person or team.\n\nApplication questions\n\nPlease answer the following questions in your proposal:\n\nDescribe a relevant project where you anchored graphics or virtual objects to footage from a moving camera.\n\nHow would you track the geometry of LED perimeter boards during camera movement?\n\nHow would you mask players passing in front of the replacement advertising?\n\nWould you use classical computer vision, machine learning or a combination of both?\n\nHow would you minimise manual calibration or rotoscoping?\n\nWhat processing speed would you expect to achieve at 1080p?\n\nWhat additional development would be required to make the system operate live?\n\nWhich parts of your previous work can you demonstrate on a video call?\n\nAre you personally completing the work, or would any part be subcontracted?\n\nGeneric AI proposals will not be considered. Please explain your proposed technical approach and include examples of directly relevant work.\n\nCommercial terms\n\nThe project will be structured through fixed-price milestones.\n\nThe client must receive:\n\nOwnership of all bespoke source code following payment.\n\nAccess to the code throughout development through a client-controlled repository.\n\nA list of all third-party libraries, models and licences.\n\nFull disclosure of any existing proprietary components.\n\nDocumentation sufficient for another engineer to run and review the system.\n\nThe supplied footage and commercial information must remain confidential and may not be used in portfolios or demonstrations without written permission.\n\nPlease include:\n\nYour proposed budget for the initial prototype and full development.\n\nEstimated delivery schedule.\n\nRecommended technology stack.\n\nAny assumptions or technical limitations.",
+      "apply_options": [
+        {
+          "title": "Upwork",
+          "link": "https://www.upwork.com/freelance-jobs/apply/Senior-Computer-Vision-Engineer-for-Virtual-Advertising-Sporting-Event_~022115465686836218651/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29tcHV0ZXIgVmlzaW9uIEVuZ2luZWVyIGZvciBWaXJ0dWFsIEFkdmVydGlzaW5nIGF0IGEgU3BvcnRpbmcgRXZlbnQiLCJjb21wYW55X25hbWUiOiJVcHdvcmsiLCJodGlkb2NpZCI6IkR4cUJtRXZMaXI2NnNkSUpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXalZuVW5Wa1J6STNSbVF6VEZkUGIyOXJlalI0ZDJFeFUyTm9ZV2xLZFU1ZmNWQmxSVk51T1V0SGExSmtNbkkxZW1WcVFsTnFkblkyVVZKeGJERlNSWFZ3UmtWT1RtRllkRmRNZEZOM2VsSndSRk5xUTNVeWVqVXhjUzFNTUVkSk1UZFJVM0JZUVhsdlNWVnFhVlZKUm1GcVpXVklWMGxqZFdWSWRrdFJWREZtUmxkNmVYRVNGMGRSYm14aGN6ZFlTbEJ4YVRWT2IxQnRka05TTkZGUkdpSkJTRTR3UlRkRlZHWXdaSFUzWVVsTlpFaFlZVEIwU2tWMlJsaHpjazlKVTNkMyIsImZjdiI6IjMiLCJmY19pZCI6IkR4cUJtRXZMaXI2NnNkSUpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Jr Computer Vision Engineer",
+      "company_name": "CyberCoders",
+      "location": "Boston, MA",
+      "via": "CyberCoders",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This role is ideal for early-career engineers - including strong new grads - who have foundational experience in Python and computer vision, and are eager to develop production-grade skills",
+            "1+ year of experience in computer vision, machine learning, or related fields (Strong new grads with relevant projects or internships are welcome)",
+            "Proficiency in Python",
+            "Knowledge of classical computer vision (OpenCV) or machine learning fundamentals",
+            "Understanding of when to use object detection vs. segmentation",
+            "General software engineering experience (Git, debugging, testing)",
+            "Eagerness to learn and grow in a startup environment",
+            "Bachelor's degree in Computer Science, Engineering, or a related field",
+            "Mentorship from experienced ML and CV engineers"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $85k-$110k base + equity",
+            "Competitive compensation and equity",
+            "Hands-on experience with real-world computer vision problems",
+            "High-impact role with opportunities for rapid growth",
+            "Collaborative, mission-driven engineering culture",
+            "Hybrid work environment in the greater Boston area",
+            "Opportunity to help shape the future of a fast-growing company"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You'll work alongside experienced engineers to build and deploy computer vision systems that directly impact customers and end users",
+            "Assist in designing, training, and evaluating computer vision models for real-world applications",
+            "Work on object detection, image classification, and segmentation tasks",
+            "Support experimentation and prototyping to improve model accuracy and reliability",
+            "Help optimize models for performance, scalability, and real-time inference",
+            "Contribute to software pipelines for data preparation, model training, and deployment",
+            "Collaborate with senior engineers and product teams to solve technical challenges",
+            "Troubleshoot and debug model behavior and data issues",
+            "Stay curious and up-to-date on emerging CV and ML techniques"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=scp93Cl2bZd1wQAmAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBCAYVz7BjrdLJpIwUUnLSIUXF1LEo80pb0LuRPqO_jQ1uWHj7_6rqq6LdDwlN-KBZ5JEhPcKCbCxXto2YOgK6GHZdyZ44ibc6-a5WStyGiiqNMUTODJMqHn2Q7s5Z9Oelcwj06xq4-H2WSK23Xz8VgafmERSARXFmXawePyAyLiyaOPAAAA&shmds=v1_Ac3VAowkHl4-rGJJCDGiSQGiEhtAwGHM6kDeym6uDU9OC3gwMg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=scp93Cl2bZd1wQAmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50917961621c71058b5e1/images/BOoXtnytmsavuFDndqgIJDdmTDdLSrlkdtWmR4glPkY.png",
+      "extensions": [
+        "15 days ago",
+        "85K–110K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.cybercoders.com/job-detail/951727",
+      "job_title": "Jr Computer Vision Engineer",
+      "description": "Job title: Jr. Computer Vision Engineer\nLocation: Hybrid in Boston, MA (3 days/week on-site) \nCompensation: $85k-$110k base + equity\n\nWe are a venture-backed technology company building AI-powered solutions that bring real-time intelligence to complex operational environments. Our team uses machine learning and computer vision to solve challenging real-world problems at scale.\n\nWe are looking for a Junior Computer Vision Engineer who is excited to learn, experiment, and grow in a fast-paced startup environment. You'll work alongside experienced engineers to build and deploy computer vision systems that directly impact customers and end users.\n\nThis role is ideal for early-career engineers - including strong new grads - who have foundational experience in Python and computer vision, and are eager to develop production-grade skills.\n\nResponsibilities\n\nAssist in designing, training, and evaluating computer vision models for real-world applicationsWork on object detection, image classification, and segmentation tasksSupport experimentation and prototyping to improve model accuracy and reliabilityHelp optimize models for performance, scalability, and real-time inferenceContribute to software pipelines for data preparation, model training, and deploymentCollaborate with senior engineers and product teams to solve technical challengesTroubleshoot and debug model behavior and data issuesStay curious and up-to-date on emerging CV and ML techniques\nQualifications\n\n1+ year of experience in computer vision, machine learning, or related fields (Strong new grads with relevant projects or internships are welcome)Proficiency in PythonKnowledge of classical computer vision (OpenCV) or machine learning fundamentalsUnderstanding of when to use object detection vs. segmentationFamiliarity with frameworks such as PyTorch, TensorFlow, YOLO, or scikit-learn (PyTorch is a plus)General software engineering experience (Git, debugging, testing)Eagerness to learn and grow in a startup environmentBachelor's degree in Computer Science, Engineering, or a related field\nPreferred\n\nExperience deploying models or working with inference frameworksExposure to real-time systems or edge devicesExperience with anomaly detection or traditional CV techniquesResearch experience (applied experience preferred)\n\nWhat We Offer\n\nCompetitive compensation and equityHands-on experience with real-world computer vision problemsMentorship from experienced ML and CV engineersHigh-impact role with opportunities for rapid growthCollaborative, mission-driven engineering cultureHybrid work environment in the greater Boston areaOpportunity to help shape the future of a fast-growing company",
+      "apply_options": [
+        {
+          "title": "CyberCoders",
+          "link": "https://www.cybercoders.com/job-detail/951727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/computer-vision-engineer-whoop-boston--lifeworq-599f93e1-a7ff-4992-9176-0f6394f03f21?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "AIEngineer.careers",
+          "link": "https://www.aiengineer.careers/jobs/agco/computer-vision-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Listings",
+          "link": "https://joblist-3ti0.energizejobs.com/job/computer-vision-engineer-nra4q1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ma-boston-computer-vision-engineer-morse-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKciBDb21wdXRlciBWaXNpb24gRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJDeWJlckNvZGVycyIsImh0aWRvY2lkIjoic2NwOTNDbDJiWmQxd1FBbUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrRTVUVTFRVFRKeFltZ3hjbTVzUWpGTmVuSnhXRTAwYmtwNU5YVmxPVmx3TW1WbVRtaENaR3N0WWkwMVVUaEJZUzFpWDJKUU1UUkxORU53YmxCdGVFeDFWV2szVDNSaFJFMTFkRVZqT1doMWF5MWZWM1p2WmtOclEwaEdTR1ppV1VwMk1FOUNhRlF6T0dKUWREbFlaVXcwVmkxdFp6TlZYMDQxUzIwdFRtZDVUbUV3T0hRU0YwZFJibXhoY3pkWVNsQnhhVFZPYjFCdGRrTlNORkZSR2lKQlNFNHdSVGRHU0hCamJqTjVVMjlsVkZSVlVGRkNiVWxrZUY5bFJWTmFkRWxuIiwiZmN2IjoiMyIsImZjX2lkIjoic2NwOTNDbDJiWmQxd1FBbUFBQUFBQT09In0="
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "company_name": "Workada",
+      "location": "Grand Island, NE",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "People who write clearly, think critically, and can back up a judgment call with a clear explanation",
+            "This role suits people who've done work built around precise written evaluation, UI/UX design, graphic design, photography, video production, editorial or research work, or writing technical specs and requirements",
+            "Strong readers and writers with sound judgment",
+            "Comfortable evaluating creative or technical work against a set of criteria",
+            "Takes quality seriously and catches what others miss",
+            "Bachelor's degree, completed or in progress",
+            "Excellent written English — clear, precise, well-organized",
+            "Strong attention to detail",
+            "At least 1 year of experience in a role built around evaluating or reviewing work against a standard e.g., UI/UX design, graphic design, photography, video production, editorial, research, QA, or technical writing",
+            "Equivalent experience will be considered",
+            "Must be based in the US or Canada",
+            "Desktop or laptop running Windows 10 (or later) or a recent version of macOS",
+            "Chromebooks, Linux-based systems, and tablets (e.g., iPad, Surface in tablet mode) are not supported",
+            "Stable, high-speed internet (minimum 25 Mbps download / 5 Mbps upload)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Rate: $17/hr (USD)",
+            "Remote, flexible contract work",
+            "Performance feedback and opportunities to grow"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Evaluate outputs from AI models, text, images, video, and documents against detailed criteria",
+            "Assess quality, spot errors and inconsistencies, and write clear, well-reasoned justifications for your judgments",
+            "Every evaluation you complete helps these systems perform better in the real world",
+            "Can follow detailed written guidelines independently"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=5V2NMXYFp499p-WwAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQoCMRBFsd0jaDO1aCKCjZayiBaWWi6T7JBEs5mQibB38NLG5j8eD373XXT6zFP-VCrwCBI4QZ9cSNR8Czc2IITFemjhwuwiLU--1ixHrUWiclKxBqssT5oTGZ71i438ZxCPhXLESsP-sJtVTm69enJ544gQ2l_BNMJVYsMG7v0PAI19i44AAAA&shmds=v1_Ac3VAoxFVaabttN502k7kyVeaWGeS-QTsdjkyBgjU2hx8UZNXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=5V2NMXYFp499p-WwAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://us.trabajo.org/job-5381-ab408f6fb9ae33a8f9b2180227b42825",
+      "job_title": "Computer Vision Engineer",
+      "description": "Remote | Flexible Hours | Contract | Data Labeling\nPay Rate: $17/hr (USD)\nAt Workada, we're not just labeling data, we're helping improve the technology people use every day. Our work creates the examples and feedback that make advanced systems more accurate, consistent, and useful.\nWhat You'll Do\nEvaluate outputs from AI models, text, images, video, and documents against detailed criteria. Assess quality, spot errors and inconsistencies, and write clear, well-reasoned justifications for your judgments. Every evaluation you complete helps these systems perform better in the real world.\nWho We're Looking For\nPeople who write clearly, think critically, and can back up a judgment call with a clear explanation. This role suits people who've done work built around precise written evaluation, UI/UX design, graphic design, photography, video production, editorial or research work, or writing technical specs and requirements.\nStrong readers and writers with sound judgment\nComfortable evaluating creative or technical work against a set of criteria\nTakes quality seriously and catches what others miss\nCan follow detailed written guidelines independently\nQualifications\nBachelor's degree, completed or in progress\nExcellent written English — clear, precise, well-organized\nStrong attention to detail\nAt least 1 year of experience in a role built around evaluating or reviewing work against a standard e.g., UI/UX design, graphic design, photography, video production, editorial, research, QA, or technical writing. Equivalent experience will be considered.\nMust be based in the US or Canada\nTechnical Requirements\nDesktop or laptop running Windows 10 (or later) or a recent version of macOS. Chromebooks, Linux-based systems, and tablets (e.g., iPad, Surface in tablet mode) are not supported.\nStable, high-speed internet (minimum 25 Mbps download / 5 Mbps upload)\nWhat We Offer\nRemote, flexible contract work\nClear guidelines and training\nPerformance feedback and opportunities to grow\nA mission-driven team focused on accuracy and quality\nSome of our most reliable, high-performing contributors have grown into roles where they guide and support others, with compensation that reflects the added responsibility. These opportunities depend on performance and how the work is evolving, and we're glad to support people who are a strong fit.\nReady to apply? Join a team helping build the data foundation behind better technology.\nWorkada is an Equal Opportunity Employer. We welcome applicants from all backgrounds.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5381-ab408f6fb9ae33a8f9b2180227b42825?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/amp/job/us-ne-grand-island-computer-vision-engineer-workada-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBWaXNpb24gRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJXb3JrYWRhIiwiaHRpZG9jaWQiOiI1VjJOTVhZRnA0OTlwLVd3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW5SMFdUVlNOVzVOUmpCTGJrOVBSamgzUnpCbE5scHljV3RUUlZwck5rWnpNM1ZHVjFSNVpucFJkbkZrTm1KdFUyOWZjbEpCTjBNMlJWQjFiMTl4Y20xUmNqbENVRVpaUW1FMU5VSTVNamRGUkRkTGRVeDZSRWt5VDNsRmIyWk1WR042UkdWMk9WSmFjM2xKZFdZMFUwRjZTRTlzUTNVemFqWm5abXBQYTBWS2RESmpVMU1TRjBkUmJteGhjemRZU2xCeGFUVk9iMUJ0ZGtOU05GRlJHaUpCU0U0d1JUZEhSMU5UU1RCcllUTlJiMVpwY21WVFFYZzFUVGRETjJ4S2RWZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiI1VjJOTVhZRnA0OTlwLVd3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Entry Level Software Engineer - Computer Vision",
+      "company_name": "KBR",
+      "location": "Mountain View, CA",
+      "via": "Tallo",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate will have a strong foundation in computer science, software engineering, and computer vision, with experience in Linux, neural networks, and 3D mapping",
+            "A Bachelor's degree in Computer Science, Electrical Engineering, Physics, or a related field",
+            "Internship experience in software development, preferably in a Linux environment",
+            "Proficiency in one or more programming languages, such as CUDA, C++, Python, or Java",
+            "Familiarity with basic build tools, such as Git, CMake, and Make",
+            "Knowledge of computer vision fundamentals, including image processing, feature extraction, and 3D reconstruction",
+            "Understanding of neural networks and deep learning concepts, including Multi-Layer Perceptron (MLP)",
+            "Familiarity with 3D mapping and reconstruction techniques, including structure from motion (SfM) and stereo vision",
+            "Experience with SPICE kernels and their application to spacecraft trajectory and attitude data",
+            "Strong problem-solving skills, attention to detail, and ability to work in a team environment",
+            "The candidate must be able to work effectively in a team environment, collaborating with colleagues and stakeholders to achieve common goals",
+            "The candidate may be required to travel occasionally for conferences, meetings, or training"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Jobs on this contract range from $97,000.00 - $142,000.00",
+            "The offered rate will be based on the position, contract affordability, the selected candidate's working location, knowledge, skills, abilities, experience, and in consideration of internal parity",
+            "KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation",
+            "Additional compensation may be in the form of sign on bonus, relocation benefits, short-term incentives, long-term incentives, or discretionary payments for exceptional performance",
+            "​ KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a member of our software development team, you will contribute to the design, development, testing, and maintenance of computer vision software applications for lunar mapping and 3D reconstruction efforts",
+            "Design, develop, test, and maintain computer vision software applications using CUDA, C++, and Python",
+            "Implement and optimize algorithms for image processing, feature extraction, and 3D reconstruction from spacecraft image sensors",
+            "Utilize neural networks and deep learning techniques to improve the accuracy and efficiency of computer vision tasks",
+            "Familiarity with neural radiance fields (NeRFs) and their application to 3D mapping and reconstruction",
+            "Integrate SPICE kernels into software applications to leverage spacecraft trajectory and attitude data for precise image georeferencing",
+            "Collaborate with cross-functional teams, including scientists, engineers, and researchers, to develop and refine computer vision software applications",
+            "Participate in code reviews and contribute to the improvement of the overall quality and maintainability of the codebase",
+            "Stay up-to-date with the latest developments in computer vision, machine learning, and software engineering, applying this knowledge to improve NASA's lunar mapping and 3D reconstruction capabilities",
+            "The work will be performed in a dynamic, fast-paced environment with frequent deadlines and changing priorities"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=CkFGzOwvNubuR0Q9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNuwrCQBBFsc0XiNXUolkRbLTSEAUfjULasAljsrLZWXYmJn6Nv-raHM65zU2-k-SYOwkfuOIbLTzoKYMOCLlrjEMMsISMOt9L1MKwIReXM1XAqEPdQuwTUWNxtmtFPG-VYrZpw6LF1GlNnSKHFY3qRRX_UXIbD7zVguV6sxpT75r59HK4g3Fwo96JjlIYHBaQ7X8GAalAogAAAA&shmds=v1_Ac3VAoxwwUWd2eKnaZKKzBVp0NQDInYeVGVOvE_kKlA3YTUXEw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=CkFGzOwvNubuR0Q9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50917961621c71058b5e1/images/n1I-jFsDlyEc0HW5Rrxzr4MJxdhhcwSMUZwasfy6Mec.png",
+      "extensions": [
+        "24 days ago",
+        "97K–142K a year",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://tallo.com/talent/job/technology/software-developer-or-engineer/ca/mountain-view/entry-level-software-engineer-c046ea86",
+      "job_title": "Entry Level Software Engineer - Computer Vision",
+      "description": "Title:Entry Level Software Engineer - Computer Vision\n\nBELONG. CONNECT. GROW.with KBR. Around here, we define the future. We are a company of innovators, thinkers, creators, explorers, volunteers, and dreamers. But we all share one goal: to improve the world responsibly and safely. Position Summary Description of work effort: The Distributed Spacecraft Autonomy (DSA) Group's Lowlight Universal Mapping in Extreme eNviroments (LUMEN) team is seeking a highly motivated and talented entry level Software Engineer to join our team of computer vision experts. As a member of our software development team, you will contribute to the design, development, testing, and maintenance of computer vision software applications for lunar mapping and 3D reconstruction efforts. The ideal candidate will have a strong foundation in computer science, software engineering, and computer vision, with experience in Linux, neural networks, and 3D mapping.\n\nResponsibilities:+ Design, develop, test, and maintain computer vision software applications using CUDA, C++, and Python.\n\n+ Implement and optimize algorithms for image processing, feature extraction, and 3D reconstruction from spacecraft image sensors.\n\n+ Utilize neural networks and deep learning techniques to improve the accuracy and efficiency of computer vision tasks.\n\n+ Familiarity with neural radiance fields (NeRFs) and their application to 3D mapping and reconstruction.\n\n+ Integrate SPICE kernels into software applications to leverage spacecraft trajectory and attitude data for precise image georeferencing.\n\n+ Collaborate with cross-functional teams, including scientists, engineers, and researchers, to develop and refine computer vision software applications.\n\n+ Participate in code reviews and contribute to the improvement of the overall quality and maintainability of the codebase. Stay up-to-date with the latest developments in computer vision, machine learning, and software engineering, applying this knowledge to improve NASA's lunar mapping and 3D reconstruction capabilities.\n\nRequired Skills and Traits:+ A Bachelor's degree in Computer Science, Electrical Engineering, Physics, or a related field.\n\n+ Internship experience in software development, preferably in a Linux environment.\n\n+ Proficiency in one or more programming languages, such as CUDA, C++, Python, or Java.\n\n+ Familiarity with basic build tools, such as Git, CMake, and Make.\n\n+ Knowledge of computer vision fundamentals, including image processing, feature extraction, and 3D reconstruction.\n\n+ Understanding of neural networks and deep learning concepts, including Multi-Layer Perceptron (MLP).\n\n+ Familiarity with 3D mapping and reconstruction techniques, including structure from motion (SfM) and stereo vision.\n\n+ Experience with SPICE kernels and their application to spacecraft trajectory and attitude data.\n\n+ Strong problem-solving skills, attention to detail, and ability to work in a team environment.\n\nOther Desired Skills:+ Experience with computer vision libraries, such as OpenCV or PCL.\n\n+ Familiarity with machine learning frameworks, such as TensorFlow or PyTorch.\n\n+ Knowledge of lunar mapping and 3D reconstruction techniques, including crater detection and terrain modeling.\n\n+ Experience with agile development methodologies and version control systems, such as Git.\n\n+ Strong communication and interpersonal skills, with ability to effectively collaborate with colleagues and stakeholders.\n\n+ Ability to implement\n\nGPGPU CVpipelines in CUDA.\n\nWork Environment:+ The work will be performed in a dynamic, fast-paced environment with frequent deadlines and changing priorities.\n\n+ The candidate must be able to work effectively in a team environment, collaborating with colleagues and stakeholders to achieve common goals.\n\n+ The candidate may be required to travel occasionally for conferences, meetings, or training.\n\nBasic Compensation:Jobs on this contract range from $97,000.00 - $142,000.00 . The offered rate will be based on the position, contract affordability, the selected candidate's working location, knowledge, skills, abilities, experience, and in consideration of internal parity.\n\nAdditional Compensation:KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short-term incentives, long-term incentives, or discretionary payments for exceptional performance.\n\nKBR Benefits:​ KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.​ Click here to learn more: KBR Benefits | KBR (https://careers.kbr.com/us/en/kbr-benefits) #LI-EM2 Belong, Connect and Grow hereWe are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team's philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver - Together. We is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
+      "apply_options": [
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/software-developer-or-engineer/ca/mountain-view/entry-level-software-engineer-c046ea86?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/entry-level-software-engineer-computer-vision-trinzic-mountain-view-ca--t7xk-870768801?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-mountain-view-entry-level-software-engineer-computer-vision?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBTb2Z0d2FyZSBFbmdpbmVlciAtIENvbXB1dGVyIFZpc2lvbiIsImNvbXBhbnlfbmFtZSI6IktCUiIsImh0aWRvY2lkIjoiQ2tGR3pPd3ZOdWJ1UjBROUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWQkNZM3BsZDJwd1QxWkdkVUZZYVdadllYbE5MWFJKUWxGSWNrOW5RbW8wVVZSUFdUaFhha1IxYmxkSlpGRlpiakJMTVVOblFtbGxSbEJ3WHpSTGVEZFZhbU42VWpJeVVqTkhRVzVxY3podmFVVkRiMkpRVWxWWFIyNW5UMDFHZVhCdlRuZE1lSEp0Tld0TVowUkVkV2x5ZFVWeFZGWklNVGRVZW5KYVpHZEhhSHA0TTJvU0YwZFJibXhoY3pkWVNsQnhhVFZPYjFCdGRrTlNORkZSR2lKQlNFNHdSVGRHUzBwclZVTktTMjU0T1ZRelNXUjVhWFZUYlZGdFVWODFhMFpuIiwiZmN2IjoiMyIsImZjX2lkIjoiQ2tGR3pPd3ZOdWJ1UjBROUFBQUFBQT09In0="
+    },
+    {
+      "title": "Physical AI, Computer Vision Engineer",
+      "company_name": "AMD",
+      "location": "San Jose, CA (+2 others)",
+      "via": "Hiring Cafe",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You are passionate about building software that bridges embedded systems, AI, and real-world intelligent machines",
+            "You thrive solving complex engineering challenges involving real-time processing, perception, and system optimization",
+            "You enjoy working across multidisciplinary teams and are comfortable developing software that spans embedded Linux, RTOS, computer vision, AI inference, and heterogeneous computing architectures",
+            "You are driven by performance, scalability, and delivering robust software that powers next-generation intelligent systems"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will design, develop, and optimize software that enables machines to perceive, analyze, and respond to their environments with deterministic, low-latency performance",
+            "You will build software spanning embedded Linux and RTOS platforms while integrating AI inference, computer vision, sensor processing, and real-time control across AMD's embedded computing portfolio",
+            "Working closely with software, AI, FPGA, silicon, and systems engineers, you will help deliver scalable Physical AI solutions for robotics, industrial automation, automotive, machine vision, aerospace, and other intelligent edge applications",
+            "This position provides an opportunity to work across the complete software stack—from low-level platform software through AI-enabled applications—leveraging heterogeneous computing architectures including CPUs, GPUs, FPGAs, and dedicated AI accelerators",
+            "Design, develop, and maintain embedded software for AI-enabled edge computing platforms",
+            "Develop software for Linux and Real-Time Operating Systems (RTOS) supporting deterministic, low-latency execution",
+            "Design and implement real-time software for perception, sensor processing, control, and autonomous decision-making",
+            "Develop and integrate computer vision, image processing, and AI inference applications for real-world deployment",
+            "Build and optimize high-performance image, video, and sensor processing pipelines",
+            "Optimize software across heterogeneous computing architectures including CPUs, GPUs, FPGAs, and AI accelerators",
+            "Collaborate with AI, FPGA, hardware, systems, and platform teams to deliver integrated Physical AI solutions",
+            "Support platform bring-up, debugging, validation, and system integration",
+            "Analyze and optimize latency, throughput, memory utilization, power efficiency, and overall system performance",
+            "Contribute to software architecture, technical documentation, coding standards, and engineering best practices",
+            "Develop demonstrations, reference applications, and customer enablement solutions showcasing AMD embedded technologies"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=AZQRnYByqvUWcrAjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQoCMRAFsb3Wzmpr0YsINmpzqIiCIAi2RxKWJJLbDdkI51_4ycbmwTAwr_lOmv3dfyRYHaG7LODAQ3oXzPAMEpjgRC4QVl7ClQ0I6mw9VHFmdhFnO19Kkq1SIrF1UnQJtrU8KCY0PKoXG_lPL15nTFEX7Neb1dgmcvNpdztCIHhoqnXBet_9AHKPGbaTAAAA&shmds=v1_Ac3VAoyLSZbV6t5Kc6v0GgTR0FErbElgZ3A3X0maBQnBTXr3Ig&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=AZQRnYByqvUWcrAjAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://hiringcafe.com/job/physical-ai-computer-vision-engineer-amd-austin-texas-t3h40of09d8dhq3a",
+      "job_title": "Physical AI, Computer Vision Engineer",
+      "description": "WHAT YOU DO AT AMD CHANGES EVERYTHING \n\nAt AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.  Together, we advance your career.  \n\n \n\n\nTHE TEAM\n\nOur Physical AI team is building the intelligent software that enables machines to perceive, understand, and interact with the physical world. By combining embedded computing, real-time software, computer vision, AI, adaptive SoCs, and high-performance edge platforms, we develop next-generation solutions powering robotics, industrial automation, autonomous systems, machine vision, automotive, and emerging AI-driven applications.\n\nWorking at the intersection of AI, embedded systems, and heterogeneous computing, our team transforms AMD technologies into intelligent, real-world solutions that accelerate the future of Physical AI.\n\n \n\nTHE ROLE\n\nWe are seeking a Senior Physical AI Software Engineer to develop next-generation software for intelligent edge systems that combine embedded computing, real-time processing, computer vision, and AI.\n\n \n\nIn this role, you will design, develop, and optimize software that enables machines to perceive, analyze, and respond to their environments with deterministic, low-latency performance. You will build software spanning embedded Linux and RTOS platforms while integrating AI inference, computer vision, sensor processing, and real-time control across AMD's embedded computing portfolio.\n\n \n\nWorking closely with software, AI, FPGA, silicon, and systems engineers, you will help deliver scalable Physical AI solutions for robotics, industrial automation, automotive, machine vision, aerospace, and other intelligent edge applications.\n\nThis position provides an opportunity to work across the complete software stack—from low-level platform software through AI-enabled applications—leveraging heterogeneous computing architectures including CPUs, GPUs, FPGAs, and dedicated AI accelerators.\n\n \n\nTHE PERSON\n\nYou are passionate about building software that bridges embedded systems, AI, and real-world intelligent machines. You thrive solving complex engineering challenges involving real-time processing, perception, and system optimization.\n\n \n\nYou enjoy working across multidisciplinary teams and are comfortable developing software that spans embedded Linux, RTOS, computer vision, AI inference, and heterogeneous computing architectures. You are driven by performance, scalability, and delivering robust software that powers next-generation intelligent systems.\n\n \n\nKEY RESPONSIBILITIES:\n\nDesign, develop, and maintain embedded software for AI-enabled edge computing platforms.Develop software for Linux and Real-Time Operating Systems (RTOS) supporting deterministic, low-latency execution.Design and implement real-time software for perception, sensor processing, control, and autonomous decision-making.Develop and integrate computer vision, image processing, and AI inference applications for real-world deployment.Build and optimize high-performance image, video, and sensor processing pipelines.Optimize software across heterogeneous computing architectures including CPUs, GPUs, FPGAs, and AI accelerators.Collaborate with AI, FPGA, hardware, systems, and platform teams to deliver integrated Physical AI solutions.Support platform bring-up, debugging, validation, and system integration.Analyze and optimize latency, throughput, memory utilization, power efficiency, and overall system performance.Contribute to software architecture, technical documentation, coding standards, and engineering best practices.Develop demonstrations, reference applications, and customer enablement solutions showcasing AMD embedded technologies.PREFERRED EXPERIENCE:\n\nExperience with RTOS platforms such as QNX, GreenHills, or similar real-time operating systems.\n\nExperience designing software for low-latency, safety-critical, or time-sensitive embedded applications.\n\nExperience with AMD Vitis™ AI or equivalent AI deployment frameworks.\n\nExperience with AMD Ryzen™ Embedded, EPYC™ Embedded, Versal™ AI Edge, Zynq UltraScale+, Kria™, or similar edge computing platforms.\n\nUnderstanding of FPGA-based acceleration and hardware/software co-design methodologies.\n\nExperience with AI inference deployment using ONNX, PyTorch, TensorFlow, or related frameworks.\n\nExperience with ROS 2 and robotics software architectures.\n\nUnderstanding of perception systems including cameras, radar, lidar, and sensor fusion technologies.\n\nFamiliarity with graphics and visualization technologies such as OpenGL, Vulkan, or Wayland.\n\nExperience with Linux kernel, BSP, device driver, or low-level platform software development.\n\nUnderstanding of heterogeneous computing architectures combining CPUs, GPUs, FPGAs, and dedicated AI accelerators.\n\nExperience with performance profiling, optimization, and benchmarking on multicore systems.\n\nKnowledge of networking, middleware, and distributed edge computing systems.\n\nExperience within robotics, automotive, industrial automation, aerospace, machine vision, or related embedded systems domains.\n\nLOCATION:\n\nAustin, TX\n\nNovi, MI\n\nSan Jose, CA\n\n \n\nThis role is not eligible for visa sponsorship.\n\n \n\n#LI-BW2\n\n \n\n \n\n\nBenefits offered are described:  AMD benefits at a glance.\n\n \n\nAMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law.   We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.\n\n \n\nAMD may use Artificial Intelligence to help screen, assess or select applicants for this position.  AMD’s “Responsible AI Policy” is available here.\n\n \n\nThis posting is for an existing vacancy.",
+      "apply_options": [
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/physical-ai-computer-vision-engineer-amd-austin-texas-t3h40of09d8dhq3a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/amd/novi-mi/computer-vision-engineer/1e95ce4ba53ab24e1c9821865f366a1d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/physical-ai-computer-vision-engineer-advanced-micro-devices-inc-novi--lensa-2365_96373de9b12a52b22dc192136eeaefccb2a16d9b169bfe080436a35e01a255d3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28646-9a32354df605f6a89ee465805ed59608?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQaHlzaWNhbCBBSSwgQ29tcHV0ZXIgVmlzaW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQU1EIiwiaHRpZG9jaWQiOiJBWlFSbllCeXF2VVdjckFqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VSWFQyNUxRWFpoVTJsSlJVOXdOSFZQTkVJM2NuSkVZbDlxYldFelpuWmxkWFZaTm5reFVsbE1MWG8zTW5oV1ZtTlZUbE5RUlRCSGNGSkhSazVTT1hweU1EWk1SUzFPZEZoS1kyWkhWVlEyTFZsTFkyNHRaRXc1VUZWV1pEWTRWR1JYZVdKWFFWVnhla05wY2poUk5rOWxXRXd3TUVoVExXRmhZbmxhVlZSVlF6ZHNSamdTRjBkUmJteGhjemRZU2xCeGFUVk9iMUJ0ZGtOU05GRlJHaUpCU0U0d1JUZEZibXBtYlRoU1ExQjZVRGhmVmpKVmJVSnFRUzA1YVhCZlNVeEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBWlFSbllCeXF2VVdjckFqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Computer Vision Engineer - Autonomy & Perception",
+      "company_name": "Pivotal",
+      "location": "Palo Alto, CA",
+      "via": "Dice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate combines strong computer vision fundamentals with practical experience deploying perception systems on robotic or autonomous platforms",
+            "Education: Bachelor's degree in Computer Science, Robotics, Electrical Engineering, Aerospace Engineering, or a related technical field",
+            "Experience: 2-4 years of industry experience in computer vision, robotics, machine learning, or autonomous systems OR Master's degree with 1-2 years of industry experience",
+            "Strong proficiency in C++, Python, or Rust",
+            "Experience with OpenCV and modern computer vision frameworks",
+            "Experience developing perception systems using PyTorch, TensorFlow, or similar machine learning frameworks",
+            "Strong understanding of image processing, geometric vision, and camera systems",
+            "Experience with object detection, tracking, segmentation, and machine learning-based perception algorithms",
+            "Familiarity with sensor fusion and state estimation techniques",
+            "Experience with ROS/ROS2 or similar robotics middleware",
+            "Experience developing software in Linux environments",
+            "Work Better Together: Seeks and values diverse perspectives, builds cross-functional relationships, and fosters trust through empathetic, fact-based communication and commitment to shared decisions",
+            "Be the Pilot: Drives results with clarity and purpose by focusing on what matters most, adapting to change, taking initiative, and owning outcomes",
+            "Embrace the Unknown: Navigates ambiguity with resilience and bold thinking, challenges the status quo, and combines innovative ideas with practical approaches to overcome obstacles and drive progress",
+            "Respect for People: Fosters a high-performance culture grounded in respect, professionalism, and support by balancing high expectations with a healthy, collaborative environment and being a trusted, dependable teammate"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$140,000 - $175,000 a year",
+            "Pivotal offers a comprehensive benefits package, including medical, dental, vision, and 401k plans"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will collaborate with autonomy, guidance, navigation and control (GNC), flight software, and AI engineers to design, implement, and deploy computer vision algorithms that operate effectively in dynamic, real-world environments",
+            "You will work across object detection, tracking, visual localization, scene understanding, sensor fusion, and perception-driven autonomy to enable robust autonomous operations in challenging mission scenarios",
+            "You will play a key role in developing vision capabilities that support navigation, obstacle avoidance, target tracking, and mission autonomy while contributing to the broader autonomy stack deployed on operational aircraft",
+            "Perception & Computer Vision: Design and develop perception systems for autonomous aerial platforms operating in GPS-denied and contested environments; implement object detection, classification, segmentation, and tracking algorithms using RGB, thermal, and multimodal sensor data; develop visual perception pipelines for obstacle detection, collision avoidance, and situational awareness; build scene understanding capabilities to support autonomous navigation and mission execution; evaluate and integrate state-of-the-art computer vision and AI techniques into operational systems",
+            "Visual Navigation & Localization: Develop visual-inertial odometry, localization, and mapping algorithms; implement vision-based navigation solutions for degraded and GPS-denied environments; support SLAM and feature-based localization systems; design robust estimation methods that fuse camera, IMU, GPS, lidar, and radar data; improve navigation performance through sensor fusion and environmental awareness",
+            "Machine Learning & AI: Develop, train, and deploy deep learning models for onboard perception; create data processing, labeling, augmentation, and evaluation pipelines; optimize neural networks for real-time inference on embedded computing platforms; analyze model performance and improve robustness across operational conditions; support deployment of perception models on edge AI hardware",
+            "Camera Systems & Sensor Integration: Integrate and evaluate diverse imaging systems including RGB, stereo, fisheye, thermal, and event-based cameras; develop camera calibration workflows and sensor characterization procedures; support multi-camera synchronization and calibration efforts; improve image quality, calibration accuracy, and perception system reliability; collaborate with hardware teams to evaluate and integrate emerging sensor technologies",
+            "Testing & Validation: Develop simulation and testing frameworks for perception algorithms; support software-in-the-loop, hardware-in-the-loop, and flight testing activities; analyze flight data to identify performance gaps and improve perception robustness; establish metrics and validation procedures for autonomous perception systems; document system performance and support field deployments",
+            "Safety Above All: Demonstrates a proactive safety mindset by embedding safety into daily work, identifying and mitigating risks, encouraging open dialogue about safety concerns, and continuously improving practices and protocols",
+            "Customer Focus: Puts customers at the center of every action by understanding their challenges, delivering meaningful value, and supporting their success"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=-ZI0PBxknl-51dQwAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7BOJ0k4PYRgQXnUqRglMn15KGI42kdyF3lfo2Pqp1-eGDv_huirbhKc2KGZ5BAhPcyQfC1SXUszLx9IE9dJgdJv0PJTx4AEGb3QirW2YfcXcbVZNcjRGJlRe1GlzleDJMOPBiXjzIP72MNmOKVrE_X05Llcgftl14s9oIgaCzkaGOykdo6h9fQFJ5owAAAA&shmds=v1_Ac3VAozqVR-mqCPHyQcCFarHxG3uqBJldc4yum50NE3v0f5pkA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=-ZI0PBxknl-51dQwAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAQlBMVEVZVVH___9STUmjoqFJRD_7_P3x8vPt7u5WUk5TT0q5uLhPSkWcm5rDw8NwbWqMiohraGWpqKdCPDdmY2B_fHqzsrG7PyVMAAAAeklEQVRIie3SQRKAIAhAUdE0SjPNuv9VS-0AwTS14e3_yIBKCSHEW6bh5pHWBTd2S9SUUBuwHcBKKVsI1dVShq2hiymmDBYC4ckWKkTcrodn_1WYSimGMSp7OfxzuIrxARzny_WtMvwQZgBWiPtxZE6oUGvSGYQQ4pETMvkERyL14H0AAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.dice.com/job-detail/5f500f7c-c020-4bc6-9dba-b18afa926b19",
+      "job_title": "Computer Vision Engineer - Autonomy & Perception",
+      "description": "Pivotal is the leader in the emerging market of electric Vertical Takeoff and Landing (eVTOL) aircraft. We design, develop, and manufacture light eVTOL aircraft and are renowned for the BlackFly aircraft the world's first light eVTOL to fly manned missions and enter the consumer market. \n\nEfficient, compact, and simple, Pivotal aircraft are designed for a wide range of consumer, public service, and defense applications. Our distinctive tilt-aircraft architecture and scalable platform have been flying for over 10 years. Last year we announced our next-generation aircraft, the Helix, which is rapidly progressing toward general release and scalable production in 2026. \n\nMobility is one of the most highly-valued areas of modern technology investments. This is the right company, in the right space, the right strategy, at the right time. If you are ready for adventure, we invite you to join our amazing team and grow with us.\n\nThe Autonomy team at Pivotal develops advanced autonomy capabilities for our aircraft, enabling safe, precise, and reliable mission execution from takeoff to landing. We are seeking a Computer Vision Engineer to support the development of next-generation perception systems for our autonomous aerial platforms, including the Helix family of systems. \n\nIn this role, you will collaborate with autonomy, guidance, navigation and control (GNC), flight software, and AI engineers to design, implement, and deploy computer vision algorithms that operate effectively in dynamic, real-world environments. You will work across object detection, tracking, visual localization, scene understanding, sensor fusion, and perception-driven autonomy to enable robust autonomous operations in challenging mission scenarios. \n\nThe ideal candidate combines strong computer vision fundamentals with practical experience deploying perception systems on robotic or autonomous platforms. You will play a key role in developing vision capabilities that support navigation, obstacle avoidance, target tracking, and mission autonomy while contributing to the broader autonomy stack deployed on operational aircraft. \n\nResponsibilities\n\n\n\nPerception & Computer Vision: Design and develop perception systems for autonomous aerial platforms operating in GPS-denied and contested environments; implement object detection, classification, segmentation, and tracking algorithms using RGB, thermal, and multimodal sensor data; develop visual perception pipelines for obstacle detection, collision avoidance, and situational awareness; build scene understanding capabilities to support autonomous navigation and mission execution; evaluate and integrate state-of-the-art computer vision and AI techniques into operational systems. Visual Navigation & Localization: Develop visual-inertial odometry, localization, and mapping algorithms; implement vision-based navigation solutions for degraded and GPS-denied environments; support SLAM and feature-based localization systems; design robust estimation methods that fuse camera, IMU, GPS, lidar, and radar data; improve navigation performance through sensor fusion and environmental awareness.Machine Learning & AI: Develop, train, and deploy deep learning models for onboard perception; create data processing, labeling, augmentation, and evaluation pipelines; optimize neural networks for real-time inference on embedded computing platforms; analyze model performance and improve robustness across operational conditions; support deployment of perception models on edge AI hardware.Camera Systems & Sensor Integration: Integrate and evaluate diverse imaging systems including RGB, stereo, fisheye, thermal, and event-based cameras; develop camera calibration workflows and sensor characterization procedures; support multi-camera synchronization and calibration efforts; improve image quality, calibration accuracy, and perception system reliability; collaborate with hardware teams to evaluate and integrate emerging sensor technologies.Testing & Validation: Develop simulation and testing frameworks for perception algorithms; support software-in-the-loop, hardware-in-the-loop, and flight testing activities; analyze flight data to identify performance gaps and improve perception robustness; establish metrics and validation procedures for autonomous perception systems; document system performance and support field deployments.\nQualifications\n\nEducation: Bachelor's degree in Computer Science, Robotics, Electrical Engineering, Aerospace Engineering, or a related technical field.\nExperience: 2-4 years of industry experience in computer vision, robotics, machine learning, or autonomous systems OR Master's degree with 1-2 years of industry experience.\nStrong proficiency in C++, Python, or Rust.\nExperience with OpenCV and modern computer vision frameworks.\nExperience developing perception systems using PyTorch, TensorFlow, or similar machine learning frameworks.\nStrong understanding of image processing, geometric vision, and camera systems.\nExperience with object detection, tracking, segmentation, and machine learning-based perception algorithms.\nFamiliarity with sensor fusion and state estimation techniques.\nExperience with ROS/ROS2 or similar robotics middleware.\nExperience developing software in Linux environments.\nPreferred Qualifications\n\nMaster's or PhD in Computer Vision, Robotics, Machine Learning, Computer Science, or a related field. Experience with autonomous aircraft, UAVs, robotics, or aerospace systemsExperience with visual SLAM, visual-inertial odometry, or localization systems. Knowledge of camera calibration, multi-camera systems, and geometric computer vision. Experience integrating lidar, radar, thermal cameras, and inertial sensors into perception systems. Experience deploying AI models on embedded platforms such as NVIDIA Jetson or similar edge computing hardware. Familiarity with simulation environments such as Gazebo, Isaac Sim, AirSim, or equivalent. Experience optimizing perception systems for real-time performance and resource-constrained platforms. Contributions to open-source robotics, autonomy, or computer vision projects.Familiarity with defense industry standards and security clearance processes.\nAttributes aligned with Core Values\n\nSafety Above All: Demonstrates a proactive safety mindset by embedding safety into daily work, identifying and mitigating risks, encouraging open dialogue about safety concerns, and continuously improving practices and protocols.Customer Focus: Puts customers at the center of every action by understanding their challenges, delivering meaningful value, and supporting their success.Work Better Together: Seeks and values diverse perspectives, builds cross-functional relationships, and fosters trust through empathetic, fact-based communication and commitment to shared decisions.Be the Pilot: Drives results with clarity and purpose by focusing on what matters most, adapting to change, taking initiative, and owning outcomes.Embrace the Unknown: Navigates ambiguity with resilience and bold thinking, challenges the status quo, and combines innovative ideas with practical approaches to overcome obstacles and drive progress.Respect for People: Fosters a high-performance culture grounded in respect, professionalism, and support by balancing high expectations with a healthy, collaborative environment and being a trusted, dependable teammate.\n$140,000 - $175,000 a year\n\nApplicants must be eligible for employment in the United States and willing to work onsite at our HQ office in Palo Alto, CA.\n\nPivotal offers a comprehensive benefits package, including medical, dental, vision, and 401k plans.\n\nPivotal is an Equal Opportunity Employer. Pivotal does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+      "apply_options": [
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/5f500f7c-c020-4bc6-9dba-b18afa926b19?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Pivotal/Job/Computer-Vision-Engineer-Autonomy-&-Perception/-in-Palo-Alto,CA?jid=a22b4aba8992cd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-1552693204590607722?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/58299378-7bec-400e-81c2-bcbe2b236c2d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2912009817994297344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/computer-vision-engineer-autonomy-perception-pivotal-palo-alto--lensa-7428_b00f467d6fdbb2d7338a187472acdc0afea18a8508468f0823be2df326279fe9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-palo-alto-computer-vision-engineer-autonomy-perception-pivotal?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBWaXNpb24gRW5naW5lZXIgLSBBdXRvbm9teSBcdTAwMjYgUGVyY2VwdGlvbiIsImNvbXBhbnlfbmFtZSI6IlBpdm90YWwiLCJodGlkb2NpZCI6Ii1aSTBQQnhrbmwtNTFkUXdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVnBEYnkxUFVHRlRURVp6YTFjNFZVVm9iM0pYUmtVME9WQllTbmswU1dkNVQwUndaVGQxTVRWSGExOTVZakJzYTFSa1F6UlZiRWxEVkRoZk9FY3RSWEJ1U1VFMmFXeHBSRmRMZVMxS1JVOURUbkZwU1Y4eFZIUkhUWGt0V1d0Sk16YzFOMUpKYm5GTVdrRnRjVGh5ZG5sb2JFOVFlRVJUZFRkSGJWcFFXaTFWTW5jMVFVSVNGMGRSYm14aGN6ZFlTbEJ4YVRWT2IxQnRka05TTkZGUkdpSkJTRTR3UlRkR2Eza3phelJwZUY5dVVrRTRWMWszYm0xaGJ6ZG1OVVJVU3kxbiIsImZjdiI6IjMiLCJmY19pZCI6Ii1aSTBQQnhrbmwtNTFkUXdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Computer Vision Engineer Deep Learning & AI",
+      "company_name": "AIToolboard",
+      "location": "Palo Alto, CA",
+      "via": "Jooble",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate should have over 4 years of coding experience and a Master's degree in Computer Science, with skills in C/C++, Python, and Deep Learning"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The position offers a competitive salary from $180,000 to $260,000 annually along with excellent benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will develop innovative Computer Vision algorithms in a collaborative environment that values hard work and impact"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=VunFJb5_5_JxMfNZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWKsQrCMBBAce0niMNNDqKNCC46xSpScXAQ15K0RxpJ70IuQv_GX7UuD97jFd9Zcap4iJ-MCV5ePBNcyHnCyc-IEe5oEnlysARdwwZubEGm1vYwvVdmF3B-7HOOclBKJJROssm-LVseFBNaHtWbrfzRSG8SxmAyNrv9diwjudVC10_mYNmkDjzBwwQGHTKvodI_ngptCaIAAAA&shmds=v1_Ac3VAowaqPA4AGfYWkvZ8T_6TT3cfpF7GQAc6JekGH94yNPhfQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=VunFJb5_5_JxMfNZAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "180K–260K a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jooble.org/jdp/-6105970370310794107",
+      "job_title": "Computer Vision Engineer Deep Learning & AI",
+      "description": "Jobs / Computer Vision Engineer Deep Learning & AI \n\n Computer Vision Engineer Deep Learning & AI  Full-time \n\n About the Role  Mashgin is seeking a passionate Computer Vision Engineer in Palo Alto, CA. You will develop innovative Computer Vision algorithms in a collaborative environment that values hard work and impact.The ideal candidate should have over 4 years of coding experience and a Master's degree in Computer Science, with skills in C/C++, Python, and Deep Learning. The position offers a competitive salary from $180,000 to $260,000 annually along with excellent benefits. \n\n#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-6105970370310794107?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/30248bd4-5e86-41b0-96cb-aa1438bb2369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/8476656720427352064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/computer-vision-engineer-deep-learning-ai-aitoolboard-palo-alto--pureheal-28528_25197_80b2ad7d8c4ac759cd9afdb04a70a42a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-palo-alto-computer-vision-engineer-deep-learning-ai-aitoolboard?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBWaXNpb24gRW5naW5lZXIgRGVlcCBMZWFybmluZyBcdTAwMjYgQUkiLCJjb21wYW55X25hbWUiOiJBSVRvb2xib2FyZCIsImh0aWRvY2lkIjoiVnVuRkpiNV81X0p4TWZOWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXMUlNbVpPY3pSa1VqaGlia3haZUdWcFpIZEtkVEl3Y2tJdFNqRjZjazk2WlRCeVNUUkVjbVpDT0c1RVMxTkljbkEzT1ZjeU5IcG1UVEI0TWxoUWNrRm5VRlpPTWt0MVVtSktibXBxV1ZaSGFrZE5hV0pVYkVWS2VIYzRSMVpaWkZkaFVGTXlSemxVZFVkUGVUUlNhSFZrTlVGWlRUa3lSRW8xVm1kVk1qWk1ialJRUnpVU0YwZFJibXhoY3pkWVNsQnhhVFZPYjFCdGRrTlNORkZSR2lKQlNFNHdSVGRGTUVGUlVrWnVWbTlaYm5nelNXNW5kakZ1TURKdlREQk1ObFozIiwiZmN2IjoiMyIsImZjX2lkIjoiVnVuRkpiNV81X0p4TWZOWkFBQUFBQT09In0="
+    },
+    {
+      "title": "Principal Engineer, Computer Vision & Edge AI",
+      "company_name": "QQR Freight",
+      "location": "Fort Worth, TX",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You have shipped computer vision on real hardware in the real world, not just in a notebook",
+            "Edge and embedded fluency: Linux on ARM, camera pipelines (GStreamer or similar), model optimization (TensorRT, ONNX, quantization)",
+            "Cloud and data competence: Python, AWS or GCP, streaming ingestion, practical MLOps",
+            "You make hardware decisions, work without a playbook, and own outcomes",
+            "If you have built vision systems that live outdoors or on vehicles at scale, you already know this class of problem",
+            "Visa sponsorship available, including H-1B transfers"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$220,000 to $280,000 base + 20 to 25% milestone bonus",
+            "$220,000 to $280,000 base, plus a 20 to 25% annual bonus tied to build milestones (first unit live in the field, accuracy targets, deployment count)",
+            "Long-term upside beyond salary, covered in the interview process",
+            "Full relocation to Fort Worth, Cincinnati, or Austin, or remote (US) with regular time at HQ and in the field",
+            "A funded hardware lab and field deployment budget from day one"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Ruggedized capture hardware: industrial cameras, IR illumination, Jetson-class GPU compute, cellular backhaul, weatherproof enclosures built for unattended outdoor duty",
+            "On-device ML: detection, classification, and OCR on vehicles at highway speed, day and night",
+            "The data platform: high-volume ingestion, entity resolution, search, alerting, APIs",
+            "The data engine: auto-labeling pipelines, continuous retraining, and evaluation loops fed by real-world captures",
+            "Fleet tooling: provisioning, over-the-air updates, and health monitoring for hardware deployed far from a desk",
+            "Detection, tracking, OCR, deployed where weather, vibration, and glare live",
+            "A camera-first mindset: multi-camera perception, vision-only stacks, and models that hold up in rain, glare, and darkness",
+            "You interview with, and report to, the CEO"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computer+Vision+Engineer&htidocid=MT2HclssPf4mZNACAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBAAUFz7CYJwk4PURgQXnURb0cmKqFtJ65GcpLmQnOD3-KXW5S0v-46y_TmS7yhoB6U35BFjDjvuw1swwo0SsYcplE-DsD3CHE7cQkIdOwvDHJiNw_HGioS0ViolV5gkWqgrOu4Ve2z5o17cpj9NsjpicFqwWa4WnyJ4M5vU9QWqiGSsAHmoOArcB2wO18cPQiZjLqUAAAA&shmds=v1_Ac3VAozcwP6VflnEqQ1-rswS_YvdE8fjbC4Ilvyuk3Bbh69Hrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computer+Vision+Engineer&htidocid=MT2HclssPf4mZNACAAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "220K–280K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=427df1d6e2db7d9f",
+      "job_title": "Principal Engineer, Computer Vision & Edge AI",
+      "description": "QQR LABS\n\n\n  Principal Engineer, Computer Vision & Edge AI\n\n\n  Fort Worth, TX / Cincinnati, OH / Austin, TX (full relocation covered) or Remote, US | Full-time\n\n\n  $220,000 to $280,000 base + 20 to 25% milestone bonus\n\n\n Freight fraud and cargo theft drain tens of billions of dollars a year from the US supply chain, and the industry still verifies trucks with paperwork. QQR Labs is building its first product where machine vision meets physical freight. The full scope and excitement of what we are building will be shared during the interview process.\n\n\n QQR Labs is the technology arm of QQR Freight, a platform whose sister companies include an asset-based motor carrier and a nationwide 3PL brokerage. We are not a pitch deck. There are trucks, lanes, revenue, and customers behind this, which means a real-world proving ground and a built-in first customer from day one.\n\n\n We are hiring the first engineer on the product, and you will own it end to end: the hardware in the field, the models on the edge, and the platform customers log into.\n\n\n  What you will build\n\n\n \n  Ruggedized capture hardware: industrial cameras, IR illumination, Jetson-class GPU compute, cellular backhaul, weatherproof enclosures built for unattended outdoor duty\n  On-device ML: detection, classification, and OCR on vehicles at highway speed, day and night\n  The data platform: high-volume ingestion, entity resolution, search, alerting, APIs\n  The data engine: auto-labeling pipelines, continuous retraining, and evaluation loops fed by real-world captures\n  Fleet tooling: provisioning, over-the-air updates, and health monitoring for hardware deployed far from a desk\n \n \n Requirements\n \n\n    Who we want\n\n\n \n  You have shipped computer vision on real hardware in the real world, not just in a notebook. Detection, tracking, OCR, deployed where weather, vibration, and glare live.\n  A camera-first mindset: multi-camera perception, vision-only stacks, and models that hold up in rain, glare, and darkness\n  Edge and embedded fluency: Linux on ARM, camera pipelines (GStreamer or similar), model optimization (TensorRT, ONNX, quantization)\n  Cloud and data competence: Python, AWS or GCP, streaming ingestion, practical MLOps\n  You make hardware decisions, work without a playbook, and own outcomes\n  If you have built vision systems that live outdoors or on vehicles at scale, you already know this class of problem. Come build one where you hold real skin in the game.\n \n \n Benefits\n \n\n    The package\n\n\n \n  $220,000 to $280,000 base, plus a 20 to 25% annual bonus tied to build milestones (first unit live in the field, accuracy targets, deployment count)\n  Long-term upside beyond salary, covered in the interview process. We want an owner, not an employee.\n  Full relocation to Fort Worth, Cincinnati, or Austin, or remote (US) with regular time at HQ and in the field\n  Visa sponsorship available, including H-1B transfers\n  A funded hardware lab and field deployment budget from day one\n  You interview with, and report to, the CEO",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=427df1d6e2db7d9f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/qqr-freight/Job/Principal-Engineer,-Computer-Vision-&-Edge-AI/-in-Fort-Worth,TX?jid=b78a5abb855b4da8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/principal-engineer-computer-vision-edge-ai-fort-worth-tx--0c3a9ee7-12b5-4251-b686-a205da50a233?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-1741242694318622526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workable Jobs",
+          "link": "https://jobs.workable.com/view/7mjDov4eR4EX2VhFD6cVFH/hybrid-principal-engineer%2C-computer-vision-%26-edge-ai-in-fort-worth-at-qqr-freight?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/principal-engineer-computer-vision-edge-ai-fort-worth-tx--7222e495-a2ef-47a3-ad3b-03fec1a725d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/principal-engineer-computer-vision-edge-ai-at-qqr-freight-4480542437?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5931206183?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgRW5naW5lZXIsIENvbXB1dGVyIFZpc2lvbiBcdTAwMjYgRWRnZSBBSSIsImNvbXBhbnlfbmFtZSI6IlFRUiBGcmVpZ2h0IiwiaHRpZG9jaWQiOiJNVDJIY2xzc1BmNG1aTkFDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhSM1RVMW5jRXhzVjIxTk5Yb3RiMUIxY1doRVVXODFUa1JTV1RWc1FteFNZMmxRUWw5cFFrNTNXVXhvTWkwM2FsOUtSVlp3V2twTWFWOXFORGhmZFRNNFRHZEpTMjVGVVZCU1JFTldUamxEYkhsbE56aENaVFpVVVRKSWVqTjVYelEyZFVWSVNWRllNMVIwZEhaZlZYRXlVbTV5ZFZSTE9VSmZSV3hyZWtaeVJHdFRVMjhTRjBkUmJteGhjemRZU2xCeGFUVk9iMUJ0ZGtOU05GRlJHaUpCU0U0d1JUZEhVVXQzVDNsT2RFSnFPREZYYWxvNExXTmphRTFIZGxCUFQzaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJNVDJIY2xzc1BmNG1aTkFDQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SURDcUlEUVVSRVlsZGxXVWhFYkVrMmMzaHpRbkk1ZWxsQk1qQnViRmR3ZEVoNlRuQlVkSEkyUmpSeU5XdFBjelJqVGtSalIyMVNWbEZMZFhvNE16QkxNeTFsUVRObVVrWnVTamRFTVRWQmQycHJTbXBJVUdOWE9XeFBPVTFQYW1OUk1EQk5OMjV3UjFKZlJsOXlWM2xKYjBoNGNrUktSM05NTFRoeldubFBWRXBXZEc1eVRYbExRVjlPZWtKT1REWlBhbXR3TTFjeGEzQm1hMEZDY0dWeGFYaG5Sbkl3YTJaU2NsTlJaemQxYkVOeU9EUjZRMUpwVDBnd1IwWmFTbEY0Tlhoc1ZURlZURzFOTUV0NVowVnRaWFJ5TkRaMlh6aEhOVGswTVVOaWJucExPVTh4TmtJM1lXaHpiamhVU1UxS2JVWldNRTVmV1d4eWRVZG9XRjlqV2pGT1QwSnRVMWt6U0cxdGFUUlVhRmwwU0V0VlNtRnhkWE5xT1UwNU9HRkJiRGxMWlRnNWJGWXdWMjVmUWpWWldIQmpOVmRhVDBwV1UwSlpSWGs0TWpKMlIwZDFPV3AwVG5CMGVVbDFkWEZITFRCNk9HZDFRMFZCYTNWQ1JVNWhVV3RCTUhaRFVHOXNaMmhLWm1wNFlUUkNXSGxwVlZKa1J6ZHlSa1I2YkdkNk5HVkJkbEU1ZFd4TVFsSjRRM0pFUkRrd1p6QXRVV0ZUTlhseFYxZHlNVjlHWTFsS1FSSVhSMUZ1YkdGek4xaEtVSEZwTlU1dlVHMTJRMUkwVVZFYUlrRklUakJGTjBVNFVHRklVWEpQWmpCTVdHbEVhbk41Wlc1aVJsWlVkSFp4U1hjIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV1SURDcUlEUVVSRVlsZGxXVWhFYkVrMmMzaHpRbkk1ZWxsQk1qQnViRmR3ZEVoNlRuQlVkSEkyUmpSeU5XdFBjelJqVGtSalIyMVNWbEZMZFhvNE16QkxNeTFsUVRObVVrWnVTamRFTVRWQmQycHJTbXBJVUdOWE9XeFBPVTFQYW1OUk1EQk5OMjV3UjFKZlJsOXlWM2xKYjBoNGNrUktSM05NTFRoeldubFBWRXBXZEc1eVRYbExRVjlPZWtKT1REWlBhbXR3TTFjeGEzQm1hMEZDY0dWeGFYaG5Sbkl3YTJaU2NsTlJaemQxYkVOeU9EUjZRMUpwVDBnd1IwWmFTbEY0Tlhoc1ZURlZURzFOTUV0NVowVnRaWFJ5TkRaMlh6aEhOVGswTVVOaWJucExPVTh4TmtJM1lXaHpiamhVU1UxS2JVWldNRTVmV1d4eWRVZG9XRjlqV2pGT1QwSnRVMWt6U0cxdGFUUlVhRmwwU0V0VlNtRnhkWE5xT1UwNU9HRkJiRGxMWlRnNWJGWXdWMjVmUWpWWldIQmpOVmRhVDBwV1UwSlpSWGs0TWpKMlIwZDFPV3AwVG5CMGVVbDFkWEZITFRCNk9HZDFRMFZCYTNWQ1JVNWhVV3RCTUhaRFVHOXNaMmhLWm1wNFlUUkNXSGxwVlZKa1J6ZHlSa1I2YkdkNk5HVkJkbEU1ZFd4TVFsSjRRM0pFUkRrd1p6QXRVV0ZUTlhseFYxZHlNVjlHWTFsS1FSSVhSMUZ1YkdGek4xaEtVSEZwTlU1dlVHMTJRMUkwVVZFYUlrRklUakJGTjBVNFVHRklVWEpQWmpCTVdHbEVhbk41Wlc1aVJsWlVkSFp4U1hjIiwiZmN2IjoiMyJ9&q=Computer+Vision+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Computer Vision Engineer",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:16:07.304014+00:00",
+    "request_fingerprint": "9a09ca6924c9551cefffecb6ac127131616653065505b494cf4ed9120cdfb76e",
+    "job_count": 10
+  }
+}

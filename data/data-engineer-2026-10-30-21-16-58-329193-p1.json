@@ -1,0 +1,1079 @@
+{
+  "search_metadata": {
+    "id": "6ae5094abb4143e7dfed0e92",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kh-S0tGCQ_3JBtYJKZjoWVaag1E42WzZXrmnkVb9BrI/6ae5094abb4143e7dfed0e92.json",
+    "markdown_endpoint": "https://serpapi.com/searches/kh-S0tGCQ_3JBtYJKZjoWVaag1E42WzZXrmnkVb9BrI/6ae5094abb4143e7dfed0e92.md",
+    "created_at": "2026-10-30 21:16:58 UTC",
+    "processed_at": "2026-10-30 21:16:58 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/kh-S0tGCQ_3JBtYJKZjoWVaag1E42WzZXrmnkVb9BrI/6ae5094abb4143e7dfed0e92.html",
+    "total_time_taken": 1.6
+  },
+  "search_parameters": {
+    "q": "Data Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXVsO72cxXwCL7F7T_EZs3rCScZ1onhmHGZ6Z3LxYYSnlKlOwU6D3hd3G2BHjb-XSXE9VcWJASL5rbXKkE2iFAMJLCLkRL12H1ZVVnighL34HbYcN-qP6WzEUbZX93MNvEdFJqHeZbC4Smw1NKDiO_ar7-g-0",
+        "q": "Data Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXVsO72cxXwCL7F7T_EZs3rCScZ1onhmHGZ6Z3LxYYSnlKlOwU6D3hd3G2BHjb-XSXE9VcWJASL5rbXKkE2iFAMJLCLkRL12H1ZVVnighL34HbYcN-qP6WzEUbZX93MNvEdFJqHeZbC4Smw1NKDiO_ar7-g-0&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXVsO72cxXwCL7F7T_EZs3rCScZ1onhmHGZ6Z3LxYYSnlKlOwU6D3hd3G2BHjb-XSXE9VcWJASL5rbXKkE2iFAMJLCLkRL12H1ZVVnighL34HbYcN-qP6WzEUbZX93MNvEdFJqHeZbC4Smw1NKDiO_ar7-g-0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX5j6C-k3UzEpUEqMyMCU5xptapGP0Q9hqixxqHIGrm_gqVrWg_MnZD_jqTzuyrVzO1ZDA-xSrbyX_P0bpJB21dfbS2SWtg7YKBF1wQYoD343oEkkvCLIq32wNBEyxdo_JhvrC37_9Dl-WlkPJVR5heShWlIs",
+        "q": "Data Engineer no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX5j6C-k3UzEpUEqMyMCU5xptapGP0Q9hqixxqHIGrm_gqVrWg_MnZD_jqTzuyrVzO1ZDA-xSrbyX_P0bpJB21dfbS2SWtg7YKBF1wQYoD343oEkkvCLIq32wNBEyxdo_JhvrC37_9Dl-WlkPJVR5heShWlIs&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQxKsJKAF6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX5j6C-k3UzEpUEqMyMCU5xptapGP0Q9hqixxqHIGrm_gqVrWg_MnZD_jqTzuyrVzO1ZDA-xSrbyX_P0bpJB21dfbS2SWtg7YKBF1wQYoD343oEkkvCLIq32wNBEyxdo_JhvrC37_9Dl-WlkPJVR5heShWlIs&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmg67RwMVtE4HUAuQ6YHVv9dBizlr1YcRjUihJJF6dZNyTINjIc4nzb-1hl1LlQaEVaSRfYgyFd2iziJ5z5JgLvZ8IY1K_lh2vWc5ZNAPTfASZtuso3Efsth2iLCKNi4DPqCxLIGfsDN1l5JtZSXlpMQaE3L6jhnnCTLY9i0liSTihu6UVfBbjK8rxtpUFSsAB8ZDVHNU3ZErBsxWgeddwK6rqHw_l9W2t8UDnFxT1YZtP8YOBHNavwjrdlJr2frHUJnMhEa0P9SqWhjaukPrXw9jsu4_A",
+            "q": "Data Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmg67RwMVtE4HUAuQ6YHVv9dBizlr1YcRjUihJJF6dZNyTINjIc4nzb-1hl1LlQaEVaSRfYgyFd2iziJ5z5JgLvZ8IY1K_lh2vWc5ZNAPTfASZtuso3Efsth2iLCKNi4DPqCxLIGfsDN1l5JtZSXlpMQaE3L6jhnnCTLY9i0liSTihu6UVfBbjK8rxtpUFSsAB8ZDVHNU3ZErBsxWgeddwK6rqHw_l9W2t8UDnFxT1YZtP8YOBHNavwjrdlJr2frHUJnMhEa0P9SqWhjaukPrXw9jsu4_A&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmg67RwMVtE4HUAuQ6YHVv9dBizlr1YcRjUihJJF6dZNyTINjIc4nzb-1hl1LlQaEVaSRfYgyFd2iziJ5z5JgLvZ8IY1K_lh2vWc5ZNAPTfASZtuso3Efsth2iLCKNi4DPqCxLIGfsDN1l5JtZSXlpMQaE3L6jhnnCTLY9i0liSTihu6UVfBbjK8rxtpUFSsAB8ZDVHNU3ZErBsxWgeddwK6rqHw_l9W2t8UDnFxT1YZtP8YOBHNavwjrdlJr2frHUJnMhEa0P9SqWhjaukPrXw9jsu4_A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmhcqzoO8gUkSSrzhQnGHdoxXY5vXkSfpYtIIQpa-mcBpbILHDer7BL2KEJ0aRDnoC9HI6_2Bj2yB18j5kLyT87WoilyDfYCWE74kjGID7UYLgE-Jcg0wEQEmhwvyp63vtF6dE0nXv3gYhX6RM40OAgHK6hQjtw0t3glVZrpBxCldyMjgrwlnmpLOFAZKy3lx_hB9sFV3JgaemhJpg6rChjRRv4nGxR0aP9k6zthAdSeW1QpqpaPN7ev4BQ6qtAdrJsSlb2BMQoQPVivt9YMzMs5TW-IBw",
+            "q": "Data Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmhcqzoO8gUkSSrzhQnGHdoxXY5vXkSfpYtIIQpa-mcBpbILHDer7BL2KEJ0aRDnoC9HI6_2Bj2yB18j5kLyT87WoilyDfYCWE74kjGID7UYLgE-Jcg0wEQEmhwvyp63vtF6dE0nXv3gYhX6RM40OAgHK6hQjtw0t3glVZrpBxCldyMjgrwlnmpLOFAZKy3lx_hB9sFV3JgaemhJpg6rChjRRv4nGxR0aP9k6zthAdSeW1QpqpaPN7ev4BQ6qtAdrJsSlb2BMQoQPVivt9YMzMs5TW-IBw&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmhcqzoO8gUkSSrzhQnGHdoxXY5vXkSfpYtIIQpa-mcBpbILHDer7BL2KEJ0aRDnoC9HI6_2Bj2yB18j5kLyT87WoilyDfYCWE74kjGID7UYLgE-Jcg0wEQEmhwvyp63vtF6dE0nXv3gYhX6RM40OAgHK6hQjtw0t3glVZrpBxCldyMjgrwlnmpLOFAZKy3lx_hB9sFV3JgaemhJpg6rChjRRv4nGxR0aP9k6zthAdSeW1QpqpaPN7ev4BQ6qtAdrJsSlb2BMQoQPVivt9YMzMs5TW-IBw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDCaMslMrvhcXxDDMAGhgFPKn4ZtTgBflDArAx6chJPjMAR1brPcsY3vIk1dlanEHYw-uH_nycilgvMx6kNdvxKc6YqvluxZXy2T9xYVcBTT8BVHLYZjwHYxsv1-qiNNYkOXb_aTt6cxF_jH0bh75hWsm2BMW7RE6F-IWgqSt99HP2hWZZ2PwcWVdQdx4ECZTRqbcQOly-mPEdgBLNWMxWWVA0gisgsmICzDVH94Faz_kqluaraa4e6U33nWQC1brfF9fnUwK3T60fKA7QPpfqqCpjmUl945_pG4Au7UcehzK2yJC",
+            "q": "Data Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDCaMslMrvhcXxDDMAGhgFPKn4ZtTgBflDArAx6chJPjMAR1brPcsY3vIk1dlanEHYw-uH_nycilgvMx6kNdvxKc6YqvluxZXy2T9xYVcBTT8BVHLYZjwHYxsv1-qiNNYkOXb_aTt6cxF_jH0bh75hWsm2BMW7RE6F-IWgqSt99HP2hWZZ2PwcWVdQdx4ECZTRqbcQOly-mPEdgBLNWMxWWVA0gisgsmICzDVH94Faz_kqluaraa4e6U33nWQC1brfF9fnUwK3T60fKA7QPpfqqCpjmUl945_pG4Au7UcehzK2yJC&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDCaMslMrvhcXxDDMAGhgFPKn4ZtTgBflDArAx6chJPjMAR1brPcsY3vIk1dlanEHYw-uH_nycilgvMx6kNdvxKc6YqvluxZXy2T9xYVcBTT8BVHLYZjwHYxsv1-qiNNYkOXb_aTt6cxF_jH0bh75hWsm2BMW7RE6F-IWgqSt99HP2hWZZ2PwcWVdQdx4ECZTRqbcQOly-mPEdgBLNWMxWWVA0gisgsmICzDVH94Faz_kqluaraa4e6U33nWQC1brfF9fnUwK3T60fKA7QPpfqqCpjmUl945_pG4Au7UcehzK2yJC&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBIc5v2dDBLPxL2c3NYeE2eBYIuKQtGD9rPWMcZAOPuwASV4yIsf2zK3LuyNi7T5ZuhAs0KXXsLSENhe0O6t0FGq1omkQP71vIIuSQczPP-LfxLITEriYqbDClp0kN4WtFmnzbxSYy-QW86lZ-i8xFTfYknF1ESZPXVM83VV618gTyb_zWHysuf1oj4tPValPwJ4lZdyyA79xY6U93fJuZ5wQ0DBkg5k0uwYW4_ZNATnbCA3i3ya_RZ13yZX650y4U037QT9sh7At4Hy-Vvtp2BkUwGHkYhg6N9j0682LikWe1emI",
+            "q": "Data Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBIc5v2dDBLPxL2c3NYeE2eBYIuKQtGD9rPWMcZAOPuwASV4yIsf2zK3LuyNi7T5ZuhAs0KXXsLSENhe0O6t0FGq1omkQP71vIIuSQczPP-LfxLITEriYqbDClp0kN4WtFmnzbxSYy-QW86lZ-i8xFTfYknF1ESZPXVM83VV618gTyb_zWHysuf1oj4tPValPwJ4lZdyyA79xY6U93fJuZ5wQ0DBkg5k0uwYW4_ZNATnbCA3i3ya_RZ13yZX650y4U037QT9sh7At4Hy-Vvtp2BkUwGHkYhg6N9j0682LikWe1emI&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBIc5v2dDBLPxL2c3NYeE2eBYIuKQtGD9rPWMcZAOPuwASV4yIsf2zK3LuyNi7T5ZuhAs0KXXsLSENhe0O6t0FGq1omkQP71vIIuSQczPP-LfxLITEriYqbDClp0kN4WtFmnzbxSYy-QW86lZ-i8xFTfYknF1ESZPXVM83VV618gTyb_zWHysuf1oj4tPValPwJ4lZdyyA79xY6U93fJuZ5wQ0DBkg5k0uwYW4_ZNATnbCA3i3ya_RZ13yZX650y4U037QT9sh7At4Hy-Vvtp2BkUwGHkYhg6N9j0682LikWe1emI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmg67RwMVtE4HUAuQ6YHVv9dBizlr1YcRjUihJJF6dZNyTINjIc4nzb-1hl1LlQaEVaSRfYgyFd2iziJ5z5JgLvZ8IY1K_lh2vWc5ZNAPTfASZtuso3Efsth2iLCKNi4DPqCxLIGfsDN1l5JtZSXlpMQaE3L6jhnnCTLY9i0liSTihu6UVfBbjK8rxtpUFSsAB8ZDVHNU3ZErBsxWgeddwK6rqHw_l9W2t8UDnFxT1YZtP8YOBHNavwjrdlJr2frHUJnMhEa0P9SqWhjaukPrXw9jsu4_A",
+            "q": "Data Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmg67RwMVtE4HUAuQ6YHVv9dBizlr1YcRjUihJJF6dZNyTINjIc4nzb-1hl1LlQaEVaSRfYgyFd2iziJ5z5JgLvZ8IY1K_lh2vWc5ZNAPTfASZtuso3Efsth2iLCKNi4DPqCxLIGfsDN1l5JtZSXlpMQaE3L6jhnnCTLY9i0liSTihu6UVfBbjK8rxtpUFSsAB8ZDVHNU3ZErBsxWgeddwK6rqHw_l9W2t8UDnFxT1YZtP8YOBHNavwjrdlJr2frHUJnMhEa0P9SqWhjaukPrXw9jsu4_A&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmg67RwMVtE4HUAuQ6YHVv9dBizlr1YcRjUihJJF6dZNyTINjIc4nzb-1hl1LlQaEVaSRfYgyFd2iziJ5z5JgLvZ8IY1K_lh2vWc5ZNAPTfASZtuso3Efsth2iLCKNi4DPqCxLIGfsDN1l5JtZSXlpMQaE3L6jhnnCTLY9i0liSTihu6UVfBbjK8rxtpUFSsAB8ZDVHNU3ZErBsxWgeddwK6rqHw_l9W2t8UDnFxT1YZtP8YOBHNavwjrdlJr2frHUJnMhEa0P9SqWhjaukPrXw9jsu4_A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmhcqzoO8gUkSSrzhQnGHdoxXY5vXkSfpYtIIQpa-mcBpbILHDer7BL2KEJ0aRDnoC9HI6_2Bj2yB18j5kLyT87WoilyDfYCWE74kjGID7UYLgE-Jcg0wEQEmhwvyp63vtF6dE0nXv3gYhX6RM40OAgHK6hQjtw0t3glVZrpBxCldyMjgrwlnmpLOFAZKy3lx_hB9sFV3JgaemhJpg6rChjRRv4nGxR0aP9k6zthAdSeW1QpqpaPN7ev4BQ6qtAdrJsSlb2BMQoQPVivt9YMzMs5TW-IBw",
+            "q": "Data Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmhcqzoO8gUkSSrzhQnGHdoxXY5vXkSfpYtIIQpa-mcBpbILHDer7BL2KEJ0aRDnoC9HI6_2Bj2yB18j5kLyT87WoilyDfYCWE74kjGID7UYLgE-Jcg0wEQEmhwvyp63vtF6dE0nXv3gYhX6RM40OAgHK6hQjtw0t3glVZrpBxCldyMjgrwlnmpLOFAZKy3lx_hB9sFV3JgaemhJpg6rChjRRv4nGxR0aP9k6zthAdSeW1QpqpaPN7ev4BQ6qtAdrJsSlb2BMQoQPVivt9YMzMs5TW-IBw&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSJwEgZBRCHfaRKUvnPD4-fKeJkHP6JpIlJz0F4i2cmhcqzoO8gUkSSrzhQnGHdoxXY5vXkSfpYtIIQpa-mcBpbILHDer7BL2KEJ0aRDnoC9HI6_2Bj2yB18j5kLyT87WoilyDfYCWE74kjGID7UYLgE-Jcg0wEQEmhwvyp63vtF6dE0nXv3gYhX6RM40OAgHK6hQjtw0t3glVZrpBxCldyMjgrwlnmpLOFAZKy3lx_hB9sFV3JgaemhJpg6rChjRRv4nGxR0aP9k6zthAdSeW1QpqpaPN7ev4BQ6qtAdrJsSlb2BMQoQPVivt9YMzMs5TW-IBw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDCaMslMrvhcXxDDMAGhgFPKn4ZtTgBflDArAx6chJPjMAR1brPcsY3vIk1dlanEHYw-uH_nycilgvMx6kNdvxKc6YqvluxZXy2T9xYVcBTT8BVHLYZjwHYxsv1-qiNNYkOXb_aTt6cxF_jH0bh75hWsm2BMW7RE6F-IWgqSt99HP2hWZZ2PwcWVdQdx4ECZTRqbcQOly-mPEdgBLNWMxWWVA0gisgsmICzDVH94Faz_kqluaraa4e6U33nWQC1brfF9fnUwK3T60fKA7QPpfqqCpjmUl945_pG4Au7UcehzK2yJC",
+            "q": "Data Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDCaMslMrvhcXxDDMAGhgFPKn4ZtTgBflDArAx6chJPjMAR1brPcsY3vIk1dlanEHYw-uH_nycilgvMx6kNdvxKc6YqvluxZXy2T9xYVcBTT8BVHLYZjwHYxsv1-qiNNYkOXb_aTt6cxF_jH0bh75hWsm2BMW7RE6F-IWgqSt99HP2hWZZ2PwcWVdQdx4ECZTRqbcQOly-mPEdgBLNWMxWWVA0gisgsmICzDVH94Faz_kqluaraa4e6U33nWQC1brfF9fnUwK3T60fKA7QPpfqqCpjmUl945_pG4Au7UcehzK2yJC&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDCaMslMrvhcXxDDMAGhgFPKn4ZtTgBflDArAx6chJPjMAR1brPcsY3vIk1dlanEHYw-uH_nycilgvMx6kNdvxKc6YqvluxZXy2T9xYVcBTT8BVHLYZjwHYxsv1-qiNNYkOXb_aTt6cxF_jH0bh75hWsm2BMW7RE6F-IWgqSt99HP2hWZZ2PwcWVdQdx4ECZTRqbcQOly-mPEdgBLNWMxWWVA0gisgsmICzDVH94Faz_kqluaraa4e6U33nWQC1brfF9fnUwK3T60fKA7QPpfqqCpjmUl945_pG4Au7UcehzK2yJC&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBIc5v2dDBLPxL2c3NYeE2eBYIuKQtGD9rPWMcZAOPuwASV4yIsf2zK3LuyNi7T5ZuhAs0KXXsLSENhe0O6t0FGq1omkQP71vIIuSQczPP-LfxLITEriYqbDClp0kN4WtFmnzbxSYy-QW86lZ-i8xFTfYknF1ESZPXVM83VV618gTyb_zWHysuf1oj4tPValPwJ4lZdyyA79xY6U93fJuZ5wQ0DBkg5k0uwYW4_ZNATnbCA3i3ya_RZ13yZX650y4U037QT9sh7At4Hy-Vvtp2BkUwGHkYhg6N9j0682LikWe1emI",
+            "q": "Data Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBIc5v2dDBLPxL2c3NYeE2eBYIuKQtGD9rPWMcZAOPuwASV4yIsf2zK3LuyNi7T5ZuhAs0KXXsLSENhe0O6t0FGq1omkQP71vIIuSQczPP-LfxLITEriYqbDClp0kN4WtFmnzbxSYy-QW86lZ-i8xFTfYknF1ESZPXVM83VV618gTyb_zWHysuf1oj4tPValPwJ4lZdyyA79xY6U93fJuZ5wQ0DBkg5k0uwYW4_ZNATnbCA3i3ya_RZ13yZX650y4U037QT9sh7At4Hy-Vvtp2BkUwGHkYhg6N9j0682LikWe1emI&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBIc5v2dDBLPxL2c3NYeE2eBYIuKQtGD9rPWMcZAOPuwASV4yIsf2zK3LuyNi7T5ZuhAs0KXXsLSENhe0O6t0FGq1omkQP71vIIuSQczPP-LfxLITEriYqbDClp0kN4WtFmnzbxSYy-QW86lZ-i8xFTfYknF1ESZPXVM83VV618gTyb_zWHysuf1oj4tPValPwJ4lZdyyA79xY6U93fJuZ5wQ0DBkg5k0uwYW4_ZNATnbCA3i3ya_RZ13yZX650y4U037QT9sh7At4Hy-Vvtp2BkUwGHkYhg6N9j0682LikWe1emI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7G2GYmzWMHAzwU8Et3xVschCOJiJDtllWDsRQqKIyGwVb_E9cP3NG36AXsnWdXftpB36VTs3QXNyQsz9OS_sMS0P_McdOaALfSuuFR2DVZao9lx1vvKFJBG-1LvdF902I_rk7v7-O5DTAZh2-tnfxndA7XiuuhCq7CVjUtnGV2PP6DXWFAKu2ZSN1WX26pEcio04TLK_dpWSkmSlgDPvKm_lBddpHyI2bAX6WRshKrg8TFQ5rdmMilFJnXLXO8_vWZmBptktpDESemlxmqlE44B8F0k3OVi3PVTDBtMNog5v0kVohQVFzK_3_BDzG1HbRBBTsVU",
+            "q": "Data Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7G2GYmzWMHAzwU8Et3xVschCOJiJDtllWDsRQqKIyGwVb_E9cP3NG36AXsnWdXftpB36VTs3QXNyQsz9OS_sMS0P_McdOaALfSuuFR2DVZao9lx1vvKFJBG-1LvdF902I_rk7v7-O5DTAZh2-tnfxndA7XiuuhCq7CVjUtnGV2PP6DXWFAKu2ZSN1WX26pEcio04TLK_dpWSkmSlgDPvKm_lBddpHyI2bAX6WRshKrg8TFQ5rdmMilFJnXLXO8_vWZmBptktpDESemlxmqlE44B8F0k3OVi3PVTDBtMNog5v0kVohQVFzK_3_BDzG1HbRBBTsVU&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7G2GYmzWMHAzwU8Et3xVschCOJiJDtllWDsRQqKIyGwVb_E9cP3NG36AXsnWdXftpB36VTs3QXNyQsz9OS_sMS0P_McdOaALfSuuFR2DVZao9lx1vvKFJBG-1LvdF902I_rk7v7-O5DTAZh2-tnfxndA7XiuuhCq7CVjUtnGV2PP6DXWFAKu2ZSN1WX26pEcio04TLK_dpWSkmSlgDPvKm_lBddpHyI2bAX6WRshKrg8TFQ5rdmMilFJnXLXO8_vWZmBptktpDESemlxmqlE44B8F0k3OVi3PVTDBtMNog5v0kVohQVFzK_3_BDzG1HbRBBTsVU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXTPmUt7EtnlKJDJ7g3W5WuuALeMr7IU1zW4AY-4nxgewouizuBa2gJYZSnBrRQde0G0I0r8h33bAxzNKFiK_V22pZfKGfBMsyPTZEVY4tfiOCayZ-skg-evy7avOjUNVoLcXxAYWTx5JxjEk4GguKlonldqE4IqpRGvj3X7w_XqMD2LxGszhb_DJm8xWcRZtAx3yaWmYjUh_-lzo_xGxc0Gh1bsZXqWC6VkBiY5RIj-57VPdSrc7oQC5vARtkwVOycnfDicHFPdk2Yt-K4SkiYzcDybZ-CdkPHHe_RzKApj_U-eAjPIn-dISUPMSkV2ebuRTO-iT-Tc6LceZ453mrBNGNj3A",
+            "q": "Data Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXTPmUt7EtnlKJDJ7g3W5WuuALeMr7IU1zW4AY-4nxgewouizuBa2gJYZSnBrRQde0G0I0r8h33bAxzNKFiK_V22pZfKGfBMsyPTZEVY4tfiOCayZ-skg-evy7avOjUNVoLcXxAYWTx5JxjEk4GguKlonldqE4IqpRGvj3X7w_XqMD2LxGszhb_DJm8xWcRZtAx3yaWmYjUh_-lzo_xGxc0Gh1bsZXqWC6VkBiY5RIj-57VPdSrc7oQC5vARtkwVOycnfDicHFPdk2Yt-K4SkiYzcDybZ-CdkPHHe_RzKApj_U-eAjPIn-dISUPMSkV2ebuRTO-iT-Tc6LceZ453mrBNGNj3A&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXTPmUt7EtnlKJDJ7g3W5WuuALeMr7IU1zW4AY-4nxgewouizuBa2gJYZSnBrRQde0G0I0r8h33bAxzNKFiK_V22pZfKGfBMsyPTZEVY4tfiOCayZ-skg-evy7avOjUNVoLcXxAYWTx5JxjEk4GguKlonldqE4IqpRGvj3X7w_XqMD2LxGszhb_DJm8xWcRZtAx3yaWmYjUh_-lzo_xGxc0Gh1bsZXqWC6VkBiY5RIj-57VPdSrc7oQC5vARtkwVOycnfDicHFPdk2Yt-K4SkiYzcDybZ-CdkPHHe_RzKApj_U-eAjPIn-dISUPMSkV2ebuRTO-iT-Tc6LceZ453mrBNGNj3A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15imgmBcLPHX5Ef1gRu8c79EjP9jjGhUrgEp-zPmywX_JK3EruMw0up3Q89RUAlrz7xUxVwMRl9h_vyjnv_hLveoaQr5mEPzkctGJidEl_tBx78biux9VWlanoO838HOZ1AvqNOzm3mkVUH8FNv_OcrFKSJMpH856ueoxIThaSkRy9KavhZmWfRcUPafd33MLENnfKlIpRJcS8yM6koMqAJFmS8106rmJdroH4LRG4fn_wADbdynxMk2e1C1D3IXutxH2FCCexco8_R_MkePk09kZtto4cWXIkvF5smJVm4TIpPp5xhmiflyCrR9oKWV8l5sqdfco",
+            "q": "Data Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15imgmBcLPHX5Ef1gRu8c79EjP9jjGhUrgEp-zPmywX_JK3EruMw0up3Q89RUAlrz7xUxVwMRl9h_vyjnv_hLveoaQr5mEPzkctGJidEl_tBx78biux9VWlanoO838HOZ1AvqNOzm3mkVUH8FNv_OcrFKSJMpH856ueoxIThaSkRy9KavhZmWfRcUPafd33MLENnfKlIpRJcS8yM6koMqAJFmS8106rmJdroH4LRG4fn_wADbdynxMk2e1C1D3IXutxH2FCCexco8_R_MkePk09kZtto4cWXIkvF5smJVm4TIpPp5xhmiflyCrR9oKWV8l5sqdfco&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15imgmBcLPHX5Ef1gRu8c79EjP9jjGhUrgEp-zPmywX_JK3EruMw0up3Q89RUAlrz7xUxVwMRl9h_vyjnv_hLveoaQr5mEPzkctGJidEl_tBx78biux9VWlanoO838HOZ1AvqNOzm3mkVUH8FNv_OcrFKSJMpH856ueoxIThaSkRy9KavhZmWfRcUPafd33MLENnfKlIpRJcS8yM6koMqAJFmS8106rmJdroH4LRG4fn_wADbdynxMk2e1C1D3IXutxH2FCCexco8_R_MkePk09kZtto4cWXIkvF5smJVm4TIpPp5xhmiflyCrR9oKWV8l5sqdfco&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXz6ief-KfKRh2ftr8dcu1WzH5oVn9uqwnk0Lep3msBP_leXYD0shSA2TPUGBWSbI_9ADx6_40sDGrnTEs3qyczeo2UiMEtUL0P4YJZfTT0BaqeDt3yLBV3GJ1TOF7E8ILOmm2MzgiIPHWtUsByopocBerzudKwlN2NHlkgXTNRS0YiX3B2BxJPl26CN7rfc3s3XzH1f9RyeXUZS6nh1U5yLeGja0wyPtaclCn16OSyRKXehbuyhAY_wuLWzNzEFvW0nqz5Kx6xlKsonWGi8Eud-kGelaewNIrlx_n7cqKys64z0Dvp38DYmNzO8k30WqHepIx8IARW7J1cQYEuL5qN7lRDzg",
+            "q": "Data Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXz6ief-KfKRh2ftr8dcu1WzH5oVn9uqwnk0Lep3msBP_leXYD0shSA2TPUGBWSbI_9ADx6_40sDGrnTEs3qyczeo2UiMEtUL0P4YJZfTT0BaqeDt3yLBV3GJ1TOF7E8ILOmm2MzgiIPHWtUsByopocBerzudKwlN2NHlkgXTNRS0YiX3B2BxJPl26CN7rfc3s3XzH1f9RyeXUZS6nh1U5yLeGja0wyPtaclCn16OSyRKXehbuyhAY_wuLWzNzEFvW0nqz5Kx6xlKsonWGi8Eud-kGelaewNIrlx_n7cqKys64z0Dvp38DYmNzO8k30WqHepIx8IARW7J1cQYEuL5qN7lRDzg&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXz6ief-KfKRh2ftr8dcu1WzH5oVn9uqwnk0Lep3msBP_leXYD0shSA2TPUGBWSbI_9ADx6_40sDGrnTEs3qyczeo2UiMEtUL0P4YJZfTT0BaqeDt3yLBV3GJ1TOF7E8ILOmm2MzgiIPHWtUsByopocBerzudKwlN2NHlkgXTNRS0YiX3B2BxJPl26CN7rfc3s3XzH1f9RyeXUZS6nh1U5yLeGja0wyPtaclCn16OSyRKXehbuyhAY_wuLWzNzEFvW0nqz5Kx6xlKsonWGi8Eud-kGelaewNIrlx_n7cqKys64z0Dvp38DYmNzO8k30WqHepIx8IARW7J1cQYEuL5qN7lRDzg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7G2GYmzWMHAzwU8Et3xVschCOJiJDtllWDsRQqKIyGwVb_E9cP3NG36AXsnWdXftpB36VTs3QXNyQsz9OS_sMS0P_McdOaALfSuuFR2DVZao9lx1vvKFJBG-1LvdF902I_rk7v7-O5DTAZh2-tnfxndA7XiuuhCq7CVjUtnGV2PP6DXWFAKu2ZSN1WX26pEcio04TLK_dpWSkmSlgDPvKm_lBddpHyI2bAX6WRshKrg8TFQ5rdmMilFJnXLXO8_vWZmBptktpDESemlxmqlE44B8F0k3OVi3PVTDBtMNog5v0kVohQVFzK_3_BDzG1HbRBBTsVU",
+            "q": "Data Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7G2GYmzWMHAzwU8Et3xVschCOJiJDtllWDsRQqKIyGwVb_E9cP3NG36AXsnWdXftpB36VTs3QXNyQsz9OS_sMS0P_McdOaALfSuuFR2DVZao9lx1vvKFJBG-1LvdF902I_rk7v7-O5DTAZh2-tnfxndA7XiuuhCq7CVjUtnGV2PP6DXWFAKu2ZSN1WX26pEcio04TLK_dpWSkmSlgDPvKm_lBddpHyI2bAX6WRshKrg8TFQ5rdmMilFJnXLXO8_vWZmBptktpDESemlxmqlE44B8F0k3OVi3PVTDBtMNog5v0kVohQVFzK_3_BDzG1HbRBBTsVU&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7G2GYmzWMHAzwU8Et3xVschCOJiJDtllWDsRQqKIyGwVb_E9cP3NG36AXsnWdXftpB36VTs3QXNyQsz9OS_sMS0P_McdOaALfSuuFR2DVZao9lx1vvKFJBG-1LvdF902I_rk7v7-O5DTAZh2-tnfxndA7XiuuhCq7CVjUtnGV2PP6DXWFAKu2ZSN1WX26pEcio04TLK_dpWSkmSlgDPvKm_lBddpHyI2bAX6WRshKrg8TFQ5rdmMilFJnXLXO8_vWZmBptktpDESemlxmqlE44B8F0k3OVi3PVTDBtMNog5v0kVohQVFzK_3_BDzG1HbRBBTsVU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXTPmUt7EtnlKJDJ7g3W5WuuALeMr7IU1zW4AY-4nxgewouizuBa2gJYZSnBrRQde0G0I0r8h33bAxzNKFiK_V22pZfKGfBMsyPTZEVY4tfiOCayZ-skg-evy7avOjUNVoLcXxAYWTx5JxjEk4GguKlonldqE4IqpRGvj3X7w_XqMD2LxGszhb_DJm8xWcRZtAx3yaWmYjUh_-lzo_xGxc0Gh1bsZXqWC6VkBiY5RIj-57VPdSrc7oQC5vARtkwVOycnfDicHFPdk2Yt-K4SkiYzcDybZ-CdkPHHe_RzKApj_U-eAjPIn-dISUPMSkV2ebuRTO-iT-Tc6LceZ453mrBNGNj3A",
+            "q": "Data Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXTPmUt7EtnlKJDJ7g3W5WuuALeMr7IU1zW4AY-4nxgewouizuBa2gJYZSnBrRQde0G0I0r8h33bAxzNKFiK_V22pZfKGfBMsyPTZEVY4tfiOCayZ-skg-evy7avOjUNVoLcXxAYWTx5JxjEk4GguKlonldqE4IqpRGvj3X7w_XqMD2LxGszhb_DJm8xWcRZtAx3yaWmYjUh_-lzo_xGxc0Gh1bsZXqWC6VkBiY5RIj-57VPdSrc7oQC5vARtkwVOycnfDicHFPdk2Yt-K4SkiYzcDybZ-CdkPHHe_RzKApj_U-eAjPIn-dISUPMSkV2ebuRTO-iT-Tc6LceZ453mrBNGNj3A&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXTPmUt7EtnlKJDJ7g3W5WuuALeMr7IU1zW4AY-4nxgewouizuBa2gJYZSnBrRQde0G0I0r8h33bAxzNKFiK_V22pZfKGfBMsyPTZEVY4tfiOCayZ-skg-evy7avOjUNVoLcXxAYWTx5JxjEk4GguKlonldqE4IqpRGvj3X7w_XqMD2LxGszhb_DJm8xWcRZtAx3yaWmYjUh_-lzo_xGxc0Gh1bsZXqWC6VkBiY5RIj-57VPdSrc7oQC5vARtkwVOycnfDicHFPdk2Yt-K4SkiYzcDybZ-CdkPHHe_RzKApj_U-eAjPIn-dISUPMSkV2ebuRTO-iT-Tc6LceZ453mrBNGNj3A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15imgmBcLPHX5Ef1gRu8c79EjP9jjGhUrgEp-zPmywX_JK3EruMw0up3Q89RUAlrz7xUxVwMRl9h_vyjnv_hLveoaQr5mEPzkctGJidEl_tBx78biux9VWlanoO838HOZ1AvqNOzm3mkVUH8FNv_OcrFKSJMpH856ueoxIThaSkRy9KavhZmWfRcUPafd33MLENnfKlIpRJcS8yM6koMqAJFmS8106rmJdroH4LRG4fn_wADbdynxMk2e1C1D3IXutxH2FCCexco8_R_MkePk09kZtto4cWXIkvF5smJVm4TIpPp5xhmiflyCrR9oKWV8l5sqdfco",
+            "q": "Data Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15imgmBcLPHX5Ef1gRu8c79EjP9jjGhUrgEp-zPmywX_JK3EruMw0up3Q89RUAlrz7xUxVwMRl9h_vyjnv_hLveoaQr5mEPzkctGJidEl_tBx78biux9VWlanoO838HOZ1AvqNOzm3mkVUH8FNv_OcrFKSJMpH856ueoxIThaSkRy9KavhZmWfRcUPafd33MLENnfKlIpRJcS8yM6koMqAJFmS8106rmJdroH4LRG4fn_wADbdynxMk2e1C1D3IXutxH2FCCexco8_R_MkePk09kZtto4cWXIkvF5smJVm4TIpPp5xhmiflyCrR9oKWV8l5sqdfco&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15imgmBcLPHX5Ef1gRu8c79EjP9jjGhUrgEp-zPmywX_JK3EruMw0up3Q89RUAlrz7xUxVwMRl9h_vyjnv_hLveoaQr5mEPzkctGJidEl_tBx78biux9VWlanoO838HOZ1AvqNOzm3mkVUH8FNv_OcrFKSJMpH856ueoxIThaSkRy9KavhZmWfRcUPafd33MLENnfKlIpRJcS8yM6koMqAJFmS8106rmJdroH4LRG4fn_wADbdynxMk2e1C1D3IXutxH2FCCexco8_R_MkePk09kZtto4cWXIkvF5smJVm4TIpPp5xhmiflyCrR9oKWV8l5sqdfco&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXz6ief-KfKRh2ftr8dcu1WzH5oVn9uqwnk0Lep3msBP_leXYD0shSA2TPUGBWSbI_9ADx6_40sDGrnTEs3qyczeo2UiMEtUL0P4YJZfTT0BaqeDt3yLBV3GJ1TOF7E8ILOmm2MzgiIPHWtUsByopocBerzudKwlN2NHlkgXTNRS0YiX3B2BxJPl26CN7rfc3s3XzH1f9RyeXUZS6nh1U5yLeGja0wyPtaclCn16OSyRKXehbuyhAY_wuLWzNzEFvW0nqz5Kx6xlKsonWGi8Eud-kGelaewNIrlx_n7cqKys64z0Dvp38DYmNzO8k30WqHepIx8IARW7J1cQYEuL5qN7lRDzg",
+            "q": "Data Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjEWM_ki8cwVqkrFltlagb5waZ9Ug:1793395019520&q=Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXz6ief-KfKRh2ftr8dcu1WzH5oVn9uqwnk0Lep3msBP_leXYD0shSA2TPUGBWSbI_9ADx6_40sDGrnTEs3qyczeo2UiMEtUL0P4YJZfTT0BaqeDt3yLBV3GJ1TOF7E8ILOmm2MzgiIPHWtUsByopocBerzudKwlN2NHlkgXTNRS0YiX3B2BxJPl26CN7rfc3s3XzH1f9RyeXUZS6nh1U5yLeGja0wyPtaclCn16OSyRKXehbuyhAY_wuLWzNzEFvW0nqz5Kx6xlKsonWGi8Eud-kGelaewNIrlx_n7cqKys64z0Dvp38DYmNzO8k30WqHepIx8IARW7J1cQYEuL5qN7lRDzg&udm=8&sa=X&ved=2ahUKEwjG9tGI1eKXAxUsJe8CHSaVDhAQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXz6ief-KfKRh2ftr8dcu1WzH5oVn9uqwnk0Lep3msBP_leXYD0shSA2TPUGBWSbI_9ADx6_40sDGrnTEs3qyczeo2UiMEtUL0P4YJZfTT0BaqeDt3yLBV3GJ1TOF7E8ILOmm2MzgiIPHWtUsByopocBerzudKwlN2NHlkgXTNRS0YiX3B2BxJPl26CN7rfc3s3XzH1f9RyeXUZS6nh1U5yLeGja0wyPtaclCn16OSyRKXehbuyhAY_wuLWzNzEFvW0nqz5Kx6xlKsonWGi8Eud-kGelaewNIrlx_n7cqKys64z0Dvp38DYmNzO8k30WqHepIx8IARW7J1cQYEuL5qN7lRDzg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Federal Data Engineering Co-Op: 2027",
+      "company_name": "IBM",
+      "location": "University Park, TX",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Mentored Analytical Support: Receive mentorship from diverse professionals in science engineering and consulting applying analytical rigor and statistical methods to predict behaviors",
+            "Candidates must have the ability to obtain and maintain a Federal security clearance while in IBM Consulting-Federal",
+            "Currently pursuing a quantitative degree in Computer Science, Statistics, Mathematics, Engineering, IST, or a related field",
+            "Strong Interpersonal skills that enhance collaboration and relationship building, while also managing dynamic workloads in an agile environment",
+            "Have initiative and passion to actively seek new knowledge and improve skills while embracing a growth mindset to assimilate diverse viewpoints",
+            "Demonstrate leadership experience and ability to communicate effectively through active listening; while also be willing to adapt and have a readiness to take ownership of tasks and challenges",
+            "Ability to work in-office, on-site in University Park, PA during the academic year",
+            "Ability to work up to 20 hours per week when classes are in session (e.g., fall and spring semesters) and availability to potentially work up to 40 hours per week during academic breaks (e.g., summer)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This role provides an exceptional opportunity to build a compelling portfolio, acquire new skills, gain insights into diverse industries, and embrace novel challenges for your future career",
+            "As a co-op, you'll experience this culture and have the opportunity to advance to our associate program based on results and performance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You'll be challenged, supported, and inspired, often all in the same day",
+            "You'll develop technical expertise and consulting skills in a culture built on continuous learning, mentorship, and coaching",
+            "You'll work with federal, state, and local clients while developing specialized expertise in government compliance and security standards",
+            "During your co-op experience, you can enhance your knowledge and gain professional experience by working on client projects",
+            "Data Integrations: Develop skills in writing efficient and reusable programs to cleanse integrate and model data",
+            "Evaluate model results contributing to data-driven insights",
+            "Effective Communication: Assist in conveying analytical results to both technical and non-technical audiences, refining your ability to communicate complex findings",
+            "Tech-Driven Data Transformation: Utilize program languages like Python to build data pipelines, extracting and transforming data from repositories to consumers",
+            "Gain exposure to cloud platforms, ETL tools, and data integration, expanding your tech toolkit"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=g6HIlnxF4us9jcTTAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEzQqCQBAAYLr6CJ7mHOmKEIHe-qUg6lDQTUYb1q1tRnaWsBfpeaPv8CXfSVJv6U4BPawxImzYOiYKji2sJDsNFZRFuYAMDtKCEoauB2HYiVhPad3HOGhljKrPrUaMrss7eRlhamU0D2n1X6M9Bho8RmrKeTHmA9tpul8ewTFc2b0pqIsfOGN4zuBy-wEQPYWCmQAAAA&shmds=v1_Ac3VAoyvgItMk935z6ZmmVMBXyt-_5gFpUtg1eQenJYxLzyoCA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=g6HIlnxF4us9jcTTAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5094abb4143e7dfed0e92/images/Q7Q7RlQ0w72VTq6Ua0_qhaBmE-tLYLLVhud5b20Egss.jpeg",
+      "extensions": [
+        "4 hours ago",
+        "46,620–85,470 a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/federal-data-engineering-co-op-2027-at-ibm-4483477466",
+      "job_title": "Federal Data Engineering Co-Op: 2027",
+      "description": "Introduction\n\nLaunch your career like an IBMer\n\nEvery IBMer has a story. For many, it started with an internship.\n\nAs an IBM co-op, you won't just gain experience - you'll start thinking, working, and growing like an IBMer. From day one, you'll contribute to real client projects across diverse industries, working alongside experienced IBMers who are invested in your success. You'll be challenged, supported, and inspired, often all in the same day. You'll develop technical expertise and consulting skills in a culture built on continuous learning, mentorship, and coaching. High-performing interns have a clear pathway into IBM's Associate Program, launching careers at one of the world's most innovative technology and consulting companies.\n\nAbout The Team\n\nIn this role, you will join IBM's US Federal team to deliver secure, mission-critical technology solutions for government agencies. You'll work with federal, state, and local clients while developing specialized expertise in government compliance and security standards. This role offers unique career growth in a high-demand sector where your contributions directly impact public services and government missions.\n\nYour Role And Responsibilities\n\nDuring your co-op experience, you can enhance your knowledge and gain professional experience by working on client projects. This role provides an exceptional opportunity to build a compelling portfolio, acquire new skills, gain insights into diverse industries, and embrace novel challenges for your future career.\n\nAt IBM, we prioritize continuous learning, skill development, and personal growth within a culture of coaching and mentorship. As a co-op, you'll experience this culture and have the opportunity to advance to our associate program based on results and performance.\n\nWork Experiences You Could Be Exposed To\n\nMentored Analytical Support: Receive mentorship from diverse professionals in science engineering and consulting applying analytical rigor and statistical methods to predict behaviors.Data Integrations: Develop skills in writing efficient and reusable programs to cleanse integrate and model data. Evaluate model results contributing to data-driven insights.Effective Communication: Assist in conveying analytical results to both technical and non-technical audiences, refining your ability to communicate complex findings.Tech-Driven Data Transformation: Utilize program languages like Python to build data pipelines, extracting and transforming data from repositories to consumers. Gain exposure to cloud platforms, ETL tools, and data integration, expanding your tech toolkit.\n\nThe primary internship program dates are May 24, 2027 and end May 26, 2028. This role requires candidates to work in University Park, PA.\n\nCandidates must have the ability to obtain and maintain a Federal security clearance while in IBM Consulting-Federal.\n\nTo give yourself the best opportunity for success, we advise applying only to roles that align with your skills and experience, rather than applying broadly across all entry-level positions. You’ll receive a status update email for each application, so be sure to check your IBM Careers account regularly — it’s the best way to get a centralized view of which roles you have active applications against.\n\nRequired Technical And Professional Expertise\n\nCurrently pursuing a quantitative degree in Computer Science, Statistics, Mathematics, Engineering, IST, or a related field.Strong Interpersonal skills that enhance collaboration and relationship building, while also managing dynamic workloads in an agile environment.Have initiative and passion to actively seek new knowledge and improve skills while embracing a growth mindset to assimilate diverse viewpoints.Demonstrate leadership experience and ability to communicate effectively through active listening; while also be willing to adapt and have a readiness to take ownership of tasks and challenges.Familiarity with one or more scripting languages (Python preferred), or a proven computer science foundation.Ability to work in-office, on-site in University Park, PA during the academic year.Ability to work up to 20 hours per week when classes are in session (e.g., fall and spring semesters) and availability to potentially work up to 40 hours per week during academic breaks (e.g., summer).\n\nPreferred Technical And Professional Experience\n\nDemonstrate familiarity or interest in statistical analysis or data mining through previous internships, personal/academic projects, hackathons, and/or publications.General familiarity with databases, data-engineering tools (SQL, spark) and cloud platforms (e.g., IBM Cloud, Azure, AWS). Experience with NLP/LLM/GenAI is a plus.Experience using machine-learning/data science libraries in python (scikit-learn, SciPy, pandas, PyTorch) is a plus.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/federal-data-engineering-co-op-2027-at-ibm-4483477466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/federal-data-engineering-co-op-2027-ibm-university-park-tx--t7xk-809258893?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGZWRlcmFsIERhdGEgRW5naW5lZXJpbmcgQ28tT3A6IDIwMjciLCJjb21wYW55X25hbWUiOiJJQk0iLCJodGlkb2NpZCI6Imc2SElsbnhGNHVzOWpjVFRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa1F3TmxSbk0wdHJUVFZHTlVOS2QzUXpVMHQ0UlZsNFdVRlhNRUZ0ZW05RVIwUkxiMWh2U1d4SWMwbFljVWxMZHpGZlJuZDNaMHBuYW5vemFqTTFiblkzV1dkUVNrTXpOVGcyTVVjME0xcFVjVVpXTW05WFpFNTBOV2wxYkd4MGRuYzFOM0pqT1UxVVpuWnlZbVpUVVdac05HNVRhaTAzUTIxamJGOUZkMGxTYlVKNFNHa1NGMU4zYm14aGIyRnNTRFo2UzNaTlkxQndjWEUyWjBGRkdpSkJTRTR3UlRkSVJEUm9UbXhWVTBsaVZ6Qkhla2hmVkRocFF6ZDVRVEV5Vkd0UiIsImZjdiI6IjMiLCJmY19pZCI6Imc2SElsbnhGNHVzOWpjVFRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI & Data Engineer - Manufacturing Quality",
+      "company_name": "Ingenics Corporation",
+      "location": "Vance, AL",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience in data engineering, data analytics, AI development, or a related technical field, preferably within a manufacturing environment",
+            "Strong programming skills in Python and SQL, with experience in Power BI and/or Microsoft Fabric",
+            "Hands-on experience developing AI agents, automated workflows, or AI-powered applications",
+            "Familiarity with large language models (LLMs), prompt engineering, Retrieval-Augmented Generation (RAG), and API integrations",
+            "Knowledge of machine learning, statistical analysis, anomaly detection, and data visualization",
+            "Understanding of manufacturing processes, quality management systems, and continuous improvement methodologies",
+            "Familiarity with quality tools and methodologies such as Root Cause Analysis (RCA), Pareto analysis, Statistical Process Control (SPC), and quality KPIs",
+            "Strong analytical and problem-solving skills with the ability to translate complex data into meaningful business and engineering insights",
+            "Excellent communication and collaboration skills, with the ability to work effectively across technical and operational teams",
+            "Diverse and challenging project opportunities",
+            "Regular performance and development conversations",
+            "Skills competency and professional development programs",
+            "Knowledge sharing with global experts"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Advance Financially",
+            "Competitive compensation",
+            "Annual bonus opportunities",
+            "3-2-1 Commission Won employee referral incentive",
+            "Regular salary review periods",
+            "401(k) with company match",
+            "Employer contributions toward healthcare",
+            "Financial education resources",
+            "Experience Overall Wellbeing",
+            "Paid time off and company holidays",
+            "Comp Time Program",
+            "Flexible and remote work options (role dependent)",
+            "Employee Assistance Program (EAP)",
+            "Medical, dental, vision, life, and disability insurance",
+            "Team events and employee celebrations",
+            "Community involvement and volunteer opportunities",
+            "Work with Fortune 500 clients",
+            "Mentorship and coaching opportunities",
+            "International collaboration across the Ingenics Group",
+            "Global mobility opportunities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will combine data engineering, artificial intelligence, and manufacturing expertise to identify quality trends, uncover root causes, improve operational performance, and support faster, data-driven decision-making",
+            "You will work closely with cross-functional teams to develop innovative, scalable digital solutions that enhance quality management and drive continuous improvement in a manufacturing environment",
+            "Analyze large manufacturing and quality datasets to identify defect trends, correlations, anomalies, and root causes",
+            "Develop interactive dashboards, automated reports, and analytics solutions using Python, SQL, Power BI, and Microsoft Fabric",
+            "Design, develop, and deploy AI agents to analyze quality data, answer technical questions, generate reports, and support engineering decisions",
+            "Integrate AI solutions with manufacturing databases, quality management systems, and enterprise data sources",
+            "Automate quality monitoring, defect analysis, root-cause investigations, and early-warning detection",
+            "Apply machine learning, statistical methods, and predictive analytics to identify patterns and improvement opportunities",
+            "Collaborate with Quality, Production, Engineering, and IT teams to translate business challenges into practical AI and data solutions",
+            "Validate AI-generated insights to ensure accuracy, reliability, and traceability",
+            "Develop reusable AI agents and analytics tools that can be scaled across manufacturing operations",
+            "Join a team shaping the future of manufacturing through projects in areas including:"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=gq176LTYVptj8BWBAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nOJ2Lg2gjgotORUUqOri4lms400i8C7kU6vf4o9blDQ_eK76ToqpqmMMRM8KJnWeiBCu4IfdPtLlPnh3ceww-f0Z_kRaUMNkOhOEs4gJN913OUXfGqIbSacbsbWnlbYSplcG8pNU_Gu0wUQyYqdls10MZ2S1mNTtibxUOkqKkMR7PnuGBbGkJ1fUH5DcP5aYAAAA&shmds=v1_Ac3VAozI20PBSAXoQedxYQoapwBIabXlIMdLOe9oSVlwktu0HQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=gq176LTYVptj8BWBAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAAk1BMVEX___8AT54ARZqYr84Aq-rt9fwAOZEAruqpus1JdrHF1eOkuNNHc6ycsc7s8vXz9_jC5_LY8feFz-wAquOt3_AqsuRtyOxVv-gApuY8uObP8frk9_rt_v_h5-y6x9hVfK4AIIY3aqZzkboAQZmQp8jS3eiHoscALZJhhrgtYqNqjLp6lbgAMpIAPpEXVZyzwdePp789eaiUAAABXUlEQVQ4je2SaXODIBBAF0yMBcGmSRt7iI2yeIv__9cV7TFmJpmkfutM3zDI7PJcLoC_yv0ia_uw2y3Q9o_xavW0QDysNpt4u0yM9ws8OMTPL0s8eH0DGQEk7Gz2QnhCpe9rgCA8mxTHCxZmXU799fhraZWWkGhlE7AGgTHBAZWLCHCBk9JIckoIGcXgiEUZVuCXdcFMxX1sWkM9UUVFFqaiYi3ORJsT8i3eYQ6MYAvQsb4OKtOUkNU8tGSaqNW8oqWnoppEn_XGctbUUH-JEaCgfC62dKT4XGoLKgdapi0zofKVq1jX4hgVIq2GCntvvkftjWh3HWgTD1xba0YZ8MaCck2hO5_G5UUjLt_LRNdkXXRlzlmk4PJ3BoJ0LyhyuE6iHAd4XQPBMTNW84YL5INMGe9NoO11USPTQ2A8XnMVmGhIeNbzoLyhpAV060vcq3aniYkbJe57g_jPDx9R6SGeAgS32QAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=1b111974749ddfd3",
+      "job_title": "AI & Data Engineer - Manufacturing Quality",
+      "description": "About the Opportunity:\n \n We are seeking an experienced AI & Data Engineer – Manufacturing Quality to help transform manufacturing and quality data into actionable insights through advanced analytics, AI agents, and automated workflows. In this role, you will combine data engineering, artificial intelligence, and manufacturing expertise to identify quality trends, uncover root causes, improve operational performance, and support faster, data-driven decision-making.\n\n\n You will work closely with cross-functional teams to develop innovative, scalable digital solutions that enhance quality management and drive continuous improvement in a manufacturing environment.\n\n\n \n\n \n \n   What You'll Do:\n \n \n  \n   Analyze large manufacturing and quality datasets to identify defect trends, correlations, anomalies, and root causes.\n\n\n  \n   Develop interactive dashboards, automated reports, and analytics solutions using Python, SQL, Power BI, and Microsoft Fabric.\n\n\n  \n   Design, develop, and deploy AI agents to analyze quality data, answer technical questions, generate reports, and support engineering decisions.\n\n\n  \n   Integrate AI solutions with manufacturing databases, quality management systems, and enterprise data sources.\n\n\n  \n   Automate quality monitoring, defect analysis, root-cause investigations, and early-warning detection.\n\n\n  \n   Apply machine learning, statistical methods, and predictive analytics to identify patterns and improvement opportunities.\n\n\n  \n   Collaborate with Quality, Production, Engineering, and IT teams to translate business challenges into practical AI and data solutions.\n\n\n  \n   Validate AI-generated insights to ensure accuracy, reliability, and traceability.\n\n\n  \n   Develop reusable AI agents and analytics tools that can be scaled across manufacturing operations.\n\n\n \n \n\n \n What We're Looking For:\n\n\n \n  \n   Experience in data engineering, data analytics, AI development, or a related technical field, preferably within a manufacturing environment.\n\n\n  \n   Strong programming skills in Python and SQL, with experience in Power BI and/or Microsoft Fabric.\n\n\n  \n   Hands-on experience developing AI agents, automated workflows, or AI-powered applications.\n\n\n  \n   Familiarity with large language models (LLMs), prompt engineering, Retrieval-Augmented Generation (RAG), and API integrations.\n\n\n  \n   Experience with Microsoft Copilot Studio, Azure AI, or similar AI development platforms is a plus.\n\n\n  \n   Knowledge of machine learning, statistical analysis, anomaly detection, and data visualization.\n\n\n  \n   Understanding of manufacturing processes, quality management systems, and continuous improvement methodologies.\n\n\n  \n   Familiarity with quality tools and methodologies such as Root Cause Analysis (RCA), Pareto analysis, Statistical Process Control (SPC), and quality KPIs.\n\n\n  \n   Strong analytical and problem-solving skills with the ability to translate complex data into meaningful business and engineering insights.\n\n\n  \n   Excellent communication and collaboration skills, with the ability to work effectively across technical and operational teams.\n\n\n \n \n\n\n \n\n    What We Offer\n\n\n At Ingenics, we believe great careers are built on meaningful work, continuous growth, and a supportive environment. Here's what you can expect as part of our team:\n\n\n \n\n \n\n\n  Advance Financially\n\n\n \n  Competitive compensation\n  Annual bonus opportunities\n  3-2-1 Commission Won employee referral incentive\n  Regular salary review periods\n  401(k) with company match\n  Employer contributions toward healthcare\n  Financial education resources\n \n \n\n \n\n\n  Experience Overall Wellbeing\n\n\n \n  Paid time off and company holidays\n  Comp Time Program\n  Flexible and remote work options (role dependent)\n  Employee Assistance Program (EAP)\n  Medical, dental, vision, life, and disability insurance\n  Team events and employee celebrations\n  Community involvement and volunteer opportunities\n \n \n\n \n\n\n  Grow Professionally\n\n\n \n  Work with Fortune 500 clients\n  Diverse and challenging project opportunities\n  Regular performance and development conversations\n  Mentorship and coaching opportunities\n  International collaboration across the Ingenics Group\n  Skills competency and professional development programs\n  Knowledge sharing with global experts\n  Global mobility opportunities\n \n \n\n \n\n\n  Make an Impact\n\n\n Join a team shaping the future of manufacturing through projects in areas including:\n\n\n \n  Digital Transformation\n  Factory Design & Simulation\n  Intralogistics\n  Manufacturing Excellence\n  Operational Excellence\n  Production Technology & Automation\n  Project Management\n  Quality & Supplier Management\n  Supply Chain Management",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=1b111974749ddfd3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/ai-data-engineer-manufacturing-quality--vance--e6f01224100cc55fccb5fb118b6b63bf1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010310056065&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-data-engineer-manufacturing-quality-at-ingenics-corporation-usa-4483178056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/0rjz9OGXS-sQCPVc25dnQBnebJxJIUrfpFRr1BI2C0ntpbTyrkrgrQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-data-engineer-manufacturing-quality-ingenics-corporation-usa-vance-al--t7xk-902319455?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBcdTAwMjYgRGF0YSBFbmdpbmVlciAtIE1hbnVmYWN0dXJpbmcgUXVhbGl0eSIsImNvbXBhbnlfbmFtZSI6IkluZ2VuaWNzIENvcnBvcmF0aW9uIiwiaHRpZG9jaWQiOiJncTE3NkxUWVZwdGo4QldCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW5nMlowdzNOM2wyUkVOMWVYRnJNM1IwYkV4SGR6Y3RkbFIyTjFablNscEhkbGt4YWxodWFFYzVXRE5HWm01RmFIWjFXVTl1YzFKWE1rTjVPRGRNY1RNM1ZrVjVibXd5VkhWcVRsTlZlbVkwUVVGaE1XZDNWekpuVjA5SVpFRXpUVEY2UmpkRVNFeDNkMlY2YkRSUVpsVk1RV1pYVG1aUVJHVnBSM0kyZHpCT2FVNDJVVVFTRjFOM2JteGhiMkZzU0RaNlMzWk5ZMUJ3Y1hFMlowRkZHaUpCU0U0d1JUZEdNVVI1VGsxblYwSkZlR2RZTjNsTWFFTllOMHh3T0VWYWRtOTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJncTE3NkxUWVZwdGo4QldCQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Engineer 4",
+      "company_name": "Capital One",
+      "location": "Chicago, IL",
+      "via": "Capital One Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering)",
+            "At least 4 years of experience in application development (Internship experience does not apply)",
+            "At least 2 years of experience in distributed data",
+            "At least 2 years of experience with SQL",
+            "At least 2 years of experience with one programming language (Python, Java, or Scala)",
+            "At least 2 years of experience in data pipeline design and development",
+            "At least 1 year of experience in data modeling and designing end-to-end data solutions using both relational and non-relational database systems",
+            "At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.g. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-3, and O-1, or any other forms of work authorization that require immigration support from an employer)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "Chicago, IL: $179,400 - $204,700 for Data Engineer 4",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you’ll be at the forefront of driving a major transformation across Capital One",
+            "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+            "Influence a team of developers, data analysts and data scientists with deep experience in machine learning, distributed microservices, lakehouse architecture, and full-stack systems",
+            "Utilize programming languages such as Python and Spark, along with open-source relational and NoSQL databases, and cloud-based data warehousing platforms including Databricks and Snowflake",
+            "Share your passion for staying on top of trends in data, experimenting with and learning new technologies, participating in internal and external technology communities, and mentoring other members of the data community",
+            "Collaborate with product managers and software engineers to deliver robust cloud-first data solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+            "Independently design, build and deliver world-class cloud data solutions and applications with little or no support from supervisors or managers",
+            "Architect and enforce common data engineering design patterns to ensure code quality, maintainability, and reusability across data platforms and pipelines",
+            "Serve as an ambassador for the data engineering team, communicating technical concepts and data outcomes clearly to both internal and external stakeholders to drive alignment and shared understanding",
+            "Design and build data pipelines and platforms with a focus on scalability, resilience, and operational efficiency, ensuring robust performance under increasing data volume and business demands",
+            "Implement data security standards, including encryption at rest/transit and fine-grained access control, ensuring compliance with data privacy regulations"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=W79t7wevhygHPUsrAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uchBNRHTRsYoogp9QruFIUuJdyN3Q1T8X3_C676pbX9EQbhwzEzU4wg6eMoEStpBAGO4isVB_SWZVz96rFhfV0HJwQT5emCZZ_CyT_hs1YaNa0Gg8nPaLqxw3_YA1GxZ4M0FmGFIOGGULj9cPhF18KIQAAAA&shmds=v1_Ac3VAox4EDjvfgiYj9s0tdXbjprdsQzIklE61yBVOKQUWX3XDw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=W79t7wevhygHPUsrAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAulBMVEX____QMCeBl60APHIARnQAOm_6___MAADPLSPOJxzWfnqUpriltMMANm2Hm7AAOGzW3eBsh6Hr5uXkz83kurjiqKbgl5TQZF7JSULIGwjMNi3MWVPbiYbiravy8fDjyMbmpKLplZPZb2rEAADOPTXUFADOIRXPravQop_hv77o3dzRVE7URT7PSEFhf5vN1N2xv8kALWgXVHw3ZYgAHWJIb5KvydcsXYW_y9MARnoAEGBRdpT77usAKWsSXyrgAAABtElEQVRIie2TbXeaMBSALxCkmhcSKbW4Le1WcRVbCSAlLPP__60FnD21053Zr-M5HA653Ce5uQGAgYGBgbOMptF1fDOZ3TpJEATJ_NPnL9O_G_Lu_uu3-UPizBcL5yFI0-WVY7kaL9NFdkaJVt8f7-NVJkdvg_E67VUrByekaRadLSV7-m2O_2WTbxklvZdeXyrCpFtyObnYg-duvQ94Ueo4QXwYSeJu3Pw4g2B7OzSJu91IcaJvluMkOuTgoijdCh-LDAPeHmKECpC1fRAv69nrCSnqkf5tWRSIyIaxsuJ5zdwWUWLaglaShQSQ7JK2r1UCNKjZ1wOg_Ur7jSReTSgD6skuuAlV5Wld90k7XYJqJWBbQIvQfh9NZXxMqILcN3YN6VFQGySQJ-0UbF_2DxAaaqjAXrrwkCtUSJWsQ5tZElTkjc9VaPQuBB1SSQtw--3oigsAoxjvhpyZquZaCIIFb1ti7KQbAVoosN22cS7YT2U6EXHMQRN7A3ncTLnbwgniNRgC0uRQAriYGE7eizn_U8tm3dHZU9x3k3PI1anp3_N4-RfdEa0-pMGZX31gYOA_5xf6NykxV_fD-gAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "25 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.capitalonecareers.com/job/chicago/data-engineer-4/1732/101629589360",
+      "job_title": "Data Engineer 4",
+      "description": "Data Engineer 4\n\n\n\n\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors who solve real problems and meet real customer needs. We are seeking Data Engineers who are passionate about marrying data with emerging technologies. In this role, you’ll be at the forefront of driving a major transformation across Capital One.\n\n\nWhat You’ll Do:\n\nCollaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologiesInfluence a team of developers, data analysts and data scientists with deep experience in machine learning, distributed microservices, lakehouse architecture, and full-stack systemsUtilize programming languages such as Python and Spark, along with open-source relational and NoSQL databases, and cloud-based data warehousing platforms including Databricks and SnowflakeShare your passion for staying on top of trends in data, experimenting with and learning new technologies, participating in internal and external technology communities, and mentoring other members of the data communityCollaborate with product managers and software engineers to deliver robust cloud-first data solutions that drive powerful experiences to help millions of Americans achieve financial empowermentIndependently design, build and deliver world-class cloud data solutions and applications with little or no support from supervisors or managersArchitect and enforce common data engineering design patterns to ensure code quality, maintainability, and reusability across data platforms and pipelinesServe as an ambassador for the data engineering team, communicating technical concepts and data outcomes clearly to both internal and external stakeholders to drive alignment and shared understandingDesign and build data pipelines and platforms with a focus on scalability, resilience, and operational efficiency, ensuring robust performance under increasing data volume and business demandsImplement data security standards, including encryption at rest/transit and fine-grained access control, ensuring compliance with data privacy regulations\nBasic Qualifications: \n\nBachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering)At least 4 years of experience in application development (Internship experience does not apply)At least 2 years of experience in distributed dataAt least 2 years of experience with SQLAt least 2 years of experience with one programming language (Python, Java, or Scala)At least 2 years of experience in data pipeline design and developmentAt least 1 year of experience in data modeling and designing end-to-end data solutions using both relational and non-relational database systems\nPreferred Qualifications:\n\n7+ years of experience in application development with demonstrated proficiency in Python, SQL, Scala, or Java4+ years of hands-on experience designing, deploying and operating data workloads in at least one public cloud environment (AWS, Microsoft Azure, or Google Cloud)4+ years of experience building or supporting distributed data or compute workloads using tools such as EMR, Spark, Glue, or Databricks4+ years of experience designing, implementing, and operating real-time or streaming data pipelines2+ years of experience working on data observability (e.g., Monte Carlo, Splunk) or data orchestration tools (e.g., Airflow, Dagster)4+ years of experience working with unstructured or semistructured data using NoSQL databases (e.g., MongoDB, Cassandra, DynamoDB)4+ years of experience designing and supporting data warehousing solutions (e.g., Snowflake, Redshift)2+ years of experience working in an Agile development environment2+ years of experience developing user-centric reusable data products\nAt this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.g. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-3, and O-1, or any other forms of work authorization that require immigration support from an employer).\n\n\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n\n\nChicago, IL: $179,400 - $204,700 for Data Engineer 4\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\n\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\n\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\n\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\n\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\n\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\n\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\n\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "apply_options": [
+        {
+          "title": "Capital One Careers",
+          "link": "https://www.capitalonecareers.com/job/chicago/data-engineer-4/1732/101629589360?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In Chicago",
+          "link": "https://www.builtinchicago.org/job/data-engineer-4/11387665?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=6438ee405fccd9e0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-policy-engineer-at-vizient-4473343805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/data-policy-engineer/11481542?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/data-engineer-4-capitalonefinancialcorporation-chicago-il_89113630?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/8bfd05f9-8cf4-4a50-9b6b-148a7714ca23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/jump-trading/Job/Derived-Data-Engineer/-in-Chicago,IL?jid=c0edf0625a932559&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIDQiLCJjb21wYW55X25hbWUiOiJDYXBpdGFsIE9uZSIsImh0aWRvY2lkIjoiVzc5dDd3ZXZoeWdIUFVzckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlUaHBTbTFJYlRGeVRURTVka1JKV2xWTlEzbExabDlTVGpoWGNVTXRhMWRzTTAxeExWUXRkM3BUT1MxeWQzRnFRaTFIVHkxZmVXSlROV2swYzNKb09WSmhZVVV6VUMxNlVsZHpaRlpEUVRkSVFraHdlbXBmTlhsZk5IaGxURkZNYVVKeGRUQk1Va0pMVUU5emNra3laMlptWDIxMU9YQlpOWEJuYzBONFIyZExTVXhpVTFrU0YxTjNibXhoYjJGc1NEWjZTM1pOWTFCd2NYRTJaMEZGR2lKQlNFNHdSVGRIUzJjdFpYb3dhSEJDUzIxZmRIQmhObDg0ZFc1VlFscE5RVXRSIiwiZmN2IjoiMyIsImZjX2lkIjoiVzc5dDd3ZXZoeWdIUFVzckFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer II",
+      "company_name": "Textron",
+      "location": "Providence, RI",
+      "via": "Textron",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s or Master’s degree in Computer Science, Information Systems, Engineering, or a related field",
+            "3 years of experience in data engineering, data architecture, or related roles",
+            "Proficiency in designing, building, and maintaining scalable ETL pipelines and data integration solutions",
+            "Strong programming skills in Python, Java, Scala, or similar languages",
+            "Solid experience with SQL and working knowledge of relational, NoSQL, and cloud-based databases (e.g., PostgreSQL, MongoDB, Snowflake, BigQuery, or similar)",
+            "Hands-on experience with data pipeline orchestration tools (such as Databricks, Airflow, Synapse, or similar workflow management platforms)",
+            "Familiarity with cloud data platforms (AWS, Azure, or Google Cloud Platform) and associated data services",
+            "Strong understanding of data modeling, warehousing concepts, and performance optimization techniques",
+            "Familiarity with Git, Azure DevOps or other Version Control tools in a CI/CD Data Platform",
+            "Experience working with data validation, quality assurance, and testing frameworks",
+            "Ability to collaborate effectively within cross-functional and Agile teams",
+            "Excellent problem-solving skills, attention to detail, and a commitment to continuous learning and professional growth",
+            "Ability to absorb new technology in short time frames",
+            "Strong written and verbal communication skills",
+            "Ability to work in a fast-paced environment that has competing and alternating priorities",
+            "Applicants must be authorized to work in the United States without the need for current or future employer sponsorship",
+            "Candidates should be comfortable learning and applying these tools, evaluating AI-generated output with sound judgment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our on-site fitness center makes it easy to stay active, whether you prefer one-on-one personal training, group classes, or working out alongside your teammates",
+            "We also offer a generous time-off package and a culture that truly values engagement",
+            "Our team is a vibrant mix of experience levels and backgrounds, creating a supportive environment where mentorship and knowledge-sharing are part of everyday life",
+            "Competitive total rewards package",
+            "Industry-leading 401(k) matching",
+            "Generous tuition reimbursement",
+            "Comprehensive health, dental, and more"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Engineer II, you will play a key role in architecting, developing, and optimizing robust data infrastructure that empowers the organization’s data-driven initiatives",
+            "You will leverage your experience to lead complex data engineering projects, mentor junior team members, and drive continuous improvement of our data systems",
+            "In this role, you will collaborate with cross-functional teams including data scientists, analysts, and business stakeholders to ensure the delivery of high-quality, well-governed data assets that support strategic decision-making",
+            "Design, architect, and maintain scalable and resilient data pipelines for data ingestion, transformation, and delivery across multiple systems and platforms",
+            "Optimize existing data workflows for performance, reliability, and cost-effectiveness",
+            "Partner with stakeholders to gather requirements, analyze data needs, and translate business problems into effective data engineering solutions",
+            "Develop, implement, and enhance data validation, quality, and testing frameworks to ensure data accuracy, integrity, and consistency",
+            "Oversee the deployment and maintenance of data integration solutions, including ETL/ELT processes, real-time streaming, and batch processing",
+            "Contribute to the design and implementation of data models, storage solutions, and metadata management strategies",
+            "Ensure that all data systems comply with industry best practices, security guidelines, and regulatory standards",
+            "Mentor and provide technical guidance to Data Engineer I team members; promote knowledge sharing and best practices within the team",
+            "Troubleshoot complex data issues, identify root causes, and implement sustainable solutions",
+            "Stay current with emerging technologies, tools, and trends in data engineering, recommending and adopting new approaches as appropriate",
+            "Recommend ways to improve data reliability, efficiency and quality",
+            "Maintain proper version control for Engineering objects in DevOps environments",
+            "AI Readiness: Textron expects employees to use AI-enabled tools responsibly and effectively"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=ObG7bB1kBPYtO1lWAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BzrdJog2IrjYVZE4ibiXazySSL0LuUO6-ufq8sbXfGbN8oiGcOKYmaiC97CBiwyghDUkEIazSBxp0SWzogfnVMc2qqHl0AZ5OWEaZHJPGfRPrwkrlRGN-t1-O7WF42p-p8nqL8sM1yrv_CAOtIab_wIIb3AzhAAAAA&shmds=v1_Ac3VAoxxftNSD3cKtif3fBcjd9vzpFz9Ngh9b7W1VM-aziwhlw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=ObG7bB1kBPYtO1lWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAB8AOAMBEQACEQEDEQH_xAAaAAEBAAIDAAAAAAAAAAAAAAAABAMGAgUH_8QALhAAAQMDAgMFCQEAAAAAAAAAAQIDBAAFERIhBjFBExQiUZEVFiQyM0JhcaEH_8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBBAP_xAAiEQACAQMEAwEBAAAAAAAAAAAAAQIDETEEEiFRE0Hh8KH_2gAMAwEAAhEDEQA_APcaAUAoBQCgFAKAUB0t_u8y2Src1GhsvomSAxqcfKChRBPIJORhJ_letOnGak28HlUm4tJLJrjP-gyFW6NOctTSG5L5jtJMkp8f2klSANPPKhnG1dD0i3OKljn9yeC1T2qTWeCqbxhcocmXHctUVS48puNlMxWFFaCsH6ecYHrUx08Gk92VfH0p15JtW92z8OLfHineyeTbkCN8Ol0mUO0C3khSdKceJI1DJyOu21HpbcX559dBan3br-lvB_F3vK8813FUVTMdp1QUvJyvOw2G2ACD11VNfT-JXvfJVGuqt1axtFcx0CgMT0dh9TSn2W3C0vW2VpB0KxjI8jud_wA1qbWDGk8kTfD9laC0tWi3oC0lKgmKgageYO3I4Gf1VurUeZMlU4LCRn9mQNevuMbXrS5q7JOdaRhKuXMDYHoKnfLs3ZHoxIsdobebfbtcJLrQIbWmOkFIOScHG3M-p863yzatdmeOF72KI0GHFUFRYrDJDaWgW2wnwJ-VO3QZOB0rHKTyykksFFSaKAUAoBQCgFAKA__Z.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://careers.textron.com/providence-ri/data-engineer-ii/582BA6C0CC6F44568328E6F39B4A88CC/job/",
+      "job_title": "Data Engineer II",
+      "description": "Data Engineer II\n\n\n\nDescription\n\n\n\nTextron is a renowned global multi-industry company with a diverse portfolio spanning aerospace and defense, specialized vehicles, turf care, and fuel systems. Our brand lineup includes leading names like Bell, Cessna, Beechcraft, E-Z-GO, Lycoming Engines and many others. With a strong worldwide presence and a workforce of 34,000 individuals across 25 countries, we prioritize attracting top talent.\n\n\n\nJob Summary:\n\n\n\nAs a Data Engineer II, you will play a key role in architecting, developing, and optimizing robust data infrastructure that empowers the organization’s data-driven initiatives. You will leverage your experience to lead complex data engineering projects, mentor junior team members, and drive continuous improvement of our data systems. In this role, you will collaborate with cross-functional teams including data scientists, analysts, and business stakeholders to ensure the delivery of high-quality, well-governed data assets that support strategic decision-making.\n\n\n\nJob Responsibilities:\n\n\n\n\nDesign, architect, and maintain scalable and resilient data pipelines for data ingestion, transformation, and delivery across multiple systems and platforms.\n\n\n\nOptimize existing data workflows for performance, reliability, and cost-effectiveness.\n\n\n\nPartner with stakeholders to gather requirements, analyze data needs, and translate business problems into effective data engineering solutions.\n\n\n\nDevelop, implement, and enhance data validation, quality, and testing frameworks to ensure data accuracy, integrity, and consistency.\n\n\n\nOversee the deployment and maintenance of data integration solutions, including ETL/ELT processes, real-time streaming, and batch processing.\n\n\n\nContribute to the design and implementation of data models, storage solutions, and metadata management strategies.\n\n\n\nEnsure that all data systems comply with industry best practices, security guidelines, and regulatory standards.\n\n\n\nMentor and provide technical guidance to Data Engineer I team members; promote knowledge sharing and best practices within the team.\n\n\n\nTroubleshoot complex data issues, identify root causes, and implement sustainable solutions.\n\n\n\nStay current with emerging technologies, tools, and trends in data engineering, recommending and adopting new approaches as appropriate.\n\n\n\nRecommend ways to improve data reliability, efficiency and quality.\n\n\n\nMaintain proper version control for Engineering objects in DevOps environments.\n\n\n\n\nQualifications\n\n\n\nQualifications:\n\n\n\n\nBachelor’s or Master’s degree in Computer Science, Information Systems, Engineering, or a related field.\n\n\n\n3 years of experience in data engineering, data architecture, or related roles.\n\n\n\nProficiency in designing, building, and maintaining scalable ETL pipelines and data integration solutions.\n\n\n\nStrong programming skills in Python, Java, Scala, or similar languages.\n\n\n\nSolid experience with SQL and working knowledge of relational, NoSQL, and cloud-based databases (e.g., PostgreSQL, MongoDB, Snowflake, BigQuery, or similar).\n\n\n\nHands-on experience with data pipeline orchestration tools (such as Databricks, Airflow, Synapse, or similar workflow management platforms).\n\n\n\nFamiliarity with cloud data platforms (AWS, Azure, or Google Cloud Platform) and associated data services.\n\n\n\nStrong understanding of data modeling, warehousing concepts, and performance optimization techniques.\n\n\n\nFamiliarity with Git, Azure DevOps or other Version Control tools in a CI/CD Data Platform.\n\n\n\nExperience working with data validation, quality assurance, and testing frameworks.\n\n\n\nAbility to collaborate effectively within cross-functional and Agile teams.\n\n\n\nExcellent problem-solving skills, attention to detail, and a commitment to continuous learning and professional growth.\n\n\n\nAbility to absorb new technology in short time frames.\n\n\n\nStrong written and verbal communication skills\n\n\n\nAbility to work in a fast-paced environment that has competing and alternating priorities.\n\n\n\nApplicants must be authorized to work in the United States without the need for current or future employer sponsorship. Sponsorship is not available for this position.\n\n\n\n\nAt Textron, we believe that thriving at work starts with balance.\n\n\n\nThat’s why we offer more than just a job—we provide a workplace where your well-being matters. Our on-site fitness center makes it easy to stay active, whether you prefer one-on-one personal training, group classes, or working out alongside your teammates.\n\n\n\nWe also offer a generous time-off package and a culture that truly values engagement. From Employee Resource Groups to fun workplace activities, there are plenty of ways to connect, grow, and make your experience here meaningful—and enjoyable.\n\n\n\nOur team is a vibrant mix of experience levels and backgrounds, creating a supportive environment where mentorship and knowledge-sharing are part of everyday life.\n\n\n\nAnd when it comes to rewards, we’ve got you covered:\n\n\n\n\nCompetitive total rewards package\n\n\n\nIndustry-leading 401(k) matching\n\n\n\nGenerous tuition reimbursement\n\n\n\nComprehensive health, dental, and more\n\n\n\n\nJoin Textron and be part of a team that’s driving innovation, creativity, and collaboration—while having fun along the way!\n\n\n\nAI Readiness: Textron expects employees to use AI-enabled tools responsibly and effectively. Candidates should be comfortable learning and applying these tools, evaluating AI-generated output with sound judgment\n\n\n\nEEO Statement\n\n\n\nTextron is committed to providing Equal Opportunity in Employment, to all applicants and employees regardless of race, color, religion, age, national origin, military status, veteran status, disability, sex (including pregnancy and sexual orientation), genetic information or any other characteristic protected by law.\n\n\n\nRecruiting Company:  Textron Inc.\n\nPrimary Location:  US-Rhode Island-Providence\n\nOther Locations:  US-Texas-Fort Worth\n\nJob Function:  Information Technology\n\nSchedule:  Full-time\n\nJob Level:  Individual Contributor\n\nJob Type:  Experienced\n\nShift:  First Shift\n\nRelocation:  Unavailable\n\nJob Posting:  09/18/2026, 9:09:06 AM\n\nJob Number:  345148",
+      "apply_options": [
+        {
+          "title": "Textron",
+          "link": "https://careers.textron.com/providence-ri/data-engineer-ii/582BA6C0CC6F44568328E6F39B4A88CC/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Brown University Health Careers",
+          "link": "https://jobs.brownhealth.org/search/jobdetails/research-data-engineer-ii/c37ed819-4583-4c27-8a36-0416399b89c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=c834a12cc26fab60&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Textron/Job/Data-Engineer-II/-in-Providence,RI?jid=cd441c3caa4df8d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/e5532229-ac1c-415b-abec-81f773fd053f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-engineer-ii-providence-ri--7f835c46-600a-4107-a044-ea4404feac47?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/8UpWgHPmrA-EnD1N09IQpO0MvmojY9dBtqT775ZubXr4N7VjFl1hDA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-engineer-ii--providence--e0caf673c77bf72f2a1621ca07befdd2f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIElJIiwiY29tcGFueV9uYW1lIjoiVGV4dHJvbiIsImh0aWRvY2lkIjoiT2JHN2JCMWtCUFl0TzFsV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlUUm9lazVxWjBOWlMwUXpRMFJVY0dZM1gwUm5WRFkzVkdwSmIxVldNVEJ2V1hoZk5YY3pVMnBFU2xSQlZVTnpTMUJzY2tobWRqVktZbVl3UkhZM1psUlRiVEJVY3pSSE1rUklhMVphVjFwVGRIQkJVbVYxTlVkc1lWSnNPRzlNWTJrNGFWOWZNRGs1VEhGcWFFVlpVM1p0T0Y5dk5HYzFZMUJyTjNaelFtMHdRMUJHWDJ3U0YxTjNibXhoYjJGc1NEWjZTM1pOWTFCd2NYRTJaMEZGR2lKQlNFNHdSVGRJUkRWV1VHdHlhVFZoVEZsU1UxTmpkbXBIVm1sSlprVjZWRVJuIiwiZmN2IjoiMyIsImZjX2lkIjoiT2JHN2JCMWtCUFl0TzFsV0FBQUFBQT09In0="
+    },
+    {
+      "title": "Simulation Synthetic Data Engineer - Special Projects",
+      "company_name": "Apple Inc.",
+      "location": "Cupertino, CA",
+      "via": "SWE Career Center",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We're looking for an engineer who is both practical and inventive-comfortable extending existing simulation frameworks, experimenting with new approaches, and iterating quickly from prototype to high-quality implementation",
+            "Master's degree in Computer Science or related field, or equivalent practical experience",
+            "Strong programming skills in Python, with solid software engineering fundamentals",
+            "Experience with 3D graphics or game engines, including topics such as rendering, animation, scene graphs, or content pipelines",
+            "Familiarity with machine learning workflows, especially perception tasks, generative models, or VLMs",
+            "Ability to work collaboratively with cross-functional partners including engineers, artists, and researchers; strong communication skills",
+            "Programming experience in C++",
+            "Experience with real-time simulation engines (Unreal, Unity, Godot, Omniverse, custom engines)",
+            "Familiarity with USD, MaterialX, or other modern 3D content standards",
+            "Experience with real-time and offline rendering, ray tracing, lighting, or shading",
+            "Knowledge of physics simulation, sensor simulation, or physically-based modeling",
+            "Experience with industrial/commercial simulation tools or large-scale data pipelines"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Simulation Synthetic Data Engineer, you will help develop next-generation simulation technology powering a broad range of AI/ML efforts at Apple",
+            "You will work on highly ambitious projects that transform ideas into production tools and datasets used across the organization to develop new Apple products",
+            "You will collaborate closely with engineers, technical artists, animators, and research teams to deliver scalable pipelines and compelling synthetic data",
+            "Your work will directly influence dataset quality and model performance across multiple product areas",
+            "Build, enhance, and operate tools and pipelines for scenario creation, simulation execution, and generation of annotated 3D and multi-modal synthetic datasets",
+            "Design and implement prototypes, proofs-of-concept, and production systems that expand the capabilities of our simulation stack",
+            "Deliver high-quality, validated datasets to internal customers-leveraging procedural systems, generative models, scene variation tools, and diverse data sources",
+            "Partner with engineers, animators, and technical artists to transform creative intent into efficient, scalable pipelines for generating, varying, organizing, and validating scenarios",
+            "Develop tools, APIs, and reusable components that allow other teams to easily generate, manage, and automate simulation workflows",
+            "Stay current with advances in simulation, rendering, generative models, VLMs, and synthetic data in academia, industry, and at Apple; introduce new approaches where valuable"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=xcDdUGdYm3pzRrSqAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBBFcdsj6GbWookIbnRVqojiQugBShqGJiWdCckU6o08pnHzFw_e-9V3Vb1aP83BiGeC9kPiULyFqxEDNxo8ISbYQxvRehPgnXhEK7mgJ_eQ0STroKh35iHg-uJEYj5rnXNQQ5bStcrypJmw50WP3Of_dNmZhLH8Ync8HRYVadhu6hgDwoOsAk_QzBGTeOIdNPUPn3h7JasAAAA&shmds=v1_Ac3VAoznrVbrMMmtXsqdc20PjTc4bl09xXHslTN6AdwGxazjkQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=xcDdUGdYm3pzRrSqAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAATlBMVEX___8AAAD6-vo5OTmzs7PV1dXCwsJUVFRXV1dvb2_IyMipqang4ODQ0NChoaH39_crKysaGhrw8PBOTU3o6OglJSWHh4d_f3-7u7sxMTEwoxnqAAAAcklEQVQ4je3SuQ6AIBBFUZ6AK4gryv__qLFQbN8UVtxkypMQZpQqSauErGllUMOInEUnUP3gKuvHmmRhAnAP5oWCK55a6mO314FbSP06TbkP3Dno8lMtJzOEp2DM8KBgyDBQUJ2Po6_VpOh9TLIrL_3dBWgaAn-4wsb-AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://careers.swe.org/job/85384507/simulation-synthetic-data-engineer-special-projects/",
+      "job_title": "Simulation Synthetic Data Engineer - Special Projects",
+      "description": "Summary\n\nPlay a role in bringing Apple technology to the world. We are looking for a hardworking, dedicated, and results-oriented Synthetic Data Engineer. You would join a team using simulation to generate synthetic data. Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something - you'll add something.\n\nDescription\n\nAs a Simulation Synthetic Data Engineer, you will help develop next-generation simulation technology powering a broad range of AI/ML efforts at Apple. You will work on highly ambitious projects that transform ideas into production tools and datasets used across the organization to develop new Apple products.\n\nWe're looking for an engineer who is both practical and inventive-comfortable extending existing simulation frameworks, experimenting with new approaches, and iterating quickly from prototype to high-quality implementation. You will collaborate closely with engineers, technical artists, animators, and research teams to deliver scalable pipelines and compelling synthetic data. Your work will directly influence dataset quality and model performance across multiple product areas.\n\nResponsibilities\n\nBuild, enhance, and operate tools and pipelines for scenario creation, simulation execution, and generation of annotated 3D and multi-modal synthetic datasets.\n\n Design and implement prototypes, proofs-of-concept, and production systems that expand the capabilities of our simulation stack.\n\n Deliver high-quality, validated datasets to internal customers-leveraging procedural systems, generative models, scene variation tools, and diverse data sources.\n\n Partner with engineers, animators, and technical artists to transform creative intent into efficient, scalable pipelines for generating, varying, organizing, and validating scenarios.\n\n Develop tools, APIs, and reusable components that allow other teams to easily generate, manage, and automate simulation workflows.\n\n Stay current with advances in simulation, rendering, generative models, VLMs, and synthetic data in academia, industry, and at Apple; introduce new approaches where valuable.\n\nMinimum Qualifications\n\nMaster's degree in Computer Science or related field, or equivalent practical experience.\n\n Strong programming skills in Python, with solid software engineering fundamentals.\n\n Experience with 3D graphics or game engines, including topics such as rendering, animation, scene graphs, or content pipelines.\n\n Familiarity with machine learning workflows, especially perception tasks, generative models, or VLMs.\n\n Ability to work collaboratively with cross-functional partners including engineers, artists, and researchers; strong communication skills.\n\nPreferred Qualifications\n\nProgramming experience in C++\n\nExperience with real-time simulation engines (Unreal, Unity, Godot, Omniverse, custom engines).\n\n Familiarity with USD, MaterialX, or other modern 3D content standards.\n\n Experience with real-time and offline rendering, ray tracing, lighting, or shading.\n\n Knowledge of physics simulation, sensor simulation, or physically-based modeling.\n\n Experience with industrial/commercial simulation tools or large-scale data pipelines.",
+      "apply_options": [
+        {
+          "title": "SWE Career Center",
+          "link": "https://careers.swe.org/job/85384507/simulation-synthetic-data-engineer-special-projects/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Apple/Job/Simulation-Synthetic-Data-Engineer-Special-Projects/-in-Cupertino,CA?jid=e62cea079d7216ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer.ch",
+          "link": "https://www.experteer.ch/career/view-jobs/simulation-synthetic-data-engineer-special-projects-cupertino-ca-usa-55400158?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/simulation-synthetic-data-engineer-special-projects-apple-cupertino-ca_86002653?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LocalJobs.com",
+          "link": "https://www.localjobs.com/job/cupertino-ca-simulation-synthetic-data-engineer-special-projects?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "GameJobs.co",
+          "link": "https://gamejobs.co/Simulation-Synthetic-Data-Engineer-Special-Projects-at-Apple?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=baf13d8b2dcbf906&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/juH6L7_kfgqAhnxvdDuJYNUPLry_4FxMTEp3IOSG5d6cwC-CHObmBg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTaW11bGF0aW9uIFN5bnRoZXRpYyBEYXRhIEVuZ2luZWVyIC0gU3BlY2lhbCBQcm9qZWN0cyIsImNvbXBhbnlfbmFtZSI6IkFwcGxlIEluYy4iLCJodGlkb2NpZCI6InhjRGRVR2RZbTNwelJyU3FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbDlUVDNOdldqQnVaSFpuU2sxNFRGbHNObEJ4ZDFSVmNWWjZhRGd0VGs1M2VtWmljMDkzVUZKYVYycFRaaTFyUW5SSE5saGtTM3B4Um1sYVpHRjRaakF6TlhNNGRFNW9XbVppVEZKNGJscHpNRmsyVkVSTFFrWXhlV2RwZWtWbllXWm1Rell3TUdaNFpFTTNTekpqY0hWaVNIWTFZbXhPZERodExXeGZOREExV2toZmRuSVNGMU4zYm14aGIyRnNTRFo2UzNaTlkxQndjWEUyWjBGRkdpSkJTRTR3UlRkRlpWWjNiMWs0VUhsdldFYzJTRWxIU2tjMFJtWkNkelJZU0ZKMyIsImZjdiI6IjMiLCJmY19pZCI6InhjRGRVR2RZbTNwelJyU3FBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Engineer - ONSITE",
+      "company_name": "Network Distribution",
+      "location": "Schaumburg, IL",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Success requires strong SQL and Python skills, experience with cloud data platforms, an understanding of modern data engineering and Machine Learning concepts, and a basic understanding of supply chain data such as orders, inventory, logistics, and financial reporting are essential",
+            "Demonstrates innovation, flexibility, and self-direction, managing multiple priorities in a fast-paced environment",
+            "Exceptional communication and interpersonal skills, collaboration with cross-functional team",
+            "Proven ability to cultivate a team-oriented environment, mentor, and engage with senior business stakeholders in business-centric dialogue",
+            "Skilled in documentation for requirements, design, test, and training",
+            "Experience in designing and implementing scalable data models and architecture",
+            "Strong problem-solving and analytical abilities",
+            "Data Validation & Quality Assurance",
+            "Strong SQL development, query optimization, data transformation, and ETL/ELT pipeline development experience",
+            "Experience with Snowflake, including data warehousing, data modeling, performance optimization, and cloud-based data processing",
+            "Experience with cloud platforms and services such as AWS",
+            "Python development and scripting experience",
+            "Experience with APIs, data ingestion, integration technologies, and structured and semi-structured data, including JSON and XML",
+            "Working knowledge of Machine Learning concepts and experience preparing and transforming data to support ML models and AI/ML workloads",
+            "Familiarity with AWS services such as S3, Glue, Lambda, Step Functions, and SageMaker or similar cloud technologies",
+            "Familiarity with dbt, Terraform, CI/CD, Git, Java, or similar development and deployment technologies",
+            "Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field (or equivalent experience)",
+            "Minimum of five (5) years of experience in data engineering, data integration, data warehousing, analytics engineering, or software development involving significant data responsibilities",
+            "Strong understanding of data architecture, enterprise systems, and business process automation",
+            "Strong understanding of data governance frameworks",
+            "Knowledge of information security principles and data protection best practices",
+            "Demonstrated ability to lead technical initiatives while managing operational responsibilities",
+            "Understanding of data processing concepts (ETL/ELT)",
+            "Understanding of data warehouse architecture and data modeling concepts",
+            "We understand that brilliant solutions come from refreshed minds"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive compensation",
+            "Medical, dental, & vision coverage",
+            "Generous PTO policy",
+            "Summer/Flex Hours all year round",
+            "Learning & Development Opportunities",
+            "Progressive Wellness Program",
+            "401k matching program",
+            "Generous Profit Sharing contribution",
+            "FUN work environment with many company sponsored events",
+            "Enjoy flexible working arrangements and a culture that respects your personal time",
+            "$100,000 - $130,000",
+            "Network has established a salary range for this position based on a combination of market data, industry standards and specific requirements of the role",
+            "In addition, to base salary, Network associates are eligible for a comprehensive benefits package, which includes health insurance, retirement contributions, opportunities for career growth and professional development",
+            "Our compensation package is designed to reward both individual contributions and team success"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Engineer designs, builds, and maintains scalable data pipelines for Network Distribution’s enterprise data and AI platforms",
+            "This role will ingest, transform, and validate data from operational systems into reliable, business-ready datasets that support reporting, analytics, operational decision-making, and Machine Learning initiatives",
+            "The Data Engineer will collaborate with IT, BI developers, business stakeholders, and project teams, the Data Engineer develops reusable pipelines and data models while ensuring data quality, security, and performance",
+            "Design, develop, and maintain data pipelines that ingest data from operational systems into the enterprise data warehouse, data lake, and AI/ML environments",
+            "Develop data transformation and loading processes using SQL, Python, and modern data engineering tools",
+            "Integrate data from ERP platforms, SaaS applications, APIs, cloud storage, and other enterprise systems",
+            "Develop and support ingestion processes using cloud services, APIs, file-based integrations, and data integration platforms",
+            "Develop and perform data validation and quality checks to ensure accuracy, completeness, consistency, and reliability",
+            "Identify data anomalies and assist with root-cause analysis and remediation",
+            "Support the preparation, transformation, and delivery of data used by Machine Learning and AI solutions",
+            "Collaborate with AI/ML engineers, developers, and business stakeholders to understand data requirements for model development and production workloads",
+            "Support and maintain cloud data warehouse and data lake environments",
+            "Support platform monitoring, automation, performance optimization, and production stability",
+            "Document pipeline processes, data flows, architecture, integration patterns, dependencies, and support procedures",
+            "Analytical Thinking & Troubleshooting",
+            "Technical Documentation",
+            "Understanding of data warehouse architecture, data modeling, data validation, monitoring, troubleshooting, and performance optimization"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=q2YmlHtb2mPq6_JFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBCA4bjyCE43ORihxsRFV4jBGBxwJ21zaYvQI70j8iA-sLj8-aY_-26yvNSioYouRMQEOTybtn5VK-5kgFEn64Ei3IjcgNurF5n4ohTzUDgWLcEWlkZFEQ0tqifD_3TsdcJp0ILd6Xxciim6_a5B-VB6QxlYUjCzhPUcIrTW63k0c3IHqB8_inasG5cAAAA&shmds=v1_Ac3VAoy0bw72-ZzEM-UomZijnie_moihT-US1Xa3UjBtw4aqZQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=q2YmlHtb2mPq6_JFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5094abb4143e7dfed0e92/images/IZ30I2A4jYAYZ9vCio0EpV_BUlGfH3ZK14c0y6TyJa0.jpeg",
+      "extensions": [
+        "24 days ago",
+        "100K–130K a year",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=271ae7d8ee6706bd",
+      "job_title": "Data Engineer - ONSITE",
+      "description": "The Data Engineer designs, builds, and maintains scalable data pipelines for Network Distribution’s enterprise data and AI platforms. This role will ingest, transform, and validate data from operational systems into reliable, business-ready datasets that support reporting, analytics, operational decision-making, and Machine Learning initiatives. The Data Engineer will collaborate with IT, BI developers, business stakeholders, and project teams, the Data Engineer develops reusable pipelines and data models while ensuring data quality, security, and performance. Success requires strong SQL and Python skills, experience with cloud data platforms, an understanding of modern data engineering and Machine Learning concepts, and a basic understanding of supply chain data such as orders, inventory, logistics, and financial reporting are essential.\n\n\n  WHAT YOU'LL DO:\n\n\n \n  Design, develop, and maintain data pipelines that ingest data from operational systems into the enterprise data warehouse, data lake, and AI/ML environments.\n  Develop data transformation and loading processes using SQL, Python, and modern data engineering tools.\n  Integrate data from ERP platforms, SaaS applications, APIs, cloud storage, and other enterprise systems.\n  Develop and support ingestion processes using cloud services, APIs, file-based integrations, and data integration platforms.\n  Develop and perform data validation and quality checks to ensure accuracy, completeness, consistency, and reliability.\n  Identify data anomalies and assist with root-cause analysis and remediation.\n  Support the preparation, transformation, and delivery of data used by Machine Learning and AI solutions.\n  Collaborate with AI/ML engineers, developers, and business stakeholders to understand data requirements for model development and production workloads.\n  Support and maintain cloud data warehouse and data lake environments.\n  Support platform monitoring, automation, performance optimization, and production stability.\n  Document pipeline processes, data flows, architecture, integration patterns, dependencies, and support procedures\n \n WHO YOU ARE:\n\n\n \n  Demonstrates innovation, flexibility, and self-direction, managing multiple priorities in a fast-paced environment.\n  Exceptional communication and interpersonal skills, collaboration with cross-functional team\n  Proven ability to cultivate a team-oriented environment, mentor, and engage with senior business stakeholders in business-centric dialogue.\n  Skilled in documentation for requirements, design, test, and training.\n  Experience in designing and implementing scalable data models and architecture.\n  Strong problem-solving and analytical abilities.\n  Data Validation & Quality Assurance\n  Analytical Thinking & Troubleshooting\n  Technical Documentation\n  Strong SQL development, query optimization, data transformation, and ETL/ELT pipeline development experience.\n  Experience with Snowflake, including data warehousing, data modeling, performance optimization, and cloud-based data processing.\n  Experience with cloud platforms and services such as AWS.\n  Python development and scripting experience.\n  Experience with APIs, data ingestion, integration technologies, and structured and semi-structured data, including JSON and XML.\n  Understanding of data warehouse architecture, data modeling, data validation, monitoring, troubleshooting, and performance optimization.\n  Working knowledge of Machine Learning concepts and experience preparing and transforming data to support ML models and AI/ML workloads.\n  Familiarity with AWS services such as S3, Glue, Lambda, Step Functions, and SageMaker or similar cloud technologies.\n  Experience with SAP or other enterprise ERP data is preferred.\n  Familiarity with dbt, Terraform, CI/CD, Git, Java, or similar development and deployment technologies.\n  Exposure to Generative AI, Large Language Models (LLMs), and enterprise AI platforms is preferred\n \n WHAT YOU'LL HAVE:\n\n\n \n  Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field (or equivalent experience)\n  Minimum of five (5) years of experience in data engineering, data integration, data warehousing, analytics engineering, or software development involving significant data responsibilities\n  Strong understanding of data architecture, enterprise systems, and business process automation.\n  Strong understanding of data governance frameworks.\n  Knowledge of information security principles and data protection best practices.\n  Demonstrated ability to lead technical initiatives while managing operational responsibilities.\n  Understanding of data processing concepts (ETL/ELT).\n  Understanding of data warehouse architecture and data modeling concepts.\n \n \n\n \n\n\n  WHAT WE OFFER:\n\n\n \n  Competitive compensation\n  Medical, dental, & vision coverage\n  Generous PTO policy\n  Summer/Flex Hours all year round\n  Learning & Development Opportunities\n  Progressive Wellness Program\n  401k matching program\n  Generous Profit Sharing contribution\n  FUN work environment with many company sponsored events\n \n OUR CULTURE & WHAT MAKES US DIFFERENT\n\n\n \n  Our Values are the strategic principles that guide the company and our associates. Commitment to Excellence, Adaptability, Collaborative Relationships and Integrity serve as our cultural cornerstones and are integrated into every action taken or decision made across the organization.\n \n INNOVATION IS IN OUR DNA\n\n\n \n  We don't just welcome new ideas - we thrive on them. Our team stays ahead of the curve with the latest data, technologies and best practices.\n \n GROWTH MINDSET\n\n\n \n  We believe in continuous learning. Whether it's attending tech conferences, taking courses, or exploring new tools, we invest in your\n \n WORK-LIFE HARMONY\n\n\n \n  We understand that brilliant solutions come from refreshed minds. Enjoy flexible working arrangements and a culture that respects your personal time\n \n WHAT OUR EMPLOYEES SAY:\n\n\n  “Teamwork and collaboration are key factors to success at NETWORK. The learning is constant; every single day is different than the previous day and you are always exposed to new challenges. The entire NETWORK team strives to be the best for each other and our many customers.”\n\n\n – Current NETWORK Associate\n\n\n The Anticipated Base Salary Range for this position:\n\n\n $100,000 - $130,000\n\n\n  Network has established a salary range for this position based on a combination of market data, industry standards and specific requirements of the role. The actual starting salary will vary based on applicant's location, education, experience, skills and abilities.\n\n\n In addition, to base salary, Network associates are eligible for a comprehensive benefits package, which includes health insurance, retirement contributions, opportunities for career growth and professional development. Our compensation package is designed to reward both individual contributions and team success. ensuring that we attract and retain top talent.\n\n\n Our PEOPLE and CULTURE are the most important ingredient for our success at NETWORK. That’s because constant feedback is in our DNA and HOW you do it is as important as WHAT you do.\n\n\n  NETWORK is proud to be an equal opportunity employer. We are committed to creating a diverse workforce.\n\n\n Equal Opportunity Employer\n\n   This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights (https://www.eeoc.gov/poster) notice from the Department of Labor.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=271ae7d8ee6706bd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/network-services/Job/Data-Engineer/-in-Schaumburg,IL?jid=af9a355048c62d5a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/jyX7kbjO-XKf0S8VdISFUJwJCPl-KRO4GuEttZZ-UL6tJAl0jRFBBQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-engineer-onsite--schaumburg--northern--e0c6fe9767dbe7cd434c3bbd6875b4b22?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-engineer-onsite-schaumburg-il--e6869384-fb82-447a-8492-c13e0d6be494?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/data-engineer-onsite-schaumburg-il--e6869384-fb82-447a-8492-c13e0d6be494?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010286977312&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/network-headquarters/schaumburg-il/data-engineer/567f4eae546e3cbc698f8f2093d8818c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIC0gT05TSVRFIiwiY29tcGFueV9uYW1lIjoiTmV0d29yayBEaXN0cmlidXRpb24iLCJodGlkb2NpZCI6InEyWW1sSHRiMm1QcTZfSkZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV3BTYkZseFQxUlpWRWxtZUhaNk5qRnRNRU5vV2tkQ1pXaFhRVUY2WDIxeU0xa3pTR1JqT0d0cFJrcHJZa3hHZEMxRGF6aHlWVlJ1VnpsUFdYRmlXRU5YVm1WSWVWUklkemxwTVd4UkxXa3RWbEoyY2pCQ1dIWmZiSGd3UmxWaGFVZDFWRFJuUVdRd1RqWkVUbVpFZWpaeE5tUnhkbTExUlVGYWFsODJZV1puU3paVlZWWVNGMU4zYm14aGIyRnNTRFo2UzNaTlkxQndjWEUyWjBGRkdpSkJTRTR3UlRkSFFVMDFYM2RaUW5oSVJFZ3RUblZVTjJaQ1NqbHpWSFJQYTNGbiIsImZjdiI6IjMiLCJmY19pZCI6InEyWW1sSHRiMm1QcTZfSkZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analytics Engineer",
+      "company_name": "Skanska USA",
+      "location": "Atlanta, GA (+2 others)",
+      "via": "Skanska USA Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Fabric Analytics Engineer Associate (DP-600) and/or Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+            "Data Analytics Engineer Required Qualifications:",
+            "3+ years of experience with Power BI, including report building, DAX, and visualization best practices",
+            "3+ years of experience in data modeling within data warehouses using modern design patterns",
+            "1+ year of experience with Microsoft Fabric or Databricks",
+            "Working knowledge of Lakehouse concepts, Delta tables, data pipelines, and orchestration is required",
+            "3+ years of experience with Microsoft Azure, including key components such as Azure Data Lake, Azure Data Factory, Azure Blob Storage, Azure Synapse Analytics, and Azure SQL",
+            "Bachelor’s degree in Computer Science, Data Engineering, or a related field, or 8 years of equivalent experience, including a minimum of 5 years of relevant experience",
+            "Background Check Required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We believe that Benefits should connect you to the support you need when it matters most, and should help you care for those who matter most",
+            "That’s why we provide an array of options (including medical, dental, and vision insurance plans), expert guidance, and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially, and emotionally through the big milestones and in your everyday life",
+            "And we’re committed to supporting your whole health and peace of mind through inclusive and personalized total rewards",
+            "We’re committed to your success by developing you in your role and supporting your career growth",
+            "Compensation and financial well-being – Competitive base salary, excellent bonus program, 401k, & Employee ownership program"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Analytics Engineer plays a crucial role in designing, implementing, and supporting enterprise data initiatives and analyses",
+            "The Data Analytics Engineer focuses on creating intuitive data models and solutions that enable business partners to easily understand and leverage high-quality, well-structured data",
+            "The ideal candidate will collaborate with data analysts and engineers to develop visual representations of data patterns and insights, effectively communicating their significance to internal and external stakeholders, colleagues, and end-users"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=7zJmHDvycHa_J004AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CZ1uFk1EcNEpoBRci3O5lCOtjXchd0P9BP9aXd72ms-mcVc0hMCY3zaPCjdOMxNV2MNdIihhHScQhk4kZWovk1nRs_eq2SU1_C03yssLU5TVPyXqn0EnrFQyGg3H02F1hdO27RdkXRAefYCZIVhGNtxBF77g-1r0jAAAAA&shmds=v1_Ac3VAox9KF1xSCSxBndxF94yGIIefSkiVY5QuPIi20QO0Sjhxg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=7zJmHDvycHa_J004AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAclBMVEUVMnb___8AI3AAFGsAEWoAKnIRMHUAFmwAAGUAGmwAGGxfa5Xl5-wAH2_q7O_u8PKdo7u0uctmcJj4-fluep_GytcAJ3GWnrglPXszR4CiqL2Ol7J7hKbU2OGDi6pTYpFNW4wACGi9wM87ToQAAF-qsMNneQR5AAABBklEQVRIie3Qy3KEIBCF4W4QRUXueAHRiZl5_1cMk62zTHZ8y7_qVHU1QFVVVfU_WNc0hFEgXQt90wKhLVDGaKlzVyrAUOqH3SiU0l7xRa40qG2KEpi0ttS0Cx5F22QFH5adCvtx7vhATzZ0-stg4GjdtR-P5EYcyQNdmu_DQYjLbDu62BEtDvU0Eke077omxNRPr6wFvQ_bNb6y8uhMQ2U2uJm8OPTvKg7ESBuXL1zvtzKfjst5PHH_xhBcNOIp0Zca5OEs2rNU1OQ2JC8phPWCL2LJnKe8XPSUoyn13DOPWQfOdZjutxJKO8bK4wfSA8w9mYBRNr3rPMD0W8mHXVVVVfUnfgBe0RFPcbPO5QAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://careers.usa.skanska.com/jobs/9292?lang=en-us",
+      "job_title": "Data Analytics Engineer",
+      "description": "Skanska is searching for a dynamic Data Analytics Engineer. This is a great opportunity to start a career with a company that builds things that matter and values its team. We are proud to share our culture of diversity and inclusion.\n\n \n\nOur work makes a clear contribution to society and the environment around us. We build in many different verticals. Whether we are building schools to provide inspiring spaces for learning, roads to connect communities, or hospitals to care for patients, it all contributes to our purpose – we build for a better society.\n\n \n\nSkanska's values —Be Better Together, Act Ethically and Transparently, Commit to Customer, and Care for Life—are deeply engrained in how we work, which is why our values support and drive our D&I efforts.\n\n \n\nThe Data Analytics Engineer plays a crucial role in designing, implementing, and supporting enterprise data initiatives and analyses.  The Data Analytics Engineer focuses on creating intuitive data models and solutions that enable business partners to easily understand and leverage high-quality, well-structured data.  The ideal candidate will collaborate with data analysts and engineers to develop visual representations of data patterns and insights, effectively communicating their significance to internal and external stakeholders, colleagues, and end-users. Fabric Analytics Engineer Associate (DP-600) and/or Microsoft Certified: Power BI Data Analyst Associate (PL-300). 1+ years of hands-on experience with Microsoft Fabric preferred.\n\n \n\nData Analytics Engineer Required Qualifications:\n\n \n\n \n\n3+ years of experience with Power BI, including report building, DAX, and visualization best practices.3+ years of experience in data modeling within data warehouses using modern design patterns.1+ year of experience with Microsoft Fabric or Databricks. Working knowledge of Lakehouse concepts, Delta tables, data pipelines, and orchestration is required.3+ years of experience with Microsoft Azure, including key components such as Azure Data Lake, Azure Data Factory, Azure Blob Storage, Azure Synapse Analytics, and Azure SQL.Bachelor’s degree in Computer Science, Data Engineering, or a related field, or 8 years of equivalent experience, including a minimum of 5 years of relevant experience. \n\nCurrently, the company is not considering applicants for this position who now or in the future require employment sponsorship by the company. \n\n \n\nOur Investment in you:\n\n \n\nWe believe that Benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options (including medical, dental, and vision insurance plans), expert guidance, and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially, and emotionally through the big milestones and in your everyday life. Please visit the compensation and Benefits summary on our careers site for more details.As a Skanska community, our values ground us, and our diversity of experience propels us forward. No matter what your career stage, there’s a place for you to thrive here and partner with us in shaping how our world lives, moves, and connects.At Skanska, we Care for Life. And we’re committed to supporting your whole health and peace of mind through inclusive and personalized total rewards.We’re committed to your success by developing you in your role and supporting your career growthCompensation and financial well-being – Competitive base salary, excellent bonus program, 401k, & Employee ownership program.  \n\nCome work with us and join a winning team!\n\n \n\n\n\nBackground Check Required\n\n \n\nSkanska is an Equal Employment Opportunity (EEO) Employer. We do not discriminate on the basis of race, color, religion, sex, national origin, disability, age, genetic information, citizenship, protected veteran status, or any other categories protected under applicable federal, state, and local laws.\n\n \n\nSkanska Equal Employment Opportunity\n\n \n\nSkanska uses knowledge & foresight to shape the way people live, work, and connect. More than 135 years in the making, we’re one of the world’s largest construction and project development companies. With operations in select markets throughout the Nordics, Europe, and the United States, global revenue totaled $15.9 billion in 2024.\n\n \n\nSkanska in the U.S. operates 28 offices across the country, with its headquarters in New York City. In 2024, the U.S. construction sector generated $8.2 billion in revenue, and the U.S. development sector’s net investments in commercial projects totaled $224 million.\n\n \n\nTogether with our customers and the collective expertise of our 6,300 teammates in the U.S. and 26,300 globally, we create innovative and sustainable solutions that support healthy living beyond our lifetime.  \n\n \n\nSkanska's Applicant Privacy Policy for California Residents\n\n \n\nSearch Firm and Employment Agency Disclaimer \nSearch Firm and Employment Agency Disclaimer Skanska USA Human Resources (“Skanska HR”) provides HR services to the Skanska business units within the U.S.A., including Skanska USA Civil Inc., Skanska USA Building Inc., Skanska USA Commercial Development Inc., and Skanska Infrastructure Development Inc. (collectively “Skanska USA”). As such, Skanska HR is the sole authorized representative of Skanska USA to execute any agreements with search firms, employment agencies, or any employment vendor (“Vendor”). As a condition precedent to any entitlement for payment, a Vendor shall have both (1) the Skanska USA Placement Agreement and (2) an Engagement Job Order executed by an authorized Skanska HR representative. Absent the properly executed documents, Skanska HR shall have no obligation to make payment to the Vendor. Verbal or written communications from any employee of Skanska USA business units shall not be considered binding obligations. All resumes, whether unsolicited or solicited, shall be considered the property of Skanska HR.",
+      "apply_options": [
+        {
+          "title": "Skanska USA Careers",
+          "link": "https://careers.usa.skanska.com/jobs/9292?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apex Systems",
+          "link": "https://www.apexsystems.com/job/3054691_usa/data-analytics-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=f11df808226f93cf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-skanska-4465928680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-analytics-engineer_7ea1ab33c7ccb930ed3d677ed2a26bddbfbbf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/ad70353a-fdc5-430b-827a-a536197236a6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Skanska-USA/Job/Data-Analytics-Engineer/-in-Charlotte,NC?jid=e795d5a8769ddb89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Analytics Engineering Jobs",
+          "link": "https://analyticsengineeringjobs.com/jobs/skanska-usa/data-analytics-engineer-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlNrYW5za2EgVVNBIiwiaHRpZG9jaWQiOiI3ekptSER2eWNIYV9KMDA0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV20xRlN6STRWVnBqZWxaS0xVOW5hSFZxZG1sNFgwSjFNVUZXVWpCSWFWQkpVbk01WkVSVGRWaDBibUZmU1hSS056QklNR3RVUVRscmNVNUxlWGwzYTFSWFJuQlBhVlJwY1cxclUxQk5RMFZuY2kxUVdIUlZVbTl5TVdWUGVtcFZRbTVxWDFGdU1FNWtZVnB5YWsxaFUyTjRRelJWVkRCblZXOTZkelJqZVVZMGR6ZHBWMUVTRjFOM2JteGhiMkZzU0RaNlMzWk5ZMUJ3Y1hFMlowRkZHaUpCU0U0d1JUZElkVkZOUkhsUFdtSmpaa2MyTjNZeVQxSkRPVVZsTUcxUVVEQlIiLCJmY3YiOiIzIiwiZmNfaWQiOiI3ekptSER2eWNIYV9KMDA0QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Data Engineer (ETL/GIS)",
+      "company_name": "Peraton",
+      "location": "Anywhere",
+      "via": "Peraton - ICIMS",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Peraton is seeking a Junior Data Engineer with ETL development and geospatial data experience to support the data engineering workstream on a federal data migration program",
+            "Bachelor’s degree and 0 years of professional experience, or an Associate’s degree and 2 years of professional experience, or a high school diploma/equivalent and 4 years of professional experience",
+            "U.S. Citizenship required; must have the ability to obtain and maintain a Public Trust clearance; all work must be performed within the United States",
+            "Hands-on experience with Databricks and Delta Live Tables or equivalent cloud ETL frameworks",
+            "Experience with data quality validation, source-to-target mapping, and data transformation",
+            "Experience with data modeling or schema design documentation",
+            "Experience documenting test/ingest results and logging defects with severity classifications",
+            "Proficiency in Python or Scala for ETL pipeline development",
+            "Proficiency in SQL for querying, validating, and transforming data within the cloud data lakehouse environment",
+            "Familiarity with geospatial data formats and coordinate reference systems"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$51,000 - $82,000",
+            "This represents the typical salary range for this position",
+            "Salary is determined by various factors, including but not limited to, the scope and responsibilities of the position, the individual’s experience, education, knowledge, skills, and competencies, as well as geographic location and business and contract considerations",
+            "Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay",
+            "Peraton offers eligible employees a variety of benefits including medical, dental, vision, life, health savings account, short/long term disability, EAP, parental leave, 401(k), paid time off (PTO) for vacation, and company paid holidays",
+            "A full listing of available benefits can be viewed at https://www.careers.peraton.com/benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will develop and deploy ETL pipelines, execute data ingestion workflows, and support spatial data validation activities within a cloud data Lakehouse environment",
+            "This is a fully remote position",
+            "Develop, test, and deploy ETL pipelines using Databricks Delta Live Tables within a cloud data lakehouse staging environment",
+            "Execute range data aggregation and normalization activities, collecting data from multiple authoritative source systems and normalizing spatial formats and coordinate reference systems",
+            "Implement source-to-target transformation logic within ETL pipelines, applying field-level mapping rules, data type conversions, and null-handling logic",
+            "Execute prototype data ingestion workflows using representative taxa, evaluating results against completeness, accuracy, consistency, and spatial integrity quality criteria",
+            "Document prototype ingestion results, defects, and remediation actions",
+            "Produce the Prototype Ingest Results Report, documenting ingestion outcomes, data quality findings, defect severity classifications, and remediation actions for each representative taxa batch",
+            "Log all data quality defects with severity classifications and remediation tracking",
+            "Maintain all ETL pipeline code in a version-controlled repository with mandatory peer review documentation",
+            "Support spatial data validation activities in coordination with GIS Engineers",
+            "Support interoperability testing by providing test datasets, pipeline execution support, and data validation assistance"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=oKspHKF6ndCKUdNKAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7BeKUUQV7InTR1VIsDkJ1LmkN15OaHJcI_Qq_2bq88WXfRVbUHw6S4IyGULIPTJRgXd6vrro0G9hBLR0oYeoHEIZKxI-0Og1mUY_OqY65V0MLfd7L2wlTJ5N7Sad_Wh0wURzRqD0U-ymP7LfLGyW0OQsMDw5GT2jmgfQHpOHZRJEAAAA&shmds=v1_Ac3VAow0n3q4PA7KC3OsX0troOevk9y7YiiMPIdAcirtlkJIbw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=oKspHKF6ndCKUdNKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5094abb4143e7dfed0e92/images/oTU82LcHoR_u5JieCHbUfKaYpqAseSFT1J_4Lq5aJRg.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job",
+      "job_title": "Junior Data Engineer (ETL/GIS)",
+      "description": "Peraton Overview\nPeraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land, sea, space, air, and cyberspace. The company serves as a valued partner to essential government agencies and supports every branch of the U.S. armed forces. Each day, our employees do the can’t be done by solving the most daunting challenges facing our customers. Visit peraton.com to learn how we’re keeping people around the world safe and secure.\n\n\nResponsibilities\nPeraton is seeking a Junior Data Engineer with ETL development and geospatial data experience to support the data engineering workstream on a federal data migration program. You will develop and deploy ETL pipelines, execute data ingestion workflows, and support spatial data validation activities within a cloud data Lakehouse environment. This is a fully remote position.\n\n\n \n\n\nThe Department of the Interior (DOI), U.S. Fish and Wildlife Service (FWS), and NOAA's National Marine Fisheries Service (NMFS) have identified a critical gap in the federal government's ability to conduct comprehensive Endangered Species Act (ESA) research. While FWS operates an authoritative web-based platform for managing data for terrestrial and freshwater species, it does not currently include NMFS marine and anadromous species data forcing agencies to rely on separate, manual processes. This program closes that gap by integrating marine and anadromous species data into the existing FWS platform, creating a single, unified experience for all ESA-listed species.\n\n\n \n\n\nWork Location: Remote\n\n\n \n\n\nDay to Day Responsibilities:\n\n\n\n Develop, test, and deploy ETL pipelines using Databricks Delta Live Tables within a cloud data lakehouse staging environment.\n Execute range data aggregation and normalization activities, collecting data from multiple authoritative source systems and normalizing spatial formats and coordinate reference systems.\n Implement source-to-target transformation logic within ETL pipelines, applying field-level mapping rules, data type conversions, and null-handling logic\n Execute prototype data ingestion workflows using representative taxa, evaluating results against completeness, accuracy, consistency, and spatial integrity quality criteria.\n Document prototype ingestion results, defects, and remediation actions\n Produce the Prototype Ingest Results Report, documenting ingestion outcomes, data quality findings, defect severity classifications, and remediation actions for each representative taxa batch.\n Log all data quality defects with severity classifications and remediation tracking\n Maintain all ETL pipeline code in a version-controlled repository with mandatory peer review documentation.\n Support spatial data validation activities in coordination with GIS Engineers.\n Support interoperability testing by providing test datasets, pipeline execution support, and data validation assistance.\n\nQualifications\n \n\n\nBasic Qualifications: \n\n\n\n Bachelor’s degree and 0 years of professional experience, or an Associate’s degree and 2 years of professional experience, or a high school diploma/equivalent and 4 years of professional experience.\n\n\n U.S. Citizenship required; must have the ability to obtain and maintain a Public Trust clearance; all work must be performed within the United States.\n\n\n Hands-on experience with Databricks and Delta Live Tables or equivalent cloud ETL frameworks\n Experience with data quality validation, source-to-target mapping, and data transformation\n Experience with data modeling or schema design documentation\n Experience documenting test/ingest results and logging defects with severity classifications\n Proficiency in Python or Scala for ETL pipeline development\n Proficiency in SQL for querying, validating, and transforming data within the cloud data lakehouse environment\n Familiarity with geospatial data formats and coordinate reference systems\n\n \n\n\nPreferred Qualifications: \n\n\n\n Experience with AWS GovCloud or equivalent FedRAMP-authorized cloud environments\n Familiarity with GIS tools such as ArcGIS or QGIS\n Experience with federal data governance and metadata standards\n Databricks Associate certification or equivalent\n\nTarget Salary Range$51,000 - $82,000. This represents the typical salary range for this position. Salary is determined by various factors, including but not limited to, the scope and responsibilities of the position, the individual’s experience, education, knowledge, skills, and competencies, as well as geographic location and business and contract considerations. Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay.\nBenefits Statement\nPeraton offers eligible employees a variety of benefits including medical, dental, vision, life, health savings account, short/long term disability, EAP, parental leave, 401(k), paid time off (PTO) for vacation, and company paid holidays. A full listing of available benefits can be viewed at https://www.careers.peraton.com/benefits.\n\n\nApplication StatementsThe application period for the job is estimated to be 30 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates. By applying to this job, you are expressing interest in the role and the Company. During the review of your application, you may be required to participate in an on-camera interview, as well as participate in a process to verify your identity. Use of artificial intelligence (AI) tools of any kind during Peraton interviews is strictly prohibited unless the candidate has obtained prior written authorization. All interview responses must be the candidate’s own.\nEEOEEO: Equal opportunity employer, including disability and protected veterans, or other characteristics protected by law.",
+      "apply_options": [
+        {
+          "title": "Peraton - ICIMS",
+          "link": "https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Berea College Internships & Career Development",
+          "link": "https://www.beyondberea.org/jobs/swivel-payment-solutions-llc-junior-data-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MIT Career Services",
+          "link": "https://capd.mit.edu/jobs/swivel-payment-solutions-llc-junior-data-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=2274659b367f9931&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ClearedJobs.Net",
+          "link": "https://clearedjobs.net/job/junior-data-engineer-etl-gis--1959534?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Flexjobsone",
+          "link": "https://flexjobsone.liveblog365.com/remote-jobs/junior-data-engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/greystones-consulting-group/Job/Junior-Data-Engineer/-in-Washington,DC?jid=8ab0348b1da00208&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/junior-data-engineer_7ea1a8cb2e82e9f5c1f8ae3ea1f56cf258846?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBFbmdpbmVlciAoRVRML0dJUykiLCJjb21wYW55X25hbWUiOiJQZXJhdG9uIiwiaHRpZG9jaWQiOiJvS3NwSEtGNm5kQ0tVZE5LQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWpaMlpuaDJjSE42Y1U4NVdGcHBZWGN0YVRCdk9EUlZTamQxTVRKeWF6bG5hVjh3VUhWWWRWTnVibXQzUlhSeFZIUmFabEV4VTBkaWVHbzJOVUpCUVhreWFHSXliV28yZVdOVVVYTkhkMDVWYWxKU2NIVjRTbE5RTm1OTGVrdHFZelpTVFdWT1JubEJiRUpsZG1oeWRYYzNRMUJsTlMxd1JFOVNVMEZVUVhoNU4xQkRPVk1TRjFOM2JteGhiMkZzU0RaNlMzWk5ZMUJ3Y1hFMlowRkZHaUpCU0U0d1JUZEdNWEZLYldkdlFVOTBkbGN3ZVhWR1VreEtibVYyWDBoTWVrNW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJvS3NwSEtGNm5kQ0tVZE5LQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Cleared Data Engineer (5786)",
+      "company_name": "SMX",
+      "location": "Concord, NH",
+      "via": "Adzuna",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=iCaPCy-Kg3ZdNS5eAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVw7OjrdqKKNKFXRsYoi6OLiVpL0SCrxrvRu6BP43Nblnz7-7DvKNmVC22ENJ6sWzhQaQuxgWuz22xks4cYOZBA-AhNcmEPCyTGqtnIwRiTlQdRq43PPH8OEjnvzZif_VBKHd5usYrUuVn3eUpiPn_cXNAQlk-euXsDj-gNaKOY4iQAAAA&shmds=v1_Ac3VAoxTpnRzvh3u4VwytyiXEXDsGtor6Y2H3byqMzPUwdoNJA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=iCaPCy-Kg3ZdNS5eAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.adzuna.com/details/5945867981",
+      "job_title": "Cleared Data Engineer (5786)",
+      "description": "SMX is hiring a Data Engineer to design, build, and optimize systems for data collection, storage, access, and analytics at scale The ideal candidate will analyze and organize raw data, build robust data systems, and explore ways to enhance data quality and reliability. This role involves collaborating with analytics and business teams to transform raw information from different sources into high-quality, accessible data pipelines. + Create data pipelines that convert raw data into formats usable by data scientists, data-centric applications, and other data consumers + Make data available, accessible, and secure to stakeholders. + Ensure data pipelines meet Service Level Agreements and performance standards + Monitor data repositories and data pipelines to ensure operational efficiency and take action to address and resolve problems + Implement orchestration and automation solution for data pipelines **Required Skills & Experience** + Bachelor's degree in computer science, - Information Technology, Data Engineering, or a related field. + 8 years of professional experience in a data engineering or backend software engineering role. + Active Secret security clearance. + Strong proficiency in SQL and data query creation. + Experience with data modeling, data migration, and ETL functions. + Excellent communication skills, both written and verbal, with the ability to interface with customers **Desired Skills & Experience** + Experience supporting AI/ML pipelines, vectorization, or embedding generation + Experience with data governance, access controls, or sensitive data protection + Exposure to DevOps/CI-CD patterns for data workflows + Experience with Databricks + Experience with real-time data streaming and event-driven architectures The SMX salary determination process takes into account a number of factors, including but not limited to, geographic location, Federal Government contract labor categories, relevant prior work experience, specific skills, education and certifications. At SMX, one of our Core Values is to Invest in Our People so we offer a competitive mix of compensation, learning & development opportunities, and benefits. Some key components of our robust benefits include health insurance, paid leave, and retirement. The proposed salary for this position is: $115,000-$187,000 USD At SMX®, we are a team of technical and domain experts dedicated to enabling your mission. From priority national security initiatives for the DoD to highly assured and compliant solutions for healthcare, we understand that digital transformation is key to your future success. We share your vision for the future and strive to accelerate your impact on the world. We bring both cutting edge technology and an expansive view of what's possible to every engagement. Our delivery model and unique approaches harness our deep technical and domain knowledge, providing forward-looking insights and practical solutions to power secure mission acceleration. SMX is an Equal Opportunity employer including disabilities and veterans. Selected applicant may be subject to a background investigation and/or education verification. SMX does not sponsor a new applicant for employment authorization or immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer).",
+      "apply_options": [
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5945867981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbGVhcmVkIERhdGEgRW5naW5lZXIgKDU3ODYpIiwiY29tcGFueV9uYW1lIjoiU01YIiwiaHRpZG9jaWQiOiJpQ2FQQ3ktS2czWmROUzVlQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW5aaVdGTlBOSFJDU2paeFRqSjVRMXBWVmkxdWJsWkhSa1pUTlZKT1oyZDJjbG8wTVMxa2REZ3hkMmhHTFZaQ1VVcEhUbVJwY1hwbU1scDVOVFYxTm0xUlpGcDJNVTQ1VjFKMFZrbFZTRTV3WkdWSFpYTjRWV05XUlc0M1ltczBjRFV3YVhGalVWTlhRVUphUlVwR2VrcHlTVkZVYlRsNGNuWk1TRWRTTFRWRFJUQjNiamtTRjFOM2JteGhiMkZzU0RaNlMzWk5ZMUJ3Y1hFMlowRkZHaUpCU0U0d1JUZEZjbVZ0UkVjMVNrWjRZMlowUmpCUWNFTkhUblpUTnpkNlRtaFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJpQ2FQQ3ktS2czWmROUzVlQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Engineer II",
+      "company_name": "Cisco Systems",
+      "location": "Asheville, NC",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Master's degree with 0 years of experience or Bachelor's degree with 2 years of experience",
+            "Fields include Computer Science, Data Science / Data Engineering, Computer Engineering xhuatnn / Software Engineering, Information Systems / IT or related field",
+            "AI literacy and cloud-first mindset; familiarity with agile methodologies and data-driven approaches",
+            "Experience or familiarity with MySQL, PostgreSQL, MongoDB and big data frameworks (Hadoop, Spark)",
+            "collaboration",
+            "teamwork",
+            "RESTful API design and development for data integration",
+            "Tableau",
+            "MySQL",
+            "PostgreSQL"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation / Benefits",
+            "medical, dental and vision insurance",
+            "401(k) with Cisco matching",
+            "paid parental leave",
+            "disability coverage",
+            "life insurance",
+            "RSU grants"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Engineer at Cisco, you build and maintain data solutions powering analytics and machine learning",
+            "You’ll ensure data quality, accessibility, and usability to inform smarter decisions and optimize marketing and customer experiences",
+            "You’ll translate complex data into actionable insights and collaborate with teams across the globe",
+            "This role supports Cisco’s data-driven mission in a collaborative, innovative environment with opportunities to impact how data informs AI-enabled security and operations",
+            "Build and support integrated data solutions for analytics and ML",
+            "Ensure data quality, accessibility, and usability",
+            "Enable smarter decisions and optimize investments and customer experiences",
+            "Make complex data understandable and actionable",
+            "Collaborate across teams to deliver solutions for a global community"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=FtjVZSlFhRZBRaKfAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5ymyCaiOBiJ6kidXDxA8o1HEkkzYXcIfUH_G7xDa_5Lpr1BRXhmn3MRBX6HnZw5xGEsLoAnOHG7BMt26Ba5GStSDJeFDU643iynGnk2b54lH-DBKxUEioNh-N-NiX7zaqL4hieH1GaBGKGswR6x5RoC4_uB3j1RJiJAAAA&shmds=v1_Ac3VAoxnmmxpTc39k40vOyH38l4ERarp5Y7rwqu0eSIboV_Ugw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=FtjVZSlFhRZBRaKfAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAeFBMVEX___8AAADw8PEAAAMAAAv4-PgAABXV1dcAABP8_Pzt7e0AABkNGS0AAA_09PUAAAYAACCLjZK3uLuqq69fYmlydXtZXWUAAB2io6aXmZ2dnqOxsrSAgod6fYJnanFucHcaIjM5Pkjg4eLLzM0ACiMrMkBMUFpESVSn2pSWAAABk0lEQVQ4jdWU23KDIBCG3aiAEoxoPMVToiZ9_zcsrPEQpel0pr0oF4j_zrcs_IBl_VKTF7N-ke-5A4A5AOB_A9rmgP0HYB4tYFwuehkvYJSb5oIZdAG8SfcA3Bk0rfRwWsAAHHcGBQQLeHoBxyL3YFmawalgfyxyB3pYsAGcCvZt8jOQTyDO6MMahBlUG7UCsZ-tSSvdn-vFjibRfdvqPmkWO-qzHlep0RRvr35hxEu73sz67fqe-yfNpf1BfXwft6fr6XjsPNr708A1cTU4jrbSAaqS3AAAPam0rFNJPaj3XMr5cNfg0VFgRa4FviINy8K7BhvGs5CTnYU9EHV0A-8JpnzMTYEXKFOMxwz6DSj5ZCCCOWRHqbIU_D6qBcH4g2wfrYqna9DKQ6EZyT-eiQmetpZUGzAmwl-DqngCnRUxp8O_SDAVDziLN6DHhqGI02mNEe1KvD3hEEqUBxUvjkO2O8qUEYF2hNqOB4CNdnQZE2hHFzIhGOm2nJozThJtQCHVRFHVVs_9U3IxDWLz1flR-wTFgRZGPXvBDAAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://us.trabajo.org/job-2570-cca7c9deaef132a322f7157dd1fc4cf6",
+      "job_title": "Data Engineer II",
+      "description": "Overview\n\nScroll down for a complete overview of what this job will require Are you the right candidate for this opportunity\nAs a Data Engineer at Cisco, you build and maintain data solutions powering analytics and machine learning. You’ll ensure data quality, accessibility, and usability to inform smarter decisions and optimize marketing and customer experiences. You’ll translate complex data into actionable insights and collaborate with teams across the globe. This role supports Cisco’s data-driven mission in a collaborative, innovative environment with opportunities to impact how data informs AI-enabled security and operations.\n\nCompensation / Benefits\n\nmedical, dental and vision insurance401(k) with Cisco matchingpaid parental leavedisability coveragelife insuranceRSU grantsResponsibilities\n\nBuild and support integrated data solutions for analytics and MLEnsure data quality, accessibility, and usabilityEnable smarter decisions and optimize investments and customer experiencesMake complex data understandable and actionableCollaborate across teams to deliver solutions for a global communityKey requirements\n\nMaster's degree with 0 years of experience or Bachelor's degree with 2 years of experienceFields include Computer Science, Data Science / Data Engineering, Computer Engineering xhuatnn / Software Engineering, Information Systems / IT or related fieldAI literacy and cloud-first mindset; familiarity with agile methodologies and data-driven approachesExperience or familiarity with MySQL, PostgreSQL, MongoDB and big data frameworks (Hadoop, Spark)collaborationteamworkRESTful API design and development for data integrationTableauMySQLPostgreSQL",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2570-cca7c9deaef132a322f7157dd1fc4cf6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIElJIiwiY29tcGFueV9uYW1lIjoiQ2lzY28gU3lzdGVtcyIsImh0aWRvY2lkIjoiRnRqVlpTbEZoUlpCUmFLZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdreGlNV2xXWlV4c1UxaHBibVpSU2s5TmN6UmFTM05ST1U1eFZVMWtSRlpuT1daNlIxRlpRbkJxTjI5RVpraG9OVnBIWDNsdVFsbzBUbTVYYldNdFNuZDNVRjlyWHpBdGRtcG5aREF6TFc5aWVtaFhOV2h1Vm5KaU1IZ3lPWEJTV1hkaldtdFRWaTFxTjNWRGNEaE5jRlJoZVc1MmNGTm9jeTFaU2t0TWRrZE1VRmRUV0hjU0YxTjNibXhoYjJGc1NEWjZTM1pOWTFCd2NYRTJaMEZGR2lKQlNFNHdSVGRIVW5oemNGTXdObTF2YTBkQ2JteFhSQzFSWlV4dFRURlBUMWxCIiwiZmN2IjoiMyIsImZjX2lkIjoiRnRqVlpTbEZoUlpCUmFLZkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZbGxhZVRJemNsVjVlalpuZEVJM2NYcDZZbUZOT0ZGUGVFNXlZMDVwZGtWV04ycEphR1ZGZWs1R2JtWk9VVU55U25NMFZsTmFkazlPZGxsRlpYbDFWazlUWm5rd2RHbzNaVGhwUW5OS1VtbzJXa2syVG00NWFtUlNORXhoTUhwR2RITmxVV1p6VUVoRmVVWTRXRjlmZVhWbmQyZFlWR0UwVjJselZYaDBOR2hMVjFsUVFXTmhNa3R3VWpoRFNVNUVVMHB6WDNOVWVIZzBjM0pRYlVnNWNVZ3pWVWd3ZWs5QkxYRlVkazlKTTNaV1UxaGZkbVJtU0Y5MFdYUldWbkJyUzFkTGQzVXhWMVpLUzFWM1psZHdWalpWTm0xTU5VVTRUbnB2ZFRWVlVYbzFiazVQVEUwMFVUYzJYMDFNU214T2VFTmxMVWhUY1dKWGVsQkVVbk5GWTNwM05tZEZTRGRsWkRGbVZVSmxOM2RxT1ZWU1kxVXpOVk41WjFWb2JHWm5XSGhWTjNnNVRYZEdlbk14YTJzMVRtWnpaM0Y1YTJOcE4wRXRSR2MwVkdSaWJHeE5OVkZ5ZHkxZk9IVmFTbE00Um01R05rNUdRMmRVV1doR1ltRnlhMUF4VmxKeloyNXFjbU5RTW1WQ1RVSk5YMG90VGpWQmVUUlFjalo2U3pBMVgzaDBVRXN0TFhKNmNraEhVWGh2WDBGVVdWaFFabFZFUm05RVRVZGpaM1JyZFdVMFJFcHFlRzFLZDJaTWJ6WkxTM1pUTFdoS2JUaDJMVW8xUmpCSGVtOUlZVTlXVEhaaFpubDVaMGw1TVROeFpVSndXbmhaTmtjdGNqTnJjakJyV2poRlpXOURSa3R2YkhWcU9FMTJXSEV3WlcwNExXZDZZV05QZFRsd1NGSjNVbUZOYW5CSFVXbGZWR3QyWDFGcFRqVkVhbXhwYlZGNU1WOUpPVFJNWkU5UFpXUTRaRzlrT1hwSVdtUmlkMWswRWhkVGQyNXNZVzloYkVnMmVrdDJUV05RY0hGeE5tZEJSUm9pUVVoT01FVTNTR0pTY1ZWc1IyOVZTV2hRTVdwaWRHNVVUMjVGUkVWdWFVMVFkdyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZbGxhZVRJemNsVjVlalpuZEVJM2NYcDZZbUZOT0ZGUGVFNXlZMDVwZGtWV04ycEphR1ZGZWs1R2JtWk9VVU55U25NMFZsTmFkazlPZGxsRlpYbDFWazlUWm5rd2RHbzNaVGhwUW5OS1VtbzJXa2syVG00NWFtUlNORXhoTUhwR2RITmxVV1p6VUVoRmVVWTRXRjlmZVhWbmQyZFlWR0UwVjJselZYaDBOR2hMVjFsUVFXTmhNa3R3VWpoRFNVNUVVMHB6WDNOVWVIZzBjM0pRYlVnNWNVZ3pWVWd3ZWs5QkxYRlVkazlKTTNaV1UxaGZkbVJtU0Y5MFdYUldWbkJyUzFkTGQzVXhWMVpLUzFWM1psZHdWalpWTm0xTU5VVTRUbnB2ZFRWVlVYbzFiazVQVEUwMFVUYzJYMDFNU214T2VFTmxMVWhUY1dKWGVsQkVVbk5GWTNwM05tZEZTRGRsWkRGbVZVSmxOM2RxT1ZWU1kxVXpOVk41WjFWb2JHWm5XSGhWTjNnNVRYZEdlbk14YTJzMVRtWnpaM0Y1YTJOcE4wRXRSR2MwVkdSaWJHeE5OVkZ5ZHkxZk9IVmFTbE00Um01R05rNUdRMmRVV1doR1ltRnlhMUF4VmxKeloyNXFjbU5RTW1WQ1RVSk5YMG90VGpWQmVUUlFjalo2U3pBMVgzaDBVRXN0TFhKNmNraEhVWGh2WDBGVVdWaFFabFZFUm05RVRVZGpaM1JyZFdVMFJFcHFlRzFLZDJaTWJ6WkxTM1pUTFdoS2JUaDJMVW8xUmpCSGVtOUlZVTlXVEhaaFpubDVaMGw1TVROeFpVSndXbmhaTmtjdGNqTnJjakJyV2poRlpXOURSa3R2YkhWcU9FMTJXSEV3WlcwNExXZDZZV05QZFRsd1NGSjNVbUZOYW5CSFVXbGZWR3QyWDFGcFRqVkVhbXhwYlZGNU1WOUpPVFJNWkU5UFpXUTRaRzlrT1hwSVdtUmlkMWswRWhkVGQyNXNZVzloYkVnMmVrdDJUV05RY0hGeE5tZEJSUm9pUVVoT01FVTNTR0pTY1ZWc1IyOVZTV2hRTVdwaWRHNVVUMjVGUkVWdWFVMVFkdyIsImZjdiI6IjMifQ%3D%3D&q=Data+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Engineer",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:16:58.329193+00:00",
+    "request_fingerprint": "42e15cbeff63a323b73b83c4f4203ffda7881cb62ada0c3a82741330b5cd4c6e",
+    "job_count": 10
+  }
+}

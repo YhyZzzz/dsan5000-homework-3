@@ -1,0 +1,1064 @@
+{
+  "search_metadata": {
+    "id": "6ae5097d4b959628e5dd6eca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rcY9tjQ97DUjBYR-ws2PfprA3XuxU4S5T06krzyu3-A/6ae5097d4b959628e5dd6eca.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rcY9tjQ97DUjBYR-ws2PfprA3XuxU4S5T06krzyu3-A/6ae5097d4b959628e5dd6eca.md",
+    "created_at": "2026-10-30 21:17:49 UTC",
+    "processed_at": "2026-10-30 21:17:49 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Applied+Scientist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/rcY9tjQ97DUjBYR-ws2PfprA3XuxU4S5T06krzyu3-A/6ae5097d4b959628e5dd6eca.html",
+    "total_time_taken": 2.66
+  },
+  "search_parameters": {
+    "q": "Applied Scientist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdbz84GBDo_LhR06phUdPJxqtx5PkDGuogPxScqnU_ALA9kPR3GtoK9pMzVBaYp4VXMwDgVG2N3vgyjqneU1OqGSPNNTY0rlJPmxq9tpeB_Y6c_exTwu3RZJZ0AY5Ond3cf26ypXc",
+        "q": "Applied Scientist no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdbz84GBDo_LhR06phUdPJxqtx5PkDGuogPxScqnU_ALA9kPR3GtoK9pMzVBaYp4VXMwDgVG2N3vgyjqneU1OqGSPNNTY0rlJPmxq9tpeB_Y6c_exTwu3RZJZ0AY5Ond3cf26ypXc&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQxKsJKAB6BAgWEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdbz84GBDo_LhR06phUdPJxqtx5PkDGuogPxScqnU_ALA9kPR3GtoK9pMzVBaYp4VXMwDgVG2N3vgyjqneU1OqGSPNNTY0rlJPmxq9tpeB_Y6c_exTwu3RZJZ0AY5Ond3cf26ypXc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHlj1if5YLar_wytFSU_4Qgy0h27ztvHglVa-CgS7GOGxS9yhAlooYXbAp30yhnsfRh7fd0Tupx2vDpWqOQBdPx084Z2LWojbzQoQqKLIwDPe5OUyfHVIiCbVDiSA2rdBcuFbNUI",
+        "q": "Applied Scientist remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHlj1if5YLar_wytFSU_4Qgy0h27ztvHglVa-CgS7GOGxS9yhAlooYXbAp30yhnsfRh7fd0Tupx2vDpWqOQBdPx084Z2LWojbzQoQqKLIwDPe5OUyfHVIiCbVDiSA2rdBcuFbNUI&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQxKsJKAF6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHlj1if5YLar_wytFSU_4Qgy0h27ztvHglVa-CgS7GOGxS9yhAlooYXbAp30yhnsfRh7fd0Tupx2vDpWqOQBdPx084Z2LWojbzQoQqKLIwDPe5OUyfHVIiCbVDiSA2rdBcuFbNUI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeprj9-kmhSFRNZSOdBb9tsv0QZoh4MHPwOAlfce4psgD5oNXWcllYumDuIqBIYJZ8LH5fffSMOrEbf1y5D6JEJTnedSKB3TCJknOHViI2OppzUftZj9-P7AijmsX1KwBHQrb7giHgO4EZuK1V0ZjkP-4KH07cp21wTXLMz6GvamxwwxJvRJIbi0Vf-RuSxfzPkAj5S1y841UvSE5CDfaYIlOYGpuPx8uYOUUppdhd5DNWv86JKoLEDi4qrgsW3EDNdhMKbzTJHwjOTMtaCPS8m3FA-hSr_uyIMQj-VhHUHsFmB7-X6teNIMGmcAZr-BiZ9ldY4Bk",
+            "q": "Applied Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeprj9-kmhSFRNZSOdBb9tsv0QZoh4MHPwOAlfce4psgD5oNXWcllYumDuIqBIYJZ8LH5fffSMOrEbf1y5D6JEJTnedSKB3TCJknOHViI2OppzUftZj9-P7AijmsX1KwBHQrb7giHgO4EZuK1V0ZjkP-4KH07cp21wTXLMz6GvamxwwxJvRJIbi0Vf-RuSxfzPkAj5S1y841UvSE5CDfaYIlOYGpuPx8uYOUUppdhd5DNWv86JKoLEDi4qrgsW3EDNdhMKbzTJHwjOTMtaCPS8m3FA-hSr_uyIMQj-VhHUHsFmB7-X6teNIMGmcAZr-BiZ9ldY4Bk&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeprj9-kmhSFRNZSOdBb9tsv0QZoh4MHPwOAlfce4psgD5oNXWcllYumDuIqBIYJZ8LH5fffSMOrEbf1y5D6JEJTnedSKB3TCJknOHViI2OppzUftZj9-P7AijmsX1KwBHQrb7giHgO4EZuK1V0ZjkP-4KH07cp21wTXLMz6GvamxwwxJvRJIbi0Vf-RuSxfzPkAj5S1y841UvSE5CDfaYIlOYGpuPx8uYOUUppdhd5DNWv86JKoLEDi4qrgsW3EDNdhMKbzTJHwjOTMtaCPS8m3FA-hSr_uyIMQj-VhHUHsFmB7-X6teNIMGmcAZr-BiZ9ldY4Bk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYhGx0rYtu52fldgg-qrxCTrz98-ZrF465aw1iQODxowId09j3VDFv5rF8EGkrpx0mhDyyvxH8RRx9MmMcuODa6apWNJHYl2AgJoR2SAUAPY1ja_qIOX31sJD9UeaZ5XC7tKTqyQKsb6OH6cciaz8ATsnIllKzoJpeVzmhgKXKWkr9zsBg05oeYXRiCSGg_w4kwbgL-OLoufnF5G_tDQ6EgsgyYNQ7ny_grSA54epe5drxIn0C5BOfyfq3vht226AxNKlqKRRXzQkBfgVunrMQ3kAMz-3PNINn2SBcT7PhtpmZtdEdJbHgP6PqFHdg7mc--Ex0JQ",
+            "q": "Applied Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYhGx0rYtu52fldgg-qrxCTrz98-ZrF465aw1iQODxowId09j3VDFv5rF8EGkrpx0mhDyyvxH8RRx9MmMcuODa6apWNJHYl2AgJoR2SAUAPY1ja_qIOX31sJD9UeaZ5XC7tKTqyQKsb6OH6cciaz8ATsnIllKzoJpeVzmhgKXKWkr9zsBg05oeYXRiCSGg_w4kwbgL-OLoufnF5G_tDQ6EgsgyYNQ7ny_grSA54epe5drxIn0C5BOfyfq3vht226AxNKlqKRRXzQkBfgVunrMQ3kAMz-3PNINn2SBcT7PhtpmZtdEdJbHgP6PqFHdg7mc--Ex0JQ&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYhGx0rYtu52fldgg-qrxCTrz98-ZrF465aw1iQODxowId09j3VDFv5rF8EGkrpx0mhDyyvxH8RRx9MmMcuODa6apWNJHYl2AgJoR2SAUAPY1ja_qIOX31sJD9UeaZ5XC7tKTqyQKsb6OH6cciaz8ATsnIllKzoJpeVzmhgKXKWkr9zsBg05oeYXRiCSGg_w4kwbgL-OLoufnF5G_tDQ6EgsgyYNQ7ny_grSA54epe5drxIn0C5BOfyfq3vht226AxNKlqKRRXzQkBfgVunrMQ3kAMz-3PNINn2SBcT7PhtpmZtdEdJbHgP6PqFHdg7mc--Ex0JQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2LF8DICJquErqBwghUapKc2Cn7_Wp4E5IOevPrULgpUYMM_nymoZ3DP-QGWiwGscK8_y6nlfH3dYCoSqP8bXiwieWDSl9EFVwkzBPHPNyJYnP8TZV40llnUu33ipGrrzrBrOAj4df9pdigJwrFCNb3q57UvMk799a1EKkeMTrG9gNmVCLYVl103uXWiIf986BzI9XzpURyhpzM3i0t1mjhoQZpkhWcDQw6bBpNEHjTgxr7NdXA4XIfbFH9DREisDMyfpLz6A3zG1-PEczU48SJUtS92eflKedVrG7XzA3y5jDNukThDOH732dEL_JzzS8E0KOhM",
+            "q": "Applied Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2LF8DICJquErqBwghUapKc2Cn7_Wp4E5IOevPrULgpUYMM_nymoZ3DP-QGWiwGscK8_y6nlfH3dYCoSqP8bXiwieWDSl9EFVwkzBPHPNyJYnP8TZV40llnUu33ipGrrzrBrOAj4df9pdigJwrFCNb3q57UvMk799a1EKkeMTrG9gNmVCLYVl103uXWiIf986BzI9XzpURyhpzM3i0t1mjhoQZpkhWcDQw6bBpNEHjTgxr7NdXA4XIfbFH9DREisDMyfpLz6A3zG1-PEczU48SJUtS92eflKedVrG7XzA3y5jDNukThDOH732dEL_JzzS8E0KOhM&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2LF8DICJquErqBwghUapKc2Cn7_Wp4E5IOevPrULgpUYMM_nymoZ3DP-QGWiwGscK8_y6nlfH3dYCoSqP8bXiwieWDSl9EFVwkzBPHPNyJYnP8TZV40llnUu33ipGrrzrBrOAj4df9pdigJwrFCNb3q57UvMk799a1EKkeMTrG9gNmVCLYVl103uXWiIf986BzI9XzpURyhpzM3i0t1mjhoQZpkhWcDQw6bBpNEHjTgxr7NdXA4XIfbFH9DREisDMyfpLz6A3zG1-PEczU48SJUtS92eflKedVrG7XzA3y5jDNukThDOH732dEL_JzzS8E0KOhM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjQm9l1tb8J5irBVjrUCFS6g7iVO9RivzbsmMPesbV2vrr8hZ_XxmL-N7XKAQdCude-IdurqbLuE1mYknJt2jdHk_6ry9FjCjSt6ZJTpSqsTV3Le576GxUgQz1-vuYAutpHzcU1WT3VRBCdNNT2bRKkGnjrXGwnJN41pIuEZfUxfouKxGi0Z4VgRkyEkI1XSCgBx1rcY6DiiCO6cJ5q6FN2Lxa6kydocwP2E743Nqc2Q_YgHYIPqWjg3MwEnkHVUDyeZ06Tv5Wo9h8LzlYzxruTZgGez1lTwNh6OOkI9SWSXhklTxQkDcXPtwkkxjUPOnjPUaInM",
+            "q": "Applied Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjQm9l1tb8J5irBVjrUCFS6g7iVO9RivzbsmMPesbV2vrr8hZ_XxmL-N7XKAQdCude-IdurqbLuE1mYknJt2jdHk_6ry9FjCjSt6ZJTpSqsTV3Le576GxUgQz1-vuYAutpHzcU1WT3VRBCdNNT2bRKkGnjrXGwnJN41pIuEZfUxfouKxGi0Z4VgRkyEkI1XSCgBx1rcY6DiiCO6cJ5q6FN2Lxa6kydocwP2E743Nqc2Q_YgHYIPqWjg3MwEnkHVUDyeZ06Tv5Wo9h8LzlYzxruTZgGez1lTwNh6OOkI9SWSXhklTxQkDcXPtwkkxjUPOnjPUaInM&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjQm9l1tb8J5irBVjrUCFS6g7iVO9RivzbsmMPesbV2vrr8hZ_XxmL-N7XKAQdCude-IdurqbLuE1mYknJt2jdHk_6ry9FjCjSt6ZJTpSqsTV3Le576GxUgQz1-vuYAutpHzcU1WT3VRBCdNNT2bRKkGnjrXGwnJN41pIuEZfUxfouKxGi0Z4VgRkyEkI1XSCgBx1rcY6DiiCO6cJ5q6FN2Lxa6kydocwP2E743Nqc2Q_YgHYIPqWjg3MwEnkHVUDyeZ06Tv5Wo9h8LzlYzxruTZgGez1lTwNh6OOkI9SWSXhklTxQkDcXPtwkkxjUPOnjPUaInM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeprj9-kmhSFRNZSOdBb9tsv0QZoh4MHPwOAlfce4psgD5oNXWcllYumDuIqBIYJZ8LH5fffSMOrEbf1y5D6JEJTnedSKB3TCJknOHViI2OppzUftZj9-P7AijmsX1KwBHQrb7giHgO4EZuK1V0ZjkP-4KH07cp21wTXLMz6GvamxwwxJvRJIbi0Vf-RuSxfzPkAj5S1y841UvSE5CDfaYIlOYGpuPx8uYOUUppdhd5DNWv86JKoLEDi4qrgsW3EDNdhMKbzTJHwjOTMtaCPS8m3FA-hSr_uyIMQj-VhHUHsFmB7-X6teNIMGmcAZr-BiZ9ldY4Bk",
+            "q": "Applied Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeprj9-kmhSFRNZSOdBb9tsv0QZoh4MHPwOAlfce4psgD5oNXWcllYumDuIqBIYJZ8LH5fffSMOrEbf1y5D6JEJTnedSKB3TCJknOHViI2OppzUftZj9-P7AijmsX1KwBHQrb7giHgO4EZuK1V0ZjkP-4KH07cp21wTXLMz6GvamxwwxJvRJIbi0Vf-RuSxfzPkAj5S1y841UvSE5CDfaYIlOYGpuPx8uYOUUppdhd5DNWv86JKoLEDi4qrgsW3EDNdhMKbzTJHwjOTMtaCPS8m3FA-hSr_uyIMQj-VhHUHsFmB7-X6teNIMGmcAZr-BiZ9ldY4Bk&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeprj9-kmhSFRNZSOdBb9tsv0QZoh4MHPwOAlfce4psgD5oNXWcllYumDuIqBIYJZ8LH5fffSMOrEbf1y5D6JEJTnedSKB3TCJknOHViI2OppzUftZj9-P7AijmsX1KwBHQrb7giHgO4EZuK1V0ZjkP-4KH07cp21wTXLMz6GvamxwwxJvRJIbi0Vf-RuSxfzPkAj5S1y841UvSE5CDfaYIlOYGpuPx8uYOUUppdhd5DNWv86JKoLEDi4qrgsW3EDNdhMKbzTJHwjOTMtaCPS8m3FA-hSr_uyIMQj-VhHUHsFmB7-X6teNIMGmcAZr-BiZ9ldY4Bk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYhGx0rYtu52fldgg-qrxCTrz98-ZrF465aw1iQODxowId09j3VDFv5rF8EGkrpx0mhDyyvxH8RRx9MmMcuODa6apWNJHYl2AgJoR2SAUAPY1ja_qIOX31sJD9UeaZ5XC7tKTqyQKsb6OH6cciaz8ATsnIllKzoJpeVzmhgKXKWkr9zsBg05oeYXRiCSGg_w4kwbgL-OLoufnF5G_tDQ6EgsgyYNQ7ny_grSA54epe5drxIn0C5BOfyfq3vht226AxNKlqKRRXzQkBfgVunrMQ3kAMz-3PNINn2SBcT7PhtpmZtdEdJbHgP6PqFHdg7mc--Ex0JQ",
+            "q": "Applied Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYhGx0rYtu52fldgg-qrxCTrz98-ZrF465aw1iQODxowId09j3VDFv5rF8EGkrpx0mhDyyvxH8RRx9MmMcuODa6apWNJHYl2AgJoR2SAUAPY1ja_qIOX31sJD9UeaZ5XC7tKTqyQKsb6OH6cciaz8ATsnIllKzoJpeVzmhgKXKWkr9zsBg05oeYXRiCSGg_w4kwbgL-OLoufnF5G_tDQ6EgsgyYNQ7ny_grSA54epe5drxIn0C5BOfyfq3vht226AxNKlqKRRXzQkBfgVunrMQ3kAMz-3PNINn2SBcT7PhtpmZtdEdJbHgP6PqFHdg7mc--Ex0JQ&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYhGx0rYtu52fldgg-qrxCTrz98-ZrF465aw1iQODxowId09j3VDFv5rF8EGkrpx0mhDyyvxH8RRx9MmMcuODa6apWNJHYl2AgJoR2SAUAPY1ja_qIOX31sJD9UeaZ5XC7tKTqyQKsb6OH6cciaz8ATsnIllKzoJpeVzmhgKXKWkr9zsBg05oeYXRiCSGg_w4kwbgL-OLoufnF5G_tDQ6EgsgyYNQ7ny_grSA54epe5drxIn0C5BOfyfq3vht226AxNKlqKRRXzQkBfgVunrMQ3kAMz-3PNINn2SBcT7PhtpmZtdEdJbHgP6PqFHdg7mc--Ex0JQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2LF8DICJquErqBwghUapKc2Cn7_Wp4E5IOevPrULgpUYMM_nymoZ3DP-QGWiwGscK8_y6nlfH3dYCoSqP8bXiwieWDSl9EFVwkzBPHPNyJYnP8TZV40llnUu33ipGrrzrBrOAj4df9pdigJwrFCNb3q57UvMk799a1EKkeMTrG9gNmVCLYVl103uXWiIf986BzI9XzpURyhpzM3i0t1mjhoQZpkhWcDQw6bBpNEHjTgxr7NdXA4XIfbFH9DREisDMyfpLz6A3zG1-PEczU48SJUtS92eflKedVrG7XzA3y5jDNukThDOH732dEL_JzzS8E0KOhM",
+            "q": "Applied Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2LF8DICJquErqBwghUapKc2Cn7_Wp4E5IOevPrULgpUYMM_nymoZ3DP-QGWiwGscK8_y6nlfH3dYCoSqP8bXiwieWDSl9EFVwkzBPHPNyJYnP8TZV40llnUu33ipGrrzrBrOAj4df9pdigJwrFCNb3q57UvMk799a1EKkeMTrG9gNmVCLYVl103uXWiIf986BzI9XzpURyhpzM3i0t1mjhoQZpkhWcDQw6bBpNEHjTgxr7NdXA4XIfbFH9DREisDMyfpLz6A3zG1-PEczU48SJUtS92eflKedVrG7XzA3y5jDNukThDOH732dEL_JzzS8E0KOhM&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2LF8DICJquErqBwghUapKc2Cn7_Wp4E5IOevPrULgpUYMM_nymoZ3DP-QGWiwGscK8_y6nlfH3dYCoSqP8bXiwieWDSl9EFVwkzBPHPNyJYnP8TZV40llnUu33ipGrrzrBrOAj4df9pdigJwrFCNb3q57UvMk799a1EKkeMTrG9gNmVCLYVl103uXWiIf986BzI9XzpURyhpzM3i0t1mjhoQZpkhWcDQw6bBpNEHjTgxr7NdXA4XIfbFH9DREisDMyfpLz6A3zG1-PEczU48SJUtS92eflKedVrG7XzA3y5jDNukThDOH732dEL_JzzS8E0KOhM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjQm9l1tb8J5irBVjrUCFS6g7iVO9RivzbsmMPesbV2vrr8hZ_XxmL-N7XKAQdCude-IdurqbLuE1mYknJt2jdHk_6ry9FjCjSt6ZJTpSqsTV3Le576GxUgQz1-vuYAutpHzcU1WT3VRBCdNNT2bRKkGnjrXGwnJN41pIuEZfUxfouKxGi0Z4VgRkyEkI1XSCgBx1rcY6DiiCO6cJ5q6FN2Lxa6kydocwP2E743Nqc2Q_YgHYIPqWjg3MwEnkHVUDyeZ06Tv5Wo9h8LzlYzxruTZgGez1lTwNh6OOkI9SWSXhklTxQkDcXPtwkkxjUPOnjPUaInM",
+            "q": "Applied Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjQm9l1tb8J5irBVjrUCFS6g7iVO9RivzbsmMPesbV2vrr8hZ_XxmL-N7XKAQdCude-IdurqbLuE1mYknJt2jdHk_6ry9FjCjSt6ZJTpSqsTV3Le576GxUgQz1-vuYAutpHzcU1WT3VRBCdNNT2bRKkGnjrXGwnJN41pIuEZfUxfouKxGi0Z4VgRkyEkI1XSCgBx1rcY6DiiCO6cJ5q6FN2Lxa6kydocwP2E743Nqc2Q_YgHYIPqWjg3MwEnkHVUDyeZ06Tv5Wo9h8LzlYzxruTZgGez1lTwNh6OOkI9SWSXhklTxQkDcXPtwkkxjUPOnjPUaInM&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjQm9l1tb8J5irBVjrUCFS6g7iVO9RivzbsmMPesbV2vrr8hZ_XxmL-N7XKAQdCude-IdurqbLuE1mYknJt2jdHk_6ry9FjCjSt6ZJTpSqsTV3Le576GxUgQz1-vuYAutpHzcU1WT3VRBCdNNT2bRKkGnjrXGwnJN41pIuEZfUxfouKxGi0Z4VgRkyEkI1XSCgBx1rcY6DiiCO6cJ5q6FN2Lxa6kydocwP2E743Nqc2Q_YgHYIPqWjg3MwEnkHVUDyeZ06Tv5Wo9h8LzlYzxruTZgGez1lTwNh6OOkI9SWSXhklTxQkDcXPtwkkxjUPOnjPUaInM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9RPtl50bpCp5z5Z0TBiE0OXFuv4T_vZe_0LZseKhX1gU7jerfIf0TZPK4tzIXElv2jfD0I_0f9g0SStliFXaJL_wNKnov8DtPZYFMU5sDPgpP2f-pIZY0UrIF5QeVlQ54CSIQ0cR4yLDCuO6Z4NaqKEdcCReiB0fiYDy-ADyngKdyYZmcP6JGgNpf_BcXtfxVFDC65VQ_c79cqsVhIaIB5tT2jc1hDnBL40Hw3P8YoQjKokBXZcZUSU04nQ2UvUJ2zTeWlOgEwHsuV25fq6eVhrmO2b1wg",
+            "q": "Applied Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9RPtl50bpCp5z5Z0TBiE0OXFuv4T_vZe_0LZseKhX1gU7jerfIf0TZPK4tzIXElv2jfD0I_0f9g0SStliFXaJL_wNKnov8DtPZYFMU5sDPgpP2f-pIZY0UrIF5QeVlQ54CSIQ0cR4yLDCuO6Z4NaqKEdcCReiB0fiYDy-ADyngKdyYZmcP6JGgNpf_BcXtfxVFDC65VQ_c79cqsVhIaIB5tT2jc1hDnBL40Hw3P8YoQjKokBXZcZUSU04nQ2UvUJ2zTeWlOgEwHsuV25fq6eVhrmO2b1wg&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9RPtl50bpCp5z5Z0TBiE0OXFuv4T_vZe_0LZseKhX1gU7jerfIf0TZPK4tzIXElv2jfD0I_0f9g0SStliFXaJL_wNKnov8DtPZYFMU5sDPgpP2f-pIZY0UrIF5QeVlQ54CSIQ0cR4yLDCuO6Z4NaqKEdcCReiB0fiYDy-ADyngKdyYZmcP6JGgNpf_BcXtfxVFDC65VQ_c79cqsVhIaIB5tT2jc1hDnBL40Hw3P8YoQjKokBXZcZUSU04nQ2UvUJ2zTeWlOgEwHsuV25fq6eVhrmO2b1wg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9ROGj4ArTN41virOtoxTDHvLSq4KbQAns-TXRMT25Xp7XzEPIHvMDLhZupWKKKbL3ITq6RuX_abTSM8khuCdy-Qjrw-wgGp04CQaosGvE_4h4fZ_GIE42rk9mPFnR7ym6SHfy0AV4nzRsI_XX_BUrksgP0zIvwyZV0bpKME3i637ImQxgtfrgFD9ky16pEFUrs2JPoMxyguuGZsQRfHvq8YxumA11uyp3oo3zeIUkzSfQkJANBqwCj8PZhZ_DJCwnS5-Ric1Cqwa1OIwNQYSpxLdhcOL1w",
+            "q": "Applied Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9ROGj4ArTN41virOtoxTDHvLSq4KbQAns-TXRMT25Xp7XzEPIHvMDLhZupWKKKbL3ITq6RuX_abTSM8khuCdy-Qjrw-wgGp04CQaosGvE_4h4fZ_GIE42rk9mPFnR7ym6SHfy0AV4nzRsI_XX_BUrksgP0zIvwyZV0bpKME3i637ImQxgtfrgFD9ky16pEFUrs2JPoMxyguuGZsQRfHvq8YxumA11uyp3oo3zeIUkzSfQkJANBqwCj8PZhZ_DJCwnS5-Ric1Cqwa1OIwNQYSpxLdhcOL1w&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9ROGj4ArTN41virOtoxTDHvLSq4KbQAns-TXRMT25Xp7XzEPIHvMDLhZupWKKKbL3ITq6RuX_abTSM8khuCdy-Qjrw-wgGp04CQaosGvE_4h4fZ_GIE42rk9mPFnR7ym6SHfy0AV4nzRsI_XX_BUrksgP0zIvwyZV0bpKME3i637ImQxgtfrgFD9ky16pEFUrs2JPoMxyguuGZsQRfHvq8YxumA11uyp3oo3zeIUkzSfQkJANBqwCj8PZhZ_DJCwnS5-Ric1Cqwa1OIwNQYSpxLdhcOL1w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3ouUhYUw0TpgQoBQzDfVGMFkSf1YehYJz8xIWTSWe5HPwHMsVj2Y3lAoqnIUCR5m9goGDnxINU0JVf5FdmZhuVBuUWVhAG7nDVdGMMkVJtr3ejOI2u_LPbPzcgUKtDXzyL3ErfW6n5uy5BkTvW7gimjAQfNPlsqE-Obr13N5HmLLtkmIphEkpOvgCHR1F8eqOllqFFHhZTiG7Pr8q8v25HzN0pUdDdRM-NI_acVJF7fMAqBDpepVebX3wJA9K-WM_aEucZf-gzvhidXWMJn1LBQHEtthzv-7xVZOXZWfCjxT_uDMErA",
+            "q": "Applied Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3ouUhYUw0TpgQoBQzDfVGMFkSf1YehYJz8xIWTSWe5HPwHMsVj2Y3lAoqnIUCR5m9goGDnxINU0JVf5FdmZhuVBuUWVhAG7nDVdGMMkVJtr3ejOI2u_LPbPzcgUKtDXzyL3ErfW6n5uy5BkTvW7gimjAQfNPlsqE-Obr13N5HmLLtkmIphEkpOvgCHR1F8eqOllqFFHhZTiG7Pr8q8v25HzN0pUdDdRM-NI_acVJF7fMAqBDpepVebX3wJA9K-WM_aEucZf-gzvhidXWMJn1LBQHEtthzv-7xVZOXZWfCjxT_uDMErA&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3ouUhYUw0TpgQoBQzDfVGMFkSf1YehYJz8xIWTSWe5HPwHMsVj2Y3lAoqnIUCR5m9goGDnxINU0JVf5FdmZhuVBuUWVhAG7nDVdGMMkVJtr3ejOI2u_LPbPzcgUKtDXzyL3ErfW6n5uy5BkTvW7gimjAQfNPlsqE-Obr13N5HmLLtkmIphEkpOvgCHR1F8eqOllqFFHhZTiG7Pr8q8v25HzN0pUdDdRM-NI_acVJF7fMAqBDpepVebX3wJA9K-WM_aEucZf-gzvhidXWMJn1LBQHEtthzv-7xVZOXZWfCjxT_uDMErA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFs_QzwWxIKI0Fxjc8mXMTREno-r76ZPbp9bsksmduDUgZ8w0XMGDEnViG-uLst_FOfeRtg9oPukjgaJtcnqS75JTqf5ftet-5DjTrpv4fOcUH7OHhOB7cAlNY2xSet5wx2zQDZ6rz4zX6jZgyfqy2UxrOqTGAHUF8ZGwZwV1IslCFDthCn5ZjaHQLXV_qHRb5KwUI_KytyB2RSn8VulZLXmzEXyRLecFg-uLUVGEZtWJCy4WkJXVlHSQop8ZenDrncDHAcjXPv0mcWq9UOI_OC5NDH01sLuM9OdjUWNFamu7XjTeXw",
+            "q": "Applied Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFs_QzwWxIKI0Fxjc8mXMTREno-r76ZPbp9bsksmduDUgZ8w0XMGDEnViG-uLst_FOfeRtg9oPukjgaJtcnqS75JTqf5ftet-5DjTrpv4fOcUH7OHhOB7cAlNY2xSet5wx2zQDZ6rz4zX6jZgyfqy2UxrOqTGAHUF8ZGwZwV1IslCFDthCn5ZjaHQLXV_qHRb5KwUI_KytyB2RSn8VulZLXmzEXyRLecFg-uLUVGEZtWJCy4WkJXVlHSQop8ZenDrncDHAcjXPv0mcWq9UOI_OC5NDH01sLuM9OdjUWNFamu7XjTeXw&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFs_QzwWxIKI0Fxjc8mXMTREno-r76ZPbp9bsksmduDUgZ8w0XMGDEnViG-uLst_FOfeRtg9oPukjgaJtcnqS75JTqf5ftet-5DjTrpv4fOcUH7OHhOB7cAlNY2xSet5wx2zQDZ6rz4zX6jZgyfqy2UxrOqTGAHUF8ZGwZwV1IslCFDthCn5ZjaHQLXV_qHRb5KwUI_KytyB2RSn8VulZLXmzEXyRLecFg-uLUVGEZtWJCy4WkJXVlHSQop8ZenDrncDHAcjXPv0mcWq9UOI_OC5NDH01sLuM9OdjUWNFamu7XjTeXw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9RPtl50bpCp5z5Z0TBiE0OXFuv4T_vZe_0LZseKhX1gU7jerfIf0TZPK4tzIXElv2jfD0I_0f9g0SStliFXaJL_wNKnov8DtPZYFMU5sDPgpP2f-pIZY0UrIF5QeVlQ54CSIQ0cR4yLDCuO6Z4NaqKEdcCReiB0fiYDy-ADyngKdyYZmcP6JGgNpf_BcXtfxVFDC65VQ_c79cqsVhIaIB5tT2jc1hDnBL40Hw3P8YoQjKokBXZcZUSU04nQ2UvUJ2zTeWlOgEwHsuV25fq6eVhrmO2b1wg",
+            "q": "Applied Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9RPtl50bpCp5z5Z0TBiE0OXFuv4T_vZe_0LZseKhX1gU7jerfIf0TZPK4tzIXElv2jfD0I_0f9g0SStliFXaJL_wNKnov8DtPZYFMU5sDPgpP2f-pIZY0UrIF5QeVlQ54CSIQ0cR4yLDCuO6Z4NaqKEdcCReiB0fiYDy-ADyngKdyYZmcP6JGgNpf_BcXtfxVFDC65VQ_c79cqsVhIaIB5tT2jc1hDnBL40Hw3P8YoQjKokBXZcZUSU04nQ2UvUJ2zTeWlOgEwHsuV25fq6eVhrmO2b1wg&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9RPtl50bpCp5z5Z0TBiE0OXFuv4T_vZe_0LZseKhX1gU7jerfIf0TZPK4tzIXElv2jfD0I_0f9g0SStliFXaJL_wNKnov8DtPZYFMU5sDPgpP2f-pIZY0UrIF5QeVlQ54CSIQ0cR4yLDCuO6Z4NaqKEdcCReiB0fiYDy-ADyngKdyYZmcP6JGgNpf_BcXtfxVFDC65VQ_c79cqsVhIaIB5tT2jc1hDnBL40Hw3P8YoQjKokBXZcZUSU04nQ2UvUJ2zTeWlOgEwHsuV25fq6eVhrmO2b1wg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9ROGj4ArTN41virOtoxTDHvLSq4KbQAns-TXRMT25Xp7XzEPIHvMDLhZupWKKKbL3ITq6RuX_abTSM8khuCdy-Qjrw-wgGp04CQaosGvE_4h4fZ_GIE42rk9mPFnR7ym6SHfy0AV4nzRsI_XX_BUrksgP0zIvwyZV0bpKME3i637ImQxgtfrgFD9ky16pEFUrs2JPoMxyguuGZsQRfHvq8YxumA11uyp3oo3zeIUkzSfQkJANBqwCj8PZhZ_DJCwnS5-Ric1Cqwa1OIwNQYSpxLdhcOL1w",
+            "q": "Applied Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9ROGj4ArTN41virOtoxTDHvLSq4KbQAns-TXRMT25Xp7XzEPIHvMDLhZupWKKKbL3ITq6RuX_abTSM8khuCdy-Qjrw-wgGp04CQaosGvE_4h4fZ_GIE42rk9mPFnR7ym6SHfy0AV4nzRsI_XX_BUrksgP0zIvwyZV0bpKME3i637ImQxgtfrgFD9ky16pEFUrs2JPoMxyguuGZsQRfHvq8YxumA11uyp3oo3zeIUkzSfQkJANBqwCj8PZhZ_DJCwnS5-Ric1Cqwa1OIwNQYSpxLdhcOL1w&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TOxJad_6aJjbY08dbzD9ROGj4ArTN41virOtoxTDHvLSq4KbQAns-TXRMT25Xp7XzEPIHvMDLhZupWKKKbL3ITq6RuX_abTSM8khuCdy-Qjrw-wgGp04CQaosGvE_4h4fZ_GIE42rk9mPFnR7ym6SHfy0AV4nzRsI_XX_BUrksgP0zIvwyZV0bpKME3i637ImQxgtfrgFD9ky16pEFUrs2JPoMxyguuGZsQRfHvq8YxumA11uyp3oo3zeIUkzSfQkJANBqwCj8PZhZ_DJCwnS5-Ric1Cqwa1OIwNQYSpxLdhcOL1w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3ouUhYUw0TpgQoBQzDfVGMFkSf1YehYJz8xIWTSWe5HPwHMsVj2Y3lAoqnIUCR5m9goGDnxINU0JVf5FdmZhuVBuUWVhAG7nDVdGMMkVJtr3ejOI2u_LPbPzcgUKtDXzyL3ErfW6n5uy5BkTvW7gimjAQfNPlsqE-Obr13N5HmLLtkmIphEkpOvgCHR1F8eqOllqFFHhZTiG7Pr8q8v25HzN0pUdDdRM-NI_acVJF7fMAqBDpepVebX3wJA9K-WM_aEucZf-gzvhidXWMJn1LBQHEtthzv-7xVZOXZWfCjxT_uDMErA",
+            "q": "Applied Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3ouUhYUw0TpgQoBQzDfVGMFkSf1YehYJz8xIWTSWe5HPwHMsVj2Y3lAoqnIUCR5m9goGDnxINU0JVf5FdmZhuVBuUWVhAG7nDVdGMMkVJtr3ejOI2u_LPbPzcgUKtDXzyL3ErfW6n5uy5BkTvW7gimjAQfNPlsqE-Obr13N5HmLLtkmIphEkpOvgCHR1F8eqOllqFFHhZTiG7Pr8q8v25HzN0pUdDdRM-NI_acVJF7fMAqBDpepVebX3wJA9K-WM_aEucZf-gzvhidXWMJn1LBQHEtthzv-7xVZOXZWfCjxT_uDMErA&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3ouUhYUw0TpgQoBQzDfVGMFkSf1YehYJz8xIWTSWe5HPwHMsVj2Y3lAoqnIUCR5m9goGDnxINU0JVf5FdmZhuVBuUWVhAG7nDVdGMMkVJtr3ejOI2u_LPbPzcgUKtDXzyL3ErfW6n5uy5BkTvW7gimjAQfNPlsqE-Obr13N5HmLLtkmIphEkpOvgCHR1F8eqOllqFFHhZTiG7Pr8q8v25HzN0pUdDdRM-NI_acVJF7fMAqBDpepVebX3wJA9K-WM_aEucZf-gzvhidXWMJn1LBQHEtthzv-7xVZOXZWfCjxT_uDMErA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFs_QzwWxIKI0Fxjc8mXMTREno-r76ZPbp9bsksmduDUgZ8w0XMGDEnViG-uLst_FOfeRtg9oPukjgaJtcnqS75JTqf5ftet-5DjTrpv4fOcUH7OHhOB7cAlNY2xSet5wx2zQDZ6rz4zX6jZgyfqy2UxrOqTGAHUF8ZGwZwV1IslCFDthCn5ZjaHQLXV_qHRb5KwUI_KytyB2RSn8VulZLXmzEXyRLecFg-uLUVGEZtWJCy4WkJXVlHSQop8ZenDrncDHAcjXPv0mcWq9UOI_OC5NDH01sLuM9OdjUWNFamu7XjTeXw",
+            "q": "Applied Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDislZ6afjAC-o2xu08CZWnaq5-GAw:1793395070940&q=Applied+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFs_QzwWxIKI0Fxjc8mXMTREno-r76ZPbp9bsksmduDUgZ8w0XMGDEnViG-uLst_FOfeRtg9oPukjgaJtcnqS75JTqf5ftet-5DjTrpv4fOcUH7OHhOB7cAlNY2xSet5wx2zQDZ6rz4zX6jZgyfqy2UxrOqTGAHUF8ZGwZwV1IslCFDthCn5ZjaHQLXV_qHRb5KwUI_KytyB2RSn8VulZLXmzEXyRLecFg-uLUVGEZtWJCy4WkJXVlHSQop8ZenDrncDHAcjXPv0mcWq9UOI_OC5NDH01sLuM9OdjUWNFamu7XjTeXw&udm=8&sa=X&ved=2ahUKEwict5Sh1eKXAxWcke4BHclBCBsQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Applied+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFs_QzwWxIKI0Fxjc8mXMTREno-r76ZPbp9bsksmduDUgZ8w0XMGDEnViG-uLst_FOfeRtg9oPukjgaJtcnqS75JTqf5ftet-5DjTrpv4fOcUH7OHhOB7cAlNY2xSet5wx2zQDZ6rz4zX6jZgyfqy2UxrOqTGAHUF8ZGwZwV1IslCFDthCn5ZjaHQLXV_qHRb5KwUI_KytyB2RSn8VulZLXmzEXyRLecFg-uLUVGEZtWJCy4WkJXVlHSQop8ZenDrncDHAcjXPv0mcWq9UOI_OC5NDH01sLuM9OdjUWNFamu7XjTeXw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Applied Research Scientist",
+      "company_name": "Meta",
+      "location": "New York, NY",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A PhD in Computer Science, AI, relevant technical field, or equivalent practical experience",
+            "3+ Years Experience leading major research initiatives or influencing technical strategy across teams",
+            "Demonstrated ability to build reliable technical systems and evaluate their results",
+            "A strong track record of first-author publication on AI-related topics with experience presenting the work",
+            "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+            "Meta participates in the E-Verify program in certain locations, as required by law"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$154,003/year to $217,000/year + bonus + equity + benefits",
+            "Individual compensation is determined by skills, qualifications, experience, and location",
+            "Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable",
+            "In addition to base compensation, Meta offers benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Research Scientist, you’ll independently own ambitious applied research from question to measured result",
+            "You’ll identify capability gaps, formulate hypotheses, develop methods and benchmarks, build experimental environments and high-quality RL environments, and analyze agent behavior to distinguish genuine progress from shortcuts",
+            "Your expertise helps identify the capabilities to develop and the evidence used to measure progress",
+            "Your work will directly improve the family of Muse models and push the boundaries of what frontier AI can do.- Own the research from idea to results",
+            "Take a research question from definition through implementation, experiments and measured results",
+            "You’ll combine research judgment with hands-on engineering and help set the technical direction of your work.- Work on open research questions",
+            "Investigate how agents learn from feedback, make progress across successive experiments and apply what they learn to new problems",
+            "Develop methods that can distinguish genuine improvement from errors and shortcuts.- Collaborate across research and engineering",
+            "Work with other domain experts, engineers and researchers across Applied AI",
+            "Build on shared knowledge, challenge assumptions and turn promising ideas into reproducible methods and systems",
+            "Depending on your interests and strengths, your work may focus on model learning, evaluation methods, research environments, or data and experimental infrastructure",
+            "The role combines deep technical judgment with implementing and testing ideas",
+            "Identify capability gaps and formulate research questions that advance AI agents’ reasoning and problem-solving abilities",
+            "Develop research methods, benchmarks and experimental environments with reliable, reproducible measurements",
+            "Create and curate high-quality data, and build pipelines that support model training and evaluation",
+            "Analyze agent behavior and design feedback that rewards useful progress and tests generalization to new problems",
+            "Lead research from hypothesis through implementation and measured results, collaborating with Meta’s model development and research teams"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=08TJIHslfW2cerfHAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3IsQrCMBAAUFw7OzndLJqo4GInp4JgB506lSQeSTTNhdyB_QK_WwSXN7zms2j251JSxAfckNFUF-DuImaJLLCFC1n4N2XoiHzCVRtECp-0Zk7KsxiJTjmaNGW0NOsnWf4xcjAVSzKC4-G4m1XJfr28ohiIGXp8w0D1tYF--AJikRv9iQAAAA&shmds=v1_Ac3VAoyhslSR2ZJQs1Ad0ZoKyfVpSj_RGr6WUkhvrZ5Hgg7L8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=08TJIHslfW2cerfHAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5097d4b959628e5dd6eca/images/pIJP8h3WQtegCvPHP11pRgRegDQwnVTME7q71XXvPaY.jpeg",
+      "extensions": [
+        "4 days ago",
+        "154,003–217,000 a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=5ddc3cadc9097339",
+      "job_title": "Applied Research Scientist",
+      "description": "This role is within the Agent Data and Optimization team. The team is the Applied AI org’s data and research environment engine: we turn world-class technical expertise into the training data, reinforcement learning (RL) environments, evaluations, and feedback loops that make Meta’s models and the products built on them the best in the world. Our research and agentic work directly improves Muse family of models and powers products such as Muse Code and the Muse assistant. This unique data and research infrastructure is a key differentiator for Meta, complementing our investments in compute and model architecture.Why this is exciting: You’ll work directly on frontier AI models, not adjacent to them. We’re a significant, well-funded organization with the ethos of an AI startup: new, highly entrepreneurial, flexible, and already delivering measurable impact. Research and RL environments from our team went directly into the latest Muse release and helped the Muse family of models compete at the frontier. As a Research Scientist, you’ll independently own ambitious applied research from question to measured result. You’ll identify capability gaps, formulate hypotheses, develop methods and benchmarks, build experimental environments and high-quality RL environments, and analyze agent behavior to distinguish genuine progress from shortcuts. The work centers on advancing AI through:- Original research that develops agents’ ability to reason, experiment and solve complex technical problems.- Evaluation and benchmarks that measure meaningful progress and generalization.- High-quality RL environments grounded in expert knowledge.Why Join Us- Shape what frontier models can doYour expertise helps identify the capabilities to develop and the evidence used to measure progress. Your work will directly improve the family of Muse models and push the boundaries of what frontier AI can do.- Own the research from idea to resultsTake a research question from definition through implementation, experiments and measured results. You’ll combine research judgment with hands-on engineering and help set the technical direction of your work.- Work on open research questionsInvestigate how agents learn from feedback, make progress across successive experiments and apply what they learn to new problems. Develop methods that can distinguish genuine improvement from errors and shortcuts.- Collaborate across research and engineeringWork with other domain experts, engineers and researchers across Applied AI. Build on shared knowledge, challenge assumptions and turn promising ideas into reproducible methods and systems.Depending on your interests and strengths, your work may focus on model learning, evaluation methods, research environments, or data and experimental infrastructure. The role combines deep technical judgment with implementing and testing ideas. \n \n\n \n\n \n\n Applied Research Scientist Responsibilities: \n\n \n  Identify capability gaps and formulate research questions that advance AI agents’ reasoning and problem-solving abilities.\n  Develop research methods, benchmarks and experimental environments with reliable, reproducible measurements.\n  Create and curate high-quality data, and build pipelines that support model training and evaluation.\n  Analyze agent behavior and design feedback that rewards useful progress and tests generalization to new problems.\n  Lead research from hypothesis through implementation and measured results, collaborating with Meta’s model development and research teams.\n \n \n\n \n\n \n\n Minimum Qualifications:\n\n \n  A PhD in Computer Science, AI, relevant technical field, or equivalent practical experience\n  3+ Years Experience leading major research initiatives or influencing technical strategy across teams\n  Demonstrated ability to build reliable technical systems and evaluate their results\n  A strong track record of first-author publication on AI-related topics with experience presenting the work\n  Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n \n \n\n \n\n \n\n \n\n \n\n About Meta:\n Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics. \n \n\n \n\n \n\n \n  Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment. \n  \n\n  \n\n   Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com. \n  \n\n  \n\n   $154,003/year to $217,000/year + bonus + equity + benefits \n  \n\n  \n\n   Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=5ddc3cadc9097339&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/applied-research-scientist-at-meta-4482219085?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010307522230&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/law-school-admission-council/east-new-york/applied-research-scientist-106398773/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/6QPOrwBna8eAtW4SExVVg_Nota8fIG3brvPtIhPSe0Fmss6a0oy0SQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_831787EDDADE8603CA5D7331A470A6DD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/applied-research-scientist--new-york--ef518f937ff98dfd5322bf3f760ba6546?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/7907570392611422208?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFJlc2VhcmNoIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6Ik1ldGEiLCJodGlkb2NpZCI6IjA4VEpJSHNsZlcyY2VyZkhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVUYzVlhOaGRIQjJNa05UTUhwdFRrVkhaRUp3T1U1ak1rTkpVRXhUUkRsdWNtVkdRa2RsWVU1cmFYVkpVRU5HYVZkWFVHZEpkWGhPVlVKWlNtVXpaRGhRZUhwVE4wSkNhSHBmVG14a05ERlZlRVUzVWxoVlUxUTBYeTFZY3pCdU5EWnpNRGhFY2tWd1EwOXNNVXQyUzI5TWJEZERlR0ZhTlVZMmJUYzBObEpPTXpWUlkwc1NGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkRlVWTmFjbEUyUzNGR1NGOUdOWGRMUW1adU5ETndWVVZPU3pKQiIsImZjdiI6IjMiLCJmY19pZCI6IjA4VEpJSHNsZlcyY2VyZkhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
+      "company_name": "Amazon Web Services, Inc.",
+      "location": "Santa Clara, CA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The best people in this role are equally comfortable in a research paper, a code editor, and a room full of executives",
+            "PhD, or Master's degree and 5+ years of applied research experience",
+            "Experience in building machine learning models for business application",
+            "Experience programming in Java, C++, Python or related language",
+            "Experience using managed ML/AI solutions",
+            "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Work/Life Balance",
+            "We value work-life harmony",
+            "Your Amazon package will include sign-on payments and restricted stock units (RSUs)",
+            "Final compensation will be determined based on factors including experience, qualifications, and location",
+            "Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Applied Scientist you sit directly with customers and partners",
+            "You help them envision complex uses of AWS by building working prototypes of specific use cases, tailored to their data, devices, and systems",
+            "Engagements run in short build cycles, typically four to six weeks, and are designed to be innovative and evaluative, demonstrating the art of the possible on AWS while proving a credible path to production",
+            "Physical AI and autonomous robotics",
+            "Self-driving labs and instrument intelligence, where agents plan, run, and interpret experiments across fleets of scientific instruments",
+            "Scaling what we learn",
+            "Turning one-off prototypes into reusable patterns and assets the broader field can pick up and run with",
+            "You will not just apply these techniques",
+            "You will help decide which bets are worth making and prove or disprove them in the open with real customer problems",
+            "As a key member of the AWS Specialists and Partner Prototyping team, ensure customer success through hands-on participation producing and demonstrating prototypes on the AWS platform",
+            "Participate in deep architectural and scientific design discussions to ensure prototypes are crafted for successful deployment in the cloud and a credible path to production",
+            "Bring applied science depth to engagements: frame the problem, select and adapt models, design experiments, and judge technical feasibility honestly, including when the answer is that an approach will not work",
+            "Conduct one-to-few and one-to-many training sessions to transfer knowledge to prototyping customers, partners, and internal business partners",
+            "Act as a thought leader for your area of domain expertise across AWS, and share best-practice knowledge among the community",
+            "Author or otherwise contribute to AWS customer-facing publications such as peer reviewed position papers, blogs, and reference patterns",
+            "Act as a technical liaison between customers, service engineering teams, and sales, carrying real-world signal back to the teams building the services",
+            "Running a working session with a customer's scientists and engineers to pressure-test an idea and agree on what a prototype needs to prove",
+            "Writing code and training or fine-tuning models in the lab, often against the customer's own data, devices, or robots",
+            "Pairing with a prototyping SA and engagement manager, the standard pod you deliver alongside, to keep the build moving and the scope honest",
+            "Demonstrating a working prototype live and walking stakeholders through what it does, what it does not yet do, and what production would take",
+            "Capturing what you learned as a reusable pattern or publication so the next team does not start from zero",
+            "Spending time on the horizon itself: reading, experimenting with a new model or technique, and forming a point of view on where a bet is heading",
+            "You will move between hands-on building and customer-facing explanation constantly"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=nuveVtgLiCvEFXVhAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMWrDQBBGYdzqCK7-OigrE3DjVMJFSCrDElya0XqQNqxnlp3BKDleThanefA1r_vddJ-xBYy1lsxXxJRZPJv3GM8RsXLKVB42kFxxoubCDaemrv5ds8x4xodOMKaWFqjgTXUuvH1d3KsdhsGshNmcPKeQ9Dao8KTr8KWT_ediCzWuhZwvL_vdGqrMT_14o5_H68wTIrd7Tmw93iUFZEEkccKxUKMex_EP2YzbrMUAAAA&shmds=v1_Ac3VAozeRXBmGKP1Cc_2vZpQJpz_J39iu8PH_x0wdyNdQ8hMhg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=nuveVtgLiCvEFXVhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5097d4b959628e5dd6eca/images/hEU7fsbCS7neubmpI7nzreJlx6pHADjgWayy2v6vbXU.jpeg",
+      "extensions": [
+        "3 days ago",
+        "184K–260K a year",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=79452055fb672da2",
+      "job_title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
+      "description": "DESCRIPTION\n \n  Core to Amazon's DNA is its methodology around executing experiments and prototypes to find the quickest way to prove new ideas, technologies, and business models in a real-world environment. Experimentation fuels Amazon's innovation. \n  \n\n  \n\n   Our team does horizon exploration. We take emerging technology, including our own inventions, build working prototypes with customers and partners, and demonstrate what becomes possible before the rest of the market gets there. Prototyping is how we do the work. Pushing the technology horizon is why we do it. \n  \n\n  \n\n   If you are a highly creative problem solver who works to inspire, motivate, and define innovative solutions; are passionate about technology, understand cloud architectures and platforms, and are quick to pick up emerging technologies; are adept at working with customers to experiment with innovative approaches and validate the technical feasibility of solutions, this could be the role for you. \n  \n\n  \n\n   As a Senior Applied Scientist you sit directly with customers and partners. You help them envision complex uses of AWS by building working prototypes of specific use cases, tailored to their data, devices, and systems. Engagements run in short build cycles, typically four to six weeks, and are designed to be innovative and evaluative, demonstrating the art of the possible on AWS while proving a credible path to production. \n  \n\n  \n\n   You will work across the areas where we are placing our biggest bets. These shift as the technology does, but today they include: \n  \n\n  \n   Physical AI and autonomous robotics. World models, vision-language-action (VLA) models, cloud-based and agentic VLA, real-to-sim and sim-to-real pipelines, and agentic control of physical systems. We challenge the assumption that these models have to live only at the edge.\n   Autonomous scientific discovery. Self-driving labs and instrument intelligence, where agents plan, run, and interpret experiments across fleets of scientific instruments.\n   Agentic developer intelligence. Multi-agent systems, code agents, and automated research workflows that change how software gets built.\n   Scaling what we learn. Turning one-off prototypes into reusable patterns and assets the broader field can pick up and run with.\n  \n  \n\n   You will not just apply these techniques. You will help decide which bets are worth making and prove or disprove them in the open with real customer problems. \n  \n\n  \n\n   Key job responsibilities \n  \n\n  \n   As a key member of the AWS Specialists and Partner Prototyping team, ensure customer success through hands-on participation producing and demonstrating prototypes on the AWS platform.\n  \n  \n\n  \n   Participate in deep architectural and scientific design discussions to ensure prototypes are crafted for successful deployment in the cloud and a credible path to production.\n  \n  \n\n  \n   Bring applied science depth to engagements: frame the problem, select and adapt models, design experiments, and judge technical feasibility honestly, including when the answer is that an approach will not work.\n  \n  \n\n  \n   Conduct one-to-few and one-to-many training sessions to transfer knowledge to prototyping customers, partners, and internal business partners.\n  \n  \n\n  \n   Act as a thought leader for your area of domain expertise across AWS, and share best-practice knowledge among the community.\n  \n  \n\n  \n   Author or otherwise contribute to AWS customer-facing publications such as peer reviewed position papers, blogs, and reference patterns.\n  \n  \n\n  \n   Act as a technical liaison between customers, service engineering teams, and sales, carrying real-world signal back to the teams building the services.\n  \n  \n\n   A day in the life \n  \n\n   No two engagements look the same, which is the point. A typical week might include: \n  \n\n  \n\n  \n   Running a working session with a customer's scientists and engineers to pressure-test an idea and agree on what a prototype needs to prove.\n  \n  \n\n  \n   Writing code and training or fine-tuning models in the lab, often against the customer's own data, devices, or robots.\n  \n  \n\n  \n   Pairing with a prototyping SA and engagement manager, the standard pod you deliver alongside, to keep the build moving and the scope honest.\n  \n  \n\n  \n   Demonstrating a working prototype live and walking stakeholders through what it does, what it does not yet do, and what production would take.\n  \n  \n\n  \n   Capturing what you learned as a reusable pattern or publication so the next team does not start from zero.\n  \n  \n\n  \n   Spending time on the horizon itself: reading, experimenting with a new model or technique, and forming a point of view on where a bet is heading.\n  \n  \n\n  \n\n  \n\n   You will move between hands-on building and customer-facing explanation constantly. The best people in this role are equally comfortable in a research paper, a code editor, and a room full of executives. \n  \n\n  \n\n   About the team \n  \n\n   Why AWS \n  \n\n   Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. \n  \n\n  \n\n   Utility Computing (UC) \n  \n\n   AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services. \n  \n\n  \n\n   Inclusive Team Culture \n  \n\n   Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) conferences, inspire us to never stop embracing our uniqueness. \n  \n\n  \n\n   Work/Life Balance \n  \n\n   We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud. \n  \n\n  \n\n   Mentorship and Career Growth \n  \n\n   We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. \n  \n\n  \n\n   Diverse Experiences \n  \n\n   Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n \n  BASIC QUALIFICATIONS\n \n  PhD, or Master's degree and 5+ years of applied research experience\n  Experience in building machine learning models for business application\n  Experience programming in Java, C++, Python or related language\n  Experience using managed ML/AI solutions\n \n  PREFERRED QUALIFICATIONS\n \n  Experience conveying complex technical concepts to both technical and business audiences\n  Experience working with Advanced Compute technologies including, but not limited to: Accelerated Compute, High Performance Compute, Visual/Spatial Compute, and/or IoT.\n  Experience with vLLM, SGLang, TensorRT or similar platforms in production environments, or experience with Machine Learning and Large Language Model fundamentals, including architecture, training/inference lifecycles, and optimization of model execution\n  Experience in developing and deploying LLMs in production on GPUs, Neuron, TPU or other AI acceleration hardware, or experience in machine learning, data mining, information retrieval, statistics or natural language processing\n  Experience working with Robotics; training and deploying Vision Language Action (VLA) models, World Action models in simulation environments as well as real\n \n \n\n  Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. \n \n\n \n\n  Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. \n \n\n \n\n  Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. \n \n\n   The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\n\n \n\n  USA, CA, Santa Clara - 192,200.00 - 260,000.00 USD annually \n \n\n  USA, NY, New York - 183,800.00 - 248,700.00 USD annually \n \n\n  USA, VA, Herndon - 167,100.00 - 226,100.00 USD annually \n \n\n  USA, WA, Seattle - 167,100.00 - 226,100.00 USD annually",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=79452055fb672da2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/sr-applied-scientist-aws-specialists-and-partner-prototyping-at-amazon-web-services-aws-4484469095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/amazon/Job/Sr.-Applied-Scientist,-AWS-Specialists-and-Partner-Prototyping/-in-Santa-Clara,CA?jid=baa077ba46d6c251&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010308880889&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ae1598405a39c3e2c711e43?visit=srdot-applied-scientist,-aws-specialists-and-partner-prototyping-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/SYUtQlOyDQ8xTjjZksiEtv2XkjaoNkdrnVshD9grjgM83ZhAV5XARw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "KATCHUP",
+          "link": "https://katchup.world/student/jobs/176438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643464445675965731&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQXBwbGllZCBTY2llbnRpc3QsIEFXUyBTcGVjaWFsaXN0cyBhbmQgUGFydG5lciBQcm90b3R5cGluZyIsImNvbXBhbnlfbmFtZSI6IkFtYXpvbiBXZWIgU2VydmljZXMsIEluYy4iLCJodGlkb2NpZCI6Im51dmVWdGdMaUN2RUZYVmhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV3AxZG1VeUxVbHpiVWd4V25CNlkzbFZlVlZwVm01alExSmZlVWg0YTNkR2JYQjZNQzFWYjBORFkydzVSazlqYjBGTGIyUnlXSFo1Y1VWTU1rVklTVU5EWjJ4b2FYQjJVa3hmVm1GdE4zazRVbGRJTTBWUmJVcGlhbmxzZVRsa2RuZEdZazVhVmxvNFJIcGpaWFZ6UjBKVloyRlpVMDlSVjJndFJWQnVObXBUYVdSNVoyZ1NGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkR1h6SkZORVpPWkd0eWMwMU9TM1ZqYlVsS1kwOW5NMUJQY1haMyIsImZjdiI6IjMiLCJmY19pZCI6Im51dmVWdGdMaUN2RUZYVmhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Lead Applied Scientist, NBA – Reinforcement Learning",
+      "company_name": "003 Humana Inc.",
+      "location": "United States",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for a hands-on technical leader who can translate complex business problems into scalable, production-ready decision systems",
+            "The ideal candidate combines strong machine learning expertise with an understanding of decision science and software engineering",
+            "Use your skills to make an impact Required Qualifications Bachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, Operations Research, or a related quantitative field",
+            "6+ years of professional experience in machine learning, applied science, decision science, or related engineering disciplines",
+            "Strong experience designing, developing, testing, deploying, and monitoring machine learning solutions in production environments",
+            "Solid understanding of reinforcement learning, sequential decision making, or other advanced decision-making techniques",
+            "Strong Python programming skills and experience with machine learning frameworks such as PyTorch or TensorFlow",
+            "Experience with distributed data processing and ML platforms such as Databricks, PySpark, Ray, or equivalent technologies",
+            "Strong software engineering fundamentals, including software architecture, code quality, automated testing, and scalable system design",
+            "Demonstrated ability to translate complex business problems into analytical models and production solutions",
+            "Demonstrated experience owning models across the full lifecycle, including prototyping, offline evaluation, simulation, testing, deployment, and production monitoring",
+            "Experience with operations research, simulation, or decision analysis",
+            "Familiarity with MLflow, Ray RLlib, Databricks, and distributed model training",
+            "Experience developing recommendation systems, personalization platforms, or Next Best Action solutions",
+            "Experience with event-driven architectures, Kafka, Redis, or rule-based decision engines",
+            "Familiarity with decision mapping, multi-objective decision making, and decision making under uncertainty",
+            "Experience monitoring deployed models and policies for changes in performance, data distributions, and decision behavior",
+            "Experience within healthcare, insurance, or other regulated industries",
+            "Work at Home Requirements: To ensure Home or Hybrid Home/Office employees’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office employees must meet the following criteria: At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is required; wireless, wired cable or DSL connection is suggested"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Scheduled Weekly Hours 40 Pay Range The compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting",
+            "The pay range may be higher or lower based on geographic location and individual pay will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc",
+            "$129,300 - $177,800 per year This job is eligible for a bonus incentive plan",
+            "This incentive opportunity is based upon company and/or individual performance",
+            "Description of Benefits Humana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being",
+            "Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work",
+            "Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role goes beyond building predictive models",
+            "You will have end-to-end ownership of models and decision policies, from initial prototyping and experimentation through offline evaluation, simulation, testing, production deployment, and ongoing monitoring",
+            "You will help define how intelligent systems make decisions, evaluate their behavior under real-world constraints and uncertainty, and continuously improve their performance based on production outcomes",
+            "Key Responsibilities Machine Learning and Reinforcement Learning Design, develop, and improve machine learning and reinforcement learning models for personalized recommendations, sequential decision making, and policy learning",
+            "Decision Intelligence and Simulation Apply decision science, operations research, and simulation techniques to formulate complex decision problems, evaluate alternatives, and improve outcomes under business and operational constraints",
+            "Scalable ML Engineering Develop and improve production ML pipelines using Python, PyTorch, Databricks, PySpark, Ray RLlib, and MLflow, supporting large-scale data processing, model training, and inference",
+            "Model Evaluation and Experimentation Design experiments, simulations, offline evaluations, and performance metrics to assess model effectiveness, policy behavior, decision quality, and business impact before and after deployment",
+            "Production Deployment and Monitoring Own models and decision policies throughout their lifecycle, from prototyping and testing through production deployment, monitoring, and continuous improvement",
+            "Partner with software engineering and platform teams to ensure production systems are scalable, reliable, and observable",
+            "Constraint-Aware Decision Making Incorporate clinical eligibility, member preferences, business rules, operational capacity, and other constraints into intelligent decision systems",
+            "Technical Leadership Provide technical direction on model architecture, algorithm selection, evaluation methods, engineering best practices, and system design while collaborating with data scientists, engineers, and business stakeholders",
+            "Occasional travel to Humana's offices for training or meetings may be required",
+            "Work Hours: Typical business hours are Monday-Friday, 8 hours/day, 5 days/week-- some flexibility might be possible, depending on business needs",
+            "Very minimal travel might be required for training, meetings, and/or conferences Interview Format As part of our hiring process, we will be using on-demand technology provided by Hire Vue, a third-party vendor",
+            "You should anticipate the assessment to take approximately 10-15 minutes",
+            "Humana reserves the right to require associates to upgrade their internet service if necessary",
+            "Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information",
+            "Travel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=3FvvD1C3wQZIISDuAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOOw7CMBBERZsjUG2NwIlANFCFho-AAkQdOc7iGDm7VtZIKbkD9-BQnATTjDR6o6fJPqPsdETdQBmCd9jA1Tik6CRO4bwp4ft6wwUd3bk32CUCad2TIwszOHANkqppgQm2zNbjeN3GGGSV5yJeWYk6OqMMdzkT1jzkD67lH5W0usfgdcRqviwGFchOoCgWsHt2mjTsyShwBDdy8X8smVB-aCnrdbEAAAA&shmds=v1_Ac3VAoxB45QY_Ngiqe6W2AxSnY623DB__UzXvL5rdoASfhGLFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=3FvvD1C3wQZIISDuAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/remote-nationwide/lead-applied-scientist--nba---reinforcement-learning_r-435345",
+      "job_title": "Lead Applied Scientist, NBA – Reinforcement Learning",
+      "description": "Become a part of our caring community Become a Part of Our Caring Community Humana is seeking a Lead Applied Scientist to design, develop, and scale intelligent decision systems powering our Next Best Action (NBA) platform. Our platform combines machine learning, reinforcement learning, and decision intelligence to deliver personalized recommendations that improve healthcare experiences and outcomes for millions of members. We are looking for a hands-on technical leader who can translate complex business problems into scalable, production-ready decision systems. The ideal candidate combines strong machine learning expertise with an understanding of decision science and software engineering. This role goes beyond building predictive models. You will have end-to-end ownership of models and decision policies, from initial prototyping and experimentation through offline evaluation, simulation, testing, production deployment, and ongoing monitoring. You will help define how intelligent systems make decisions, evaluate their behavior under real-world constraints and uncertainty, and continuously improve their performance based on production outcomes. Key Responsibilities Machine Learning and Reinforcement Learning Design, develop, and improve machine learning and reinforcement learning models for personalized recommendations, sequential decision making, and policy learning. Decision Intelligence and Simulation Apply decision science, operations research, and simulation techniques to formulate complex decision problems, evaluate alternatives, and improve outcomes under business and operational constraints. Scalable ML Engineering Develop and improve production ML pipelines using Python, PyTorch, Databricks, PySpark, Ray RLlib, and MLflow, supporting large-scale data processing, model training, and inference. Model Evaluation and Experimentation Design experiments, simulations, offline evaluations, and performance metrics to assess model effectiveness, policy behavior, decision quality, and business impact before and after deployment. Production Deployment and Monitoring Own models and decision policies throughout their lifecycle, from prototyping and testing through production deployment, monitoring, and continuous improvement. Partner with software engineering and platform teams to ensure production systems are scalable, reliable, and observable. Constraint-Aware Decision Making Incorporate clinical eligibility, member preferences, business rules, operational capacity, and other constraints into intelligent decision systems. Technical Leadership Provide technical direction on model architecture, algorithm selection, evaluation methods, engineering best practices, and system design while collaborating with data scientists, engineers, and business stakeholders. Use your skills to make an impact Required Qualifications Bachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, Operations Research, or a related quantitative field. 6+ years of professional experience in machine learning, applied science, decision science, or related engineering disciplines. Strong experience designing, developing, testing, deploying, and monitoring machine learning solutions in production environments. Solid understanding of reinforcement learning, sequential decision making, or other advanced decision-making techniques. Strong Python programming skills and experience with machine learning frameworks such as PyTorch or TensorFlow. Experience with distributed data processing and ML platforms such as Databricks, PySpark, Ray, or equivalent technologies. Strong software engineering fundamentals, including software architecture, code quality, automated testing, and scalable system design. Demonstrated ability to translate complex business problems into analytical models and production solutions. Demonstrated experience owning models across the full lifecycle, including prototyping, offline evaluation, simulation, testing, deployment, and production monitoring. Preferred Qualifications Experience with reinforcement learning algorithms, contextual bandits, Markov Decision Processes, or offline policy evaluation. Experience with operations research, simulation, or decision analysis. Familiarity with MLflow, Ray RLlib, Databricks, and distributed model training. Experience developing recommendation systems, personalization platforms, or Next Best Action solutions. Experience with event-driven architectures, Kafka, Redis, or rule-based decision engines. Familiarity with decision mapping, multi-objective decision making, and decision making under uncertainty. Experience monitoring deployed models and policies for changes in performance, data distributions, and decision behavior. Experience within healthcare, insurance, or other regulated industries. Additional Information This role is not eligible for work visa sponsorship. Work Style: Remote/Hybrid - Preferably Boston, MA. Occasional travel to Humana's offices for training or meetings may be required. Work Hours: Typical business hours are Monday-Friday, 8 hours/day, 5 days/week-- some flexibility might be possible, depending on business needs. Very minimal travel might be required for training, meetings, and/or conferences Interview Format As part of our hiring process, we will be using on-demand technology provided by Hire Vue, a third-party vendor. This technology provides our team of recruiters and hiring managers with an enhanced method for decision-making through on-demand candidate assessments. If you are selected to move forward from your application prescreen, you will receive correspondence inviting you to participate in an on-demand assessment with pre-determined questions. You should anticipate the assessment to take approximately 10-15 minutes. Your on-demand assessment will be reviewed, and you will subsequently be informed if you will be moving forward to next round of interviews. SSN Task via Workday Should you be extended a formal employment offer you will receive a request to enter your SSN into our Workday system to scan for duplicate profiles. Work at Home Requirements: To ensure Home or Hybrid Home/Office employees’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office employees must meet the following criteria: At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is required; wireless, wired cable or DSL connection is suggested. In certain roles, the minimum recommended internet speed required by Humana may not be sufficient for business needs. Humana reserves the right to require associates to upgrade their internet service if necessary. Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information. Travel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required. Scheduled Weekly Hours 40 Pay Range The compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting. The pay range may be higher or lower based on geographic location and individual pay will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc. $129,300 - $177,800 per year This job is eligible for a bonus incentive plan. This incentive opportunity is based upon company and/or individual performance. Description of Benefits Humana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being. Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work. Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities. Application Deadline: 11-03-2026 About us About Humana: Humana Inc. (NYSE: HUM) is a leading U.S. healthcare company. Through our Humana insurance services and our CenterWell healthcare services, we make it easier for the millions of people we serve to achieve their best health – delivering the care and service they need, when they need it. These efforts are leading to a better quality of life for people with Medicare and Medicaid, families, individuals, military service personnel, and communities at large. Learn more about what we offer at Humana.com and at CenterWell.com. Equal Opportunity Employer It is the policy of Humana not to discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, genetic information, disability or protected veteran status. It is also the policy of Humana to take affirmative action, in compliance with Section 503 of the Rehabilitation Act and VEVRAA, to employ and to advance in employment individuals with disability or protected veteran status, and to base all employment decisions only on valid job requirements. This policy shall apply to all employment actions, including but not limited to recruitment, hiring, upgrading, promotion, transfer, demotion, layoff, recall, termination, rates of pay or other forms of compensation and selection for training, including apprenticeship, at all levels of employment.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/remote-nationwide/lead-applied-scientist--nba---reinforcement-learning_r-435345?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Profluent/Job/Machine-Learning-Scientist,-Reinforcement-Learning/-in-Emeryville,CA?jid=40048af9fd2c922e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/lead-applied-scientist_7ea1ac359cb83ff8387edbbd3b737e1655afd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/charles-river-analytics/applied-scientist-ai-deep-learning-184647044/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jaabz Jobs",
+          "link": "https://jaabz.com/jobs/276366-manager-data-scientist-advanced-recommenders-and-personalization-systems-transformers-llms-reinforcement-learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFH Beacon",
+          "link": "https://wfhbeacon.up.railway.app/job/machine-learning-scientist-content-conversation-modeling-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "PreferHired",
+          "link": "https://preferhired.com/jobs/11137?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MLjobs.io",
+          "link": "https://mljobs.io/jobs/openai-applied-data-scientist-personalization-machine-learning-5dce6671-9aa8-4c49-b263-b175a2a927f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEFwcGxpZWQgU2NpZW50aXN0LCBOQkEg4oCTIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmciLCJjb21wYW55X25hbWUiOiIwMDMgSHVtYW5hIEluYy4iLCJodGlkb2NpZCI6IjNGdnZEMUMzd1FaSUlTRHVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVzlXWTBsd01VOVRjVGhNTWxkR1p6VnVORFZVYzFGUFpteExXR05NVEV4VmNXdFZlRVZvYVhCRlMxWnZla3hMY0hwUWFraHRlbmxFVDJGblNuaDJTVVp4Y214Zllrb3pMVGRJVmtkQ1JrUkJOa014WmtwMVRVWjJkMGRTUkc5MFFWZGxWRmhoU2sxdlNYQlZjV1ZZWDA1dlJqWXlTMnRsTjFaQ2FYRklUMmd0TW1aeE9GRVNGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkRlNXNXJSMFJaYTBaQlVYUkhWVjgzTTJKNWEyVkJkbEZxTkRsMyIsImZjdiI6IjMiLCJmY19pZCI6IjNGdnZEMUMzd1FaSUlTRHVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "ML Research Scientist (Remote | $245–$280/hr)",
+      "company_name": "Synthires",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Prior AI experience is not required",
+            "Strong proficiency in Python and data analysis",
+            "Knowledge of machine learning, statistics, experimentation, and data modeling",
+            "Experience with Pandas and related data science tools",
+            "Strong analytical, problem-solving, and quantitative reasoning skills",
+            "Excellent written and verbal communication skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $245–$280 per hour",
+            "Location: Remote",
+            "Hourly compensation of $245–$280",
+            "Remote, contractor-based engagement"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Contractors will help improve next-generation AI systems by evaluating model outputs, developing high-quality datasets, and providing expert feedback",
+            "Design and execute statistical analyses to uncover insights from complex datasets",
+            "Develop, validate, and evaluate machine learning models for business and research objectives",
+            "Apply data modeling techniques and manage data transformations using Python and Pandas",
+            "Collaborate with stakeholders to establish experimentation frameworks and analyze outcomes",
+            "Document methodologies, findings, and recommendations clearly and accurately",
+            "Review peer contributions and provide constructive technical feedback",
+            "Deliver reproducible code and organized analytical reports",
+            "Evaluate AI model outputs involving statistics, machine learning, experimentation, and quantitative reasoning",
+            "Create expert-level prompts, datasets, and reference solutions",
+            "Identify flawed methodologies, statistical errors, and weaknesses in quantitative reasoning",
+            "Provide structured feedback to improve AI model performance"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=CHTO2EtEsaOGmv9iAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LMQrCQBAAQGzzBAvZIoWK5kIwIFqJEEG0SR4QLseSO0luw-0WESz8g2_wY75EBJvpJnpPouJ6gRIZdTAWKuPQi2OBeYk9CcID4myTf56vONumyoYFrOFMDfwDeTgRtR1O91Zk4J1SzF3SsmhxJjHUK_LY0Khu1PCPmq0OOHRasM7ydEwG3y5n1d2LdQEZnIdKeyiC9saxoRUcD18mhTfwqAAAAA&shmds=v1_Ac3VAoxJTm87pWzBnUeqVtGQIIlBHWoH7tp1c4iVE_Bt0Tos2g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=CHTO2EtEsaOGmv9iAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAgYDBQcB_8QAKhAAAgIBAgUDAwUAAAAAAAAAAQIAAxEEEgUTITFBIlGBFBWhBjJhcZH_xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgEFBP_EABkRAQADAQEAAAAAAAAAAAAAAAABAhFBMf_aAAwDAQACEQMRAD8A5ZEROs8pERAREQEREBE8bO04ODjpOh2aP9OcT1tWmoTQVad9Mbr7NEhf6QVMrEtZ0yHTmL6gGB25z0k2tjcUOgafDNqGfp0VK-7fJ6Af7_Ug4BzZVW60k4Usd3XHbdgAmWO3X8Ju0p28P4dWW0NmoC8v1LqOexWrPts2jb5E2HEOJ8Nu11i2fbrtLqeKb2IX9tLIBv8A4b3PcYlxOp8UtkZMb1ZcgEZGMg9jIyxV38J5GiGpWmwt9OlzHJZFFQ3Y9hvGD84h_tRvZcaNSa_VYCCoOT2UDBOMZwQe3nMqKb1M2ziuxESFkkHZVZVZgrDDAHo3nr79ZGICZKRQSee9qjwK0Bz8kjH5mOJpKdrI1hNabE8Luzj5kIiAiImBERAREQEREBERA__Z.jpeg",
+      "extensions": [
+        "3 days ago",
+        "245–280 an hour",
+        "Work from home",
+        "Contractor"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/ml-research-scientist-remote-%24245%E2%80%93%24280-hr-at-synthires-4481862617",
+      "job_title": "ML Research Scientist (Remote | $245–$280/hr)",
+      "description": "Applied Scientist (Remote | $245–$280/hr)\n\n\n\n\nPosition: Applied Scientist\n\n\n\n\nType: Contractor\n\n\n\n\nCompensation: $245–$280 per hour\n\n\n\n\nLocation: Remote\n\n\n\n\nAbout the Opportunity\n\nAn AI-focused project is seeking Applied Scientists to contribute expertise in advanced analytics, experimentation, statistics, and machine learning. Contractors will help improve next-generation AI systems by evaluating model outputs, developing high-quality datasets, and providing expert feedback. Prior AI experience is not required.\n\nKey Responsibilities\n\nDesign and execute statistical analyses to uncover insights from complex datasets.Develop, validate, and evaluate machine learning models for business and research objectives.Apply data modeling techniques and manage data transformations using Python and Pandas.Collaborate with stakeholders to establish experimentation frameworks and analyze outcomes.Document methodologies, findings, and recommendations clearly and accurately.Review peer contributions and provide constructive technical feedback.Deliver reproducible code and organized analytical reports.Evaluate AI model outputs involving statistics, machine learning, experimentation, and quantitative reasoning.Create expert-level prompts, datasets, and reference solutions.Identify flawed methodologies, statistical errors, and weaknesses in quantitative reasoning.Provide structured feedback to improve AI model performance.Required Qualifications\n\nStrong proficiency in Python and data analysis.Knowledge of machine learning, statistics, experimentation, and data modeling.Experience with Pandas and related data science tools.Strong analytical, problem-solving, and quantitative reasoning skills.Excellent written and verbal communication skills.Preferred Qualifications\n\nAt least one year of experience at a leading company in technology, finance, or research.Proficiency with Python libraries such as Pandas and scikit-learn.Demonstrated experience in applied statistics, experimental design, and machine learning.Experience developing, tuning, and evaluating machine learning models.Ability to work with structured and unstructured data.Experience collaborating on cross-functional or open data science projects.Advanced academic background or practical experience in data science, applied mathematics, or a related field.Compensation\n\nHourly compensation of $245–$280.Remote, contractor-based engagement.Application Process\n\nThe application process was not specified in the provided listing.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ml-research-scientist-remote-%24245%E2%80%93%24280-hr-at-synthires-4481862617?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643400699878516432&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/academic-research-scientist-remote-245280-hr-synthires-san-francisco-bay-area--appcast-10440_4459516084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNTCBSZXNlYXJjaCBTY2llbnRpc3QgKFJlbW90ZSB8ICQyNDXigJMkMjgwL2hyKSIsImNvbXBhbnlfbmFtZSI6IlN5bnRoaXJlcyIsImh0aWRvY2lkIjoiQ0hUTzJFdEVzYU9HbXY5aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlVWTVaRlJVVEdsU0xYVjVZa2d4TW5oRmFYZFdZbGhyTVY5UlpXNWlWbVJRZDNGNk5rUjNSMXBLWTNsdmNVcFVOa1Z1Tkd3NVMzUlVRMlpXYm5SM1kySldORXRaVERWUk5WSnpTMnBNTW13M1ltbGxRMnRtUlUxeVRtWktRbmhJZFcxU00xSmFhVEJtVWpCNmMyOVphME14ZVRKbVFXWkVWRzF2V0VSVWRTMUxYMnB4ZEU4U0YyWm5ibXhoY0hsQlQxcDVhblZ5T0ZCNVdVOW9Na0ZGR2lKQlNFNHdSVGRGVFU1SVpEQTBTakIwVjJOc1pteHNlblkwZG1WNVQxTnZWWGwzIiwiZmN2IjoiMyIsImZjX2lkIjoiQ0hUTzJFdEVzYU9HbXY5aUFBQUFBQT09In0="
+    },
+    {
+      "title": "Applied Research Engineer/Scientist",
+      "company_name": "Apple",
+      "location": "Cupertino, CA",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The work supports capabilities such as personal-context understanding and on-screen awareness, with privacy built in, and can affect experiences across iOS, iPad",
+            "Bachelor’s, master’s, or PhD in Computer Science, Machine Learning, or a related technical field, or equivalent practical experience",
+            "Hands-on machine-learning experience in product development, prototyping, or research environments",
+            "Strong programming skills and experience with machine-learning development",
+            "Understanding of transformer-based models",
+            "Ability to communicate technical concepts to team members",
+            "Experience prototyping in ML/AI contexts",
+            "Knowledge of large language models and multimodal foundation models",
+            "Experience with pre-training, fine-tuning, or performance optimization",
+            "Familiarity with AI systems capable of reasoning and task execution",
+            "Creativity and curiosity about applying AI capabilities to product experiences",
+            "Good collaboration skills and effective communication"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role focuses on research and engineering for self-improving systems, agentic memory, and deeply personalized autonomous multi-agent systems",
+            "The successful candidate will help create intelligent architectures that learn continuously, reason over persistent memory, coordinate across agents, and turn frontier research into scalable product experiences",
+            "The position combines applied research, prototyping, and product development to deliver practical, production-ready AI systems",
+            "Advance self-improving systems that learn from deployment signals, adapt over time, and autonomously optimize performance in real-world environments",
+            "Design and operationalize agentic memory frameworks for long-horizon reasoning, contextual continuity, personalization, and durable knowledge across interactions",
+            "Contribute to the design and development of personalized autonomous multi-agent systems for coordination, task decomposition, tool use, and dynamic collaboration",
+            "Conduct product-oriented research and rapid prototyping, translating foundational advances into validated user experiences and production-ready architectures",
+            "Influence platform strategy cross-functionally, assist in defining technical direction, and deliver scalable machine-learning systems integrated across hardware, software, and services",
+            "Implement research innovations in practical applications"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=6ZQFBqO3f04Pt6ZeAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBCAYVz7AA5ON4smIrjUqRQRHPUBShqP9CTehdwJfQ3fWAou__INf_NdNW1XSiZ8wh0VQ40TXDgRI1b_iIRspAZ7uMkIfxeGq0jKuDlPZkVb71WzS2rBKLooby-Mo8z-JaMuGXQKFUsOhsPxdJhd4bRdL2MEYug_BasRyw767gfCIm5GlAAAAA&shmds=v1_Ac3VAoxw4_GJbuHQAA5pYI6iRkCI4NBtlClJl2qq1YMxDW1p8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=6ZQFBqO3f04Pt6ZeAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.tealhq.com/job/applied-research-engineer-scientist_7ea1a86c5bbc210ee46a2c1dc520dbd4e86df",
+      "job_title": "Applied Research Engineer/Scientist",
+      "description": "About the position\n\nAs part of Apple’s Siri organization, the Applied Research Engineer/Scientist will help develop a deeply personal, integrated assistant powered by Apple Intelligence. The work supports capabilities such as personal-context understanding and on-screen awareness, with privacy built in, and can affect experiences across iOS, iPadOS, macOS, watchOS, and visionOS.\\n\\nThe role focuses on research and engineering for self-improving systems, agentic memory, and deeply personalized autonomous multi-agent systems. The successful candidate will help create intelligent architectures that learn continuously, reason over persistent memory, coordinate across agents, and turn frontier research into scalable product experiences. The position combines applied research, prototyping, and product development to deliver practical, production-ready AI systems.\n\nResponsibilities\n\nAdvance self-improving systems that learn from deployment signals, adapt over time, and autonomously optimize performance in real-world environments.Design and operationalize agentic memory frameworks for long-horizon reasoning, contextual continuity, personalization, and durable knowledge across interactions.Contribute to the design and development of personalized autonomous multi-agent systems for coordination, task decomposition, tool use, and dynamic collaboration.Conduct product-oriented research and rapid prototyping, translating foundational advances into validated user experiences and production-ready architectures.Influence platform strategy cross-functionally, assist in defining technical direction, and deliver scalable machine-learning systems integrated across hardware, software, and services.Implement research innovations in practical applications.Requirements\n\nBachelor’s, master’s, or PhD in Computer Science, Machine Learning, or a related technical field, or equivalent practical experience.Hands-on machine-learning experience in product development, prototyping, or research environments.Strong programming skills and experience with machine-learning development.Understanding of transformer-based models.Ability to communicate technical concepts to team members.Experience prototyping in ML/AI contexts.Knowledge of large language models and multimodal foundation models.Experience with pre-training, fine-tuning, or performance optimization.Familiarity with AI systems capable of reasoning and task execution.Creativity and curiosity about applying AI capabilities to product experiences.Good collaboration skills and effective communication.",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/applied-research-engineer-scientist_7ea1a86c5bbc210ee46a2c1dc520dbd4e86df?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/26b7f4a9-36ca-45aa-bea1-bf23f68b27de?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/applied-research-engineer-scientist--cupertino--e3b3941999fca5376358cfc7a97cd8d68?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Vacario",
+          "link": "https://vacario.ru/data-ml/applied-research-engineerscientist-47612?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Faangapply",
+          "link": "https://faangapply.io/jobs/apple-applied-research-engineer-scientist-b0f2383f-bddc-4871-b18c-98c13dd645f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Match Moth",
+          "link": "https://www.matchmoth.com/listing/0ed3d3bb2ed55c9e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/applied-research-engineer-scientist-apple-cupertino--fj-2430879898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2439-722777070c9ae63131863271c891199a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFJlc2VhcmNoIEVuZ2luZWVyL1NjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IkFwcGxlIiwiaHRpZG9jaWQiOiI2WlFGQnFPM2YwNFB0NlplQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1dsa1Z5MUVlRFJXTmtWNFFXMUJZMHBVVTNoTlRYTklSa28wWXpaRGVuUnVlRXB3ZEZsV1pEVlVlbWxyTURKVmNtVTRhVzlHU0VoMVpYSmFaMEZMY1VaaVRYbFZWWEZMUXpkTU1tMU5XVWxtYWpSRGFFNXdhR3BXZVd4aGN6bFBaVWRWWkVoTVlVczJjWE10Y1ROalNUQlZTV3hzV2pCYVRUVnhVbGxJUkhoa1ZrdHpWMm9TRjJabmJteGhjSGxCVDFwNWFuVnlPRkI1V1U5b01rRkZHaUpCU0U0d1JUZEZiekJQZDFrMlIwdFVlWFpoVm1reE1taHZXVFZFVm5aSVUzRjMiLCJmY3YiOiIzIiwiZmNfaWQiOiI2WlFGQnFPM2YwNFB0NlplQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Applied Scientist, Amazon Robotics",
+      "company_name": "Amazon.com Services LLC",
+      "location": "Sunnyvale, CA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD, or Master's degree and 4+ years of building machine learning models or developing algorithms for business application experience",
+            "2+ years of deep learning, computer vision, human robotic interaction, algorithms implementation experience",
+            "Experience in patents or publications at top-tier peer-reviewed conferences or journals",
+            "Experience programming in Java, C++, Python or related language",
+            "Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+            "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment",
+            "Medical, Dental, and Vision Coverage",
+            "Maternity and Parental Leave Options",
+            "Paid Time Off (PTO)",
+            "401(k) Plan",
+            "Your Amazon package will include sign-on payments and restricted stock units (RSUs)",
+            "Final compensation will be determined based on factors including experience, qualifications, and location",
+            "Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Integrate multi-modal learning capabilities (visual, depth, force, tactile, linguistic)",
+            "Accelerate policy skill acquisition through imitation learning and reinforcement learning",
+            "Enhance robotic perception and environmental understanding",
+            "Streamline development processes through reusable capabilities",
+            "The ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics",
+            "You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment",
+            "Model Development and Training: Designing and implementing the model architectures, training and fine tuning the foundation models using various datasets, and optimize the model performance through iterative experiments",
+            "Data Management: Process and prepare training data, including data governance, provenance tracking, data quality checks and creating reusable data pipelines",
+            "Experimentation and Validation: Design and execute experiments to test model capabilities on the simulator and on the embodiment, validate performance across different scenarios, create a baseline and iteratively improve model performance",
+            "Code Development: Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs",
+            "Research: Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions",
+            "Collaboration: Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=9rUSJgIlgkPhsafFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCMBBAce0nON0oUhsRHNQpdBCkk_2AksSjjaR3oRdL9XP8Ultc3vIevOy7yk46xuDxAbXzSMlLykH35sMEd7acvBPYwY0tCJrBdTCLK3MbcH3pUopyVkokFK0kM8eF414xoeVJPdnKgkY6M2AMJmFzOO6nIlK73fwnSw81DqN3KFBVJXiC-kX0Hk3AHEr9A0Bg5lelAAAA&shmds=v1_Ac3VAoxU697bwulJmBjYWbJ0JFcOX6H7yrFZJo1rKZQvBw-F1w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=9rUSJgIlgkPhsafFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAQMCBQcE_8QAKhAAAgICAQICCwEAAAAAAAAAAAECAwQREgUxUcETFBYjQVJUcXKRkgb_xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBQT_xAAoEQACAgAEBQMFAAAAAAAAAAAAAQIDBBEhURIVMZGhBRPBM1JhcdH_2gAMAwEAAhEDEQA_AO4gAAAAAAAAAAAAAAAAAAAAAAAAAAAFNmXjVS4WX1Ql8sppMylfVB5Skk_2XjVOSzSZcalCJRUouMknFrTT-JDSayYTy1NXdjZ-G3Lp1iuq-nufb8ZeTOdOnE0a4d8S-1_D_p7I2U2aWrJ7r5R53_olQ-Ofg5FEvtteRg_V_b0vrcX4NeX8etU0zP2n6brfK3-C3O8Ju-xHLMRsu5EevvJfHAwMi5-LXGP7C9VdulFTl4XcPAqH1ZpeTDI6dkZONON9GNGy-SSjVWvdre3Jy7t62VtwdttbU4xTk10XTXV57kwxEITXC3kt31_GRvYpKKS7JHYSyWRziSQACGk-62iGk-oK_V6U9-hr348UV9qGyLcctyxJLsXKkgAAAAAAAAAAAAAAAAAAAAAAA__Z.jpeg",
+      "extensions": [
+        "23 days ago",
+        "172K–222K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=32091b1027de2b9a",
+      "job_title": "Applied Scientist, Amazon Robotics",
+      "description": "DESCRIPTION\n \n  Amazon Robotics is seeking an exceptional Applied Scientist to join our Foundation Models and Agentic AI team. This role presents an opportunity to shape the future of robotics through innovative applications of large vision-language-action (VLA) models, reasoning and task planning models, and reinforcement learning. \n  \n\n  \n\n   At Amazon Robotics, we leverage advanced robotics, machine learning, and artificial intelligence to solve complex operational challenges at unprecedented scale. Our fleet of robots operates across hundreds of facilities worldwide, working in sophisticated coordination to fulfill our mission of customer excellence. \n  \n\n  \n\n   We are pioneering the development of robotics foundation models that: \n  \n\n  \n\n  \n   Enable unprecedented generalization across diverse tasks\n   Integrate multi-modal learning capabilities (visual, depth, force, tactile, linguistic)\n   Accelerate policy skill acquisition through imitation learning and reinforcement learning\n   Enhance robotic perception and environmental understanding\n   Streamline development processes through reusable capabilities\n  \n  \n\n   The ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics. You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment. \n  \n\n  \n\n   Join us in building the next generation of intelligent robotics systems that will transform the future of automation and human-robot collaboration. \n  \n\n  \n\n   Key job responsibilities \n  \n\n   As an Applied Scientist in the Applied AI and Robotics Foundations Model team, you will: \n  \n\n  \n   Model Development and Training: Designing and implementing the model architectures, training and fine tuning the foundation models using various datasets, and optimize the model performance through iterative experiments\n   Data Management: Process and prepare training data, including data governance, provenance tracking, data quality checks and creating reusable data pipelines.\n   Experimentation and Validation: Design and execute experiments to test model capabilities on the simulator and on the embodiment, validate performance across different scenarios, create a baseline and iteratively improve model performance.\n   Code Development: Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs\n   Research: Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions.\n   Collaboration: Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies.\n  \n  \n\n   A day in the life \n  \n\n   Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. \n  \n\n  \n\n   The benefits that generally apply to regular, full-time employees include: \n  \n\n  \n   Medical, Dental, and Vision Coverage\n   Maternity and Parental Leave Options\n   Paid Time Off (PTO)\n   401(k) Plan\n  \n  \n\n   If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! \n  \n\n  \n\n   At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply! \n  \n\n  \n\n   About the team \n  \n\n   Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart, collaborative team of enthusiastic doers that work passionately to apply innovative advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even image yet. We invent new improvements every day. We are Amazon Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling and fun.\n \n  BASIC QUALIFICATIONS\n \n  PhD, or Master's degree and 4+ years of building machine learning models or developing algorithms for business application experience\n  2+ years of deep learning, computer vision, human robotic interaction, algorithms implementation experience\n  Experience in patents or publications at top-tier peer-reviewed conferences or journals\n  Experience programming in Java, C++, Python or related language\n  Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n \n  PREFERRED QUALIFICATIONS\n \n  Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning\n  Experience applying theoretical models in an applied environment\n \n \n\n  Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. \n \n\n \n\n  Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. \n \n\n \n\n  Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. \n \n\n   The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\n\n \n\n  USA, CA, Sunnyvale - 171,600.00 - 222,200.00 USD annually",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=32091b1027de2b9a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Amazon/Job/Applied-Scientist,-Amazon-Robotics/-in-Sunnyvale,CA?jid=9db85c8482118665&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/applied-scientist-amazon-robotics--sunnyvale--e332b416236f227ff9622539916c5c31d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/applied-scientist-amazon-robotics-sunnyvale-ca--8decb5df-04bf-4d6d-963c-63807598c60e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=570541046395643213&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/applied-scientist-amazon-robotics-amazon-sunnyvale-ca_89263916?source=industry&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/applied-scientist-amazon-robotics-at-amazon-science-4474862305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/applied-scientist-amazon-robotics-amazoncom-sunnyvale-ca--t7xk-872522252?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgQW1hem9uIFJvYm90aWNzIiwiY29tcGFueV9uYW1lIjoiQW1hem9uLmNvbSBTZXJ2aWNlcyBMTEMiLCJodGlkb2NpZCI6IjlyVVNKZ0lsZ2tQaHNhZkZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbEl5WTFScmJtSTJVV2xuVDFOdVUyVnFOelF5TFV4VVVWOHRkalF5Y25CQ1lUbHpXazVJVmpkVlNHeGlYelpXYkRWMk5HRldiMkU0YVhoWmNqSTFZV3hDVUc1eVNqWTNXbGhJYWpnMmFrVllTakJ0VUZCemFqWlBhbkJFV1dOT1F6bGpRbFJGVEhwR1NIUXpla00xVTAxMWJuaGpXVFJXWTNwQlgwbGZXVk54ZWs5ek4yNFNGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkRlpuTjViVEJaVDJadWVGSkRTSFpTYld0blNWQXlTWGxKTlRaUiIsImZjdiI6IjMiLCJmY19pZCI6IjlyVVNKZ0lsZ2tQaHNhZkZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior AI/ML Applied Scientist - Remote",
+      "company_name": "UnitedHealth Group",
+      "location": "Bellevue, WA",
+      "via": "UnitedHealth Group",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "For all hires in the Minneapolis or Washington, D.C. area, you will be required to work in the office a minimum of four days per week",
+            "Master degree in computer science or related quantitative field",
+            "5+ years of experience using ML to solve problems in natural language processing (NLP), multimodal RT processing, and/or other AI domains",
+            "3+ years of DL frameworks such as PyTorch and/or TensorFlow",
+            "3+ years of developing machine learning applications",
+            "3+ years of experience in developing Responsible AI metrics, best practices and/or solutions",
+            "3+ years of solid ML and RL research and developing experience",
+            "Candidates are required to pass a drug test before beginning employment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "You'll enjoy the flexibility to work remotely",
+            "from anywhere within the U.S. as you take on some tough challenges",
+            "Pay is based on several factors including but not limited to local labor markets, education, work experience, certifications, etc",
+            "In addition to your salary, we offer benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements)",
+            "No matter where or when you begin a career with us, you'll find a far-reaching choice of benefits and incentives",
+            "The salary for this role will range from $130,000 - $162,500 annually based on full-time employment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Developing and implementing models and methods that extend and improve LLM capabilities and reliability",
+            "Research, design and implement scalable machine learning models for real-time processing",
+            "Developing new solutions and science best practices in Responsible AI",
+            "Developing our research and innovation agenda",
+            "Defining the strategies, priorities, and metrics for technical progress in Deep Learning, RAG and LLMs",
+            "Collaborating with the Optum AI team and fellow scientist and engineers",
+            "Driving adoption of new science and best practices among service teams",
+            "You'll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=ABORIGnoljP8GsZhAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBAAUFz7CU6Ho2gjgotCoS5V0cUijiVNjyaS5kLuKv0d_1RdHi_7zLKixuAoQXlWtyuUMXqHHdTGYRDHAmu440CCv1yoBUadjAUKUBH1HucHKxJ5rxSzz3sWLc7khgZFAVua1Ita_tOw1Qmj14LNdreZ8hj65eIRnGB3Qu3FQpVojOACHNF7fI-4gmf5BUOICiukAAAA&shmds=v1_Ac3VAowoaCeM3ochcACGV0paL4fj4jvlL6YyML_FjD9V3QvMvg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=ABORIGnoljP8GsZhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAdVBMVEUsc-8tc-8wdfD____b5_wAYu0zePAscvElcO4AZO0AXOwAXuyowfckb-8Xau0AYe7D1fqauPXS4Pvh7P0AUuwAVu2QsPXK2vtQiPHs9P5Ui_ELZ-1mlfJEgu9Cf_BxnPO40PmCqPP1-v4AR-u0yfd6ovNfkfN2jZSeAAACHUlEQVRIie2X2bKjIBBA2URQQZYIIgSXGP__EweTOw9TM1WZm6r7lralWOpIS3cjAoreEgoQeEtQuWr4bakfIATf5QryAOF37YQf8AN-wB8CAUNF4bkdnI9BECL0SFVQn93wHCrlI-EBKtn_bCJAk0BJRAEj4oxzLiXn4rzZeGV5FJxHVHOBhESxqiKLSMoTZDOpxtCbWSzNko0h2hkya29cq3TVqdKloiBzXF27GGPyzlcnCihmU11tv9kmXOxYkdSaNLRm7re86Kj3idx6NlvTahWlU3yyN7fLL3C0FVHTCfYkVSqQ7O_Vsu7BhH3EpGs8xVwvURRwxCZ0X-CQbWWpJRd75QX0qW38PJi0uMHtI7lUHCuc3N48Zxz0Y8ZabJ11MlxIuISpt6kyxK_eqNCoYqoasVKHaZ1xm0_O8yk0epEUUAD5RCWkxSU1rQFFDNBMUc4RoLL4qNRy8Y_IZzcrWz967uNnALDiqYeeHuPHmkXksgalQFIgDniM8OlG8Fv_jhzuibP94hcmF69bfcSFL36XL0OO4l5WEcdu77rBJnNvcYOHvZMvQHZsnM0cJ3KQI3advzdbjzNxr0CQcVn8Bl_DjaR-d34-wTS_NrW841pA7vUc5o1qcw-lJf6VHX-CkCd3FRMAUxwdFfJYhRgZeg0CyBgDrOQUqEVJKVbimZX6a_A_5AN-wA_4Y-C7B923j9ZvSfkev_n78As23She1_v_UQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.unitedhealthgroup.com/job/bellevue/senior-ai-ml-applied-scientist-remote/34088/100629316256",
+      "job_title": "Senior AI/ML Applied Scientist - Remote",
+      "description": "Optum Tech is a global leader in health care innovation. Our teams develop cutting-edge solutions that help people live healthier lives and help make the health system work better for everyone. From advanced data analytics and AI to cybersecurity, we use innovative approaches to solve some of health care's most complex challenges. Your contributions here have the potential to change lives. Ready to build the next breakthrough? Join us to start Caring. Connecting. Growing together.\n\n\nOptum AI is UnitedHealth Group's enterprise AI team. We are AI/ML scientists and engineers with deep expertise in AI/ML engineering for health care. We develop AI/ML solutions for the highest impact opportunities across UnitedHealth Group businesses including UnitedHealthcare, Optum Financial, Optum Health, Optum Insight, and Optum Rx. In addition to transforming the health care journey through responsible AI/ML innovation, our charter also includes developing and supporting an enterprise AI/ML development platform.\n\n\nOptum AI team members:\n\nHave impact at scale: We have the data and resources to make an impact at scale. When our solutions are deployed, they have the potential to make health care system work better for everyoneDo ground-breaking work: Many of our current projects involve cutting edge ML, NLP and LLM techniques. Generative AI methods for working with structured and unstructured health care data are continuously being developed and improved. We are working in one of the most important frontiers of AI/ML research and developmentPartner with world-class experts on innovative solutions: Our team members are developing novel AI/ML solutions to business challenges. In some cases, this includes the opportunity to file patents and publish papers about the methods we develop. We also collaborate with AI/ML researchers at some of the world's top universities\nYou'll enjoy the flexibility to work remotely * from anywhere within the U.S. as you take on some tough challenges. For all hires in the Minneapolis or Washington, D.C. area, you will be required to work in the office a minimum of four days per week.\n\n\nPrimary Responsibilities:\n\nDeveloping and implementing models and methods that extend and improve LLM capabilities and reliabilityResearch, design and implement scalable machine learning models for real-time processingDeveloping new solutions and science best practices in Responsible AIDeveloping our research and innovation agendaDefining the strategies, priorities, and metrics for technical progress in Deep Learning, RAG and LLMsCollaborating with the Optum AI team and fellow scientist and engineersDriving adoption of new science and best practices among service teams\nYou'll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.\n\nRequired Qualifications:\n\nMaster degree in computer science or related quantitative field5+ years of experience using ML to solve problems in natural language processing (NLP), multimodal RT processing, and/or other AI domains 3+ years of DL frameworks such as PyTorch and/or TensorFlow 3+ years of developing machine learning applications 3+ years of experience in developing Responsible AI metrics, best practices and/or solutions3+ years of solid ML and RL research and developing experience\nPreferred Qualifications:\n\nPh.D. in Machine Learning with focus on NLP and/or GenAIExperience with Advanced Deep Learning, applied math and statisticsExperience in fine-tuning LLMs and/or improving pre-train LLM's performanceSolid technical and scientific knowledge in generative AI\n*All employees working remotely will be required to adhere to UnitedHealth Group's Telecommuter Policy\n\n\nPay is based on several factors including but not limited to local labor markets, education, work experience, certifications, etc. In addition to your salary, we offer benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with us, you'll find a far-reaching choice of benefits and incentives. The salary for this role will range from $130,000 - $162,500 annually based on full-time employment. We comply with all minimum wage laws as applicable.\n\n\nApplication Deadline: This will be posted for a minimum of 2 business days or until a sufficient candidate pool has been collected. Job posting may come down early due to volume of applicants.\n\n\nAt UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.\n\n \n\n \n\nUnitedHealth Group is an Equal Employment Opportunity employer under applicable law and qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.\n\n\nUnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.\n\n \n\n#OptumTechPJ",
+      "apply_options": [
+        {
+          "title": "UnitedHealth Group",
+          "link": "https://careers.unitedhealthgroup.com/job/bellevue/senior-ai-ml-applied-scientist-remote/34088/100629316256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=c382b664cb74f21e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/ai-ml-applied-scientist_7ea1a7ae3b6955094e7c44a6ef62ff7de08b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/8b2df11c-c64c-4180-acff-7d1a25fd9aba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/UnitedHealthcare/Job/Senior-AI-ML-Applied-Scientist-Remote/-in-Bellevue,WA?jid=85cf54cdb3a701c1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-ai-ml-applied-scientist-remote-bellevue-wa--b96d5d6d-1d96-44d3-94a3-80e55c0e03d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/applied-scientist-amazon-web-services-JV_IC1150442_KO0,17_KE18,37.htm?jl=1010295602760&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/v7SEhp6OwGGICRrX0hHY5uAYE7ZOAJJWRLCP1Vu2_uco924Sn7OdHQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkvTUwgQXBwbGllZCBTY2llbnRpc3QgLSBSZW1vdGUiLCJjb21wYW55X25hbWUiOiJVbml0ZWRIZWFsdGggR3JvdXAiLCJodGlkb2NpZCI6IkFCT1JJR25vbGpQOEdzWmhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVkY1V1RsblRGOWlVekU0VHpGS1ZtVnZOa0ZDV1VwblVsQm5hSHBQU2psUFQxZEdMVEZUVVdOS1YwSTNkblZ5V1RGUmFGbGFjRVpCU0RWMVJYSmZORWRoZWtZNFgxRmhTbmhXTm10clgwNXVVMU5WTFcxeWJVNUNSbU4xTjJoclZURjNZelZzU0RjMmJYTkVUbEpSWTBsV1FtOVpVMkYwVjFCRlZXNTNlRmhrVWxab2Vra1NGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkSVducFdOWGRSYWxZNFdrZGhlV3RXUmsxMWRITnRiVWhUVm5GUiIsImZjdiI6IjMiLCJmY19pZCI6IkFCT1JJR25vbGpQOEdzWmhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Applied Scientist II: Global Hiring Optimization",
+      "company_name": "Amazon Inc.",
+      "location": "Arlington, VA",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will build mathematical models and ML systems that balance cost, capacity, and regulatory constraints while partnering with economists and ML engineers to deploy production-ready solutions",
+            "The role emphasizes design of optimization algorithms, experimentation, and scalable Python code to improve candidate experience and business"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=83utVIgsdaHlvfxjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBRFce0niMObRRMRXOqUqdbFQXAtSQztk_S9kLyh9Hv8UONy4cDh3Oa7aTqTUsTwhqfHQIJFoO9b6CI7G-GGGWmERxKccbWCTHCEOzsowWY_QeWOeYxhe51EUmm1LiWqsUiVvfI8a6bgeNEfduU_Q5lsDilaCcP5clpUonG_M7Nda6snrwAJTI71V5gO8DI_6BsqUKcAAAA&shmds=v1_Ac3VAoxTGhY-Hegfjt6fuAlzMXjlhaju8NK1m-lImLyiKRyDkw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=83utVIgsdaHlvfxjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5097d4b959628e5dd6eca/images/BFzVQL4xfnIHFrB_LMoRYmkxBJ6bdSTAcvchN1LaTAA.jpeg",
+      "extensions": [
+        "4 days ago",
+        "143K–193K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/applied-scientist-ii-global-hiring-optimization--arlington--eaa331de4874e819f6578291709ffdee4",
+      "job_title": "Applied Scientist II: Global Hiring Optimization",
+      "description": "Amazon.com Services LLC in Arlington, VA is seeking an Applied Scientist II to tackle multi-objective optimization for recruitment across North America and beyond. You will build mathematical models and ML systems that balance cost, capacity, and regulatory constraints while partnering with economists and ML engineers to deploy production-ready solutions.\n\nThe role emphasizes design of optimization algorithms, experimentation, and scalable Python code to improve candidate experience and business",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/applied-scientist-ii-global-hiring-optimization--arlington--eaa331de4874e819f6578291709ffdee4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCBJSTogR2xvYmFsIEhpcmluZyBPcHRpbWl6YXRpb24iLCJjb21wYW55X25hbWUiOiJBbWF6b24gSW5jLiIsImh0aWRvY2lkIjoiODN1dFZJZ3NkYUhsdmZ4akFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqUXpkMGRCTW1SeVUyeHJkbmwyVjBkelNDMDBPRFpYYUhsTVdsSnFUa3hJTTI5Qk0ydFFUakkyVjNWMWVrZDBNVWRHYzNSVmRrVkVWRFJzYms5MlprVTRWV1JMWTJOalRGOUthSGxZTnpCTVlVUkRaa0ZZTkhabmFuWmpXbGx5WWtwaFJIUjNhM0YyVWpWSVJqa3lSVFJvV21oRlRsWm1YMlZSZERaeVUySkpNME5FYjFJU0YyWm5ibXhoY0hsQlQxcDVhblZ5T0ZCNVdVOW9Na0ZGR2lKQlNFNHdSVGRGTUdOM2NIWmhUbkJGZEdZMVprVjJMV3h5YW1wMU5rUmZjV2gzIiwiZmN2IjoiMyIsImZjX2lkIjoiODN1dFZJZ3NkYUhsdmZ4akFBQUFBQT09In0="
+    },
+    {
+      "title": "Applied Scientist, Artificial General Intelligence, Foundational AI",
+      "company_name": "Amazon.com Inc",
+      "location": "Bellevue, WA",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Analysis Skills, Architectural Analysis, Architectural Design, Artificial Intelligence (AI), Auditing, Benchmarking, Best Practices, Coaching, Customer Experience, Data Analysis, Data Collection, Data Quality, Machine Learning, Modeling Languages, Quality Assurance Methodology, Quality Metrics, Root Cause Analysis, Standard Operating Procedures (SOP), Statistics, Strategic Planning, Technical Leadership"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As part of the AGI team, an Applied Scientist will collaborate closely with core scientist team developing Amazon Nova models",
+            "They will lead the development of comprehensive quality strategies and auditing frameworks that safeguard the integrity of data collection workflows",
+            "This includes designing auditing strategies with detailed SOPs, quality metrics, and sampling methodologies that help Nova improve performances on benchmarks",
+            "The Applied Scientist will perform expert-level manual audits, conduct meta-audits to evaluate auditor performance, and provide targeted coaching to uplift overall quality capabilities",
+            "A critical aspect of this role involves developing and maintaining LLM-as-a-Judge systems, including designing judge architectures, creating evaluation rubrics, and building machine learning models for automated quality assessment",
+            "The Applied Scientist will also set up the configuration of data collection workflows and communicate quality feedback to stakeholders",
+            "An Applied Scientist will also have a direct impact on enhancing customer experiences through high-quality training and evaluation data that powers state-of-the-art LLM products and services",
+            "An Applied Scientist with the AGI team will support quality solution design, conduct root cause analysis on data quality issues, research new auditing methodologies, and find innovative ways of optimizing data quality while setting examples for the team on quality assurance best practices and standards",
+            "Besides theoretical analysis and quality framework development, an Applied Scientist will also work closely with talented engineers, domain experts, and vendor teams to put quality strategies and automated judging systems into practice",
+            "Fulfillment center associates around the globe send customer orders from our warehouses to doorsteps",
+            "Product managers set feature requirements, strategy, and marketing messages for brand new customer experiences"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=oAy43hUnyKYcRIxZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsQoCMRBEsb1PsJCtRS8i2GgVC-VsLQQbycX1biXuhmRPDv_MvzM2M8XMMK_6TqqrjTEQ3uHsCVkp6wJsUnqQJxfgiIypeMOKIVCH7HEBBxn47pSES2QbWMJJWsjoku9BGI4iXcDprleNeWtMzqHuspaFr728jDC2MpqntPkvt9y7hDE4xdt6sxrryN18Zl_uI_zvl3cPxLAvCPgeCsDF_gBwDCkwvAAAAA&shmds=v1_Ac3VAoxVjERTKCXf0RFMinDJaKBUOq4rLSKuKmG-qdXYM9nwiQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=oAy43hUnyKYcRIxZAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.monster.com/job-openings/applied-scientist-artificial-general-intelligence-foundational-ai-bellevue-wa--a860c88a-3fae-412c-b46c-160bf850a525",
+      "job_title": "Applied Scientist, Artificial General Intelligence, Foundational AI",
+      "description": "The Artificial General Intelligence (AGI) team is seeking a dedicated, skilled, and innovative Applied Scientist with a robust background in machine learning, statistics, quality assurance, auditing methodologies, and automated evaluation systems to ensure the highest standards of data quality, to build industry-leading technology with Large Language Models (LLMs) and multimodal systems.\n\nKey job responsibilities\n\nAs part of the AGI team, an Applied Scientist will collaborate closely with core scientist team developing Amazon Nova models. They will lead the development of comprehensive quality strategies and auditing frameworks that safeguard the integrity of data collection workflows. This includes designing auditing strategies with detailed SOPs, quality metrics, and sampling methodologies that help Nova improve performances on benchmarks. The Applied Scientist will perform expert-level manual audits, conduct meta-audits to evaluate auditor performance, and provide targeted coaching to uplift overall quality capabilities. A critical aspect of this role involves developing and maintaining LLM-as-a-Judge systems, including designing judge architectures, creating evaluation rubrics, and building machine learning models for automated quality assessment. The Applied Scientist will also set up the configuration of data collection workflows and communicate quality feedback to stakeholders. An Applied Scientist will also have a direct impact on enhancing customer experiences through high-quality training and evaluation data that powers state-of-the-art LLM products and services.\n\nA day in the life\n\nAn Applied Scientist with the AGI team will support quality solution design, conduct root cause analysis on data quality issues, research new auditing methodologies, and find innovative ways of optimizing data quality while setting examples for the team on quality assurance best practices and standards. Besides theoretical analysis and quality framework development, an Applied Scientist will also work closely with talented engineers, domain experts, and vendor teams to put quality strategies and automated judging systems into practice.\n\n\nSkills:\nAnalysis Skills, Architectural Analysis, Architectural Design, Artificial Intelligence (AI), Auditing, Benchmarking, Best Practices, Coaching, Customer Experience, Data Analysis, Data Collection, Data Quality, Machine Learning, Modeling Languages, Quality Assurance Methodology, Quality Metrics, Root Cause Analysis, Standard Operating Procedures (SOP), Statistics, Strategic Planning, Technical Leadership\n\n\nAmazon.com Inc\n\n\nAt Amazon, we don’t wait for the next big idea to present itself. We envision the shape of impossible things and then we boldly make them reality. So far, this mindset has helped us achieve some incredible things. Let’s build new systems, challenge the status quo, and design the world we want to live in. We believe the work you do here will be the best work of your life. \n\n\nWherever you are in your career exploration, Amazon likely has an opportunity for you. Our research scientists and engineers shape the future of natural language understanding with Alexa. Fulfillment center associates around the globe send customer orders from our warehouses to doorsteps. Product managers set feature requirements, strategy, and marketing messages for brand new customer experiences. And as we grow, we’ll add jobs that haven’t been invented yet. \n\n\nIt’s Always Day 1 \n\nAt Amazon, it’s always “Day 1.” Now, what does this mean and why does it matter? It means that our approach remains the same as it was on Amazon’s very first day – to make smart, fast decisions, stay nimble, invent, and stay focused on delighting our customers. In our 2016 shareholder letter, Amazon CEO Jeff Bezos shared his thoughts on how to keep up a Day 1 company mindset. “Staying in Day 1 requires you to experiment patiently, accept failures, plant seeds, protect saplings, and double down when you see customer delight,” he wrote. “A customer-obsessed culture best creates the conditions where all of that can happen.” You can read the full letter here \n\n \nOur Leadership Principles\n\nOur Leadership Principles help us keep a Day 1 mentality. They aren’t just a pretty inspirational wall hanging. Amazonians use them, every day, whether they’re discussing ideas for new projects, deciding on the best solution for a customer’s problem, or interviewing candidates. To read through our Leadership Principles from Customer Obsession to Bias for Action, visit https://www.amazon.jobs/principles\n\nCompany Size:\n10,000 employees or more\n\n\nIndustry:\nRetail\n\n\n1994\n\n\nWebsite:\nhttp://Amazon.com/militaryroles",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/applied-scientist-artificial-general-intelligence-foundational-ai-bellevue-wa--a860c88a-3fae-412c-b46c-160bf850a525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Amazon/Job/Applied-Scientist,-Artificial-General-Intelligence,-Foundational-AI/-in-Bellevue,WA?jid=bd03a6e1f291a32a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyGwork",
+          "link": "https://mygwork.com/jobs/amazon-applied-scientist-artificial-general-intelligence-foundational-ai-6574324?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/applied-scientist-artificial-general-intelligence-foundational-ai-at-amazon-science-4458035057?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/applied-scientist-artificial-general-intelligence-foundational-ai-bellevue-wa--a860c88a-3fae-412c-b46c-160bf850a525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/applied-scientist-artificial-general-intelligence-foundational-bellevue-amazon-a692bb649357256ec61b097c3ba78d18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6a8f48aa382b237ac80c5291?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs.appcast.io",
+          "link": "https://jobs.appcast.io/amazon-com-services-llc/applied-scientist-artificial-general-intelligence-foundational-ai/58279230275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgQXJ0aWZpY2lhbCBHZW5lcmFsIEludGVsbGlnZW5jZSwgRm91bmRhdGlvbmFsIEFJIiwiY29tcGFueV9uYW1lIjoiQW1hem9uLmNvbSBJbmMiLCJodGlkb2NpZCI6Im9BeTQzaFVueUtZY1JJeFpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbTUwYTJWdWRtdFZURkJDT1VoSGNWcGFaakZvVTFSamRHNWpia2xQU1hwa2NWSTFVbTlsU1ZwNlgzQlFhamRtVDJweU5sbERhR0pRTmpaclVGWndSbGxQU0RRNVMyOVdOa1ZzUjJKWVgxSkpUM1p3YVZWb05TMVlWa1F3YnpBeU1UTXdOazQ1ZEZGZlUyMXlaVFZPT1hsc05GTmhiMU5LV0ZGeU1IQXRRM0ZWYTA1MlZYQVNGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkR1l6YzVPREo1YzFkNVpEVlRXbTk0ZFZsRVRVNU9lRXM0T0VSQiIsImZjdiI6IjMiLCJmY19pZCI6Im9BeTQzaFVueUtZY1JJeFpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Lead Applied Scientist, NBA – Reinforcement Learning",
+      "company_name": "Humana",
+      "location": "Frankfort, KY",
+      "via": "Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for a hands-on technical leader who can translate complex business problems into scalable, production-ready decision systems",
+            "The ideal candidate combines strong machine learning expertise with an understanding of decision science and software engineering",
+            "Bachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, Operations Research, or a related quantitative field",
+            "6+ years of professional experience in machine learning, applied science, decision science, or related engineering disciplines",
+            "Strong experience designing, developing, testing, deploying, and monitoring machine learning solutions in production environments",
+            "Solid understanding of reinforcement learning, sequential decision making, or other advanced decision-making techniques",
+            "Strong Python programming skills and experience with machine learning frameworks such as PyTorch or TensorFlow",
+            "Experience with distributed data processing and ML platforms such as Databricks, PySpark, Ray, or equivalent technologies",
+            "Strong software engineering fundamentals, including software architecture, code quality, automated testing, and scalable system design",
+            "Demonstrated ability to translate complex business problems into analytical models and production solutions",
+            "Demonstrated experience owning models across the full lifecycle, including prototyping, offline evaluation, simulation, testing, deployment, and production monitoring",
+            "Very minimal travel might be required for training, meetings, and/or conferences",
+            "Work at Home Requirements: To ensure Home or Hybrid Home/Office employees’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office employees must meet the following criteria: At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is required; wireless, wired cable or DSL connection is suggested"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Scheduled Weekly Hours",
+            "Pay Range",
+            "The compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting",
+            "The pay range may be higher or lower based on geographic location and individual pay will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc",
+            "$129,300 - $177,800 per year",
+            "This job is eligible for a bonus incentive plan",
+            "This incentive opportunity is based upon company and/or individual performance",
+            "Humana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being",
+            "Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work",
+            "Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role goes beyond building predictive models",
+            "You will have end-to-end ownership of models and decision policies, from initial prototyping and experimentation through offline evaluation, simulation, testing, production deployment, and ongoing monitoring",
+            "You will help define how intelligent systems make decisions, evaluate their behavior under real-world constraints and uncertainty, and continuously improve their performance based on production outcomes",
+            "Machine Learning and Reinforcement Learning",
+            "Design, develop, and improve machine learning and reinforcement learning models for personalized recommendations, sequential decision making, and policy learning",
+            "Apply decision science, operations research, and simulation techniques to formulate complex decision problems, evaluate alternatives, and improve outcomes under business and operational constraints",
+            "Scalable ML Engineering",
+            "Develop and improve production ML pipelines using Python, PyTorch, Databricks, PySpark, Ray RLlib, and MLflow, supporting large-scale data processing, model training, and inference",
+            "Model Evaluation and Experimentation",
+            "Design experiments, simulations, offline evaluations, and performance metrics to assess model effectiveness, policy behavior, decision quality, and business impact before and after deployment",
+            "Production Deployment and Monitoring",
+            "Own models and decision policies throughout their lifecycle, from prototyping and testing through production deployment, monitoring, and continuous improvement",
+            "Partner with software engineering and platform teams to ensure production systems are scalable, reliable, and observable",
+            "Incorporate clinical eligibility, member preferences, business rules, operational capacity, and other constraints into intelligent decision systems",
+            "Provide technical direction on model architecture, algorithm selection, evaluation methods, engineering best practices, and system design while collaborating with data scientists, engineers, and business stakeholders",
+            "Occasional travel to Humana's offices for training or meetings may be required",
+            "Work Hours : Typical business hours are Monday-Friday, 8 hours/day, 5 days/week-- some flexibility might be possible, depending on business needs",
+            "You should anticipate the assessment to take approximately 10-15 minutes",
+            "Humana reserves the right to require associates to upgrade their internet service if necessary",
+            "Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information",
+            "Travel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=YXIz14Zt3UuJ5vU8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOPQoCMRCFsd0LCFZTi25EsNFqLVT8K7Sykmx23I1mZ0ImwpbewTN4MU9ibB48vgffyz697LBHXUHhvbNYwdlYpGgljuC4LOD7esMJLd04GGwTgbQOZKmGMWy5BEnVNMAEa-ba4WDRxOhlrpSIy2uJOlqTG24VE5bcqTuX8o-rNDqgdzridTqbdLmnetjfPFtNGizBKmh6JG06srv8AFruVDKoAAAA&shmds=v1_Ac3VAozKw5EvnmMHPRJ9Mhvm-p_mlYvqb304CiSbdModvPEaFA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=YXIz14Zt3UuJ5vU8AAAAAA%3D%3D",
+      "extensions": [
+        "20 hours ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://kyjobs.usnlx.com/frankfort-ky/lead-applied-scientist-nba-reinforcement-learning/BA98B67CB6B2401390FFBD6522D9043E/job/",
+      "job_title": "Lead Applied Scientist, NBA – Reinforcement Learning",
+      "description": "Become a part of our caring community\n\n\n\nBecome a Part of Our Caring Community\n\n\n\nHumana is seeking a Lead Applied Scientist to design, develop, and scale intelligent decision systems powering our Next Best Action (NBA) platform.\n\n\n\nOur platform combines machine learning, reinforcement learning, and decision intelligence to deliver personalized recommendations that improve healthcare experiences and outcomes for millions of members.\n\n\n\nWe are looking for a hands-on technical leader who can translate complex business problems into scalable, production-ready decision systems. The ideal candidate combines strong machine learning expertise with an understanding of decision science and software engineering.\n\n\n\nThis role goes beyond building predictive models. You will have end-to-end ownership of models and decision policies, from initial prototyping and experimentation through offline evaluation, simulation, testing, production deployment, and ongoing monitoring. You will help define how intelligent systems make decisions, evaluate their behavior under real-world constraints and uncertainty, and continuously improve their performance based on production outcomes.\n\n\n\nKey Responsibilities\n\n\n\nMachine Learning and Reinforcement Learning\n\n\n\nDesign, develop, and improve machine learning and reinforcement learning models for personalized recommendations, sequential decision making, and policy learning.\n\n\n\nDecision Intelligence and Simulation\n\n\n\nApply decision science, operations research, and simulation techniques to formulate complex decision problems, evaluate alternatives, and improve outcomes under business and operational constraints.\n\n\n\nScalable ML Engineering\n\n\n\nDevelop and improve production ML pipelines using Python, PyTorch, Databricks, PySpark, Ray RLlib, and MLflow, supporting large-scale data processing, model training, and inference.\n\n\n\nModel Evaluation and Experimentation\n\n\n\nDesign experiments, simulations, offline evaluations, and performance metrics to assess model effectiveness, policy behavior, decision quality, and business impact before and after deployment.\n\n\n\nProduction Deployment and Monitoring\n\n\n\nOwn models and decision policies throughout their lifecycle, from prototyping and testing through production deployment, monitoring, and continuous improvement. Partner with software engineering and platform teams to ensure production systems are scalable, reliable, and observable.\n\n\n\nConstraint-Aware Decision Making\n\n\n\nIncorporate clinical eligibility, member preferences, business rules, operational capacity, and other constraints into intelligent decision systems.\n\n\n\nTechnical Leadership\n\n\n\nProvide technical direction on model architecture, algorithm selection, evaluation methods, engineering best practices, and system design while collaborating with data scientists, engineers, and business stakeholders.\n\n\n\nUse your skills to make an impact\n\n\n\nRequired Qualifications\n\n\n\n\nBachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, Operations Research, or a related quantitative field.\n\n\n6+ years of professional experience in machine learning, applied science, decision science, or related engineering disciplines.\n\n\nStrong experience designing, developing, testing, deploying, and monitoring machine learning solutions in production environments.\n\n\nSolid understanding of reinforcement learning, sequential decision making, or other advanced decision-making techniques.\n\n\nStrong Python programming skills and experience with machine learning frameworks such as PyTorch or TensorFlow.\n\n\nExperience with distributed data processing and ML platforms such as Databricks, PySpark, Ray, or equivalent technologies.\n\n\nStrong software engineering fundamentals, including software architecture, code quality, automated testing, and scalable system design.\n\n\nDemonstrated ability to translate complex business problems into analytical models and production solutions.\n\n\nDemonstrated experience owning models across the full lifecycle, including prototyping, offline evaluation, simulation, testing, deployment, and production monitoring.\n\n\n\n\nPreferred Qualifications\n\n\n\n\nExperience with reinforcement learning algorithms, contextual bandits, Markov Decision Processes, or offline policy evaluation.\n\n\nExperience with operations research, simulation, or decision analysis.\n\n\nFamiliarity with MLflow, Ray RLlib, Databricks, and distributed model training.\n\n\nExperience developing recommendation systems, personalization platforms, or Next Best Action solutions.\n\n\nExperience with event-driven architectures, Kafka, Redis, or rule-based decision engines.\n\n\nFamiliarity with decision mapping, multi-objective decision making, and decision making under uncertainty.\n\n\nExperience monitoring deployed models and policies for changes in performance, data distributions, and decision behavior.\n\n\nExperience within healthcare, insurance, or other regulated industries.\n\n\n\n\nAdditional Information\n\n\n\nThis role is not eligible for work visa sponsorship.\n\n\n\nWork Style:  Remote/Hybrid - Preferably Boston, MA. Occasional travel to Humana's offices for training or meetings may be required.\n\n\n\nWork Hours : Typical business hours are Monday-Friday, 8 hours/day, 5 days/week-- some flexibility might be possible, depending on business needs.\n\n\n\nVery minimal travel might be required for training, meetings, and/or conferences\n\n\n\nInterview Format\n\n\n\nAs part of our hiring process, we will be using on-demand technology provided by Hire Vue, a third-party vendor. This technology provides our team of recruiters and hiring managers with an enhanced method for decision-making through on-demand candidate assessments.\n\n\n\nIf you are selected to move forward from your application prescreen, you will receive correspondence inviting you to participate in an on-demand assessment with pre-determined questions. You should anticipate the assessment to take approximately 10-15 minutes.\n\n\n\nYour on-demand assessment will be reviewed, and you will subsequently be informed if you will be moving forward to next round of interviews.\n\n\n\nSSN Task via Workday\n\n\n\nShould you be extended a formal employment offer you will receive a request to enter your SSN into our Workday system to scan for duplicate profiles.\n\n\n\nWork at Home Requirements: To ensure Home or Hybrid Home/Office employees’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office employees must meet the following criteria: At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is required; wireless, wired cable or DSL connection is suggested. In certain roles, the minimum recommended internet speed required by Humana may not be sufficient for business needs. Humana reserves the right to require associates to upgrade their internet service if necessary. Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information.\n\n\n\nTravel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required.\n\n\n\nScheduled Weekly Hours\n\n\n\n40\n\n\n\nPay Range\n\n\n\nThe compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting. The pay range may be higher or lower based on geographic location and individual pay will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc.\n\n\n\n$129,300 - $177,800 per year\n\n\n\nThis job is eligible for a bonus incentive plan. This incentive opportunity is based upon company and/or individual performance.\n\n\n\nDescription of Benefits\n\n\n\nHumana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being. Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work. Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities.\n\n\n\nApplication Deadline: 11-03-2026\n\n\n\nAbout us\n\n\n\nAbout Humana: Humana Inc. (NYSE: HUM) is a leading U.S. healthcare company. Through our Humana insurance services and our CenterWell healthcare services, we make it easier for the millions of people we serve to achieve their best health – delivering the care and service they need, when they need it. These efforts are leading to a better quality of life for people with Medicare and Medicaid, families, individuals, military service personnel, and communities at large. Learn more about what we offer at Humana.com and at CenterWell.com.\n\n\n\n​\n\n\n\nEqual Opportunity Employer\n\n\n\nIt is the policy of Humana not to discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, genetic information, disability or protected veteran status. It is also the policy of Humana to take affirmative action, in compliance with Section 503 of the Rehabilitation Act and VEVRAA, to employ and to advance in employment individuals with disability or protected veteran status, and to base all employment decisions only on valid job requirements. This policy shall apply to all employment actions, including but not limited to recruitment, hiring, upgrading, promotion, transfer, demotion, layoff, recall, termination, rates of pay or other forms of compensation and selection for training, including apprenticeship, at all levels of employment.\n\n\n\nHumana complies with all applicable federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability, sex, sexual orientation, gender identity or religion. We also provide free language interpreter services. See our https://www.humana.com/legal/accessibility-resources?source=Humana_Website.",
+      "apply_options": [
+        {
+          "title": "Jobs",
+          "link": "https://kyjobs.usnlx.com/frankfort-ky/lead-applied-scientist-nba-reinforcement-learning/BA98B67CB6B2401390FFBD6522D9043E/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEFwcGxpZWQgU2NpZW50aXN0LCBOQkEg4oCTIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmciLCJjb21wYW55X25hbWUiOiJIdW1hbmEiLCJodGlkb2NpZCI6IllYSXoxNFp0M1V1SjV2VThBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZWFJUWVZrMVNXeDBOMHBaWkU5UVYxaExlbVZUVnpWa1VrNVVkbnByTVVWc2NHWnJWa05WY1dWcGFFTkhOM0EyUm04dFJITmhhMVZRYzJKaVJYSnNkM3BpVkVscGNEVXpaM3BxTW5CTVdFeFpjV3ROTlhsS1NFRmlUazU0VWxvelYwMW5aREppY2xZeWJYZFVaa0UyWm5wbVdrbG9kVmhDVW1jNVdEQkdVVmhyYTFjMlpFNFNGMlpuYm14aGNIbEJUMXA1YW5WeU9GQjVXVTlvTWtGRkdpSkJTRTR3UlRkR1pITmhPRmRVT1VWVE4yOVVOemx6WkdZMVkySlpURjgxY2pKMyIsImZjdiI6IjMiLCJmY19pZCI6IllYSXoxNFp0M1V1SjV2VThBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZVXBVUkdVM2NVeDZTemRpWjBwblkwOW1hRzl2VVZaSU4xWTBNVlJmTUd4blUzSkxhMWsxTm5ORlpFRnVRekJyV25seU5FeE1WMk5CVVVGUVRIbzBOME5uYzNSUUxYVkZaMlF5YWxCUlJtaEpjVEZ0U2paM1JsSkhOREExWlRSV2JVSm5iaTE0Tm5kdFdWZHJRV2xoWTFKc1EyUmhORFIyY2xJeE9GTjRiVFJtU25KcVdYZEhSRWhSWjJsWGNVbFFNVVpmZUU1VVdFMVpSR2h2TTB3eVprc3liREJPUW1oUU1WOUZNRlpvTFhKQ1RFbGlUMFZVUlU1dFpFSnhOWHBpVDBscGNWVk5lbU41VjFCMU4xOXBUVGRXYWkxVU1FMWFha1l4Y0hFNUxUWktUMGd6VDBwTFIwdExTbGRQWWtKQ1JTMTVlRUpJWVcxaFNVNW1XV2htUmtOTFNEVlNValZuYWs1YWFXRmpkR2RqYVV0c1VsbGhRbWxaV0VNemJGcFpVRGhYYlZOTE5sSnhUM1JJZWpOU05rRjROR1pNUm05cVlXbzJTRVkwVEVGdGFsVlVkMHRITkdKelVtWkdNRVJmZFhsTWFXZEpUM1p3UTFGWlVqUTFPRzFJWTNOU1dFNDFlVUZYUlRGS1gyeE1ObVpOWmtob1NtOVFlVFkwTVhKU1pHSlBVelIwWkdGNGMwcFdXSEF4WkhjNGRtYzNjVFZJTldGaFVuTnFVVmh5VVRCSFZFeHVUemhXYW1KeGVsbExNMUpzUVRSRk1XWkZObE5HU1doSFprdFBRWEppVUdwWWIwcENWbVUxVVc5bGJGTTJaM0JCY1hGMVVYbHZWR2RRYUdGTlFXbFZaRWxpUW1jdFFtcElWRTF3TW1WUk9XcFNaWGhPWVdodFZrTndVVTQyT1hoQ2RWaFJUR05aTFRjMGVXWnlRVUY2WW1kdFlXTXdTMEpJVW1aaE5tWktVVVEwTURkV2RuUlRhMlZaRWhkbVoyNXNZWEI1UVU5YWVXcDFjamhRZVZsUGFESkJSUm9pUVVoT01FVTNSalJDV1RKeGRIQXdWVTFYU21kT1JUUldiekU0Vlhjd1VHUndVUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZVXBVUkdVM2NVeDZTemRpWjBwblkwOW1hRzl2VVZaSU4xWTBNVlJmTUd4blUzSkxhMWsxTm5ORlpFRnVRekJyV25seU5FeE1WMk5CVVVGUVRIbzBOME5uYzNSUUxYVkZaMlF5YWxCUlJtaEpjVEZ0U2paM1JsSkhOREExWlRSV2JVSm5iaTE0Tm5kdFdWZHJRV2xoWTFKc1EyUmhORFIyY2xJeE9GTjRiVFJtU25KcVdYZEhSRWhSWjJsWGNVbFFNVVpmZUU1VVdFMVpSR2h2TTB3eVprc3liREJPUW1oUU1WOUZNRlpvTFhKQ1RFbGlUMFZVUlU1dFpFSnhOWHBpVDBscGNWVk5lbU41VjFCMU4xOXBUVGRXYWkxVU1FMWFha1l4Y0hFNUxUWktUMGd6VDBwTFIwdExTbGRQWWtKQ1JTMTVlRUpJWVcxaFNVNW1XV2htUmtOTFNEVlNValZuYWs1YWFXRmpkR2RqYVV0c1VsbGhRbWxaV0VNemJGcFpVRGhYYlZOTE5sSnhUM1JJZWpOU05rRjROR1pNUm05cVlXbzJTRVkwVEVGdGFsVlVkMHRITkdKelVtWkdNRVJmZFhsTWFXZEpUM1p3UTFGWlVqUTFPRzFJWTNOU1dFNDFlVUZYUlRGS1gyeE1ObVpOWmtob1NtOVFlVFkwTVhKU1pHSlBVelIwWkdGNGMwcFdXSEF4WkhjNGRtYzNjVFZJTldGaFVuTnFVVmh5VVRCSFZFeHVUemhXYW1KeGVsbExNMUpzUVRSRk1XWkZObE5HU1doSFprdFBRWEppVUdwWWIwcENWbVUxVVc5bGJGTTJaM0JCY1hGMVVYbHZWR2RRYUdGTlFXbFZaRWxpUW1jdFFtcElWRTF3TW1WUk9XcFNaWGhPWVdodFZrTndVVTQyT1hoQ2RWaFJUR05aTFRjMGVXWnlRVUY2WW1kdFlXTXdTMEpJVW1aaE5tWktVVVEwTURkV2RuUlRhMlZaRWhkbVoyNXNZWEI1UVU5YWVXcDFjamhRZVZsUGFESkJSUm9pUVVoT01FVTNSalJDV1RKeGRIQXdWVTFYU21kT1JUUldiekU0Vlhjd1VHUndVUSIsImZjdiI6IjMifQ%3D%3D&q=Applied+Scientist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Applied Scientist",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:17:49.343320+00:00",
+    "request_fingerprint": "d5607c66e7814a443785b18ec316da62c6b0f51a4ab4ff7bdf919a9665efaaa1",
+    "job_count": 10
+  }
+}

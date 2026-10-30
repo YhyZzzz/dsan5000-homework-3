@@ -1,0 +1,920 @@
+{
+  "search_metadata": {
+    "id": "6ae507e5aaf72d45cd53ed75",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/todEuiaH40gVT2xXDUp3Z2OKmBNqWJGdIO5AP0ExpJU/6ae507e5aaf72d45cd53ed75.json",
+    "markdown_endpoint": "https://serpapi.com/searches/todEuiaH40gVT2xXDUp3Z2OKmBNqWJGdIO5AP0ExpJU/6ae507e5aaf72d45cd53ed75.md",
+    "created_at": "2026-10-30 21:11:01 UTC",
+    "processed_at": "2026-10-30 21:11:01 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Artificial+Intelligence+Specialist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/todEuiaH40gVT2xXDUp3Z2OKmBNqWJGdIO5AP0ExpJU/6ae507e5aaf72d45cd53ed75.html",
+    "total_time_taken": 3.09
+  },
+  "search_parameters": {
+    "q": "Artificial Intelligence Specialist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMsUqltmAxfqQa-EMDdNWfYtxt7pVfoG3BoSGeNqufVsaTXdVQczrgff-vsNwBz0p3QnyNW33__ppsuyrec1YkutllGVWqRrKUkvd1fM1R5-TnfPG8bfy0i4l8iX_YM_eVoU1ZCnwbuk6jFd9LMcx6VrvDDRo2nNBITCnU15KjbFTJIdX",
+        "q": "Artificial Intelligence Specialist remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMsUqltmAxfqQa-EMDdNWfYtxt7pVfoG3BoSGeNqufVsaTXdVQczrgff-vsNwBz0p3QnyNW33__ppsuyrec1YkutllGVWqRrKUkvd1fM1R5-TnfPG8bfy0i4l8iX_YM_eVoU1ZCnwbuk6jFd9LMcx6VrvDDRo2nNBITCnU15KjbFTJIdX&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMsUqltmAxfqQa-EMDdNWfYtxt7pVfoG3BoSGeNqufVsaTXdVQczrgff-vsNwBz0p3QnyNW33__ppsuyrec1YkutllGVWqRrKUkvd1fM1R5-TnfPG8bfy0i4l8iX_YM_eVoU1ZCnwbuk6jFd9LMcx6VrvDDRo2nNBITCnU15KjbFTJIdX&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCG3r27ZBG1nng9U7psjs4yOgkCPKl_K-0nSkC6TMjwak8U4c8rFSPzpafh1wXFHaQjrqvP43IrT6eJfh6nokLUP80GoqiGgYZdoUB6scZ_793cmdqJPxCe9U3l1hNLFR2H6B9Ep9fGprjd7wQ9enWMQErQgir-T_IJH24AsrPjBM-fvv",
+        "q": "Artificial Intelligence Specialist no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCG3r27ZBG1nng9U7psjs4yOgkCPKl_K-0nSkC6TMjwak8U4c8rFSPzpafh1wXFHaQjrqvP43IrT6eJfh6nokLUP80GoqiGgYZdoUB6scZ_793cmdqJPxCe9U3l1hNLFR2H6B9Ep9fGprjd7wQ9enWMQErQgir-T_IJH24AsrPjBM-fvv&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCG3r27ZBG1nng9U7psjs4yOgkCPKl_K-0nSkC6TMjwak8U4c8rFSPzpafh1wXFHaQjrqvP43IrT6eJfh6nokLUP80GoqiGgYZdoUB6scZ_793cmdqJPxCe9U3l1hNLFR2H6B9Ep9fGprjd7wQ9enWMQErQgir-T_IJH24AsrPjBM-fvv&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OihYmWPXYKEdpUN0ON1jJ6q-IqgrHs5JQ6K3JnUwTF76t8qVhQ5F1CzQkvm_RI00vZ_XMSnXQCqQt63U_9HF9nTdErz-J_U89DCC0Rx5e5C8JnxQobONUSd0FR8jxcUuM7KX8njJ8eTPZaoUnaZslQW2CSpbBFm_yRZP3moAeXashV-YJJJUkQBwMsQLzMiBLVFDYs4GrVX1ZuXom93x_RwxdWiPvVfFMrYOBXcabltmDEb0_EaNLnwDuM2dea8cgp8szGrnO1bDOGrudD9FbPPl8goE",
+            "q": "Artificial Intelligence Specialist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OihYmWPXYKEdpUN0ON1jJ6q-IqgrHs5JQ6K3JnUwTF76t8qVhQ5F1CzQkvm_RI00vZ_XMSnXQCqQt63U_9HF9nTdErz-J_U89DCC0Rx5e5C8JnxQobONUSd0FR8jxcUuM7KX8njJ8eTPZaoUnaZslQW2CSpbBFm_yRZP3moAeXashV-YJJJUkQBwMsQLzMiBLVFDYs4GrVX1ZuXom93x_RwxdWiPvVfFMrYOBXcabltmDEb0_EaNLnwDuM2dea8cgp8szGrnO1bDOGrudD9FbPPl8goE&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OihYmWPXYKEdpUN0ON1jJ6q-IqgrHs5JQ6K3JnUwTF76t8qVhQ5F1CzQkvm_RI00vZ_XMSnXQCqQt63U_9HF9nTdErz-J_U89DCC0Rx5e5C8JnxQobONUSd0FR8jxcUuM7KX8njJ8eTPZaoUnaZslQW2CSpbBFm_yRZP3moAeXashV-YJJJUkQBwMsQLzMiBLVFDYs4GrVX1ZuXom93x_RwxdWiPvVfFMrYOBXcabltmDEb0_EaNLnwDuM2dea8cgp8szGrnO1bDOGrudD9FbPPl8goE&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OYsXXeR24Du_y4ASJOsuu8t-sA2t4h9qDaTk1YQ7EGGNsX7s7u8ilKEtzde79zlNhOQXyrfzA9oRNQBllOzZbchqKVHdf38IzKa-FeGGcgyfXekun-tLOlB_r21zjxrS-SbD9gdOGjQug6vTRRv9ZHKhCC0JVzG85bqxTNSDu1Q_Jm_tUTiw35lrdBCmtm99yeed77BdqMHaYrFzoxR2WJqwESCL4-kRzYO_WMHBCyYFH66I1vjvfvXcN2xK5lVoWfk_q7lFPGyMKl-R0so9PRSt6_4A",
+            "q": "Artificial Intelligence Specialist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OYsXXeR24Du_y4ASJOsuu8t-sA2t4h9qDaTk1YQ7EGGNsX7s7u8ilKEtzde79zlNhOQXyrfzA9oRNQBllOzZbchqKVHdf38IzKa-FeGGcgyfXekun-tLOlB_r21zjxrS-SbD9gdOGjQug6vTRRv9ZHKhCC0JVzG85bqxTNSDu1Q_Jm_tUTiw35lrdBCmtm99yeed77BdqMHaYrFzoxR2WJqwESCL4-kRzYO_WMHBCyYFH66I1vjvfvXcN2xK5lVoWfk_q7lFPGyMKl-R0so9PRSt6_4A&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OYsXXeR24Du_y4ASJOsuu8t-sA2t4h9qDaTk1YQ7EGGNsX7s7u8ilKEtzde79zlNhOQXyrfzA9oRNQBllOzZbchqKVHdf38IzKa-FeGGcgyfXekun-tLOlB_r21zjxrS-SbD9gdOGjQug6vTRRv9ZHKhCC0JVzG85bqxTNSDu1Q_Jm_tUTiw35lrdBCmtm99yeed77BdqMHaYrFzoxR2WJqwESCL4-kRzYO_WMHBCyYFH66I1vjvfvXcN2xK5lVoWfk_q7lFPGyMKl-R0so9PRSt6_4A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnHfeuELAmt-1GlSbZjV0adp4EJPRTYv-EwqzFYc_cMNAijLcD7vk74wBXGB2kHyGsafrd9LOV4NU6LveMRD8D0MKv3mWIJoVmF6wdKyCkydVqEGex_vsZccDn-xDt2I32IWVOwRhAWkxKmfgp1rK65ULiBoe9NnemmQMqp9n-nb7t7vo252vDVZkrJyN0yG33vw967GuF9HjewwNobO9l_dYlk3h-TsJBb60ijOI6y1TMiTJlSQ78f4lDF7nkI3LLwyu4F1AgK1in0R9wdN0ZHt2Pt5xJHHyuyuaPp35zEixU_XIv9jYkSEs7a23g5t_B6bPJO8",
+            "q": "Artificial Intelligence Specialist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnHfeuELAmt-1GlSbZjV0adp4EJPRTYv-EwqzFYc_cMNAijLcD7vk74wBXGB2kHyGsafrd9LOV4NU6LveMRD8D0MKv3mWIJoVmF6wdKyCkydVqEGex_vsZccDn-xDt2I32IWVOwRhAWkxKmfgp1rK65ULiBoe9NnemmQMqp9n-nb7t7vo252vDVZkrJyN0yG33vw967GuF9HjewwNobO9l_dYlk3h-TsJBb60ijOI6y1TMiTJlSQ78f4lDF7nkI3LLwyu4F1AgK1in0R9wdN0ZHt2Pt5xJHHyuyuaPp35zEixU_XIv9jYkSEs7a23g5t_B6bPJO8&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnHfeuELAmt-1GlSbZjV0adp4EJPRTYv-EwqzFYc_cMNAijLcD7vk74wBXGB2kHyGsafrd9LOV4NU6LveMRD8D0MKv3mWIJoVmF6wdKyCkydVqEGex_vsZccDn-xDt2I32IWVOwRhAWkxKmfgp1rK65ULiBoe9NnemmQMqp9n-nb7t7vo252vDVZkrJyN0yG33vw967GuF9HjewwNobO9l_dYlk3h-TsJBb60ijOI6y1TMiTJlSQ78f4lDF7nkI3LLwyu4F1AgK1in0R9wdN0ZHt2Pt5xJHHyuyuaPp35zEixU_XIv9jYkSEs7a23g5t_B6bPJO8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhF90RneIpSpC1WlmB9giQGw98_he_V7n4DJgbj8fjVlBHQAIfHj_-Bq4Gg3pRPLXSUjzOQJT-Cx6zyfVqvyTK4E7r-OgzASpoYHUvUacav_idciiZGjaBPdkmq6wT3wk3w-67EPL8qIje8rFKeL80RrSvsqZtelQplk38TXZwk4IAPsVxrcUPPJRNm8hH4w-Zu2uW-GIsOs1bT5jA-mgOI8o5LFjqnTQmZLLXoLid50K-utHTnRI1fFu_Ju7YV9HOAxZ-NeWtsYDwnfBpCuect8Pn069f5hwuCNNNIARilfw6tBb2UTWhIu-QLGmniujA0SlGYYs1Fofz0p1_1fP61DhGdc",
+            "q": "Artificial Intelligence Specialist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhF90RneIpSpC1WlmB9giQGw98_he_V7n4DJgbj8fjVlBHQAIfHj_-Bq4Gg3pRPLXSUjzOQJT-Cx6zyfVqvyTK4E7r-OgzASpoYHUvUacav_idciiZGjaBPdkmq6wT3wk3w-67EPL8qIje8rFKeL80RrSvsqZtelQplk38TXZwk4IAPsVxrcUPPJRNm8hH4w-Zu2uW-GIsOs1bT5jA-mgOI8o5LFjqnTQmZLLXoLid50K-utHTnRI1fFu_Ju7YV9HOAxZ-NeWtsYDwnfBpCuect8Pn069f5hwuCNNNIARilfw6tBb2UTWhIu-QLGmniujA0SlGYYs1Fofz0p1_1fP61DhGdc&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhF90RneIpSpC1WlmB9giQGw98_he_V7n4DJgbj8fjVlBHQAIfHj_-Bq4Gg3pRPLXSUjzOQJT-Cx6zyfVqvyTK4E7r-OgzASpoYHUvUacav_idciiZGjaBPdkmq6wT3wk3w-67EPL8qIje8rFKeL80RrSvsqZtelQplk38TXZwk4IAPsVxrcUPPJRNm8hH4w-Zu2uW-GIsOs1bT5jA-mgOI8o5LFjqnTQmZLLXoLid50K-utHTnRI1fFu_Ju7YV9HOAxZ-NeWtsYDwnfBpCuect8Pn069f5hwuCNNNIARilfw6tBb2UTWhIu-QLGmniujA0SlGYYs1Fofz0p1_1fP61DhGdc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OihYmWPXYKEdpUN0ON1jJ6q-IqgrHs5JQ6K3JnUwTF76t8qVhQ5F1CzQkvm_RI00vZ_XMSnXQCqQt63U_9HF9nTdErz-J_U89DCC0Rx5e5C8JnxQobONUSd0FR8jxcUuM7KX8njJ8eTPZaoUnaZslQW2CSpbBFm_yRZP3moAeXashV-YJJJUkQBwMsQLzMiBLVFDYs4GrVX1ZuXom93x_RwxdWiPvVfFMrYOBXcabltmDEb0_EaNLnwDuM2dea8cgp8szGrnO1bDOGrudD9FbPPl8goE",
+            "q": "Artificial Intelligence Specialist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OihYmWPXYKEdpUN0ON1jJ6q-IqgrHs5JQ6K3JnUwTF76t8qVhQ5F1CzQkvm_RI00vZ_XMSnXQCqQt63U_9HF9nTdErz-J_U89DCC0Rx5e5C8JnxQobONUSd0FR8jxcUuM7KX8njJ8eTPZaoUnaZslQW2CSpbBFm_yRZP3moAeXashV-YJJJUkQBwMsQLzMiBLVFDYs4GrVX1ZuXom93x_RwxdWiPvVfFMrYOBXcabltmDEb0_EaNLnwDuM2dea8cgp8szGrnO1bDOGrudD9FbPPl8goE&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OihYmWPXYKEdpUN0ON1jJ6q-IqgrHs5JQ6K3JnUwTF76t8qVhQ5F1CzQkvm_RI00vZ_XMSnXQCqQt63U_9HF9nTdErz-J_U89DCC0Rx5e5C8JnxQobONUSd0FR8jxcUuM7KX8njJ8eTPZaoUnaZslQW2CSpbBFm_yRZP3moAeXashV-YJJJUkQBwMsQLzMiBLVFDYs4GrVX1ZuXom93x_RwxdWiPvVfFMrYOBXcabltmDEb0_EaNLnwDuM2dea8cgp8szGrnO1bDOGrudD9FbPPl8goE&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OYsXXeR24Du_y4ASJOsuu8t-sA2t4h9qDaTk1YQ7EGGNsX7s7u8ilKEtzde79zlNhOQXyrfzA9oRNQBllOzZbchqKVHdf38IzKa-FeGGcgyfXekun-tLOlB_r21zjxrS-SbD9gdOGjQug6vTRRv9ZHKhCC0JVzG85bqxTNSDu1Q_Jm_tUTiw35lrdBCmtm99yeed77BdqMHaYrFzoxR2WJqwESCL4-kRzYO_WMHBCyYFH66I1vjvfvXcN2xK5lVoWfk_q7lFPGyMKl-R0so9PRSt6_4A",
+            "q": "Artificial Intelligence Specialist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OYsXXeR24Du_y4ASJOsuu8t-sA2t4h9qDaTk1YQ7EGGNsX7s7u8ilKEtzde79zlNhOQXyrfzA9oRNQBllOzZbchqKVHdf38IzKa-FeGGcgyfXekun-tLOlB_r21zjxrS-SbD9gdOGjQug6vTRRv9ZHKhCC0JVzG85bqxTNSDu1Q_Jm_tUTiw35lrdBCmtm99yeed77BdqMHaYrFzoxR2WJqwESCL4-kRzYO_WMHBCyYFH66I1vjvfvXcN2xK5lVoWfk_q7lFPGyMKl-R0so9PRSt6_4A&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1ugw569IcdvebMNaKxx8jSMzktZrNwIkqQYzNFqm-R2OYsXXeR24Du_y4ASJOsuu8t-sA2t4h9qDaTk1YQ7EGGNsX7s7u8ilKEtzde79zlNhOQXyrfzA9oRNQBllOzZbchqKVHdf38IzKa-FeGGcgyfXekun-tLOlB_r21zjxrS-SbD9gdOGjQug6vTRRv9ZHKhCC0JVzG85bqxTNSDu1Q_Jm_tUTiw35lrdBCmtm99yeed77BdqMHaYrFzoxR2WJqwESCL4-kRzYO_WMHBCyYFH66I1vjvfvXcN2xK5lVoWfk_q7lFPGyMKl-R0so9PRSt6_4A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnHfeuELAmt-1GlSbZjV0adp4EJPRTYv-EwqzFYc_cMNAijLcD7vk74wBXGB2kHyGsafrd9LOV4NU6LveMRD8D0MKv3mWIJoVmF6wdKyCkydVqEGex_vsZccDn-xDt2I32IWVOwRhAWkxKmfgp1rK65ULiBoe9NnemmQMqp9n-nb7t7vo252vDVZkrJyN0yG33vw967GuF9HjewwNobO9l_dYlk3h-TsJBb60ijOI6y1TMiTJlSQ78f4lDF7nkI3LLwyu4F1AgK1in0R9wdN0ZHt2Pt5xJHHyuyuaPp35zEixU_XIv9jYkSEs7a23g5t_B6bPJO8",
+            "q": "Artificial Intelligence Specialist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnHfeuELAmt-1GlSbZjV0adp4EJPRTYv-EwqzFYc_cMNAijLcD7vk74wBXGB2kHyGsafrd9LOV4NU6LveMRD8D0MKv3mWIJoVmF6wdKyCkydVqEGex_vsZccDn-xDt2I32IWVOwRhAWkxKmfgp1rK65ULiBoe9NnemmQMqp9n-nb7t7vo252vDVZkrJyN0yG33vw967GuF9HjewwNobO9l_dYlk3h-TsJBb60ijOI6y1TMiTJlSQ78f4lDF7nkI3LLwyu4F1AgK1in0R9wdN0ZHt2Pt5xJHHyuyuaPp35zEixU_XIv9jYkSEs7a23g5t_B6bPJO8&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnHfeuELAmt-1GlSbZjV0adp4EJPRTYv-EwqzFYc_cMNAijLcD7vk74wBXGB2kHyGsafrd9LOV4NU6LveMRD8D0MKv3mWIJoVmF6wdKyCkydVqEGex_vsZccDn-xDt2I32IWVOwRhAWkxKmfgp1rK65ULiBoe9NnemmQMqp9n-nb7t7vo252vDVZkrJyN0yG33vw967GuF9HjewwNobO9l_dYlk3h-TsJBb60ijOI6y1TMiTJlSQ78f4lDF7nkI3LLwyu4F1AgK1in0R9wdN0ZHt2Pt5xJHHyuyuaPp35zEixU_XIv9jYkSEs7a23g5t_B6bPJO8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhF90RneIpSpC1WlmB9giQGw98_he_V7n4DJgbj8fjVlBHQAIfHj_-Bq4Gg3pRPLXSUjzOQJT-Cx6zyfVqvyTK4E7r-OgzASpoYHUvUacav_idciiZGjaBPdkmq6wT3wk3w-67EPL8qIje8rFKeL80RrSvsqZtelQplk38TXZwk4IAPsVxrcUPPJRNm8hH4w-Zu2uW-GIsOs1bT5jA-mgOI8o5LFjqnTQmZLLXoLid50K-utHTnRI1fFu_Ju7YV9HOAxZ-NeWtsYDwnfBpCuect8Pn069f5hwuCNNNIARilfw6tBb2UTWhIu-QLGmniujA0SlGYYs1Fofz0p1_1fP61DhGdc",
+            "q": "Artificial Intelligence Specialist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhF90RneIpSpC1WlmB9giQGw98_he_V7n4DJgbj8fjVlBHQAIfHj_-Bq4Gg3pRPLXSUjzOQJT-Cx6zyfVqvyTK4E7r-OgzASpoYHUvUacav_idciiZGjaBPdkmq6wT3wk3w-67EPL8qIje8rFKeL80RrSvsqZtelQplk38TXZwk4IAPsVxrcUPPJRNm8hH4w-Zu2uW-GIsOs1bT5jA-mgOI8o5LFjqnTQmZLLXoLid50K-utHTnRI1fFu_Ju7YV9HOAxZ-NeWtsYDwnfBpCuect8Pn069f5hwuCNNNIARilfw6tBb2UTWhIu-QLGmniujA0SlGYYs1Fofz0p1_1fP61DhGdc&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhF90RneIpSpC1WlmB9giQGw98_he_V7n4DJgbj8fjVlBHQAIfHj_-Bq4Gg3pRPLXSUjzOQJT-Cx6zyfVqvyTK4E7r-OgzASpoYHUvUacav_idciiZGjaBPdkmq6wT3wk3w-67EPL8qIje8rFKeL80RrSvsqZtelQplk38TXZwk4IAPsVxrcUPPJRNm8hH4w-Zu2uW-GIsOs1bT5jA-mgOI8o5LFjqnTQmZLLXoLid50K-utHTnRI1fFu_Ju7YV9HOAxZ-NeWtsYDwnfBpCuect8Pn069f5hwuCNNNIARilfw6tBb2UTWhIu-QLGmniujA0SlGYYs1Fofz0p1_1fP61DhGdc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXj1shvZuBC_JaTc7yzaCI7_5WddGBcJpWNpT4f2DJgL-cEuDCoS9pv4hSeG0jmw47S_u20zsaMiuo7QaC384Ia93N3bPVsBH7y_D767tdR1rGqpx1WALlEuY8wJacVzcHbE7BF7Bew3X_q9S5beIqf5_2twzZ8AuE6btEAvNZOU_EBsjqKA93ewibDDvfZcs258zOG7HOHbvHOU_iwS8-C3VivJYL9Vkxa8IHQBL3AW1JGMClVwNUsyW80hCm3iOXkJa1gVXIhJmO0R0aecFHQ8zqHTcl-6SUpVsIcWRdTaPAi3vzx0ivFDwOQIjkmvmfVQWCqAS4fzkudDbVqFHKxqCoyAqbVpbZjq3G8GdkDElTZI3R",
+            "q": "Artificial Intelligence Specialist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXj1shvZuBC_JaTc7yzaCI7_5WddGBcJpWNpT4f2DJgL-cEuDCoS9pv4hSeG0jmw47S_u20zsaMiuo7QaC384Ia93N3bPVsBH7y_D767tdR1rGqpx1WALlEuY8wJacVzcHbE7BF7Bew3X_q9S5beIqf5_2twzZ8AuE6btEAvNZOU_EBsjqKA93ewibDDvfZcs258zOG7HOHbvHOU_iwS8-C3VivJYL9Vkxa8IHQBL3AW1JGMClVwNUsyW80hCm3iOXkJa1gVXIhJmO0R0aecFHQ8zqHTcl-6SUpVsIcWRdTaPAi3vzx0ivFDwOQIjkmvmfVQWCqAS4fzkudDbVqFHKxqCoyAqbVpbZjq3G8GdkDElTZI3R&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXj1shvZuBC_JaTc7yzaCI7_5WddGBcJpWNpT4f2DJgL-cEuDCoS9pv4hSeG0jmw47S_u20zsaMiuo7QaC384Ia93N3bPVsBH7y_D767tdR1rGqpx1WALlEuY8wJacVzcHbE7BF7Bew3X_q9S5beIqf5_2twzZ8AuE6btEAvNZOU_EBsjqKA93ewibDDvfZcs258zOG7HOHbvHOU_iwS8-C3VivJYL9Vkxa8IHQBL3AW1JGMClVwNUsyW80hCm3iOXkJa1gVXIhJmO0R0aecFHQ8zqHTcl-6SUpVsIcWRdTaPAi3vzx0ivFDwOQIjkmvmfVQWCqAS4fzkudDbVqFHKxqCoyAqbVpbZjq3G8GdkDElTZI3R&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcu864B-FM24zTnI4DtUtj8-sOkxyAj5ImUuezmQzjcE9P-73Ck4V2O7A4aQCh9oj9fMcKOoPslMizqcpK5rVCFskIPhe_aLLwLORZ6eq41UBMPQ0F3Fw9Pp4TH_seNz4tBkFzdGazAEYhtAPekxQl8c61nEWeB8PbTdDPZ3Fymz_hIR1Q-6xoqXV8wI89J2nlevTbuCJHCvobSYXCLDZOvO36ZhfmNTChynCzJqhpnXplZv2u_DMRjfuxq-IKr4Dga002vjkFMrf1zWCpBWJhNVTKD3GDmwP-nrADwsrXKXUl6-j7WEOCz0VA9YBIf35Z2v_4CkPn_V0mvOPwyorNyBHhW1bbLZt6SnMIuQBWgkpyWkl",
+            "q": "Artificial Intelligence Specialist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcu864B-FM24zTnI4DtUtj8-sOkxyAj5ImUuezmQzjcE9P-73Ck4V2O7A4aQCh9oj9fMcKOoPslMizqcpK5rVCFskIPhe_aLLwLORZ6eq41UBMPQ0F3Fw9Pp4TH_seNz4tBkFzdGazAEYhtAPekxQl8c61nEWeB8PbTdDPZ3Fymz_hIR1Q-6xoqXV8wI89J2nlevTbuCJHCvobSYXCLDZOvO36ZhfmNTChynCzJqhpnXplZv2u_DMRjfuxq-IKr4Dga002vjkFMrf1zWCpBWJhNVTKD3GDmwP-nrADwsrXKXUl6-j7WEOCz0VA9YBIf35Z2v_4CkPn_V0mvOPwyorNyBHhW1bbLZt6SnMIuQBWgkpyWkl&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcu864B-FM24zTnI4DtUtj8-sOkxyAj5ImUuezmQzjcE9P-73Ck4V2O7A4aQCh9oj9fMcKOoPslMizqcpK5rVCFskIPhe_aLLwLORZ6eq41UBMPQ0F3Fw9Pp4TH_seNz4tBkFzdGazAEYhtAPekxQl8c61nEWeB8PbTdDPZ3Fymz_hIR1Q-6xoqXV8wI89J2nlevTbuCJHCvobSYXCLDZOvO36ZhfmNTChynCzJqhpnXplZv2u_DMRjfuxq-IKr4Dga002vjkFMrf1zWCpBWJhNVTKD3GDmwP-nrADwsrXKXUl6-j7WEOCz0VA9YBIf35Z2v_4CkPn_V0mvOPwyorNyBHhW1bbLZt6SnMIuQBWgkpyWkl&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXGcStrL2fKde0ePXJkfzV850FinLgiFwnjpCgyvjg7Jcs4Md45t7eebPnubQzJfeuMHtnYzmD2jqWPT7HSobHQ5A7ze1CpF9J-727tFaJpraDKz2Kp0MyrySgC77m4ITB3aKY5NLzFdIGXfR8bOX3Ke06FLnhH1soIztYijTfXh57WG-SGTTcWgK0mBp3BdEAw1RIvpIsf1Qet_phfPKIt4kaYiwF5C-pKCVJLaW_JzuvZff1jAXReKMeyiCKqU99t6CjUOUPe9cXv2qyMW_JAFZZsaVmqSaQHeaVD7qaKGKIVEq9ED9oYxWOUIMQzX9NyXplzrck_SCOfo6xo9ivEouAxAhgaOwRU2aj3oyT83g_hltW",
+            "q": "Artificial Intelligence Specialist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGcStrL2fKde0ePXJkfzV850FinLgiFwnjpCgyvjg7Jcs4Md45t7eebPnubQzJfeuMHtnYzmD2jqWPT7HSobHQ5A7ze1CpF9J-727tFaJpraDKz2Kp0MyrySgC77m4ITB3aKY5NLzFdIGXfR8bOX3Ke06FLnhH1soIztYijTfXh57WG-SGTTcWgK0mBp3BdEAw1RIvpIsf1Qet_phfPKIt4kaYiwF5C-pKCVJLaW_JzuvZff1jAXReKMeyiCKqU99t6CjUOUPe9cXv2qyMW_JAFZZsaVmqSaQHeaVD7qaKGKIVEq9ED9oYxWOUIMQzX9NyXplzrck_SCOfo6xo9ivEouAxAhgaOwRU2aj3oyT83g_hltW&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGcStrL2fKde0ePXJkfzV850FinLgiFwnjpCgyvjg7Jcs4Md45t7eebPnubQzJfeuMHtnYzmD2jqWPT7HSobHQ5A7ze1CpF9J-727tFaJpraDKz2Kp0MyrySgC77m4ITB3aKY5NLzFdIGXfR8bOX3Ke06FLnhH1soIztYijTfXh57WG-SGTTcWgK0mBp3BdEAw1RIvpIsf1Qet_phfPKIt4kaYiwF5C-pKCVJLaW_JzuvZff1jAXReKMeyiCKqU99t6CjUOUPe9cXv2qyMW_JAFZZsaVmqSaQHeaVD7qaKGKIVEq9ED9oYxWOUIMQzX9NyXplzrck_SCOfo6xo9ivEouAxAhgaOwRU2aj3oyT83g_hltW&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXGNWoBy8nrxIdoHTyqWr3t8e9LaYX8hoRobcP0WR6dsbxOXHdVUMARKZUNimmZPyogYVOmTvmFEq5FwEgpgzeX4BzIzbZ8XUTHhuKc8ymKYFE_eGYaqkbX7FpGXMjwDRHfY4XfaobFj7KSkGQLWzh5Rcp_Q0j3v5Szzmt6P3TpdiAT6PucO30BL-YU6YsKvEFS8Ug3H0Na1UpxPcisgpRQ92Bhbdm2XF4lyiomg2gwmYwfMeWOUItTNgyoX_qZrycEjeI_6j2XfznKJ9gHVRRHteEqVgr1ZmL3kxHg3F2Hf9Lgrz_gxGycyfLduV6t84gcy4p4hvXccT-tMbXKczpG5FH2ACLc4NIvPrlWbOQ76V1nCh_",
+            "q": "Artificial Intelligence Specialist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGNWoBy8nrxIdoHTyqWr3t8e9LaYX8hoRobcP0WR6dsbxOXHdVUMARKZUNimmZPyogYVOmTvmFEq5FwEgpgzeX4BzIzbZ8XUTHhuKc8ymKYFE_eGYaqkbX7FpGXMjwDRHfY4XfaobFj7KSkGQLWzh5Rcp_Q0j3v5Szzmt6P3TpdiAT6PucO30BL-YU6YsKvEFS8Ug3H0Na1UpxPcisgpRQ92Bhbdm2XF4lyiomg2gwmYwfMeWOUItTNgyoX_qZrycEjeI_6j2XfznKJ9gHVRRHteEqVgr1ZmL3kxHg3F2Hf9Lgrz_gxGycyfLduV6t84gcy4p4hvXccT-tMbXKczpG5FH2ACLc4NIvPrlWbOQ76V1nCh_&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGNWoBy8nrxIdoHTyqWr3t8e9LaYX8hoRobcP0WR6dsbxOXHdVUMARKZUNimmZPyogYVOmTvmFEq5FwEgpgzeX4BzIzbZ8XUTHhuKc8ymKYFE_eGYaqkbX7FpGXMjwDRHfY4XfaobFj7KSkGQLWzh5Rcp_Q0j3v5Szzmt6P3TpdiAT6PucO30BL-YU6YsKvEFS8Ug3H0Na1UpxPcisgpRQ92Bhbdm2XF4lyiomg2gwmYwfMeWOUItTNgyoX_qZrycEjeI_6j2XfznKJ9gHVRRHteEqVgr1ZmL3kxHg3F2Hf9Lgrz_gxGycyfLduV6t84gcy4p4hvXccT-tMbXKczpG5FH2ACLc4NIvPrlWbOQ76V1nCh_&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXj1shvZuBC_JaTc7yzaCI7_5WddGBcJpWNpT4f2DJgL-cEuDCoS9pv4hSeG0jmw47S_u20zsaMiuo7QaC384Ia93N3bPVsBH7y_D767tdR1rGqpx1WALlEuY8wJacVzcHbE7BF7Bew3X_q9S5beIqf5_2twzZ8AuE6btEAvNZOU_EBsjqKA93ewibDDvfZcs258zOG7HOHbvHOU_iwS8-C3VivJYL9Vkxa8IHQBL3AW1JGMClVwNUsyW80hCm3iOXkJa1gVXIhJmO0R0aecFHQ8zqHTcl-6SUpVsIcWRdTaPAi3vzx0ivFDwOQIjkmvmfVQWCqAS4fzkudDbVqFHKxqCoyAqbVpbZjq3G8GdkDElTZI3R",
+            "q": "Artificial Intelligence Specialist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXj1shvZuBC_JaTc7yzaCI7_5WddGBcJpWNpT4f2DJgL-cEuDCoS9pv4hSeG0jmw47S_u20zsaMiuo7QaC384Ia93N3bPVsBH7y_D767tdR1rGqpx1WALlEuY8wJacVzcHbE7BF7Bew3X_q9S5beIqf5_2twzZ8AuE6btEAvNZOU_EBsjqKA93ewibDDvfZcs258zOG7HOHbvHOU_iwS8-C3VivJYL9Vkxa8IHQBL3AW1JGMClVwNUsyW80hCm3iOXkJa1gVXIhJmO0R0aecFHQ8zqHTcl-6SUpVsIcWRdTaPAi3vzx0ivFDwOQIjkmvmfVQWCqAS4fzkudDbVqFHKxqCoyAqbVpbZjq3G8GdkDElTZI3R&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXj1shvZuBC_JaTc7yzaCI7_5WddGBcJpWNpT4f2DJgL-cEuDCoS9pv4hSeG0jmw47S_u20zsaMiuo7QaC384Ia93N3bPVsBH7y_D767tdR1rGqpx1WALlEuY8wJacVzcHbE7BF7Bew3X_q9S5beIqf5_2twzZ8AuE6btEAvNZOU_EBsjqKA93ewibDDvfZcs258zOG7HOHbvHOU_iwS8-C3VivJYL9Vkxa8IHQBL3AW1JGMClVwNUsyW80hCm3iOXkJa1gVXIhJmO0R0aecFHQ8zqHTcl-6SUpVsIcWRdTaPAi3vzx0ivFDwOQIjkmvmfVQWCqAS4fzkudDbVqFHKxqCoyAqbVpbZjq3G8GdkDElTZI3R&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcu864B-FM24zTnI4DtUtj8-sOkxyAj5ImUuezmQzjcE9P-73Ck4V2O7A4aQCh9oj9fMcKOoPslMizqcpK5rVCFskIPhe_aLLwLORZ6eq41UBMPQ0F3Fw9Pp4TH_seNz4tBkFzdGazAEYhtAPekxQl8c61nEWeB8PbTdDPZ3Fymz_hIR1Q-6xoqXV8wI89J2nlevTbuCJHCvobSYXCLDZOvO36ZhfmNTChynCzJqhpnXplZv2u_DMRjfuxq-IKr4Dga002vjkFMrf1zWCpBWJhNVTKD3GDmwP-nrADwsrXKXUl6-j7WEOCz0VA9YBIf35Z2v_4CkPn_V0mvOPwyorNyBHhW1bbLZt6SnMIuQBWgkpyWkl",
+            "q": "Artificial Intelligence Specialist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcu864B-FM24zTnI4DtUtj8-sOkxyAj5ImUuezmQzjcE9P-73Ck4V2O7A4aQCh9oj9fMcKOoPslMizqcpK5rVCFskIPhe_aLLwLORZ6eq41UBMPQ0F3Fw9Pp4TH_seNz4tBkFzdGazAEYhtAPekxQl8c61nEWeB8PbTdDPZ3Fymz_hIR1Q-6xoqXV8wI89J2nlevTbuCJHCvobSYXCLDZOvO36ZhfmNTChynCzJqhpnXplZv2u_DMRjfuxq-IKr4Dga002vjkFMrf1zWCpBWJhNVTKD3GDmwP-nrADwsrXKXUl6-j7WEOCz0VA9YBIf35Z2v_4CkPn_V0mvOPwyorNyBHhW1bbLZt6SnMIuQBWgkpyWkl&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcu864B-FM24zTnI4DtUtj8-sOkxyAj5ImUuezmQzjcE9P-73Ck4V2O7A4aQCh9oj9fMcKOoPslMizqcpK5rVCFskIPhe_aLLwLORZ6eq41UBMPQ0F3Fw9Pp4TH_seNz4tBkFzdGazAEYhtAPekxQl8c61nEWeB8PbTdDPZ3Fymz_hIR1Q-6xoqXV8wI89J2nlevTbuCJHCvobSYXCLDZOvO36ZhfmNTChynCzJqhpnXplZv2u_DMRjfuxq-IKr4Dga002vjkFMrf1zWCpBWJhNVTKD3GDmwP-nrADwsrXKXUl6-j7WEOCz0VA9YBIf35Z2v_4CkPn_V0mvOPwyorNyBHhW1bbLZt6SnMIuQBWgkpyWkl&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXGcStrL2fKde0ePXJkfzV850FinLgiFwnjpCgyvjg7Jcs4Md45t7eebPnubQzJfeuMHtnYzmD2jqWPT7HSobHQ5A7ze1CpF9J-727tFaJpraDKz2Kp0MyrySgC77m4ITB3aKY5NLzFdIGXfR8bOX3Ke06FLnhH1soIztYijTfXh57WG-SGTTcWgK0mBp3BdEAw1RIvpIsf1Qet_phfPKIt4kaYiwF5C-pKCVJLaW_JzuvZff1jAXReKMeyiCKqU99t6CjUOUPe9cXv2qyMW_JAFZZsaVmqSaQHeaVD7qaKGKIVEq9ED9oYxWOUIMQzX9NyXplzrck_SCOfo6xo9ivEouAxAhgaOwRU2aj3oyT83g_hltW",
+            "q": "Artificial Intelligence Specialist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGcStrL2fKde0ePXJkfzV850FinLgiFwnjpCgyvjg7Jcs4Md45t7eebPnubQzJfeuMHtnYzmD2jqWPT7HSobHQ5A7ze1CpF9J-727tFaJpraDKz2Kp0MyrySgC77m4ITB3aKY5NLzFdIGXfR8bOX3Ke06FLnhH1soIztYijTfXh57WG-SGTTcWgK0mBp3BdEAw1RIvpIsf1Qet_phfPKIt4kaYiwF5C-pKCVJLaW_JzuvZff1jAXReKMeyiCKqU99t6CjUOUPe9cXv2qyMW_JAFZZsaVmqSaQHeaVD7qaKGKIVEq9ED9oYxWOUIMQzX9NyXplzrck_SCOfo6xo9ivEouAxAhgaOwRU2aj3oyT83g_hltW&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGcStrL2fKde0ePXJkfzV850FinLgiFwnjpCgyvjg7Jcs4Md45t7eebPnubQzJfeuMHtnYzmD2jqWPT7HSobHQ5A7ze1CpF9J-727tFaJpraDKz2Kp0MyrySgC77m4ITB3aKY5NLzFdIGXfR8bOX3Ke06FLnhH1soIztYijTfXh57WG-SGTTcWgK0mBp3BdEAw1RIvpIsf1Qet_phfPKIt4kaYiwF5C-pKCVJLaW_JzuvZff1jAXReKMeyiCKqU99t6CjUOUPe9cXv2qyMW_JAFZZsaVmqSaQHeaVD7qaKGKIVEq9ED9oYxWOUIMQzX9NyXplzrck_SCOfo6xo9ivEouAxAhgaOwRU2aj3oyT83g_hltW&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXGNWoBy8nrxIdoHTyqWr3t8e9LaYX8hoRobcP0WR6dsbxOXHdVUMARKZUNimmZPyogYVOmTvmFEq5FwEgpgzeX4BzIzbZ8XUTHhuKc8ymKYFE_eGYaqkbX7FpGXMjwDRHfY4XfaobFj7KSkGQLWzh5Rcp_Q0j3v5Szzmt6P3TpdiAT6PucO30BL-YU6YsKvEFS8Ug3H0Na1UpxPcisgpRQ92Bhbdm2XF4lyiomg2gwmYwfMeWOUItTNgyoX_qZrycEjeI_6j2XfznKJ9gHVRRHteEqVgr1ZmL3kxHg3F2Hf9Lgrz_gxGycyfLduV6t84gcy4p4hvXccT-tMbXKczpG5FH2ACLc4NIvPrlWbOQ76V1nCh_",
+            "q": "Artificial Intelligence Specialist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDg6bzapOJVL2BO7e2xXfszaIbGorw:1793394663998&q=Artificial+Intelligence+Specialist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGNWoBy8nrxIdoHTyqWr3t8e9LaYX8hoRobcP0WR6dsbxOXHdVUMARKZUNimmZPyogYVOmTvmFEq5FwEgpgzeX4BzIzbZ8XUTHhuKc8ymKYFE_eGYaqkbX7FpGXMjwDRHfY4XfaobFj7KSkGQLWzh5Rcp_Q0j3v5Szzmt6P3TpdiAT6PucO30BL-YU6YsKvEFS8Ug3H0Na1UpxPcisgpRQ92Bhbdm2XF4lyiomg2gwmYwfMeWOUItTNgyoX_qZrycEjeI_6j2XfznKJ9gHVRRHteEqVgr1ZmL3kxHg3F2Hf9Lgrz_gxGycyfLduV6t84gcy4p4hvXccT-tMbXKczpG5FH2ACLc4NIvPrlWbOQ76V1nCh_&udm=8&sa=X&ved=2ahUKEwjEk47f0-KXAxVQkYkEHQRFKRcQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Artificial+Intelligence+Specialist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXGNWoBy8nrxIdoHTyqWr3t8e9LaYX8hoRobcP0WR6dsbxOXHdVUMARKZUNimmZPyogYVOmTvmFEq5FwEgpgzeX4BzIzbZ8XUTHhuKc8ymKYFE_eGYaqkbX7FpGXMjwDRHfY4XfaobFj7KSkGQLWzh5Rcp_Q0j3v5Szzmt6P3TpdiAT6PucO30BL-YU6YsKvEFS8Ug3H0Na1UpxPcisgpRQ92Bhbdm2XF4lyiomg2gwmYwfMeWOUItTNgyoX_qZrycEjeI_6j2XfznKJ9gHVRRHteEqVgr1ZmL3kxHg3F2Hf9Lgrz_gxGycyfLduV6t84gcy4p4hvXccT-tMbXKczpG5FH2ACLc4NIvPrlWbOQ76V1nCh_&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "AI Specialist",
+      "company_name": "SLAC",
+      "location": "United States",
+      "via": "Stanford Careers - Stanford University",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A bachelor’s degree in information technology, computer science, data science, engineering, or a related field and ten years of increasingly responsible technical experience, or an equivalent combination of education and relevant experience",
+            "Demonstrated experience designing, building, deploying, and supporting AI/ML solutions in production cloud environments",
+            "Substantial experience with AWS or GCP AI/ML and data services, along with the ability and willingness to develop proficiency across both platforms",
+            "Experience with relevant AWS technologies such as Amazon Bedrock, SageMaker, S3, Glue, Lambda, Athena, Redshift, and related services",
+            "Experience with relevant Google Cloud technologies such as Vertex AI, Gemini, BigQuery, Cloud Storage, Dataflow, Cloud Run, Pub/Sub, and related services",
+            "Strong programming skills in Python and experience with relevant languages or frameworks such as SQL, Java, R, Scala, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, or similar technologies",
+            "Experience developing generative AI applications using foundation models, APIs, embeddings, vector databases, retrieval-augmented generation, prompt engineering, model evaluation, and AI agent or workflow frameworks",
+            "Experience with data engineering, including data ingestion, cleansing, transformation, metadata, feature engineering, data quality, large-scale datasets, data warehouses, and distributed processing technologies such as Spark",
+            "Experience deploying and maintaining models in production through MLOps or LLMOps practices, including CI/CD, automated testing, monitoring, evaluation, drift detection, logging, and lifecycle management",
+            "Experience with infrastructure as code and automation technologies such as Terraform, CloudFormation, AWS CDK, or Google Cloud deployment tooling",
+            "Understanding of cloud architecture practices across networking, identity and access management, encryption, secrets management, observability, resilience, performance optimization, and cost management",
+            "Experience integrating cloud services with on-premises systems in a hybrid enterprise environment",
+            "Knowledge of data governance, privacy, cybersecurity, responsible AI, and risk-management principles applicable to enterprise and research environments",
+            "Strong analytical and troubleshooting skills, including the ability to diagnose issues that cross application, data, model, cloud-platform, security, and network boundaries",
+            "Strong written and verbal communication skills, with the ability to explain complex technical concepts, risks, limitations, and tradeoffs to both technical and non-technical audiences",
+            "Demonstrated ability to document solutions thoroughly and create operationally useful architecture diagrams, standards, procedures, and runbooks",
+            "Demonstrated ability to learn independently and adapt to rapidly changing AI, cloud, data, and security technologies",
+            "The candidate best positioned to succeed with the SLAC team will also demonstrate:",
+            "A collaborative and service-oriented approach, with an interest in understanding the needs of researchers, engineers, business teams, and operational staff before proposing a solution",
+            "The ability to balance rapid experimentation with the security, reliability, governance, and long-term support requirements of a national laboratory",
+            "Comfort working in an evolving environment where requirements, platforms, and organizational priorities may not yet be fully defined",
+            "A practical, platform-oriented mindset that favors reusable capabilities, open standards, interoperability, and shared solutions over isolated or vendor-specific implementations",
+            "The judgment to determine when a solution should use AWS, GCP, on-premises infrastructure, open-source technologies, or a combination of platforms",
+            "An understanding that scientific and accelerator workloads may have requirements that differ from traditional enterprise IT, including large datasets, specialized computing, low-latency operations, and long-lived research workflows",
+            "The ability to work effectively with teams at different levels of cloud and AI maturity, including mentoring colleagues and enabling others rather than becoming a single point of dependency",
+            "A willingness to be hands-on—building, testing, troubleshooting, documenting, and operationalizing solutions in addition to providing architectural guidance",
+            "Intellectual curiosity and a willingness to ask questions, challenge assumptions constructively, and evaluate technologies based on evidence",
+            "Strong ownership and follow-through, including the ability to move an initiative from early discovery through production readiness and operational handoff",
+            "An appreciation for knowledge sharing, transparency, and clear documentation so that services can be operated and improved by the broader team",
+            "The ability to communicate limitations and risks honestly while remaining focused on helping teams identify a workable path forward",
+            "Effective Decisions: Uses job knowledge and sound judgment to make quality decisions in a timely manner",
+            "Self-Development: Pursues a variety of opportunities to continue learning and developing",
+            "Dependability: Can be counted on to deliver results and accepts personal responsibility for expected outcomes",
+            "Initiative: Pursues work and interactions proactively, with optimism, positive energy, and motivation to move initiatives forward",
+            "Adaptability: Responds constructively to change and maintains an open outlook while adjusting to evolving needs",
+            "Communication: Ensures effective information flow across audiences and creates and delivers clear, appropriate written, spoken, and presented messages",
+            "Relationships: Builds relationships that foster trust, collaboration, and a positive environment for achieving common goals"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will help establish and expand SLAC’s enterprise AI capabilities in support of scientific research, accelerator operations, and administrative functions",
+            "You will work closely with researchers, business stakeholders, data scientists, software engineers, cybersecurity, DevOps engineers, and cloud platform teams to translate complex needs into secure, scalable, and sustainable AI solutions",
+            "The successful candidate will combine hands-on technical expertise with strong communication, consulting, and problem-solving skills",
+            "You will help teams move from experimentation and proofs of concept to reliable production services, while promoting reusable platforms, responsible AI practices, and appropriate governance",
+            "Because SLAC’s AI and cloud capabilities continue to evolve, this position requires someone who is comfortable working through ambiguity, evaluating emerging technologies, and helping colleagues develop their skills",
+            "Lead the end-to-end development and operationalization of AI and machine learning solutions across AWS, GCP, and hybrid environments, including problem definition, data ingestion, feature engineering, model development, evaluation, deployment, monitoring, and lifecycle management",
+            "Partner with researchers, business stakeholders, data scientists, software engineers, cybersecurity, and platform teams to understand requirements and translate them into scalable, secure, cost-effective, and supportable AI solutions",
+            "Design and implement data pipelines, orchestration workflows, model-training environments, evaluation processes, and deployment architectures using cloud-native services",
+            "Use AWS services such as Amazon Bedrock, SageMaker, EC2, S3, Glue, Lambda, Athena, Redshift, Step Functions, and related analytics, security, and monitoring services",
+            "Use Google Cloud services such as Vertex AI, Gemini, BigQuery, Cloud Storage, Dataflow, Dataproc, Cloud Run, Cloud Functions, Pub/Sub, and related analytics, security, and monitoring services",
+            "Develop and support generative AI solutions, including retrieval-augmented generation, enterprise search, prompt management, model routing, model evaluation, guardrails, and AI agents and workflows",
+            "Evaluate and optimize traditional machine learning and generative AI models for accuracy, reliability, latency, scalability, security, and cost-effectiveness",
+            "Establish MLOps and LLMOps capabilities, including source control, infrastructure as code, CI/CD, automated testing, model and prompt versioning, evaluation, observability, drift detection, logging, alerting, and rollback procedures",
+            "Design solutions that integrate cloud AI services with SLAC’s on-premises infrastructure, enterprise applications, scientific data sources, identity systems, networking, and security services",
+            "Apply cloud architecture and security best practices, including identity and access management, least-privilege access, encryption, secrets management, network segmentation, data protection, audit logging, compliance, resilience, and cost governance",
+            "Help develop reusable AI platforms, reference architectures, templates, APIs, and shared services that enable SLAC teams to innovate without creating unnecessary duplication or isolated solutions",
+            "Work with cybersecurity, privacy, legal, data owners, and governance stakeholders to assess data sensitivity, third-party model usage, information-sharing requirements, intellectual property considerations, and other AI-related risks",
+            "Promote responsible AI practices, including transparency, human oversight, explainability, fairness, accountability, privacy, security, and appropriate documentation of model limitations",
+            "Conduct technical evaluations and proofs of concept for emerging AI/ML technologies and provide clear recommendations based on business value, scientific value, risk, supportability, interoperability, and total cost of ownership",
+            "Troubleshoot complex technical issues spanning AI models, data pipelines, cloud services, APIs, networking, identity, security, and hybrid infrastructure",
+            "Provide technical leadership, mentoring, and knowledge sharing to team members who are developing their cloud, data, and AI skills",
+            "Create and maintain architecture diagrams, technical standards, operational runbooks, support procedures, model documentation, decision records, and service documentation",
+            "Prepare and deliver technical presentations, demonstrations, training workshops, and model-explainability reports for technical and non-technical audiences",
+            "Collaborate with cloud providers, consultants, vendors, Stanford University partners, and other external organizations while ensuring that SLAC retains the knowledge needed to operate and support its services",
+            "Stay current with developments across AWS, Google Cloud, open-source AI frameworks, foundation models, AI agents, data platforms, and responsible AI practices",
+            "Consistent with its obligations under the law, the University will provide reasonable accommodation to an employee with a disability who requires accommodation to perform the essential functions of the position",
+            "Occasional work outside standard business hours may be required for production deployments, maintenance activities, incident response, or major project transitions",
+            "Rare on-call work may be required",
+            "Interpersonal Skills: Demonstrates the ability to work effectively with SLAC colleagues, clients, partners, vendors, and external organizations",
+            "Promote a Culture of Safety: Demonstrates commitment to personal responsibility and respect for environmental protection, safety, and security; communicates related concerns; and uses and promotes safe behaviors based on training and lessons learned",
+            "Meets applicable roles and responsibilities described in the ESH Manual, Chapter 1—General Policy and Responsibilities",
+            "Is subject to and expected to follow all applicable University policies and procedures, including personnel policies and other requirements described in Stanford University’s Administrative Guide"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=6cz6t2AF-8s5HAD7AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAA0L27i9MNToKJCC46FQexdAvOJYlHkhLvQu-G4tery9te9-l2_QNcw1h8LaJwgIEDCPolZmCCO3OquL1m1SYXa0WqSaJeSzSR35YJA6925iB_Jsl-wVa94nQ6H1fTKO03buxvUAieVBRf4H4d5QtQoYkofAAAAA&shmds=v1_Ac3VAowZDTi24Qp7IGdkZk-SE8wllKsBTPbyVlQQ_lDDltjyfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=6cz6t2AF-8s5HAD7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAkCAMAAADrTAnMAAAAeFBMVEX8_vz____-__-MAACQAADXubn49_bz7-7r4eD18_Lu5-aJAADm1taUAADbwcLi09PDk5PInp7fzMzm2tjRqqrUs7POo6THmZqhNTrLqqqlRkmuYWS7gYK5eXqeMjOaJiioWFqcKS-fPT-0cXKpUlOzamuXBhHBjIysxDroAAABZ0lEQVRIie2SjZacIAyFSRCCUYMDMqPOtvPXru__hgV1p7v7Bu2Zj6NINObegFIvXvxDIAAqxI8lwN9omcuF2_Q1D-KQGJzQvjQGSlo4prr8whGRcC01EyN_zjvpzGFqwlbAae0Q67FEU87swyAhCE5TOLXhc9FmtvFMg_ZrEN667gfAz-pI7UVyiDw7ZgpkPbHYXXXhcnUAkG7tVvE-z6OKtwHWj5Sy4FS0LkuxjIqZa7ZbE7hfloV8z6t_OR0OJ_G9kmaG1UlwUmex0PNCvZMgx10wWOuTuLQ2B80KJ6JctCjN_qJ4753h4H0k8TFupsQCjNWhabNgCLoqGH3P25EIy1Y8UevYTaJrusejuqYqm7u356rOLdXnpLvHrH-Bsp4lGRFjvJ_EyxKnvTngz1332063cRwv5vIGpbPvdbhX70t5P5iSl03m1DaECZ9bgkWigg-2w4P4fMYysATW-_fz8-LFf8ofpgETJXWhZzgAAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/SLAC/job/200382/?mode=job-location",
+      "job_title": "AI Specialist",
+      "description": "Position Overview\n\nJoin the IT team at SLAC National Accelerator Laboratory as an AI Specialist within our AI/Cloud Services team. We are seeking a highly skilled, collaborative, and motivated professional with experience designing and operationalizing artificial intelligence and machine learning solutions across Amazon Web Services (AWS), Google Cloud Platform (GCP), and hybrid on-premises environments.\n\nIn this role, you will help establish and expand SLAC’s enterprise AI capabilities in support of scientific research, accelerator operations, and administrative functions. You will work closely with researchers, business stakeholders, data scientists, software engineers, cybersecurity, DevOps engineers, and cloud platform teams to translate complex needs into secure, scalable, and sustainable AI solutions.\n\nThe successful candidate will combine hands-on technical expertise with strong communication, consulting, and problem-solving skills. You will help teams move from experimentation and proofs of concept to reliable production services, while promoting reusable platforms, responsible AI practices, and appropriate governance. Because SLAC’s AI and cloud capabilities continue to evolve, this position requires someone who is comfortable working through ambiguity, evaluating emerging technologies, and helping colleagues develop their skills.\n\nYour specific responsibilities will include:\n\nLead the end-to-end development and operationalization of AI and machine learning solutions across AWS, GCP, and hybrid environments, including problem definition, data ingestion, feature engineering, model development, evaluation, deployment, monitoring, and lifecycle management.Partner with researchers, business stakeholders, data scientists, software engineers, cybersecurity, and platform teams to understand requirements and translate them into scalable, secure, cost-effective, and supportable AI solutions.Design and implement data pipelines, orchestration workflows, model-training environments, evaluation processes, and deployment architectures using cloud-native services.Use AWS services such as Amazon Bedrock, SageMaker, EC2, S3, Glue, Lambda, Athena, Redshift, Step Functions, and related analytics, security, and monitoring services.Use Google Cloud services such as Vertex AI, Gemini, BigQuery, Cloud Storage, Dataflow, Dataproc, Cloud Run, Cloud Functions, Pub/Sub, and related analytics, security, and monitoring services.Develop and support generative AI solutions, including retrieval-augmented generation, enterprise search, prompt management, model routing, model evaluation, guardrails, and AI agents and workflows.Evaluate and optimize traditional machine learning and generative AI models for accuracy, reliability, latency, scalability, security, and cost-effectiveness.Establish MLOps and LLMOps capabilities, including source control, infrastructure as code, CI/CD, automated testing, model and prompt versioning, evaluation, observability, drift detection, logging, alerting, and rollback procedures.Design solutions that integrate cloud AI services with SLAC’s on-premises infrastructure, enterprise applications, scientific data sources, identity systems, networking, and security services.Apply cloud architecture and security best practices, including identity and access management, least-privilege access, encryption, secrets management, network segmentation, data protection, audit logging, compliance, resilience, and cost governance.Help develop reusable AI platforms, reference architectures, templates, APIs, and shared services that enable SLAC teams to innovate without creating unnecessary duplication or isolated solutions.Work with cybersecurity, privacy, legal, data owners, and governance stakeholders to assess data sensitivity, third-party model usage, information-sharing requirements, intellectual property considerations, and other AI-related risks.Promote responsible AI practices, including transparency, human oversight, explainability, fairness, accountability, privacy, security, and appropriate documentation of model limitations.Conduct technical evaluations and proofs of concept for emerging AI/ML technologies and provide clear recommendations based on business value, scientific value, risk, supportability, interoperability, and total cost of ownership.Troubleshoot complex technical issues spanning AI models, data pipelines, cloud services, APIs, networking, identity, security, and hybrid infrastructure.Provide technical leadership, mentoring, and knowledge sharing to team members who are developing their cloud, data, and AI skills.Create and maintain architecture diagrams, technical standards, operational runbooks, support procedures, model documentation, decision records, and service documentation.Prepare and deliver technical presentations, demonstrations, training workshops, and model-explainability reports for technical and non-technical audiences.Collaborate with cloud providers, consultants, vendors, Stanford University partners, and other external organizations while ensuring that SLAC retains the knowledge needed to operate and support its services.Stay current with developments across AWS, Google Cloud, open-source AI frameworks, foundation models, AI agents, data platforms, and responsible AI practices. \n\nTo be successful in this position, you will bring:\n\nA bachelor’s degree in information technology, computer science, data science, engineering, or a related field and ten years of increasingly responsible technical experience, or an equivalent combination of education and relevant experience.Demonstrated experience designing, building, deploying, and supporting AI/ML solutions in production cloud environments.Substantial experience with AWS or GCP AI/ML and data services, along with the ability and willingness to develop proficiency across both platforms.Experience with relevant AWS technologies such as Amazon Bedrock, SageMaker, S3, Glue, Lambda, Athena, Redshift, and related services.Experience with relevant Google Cloud technologies such as Vertex AI, Gemini, BigQuery, Cloud Storage, Dataflow, Cloud Run, Pub/Sub, and related services.Strong programming skills in Python and experience with relevant languages or frameworks such as SQL, Java, R, Scala, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, or similar technologies.Experience developing generative AI applications using foundation models, APIs, embeddings, vector databases, retrieval-augmented generation, prompt engineering, model evaluation, and AI agent or workflow frameworks.Experience with data engineering, including data ingestion, cleansing, transformation, metadata, feature engineering, data quality, large-scale datasets, data warehouses, and distributed processing technologies such as Spark.Experience deploying and maintaining models in production through MLOps or LLMOps practices, including CI/CD, automated testing, monitoring, evaluation, drift detection, logging, and lifecycle management.Experience with infrastructure as code and automation technologies such as Terraform, CloudFormation, AWS CDK, or Google Cloud deployment tooling.Understanding of cloud architecture practices across networking, identity and access management, encryption, secrets management, observability, resilience, performance optimization, and cost management.Experience integrating cloud services with on-premises systems in a hybrid enterprise environment.Knowledge of data governance, privacy, cybersecurity, responsible AI, and risk-management principles applicable to enterprise and research environments.Strong analytical and troubleshooting skills, including the ability to diagnose issues that cross application, data, model, cloud-platform, security, and network boundaries.Strong written and verbal communication skills, with the ability to explain complex technical concepts, risks, limitations, and tradeoffs to both technical and non-technical audiences.Demonstrated ability to document solutions thoroughly and create operationally useful architecture diagrams, standards, procedures, and runbooks.Demonstrated ability to learn independently and adapt to rapidly changing AI, cloud, data, and security technologies. \n\nThe candidate best positioned to succeed with the SLAC team will also demonstrate:\n\nA collaborative and service-oriented approach, with an interest in understanding the needs of researchers, engineers, business teams, and operational staff before proposing a solution.The ability to balance rapid experimentation with the security, reliability, governance, and long-term support requirements of a national laboratory.Comfort working in an evolving environment where requirements, platforms, and organizational priorities may not yet be fully defined.A practical, platform-oriented mindset that favors reusable capabilities, open standards, interoperability, and shared solutions over isolated or vendor-specific implementations.The judgment to determine when a solution should use AWS, GCP, on-premises infrastructure, open-source technologies, or a combination of platforms.An understanding that scientific and accelerator workloads may have requirements that differ from traditional enterprise IT, including large datasets, specialized computing, low-latency operations, and long-lived research workflows.The ability to work effectively with teams at different levels of cloud and AI maturity, including mentoring colleagues and enabling others rather than becoming a single point of dependency.A willingness to be hands-on—building, testing, troubleshooting, documenting, and operationalizing solutions in addition to providing architectural guidance.Intellectual curiosity and a willingness to ask questions, challenge assumptions constructively, and evaluate technologies based on evidence.Strong ownership and follow-through, including the ability to move an initiative from early discovery through production readiness and operational handoff.An appreciation for knowledge sharing, transparency, and clear documentation so that services can be operated and improved by the broader team.The ability to communicate limitations and risks honestly while remaining focused on helping teams identify a workable path forward. \n\nPreferred qualifications\n\nExperience supporting AI, scientific computing, research, higher education, government, or regulated environments.Experience designing multi-cloud architectures or enabling applications that can use models and services across multiple cloud providers.Experience with Kubernetes and container platforms such as Amazon EKS, Google Kubernetes Engine, Docker, or related technologies.Experience with enterprise AI gateways, model-routing platforms, API management, vector databases, data catalogs, and observability platforms.Experience evaluating and integrating commercial and open-source foundation models.Familiarity with high-performance computing, GPU-based workloads, distributed model training, or large-scale scientific datasets.Familiarity with frameworks and standards such as the NIST AI Risk Management Framework, NIST security controls, or comparable responsible-AI and cybersecurity practices.Relevant AWS, Google Cloud, machine learning, data engineering, security, or Kubernetes certifications. \n\nSLAC employee competencies\n\nEffective Decisions: Uses job knowledge and sound judgment to make quality decisions in a timely manner.Self-Development: Pursues a variety of opportunities to continue learning and developing.Dependability: Can be counted on to deliver results and accepts personal responsibility for expected outcomes.Initiative: Pursues work and interactions proactively, with optimism, positive energy, and motivation to move initiatives forward.Adaptability: Responds constructively to change and maintains an open outlook while adjusting to evolving needs.Communication: Ensures effective information flow across audiences and creates and delivers clear, appropriate written, spoken, and presented messages.Relationships: Builds relationships that foster trust, collaboration, and a positive environment for achieving common goals. \n\nPhysical requirements and working conditions\n\nConsistent with its obligations under the law, the University will provide reasonable accommodation to an employee with a disability who requires accommodation to perform the essential functions of the position.Given the nature of this position, SLAC is open to on-site, hybrid, and remote work options.Occasional work outside standard business hours may be required for production deployments, maintenance activities, incident response, or major project transitions.Rare on-call work may be required. \n\nWork standards\n\nInterpersonal Skills: Demonstrates the ability to work effectively with SLAC colleagues, clients, partners, vendors, and external organizations.Promote a Culture of Safety: Demonstrates commitment to personal responsibility and respect for environmental protection, safety, and security; communicates related concerns; and uses and promotes safe behaviors based on training and lessons learned. Meets applicable roles and responsibilities described in the ESH Manual, Chapter 1—General Policy and Responsibilities.Is subject to and expected to follow all applicable University policies and procedures, including personnel policies and other requirements described in Stanford University’s Administrative Guide.",
+      "apply_options": [
+        {
+          "title": "Stanford Careers - Stanford University",
+          "link": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/SLAC/job/200382/?mode=job-location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=b42b7a3d5174d58c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/ai-specialist/11055135?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-specialist-at-the-phoenix-group-4473666698?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/wagmo/4218cda2-67e0-48f6-b752-439e66894da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/ai-specialist-wagmo-3-10374667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ac908d448048577319c82a5-ai-specialist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/ai-specialist-wagmo-united-states-0jrl5lbt5rkb9kll?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTcGVjaWFsaXN0IiwiY29tcGFueV9uYW1lIjoiU0xBQyIsImh0aWRvY2lkIjoiNmN6NnQyQUYtOHM1SEFEN0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYTXlZMFZUY21KbVEwSlFjRWhFTVVoYUxXRm5hMFpHWTFSdU1YSXpSM05NYTFac2RWRmtURk5GYWxoVlYyVXhjM1ZPTjFaS2VFaFBWSEJPWm01aWRqUjJWMDlOWXpWcFIwZHFkVzR0VUV0eFpYRTFNbU4wZEMwMU4zZFZUMWRNT0hkNlgwc3pTMjlTUmtkU1UxVTFNREJxT0ZObFFrZzFaWE53VmtNd2RWOHhVaTFhTVdJU0Z6VjNabXhoYjFORlVFNURhWEIwVVZCb1NYRnNkVkZGR2lKQlNFNHdSVGRIYnkxclNXWnRjbDlwVTBkSFFVdHpibmxmTkhjNE9FMVFZemwzIiwiZmN2IjoiMyIsImZjX2lkIjoiNmN6NnQyQUYtOHM1SEFEN0FBQUFBQT09In0="
+    },
+    {
+      "title": "Artificial Intelligence (AI) Specialist",
+      "company_name": "Commonwealth Rolled Products, Inc.",
+      "location": "United States",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Monitor emerging AI technologies, industry applications, and competitive developments to identify opportunities that strengthen the company's market position and competitive advantage",
+            "Support cybersecurity",
+            "Bachelor’s degree, plus 2+ years’ experience with technology adoption, process improvement, organizational change, digital transformation, AI governance, cybersecurity, privacy, or compliance",
+            "Other relevant experience, demonstrated capability, business knowledge, certifications, continuing education, and a proven record of delivering results may be considered",
+            "Demonstrated success applying AI, automation, analytics, or emerging technologies to solve business problems and produce measurable outcomes",
+            "Strong understanding of generative AI, AI agents, automation, data-driven solutions, and the evolving enterprise AI landscape",
+            "Ability to translate business needs into practical solutions and collaborate across technical, operational, and executive audiences",
+            "Strong business acumen with the ability to evaluate initiatives based on value, cost, risk, feasibility, and strategic impact",
+            "Excellent communication, facilitation, problem-solving, and relationship-building skills; ability to learn emerging technologies quickly and independently"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role will partner with business and technology leaders to identify high-value opportunities, translate business challenges into practical AI solutions, and move successful concepts from experimentation into sustainable enterprise capabilities",
+            "The position will also support responsible AI governance and serve as backup to the Cyber Security Lead, providing continuity for key cybersecurity activities when needed",
+            "Adhere to all Health and Safety programs, including taking personal ownership over daily actions that drive to a zero (0) incident culture",
+            "Live and champion the Commonwealth Rolled Products Core Values; Safety Matters, One Team, Customer Focus, and Own Excellence",
+            "Drive measurable business value",
+            "Identify, evaluate, and implement AI solutions that improve productivity, reduce costs, enhance quality, grow revenue, strengthen decision-making, and improve customer experiences",
+            "Accountable for identifying, developing, and scaling AI initiatives that collectively deliver annual measurable business benefit targets",
+            "Lead enterprise adoption",
+            "Partner across operations, manufacturing, engineering, sales, customer service, procurement, finance, treasury, HR, IT, and executive leadership to embed AI into business processes and workflows",
+            "Develop the enterprise AI roadmap",
+            "Build and maintain a prioritized roadmap aligned with organizational strategy, business priorities, technology capabilities, cost, and available resources",
+            "Build a high-value initiative pipeline",
+            "Work with functional leaders to identify needs, assess value and feasibility, prioritize use cases, and advance the strongest opportunities",
+            "Advance operational excellence",
+            "Apply AI to manufacturing productivity, supply chain optimization, quality management, forecasting, knowledge management, analytics, and process automation",
+            "Improve employee productivity",
+            "Deploy practical AI tools that reduce administrative work, streamline routine tasks, accelerate access to information, and allow employees to focus on higher-value activities",
+            "Enable organizational transformation",
+            "Help redesign processes and ways of working around AI capabilities rather than simply adding AI to existing processes",
+            "Build an AI-enabled culture",
+            "Provide education, training, coaching, and best practices that improve AI literacy and promote effective, responsible use",
+            "Establish KPIs for adoption, business impact, productivity gains, cost savings, utilization, and return on investment; communicate progress to leadership",
+            "Ensure responsible adoption",
+            "Maintain appropriate governance, cybersecurity, privacy, compliance, data protection, and cost-management controls while enabling innovation",
+            "Serve as backup to the Cyber Security Lead and assist with security operations, risk management, incident response, and security initiatives as needed"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=tc_9drivRPl6iJ4AAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrLZU0ZwoNgpCsJBYicE6XC5rcrK5PbIr5l2-0KSZZmCY5DdLzlmv_uWdtwR5UCTyDQaHsMjyJRQRJ-NFYQM3rkDQ9q4FDnBlbgjnp1Y1ytEYEUobUavepY47wwErHsybK5lQSmt7jGQVy91hO6QxNKv9hbuOwxctaQsPJsIa7j3XH6eyHn9cCj7AM3gdRTHGUf5lZO87tQAAAA&shmds=v1_Ac3VAow_moloXXpVm5IAzEduRzBZkINk2dPfukbtqkQBpkCQnQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=tc_9drivRPl6iJ4AAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507e5aaf72d45cd53ed75/images/HebALPyYVO6DZvzgjTPN2FBiIDtNeyz2e8CaJu5Slpc.jpeg",
+      "extensions": [
+        "19 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-ai-specialist-at-commonwealth-rolled-products-inc-4478598902",
+      "job_title": "Artificial Intelligence (AI) Specialist",
+      "description": "Commonwealth Rolled Products is a leading manufacturer of Aluminum rolled products for the Automotive, Commercial, and Industrial markets. The Company operates its production facility in Lewisport, KY with the support of an Automotive Innovation Center for R&D and Field Service in Madison Heights (DET), MI.\n\nOur Company is seeking to add an Artificial Intelligence (AI) Specialist to its Information Technology (IT) team. The purpose of this role is to lead the practical adoption of artificial intelligence to drive measurable business value, improve productivity, reduce costs, enhance quality, enable growth, and transform how work is performed across the organization. The role will partner with business and technology leaders to identify high-value opportunities, translate business challenges into practical AI solutions, and move successful concepts from experimentation into sustainable enterprise capabilities. The position will also support responsible AI governance and serve as backup to the Cyber Security Lead, providing continuity for key cybersecurity activities when needed.\n\nResponsibilities Include:\n\n\n\nAdhere to all Health and Safety programs, including taking personal ownership over daily actions that drive to a zero (0) incident culture. Live and champion the Commonwealth Rolled Products Core Values; Safety Matters, One Team, Customer Focus, and Own Excellence. Drive measurable business value. Identify, evaluate, and implement AI solutions that improve productivity, reduce costs, enhance quality, grow revenue, strengthen decision-making, and improve customer experiences. Accountable for identifying, developing, and scaling AI initiatives that collectively deliver annual measurable business benefit targets. Lead enterprise adoption. Partner across operations, manufacturing, engineering, sales, customer service, procurement, finance, treasury, HR, IT, and executive leadership to embed AI into business processes and workflows. Develop the enterprise AI roadmap. Build and maintain a prioritized roadmap aligned with organizational strategy, business priorities, technology capabilities, cost, and available resources. Build a high-value initiative pipeline. Work with functional leaders to identify needs, assess value and feasibility, prioritize use cases, and advance the strongest opportunities. Advance operational excellence. Apply AI to manufacturing productivity, supply chain optimization, quality management, forecasting, knowledge management, analytics, and process automation. Improve employee productivity. Deploy practical AI tools that reduce administrative work, streamline routine tasks, accelerate access to information, and allow employees to focus on higher-value activities. Enable organizational transformation. Help redesign processes and ways of working around AI capabilities rather than simply adding AI to existing processes. Build an AI-enabled culture. Provide education, training, coaching, and best practices that improve AI literacy and promote effective, responsible use. Monitor emerging AI technologies, industry applications, and competitive developments to identify opportunities that strengthen the company's market position and competitive advantage. Measure adoption and value. Establish KPIs for adoption, business impact, productivity gains, cost savings, utilization, and return on investment; communicate progress to leadership. Ensure responsible adoption. Maintain appropriate governance, cybersecurity, privacy, compliance, data protection, and cost-management controls while enabling innovation. Support cybersecurity. Serve as backup to the Cyber Security Lead and assist with security operations, risk management, incident response, and security initiatives as needed. \n\nRequired Qualifications:\n\nBachelor’s degree, plus 2+ years’ experience with technology adoption, process improvement, organizational change, digital transformation, AI governance, cybersecurity, privacy, or compliance. Other relevant experience, demonstrated capability, business knowledge, certifications, continuing education, and a proven record of delivering results may be considered. Demonstrated success applying AI, automation, analytics, or emerging technologies to solve business problems and produce measurable outcomes. Strong understanding of generative AI, AI agents, automation, data-driven solutions, and the evolving enterprise AI landscape. Ability to translate business needs into practical solutions and collaborate across technical, operational, and executive audiences. Strong business acumen with the ability to evaluate initiatives based on value, cost, risk, feasibility, and strategic impact. Excellent communication, facilitation, problem-solving, and relationship-building skills; ability to learn emerging technologies quickly and independently. \n\nEEO Statement\n\nCommonwealth Rolled Products is an equal opportunity employer. Qualified applications will receive consideration for employment without regard to their race, religion, color, sex, pregnancy or pregnancy-related conditions, sexual orientation, gender identity or expression, age (forty and over), national origin, disability (as defined by applicable law), veteran’s status, genetic information, marital status, height, weight, or any other status or characteristic protected by applicable law. Our HR team will reach out to the applicants who met the qualifications and are most closely aligned with requirements of the positions.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/artificial-intelligence-ai-specialist-at-commonwealth-rolled-products-inc-4478598902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010292466058&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5927811633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/forhyre/artificial-intelligence-ai-specialist-19029180/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Jobscout",
+          "link": "https://jobscout.liveblog365.com/remote-jobs/artificial-intelligence-ai-specialist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Fieldnote",
+          "link": "https://fieldnote.alc.onl/remote-jobs/artificial-intelligence-ai-specialist-5bc3143e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ApplyAll",
+          "link": "https://applyall.com/jobs/us/artificial-intelligence-ai-specialist-at-expertva-jc_d813e59475e0821224889fc1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/7146362206186110976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSAoQUkpIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiJDb21tb253ZWFsdGggUm9sbGVkIFByb2R1Y3RzLCBJbmMuIiwiaHRpZG9jaWQiOiJ0Y185ZHJpdlJQbDZpSjRBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1c1cE4xWldNbW95ZUhKWk1HOXZUVWhOVm10ak1WTkVhbEp2VDB4d1kwODVRMUpzTVU1QmRIRlFjM1JYUTIxRVgyOUliM1ZyY0hnd1VFNXBRM0pqWVhwVGR6bHRUR2xQTTBGck1UTkNkbFpzUW5rMk0xbGxUa0l0VWpKSWJEWndMVlJVZVdOT05HVmZOMGR0V0hKQlVqaExWekp3YWxob1VIWjNjVzB6U25aWmNsbHVUbW9TRnpWM1pteGhiMU5GVUU1RGFYQjBVVkJvU1hGc2RWRkZHaUpCU0U0d1JUZEdSRFJ0VWkxVWFHNVRXaTEzVTNWM1J5MUlURUpSWW0xaFFsRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ0Y185ZHJpdlJQbDZpSjRBQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Artificial Intelligence Specialist",
+      "company_name": "631 Booz Allen Hamilton_United States",
+      "location": "United States",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=gnambQU6uhvlxx7KAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1XMuw6CUAyA4bjyCE6dTQQvkUSdcPGyEmdyOFaoKS2hHYhP5SMqo8s_fMOffGbJvhicnhQpMFzFkZkalIhQ9jghmcMSblqDYRhiCypwVm0Y58fWvbdDlplx2pgHp5hG7TIVrHXMXlrblMraMGDPwbHa7FZj2kuzyPPtGk6qbyiYUeASOmJXqe5Cjg8ofzs0IIE_-AI0CBAfswAAAA&shmds=v1_Ac3VAozjhGJeAKtLbEGb7S7OJBTW0ccYVbNkJno_MsI1qo_6Ag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=gnambQU6uhvlxx7KAAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Artificial-Intelligence-Specialist_R0245396/apply/applyManually?ref=aichoppingblock",
+      "job_title": "Artificial Intelligence Specialist",
+      "description": "Artificial Intelligence Specialist The Opportunity: Provides advisory services on current and emerging artificial intelligence (AI) technologies to support organizational goals and strategy. Applies leading-edge principles, theories, and concepts, and contributes to the development of new principles and concepts. Works on unusually complex problems and provides highly innovative solutions. Operates with substantial latitude for unreviewed action or decision, and mentors or supervises employees in both company and technical competencies. You Have: Experience with LLMs, search systems, or RAG architecture Knowledge of AI/ML technologies, packages, and languages such as PyTorch, LangGraph, ClaudeCode, or MLFlow Ability to quickly adapt to change and respond to shifting mission needs and technological advancement TS/SCI clearance with a polygraph Bachelor's degree Nice If You Have: Experience with project or program management Knowledge of software development best practices, knowledge management systems such as Jira or Confluence Ability to envision, plan, and execute strategies to achieve organizational OKRs Master's degree Clearance: Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance with polygraph is required. Compensation At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page. Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $112,800.00 to $257,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date. Identity Statement As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud. Candidate AI Usage Policy AI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided. Work Model Our people-first culture prioritizes the benefits of collaboration. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings. Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility. Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen or customer facility, in alignment with your leadership's expectations and the needs of the role. Onsite: If this position is listed as onsite, work will primarily be performed full-time at a customer facility, where employees will collaborate directly with colleagues and customers as required by the role. Commitment to Non-Discrimination All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law. About Booz Allen Booz Allen is an advanced technology company. We build commercial-grade products and solutions for America’s most critical defense, civil, and national security priorities. Commitment to Non-Discrimination All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law. Know Your Rights Poster Accommodations Applicants who need a reasonable accommodation for any part of the application, hiring, or employment process because of a disability, a sincerely held religious belief, practice, or observance, or as otherwise required by applicable law should contact the Booz Allen Help Desk by calling 1-877-927-8278 or sending an email to helpdesk@bah.com. We will review requests on an individualized basis and provide reasonable accommodations consistent with applicable law. Data Privacy For more information on how Booz Allen uses your information, please see our Careers Privacy Policy.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Artificial-Intelligence-Specialist_R0245396/apply/applyManually?ref=aichoppingblock&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Booz-Allen-Hamilton/Job/Artificial-Intelligence-Specialist-with-Security-Clearance/-in-Chantilly,VA?jid=614ec9a6112ffa58&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/artificial-intelligence-specialist-i_7ea1a1e264e5934dcf6c581609b86d5e01192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sonara AI",
+          "link": "https://www.sonara.ai/job-details/artificial-intelligence-specialist-at-booz-allen-hamilton-620b2760-8c00-5615-4352-8d7050833f73?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/unisys/artificial-intelligence-specialist-39437108/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TopGenAIJobs — Gen AI & Agentic AI Jobs",
+          "link": "https://www.topgenaijobs.com/jobs/artificial-intelligence-specialist-at-htc-in-dearborn-a26n7g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/9105975228294496256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/artificial-intelligence-specialist-actalent-olathe-ks--t7xk-824597501?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSBTcGVjaWFsaXN0IiwiY29tcGFueV9uYW1lIjoiNjMxIEJvb3ogQWxsZW4gSGFtaWx0b25fVW5pdGVkIFN0YXRlcyIsImh0aWRvY2lkIjoiZ25hbWJRVTZ1aHZseHg3S0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXaFJaa1ppTkRCMlkwVmpSbDl6ZGpSTFMzUjBlbmMxVGxKRFVqUjJiRTVZTjFseE9WVk5PVGxqWm01Tk5HSlhTbkZpV1ROQmRHY3hXV0kwYWxSU01FaFlSbXB3UzNWS1NYUkJVblI0TUhNMmIxWjFUVlppV1ZOaFpXMUVXRUp5ZERGZmNHUXlOamt3WjIxVVgyUmhTVFZIVnpGRldEZExla3BoYWpSTFZDMUZXbEZETVY4U0Z6VjNabXhoYjFORlVFNURhWEIwVVZCb1NYRnNkVkZGR2lKQlNFNHdSVGRJZWtGSkxVaHVPRmwxVmpORlZGUmlTRlpaVVRNNE9WSllVMEYzIiwiZmN2IjoiMyIsImZjX2lkIjoiZ25hbWJRVTZ1aHZseHg3S0FBQUFBQT09In0="
+    },
+    {
+      "title": "AI & Technical Upskilling Sr Specialist",
+      "company_name": "Maximus",
+      "location": "Denver, CO",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree and 5+ years of experience required",
+            "Five (5) or more years of experience in the area of Learning & Development and Learning Management Systems administration required (preferable CSOD)",
+            "Three (3) or more years of experience supporting a global/complex instance of the Learning Management System Cornerstone OnDemand (CSOD)",
+            "Experience working on complex issues where analysis of situations or data requires an in-depth knowledge of the company",
+            "Ability to regularly interact with senior leaders and executives",
+            "Demonstrated ability to think strategically and translate business performance gaps into learning and development strategies",
+            "Five (5) or more years of experience in Corporate Learning & Development, instructional design, curriculum development, or a combination of these areas",
+            "Experience d esigning technical training and supporting certification strategy for technical audiences",
+            "Foundational understanding of AI concepts, LLMs, prompt engineering, and responsible AI practices, with the ability to translate these into learning content",
+            "Experience designing, drafting, and developing storyboards for learning solutions, including eLearning, instructor-led training, virtual learning, and blended formats",
+            "Demonstrated ability to identify learning needs and translate them into practical learning solutions",
+            "Experience navigating complex organizational environments and partnering with stakeholders across functions",
+            "The following qualifications are helpful but not required",
+            "Strong understanding of instructional design principles and adult learning theory (e.g., ADDIE, Rapid Course Development)",
+            "Experience developing learning assets across multiple formats, including eLearning, ILT, Virtual ILT, job aids, presentations, discussion guides, and performance support resources",
+            "Strong writing, editing, facilitation, and communication skills, with the ability to explain complex topics in plain language for different audiences",
+            "Experience designing, coordinating, or improving enterprise learning programs related to AI, technical skills, digital transformation, automation, data literacy, or emerging technologies",
+            "Proficiency with Canva, Microsoft 365, Microsoft Copilot, SharePoint, and Teams",
+            "Experience supporting skills gap analyses and needs assessments",
+            "Ability to translate skills requirements into clear learning objectives, learning pathways, and program components",
+            "Experience using learning data, surveys, assessments, and learner feedback to identify opportunities for improvement",
+            "Demonstrated ability to manage multiple workstreams, competing priorities, and deadlines while maintaining quality and stakeholder confidence",
+            "Curiosity and continuous learning mindset related to AI, data, automation, learning technology, and future skills",
+            "Adult Learning, Artificial Intelligence (AI), Artificial Intelligence (AI) Programming Languages, Automation, Business Strategy, Communication Skills, Consulting, Content Development, Continuous Improvement, Corporate Planning, Course Development, Cross-Functional, Data Analysis, Editing, Emerging Technology, Gap Analysis, HRIS/HRMS, Information Technology/Systems Audit, Instructional Design, Learning Management System (LMS), Literacy, Logistics, Microsoft Product Family, Microsoft SharePoint, Needs Assessment, Operations Processes, Organizational Development/Management, Problem Solving Skills, Process Improvement, Project/Program Coordination, Quality Management, Risk Analysis, Safety Standards, Storyboards, Strategic Planning, Systems Administration/Management, Systems Maintenance, Team Lead/Manager, Technical Delivery, Technical Strategy, Technical Support, Time Management, Training/Teaching, Training/Teaching Curriculum, Use Cases, Writing Skills, eLearning"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Annual salary is just one component of Maximus's total compensation package",
+            "Other rewards may include short- and long-term incentives as well as program-specific awards",
+            "Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off",
+            "Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Specialist partners with business stakeholders, subject matter experts, HR partners, technology teams, vendors, and learning contributors to translate skill needs into clear learning pathways, high-quality assets, practical reinforcement, and measurable outcomes",
+            "This role is ideal for a learning professional who brings strong instructional design judgment, curiosity about AI and emerging technology, stakeholder confidence, and program execution discipline",
+            "Execute the development and implementation of learning assets through close collaboration with the Training Operations Team",
+            "Use training technology to help provide creative and scalable training solutions",
+            "Help to develop and support the implementation of the LMS learning strategy and measurement of that strategy for the organization",
+            "Support LMS system audits",
+            "Create and document processes for learning solutions, architecture decisions and operating procedures",
+            "Work in partnership with the HRIS team to support LMS system updates",
+            "Work with vendor to secure and onboard new learning technologies for delivering, tracking, and/or creating learning content",
+            "Consult and collaborate with leaders at all levels as well as cross-functional stakeholders to and provide learning solutions using the LMS functionalities",
+            "Define support LMS system roles and permissions",
+            "Support and advise on overall system configuration and availability groups",
+            "Support and train Global system Super Users and Admin",
+            "Support the design, development, and continuous improvement of enterprise AI and technical upskilling programs, including foundational AI literacy, responsible AI use, role-based technical learning, and applied learning experiences",
+            "Design and draft instructionally sound storyboards that translate complex AI and technical topics into eLearning, instructor-led, virtual, and blended learning formats",
+            "Develop and maintain learning pathways, job aids, facilitator guides, learner communications, discussion guides, practice activities, and reinforcement resources",
+            "Create practical learning scenarios that help employees recognize appropriate AI use cases, evaluate risks, improve prompts, validate outputs, and decide where human judgment is required",
+            "Apply adult learning principles, accessibility practices, and plain-language standards to make learning approachable, usable, and inclusive",
+            "Translate AI, automation, data, and technical concepts into clear, practical learning content employees can apply in real work scenarios",
+            "Contribute to responsible AI learning by ensuring content reinforces approved tools, data handling expectations, human oversight, privacy considerations, and organizational guidance",
+            "Partner with subject matter experts, business stakeholders, HR partners, change leads, and technology teams to identify skill needs, define learning objectives, and shape learning experiences that align to business priorities",
+            "Support external technical certification pathways and vendor-delivered learning offerings by helping assess fit, coordinate implementation, and monitor learner progress",
+            "Coordinate program logistics, content updates, facilitator preparation, vendor collaboration, communications, learner support, and delivery readiness across virtual, in-person, and blended formats",
+            "Maintain AI and technical learning materials as tools, models, policies, and workforce needs evolve",
+            "Measurement & Continuous Improvement",
+            "Support skills gap analysis and needs assessment work by gathering stakeholder input, reviewing learning data, and translating findings into recommended learning priorities",
+            "Use LMS data, survey feedback, assessments, and other learning analytics to evaluate participation, learner experience, behavior change, and program improvement opportunities",
+            "Recommend process improvements that make AI and technical upskilling programs more scalable, measurable, and easier for employees and leaders to adopt",
+            "Adhere to established safety standards and perform other duties as assigned",
+            "Experience applying visual design principles to create polished, accessible materials such as slide decks, infographics, and quick reference guides",
+            "Proven ability to partner with SMEs and cross-functional teams to gather content, clarify objectives, and align to business needs",
+            "Experience coordinating vendors, facilitators, internal contributors, and learning operations partners to deliver programs on time and with consistent quality",
+            "Measurement & Continuous Improvement"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=pKvVQzdniKXaZHz0AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFy7uzjd5CDaiOCiIIiCKIhDdS7XcCSnaS7kovRD_GDxDa_6jqrd_gxTuJP1kS0GeCR9cQgcHTQZmkSWMbAWWMBFOlDCbD1IhJOICzTZ-lKSboxRDbXTgoVtbaU3EqmTwTyl03-tesyUAhZqV-vlUKfoZuMrDty_FTjCkeKH8hwOtx-rO_C5lwAAAA&shmds=v1_Ac3VAowTHwjaF9HSmOqO6t-YIgYXK7geVwT_-mhSfnEs7uhB7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=pKvVQzdniKXaZHz0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEX___9QLpFEGovDvNZOK5BGHYw7AIdDF4s9BohLJo9JIo0-DYksAIGTg7jNx91cP5hrU6De2umGdLDn5O_5-Pu2rM7v7PRxWqOkl8KAbaza1eaMe7Odj75XN5XTzeF0XqWrn8a9tNJlS5x6ZahpG7UcAAACBElEQVRIiaVX2baDIAx0wb3VWpfazW7__4-3VgUyEOvpnUdCMGGGJDo-oHWsaHGf0288HdHV7lhEZNsmd5yL5-oIzja_bUA3bT-HCbIY-6ZfHpItohjDh9XISLMO6NlhNa4_MrKc7NDxkJAN2WM27FNiiDrqd4-IOT0qkwuhnHS_ElIRS7ZaM17h1HJlNJjHfWX-1Ybe3AEurvVoQFk1Wzo9GOHV4IgcJ4W07LRgwhz9GFV9goksizpAeupwP54DLWx-TkUFJAKZzjnAxCkakN5NWkYq1VUjjhxl5RCsTi6gFpxI3gIRrsGEQg_SU-XgllIBIzqQ3l4GE3dLfpRtch-L33MI2-MFMVXPhGR74uS51lGyPcG7rPaEhxv3ax1LkF66wB9FQ4NNb99d_ueIoSZrQ_31coCOaC0dKACjHzD4WXJPKnLV875keqEf1EpduJgrPmRV1Q5JuPBNLB2xrGpD6RA8ny9arLJmNny6Wfri_KA8alVtKo-N3a-iDGqhzZ0uthdkbAGyysgZwd4CUGqyqrUqA1vT8aHNKanpmgiNIQikpg07dPIyJLjjpFZCKwfRd5zUDHLpEHRipfaWU7IwBLFSG9Ajv8p05KRmux5NUQ9WahOe9k6EY6f5CrAshCMnrNQUIKbx8rac1HTAQDfQldNhPmOqmmsM8_hbwDzzCvf9ATUJGtkKdDdDAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.monster.com/job-openings/ai-technical-upskilling-sr-specialist-denver-co--df533a02-8e16-4e02-b57c-366a2c6b6e8a",
+      "job_title": "AI & Technical Upskilling Sr Specialist",
+      "description": "Maximus' Learning and Organizational Development (L&OD) function is seeking a Sr. Specialist, AI & Technical Upskilling (remote) to help build the AI and technical skills our employees need to thrive in a rapidly evolving workforce. \n\nThis role designs, coordinates, and continuously improves scalable learning solutions that help employees build practical AI and technical skills, use emerging technologies responsibly, and apply learning directly to their work. The Sr. Specialist partners with business stakeholders, subject matter experts, HR partners, technology teams, vendors, and learning contributors to translate skill needs into clear learning pathways, high-quality assets, practical reinforcement, and measurable outcomes. \n\nThis role is ideal for a learning professional who brings strong instructional design judgment, curiosity about AI and emerging technology, stakeholder confidence, and program execution discipline.\n\nEssential Duties and Responsibilities:\n\n- Execute the development and implementation of learning assets through close collaboration with the Training Operations Team.\n\n- Use training technology to help provide creative and scalable training solutions. \n\n- Help to develop and support the implementation of the LMS learning strategy and measurement of that strategy for the organization.\n\n- Support LMS system audits.\n\n- Create and document processes for learning solutions, architecture decisions and operating procedures.\n\n- Work in partnership with the HRIS team to support LMS system updates.\n\n- Work with vendor to secure and onboard new learning technologies for delivering, tracking, and/or creating learning content.\n\n- Consult and collaborate with leaders at all levels as well as cross-functional stakeholders to and provide learning solutions using the LMS functionalities.\n\n- Define support LMS system roles and permissions.\n\n- Support and advise on overall system configuration and availability groups. \n\n- Support and train Global system Super Users and Admin.\n\n JOB SPECIFIC DUTIES: \n\nDesign & Development\n\n - Support the design, development, and continuous improvement of enterprise AI and technical upskilling programs, including foundational AI literacy, responsible AI use, role-based technical learning, and applied learning experiences. \n\n - Design and draft instructionally sound storyboards that translate complex AI and technical topics into eLearning, instructor-led, virtual, and blended learning formats. \n\n - Develop and maintain learning pathways, job aids, facilitator guides, learner communications, discussion guides, practice activities, and reinforcement resources. \n\n - Create practical learning scenarios that help employees recognize appropriate AI use cases, evaluate risks, improve prompts, validate outputs, and decide where human judgment is required. \n\n - Apply adult learning principles, accessibility practices, and plain-language standards to make learning approachable, usable, and inclusive. \n\nAI & Learning Technology\n\n - Translate AI, automation, data, and technical concepts into clear, practical learning content employees can apply in real work scenarios. \n\n - Contribute to responsible AI learning by ensuring content reinforces approved tools, data handling expectations, human oversight, privacy considerations, and organizational guidance. \n\nStakeholder Partnership & Change\n\n - Partner with subject matter experts, business stakeholders, HR partners, change leads, and technology teams to identify skill needs, define learning objectives, and shape learning experiences that align to business priorities. \n\n - Support external technical certification pathways and vendor-delivered learning offerings by helping assess fit, coordinate implementation, and monitor learner progress. \n\n - Coordinate program logistics, content updates, facilitator preparation, vendor collaboration, communications, learner support, and delivery readiness across virtual, in-person, and blended formats. \n\n - Maintain AI and technical learning materials as tools, models, policies, and workforce needs evolve. \n\nMeasurement & Continuous Improvement\n\n - Support skills gap analysis and needs assessment work by gathering stakeholder input, reviewing learning data, and translating findings into recommended learning priorities. \n\n - Use LMS data, survey feedback, assessments, and other learning analytics to evaluate participation, learner experience, behavior change, and program improvement opportunities. \n\n - Recommend process improvements that make AI and technical upskilling programs more scalable, measurable, and easier for employees and leaders to adopt. \n\n - Adhere to established safety standards and perform other duties as assigned.\n\n- Bachelor's Degree and 5+ years of experience required\n\n- Five (5) or more years of experience in the area of Learning & Development and Learning Management Systems administration required (preferable CSOD). \n- Three (3) or more years of experience supporting a global/complex instance of the Learning Management System Cornerstone OnDemand (CSOD). \n- Experience working on complex issues where analysis of situations or data requires an in-depth knowledge of the company.\n- Ability to regularly interact with senior leaders and executives.\n- Demonstrated ability to think strategically and translate business performance gaps into learning and development strategies.\n\n JOB SPECIFIC MINIMUM REQUIREMENTS: \n\n -Five (5) or more years of experience in Corporate Learning & Development, instructional design, curriculum development, or a combination of these areas.\n\n -Experience d esigning technical training and supporting certification strategy for technical audiences. \n\n -Foundational understanding of AI concepts, LLMs, prompt engineering, and responsible AI practices, with the ability to translate these into learning content. \n\n -Experience designing, drafting, and developing storyboards for learning solutions, including eLearning, instructor-led training, virtual learning, and blended formats. \n\n -Demonstrated ability to identify learning needs and translate them into practical learning solutions. \n\n -Experience navigating complex organizational environments and partnering with stakeholders across functions. \n\n Preferred Qualifications: \n\n The following qualifications are helpful but not required. Candidates are not expected to meet every preferred qualification. \n\nDesign & Development\n\n -Strong understanding of instructional design principles and adult learning theory (e.g., ADDIE, Rapid Course Development). \n\n -Experience developing learning assets across multiple formats, including eLearning, ILT, Virtual ILT, job aids, presentations, discussion guides, and performance support resources. \n\n -Experience applying visual design principles to create polished, accessible materials such as slide decks, infographics, and quick reference guides. \n\n -Strong writing, editing, facilitation, and communication skills, with the ability to explain complex topics in plain language for different audiences. \n\nAI & Learning Technology\n\n -Experience designing, coordinating, or improving enterprise learning programs related to AI, technical skills, digital transformation, automation, data literacy, or emerging technologies. \n\n -Proficiency with Canva, Microsoft 365, Microsoft Copilot, SharePoint, and Teams. \n\nStakeholder Partnership & Change\n\n -Proven ability to partner with SMEs and cross-functional teams to gather content, clarify objectives, and align to business needs. \n\n -Experience coordinating vendors, facilitators, internal contributors, and learning operations partners to deliver programs on time and with consistent quality. \n\nMeasurement & Continuous Improvement\n\n -Experience supporting skills gap analyses and needs assessments. \n\n -Ability to translate skills requirements into clear learning objectives, learning pathways, and program components. \n\n -Experience using learning data, surveys, assessments, and learner feedback to identify opportunities for improvement. \n\n -Demonstrated ability to manage multiple workstreams, competing priorities, and deadlines while maintaining quality and stakeholder confidence. \n\n -Curiosity and continuous learning mindset related to AI, data, automation, learning technology, and future skills. \n\n#maxcorp #HotJobs0728LI #HotJobs0728FB #HotJobs0728X #HotJobs0728TH #TrendingJobs #c0rejobs #CoreAdm #HotJobs0811LI #HotJobs0811FB #HotJobs0811X #HotJobs0811TH\n\nMaximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.\n\nMaximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.\n\n\n\n\nSkills:\nAdult Learning, Artificial Intelligence (AI), Artificial Intelligence (AI) Programming Languages, Automation, Business Strategy, Communication Skills, Consulting, Content Development, Continuous Improvement, Corporate Planning, Course Development, Cross-Functional, Data Analysis, Editing, Emerging Technology, Gap Analysis, HRIS/HRMS, Information Technology/Systems Audit, Instructional Design, Learning Management System (LMS), Literacy, Logistics, Microsoft Product Family, Microsoft SharePoint, Needs Assessment, Operations Processes, Organizational Development/Management, Problem Solving Skills, Process Improvement, Project/Program Coordination, Quality Management, Risk Analysis, Safety Standards, Storyboards, Strategic Planning, Systems Administration/Management, Systems Maintenance, Team Lead/Manager, Technical Delivery, Technical Strategy, Technical Support, Time Management, Training/Teaching, Training/Teaching Curriculum, Use Cases, Writing Skills, eLearning\n\n\nMaximus\n\n\nMAXIMUS provides business services to help governments operate health and human services programs, mostly at the state and national levels. The company's health services segment offers outsourced program management and administrative services,\n\nCompany Size:\n5,000 to 9,999 employees\n\n\nIndustry:\nHealthcare Services\n\n\n0\n\n\nWebsite:\nhttps://www.maximus.com/",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/ai-technical-upskilling-sr-specialist-denver-co--df533a02-8e16-4e02-b57c-366a2c6b6e8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=640646220097848102&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2845675250698420224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-technical-upskilling-sr-specialist-maximus-denver--techmap_us_2D478FC29A6243A796E8EA91F6553562?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBcdTAwMjYgVGVjaG5pY2FsIFVwc2tpbGxpbmcgU3IgU3BlY2lhbGlzdCIsImNvbXBhbnlfbmFtZSI6Ik1heGltdXMiLCJodGlkb2NpZCI6InBLdlZRemRuaUtYYVpIejBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbnBFYUdsUFdVMVNVR1JtZEhaeWIyZEhZbXhOZFdkSk4xa3lhREZDTTBwbU5XdHJPVE55UkVWRlZtNUJYMHQxTTJad09WWjJlV1ZXUXpoSE5sRjBNV3htVjFsRFpESmlNVlpLYm05VE1FcEtOMGRxYzJ4YWFEQXhlRU5GVUY4NWFpMUpSbEEwT1d4d09WcG1TMHA0T1dONWJrdG1SVGxKVEZsT2N6SlNVRGQzV25WUFVtUVNGelYzWm14aGIxTkZVRTVEYVhCMFVWQm9TWEZzZFZGRkdpSkJTRTR3UlRkSFlWQXdUVzU1ZGxGeU9WQlNjRXhqYzFWa1kxUm9lbTQzT0ZGUiIsImZjdiI6IjMiLCJmY19pZCI6InBLdlZRemRuaUtYYVpIejBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Artificial Intelligence Specialist",
+      "company_name": "Quartile",
+      "location": "United States",
+      "via": "Talents By Vaia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=cuAMLKnak-nrCZm3AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ7CMAwAxdofwOQZiQQhscACE4INVcxVGkxqFOwoNlLfwmtplxtuuGt-i-bUIpNUOFejF0UKGa5smDMl5IjQFpwlqcEGbtKDYqhxAGG4iKSMq-NgVvTgvWp2SS0YRRfl44Wxl9G_pdcZnQ6hYsnBsNvtt6MrnNbL-zdM54xADA8mwye0UwL1D2t-wtedAAAA&shmds=v1_Ac3VAoxdknT5u77z-Zr557-3IZYx-12CpJhfUOt3FNoYx98DAw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=cuAMLKnak-nrCZm3AAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://talents.vaia.com/companies/quartile/senior-artificial-intelligence-specialist-197885585/",
+      "job_title": "Senior Artificial Intelligence Specialist",
+      "description": "About Sciene At Sciene, the mission is to empower professional services firms with cutting-edge, customized AI solutions - enhancing automation, analytics, and optimization across industries while prioritizing security, cost efficiency, and state-of-the-art technology. Our flagship product, the Sciene AI Companion , is an autonomous customer success platform deployed across Quartile - the world's largest retail media optimization platform, managing performance marketing for 1,000+ brands.\n\nIt automates relationship-heavy enterprise workflows end to end: generating personalized email replies in the CSM's own voice (8x faster), building full presentation decks for client meetings (12x faster), and detecting and diagnosing account fluctuations before anyone has to ask (6x faster). None of this replaces human judgment - it removes the work that was getting in the way of it. Read more about how we built it: Sciene AI Companion: Building an Autonomous Customer Success Platform on Databricks OVERVIEW Sciene runs a production agentic AI platform : a config-driven engine where every product is an agent with its own identity, skills, tools, and quality gates, executing ReAct loops against real business data across multiple LLM providers.\n\nThe platform is built; what it needs now is deeper machine learning judgment behind every model decision it makes. The Senior ML Specialist is the team's authority on how these models actually work and how to measure them. You will decide which models run which tasks and prove it with statistically sound benchmarks, design the evaluation methodology the whole team relies on, build classifiers and fine-tuned models where they beat prompting, and diagnose model behavior from first principles rather than by trial and error.\n\nYou will do this inside a production codebase - shipping, operating, and monitoring what you design. WHO THIS ROLE IS FOR This is a machine learning role first and a software engineering role second. We are looking for someone whose core professional background is in machine learning and statistics - not a software engineer who adopted LLM APIs in the last few years.\n\nYou should be able to explain from first principles how a large language model is trained and why it behaves the way it does, reason about model outputs as probabilistic objects, and tell whether a difference between two models on a benchmark is real or noise. REQUIREMENTS 5+ years of applied machine learning experience , with a substantial part predating the current generative AI wave - training, evaluating, and deploying models, not only integrating LLM APIs Strong foundation in statistics and probability : hypothesis testing, confidence intervals, sampling and sample-size reasoning, bias/variance, calibration, and the ability to state when a measured difference is statistically meaningful Deep understanding of LLM and generative AI theory : transformer architecture and attention, tokenization, embeddings, the training pipeline (pretraining, supervised fine-tuning, RLHF/DPO), decoding strategies (temperature, top-p, sampling vs. greedy), scaling behavior, and the known failure modes - hallucination, sycophancy, long-context degradation, prompt sensitivity - and why they occur Hands-on classical ML and NLP : classification, clustering, feature engineering, text classification, embeddings and semantic similarity - and the judgment to know when a small trained model outperforms an LLM on cost, latency, or accuracy Experience fine-tuning models (LoRA/PEFT, supervised fine-tuning, or full fine-tuning) and building the datasets for it - and equally, knowing when prompting or retrieval is the better answer Experience designing evaluation methodology for AI systems : building offline eval sets, LLM-as-judge and its known biases, inter-rater agreement, regression benchmarks, and significance testing on results Production-grade Python : PyTorch, scikit-learn, Hugging Face, and modern async Python; comfortable shipping into a FastAPI/Pydantic codebase with tests and CI - this role ships code, not only notebooks Hands-on experience with at least one major LLM provider API (OpenAI, Anthropic, Google), including structured outputs and tool/function calling, and an understanding of the trade-offs between models and providers Master's or PhD in Machine Learning, Statistics, Computer Science, Mathematics, or a related quantitative field - or equivalent demonstrated depth (publications, competition results, released models or research code) The autonomy expected of a senior: you own a problem end to end - from framing to shipped, measured outcome - and are accountable for the result PREFERRED QUALIFICATIONS Publications, research, or open-source contributions in NLP or machine learning; strong Kaggle or equivalent competition record Experience with retrieval systems: embedding model selection, chunking strategies, reranking, and retrieval quality evaluation Experience with agent evaluation: trajectory analysis, tool-use accuracy, multi-step task success metrics Experience with model cost and latency optimization: model routing, distillation, prompt caching, quantizationExperience with Databricks (MLflow, model serving, Delta Sharing) and with Azure (Container Apps, Key Vault) and Docker Experience with observability stacks: OpenTelemetry, Grafana, Loki, structured logging Experience with the Model Context Protocol (MCP) or similar agent-integration standards Track record of shipping something from 0 to 1 in a fast-moving environment where priorities shift often WHAT YOU'LL DO Own model strategy across the platform: evaluate and select models per task (OpenAI, Anthropic, Google, and emerging providers) using our benchmark and LLM-as-judge harness, and make the decision defensible with proper statistical treatment of the results Design and maintain the evaluation methodology the team relies on: offline eval sets, judge calibration and reliability, regression benchmarks, and quality metrics that go beyond \"it looks right\" Build classification and fine-tuned models where they beat prompting - for routing, categorization, and detection tasks - including dataset construction, training, evaluation, and deployment Design, develop, and ship agentic AI products on our platform: agent identities, reusable skills, tool integrations, and structured outputs - often config-driven, with platform-level code changes when the engine needs to grow Do prompt and context engineering grounded in how models actually process context: system prompt assembly, context injection from live data sources, thread/memory management, and structured output design with Pydantic schemas Own output quality: design deterministic enforcers, validation quality gates, and LLM-as-judge evaluators, and measure whether the judges themselves are reliable Diagnose model behavior from first principles - hallucination, inconsistency, drift across model versions - and turn the diagnosis into fixes in prompts, retrieval, guardrails, or model choice Build and extend agent tools that query Databricks, MongoDB, and external systems, and integrate agents with the broader ecosystem via the Model Context Protocol (MCP) Operate what you ship: instrument services with OpenTelemetry, monitor quality, latency, and cost in Grafana, and improve them over time Collaborate with data engineers, software engineers, and product to deliver end-to-end AI solutions, and raise the team's ML fundamentals through reviews and knowledge sharing Follow the research literature critically and bring in techniques that hold up on our data - not every paper does Document and maintain the codebase, ensuring code quality and adherence to best practices *This is a PJ contract based in Brazil.*",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/quartile/senior-artificial-intelligence-specialist-197885585/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-product-counsel-data-products-machine-learning-artificial-intelligence-abridge-new-york-ny--t7xk-865300529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MoreJobs",
+          "link": "https://morejobs.b7h.alc.onl/remote-jobs/senior-machine-learning-engineer-artificial-intelligence?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2UgU3BlY2lhbGlzdCIsImNvbXBhbnlfbmFtZSI6IlF1YXJ0aWxlIiwiaHRpZG9jaWQiOiJjdUFNTEtuYWstbnJDWm0zQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVdFMGRFWXdTRnBGYkVkMVdqZDBWMGhxTUZkdFdXSlpaMjFWTm5nNVlXbHlPV0kxU0VsVWVsaHVWM3BqWnpaR1JVcHVSMmt0WWtSV05HZGliVFZqUjNaWmExOVhkVTVVYjFGVlJrNWFRVVZpV1dwSVZUQk5aV0UwWmtZNWRIcFhVa0ZuVDE5S1duVnpOMVJrUjBoeVJIVlVaRnBoU2tkMlYxVkVXbkEyVTJZMFdIQnBkRFFTRnpWM1pteGhiMU5GVUU1RGFYQjBVVkJvU1hGc2RWRkZHaUpCU0U0d1JUZEZSRnB6Y25wUWNUaGhlakZpVDJaMVVXeENUSGhXVEU1aWNYbEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJjdUFNTEtuYWstbnJDWm0zQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI Operations Specialist Workflow Automation & Quality",
+      "company_name": "Rose International",
+      "location": "Anywhere",
+      "via": "Rose International",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=HdgIrncHbXkQcb5gAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NsQrCQBAEUGzzCVYLgoVgTgQbrVJJBBENYhkucU1OL7fH7QbjZ_mHnmmmecxM8p0kxyyHk8egxZBjKDzWRlvDAjcKr4elN2S9UDc6zOHcR5UPLOFAFTDqULcQZU_UWJzuWhHPW6WYbdqwxFqd1tQpcljRoJ5U8T9KbnVAb7Vgud6shtS7ZjG7ECPkTjC48U9bMA6uzgjeoYhjyD8D4y5NtAAAAA&shmds=v1_Ac3VAowyFH0GS_NBevFYfZrcDvn-HQMtY8vT2UOXisP-KXQDhg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=HdgIrncHbXkQcb5gAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507e5aaf72d45cd53ed75/images/HfwJTbNCc61CwRSS_4ED6bgeZLFZq_ZEmsmFRtx5q1s.png",
+      "extensions": [
+        "4 days ago",
+        "Work from home"
+      ],
+      "source_link": "https://www.roseint.com/Jobs/Operations-Specialist-Remote-Rose-International-Job-509874.html?RD=W",
+      "job_title": "AI Operations Specialist Workflow Automation & Quality",
+      "description": "Required Skills:• 5-7 years in operations, program management, analytics, consulting or applied AI, where you were responsible for results.• You use AI every day and have built something with it that has actually moved the needle, such as a workflow, an automation or an analysis. You know where it breaks, and you keep pushing it further.• You're comfortable with numbers: accuracy, precision and recall, sampling. SQL and notebooks help. If you haven't used them yet, you'll pick them up quickly with AI assistance.• You're curious about how work actually gets done, including the awkward exceptions, and you've taken a messy process and made it measurable.• You've worked on quality in some form, such as review guidelines, QA or audits.• You write clearly and can work with business leads, PMs and engineers in the same week.• You're fine working with limited direction, and you try things yourself instead of waiting for someone to build them. A technical background isn't required.• You don't need to have designed evaluations or calibrated LLM judges before. We'll teach you, and you'll work with a team that has done it many times.Preferred experience• Hands-on SQL, Python or API experience.• Trust and safety, content moderation, annotation operations or other human-in-the-loop work at scale.• Fine-tuning models or calibrating LLM judges.• Background in a two-sided marketplace, travel, or another operations-heavy business.• Experience setting up intake and prioritization for a new team.Duties:We're the AI & ML Enablement team in Supply Tech. We help teams across Client use AI to do real work, and prove that it works. Right now, we're helping business and field teams use AI to take on the review and quality work they run, and helping product teams understand whether an AI feature works before it reaches our users. Day to day, we move manual review processes to AI and put people where their judgment matters most. We design new workflows so AI does the work from the start. We also build the labeled datasets that show whether the AI is right, and we keep everything running as models and policies change. Our methods and projects change as the models do, and we expect the scope of this role to grow with them.The difference you will make:You'd work alongside our team on whichever problems AI could take on, whether that's a business team with a process that's slow, expensive or inconsistent, or a product team getting an AI feature ready to launch. The job looks much the same either way. You start with how the work really gets done, help build an AI version of it, and test it until you trust the results. Then you hand it off and use what worked on the next problem. The mix of projects will keep changing as AI takes on more of the work, so we care more about how you work than about a fixed list of projects. This is a hands-on role. You help build the workflow, ship it, and stay on to make sure it works.A typical day:• Help the team decide which projects will drive the largest business impact, and make the case for the ones worth doing.• Sit with the team that owns a problem, map how the work gets done today, and work out how AI can do it and where people step in for the hard cases.• Build the AI workflow: write the prompts, set up the pipeline, and keep it at the agreed quality level, watching for drift once it's live.• Build the test sets, measure accuracy, and calibrate LLM judges against human reviewers.• Support product teams in agreeing on what \"good enough to launch\" means for an AI feature, and bring the evidence for the go/no-go call.• Turn unclear policy into criteria a reviewer can apply consistently, working with product, Legal and Policy.• Work with subject matter experts to write labeling guidelines and produce human-verified labels on real data.• Run labeling at scale with vendor agents, and check their work against agreement metrics and your own spot checks.• Make what you build reusable and document what you learn, so the next team gets to production faster.• Keep our methods current as models, tools and vendor agents change, and retire what stops working.• Own the workstreams you're assigned, from setup through quality checks. Model infrastructure and product roadmaps stay with the teams that own them.**Only those lawfully authorized to work in the designated country associated with the position will be considered.** **Please note that all Position start dates and duration are estimates and may be reduced or lengthened based upon a client’s business needs and requirements.**",
+      "apply_options": [
+        {
+          "title": "Rose International",
+          "link": "https://www.roseint.com/Jobs/Operations-Specialist-Remote-Rose-International-Job-509874.html?RD=W&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/operations-automation-specialist_7ea1a724168b9c8174f37d51c6c2a37168fb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-operations-workflow-automation-specialist--united-states--ee436f306ec53e974ab71fbf67eafe812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Rocketship",
+          "link": "https://www.remoterocketship.com/us/company/edhc/jobs/operations-automation-specialist-dallas-hybrid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/operations-automation-specialist-hey-lieu--lensa-2365_de7103d731ab945eca6acf6c5775d50318a9aee80d4a1bd4232cb459cedaccd8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/hey-lieu/operations-automation-specialist-187331068/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hollylist",
+          "link": "https://www.hollylist.com/job/operations-automation-specialist-vZ3vXjacSdXjbcZyb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/7208399744601686016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBPcGVyYXRpb25zIFNwZWNpYWxpc3QgV29ya2Zsb3cgQXV0b21hdGlvbiBcdTAwMjYgUXVhbGl0eSIsImNvbXBhbnlfbmFtZSI6IlJvc2UgSW50ZXJuYXRpb25hbCIsImh0aWRvY2lkIjoiSGRnSXJuY0hiWGtRY2I1Z0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXWjNOVlJyYzBzemJUTkdWRXB2UTJKWU1ucDFNbWR1V2pWTkxXWnBUekV6WlhsalUyVm9WVlpwTlZaeGJHeEVja1k1YVdGS1ZuTTNObXAyWmxGaVVtTlBlREZKVVcxQ1RrZGxVbFJvVjNaWFgyNTVjMWQwZDA0eE5FcFFUWEU1Tmt0bGFraHFhSGx4ZFZvdGFqQXhkbXh3Y1MxalFtOXBVbGN0TTE5R1pYTktjMFpLWlU0U0Z6VjNabXhoYjFORlVFNURhWEIwVVZCb1NYRnNkVkZGR2lKQlNFNHdSVGRHUWswNU56WjZSR3RZUmxCQ1ZsVnVXRmMwU3pKblFXUXpiVE5CIiwiZmN2IjoiMyIsImZjX2lkIjoiSGRnSXJuY0hiWGtRY2I1Z0FBQUFBQT09In0="
+    },
+    {
+      "title": "AI Detection & Monitoring Specialist (Remote – 6 Hours Per Day) - Contract to Hire",
+      "company_name": "Upwork",
+      "location": "Anywhere",
+      "via": "Upwork",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "No previous Health & Safety (HSE) experience is needed!",
+            "Confident using a computer and online platforms",
+            "Interested in AI and how the technology works",
+            "Excellent attention to detail and a willingness to learn",
+            "Able to work independently and make sensible decisions",
+            "Reliable internet connection and access to a computer",
+            "Available for a dedicated 6-hour shift each day",
+            "Good English communication skills",
+            "This can be a casual recording of around 1–2 minutes",
+            "There's no need for professional editing or preparation"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "100% remote working",
+            "Full training and ongoing support",
+            "Hands-on experience with live AI technology",
+            "A friendly and growing startup team",
+            "Opportunity for long-term work and progression",
+            "The chance to work on technology that genuinely helps protect people"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "AI Detection & Monitoring Specialist (Remote – 6 Hours Per Day)",
+            "We'll provide full training and guidance to help you get started",
+            "Monitoring live AI-generated detections",
+            "Reviewing potential risks and assessing alerts",
+            "Helping train and improve our AI models",
+            "Processing and escalating safety alerts in real time",
+            "Working with our team to continually improve the system"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=y6w477I294XkJ7g5AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOzwoBURSHs_UCyuq3EsqMFAtWovwpJbLWnes0cxn33O45ws47eCRv4kmMzbf4Fl9f_VOrX6YrzEnJqmOPFjbsnXJ0Psc-kHWmdKJo7-jKSvi-3hhhybco2FLE3Dw76GHGXqOxCmUsXaRKrTmDkIm2QNVdMOclNSeFapBxmoqUSS5q1NnE8jVlTxk_0jNn8sdRChMplEbpOBj2H0nwebdxCHeOFziPQ_VIJ-yrAMkPYsCVccYAAAA&shmds=v1_Ac3VAoy7wBcKuzUGNXB64ZB0EXXxKdtkeAexTpVRqsBhA-iM6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=y6w477I294XkJ7g5AAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Work from home",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.upwork.com/freelance-jobs/apply/Detection-Monitoring-Specialist-Remote-Hours-Per-Day_~022113599142894440059/",
+      "job_title": "AI Detection & Monitoring Specialist (Remote – 6 Hours Per Day) - Contract to Hire",
+      "description": "AI Detection & Monitoring Specialist (Remote – 6 Hours Per Day)\n\nAbout the role\n\nWe are an AI startup developing intelligent systems that identify and respond to risks in real-world environments. We're looking for enthusiastic, reliable and detail-oriented people to join our growing AI detection team! This is a fully remote, computer-based role where you'll work with live AI technology, review potential risks and help train and improve our AI systems.\n\nOur technology is already deployed across industrial sites, where safety alerts are delivered directly to teams on the ground. You'll be working with a live system that helps keep people safe, so attention to detail and good judgement are really important.\n\nNo previous Health & Safety (HSE) experience is needed! We'll provide full training and guidance to help you get started.\n\nWhat you'll be doing\n\n- Monitoring live AI-generated detections\n\n- Reviewing potential risks and assessing alerts\n\n- Helping train and improve our AI models\n\n- Processing and escalating safety alerts in real time\n\n- Working with our team to continually improve the system\n\nWhat we're looking for\n\n- Confident using a computer and online platforms\n\n- Interested in AI and how the technology works\n\n- Excellent attention to detail and a willingness to learn\n\n- Able to work independently and make sensible decisions\n\n- Reliable internet connection and access to a computer\n\n- Available for a dedicated 6-hour shift each day\n\n- Good English communication skills\n\nWhat we offer\n\n- 100% remote working\n\n- Full training and ongoing support\n\n- Hands-on experience with live AI technology\n\n- A friendly and growing startup team\n\n- Opportunity for long-term work and progression\n\n- The chance to work on technology that genuinely helps protect people\n\nHow to apply\n\nWe'd love to hear from you!\n\nPlease send us a short introduction about yourself and your experience using computers or AI tools.\n\nImportant: You must also include a short video or audio recording introducing yourself and telling us about your experience with AI.\n\nYou don't need to be an AI expert! We'd simply love to hear which AI tools you've used, what interests you about AI and why you think you'd be a good fit for this role.\n\nThis can be a casual recording of around 1–2 minutes. There's no need for professional editing or preparation. Applications without a video or audio recording will not be reviewed.\n\nWe're excited to meet people who are curious about AI, eager to learn and interested in being part of something new!",
+      "apply_options": [
+        {
+          "title": "Upwork",
+          "link": "https://www.upwork.com/freelance-jobs/apply/Detection-Monitoring-Specialist-Remote-Hours-Per-Day_~022113599142894440059/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBEZXRlY3Rpb24gXHUwMDI2IE1vbml0b3JpbmcgU3BlY2lhbGlzdCAoUmVtb3RlIOKAkyA2IEhvdXJzIFBlciBEYXkpIC0gQ29udHJhY3QgdG8gSGlyZSIsImNvbXBhbnlfbmFtZSI6IlVwd29yayIsImh0aWRvY2lkIjoieTZ3NDc3STI5NFhrSjdnNUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdtcG1hblpIVVY5alowNXRSRk5JYkZNNFoyeGxTRVppVlc1RWFFRlpObmxHUlRCamRVOUJXa1ZaTWpOek5uWnVMVTFvZW5velowbHdaRnBKYXpjM00wUXdUWFV0YkhOR09ESjZVbkF5VDFReFRHbzVaVVJ4ZDBjd1UyZHBhV2xmWkRsR1RrTlVWbGcyVFdSd1ZHbHNVRFZmYjNZeU5HWjZMVUpZTVV0M2VVSmlja2xPUlRnU0Z6VjNabXhoYjFORlVFNURhWEIwVVZCb1NYRnNkVkZGR2lKQlNFNHdSVGRGUVhJMlkydHVSVTVsU2pacFQxOVVSRU5yV1dac0xVZHNka1JSIiwiZmN2IjoiMyIsImZjX2lkIjoieTZ3NDc3STI5NFhrSjdnNUFBQUFBQT09In0="
+    },
+    {
+      "title": "AI Enablement Specialist",
+      "company_name": "Wilson Sonsini Goodrich & Rosati",
+      "location": "Anywhere",
+      "via": "Built In Colorado",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Leverage experience to drive the evaluation of emerging technologies (legal and non-legal) and provide actionable recommendations on their applicability to attorneys and practice areas",
+            "3+ years of experience with AI and training technology tools",
+            "Demonstrated experience working with technology solutions (e.g., document automation, matter management systems, AI-enabled tools, or workflow platforms)",
+            "Strong communication skills, including the ability to translate complex technical concepts into practical guidance for legal professionals",
+            "Proven ability to collaborate across functions and influence adoption of new tools and processes among legal stakeholders",
+            "Experience managing projects or initiatives with multiple stakeholders, including the ability to prioritize and execute in a fast-paced environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The actual base pay offered will depend upon a variety of factors, including but not limited to the selected candidate’s qualifications, years of relevant experience, level of education, professional certifications and licenses, and work location",
+            "Palo Alto, New York, San Francisco: $102,000 - $138,000 per year",
+            "Austin, Boston, Boulder, Century City, Delaware, Los Angeles, Salt Lake City, San Diego, Seattle, Washington, D.C., and all other locations: $91,800 - $124,200 per year",
+            "The compensation for this position may include a discretionary year-end merit bonus based on performance",
+            "We offer a highly competitive salary and benefits package"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This position collaborates closely with practice group leadership, attorneys, paralegals and other professionals, technology teams, and external vendors and partners to enhance workflows and improve efficiency",
+            "This role requires the ability to translate practitioner needs into practical, technology-enabled solutions",
+            "Contribute to the development of AI-enabled solutions, automated workflows, data-driven tools, and support internal operations and legal work",
+            "Support the development and execution of innovation strategies aligned with the needs of legal practice areas",
+            "Collaborate with practice groups to assess technology needs and develop tailored innovation strategies",
+            "Lead pilot programs, proof-of-concept initiatives, and testing efforts to assess usability, effectiveness, and impact of new tools",
+            "Coordinate the rollout and adoption of technology solutions, ensuring integration into existing workflows with minimal disruption",
+            "Partner with cross-functional teams to align innovation efforts with broader organizational priorities",
+            "Support change management efforts, including developing and delivering training and communications to encourage adoption of new tools and processes",
+            "Identify and implement process improvements to enhance efficiency, reduce friction, and improve service delivery",
+            "Assist in preparing presentations, reports, and training materials to communicate Innovation department initiatives and outcomes to stakeholders"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=5gbclYHgGkb7a9HYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU43OYg2IrjoVEVEF8EOjiVJj_YkvQu5CP0bf9V2eeMrfovCVHe4snUBB-QMdURPNpBm2MJDHCja5HsQhptIF3B56nOOejRGNZSdZpvJl14GI4xORvMRpzON9jZhDDZjsz_sxjJytzZvCjpdtbAS03y2iaZ_BS_RqQJiOMs3tJg2cHn-Abw5mN-iAAAA&shmds=v1_Ac3VAoyQ_JYPlorOsFlg9LEnRP_2tR4mzCFlFC20npy5G9rAVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=5gbclYHgGkb7a9HYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507e5aaf72d45cd53ed75/images/IAGds7G0A5BtFiI8E3g3EgxFoE9cbDdfDbSGZMXyJQw.jpeg",
+      "extensions": [
+        "18 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.builtincolorado.com/job/ai-enablement-specialist/11626354",
+      "job_title": "AI Enablement Specialist",
+      "description": "Wilson Sonsini is the premier legal advisor to technology, life sciences, and other growth enterprises worldwide. We represent companies at every stage of development, from entrepreneurial start-ups to multibillion-dollar global corporations, as well as the venture firms, private equity firms, and investment banks that finance and advise them. The firm has approximately 1,100 attorneys in 17 offices: 13 in the U.S., two in China, and two in Europe. Our broad spectrum of practices and entrepreneurial spirit allow exceptional opportunities for professional achievement and career growth. \n\nWilson Sonsini is looking for an AI Enablement Specialist to join the firm's Innovation team. The AI Enablement Specialist plays a key role in advancing legal service delivery through the evaluation and implementation of AI technology and process improvements across legal practice areas. This position collaborates closely with practice group leadership, attorneys, paralegals and other professionals, technology teams, and external vendors and partners to enhance workflows and improve efficiency. This role requires the ability to translate practitioner needs into practical, technology-enabled solutions.  Legal practice experience is preferred.\n\n\nThis position is available as a full virtual opportunity.\n\n\nEssential Duties and Responsibilities: \n\nContribute to the development of AI-enabled solutions, automated workflows, data-driven tools, and support internal operations and legal workSupport the development and execution of innovation strategies aligned with the needs of legal practice areas. Collaborate with practice groups to assess technology needs and develop tailored innovation strategiesLeverage experience to drive the evaluation of emerging technologies (legal and non-legal) and provide actionable recommendations on their applicability to attorneys and practice areasLead pilot programs, proof-of-concept initiatives, and testing efforts to assess usability, effectiveness, and impact of new toolsCoordinate the rollout and adoption of technology solutions, ensuring integration into existing workflows with minimal disruptionPartner with cross-functional teams to align innovation efforts with broader organizational prioritiesSupport change management efforts, including developing and delivering training and communications to encourage adoption of new tools and processesIdentify and implement process improvements to enhance efficiency, reduce friction, and improve service deliveryAssist in preparing presentations, reports, and training materials to communicate Innovation department initiatives and outcomes to stakeholders\nEducation and/or Work Experience Requirements:\n\n3+ years of experience with AI and training technology toolsDemonstrated experience working with technology solutions (e.g., document automation, matter management systems, AI-enabled tools, or workflow platforms)Strong communication skills, including the ability to translate complex technical concepts into practical guidance for legal professionalsProven ability to collaborate across functions and influence adoption of new tools and processes among legal stakeholdersExperience managing projects or initiatives with multiple stakeholders, including the ability to prioritize and execute in a fast-paced environment\nEducation and/or Work Preferred:\n\nLaw firm experience or legal background preferredBachelor’s degree preferred\nThe primary location for this job posting is in Palo Alto, but other locations may be listed. The actual base pay offered will depend upon a variety of factors, including but not limited to the selected candidate’s qualifications, years of relevant experience, level of education, professional certifications and licenses, and work location. The anticipated pay range for this position is as follows:\n\nPalo Alto, New York, San Francisco: $102,000 - $138,000 per year.\nAustin, Boston, Boulder, Century City, Delaware, Los Angeles, Salt Lake City, San Diego, Seattle, Washington, D.C., and all other locations: $91,800 - $124,200 per year.\n\nThe compensation for this position may include a discretionary year-end merit bonus based on performance. We offer a highly competitive salary and benefits package. \n\n\n\nBenefits information can be found here. Equal Opportunity Employer (EOE).",
+      "apply_options": [
+        {
+          "title": "Built In Colorado",
+          "link": "https://www.builtincolorado.com/job/ai-enablement-specialist/11626354?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-de-all-cities-digital-enablement-specialist-9-techbiz-global-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBFbmFibGVtZW50IFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiJXaWxzb24gU29uc2luaSBHb29kcmljaCBcdTAwMjYgUm9zYXRpIiwiaHRpZG9jaWQiOiI1Z2JjbFlIZ0drYjdhOUhZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVVGbWRuRktWM1JCY2tKek4xWm1hRFI0ZUVoa1NsZEJTVXhVY25sd05qUldXbHBGT0ZoTFEzWTJNbGc1Y2tSSlIzcExjVk52Um5kSFZUWnlkV1ZRTWpRM01Xb3plazkwYUVWVk0zcDNjM0ppWDBoaGFVWlhWVnAwZFVoaVgzcENhalkyT0VSVFNsRTNPV0pVTTA4M1kwOVdNMkp4VnpabVJVRnhYMjFFTUhjM1JqVnVlRTRTRnpWM1pteGhiMU5GVUU1RGFYQjBVVkJvU1hGc2RWRkZHaUpCU0U0d1JUZEhTV3RmVkZrMVEySmlOWE5MYzNSV2RGQjRSVEV5YlhBdFFsbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiI1Z2JjbFlIZ0drYjdhOUhZQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI & Marketing Technology Specialist (Remote)",
+      "company_name": "SUPPLY",
+      "location": "Anywhere",
+      "via": "Monster",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=442_f6KN3Z3Nz0psAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFy7uzjdJCraiOCikz8gimKxOjiVNB5JNM2FXIT6Kj6t-A1f9u1k29Ue-nCS8YXJeg1XVMaTI_2BMqCy0llOMLhgQwmHMIED1cAoozJAHnZE2mFvaVIKvBCC2eWak0xW5YoaQR5rasWTav5XsZERg5MJq9l82ubB61G3vBXF8Q7Ww5re7oFxDJvzD-V6j86dAAAA&shmds=v1_Ac3VAozjWPyM26Q_wB85ghNXaFdactmX389wDMpOtSjvsx6X4A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=442_f6KN3Z3Nz0psAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "75K–100K a year",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.monster.com/job-openings/ai-marketing-technology-specialist-remote-boulder-co--8e5e8f73-c9f3-40c1-94f5-a288a15d020b",
+      "job_title": "AI & Marketing Technology Specialist (Remote)",
+      "description": "AI & Marketing Technology Specialist\n\nSUPPLY | Independent Media Agency\n\nLocation: Boulder/Denver preferred | Remote within Mountain Time consideredEmployment: Full-timeSalary: $75,000–$100,000 annually\n\nCurious minds wanted. Especially the ones who like building things.There's a good chance you've already found a dozen ways AI can make your work easier. You've experimented with new tools, connected systems, built something useful, or taught yourself a technology simply because you wanted to see what it could do.\n\nYou probably have a running list of things you think could be done better.\n\nIf this sounds like you, keep reading.\n\nSUPPLY is looking for an AI & Marketing Technology Specialist to help us discover, build, and implement smarter ways of working across our agency, while exploring new technology-driven opportunities for our clients.\n\nYou'll work directly with agency leadership and collaborate across media, strategy, analytics, and account teams. Your initial focus will be improving how our agency operates, using AI, automation, integrations, and other technologies to solve real problems.\n\nYou'll also have opportunities to prototype new capabilities, experiment with emerging media technologies, and help bring innovative client ideas to life.\n\nThis isn't a role where you'll be confined to maintaining one dashboard or supporting one platform. You'll encounter different challenges, learn new technologies, recommend solutions, and help build things that didn't exist before.\n\nWe're looking for someone who can turn curiosity into something useful.\n\nMore Than Automation: Help Build What's NextWe're building a more intentional approach to innovation at SUPPLY, connecting ideas from media, data, audience intelligence, creative technology, and AI.\n\nSome opportunities will involve making our internal operations more efficient. Others will focus on developing capabilities that help our teams and clients make better decisions, reach audiences in new ways, or explore what's possible with emerging technology.\n\nYou won't be expected to know every technology or solve every challenge independently. You'll collaborate with experienced media, strategy, and analytics professionals who understand the business, while contributing technical curiosity, problem-solving, and hands-on execution.\n\nThe goal isn't to chase every new technology. It's to identify what's genuinely useful, build something that works, and help turn the best ideas into lasting capabilities.\n\nA Few Examples of What You Might Help BuildThese are examples of opportunities we're interested in exploring, not a fixed project list:\n\nWorkflow Automation: Build AI-enabled workflows, integrations, and tools that reduce repetitive work, improve collaboration, and give our teams more time for higher-value thinking.Media Intelligence Tools: Connect campaign performance, audience insights, market data, and business outcomes to help teams make smarter media decisions.AI-Powered Audience Intelligence: Develop ways to analyze audience behaviors, uncover meaningful differences between customer segments, and translate findings into marketing opportunities.Creative Testing Capabilities: Explore how AI and technology can help evaluate messaging, creative variations, and media approaches more efficiently.Interactive Media Experiences: Prototype new ways for consumers to engage with brands through technology, interactive advertising, and emerging media platforms.We don't expect one person to build all of these independently. We're looking for someone excited about helping turn possibilities like these into working solutions.\n\nA Little About SUPPLYSUPPLY is an independent media agency headquartered in Boulder, Colorado.\n\nWe help ambitious brands navigate an increasingly complex media landscape through strategy, media planning and buying, analytics, and technology.\n\nOur work spans traditional and digital media, including television, streaming, programmatic, social, search, and emerging channels.\n\nWe're independent by design. We value good thinking over unnecessary process, collaboration over silos, and people who take ownership of their work.\n\nWe believe there are enormous opportunities for people who can recognize where technology makes a difference and turn good ideas into practical improvements.\n\nWhat You'll DoMake SUPPLY work betterIdentify manual, repetitive, or inefficient processes and develop better ways to handle them.Build and implement automations, AI-enabled workflows, and integrations that improve internal operations.Explore opportunities to help teams collaborate, share information, and accomplish work more effectively.Work with colleagues to understand problems, develop solutions, and help people adopt them.Explore and apply emerging technologyResearch, experiment with, and evaluate AI tools, automation platforms, and emerging technologies.Identify technologies with genuine business potential and recommend practical applications.Build prototypes, test ideas, learn from the results, and help implement promising solutions.Help develop new capabilities through SUPPLY's innovation initiatives, working with agency teams to turn ideas into practical applications.Stay curious about how technology is changing the media and advertising industry.Improve our data and technology capabilitiesHelp improve how data moves between systems, platforms, and teams.Develop or enhance reporting workflows, dashboards, campaign tracking, and measurement capabilities.Support integrations between media platforms, analytics systems, and internal tools.Help make information more accessible, actionable, and useful.Turn problems into working solutionsTranslate business challenges into clear technical next steps.Prioritize opportunities based on impact, feasibility, effort, and usefulness.Build with an understanding of data privacy, security, and responsible AI use.Communicate progress, document solutions, and help colleagues understand and use what you've developed.Take ownership of projects from the initial idea through implementation and improvement.What We're Looking ForWe're open to candidates from different educational and professional backgrounds. You might have studied computer science, data analytics, marketing, information systems, engineering, or something entirely different.\n\nThis role is particularly well suited to someone with approximately 0–4 years of relevant professional experience, although demonstrated capability matters more than a specific number of years.\n\nWhat matters most:\n\nGenuine curiosity about AI, automation, and emerging technology.Demonstrated experience building, automating, integrating, or improving something using technology.The ability to independently learn new tools and technical concepts.Strong analytical thinking, creativity, and problem-solving skills.Comfort working across different technologies and business challenges.Good judgment about what to prioritize and when a simpler solution is better.Initiative, ownership, and the ability to move from ideas to execution.Clear communication skills and an ability to work with colleagues who aren't technical specialists.A willingness to test ideas, learn from mistakes, and improve solutions based on feedback.You don't need to know every platform or programming language. You do need evidence that you can figure things out and build something useful.\n\nExperience That Would Catch Our AttentionThese are examples, not a checklist. You don't need experience with every tool or technology listed.\n\nBuilding automations using Zapier, Make, n8n, or similar platforms.Creating AI workflows, agents, or applications using large language models.Working with APIs, webhooks, and integrations.Writing code in Python, JavaScript, SQL, or similar languages.Using AI-assisted development tools to build applications or solve technical problems.Working with marketing data, analytics platforms, or reporting systems.Creating dashboards, internal applications, or tools that help others work more effectively.Experimenting with databases, cloud applications, or connected systems.Identifying and solving a problem nobody specifically assigned you.Personal projects count. Side projects count. Things you've built because you were curious absolutely count.\n\nWe care more about what you can learn, build, and improve than how many software logos appear on your résumé.\n\nYou'll Probably Enjoy Working Here If...You hear about a new AI capability and immediately want to figure out what you could do with it.You've automated something that technically only took five minutes because you knew you'd have to do it 500 more times.You like understanding how systems work and figuring out how they could work better.You enjoy working through unfamiliar problems without needing every step prescribed.You're willing to recommend an approach, test it, and change direction when something isn't working.You find satisfaction in building something other people actually use.You're comfortable balancing experimentation with deadlines and practical business needs.You enjoy collaborating with people who bring different expertise to the table.What Makes This Opportunity DifferentTechnology isn't an isolated IT function at SUPPLY. It's increasingly central to how we work, what we can build, and how we create value for clients.\n\nYou'll have exposure to agency operations, media technology, analytics, audience intelligence, and client-facing innovation.\n\nYou'll work closely with experienced colleagues and agency leadership, with the opportunity to help shape new capabilities rather than simply maintain existing systems.\n\nIt's a role with meaningful responsibility, room to experiment, and plenty of opportunity to learn and grow.\n\nLocation & FlexibilitySUPPLY is headquartered in Boulder, Colorado, and we operate in a flexible, remote-friendly environment.\n\nWe'd especially welcome candidates in the Boulder/Denver area who can collaborate with our team in person periodically. We're also open to strong candidates elsewhere in Mountain Time.\n\nWe believe flexibility and collaboration can coexist, and we value opportunities to work together in person when they're useful.\n\nCompensation & BenefitsAnnual base salary: $75,000–$100,000, depending on experience and qualifications.100% employer-paid medical, dental, and vision insurance premiums.Two weeks of paid time off annually.Additional flexible PTO, subject to manager approval.Opportunity to be considered for discretionary bonuses through SUPPLY's profit-sharing bonus program. Awards, if any, are not guaranteed.Interested?We'd love to see something you've built.\n\nWhen applying, tell us about a project, automation, AI workflow, technical experiment, or process improvement you're proud of.\n\nIt doesn't need to be fancy, and it doesn't have to come from a professional setting.\n\nOur short application questionnaire gives you an opportunity to share more about your work.\n\nWe're interested in people who are curious enough to ask better questions and resourceful enough to find better answers.\n\nApplications accepted through December 31, 2026.\n\nSUPPLY is an equal opportunity employer. We welcome applications from qualified candidates of all backgrounds.\n\n\nRemote\n\nSkills:\nAdvertising, Analysis Skills, Application Programming Interface (API), Artificial Intelligence (AI), Artificial Intelligence (AI) Agents, Audience Development, Automation, Campaigns, Communication Skills, Computer Programming, Computer Science, Customer Relations, Data Analysis, Dental Insurance, Digital Media, Emerging Technology, Entertainment and Media, Establish Priorities, Home Automation, Information/Data Security (InfoSec), JavaScript, Leadership, Market Segmentation, Marketing, Media Buying and Planning, Modeling Languages, Multimedia, Online Advertising, Online Media, Operational Improvement, Operational Strategy, Privacy Controls, Problem Solving Skills, Process Improvement, Programming Languages, Programming Tools, Prototyping, Python Programming/Scripting Language, Reporting Dashboards, SQL (Structured Query Language), Software Development, Strategic Analysis, Strategic Planning, Systems Engineering, Systems Maintenance, Team Player, Technical Operations, Television Broadcasting, Testing, Time Management, Training/Teaching, Vision Plan\n\n\nSUPPLY",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/ai-marketing-technology-specialist-remote-boulder-co--8e5e8f73-c9f3-40c1-94f5-a288a15d020b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/ai-marketing-technology-reporter_7ea1a2f55a04dcab0649f91af9e7a41a31ef2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/ai-marketing-technology-specialist-remote-boulder-co--8e5e8f73-c9f3-40c1-94f5-a288a15d020b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Supply.breezy.hr",
+          "link": "https://supply.breezy.hr/p/1ef08c0dc72b-ai-marketing-technology-specialist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/crain/ai-marketing-technology-reporter-179561947/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-marketing-technology-reporter-crain-communications-chicago--ss-us-xrzhy1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MoreJobs",
+          "link": "https://morejobs.b7h.alc.onl/remote-jobs/marketing-technology-ai-automation-freelancer-consultant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5373-ad5d77db9eb6346544c21877874d6c7e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBcdTAwMjYgTWFya2V0aW5nIFRlY2hub2xvZ3kgU3BlY2lhbGlzdCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IlNVUFBMWSIsImh0aWRvY2lkIjoiNDQyX2Y2S04zWjNOejBwc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdrVjFja2RsVUV0UFh6WnViell6YzA5aVRtUkJYM2cyUzA1aVVWazFNVFpGU1VKeFRqUjRZV05TUmtwU1ltMTJjM2RJVjBwRlkwaG9URmx1Vmt3MGIxQnFiVmx6ZW5GWE5GQjZhVGRvU21nM1YwOHRRVzlxV2s1S05XVnZkbUZYUzJNMWEyMHhlbFpNVlRsQlUyUkJZMWhLTjFZMk9WaFRiREJwUlhSRGJFeGFTbXhKVHpVU0Z6VjNabXhoYjFORlVFNURhWEIwVVZCb1NYRnNkVkZGR2lKQlNFNHdSVGRJUnpWaVREUlJUREoyTjJsb00wdGxhVmg2Wkc1NVFsbExSRVJSIiwiZmN2IjoiMyIsImZjX2lkIjoiNDQyX2Y2S04zWjNOejBwc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Remote AI Evaluation Specialist – Flexible Hours",
+      "company_name": "Outlier",
+      "location": "Fort Collins, CO",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Benefits",
+          "items": [
+            "This freelance, 1099 role pays weekly and offers incentives and access to leading LLMs"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You’ll hold live conversations with AI voice models, compare image and video pairs, and explain what’s off, all remotely and on your schedule",
+            "Contributors help shape AI systems by rating outputs for adherence, quality and realism, writing clear explanations in English"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Artificial+Intelligence+Specialist&htidocid=xqG1ZAZ9Oo6I9an6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBG2mFk1EsNFKgtHYBPQAYXcZkpXJTtiZSErv4Bm8mCcxNr96_OQzS8obdqwIxxJOT0ODUc8B7j06b8iLwvf1hoJw9JYQLjxEgTVc2YKgia6FSZ-ZG8L5oVXtZZ9lIpQ2otPKpY67jANaHrMHW_mnltZE7Mko1tvdZkz70CwX1aDkMYIPUHBUyJnIB1lBXv0AgNSccqgAAAA&shmds=v1_Ac3VAox0Y745WguvQsr50i02y8VZHNqJkUfDaeseetLtrURtRw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Artificial+Intelligence+Specialist&htidocid=xqG1ZAZ9Oo6I9an6AAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "17K–24K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/remote-ai-evaluation-specialist-flexible-hours--fort-collins--e3b899203751a0956a340214cc32635d0",
+      "job_title": "Remote AI Evaluation Specialist – Flexible Hours",
+      "description": "Outlier is seeking detail-oriented English speakers to review AI-generated media. You’ll hold live conversations with AI voice models, compare image and video pairs, and explain what’s off, all remotely and on your schedule.\n\nContributors help shape AI systems by rating outputs for adherence, quality and realism, writing clear explanations in English. This freelance, 1099 role pays weekly and offers incentives and access to leading LLMs.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/remote-ai-evaluation-specialist-flexible-hours--fort-collins--e3b899203751a0956a340214cc32635d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/4185897461585281024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgQUkgRXZhbHVhdGlvbiBTcGVjaWFsaXN0IOKAkyBGbGV4aWJsZSBIb3VycyIsImNvbXBhbnlfbmFtZSI6Ik91dGxpZXIiLCJodGlkb2NpZCI6InhxRzFaQVo5T282STlhbjZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXamxuYW1kVlRrdHhaV3QwYmw5UU5GQk1NMEY0TVhsdVNEWkZjVnBVY3pOMFNEWTNVbk5RWkZaM2MwaFRiVVpKYzNadVJscGhlVmhRU0Rnd2RWbHlPVTUyUW05MWJqWnRTWEJaWVVsa1ZuaGxWVVpaTVRsaFNucFFVRUpKZGs1MmExWTRXWEZ5ZFVkdlJ6YzBaMnBZWkZGQlRtMXdOVlJRU0RGWU16VlJUalZITm1oTFVHZ1NGelYzWm14aGIxTkZVRTVEYVhCMFVWQm9TWEZzZFZGRkdpSkJTRTR3UlRkRlJGQldTRlpsYTBSemFUSXpUMk14U25GQmFHSlpjM2hSVjFobiIsImZjdiI6IjMiLCJmY19pZCI6InhxRzFaQVo5T282STlhbjZBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0RDcmNEUVVSRVlsZGxZakpaVTJ4SGFDMXJTakp6V0hGeGFVdHpWRmN6UW1aZmVEUTNSalJ1WkZWTFNUUkRSblp4ZW5OMVNrVnlNSHA2UkZoNWFFeDJRa3B2Y25OdU9WOTRlSEZoZVd0UVFYSlBjSGh3VDFGZlpuSlhjalZaU1RSQ2RYSnNXbUZwUlRSdVZXMVBWRzVVWldGb1EwRnFVMDlITVVSeGFUWk1aV05qUmxrMlpGVXlWWEI1YjBaS2MzTXpkekE0YldSTk4xVlhiV28wWDFVdFZGRm1ZelZLVlhOWFJYQjFORFEwTW04eE1saHJhRE5LWmpWa2RVbEZkVEF4ZERaMFVHWkNRbE51UmtoNlJtWndMVWxFT1hKbVZHVnFjbkpVTTNaS05FRXhXWFZuVDFCYWJXWlJhbFJ6V1RGdmJITktSMXB0TlZJd1dHZHpSbkJ5V2xwTU9XSmtSekZDUVhadWJHdEtNbGhsVTFCU1IzSlpkR05vT1ZoQ1RHSnNUamxMVHpCek4yRjRiRkZtVjA0NGMyaEthemR1Tkhkb2VVbEpkSFJ3UVd4RGExVnBaMWN5T0hGRFRFRlVWMGx3VTB0WFNrOUVRa05pTWs1SllsSmlTVkZaUWs5dGFsVXlVVlpsZDNGb1J6SlpOMTlxVFZoVFRUbDFOM05RTjBzMWQzQlhZMnBpU25WellsZDBPRzU2WkZGYU5EWjBMVVJGZEdGcmEwZGxSMEZVUm1WSWVXNUZaRzF5YkhKT01HSkpiWEZGU1hCM2FXd3RWUklYTlhkbWJHRnZVMFZRVGtOcGNIUlJVR2hKY1d4MVVVVWFJa0ZJVGpCRk4waEpOekZWU2pGclpUaGtSemhPVW5aV09GUXlXVFJqYmxCaWRuYyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0RDcmNEUVVSRVlsZGxZakpaVTJ4SGFDMXJTakp6V0hGeGFVdHpWRmN6UW1aZmVEUTNSalJ1WkZWTFNUUkRSblp4ZW5OMVNrVnlNSHA2UkZoNWFFeDJRa3B2Y25OdU9WOTRlSEZoZVd0UVFYSlBjSGh3VDFGZlpuSlhjalZaU1RSQ2RYSnNXbUZwUlRSdVZXMVBWRzVVWldGb1EwRnFVMDlITVVSeGFUWk1aV05qUmxrMlpGVXlWWEI1YjBaS2MzTXpkekE0YldSTk4xVlhiV28wWDFVdFZGRm1ZelZLVlhOWFJYQjFORFEwTW04eE1saHJhRE5LWmpWa2RVbEZkVEF4ZERaMFVHWkNRbE51UmtoNlJtWndMVWxFT1hKbVZHVnFjbkpVTTNaS05FRXhXWFZuVDFCYWJXWlJhbFJ6V1RGdmJITktSMXB0TlZJd1dHZHpSbkJ5V2xwTU9XSmtSekZDUVhadWJHdEtNbGhsVTFCU1IzSlpkR05vT1ZoQ1RHSnNUamxMVHpCek4yRjRiRkZtVjA0NGMyaEthemR1Tkhkb2VVbEpkSFJ3UVd4RGExVnBaMWN5T0hGRFRFRlVWMGx3VTB0WFNrOUVRa05pTWs1SllsSmlTVkZaUWs5dGFsVXlVVlpsZDNGb1J6SlpOMTlxVFZoVFRUbDFOM05RTjBzMWQzQlhZMnBpU25WellsZDBPRzU2WkZGYU5EWjBMVVJGZEdGcmEwZGxSMEZVUm1WSWVXNUZaRzF5YkhKT01HSkpiWEZGU1hCM2FXd3RWUklYTlhkbWJHRnZVMFZRVGtOcGNIUlJVR2hKY1d4MVVVVWFJa0ZJVGpCRk4waEpOekZWU2pGclpUaGtSemhPVW5aV09GUXlXVFJqYmxCaWRuYyIsImZjdiI6IjMifQ%3D%3D&q=Artificial+Intelligence+Specialist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Artificial Intelligence Specialist",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:11:01.205996+00:00",
+    "request_fingerprint": "fd3123ef44777185092ea3bc6a1ca579569d45cc5022aa706269320efb3ac04d",
+    "job_count": 10
+  }
+}

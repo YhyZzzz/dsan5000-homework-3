@@ -1,0 +1,1022 @@
+{
+  "search_metadata": {
+    "id": "6ae508b1ec900ddeafc57871",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LfH26T0aIgxWyvIp2h9tRI9EIy3VayVGocMHn5LSMIE/6ae508b1ec900ddeafc57871.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LfH26T0aIgxWyvIp2h9tRI9EIy3VayVGocMHn5LSMIE/6ae508b1ec900ddeafc57871.md",
+    "created_at": "2026-10-30 21:14:25 UTC",
+    "processed_at": "2026-10-30 21:14:25 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Deep+Learning+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/LfH26T0aIgxWyvIp2h9tRI9EIy3VayVGocMHn5LSMIE/6ae508b1ec900ddeafc57871.html",
+    "total_time_taken": 2.08
+  },
+  "search_parameters": {
+    "q": "Deep Learning Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXb3N7Nyfngvz6rSKRfo2HAvhnZIk0AYSYS7eA3micJ-luXVye_LZLtZAS1HDDk_MQ9JwU1uEPuA1n9pt0c1lM05ikkP4_huR2HQqnpNZWMo2RPwhb_RCEaTBmMZkhlzhCWgimy14Ob4_VFGjm1vNc_qz8jbdJqcn7DnMwzECkrfTXE8YU",
+        "q": "Deep Learning Engineer no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXb3N7Nyfngvz6rSKRfo2HAvhnZIk0AYSYS7eA3micJ-luXVye_LZLtZAS1HDDk_MQ9JwU1uEPuA1n9pt0c1lM05ikkP4_huR2HQqnpNZWMo2RPwhb_RCEaTBmMZkhlzhCWgimy14Ob4_VFGjm1vNc_qz8jbdJqcn7DnMwzECkrfTXE8YU&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXb3N7Nyfngvz6rSKRfo2HAvhnZIk0AYSYS7eA3micJ-luXVye_LZLtZAS1HDDk_MQ9JwU1uEPuA1n9pt0c1lM05ikkP4_huR2HQqnpNZWMo2RPwhb_RCEaTBmMZkhlzhCWgimy14Ob4_VFGjm1vNc_qz8jbdJqcn7DnMwzECkrfTXE8YU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBazIhAPi-Hs_KprqFz3l4mqillRaFFyvegjOVnaR73LttWABNft87wbyVJVVtJc_7ULgv3pfekOj9bBsROgURIZVyIEMRSag_eLWlXKPOcjFCh7qbqX-8wGI8BZzwyrYIq6h1oFrQ4qEtJXWrOrwn15Hn6M",
+        "q": "Deep Learning Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBazIhAPi-Hs_KprqFz3l4mqillRaFFyvegjOVnaR73LttWABNft87wbyVJVVtJc_7ULgv3pfekOj9bBsROgURIZVyIEMRSag_eLWlXKPOcjFCh7qbqX-8wGI8BZzwyrYIq6h1oFrQ4qEtJXWrOrwn15Hn6M&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QxKsJKAF6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBazIhAPi-Hs_KprqFz3l4mqillRaFFyvegjOVnaR73LttWABNft87wbyVJVVtJc_7ULgv3pfekOj9bBsROgURIZVyIEMRSag_eLWlXKPOcjFCh7qbqX-8wGI8BZzwyrYIq6h1oFrQ4qEtJXWrOrwn15Hn6M&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEcbBt1_VzmPK6XT6Hdw7phkj5ZvT5-tGsXR9DvzZEFTbdm8yz71E6W34EuXE3BrhAkwIqVibXxj6umZRa4Omg8dMYToLWj70Uu7vb5kPcipG3OooW05TgAbS5jzdFMPxocihKrPDs9Yxr69Q5-TBC3cxFO22-fKrD-7MFLlvq6t9nDcYm_DyXExLorBb8pT6C6w-fG9927tJmEj3873xXd_Ub4oNp8bRHrx9DM5FNHtRet0bnL0g16MoPnVJmwBduq0VHTOyZ0jVSf5PGkDQoErzZDwCWtvPVJUmKLbLqszk3eny2M",
+            "q": "Deep Learning Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEcbBt1_VzmPK6XT6Hdw7phkj5ZvT5-tGsXR9DvzZEFTbdm8yz71E6W34EuXE3BrhAkwIqVibXxj6umZRa4Omg8dMYToLWj70Uu7vb5kPcipG3OooW05TgAbS5jzdFMPxocihKrPDs9Yxr69Q5-TBC3cxFO22-fKrD-7MFLlvq6t9nDcYm_DyXExLorBb8pT6C6w-fG9927tJmEj3873xXd_Ub4oNp8bRHrx9DM5FNHtRet0bnL0g16MoPnVJmwBduq0VHTOyZ0jVSf5PGkDQoErzZDwCWtvPVJUmKLbLqszk3eny2M&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEcbBt1_VzmPK6XT6Hdw7phkj5ZvT5-tGsXR9DvzZEFTbdm8yz71E6W34EuXE3BrhAkwIqVibXxj6umZRa4Omg8dMYToLWj70Uu7vb5kPcipG3OooW05TgAbS5jzdFMPxocihKrPDs9Yxr69Q5-TBC3cxFO22-fKrD-7MFLlvq6t9nDcYm_DyXExLorBb8pT6C6w-fG9927tJmEj3873xXd_Ub4oNp8bRHrx9DM5FNHtRet0bnL0g16MoPnVJmwBduq0VHTOyZ0jVSf5PGkDQoErzZDwCWtvPVJUmKLbLqszk3eny2M&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEe9O8svAieZ80PTPfZntefQSpKx5K7TWOvFCWSFwfley2fRafCcnsJJBsTR9pLJ8PM-EvLH1MYKcLetuj_ZTS1SBGMlWHMNCRokAiL0mKf_mL2aF_RIcqN9qr0T_3EeVR5daQnJVaLCzw7DKetJ267Ya5VaxrLmbxulPn2q_IMO7oVuDQvw69a7hlEJeJeB3quLYHN1vKfymHaR3Ln0V5VL0ZGjhGnCSAmMlyj6IsvS83UnXAgR-KRzsNOVciBfiDMCus1MiPConu8Onuyt5YGwnMs-uERggqhZVIk4iqPMDKBZ7QQ",
+            "q": "Deep Learning Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEe9O8svAieZ80PTPfZntefQSpKx5K7TWOvFCWSFwfley2fRafCcnsJJBsTR9pLJ8PM-EvLH1MYKcLetuj_ZTS1SBGMlWHMNCRokAiL0mKf_mL2aF_RIcqN9qr0T_3EeVR5daQnJVaLCzw7DKetJ267Ya5VaxrLmbxulPn2q_IMO7oVuDQvw69a7hlEJeJeB3quLYHN1vKfymHaR3Ln0V5VL0ZGjhGnCSAmMlyj6IsvS83UnXAgR-KRzsNOVciBfiDMCus1MiPConu8Onuyt5YGwnMs-uERggqhZVIk4iqPMDKBZ7QQ&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEe9O8svAieZ80PTPfZntefQSpKx5K7TWOvFCWSFwfley2fRafCcnsJJBsTR9pLJ8PM-EvLH1MYKcLetuj_ZTS1SBGMlWHMNCRokAiL0mKf_mL2aF_RIcqN9qr0T_3EeVR5daQnJVaLCzw7DKetJ267Ya5VaxrLmbxulPn2q_IMO7oVuDQvw69a7hlEJeJeB3quLYHN1vKfymHaR3Ln0V5VL0ZGjhGnCSAmMlyj6IsvS83UnXAgR-KRzsNOVciBfiDMCus1MiPConu8Onuyt5YGwnMs-uERggqhZVIk4iqPMDKBZ7QQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MY2YzSTE2NiRxWiXHFcTlVOe8-mPbxCU3fZeslSv-lX_g8OTkEl7NsjZO882HXi8sKLNSNl9aitXj1Jb5Dda0YgAYTEMoWC6CUjOhRRBYViRVHyTbWD37tw5K4Qbxwh26lHprgpTn0nfpI_tSsuiK0KZFsnZCI85DK2pGFBqD2ocdoXuc5a3Rc84ZbUo407aC-tHexdKThtthPHDOVtuL9kFkytrc_qARKdE_bm2ZXZf9YGe02ijNrlNZfHaGDJ6I4mE2uuLIcNDKexkHcn10qD50-8lIpD4qa6vIa1273h8bVf25A",
+            "q": "Deep Learning Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MY2YzSTE2NiRxWiXHFcTlVOe8-mPbxCU3fZeslSv-lX_g8OTkEl7NsjZO882HXi8sKLNSNl9aitXj1Jb5Dda0YgAYTEMoWC6CUjOhRRBYViRVHyTbWD37tw5K4Qbxwh26lHprgpTn0nfpI_tSsuiK0KZFsnZCI85DK2pGFBqD2ocdoXuc5a3Rc84ZbUo407aC-tHexdKThtthPHDOVtuL9kFkytrc_qARKdE_bm2ZXZf9YGe02ijNrlNZfHaGDJ6I4mE2uuLIcNDKexkHcn10qD50-8lIpD4qa6vIa1273h8bVf25A&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MY2YzSTE2NiRxWiXHFcTlVOe8-mPbxCU3fZeslSv-lX_g8OTkEl7NsjZO882HXi8sKLNSNl9aitXj1Jb5Dda0YgAYTEMoWC6CUjOhRRBYViRVHyTbWD37tw5K4Qbxwh26lHprgpTn0nfpI_tSsuiK0KZFsnZCI85DK2pGFBqD2ocdoXuc5a3Rc84ZbUo407aC-tHexdKThtthPHDOVtuL9kFkytrc_qARKdE_bm2ZXZf9YGe02ijNrlNZfHaGDJ6I4mE2uuLIcNDKexkHcn10qD50-8lIpD4qa6vIa1273h8bVf25A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeR-9l_n0NoKfg08-L-xYQIP4toR5BZU_mlxCgZORHJTI8lKyVkBWjIx1DGk_s4iAQat33YWwgOAYIS3R1kGW2OQ3POgsgaRZAl4vKLd8qV86hzDtH_u0UapgAvzIOy5GYSXGLjrw370Ra0_SCvGhTdMA31kt69Sxq-7zp0rMvmNM9IzIuWRchXzhm_FGATIMzNK_1xVUZdGTDs8kvs-hIEmbV_Pcb6NtXDI31wrlP6_TN7BMAkUOAvPVHOofabmNaJIML3SI6TJG4vsWNhGBifELdodl-C1GdOHv7t9s-JDFheWwVw",
+            "q": "Deep Learning Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeR-9l_n0NoKfg08-L-xYQIP4toR5BZU_mlxCgZORHJTI8lKyVkBWjIx1DGk_s4iAQat33YWwgOAYIS3R1kGW2OQ3POgsgaRZAl4vKLd8qV86hzDtH_u0UapgAvzIOy5GYSXGLjrw370Ra0_SCvGhTdMA31kt69Sxq-7zp0rMvmNM9IzIuWRchXzhm_FGATIMzNK_1xVUZdGTDs8kvs-hIEmbV_Pcb6NtXDI31wrlP6_TN7BMAkUOAvPVHOofabmNaJIML3SI6TJG4vsWNhGBifELdodl-C1GdOHv7t9s-JDFheWwVw&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeR-9l_n0NoKfg08-L-xYQIP4toR5BZU_mlxCgZORHJTI8lKyVkBWjIx1DGk_s4iAQat33YWwgOAYIS3R1kGW2OQ3POgsgaRZAl4vKLd8qV86hzDtH_u0UapgAvzIOy5GYSXGLjrw370Ra0_SCvGhTdMA31kt69Sxq-7zp0rMvmNM9IzIuWRchXzhm_FGATIMzNK_1xVUZdGTDs8kvs-hIEmbV_Pcb6NtXDI31wrlP6_TN7BMAkUOAvPVHOofabmNaJIML3SI6TJG4vsWNhGBifELdodl-C1GdOHv7t9s-JDFheWwVw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEcbBt1_VzmPK6XT6Hdw7phkj5ZvT5-tGsXR9DvzZEFTbdm8yz71E6W34EuXE3BrhAkwIqVibXxj6umZRa4Omg8dMYToLWj70Uu7vb5kPcipG3OooW05TgAbS5jzdFMPxocihKrPDs9Yxr69Q5-TBC3cxFO22-fKrD-7MFLlvq6t9nDcYm_DyXExLorBb8pT6C6w-fG9927tJmEj3873xXd_Ub4oNp8bRHrx9DM5FNHtRet0bnL0g16MoPnVJmwBduq0VHTOyZ0jVSf5PGkDQoErzZDwCWtvPVJUmKLbLqszk3eny2M",
+            "q": "Deep Learning Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEcbBt1_VzmPK6XT6Hdw7phkj5ZvT5-tGsXR9DvzZEFTbdm8yz71E6W34EuXE3BrhAkwIqVibXxj6umZRa4Omg8dMYToLWj70Uu7vb5kPcipG3OooW05TgAbS5jzdFMPxocihKrPDs9Yxr69Q5-TBC3cxFO22-fKrD-7MFLlvq6t9nDcYm_DyXExLorBb8pT6C6w-fG9927tJmEj3873xXd_Ub4oNp8bRHrx9DM5FNHtRet0bnL0g16MoPnVJmwBduq0VHTOyZ0jVSf5PGkDQoErzZDwCWtvPVJUmKLbLqszk3eny2M&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEcbBt1_VzmPK6XT6Hdw7phkj5ZvT5-tGsXR9DvzZEFTbdm8yz71E6W34EuXE3BrhAkwIqVibXxj6umZRa4Omg8dMYToLWj70Uu7vb5kPcipG3OooW05TgAbS5jzdFMPxocihKrPDs9Yxr69Q5-TBC3cxFO22-fKrD-7MFLlvq6t9nDcYm_DyXExLorBb8pT6C6w-fG9927tJmEj3873xXd_Ub4oNp8bRHrx9DM5FNHtRet0bnL0g16MoPnVJmwBduq0VHTOyZ0jVSf5PGkDQoErzZDwCWtvPVJUmKLbLqszk3eny2M&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEe9O8svAieZ80PTPfZntefQSpKx5K7TWOvFCWSFwfley2fRafCcnsJJBsTR9pLJ8PM-EvLH1MYKcLetuj_ZTS1SBGMlWHMNCRokAiL0mKf_mL2aF_RIcqN9qr0T_3EeVR5daQnJVaLCzw7DKetJ267Ya5VaxrLmbxulPn2q_IMO7oVuDQvw69a7hlEJeJeB3quLYHN1vKfymHaR3Ln0V5VL0ZGjhGnCSAmMlyj6IsvS83UnXAgR-KRzsNOVciBfiDMCus1MiPConu8Onuyt5YGwnMs-uERggqhZVIk4iqPMDKBZ7QQ",
+            "q": "Deep Learning Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEe9O8svAieZ80PTPfZntefQSpKx5K7TWOvFCWSFwfley2fRafCcnsJJBsTR9pLJ8PM-EvLH1MYKcLetuj_ZTS1SBGMlWHMNCRokAiL0mKf_mL2aF_RIcqN9qr0T_3EeVR5daQnJVaLCzw7DKetJ267Ya5VaxrLmbxulPn2q_IMO7oVuDQvw69a7hlEJeJeB3quLYHN1vKfymHaR3Ln0V5VL0ZGjhGnCSAmMlyj6IsvS83UnXAgR-KRzsNOVciBfiDMCus1MiPConu8Onuyt5YGwnMs-uERggqhZVIk4iqPMDKBZ7QQ&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7ovP9m2kZ1qEfkudAJt5yEe9O8svAieZ80PTPfZntefQSpKx5K7TWOvFCWSFwfley2fRafCcnsJJBsTR9pLJ8PM-EvLH1MYKcLetuj_ZTS1SBGMlWHMNCRokAiL0mKf_mL2aF_RIcqN9qr0T_3EeVR5daQnJVaLCzw7DKetJ267Ya5VaxrLmbxulPn2q_IMO7oVuDQvw69a7hlEJeJeB3quLYHN1vKfymHaR3Ln0V5VL0ZGjhGnCSAmMlyj6IsvS83UnXAgR-KRzsNOVciBfiDMCus1MiPConu8Onuyt5YGwnMs-uERggqhZVIk4iqPMDKBZ7QQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MY2YzSTE2NiRxWiXHFcTlVOe8-mPbxCU3fZeslSv-lX_g8OTkEl7NsjZO882HXi8sKLNSNl9aitXj1Jb5Dda0YgAYTEMoWC6CUjOhRRBYViRVHyTbWD37tw5K4Qbxwh26lHprgpTn0nfpI_tSsuiK0KZFsnZCI85DK2pGFBqD2ocdoXuc5a3Rc84ZbUo407aC-tHexdKThtthPHDOVtuL9kFkytrc_qARKdE_bm2ZXZf9YGe02ijNrlNZfHaGDJ6I4mE2uuLIcNDKexkHcn10qD50-8lIpD4qa6vIa1273h8bVf25A",
+            "q": "Deep Learning Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MY2YzSTE2NiRxWiXHFcTlVOe8-mPbxCU3fZeslSv-lX_g8OTkEl7NsjZO882HXi8sKLNSNl9aitXj1Jb5Dda0YgAYTEMoWC6CUjOhRRBYViRVHyTbWD37tw5K4Qbxwh26lHprgpTn0nfpI_tSsuiK0KZFsnZCI85DK2pGFBqD2ocdoXuc5a3Rc84ZbUo407aC-tHexdKThtthPHDOVtuL9kFkytrc_qARKdE_bm2ZXZf9YGe02ijNrlNZfHaGDJ6I4mE2uuLIcNDKexkHcn10qD50-8lIpD4qa6vIa1273h8bVf25A&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MY2YzSTE2NiRxWiXHFcTlVOe8-mPbxCU3fZeslSv-lX_g8OTkEl7NsjZO882HXi8sKLNSNl9aitXj1Jb5Dda0YgAYTEMoWC6CUjOhRRBYViRVHyTbWD37tw5K4Qbxwh26lHprgpTn0nfpI_tSsuiK0KZFsnZCI85DK2pGFBqD2ocdoXuc5a3Rc84ZbUo407aC-tHexdKThtthPHDOVtuL9kFkytrc_qARKdE_bm2ZXZf9YGe02ijNrlNZfHaGDJ6I4mE2uuLIcNDKexkHcn10qD50-8lIpD4qa6vIa1273h8bVf25A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeR-9l_n0NoKfg08-L-xYQIP4toR5BZU_mlxCgZORHJTI8lKyVkBWjIx1DGk_s4iAQat33YWwgOAYIS3R1kGW2OQ3POgsgaRZAl4vKLd8qV86hzDtH_u0UapgAvzIOy5GYSXGLjrw370Ra0_SCvGhTdMA31kt69Sxq-7zp0rMvmNM9IzIuWRchXzhm_FGATIMzNK_1xVUZdGTDs8kvs-hIEmbV_Pcb6NtXDI31wrlP6_TN7BMAkUOAvPVHOofabmNaJIML3SI6TJG4vsWNhGBifELdodl-C1GdOHv7t9s-JDFheWwVw",
+            "q": "Deep Learning Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeR-9l_n0NoKfg08-L-xYQIP4toR5BZU_mlxCgZORHJTI8lKyVkBWjIx1DGk_s4iAQat33YWwgOAYIS3R1kGW2OQ3POgsgaRZAl4vKLd8qV86hzDtH_u0UapgAvzIOy5GYSXGLjrw370Ra0_SCvGhTdMA31kt69Sxq-7zp0rMvmNM9IzIuWRchXzhm_FGATIMzNK_1xVUZdGTDs8kvs-hIEmbV_Pcb6NtXDI31wrlP6_TN7BMAkUOAvPVHOofabmNaJIML3SI6TJG4vsWNhGBifELdodl-C1GdOHv7t9s-JDFheWwVw&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeR-9l_n0NoKfg08-L-xYQIP4toR5BZU_mlxCgZORHJTI8lKyVkBWjIx1DGk_s4iAQat33YWwgOAYIS3R1kGW2OQ3POgsgaRZAl4vKLd8qV86hzDtH_u0UapgAvzIOy5GYSXGLjrw370Ra0_SCvGhTdMA31kt69Sxq-7zp0rMvmNM9IzIuWRchXzhm_FGATIMzNK_1xVUZdGTDs8kvs-hIEmbV_Pcb6NtXDI31wrlP6_TN7BMAkUOAvPVHOofabmNaJIML3SI6TJG4vsWNhGBifELdodl-C1GdOHv7t9s-JDFheWwVw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT0YbSdKMiZylhedT7XfryfVwq5ZFl-C7nTO5pMkOnTbQlDpP1icwe6mo9taHIrqRl5rLJqQ4Ovyz0u6DZYyFwYmwsE1E9-KGXPLB9rxx79V2SLroaK1d8U510Kx6p_iXmi7hpeF58lTprxRjJUGDqbUh1toI8E8w0U-XOfL9ZHxzmEuBwLx63Golx0r9IeTlBh0zmkfbheVBOJO0aYdIJ1AW3ddEHqAFOH9oqz60IIFNRQ_WYvmdw82901bsa63XAxDJtZClIP4mCpmhfOTHKA6XusGVJvgdKxMZV4PXk2hZNWrvFYtlRwyW4iXv0F9ADOZaw9c",
+            "q": "Deep Learning Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT0YbSdKMiZylhedT7XfryfVwq5ZFl-C7nTO5pMkOnTbQlDpP1icwe6mo9taHIrqRl5rLJqQ4Ovyz0u6DZYyFwYmwsE1E9-KGXPLB9rxx79V2SLroaK1d8U510Kx6p_iXmi7hpeF58lTprxRjJUGDqbUh1toI8E8w0U-XOfL9ZHxzmEuBwLx63Golx0r9IeTlBh0zmkfbheVBOJO0aYdIJ1AW3ddEHqAFOH9oqz60IIFNRQ_WYvmdw82901bsa63XAxDJtZClIP4mCpmhfOTHKA6XusGVJvgdKxMZV4PXk2hZNWrvFYtlRwyW4iXv0F9ADOZaw9c&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT0YbSdKMiZylhedT7XfryfVwq5ZFl-C7nTO5pMkOnTbQlDpP1icwe6mo9taHIrqRl5rLJqQ4Ovyz0u6DZYyFwYmwsE1E9-KGXPLB9rxx79V2SLroaK1d8U510Kx6p_iXmi7hpeF58lTprxRjJUGDqbUh1toI8E8w0U-XOfL9ZHxzmEuBwLx63Golx0r9IeTlBh0zmkfbheVBOJO0aYdIJ1AW3ddEHqAFOH9oqz60IIFNRQ_WYvmdw82901bsa63XAxDJtZClIP4mCpmhfOTHKA6XusGVJvgdKxMZV4PXk2hZNWrvFYtlRwyW4iXv0F9ADOZaw9c&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZtujksQr204OpI1xBROr-MKWvpUIUIQyJldbg3sdU5NZAmYO8mbrF6Fh5aYzCUBNFn9hrPxHwvznsukpFcrANawch_seDMQTCAtFRq00qnAUG7Z05cHRjgsdtZTQHtbP3h7nUNKtY15BKMEj9BrzmHtsdl5DtrzmwCVyZp4aS_9QUkLF_FZKyP21sm2IWqAP-ZNtw7M73HMZ9Sby9_Rk4z0gTcQeExt8hkrvVsHfO-gpCtmUfP7A8sRGvRX390f9OANgHzf8tnWS4XGcNGd_WxckEpfMzZp8-XYmZ3Yj9rL1a8EaihzWicSKB2T3AUZBqCuEutc",
+            "q": "Deep Learning Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZtujksQr204OpI1xBROr-MKWvpUIUIQyJldbg3sdU5NZAmYO8mbrF6Fh5aYzCUBNFn9hrPxHwvznsukpFcrANawch_seDMQTCAtFRq00qnAUG7Z05cHRjgsdtZTQHtbP3h7nUNKtY15BKMEj9BrzmHtsdl5DtrzmwCVyZp4aS_9QUkLF_FZKyP21sm2IWqAP-ZNtw7M73HMZ9Sby9_Rk4z0gTcQeExt8hkrvVsHfO-gpCtmUfP7A8sRGvRX390f9OANgHzf8tnWS4XGcNGd_WxckEpfMzZp8-XYmZ3Yj9rL1a8EaihzWicSKB2T3AUZBqCuEutc&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZtujksQr204OpI1xBROr-MKWvpUIUIQyJldbg3sdU5NZAmYO8mbrF6Fh5aYzCUBNFn9hrPxHwvznsukpFcrANawch_seDMQTCAtFRq00qnAUG7Z05cHRjgsdtZTQHtbP3h7nUNKtY15BKMEj9BrzmHtsdl5DtrzmwCVyZp4aS_9QUkLF_FZKyP21sm2IWqAP-ZNtw7M73HMZ9Sby9_Rk4z0gTcQeExt8hkrvVsHfO-gpCtmUfP7A8sRGvRX390f9OANgHzf8tnWS4XGcNGd_WxckEpfMzZp8-XYmZ3Yj9rL1a8EaihzWicSKB2T3AUZBqCuEutc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1XW9iPsfpaHA5TUzd1kfq_Jbh0BbLCYDcwQksmmm6kYFteSGBMKMMqkKuoSBXSmUdie9XjKxTOKV4DbTSJJJsyrxpJZ8IDQvAUP-mW31mjv_Ecz5EME2POqLcvo5441j8z_zZB-NtOiK-PHix1oyDBS5szz-FNIUgyVG51-aSJ4AGxreDW5BbnM7dXClzO7Vlop2DzA8o8EZXasi5YcUq0hyjMge2pDVENE2wvGn2_VHBsXMV6W86-KkQTDnFA_hcBUust_HpwK4x-g3hpnXG7ROMgyLStc09nApprDXqnOusw4VPKQZ-773V5j2-4XSu5wceHk",
+            "q": "Deep Learning Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1XW9iPsfpaHA5TUzd1kfq_Jbh0BbLCYDcwQksmmm6kYFteSGBMKMMqkKuoSBXSmUdie9XjKxTOKV4DbTSJJJsyrxpJZ8IDQvAUP-mW31mjv_Ecz5EME2POqLcvo5441j8z_zZB-NtOiK-PHix1oyDBS5szz-FNIUgyVG51-aSJ4AGxreDW5BbnM7dXClzO7Vlop2DzA8o8EZXasi5YcUq0hyjMge2pDVENE2wvGn2_VHBsXMV6W86-KkQTDnFA_hcBUust_HpwK4x-g3hpnXG7ROMgyLStc09nApprDXqnOusw4VPKQZ-773V5j2-4XSu5wceHk&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1XW9iPsfpaHA5TUzd1kfq_Jbh0BbLCYDcwQksmmm6kYFteSGBMKMMqkKuoSBXSmUdie9XjKxTOKV4DbTSJJJsyrxpJZ8IDQvAUP-mW31mjv_Ecz5EME2POqLcvo5441j8z_zZB-NtOiK-PHix1oyDBS5szz-FNIUgyVG51-aSJ4AGxreDW5BbnM7dXClzO7Vlop2DzA8o8EZXasi5YcUq0hyjMge2pDVENE2wvGn2_VHBsXMV6W86-KkQTDnFA_hcBUust_HpwK4x-g3hpnXG7ROMgyLStc09nApprDXqnOusw4VPKQZ-773V5j2-4XSu5wceHk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PTwobiZ12j2KRCybnGZifGjoeIN_neCcg9GjTqC-Cyy9ZrTvzXwE3W-04AKD1Zifxfpp7ivPUk4F9m1oVJObW_zQwCA7yI0oGuyU6Lb69hZ81k-6G0JuIfyLGaV-3Vme8TbqOCH-JY_HvqtQaXQIiNaEUAwXcJDXSQe4IPoCsvJshmq5zf3WpS4wJEuXFoS1nOjQIkj4ZMV3TyTkAI_K8bSbGTV8vT16UbmK7G7GvlS1RctncPjmOkmhGdZ9ZUeaJxQ6Q2oXIPPf_E1POAfP6sATOHyvtDeIS0RyzqMsarNuQlhoReJZjFsvhChGWRdWO8q7_S8",
+            "q": "Deep Learning Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PTwobiZ12j2KRCybnGZifGjoeIN_neCcg9GjTqC-Cyy9ZrTvzXwE3W-04AKD1Zifxfpp7ivPUk4F9m1oVJObW_zQwCA7yI0oGuyU6Lb69hZ81k-6G0JuIfyLGaV-3Vme8TbqOCH-JY_HvqtQaXQIiNaEUAwXcJDXSQe4IPoCsvJshmq5zf3WpS4wJEuXFoS1nOjQIkj4ZMV3TyTkAI_K8bSbGTV8vT16UbmK7G7GvlS1RctncPjmOkmhGdZ9ZUeaJxQ6Q2oXIPPf_E1POAfP6sATOHyvtDeIS0RyzqMsarNuQlhoReJZjFsvhChGWRdWO8q7_S8&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PTwobiZ12j2KRCybnGZifGjoeIN_neCcg9GjTqC-Cyy9ZrTvzXwE3W-04AKD1Zifxfpp7ivPUk4F9m1oVJObW_zQwCA7yI0oGuyU6Lb69hZ81k-6G0JuIfyLGaV-3Vme8TbqOCH-JY_HvqtQaXQIiNaEUAwXcJDXSQe4IPoCsvJshmq5zf3WpS4wJEuXFoS1nOjQIkj4ZMV3TyTkAI_K8bSbGTV8vT16UbmK7G7GvlS1RctncPjmOkmhGdZ9ZUeaJxQ6Q2oXIPPf_E1POAfP6sATOHyvtDeIS0RyzqMsarNuQlhoReJZjFsvhChGWRdWO8q7_S8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT0YbSdKMiZylhedT7XfryfVwq5ZFl-C7nTO5pMkOnTbQlDpP1icwe6mo9taHIrqRl5rLJqQ4Ovyz0u6DZYyFwYmwsE1E9-KGXPLB9rxx79V2SLroaK1d8U510Kx6p_iXmi7hpeF58lTprxRjJUGDqbUh1toI8E8w0U-XOfL9ZHxzmEuBwLx63Golx0r9IeTlBh0zmkfbheVBOJO0aYdIJ1AW3ddEHqAFOH9oqz60IIFNRQ_WYvmdw82901bsa63XAxDJtZClIP4mCpmhfOTHKA6XusGVJvgdKxMZV4PXk2hZNWrvFYtlRwyW4iXv0F9ADOZaw9c",
+            "q": "Deep Learning Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT0YbSdKMiZylhedT7XfryfVwq5ZFl-C7nTO5pMkOnTbQlDpP1icwe6mo9taHIrqRl5rLJqQ4Ovyz0u6DZYyFwYmwsE1E9-KGXPLB9rxx79V2SLroaK1d8U510Kx6p_iXmi7hpeF58lTprxRjJUGDqbUh1toI8E8w0U-XOfL9ZHxzmEuBwLx63Golx0r9IeTlBh0zmkfbheVBOJO0aYdIJ1AW3ddEHqAFOH9oqz60IIFNRQ_WYvmdw82901bsa63XAxDJtZClIP4mCpmhfOTHKA6XusGVJvgdKxMZV4PXk2hZNWrvFYtlRwyW4iXv0F9ADOZaw9c&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT0YbSdKMiZylhedT7XfryfVwq5ZFl-C7nTO5pMkOnTbQlDpP1icwe6mo9taHIrqRl5rLJqQ4Ovyz0u6DZYyFwYmwsE1E9-KGXPLB9rxx79V2SLroaK1d8U510Kx6p_iXmi7hpeF58lTprxRjJUGDqbUh1toI8E8w0U-XOfL9ZHxzmEuBwLx63Golx0r9IeTlBh0zmkfbheVBOJO0aYdIJ1AW3ddEHqAFOH9oqz60IIFNRQ_WYvmdw82901bsa63XAxDJtZClIP4mCpmhfOTHKA6XusGVJvgdKxMZV4PXk2hZNWrvFYtlRwyW4iXv0F9ADOZaw9c&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZtujksQr204OpI1xBROr-MKWvpUIUIQyJldbg3sdU5NZAmYO8mbrF6Fh5aYzCUBNFn9hrPxHwvznsukpFcrANawch_seDMQTCAtFRq00qnAUG7Z05cHRjgsdtZTQHtbP3h7nUNKtY15BKMEj9BrzmHtsdl5DtrzmwCVyZp4aS_9QUkLF_FZKyP21sm2IWqAP-ZNtw7M73HMZ9Sby9_Rk4z0gTcQeExt8hkrvVsHfO-gpCtmUfP7A8sRGvRX390f9OANgHzf8tnWS4XGcNGd_WxckEpfMzZp8-XYmZ3Yj9rL1a8EaihzWicSKB2T3AUZBqCuEutc",
+            "q": "Deep Learning Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZtujksQr204OpI1xBROr-MKWvpUIUIQyJldbg3sdU5NZAmYO8mbrF6Fh5aYzCUBNFn9hrPxHwvznsukpFcrANawch_seDMQTCAtFRq00qnAUG7Z05cHRjgsdtZTQHtbP3h7nUNKtY15BKMEj9BrzmHtsdl5DtrzmwCVyZp4aS_9QUkLF_FZKyP21sm2IWqAP-ZNtw7M73HMZ9Sby9_Rk4z0gTcQeExt8hkrvVsHfO-gpCtmUfP7A8sRGvRX390f9OANgHzf8tnWS4XGcNGd_WxckEpfMzZp8-XYmZ3Yj9rL1a8EaihzWicSKB2T3AUZBqCuEutc&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZtujksQr204OpI1xBROr-MKWvpUIUIQyJldbg3sdU5NZAmYO8mbrF6Fh5aYzCUBNFn9hrPxHwvznsukpFcrANawch_seDMQTCAtFRq00qnAUG7Z05cHRjgsdtZTQHtbP3h7nUNKtY15BKMEj9BrzmHtsdl5DtrzmwCVyZp4aS_9QUkLF_FZKyP21sm2IWqAP-ZNtw7M73HMZ9Sby9_Rk4z0gTcQeExt8hkrvVsHfO-gpCtmUfP7A8sRGvRX390f9OANgHzf8tnWS4XGcNGd_WxckEpfMzZp8-XYmZ3Yj9rL1a8EaihzWicSKB2T3AUZBqCuEutc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1XW9iPsfpaHA5TUzd1kfq_Jbh0BbLCYDcwQksmmm6kYFteSGBMKMMqkKuoSBXSmUdie9XjKxTOKV4DbTSJJJsyrxpJZ8IDQvAUP-mW31mjv_Ecz5EME2POqLcvo5441j8z_zZB-NtOiK-PHix1oyDBS5szz-FNIUgyVG51-aSJ4AGxreDW5BbnM7dXClzO7Vlop2DzA8o8EZXasi5YcUq0hyjMge2pDVENE2wvGn2_VHBsXMV6W86-KkQTDnFA_hcBUust_HpwK4x-g3hpnXG7ROMgyLStc09nApprDXqnOusw4VPKQZ-773V5j2-4XSu5wceHk",
+            "q": "Deep Learning Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1XW9iPsfpaHA5TUzd1kfq_Jbh0BbLCYDcwQksmmm6kYFteSGBMKMMqkKuoSBXSmUdie9XjKxTOKV4DbTSJJJsyrxpJZ8IDQvAUP-mW31mjv_Ecz5EME2POqLcvo5441j8z_zZB-NtOiK-PHix1oyDBS5szz-FNIUgyVG51-aSJ4AGxreDW5BbnM7dXClzO7Vlop2DzA8o8EZXasi5YcUq0hyjMge2pDVENE2wvGn2_VHBsXMV6W86-KkQTDnFA_hcBUust_HpwK4x-g3hpnXG7ROMgyLStc09nApprDXqnOusw4VPKQZ-773V5j2-4XSu5wceHk&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1XW9iPsfpaHA5TUzd1kfq_Jbh0BbLCYDcwQksmmm6kYFteSGBMKMMqkKuoSBXSmUdie9XjKxTOKV4DbTSJJJsyrxpJZ8IDQvAUP-mW31mjv_Ecz5EME2POqLcvo5441j8z_zZB-NtOiK-PHix1oyDBS5szz-FNIUgyVG51-aSJ4AGxreDW5BbnM7dXClzO7Vlop2DzA8o8EZXasi5YcUq0hyjMge2pDVENE2wvGn2_VHBsXMV6W86-KkQTDnFA_hcBUust_HpwK4x-g3hpnXG7ROMgyLStc09nApprDXqnOusw4VPKQZ-773V5j2-4XSu5wceHk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PTwobiZ12j2KRCybnGZifGjoeIN_neCcg9GjTqC-Cyy9ZrTvzXwE3W-04AKD1Zifxfpp7ivPUk4F9m1oVJObW_zQwCA7yI0oGuyU6Lb69hZ81k-6G0JuIfyLGaV-3Vme8TbqOCH-JY_HvqtQaXQIiNaEUAwXcJDXSQe4IPoCsvJshmq5zf3WpS4wJEuXFoS1nOjQIkj4ZMV3TyTkAI_K8bSbGTV8vT16UbmK7G7GvlS1RctncPjmOkmhGdZ9ZUeaJxQ6Q2oXIPPf_E1POAfP6sATOHyvtDeIS0RyzqMsarNuQlhoReJZjFsvhChGWRdWO8q7_S8",
+            "q": "Deep Learning Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjEYwaG_La5f4tPlFPVJAgZJ_XnDg:1793394865850&q=Deep+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PTwobiZ12j2KRCybnGZifGjoeIN_neCcg9GjTqC-Cyy9ZrTvzXwE3W-04AKD1Zifxfpp7ivPUk4F9m1oVJObW_zQwCA7yI0oGuyU6Lb69hZ81k-6G0JuIfyLGaV-3Vme8TbqOCH-JY_HvqtQaXQIiNaEUAwXcJDXSQe4IPoCsvJshmq5zf3WpS4wJEuXFoS1nOjQIkj4ZMV3TyTkAI_K8bSbGTV8vT16UbmK7G7GvlS1RctncPjmOkmhGdZ9ZUeaJxQ6Q2oXIPPf_E1POAfP6sATOHyvtDeIS0RyzqMsarNuQlhoReJZjFsvhChGWRdWO8q7_S8&udm=8&sa=X&ved=2ahUKEwiu2a6_1OKXAxXJB9sEHTZSFt8QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Deep+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PTwobiZ12j2KRCybnGZifGjoeIN_neCcg9GjTqC-Cyy9ZrTvzXwE3W-04AKD1Zifxfpp7ivPUk4F9m1oVJObW_zQwCA7yI0oGuyU6Lb69hZ81k-6G0JuIfyLGaV-3Vme8TbqOCH-JY_HvqtQaXQIiNaEUAwXcJDXSQe4IPoCsvJshmq5zf3WpS4wJEuXFoS1nOjQIkj4ZMV3TyTkAI_K8bSbGTV8vT16UbmK7G7GvlS1RctncPjmOkmhGdZ9ZUeaJxQ6Q2oXIPPf_E1POAfP6sATOHyvtDeIS0RyzqMsarNuQlhoReJZjFsvhChGWRdWO8q7_S8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Deep Learning Engineer",
+      "company_name": "Imagry | Autonomous Driving",
+      "location": "San Jose, CA",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for a capable and experienced Sr",
+            "M.Sc",
+            "or equivalent work experience in CS, EE, Physics, or other quantitative fields from a leading university",
+            "Ph.D. – Advantage",
+            "A proven track record of at least 3 years of hands-on experience in developing deep learning algorithms",
+            "Experience and knowledge in computer vision and image processing algorithms, including classification, object detection, and/or semantic segmentation",
+            "In-depth, hands-on knowledge of deep learning fundamentals",
+            "Hands-on experience with deep learning frameworks such as PyTorch",
+            "Strong mathematical aptitude, with emphasis on probability, vector algebra, and geometry",
+            "Proficiency in Python programming",
+            "Experience in conducting long-term development and/or research projects, in either academia or industry",
+            "Proficiency in English, both written and spoken",
+            "Team player - Able to foster a positive and cooperative work environment by maintaining strong collaboration within the team and building productive relationships with other teams across the company",
+            "Eligible to work in the US",
+            "Publications in top-tier journals or conferences on algorithms, computer vision, or deep learning",
+            "Basic proficiency in C++",
+            "Experience with Linux",
+            "Source control with git"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Position report to the Perception Team Leader in San Jose",
+            "Cooperate with the SJ site Deep Learning Engineers, Safety Drivers & Test Engineers",
+            "Supervise complex data pipelines, from the collection stage, through annotation, to model training",
+            "Design and optimize deep neural networks ( Requires innovative feature engineering)",
+            "Assume end-to-end responsibility over medium to long-term projects",
+            "Devise and implement performance metrics",
+            "Communicate, present, and visualize results",
+            "Align the algorithms with the product needs"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=P3GIaE3CZaKGuTQYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE43q21EcNGpWBHFzQcoSTjSlPQu5FKp4Iv4trbLP_zLV_xWRdkgRniiTuTJwZWcJ8QEJTzYgMzfdsAEN2YXcH3uco5yUkokVE6yzt5WlgfFhIYn1bORJa10OmEMOmN7OO6nKpLbbO-DdukDX6jHzMQDjwJN8u9F9gQvTbMquINL_QcxYB1JnAAAAA&shmds=v1_Ac3VAoyWe8BMw5R9bRK6yGkY0Wuoj-IYsv8HQHY9_V023jsKWA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=P3GIaE3CZaKGuTQYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae508b1ec900ddeafc57871/images/ZVAe0IZIhVwfVCusoKCTGgntb1Z-hUzcV9Ou6kOqVbA.jpeg",
+      "extensions": [
+        "8 days ago",
+        "210K–230K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/deep-learning-engineer-at-imagry-autonomous-driving-4480028561",
+      "job_title": "Deep Learning Engineer",
+      "description": "Senior Deep Learning Engineer, Computer Vision\n\nimagry.E4.E30@comeetapply.com\n\nLocation: San Jose, CA , On Site\n\n\n\n\nWe are looking for a capable and experienced Sr. Deep Learning Engineer to join our R&D team.\n\nThe engineer will work on devising, developing, and integrating novel deep-vision-based perception algorithms at the heart of our autonomous driving system.\n\nThis is an opportunity to work on cutting-edge deep vision methods, develop and innovate new ideas, and see them deployed on the road in our autonomous vehicles.\n\nPosition report to the Perception Team Leader in San Jose.\n\n\n\n\nResponsibilities:\n\nCooperate with the SJ site Deep Learning Engineers, Safety Drivers & Test Engineers.\n\nWork closely with deep learning engineers and tech leaders across the company, demonstrating flexibility and effective communication in a global, multi-time-zone environment.Supervise complex data pipelines, from the collection stage, through annotation, to model training.Design and optimize deep neural networks ( Requires innovative feature engineering).Assume end-to-end responsibility over medium to long-term projects.Devise and implement performance metrics.Communicate, present, and visualize results.Align the algorithms with the product needs.\n\n\nRequirements:\n\nM.Sc. or equivalent work experience in CS, EE, Physics, or other quantitative fields from a leading university. Ph.D. – AdvantageA proven track record of at least 3 years of hands-on experience in developing deep learning algorithmsExperience and knowledge in computer vision and image processing algorithms, including classification, object detection, and/or semantic segmentationIn-depth, hands-on knowledge of deep learning fundamentalsHands-on experience with deep learning frameworks such as PyTorchStrong mathematical aptitude, with emphasis on probability, vector algebra, and geometryProficiency in Python programmingExperience in conducting long-term development and/or research projects, in either academia or industryProficiency in English, both written and spokenTeam player - Able to foster a positive and cooperative work environment by maintaining strong collaboration within the team and building productive relationships with other teams across the companyEligible to work in the USSkills that are considered an advantage:\n\nPublications in top-tier journals or conferences on algorithms, computer vision, or deep learningBasic proficiency in C++Experience with LinuxSource control with git",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/deep-learning-engineer-at-imagry-autonomous-driving-4480028561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Karkidi",
+          "link": "https://www.karkidi.com/job-details/87794-deep-learning-engineer-intern-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/deep-learning-engineer-imagry-autonomous-driving-san-jose--fj-2427432213?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4112-f12152caf584998a9882f63e27db58f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiSW1hZ3J5IHwgQXV0b25vbW91cyBEcml2aW5nIiwiaHRpZG9jaWQiOiJQM0dJYUUzQ1phS0d1VFFZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW01UFZFTk5ZV2hsUzFkaFQyMUxTREowZUhKMlp6Tk1MV1ZTVDJ4WmIwcHlZMnhvUW5ka1YyZGpPV1F4TmxKd1ZsZGFSakJtVWtwRmJWVXdTbEF0UVdONE5ITnJYM0ZaTlVWb2JGQjRkV1Z6U25ZMlozSlFiRWxYUVhFeGRucGZhVkJ3WTE5VFRHWmlPWHBRTmpSc01HVXRWbmxXVEdsTGFYZHVTekF4ZGxKdlJHazJUMThTRjNOUmFteGhkVFk0VFRodFVEZE9XVkIwY1ZSYUxVRXdHaUpCU0U0d1JUZElTM0JGWjFGS04zTlZOMGgzVVRSRFRHeEJRa0ZIUWxsUlZrOUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJQM0dJYUUzQ1phS0d1VFFZQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Deep Learning Compiler Engineer",
+      "company_name": "NVIDIA Corporation",
+      "location": "Anywhere",
+      "via": "NVIDIA Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors, Masters or Ph.D. in Computer Science, Computer Engineering or a related field (or equivalent experience)",
+            "3+ years of relevant work or research experience in compiler optimization, performance analysis and IR design",
+            "Ability to work independently, define project goals and scope, and lead your own development effort",
+            "Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design",
+            "Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team",
+            "Knowledge of CPU and/or GPU architecture",
+            "CUDA or OpenCL programming experience",
+            "Experience with the following technologies: MLIR, LLVM, XLA, TVM and deep learning models and algorithms"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary range is 152,000 USD - 241,500 USD",
+            "You will also be eligible for equity and benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will work on CUDA Tile and TensorIR compiler technologies for NVIDIA GPUs",
+            "You will design and implement compiler transformations, develop MLIR-based dialects and lowering passes, and optimize the performance of tile-based kernels to ensure they execute efficiently across multiple generations of NVIDIA GPU architectures",
+            "The scope of these efforts includes defining public APIs, crafting and implementing compiler and optimization techniques, performance optimization, and other general software engineering work"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=CdqBxxBKbi8a26DpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsQoCMRBEsb1PsNpaMBFBC63kTuRELLU8krAkkdxuyKa4P_F3jc0wxbyZ6b6r7jggZnigKRTJQ89zjgkLXMlHwma2cGcL0gIuABPcmH3C9TnUmuWktUhSXqqp0SnHs2ZCy4v-sJW_TBJMwZxMxWl_2C0qk9_A8zUO46Wtlcyloa03EryNhHaiMv0Au4KI6poAAAA&shmds=v1_Ac3VAoxnMlZQ5meDF2rUHIY76jhaabGot6xqRuEtxVb4Q-wraw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=CdqBxxBKbi8a26DpAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.nvidia.com/careers/job/893396010462?ncid=prsy-896405",
+      "job_title": "Deep Learning Compiler Engineer",
+      "description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.\n\nWe are hiring software engineers for the Tensor IR & CUDA Tile team. NVIDIA GPUs are at the center of the deep learning revolution and continue to enable breakthroughs in generative AI, large language models, recommendation systems, speech recognition, image classification and other areas. Come join us to work with a top-notch team and have broad impact across the entire deep learning community.\n\nWhat you'll be doing:\n\nIn this role, you will work on CUDA Tile and TensorIR compiler technologies for NVIDIA GPUs. CUDA Tile is a new tile-based programming model that shipped with CUDA 13.1, and TensorIR is an open-source compiler infrastructure project that uses CUDA Tile to generate high-performance GPU kernels. You will design and implement compiler transformations, develop MLIR-based dialects and lowering passes, and optimize the performance of tile-based kernels to ensure they execute efficiently across multiple generations of NVIDIA GPU architectures. The scope of these efforts includes defining public APIs, crafting and implementing compiler and optimization techniques, performance optimization, and other general software engineering work.\n\nWhat we need to see:\n\n  * Bachelors, Masters or Ph.D. in Computer Science, Computer Engineering or a related field (or equivalent experience)\n\n  * 3+ years of relevant work or research experience in compiler optimization, performance analysis and IR design.\n\n  * Ability to work independently, define project goals and scope, and lead your own development effort.\n\n  * Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.\n\n  * Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team.\n\n\n\n\nWays to stand out from the crowd:\n\n  * Knowledge of CPU and/or GPU architecture. CUDA or OpenCL programming experience.\n\n  * Experience with the following technologies: MLIR, LLVM, XLA, TVM and deep learning models and algorithms.\n\n\n\n\nWith highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and hardworking people in the world working with us and our product lines are growing fast in some of the hottest state of the art fields such as Virtual Reality, Artificial Intelligence, Deep Learning and Autonomous Vehicles.\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 152,000 USD - 241,500 USD.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until August 27, 2026.\n\nThis posting is for an existing vacancy. \n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n#deeplearning",
+      "apply_options": [
+        {
+          "title": "NVIDIA Careers",
+          "link": "https://jobs.nvidia.com/careers/job/893396010462?ncid=prsy-896405&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MIT Career Advising & Professional Development",
+          "link": "https://capd.mit.edu/jobs/quadric-io-deep-learning-compiler-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/deep-learning-compiler-engineer-or--c08f2027-16a5-403f-a679-ee81559d729d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/deep-learning-compiler-engineer-at-nvidia-4455472293?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010309320726&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Nvidia/Job/Deep-Learning-Compiler-Engineer/-in-Remote,OR?jid=7fe5b960d5a18f90&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EmbeddedJobs",
+          "link": "https://embedded.jobs/job/Deep-Learning-Compiler-Engineer-with-Quadric-3058dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/quadric-io/deep-learning-compiler-engineer-149616642/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIENvbXBpbGVyIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTlZJRElBIENvcnBvcmF0aW9uIiwiaHRpZG9jaWQiOiJDZHFCeHhCS2JpOGEyNkRwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhWaFVuWkhaMjVRTjFRM05HMXRja3hIYkdkT2NWY3pibXBhVVhWQ01ubDNVVlV4YTJVMU4wRlhZM2RVWVRCVVdXeHVjSFJpYzJoc1JVWTFhRnBGVFU5UFl6RnBkVTVETWpSNFkyTmpVM1pvUzBkbFZVaEpaVWRZWWpCTU5FdGtZaTFZU21sZldITkRjVnBtZEZVNVFsZFVPWFJPV1daVlUwVXRhMnRYZGxaVE0wTnFZallTRjNOUmFteGhkVFk0VFRodFVEZE9XVkIwY1ZSYUxVRXdHaUpCU0U0d1JUZEhlbU5mVEhKMVNGODROVzFpTldabWVuRnpaVlp3ZVdwVFNXdFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJDZHFCeHhCS2JpOGEyNkRwQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company_name": "Applied Materials",
+      "location": "Santa Clara, CA",
+      "via": "Applied Materials – Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Strong foundation in machine learning and deep learning",
+            "Hands-on experience building and deploying production ML systems",
+            "Strong Python development skills",
+            "Experience with PyTorch and/or TensorFlow",
+            "Demonstrated experience developing reinforcement learning solutions",
+            "Strong understanding of RL concepts including environments, policies, rewards, value functions, and exploration strategies",
+            "Experience with modern RL methods such as PPO, SAC, DQN, Actor-Critic, or similar approaches",
+            "Experience training and evaluating RL agents in simulation environments",
+            "Ability to formulate complex optimization problems as reinforcement learning problems",
+            "Experience with Git, testing, code reviews, CI/CD, and production software development",
+            "Assignee / Regular"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$184,000.00 - $253,000.00",
+            "You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers",
+            "The salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members",
+            "In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Join Applied Materials AI COE team to build intelligent systems that solve complex problems in semiconductor manufacturing",
+            "As an AI / Machine Learning Engineer, you’ll design, develop, and deploy production AI solutions across machine learning, deep learning, reinforcement learning, and AI agents",
+            "A key focus of this role is using reinforcement learning (RL) to optimize dynamic manufacturing decisions such as scheduling, dispatching, planning, and resource allocation",
+            "You’ll work with simulation environments, operational data, and real-world feedback to build intelligent systems that can learn, adapt, and improve complex factory operations",
+            "Design, train, evaluate, and deploy machine learning and deep learning models",
+            "Develop reinforcement learning solutions for complex decision-making and optimization problems",
+            "Build RL environments, reward functions, policies, and evaluation frameworks",
+            "Train and optimize agents using simulation and operational data",
+            "Explore techniques including policy optimization, model-based RL, multi-agent systems, and hierarchical learning",
+            "Build scalable training, inference, monitoring, and retraining workflows",
+            "Partner with software engineers to integrate AI capabilities into production and customer-facing products",
+            "Contribute to MLOps, experiment tracking, model versioning, observability, and lifecycle management",
+            "Research and prototype emerging technologies including Generative AI, Agentic AI, LLMs, RAG, and multi-agent systems",
+            "Collaborate with data scientists, software engineers, cloud architects, and semiconductor domain experts"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=Rsqtj9o8FxdidI9-AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CU436CKaiOBip1BEFDv5AeVajyQS70IuQ7_Br1aXN7zms2jW7mr7O5zZRyYqsIObjKCEZQogDBcRn2jZhlqznqxVTcZrxRonM8nbCtMos33JqH8GDVgoJ6w0HI772WT2m5XLOUV6Qv_rEjEpRIYHckXoEhbcQue-GpdBnI0AAAA&shmds=v1_Ac3VAoxoiTPT_IDz33MzBztAe8fCw5WVIIDRcPiqJmNSMfTIXA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=Rsqtj9o8FxdidI9-AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAV1BMVEX___8AgagAdqEAeqQAd6IAfKUAfqamx9fx9_nG2uRuqMJgob0AdKB9r8aDs8m30d5Ml7bj7fKSuc3q8vbX5eyew9Qhhao0jK9WnbqvzdsAa5rO3-g_kbMG8RNHAAACQ0lEQVRIieVW7bKjIAxFElAQtX5dtfX9n3NBQUSxvXX_7Z6ZznTQY8LJIYGQ_xe16JuybHpRf8OqcqDAFug_efU7Vlsg8GQHDli0n3mFCliWq4pPSQI70wwYvE24oHGaAX0TdIZrXpLAfMUb_O4AN3il-HARb8cTncOrKhO0T3g0ZrHL81B1MVjJILLPyuvCR20ah2YyNSzRKnTW1sczdvFAVKNOoLdMOCW61Q_SAH0OQKftBXZItlVbvO74zUyi0hn-rM9V6L7CKcpKUQUQ-mmD2GpTrQKEIdHpEuxvgfHaaOS0KmAgqV1k8oQZ1It0qEXJ16wC09o1-jqXiZTGagntSLPKw_NTLUCQts5Ipn-ktmhJhoyQBwqSOhd4Xk3dyvAUpHlKUj_XDaoHyQBCIvW-EuCIs36hx8J9yuSV4YEIYiP2bCPSz0TWb8TmO2LjhfuOWP498XaqEXGs6dl7cXw5HguxtBE5Z_JtObwBlhdQem_0Z-LOANZymBGJvU7TfzMfIxFPJocXmXAwbRl_ViRw3mNg8vVYca0z4GTEUsanLKpqOAvQJZFSNGer1eciG3mMGBxk2zpMaSViky1rMhrx0DpsszInuVCAsz76I4sa4NCsXPcD3eO6UTdTxnjUOcf26FuR1oZkLzFcWO7UkLcRgLMporX9jqhLxaIjYBs6HLmUbiDweUo5S6eBlZPk0aGzH3PcDzzdaM00MX_4xZgLBmsUV4P1_ii_f3m4f10hty9I5P6VbEn41iVwxb1r5z-GPzbnI1SJPYRVAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.appliedmaterials.com/job/santa-clara/ai-ml-engineer/95/102584706720",
+      "job_title": "AI/ML Engineer",
+      "description": "Who We Are\n\n\nApplied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology.\n\n\nWhat We Offer\n\n\nSalary:\n\n$184,000.00 - $253,000.00\n\nLocation:\n\nSanta Clara,CA\n\nYou’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. \n\n\n\nAt Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits. \n\n\n\nRole Overview\nJoin Applied Materials AI COE team to build intelligent systems that solve complex problems in semiconductor manufacturing.\n\n\nAs an AI / Machine Learning Engineer, you’ll design, develop, and deploy production AI solutions across machine learning, deep learning, reinforcement learning, and AI agents. A key focus of this role is using reinforcement learning (RL) to optimize dynamic manufacturing decisions such as scheduling, dispatching, planning, and resource allocation.\n\n\nYou’ll work with simulation environments, operational data, and real-world feedback to build intelligent systems that can learn, adapt, and improve complex factory operations.\n\n\nWhat You’ll Do\nDesign, train, evaluate, and deploy machine learning and deep learning models.Develop reinforcement learning solutions for complex decision-making and optimization problems.Build RL environments, reward functions, policies, and evaluation frameworks.Train and optimize agents using simulation and operational data.Explore techniques including policy optimization, model-based RL, multi-agent systems, and hierarchical learning.Build scalable training, inference, monitoring, and retraining workflows.Partner with software engineers to integrate AI capabilities into production and customer-facing products.Contribute to MLOps, experiment tracking, model versioning, observability, and lifecycle management.Research and prototype emerging technologies including Generative AI, Agentic AI, LLMs, RAG, and multi-agent systems.Collaborate with data scientists, software engineers, cloud architects, and semiconductor domain experts.\nWhat We’re Looking For\nRequired\nStrong foundation in machine learning and deep learning.Hands-on experience building and deploying production ML systems.Strong Python development skills.Experience with PyTorch and/or TensorFlow.Demonstrated experience developing reinforcement learning solutions.Strong understanding of RL concepts including environments, policies, rewards, value functions, and exploration strategies.Experience with modern RL methods such as PPO, SAC, DQN, Actor-Critic, or similar approaches.Experience training and evaluating RL agents in simulation environments.Ability to formulate complex optimization problems as reinforcement learning problems.Experience with Git, testing, code reviews, CI/CD, and production software development.\nPreferred\nExperience building AI agents or autonomous decision-making systems.Experience with discrete-event simulation or simulation-driven learning.Experience combining RL with optimization techniques.Knowledge of scheduling, dispatching, operations research, or industrial optimization.Experience with Azure, AWS, or Google Cloud, Docker, Kubernetes, or MLflow.Experience with Generative AI, LLMs, agent frameworks, or RAG.Semiconductor manufacturing experience is a plus.\n \n\n\n \n\n\nWhy This Role\nReinforcement learning is a core strategic capability for this team, not simply a research topic. You’ll help develop next-generation manufacturing optimization solutions and intelligent agents capable of learning and adapting to complex factory operations.\n\n\nYou’ll join an experienced, collaborative team of data scientists, AI engineers, software developers, and cloud architects working on challenging industrial AI problems with direct customer and business impact.\n\n\n\n\n\n\nAdditional Information\n\n\n\nTime Type:\n\nFull time\n\nEmployee Type:\n\nAssignee / Regular\n\nTravel:\n\nYes, 10% of the Time\n\nRelocation Eligible:\n\nNo\n\n\n\nThe salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable.\n\n\n\nFor all sales roles, the posted salary range is the Target Total Cash (TTC) range for the role, which is the sum of base salary and target bonus amount at 100% goal achievement.\n\n\n\nApplied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.\n\n\n\nIn addition, Applied endeavors to make our careers site accessible to all users. If you would like to contact us regarding accessibility of our website or need assistance completing the application process, please contact us via e-mail at Accommodations_Program@amat.com, or by calling our HR Direct Help Line at 877-612-7547, option 1, and following the prompts to speak to an HR Advisor. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+      "apply_options": [
+        {
+          "title": "Applied Materials – Jobs",
+          "link": "https://jobs.appliedmaterials.com/job/santa-clara/ai-ml-engineer/95/102584706720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-machine-learning-engineer_7ea1ad0acbccd6c8db73a734e0e363cd6d66f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In San Francisco",
+          "link": "https://www.builtinsf.com/job/founding-ai-ml-engineer/9725270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "AMD Careers",
+          "link": "https://careers.amd.com/careers-home/jobs/92716?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AI-ML-Engineer_R2631042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=0c76330ff46c3345&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-%E2%80%93-ai-ml-compiler-at-qualcomm-4464535174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/qualcomm/Job/Senior-Machine-Learning-Engineer-AI-ML-Compiler/-in-Santa-Clara,CA?jid=51042e2d89225dfa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkFwcGxpZWQgTWF0ZXJpYWxzIiwiaHRpZG9jaWQiOiJSc3F0ajlvOEZ4ZGlkSTktQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1V0NWExY3dTR2hTVm5OdVZVeElNamN3Y0VaM1h6TlhUbTFqVmtSdVNqSlRUR2RUYUZaeFVXODRYMGR5UjAxMGFpMXpUVTlYZERoR00xQm9hR2wxUjJobVozSTFXVzk2WVY4ME9YYzFjRVpKVG5kNmNVWTFheTB4YW5Zek4zSXhZME5SVUcxS2NUZDNkbVJ0ZFZoTVNIRkNOVmRuVEcxRlFUZ3lWRk5CVkVGRlZFbERaSGdTRjNOUmFteGhkVFk0VFRodFVEZE9XVkIwY1ZSYUxVRXdHaUpCU0U0d1JUZEhURmxLZEhOMlZVTTRXRGQwTXkxTGExRkhjMk5hUW5CVlJGWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJSc3F0ajlvOEZ4ZGlkSTktQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Deep Learning Framework Communications Engineer",
+      "company_name": "NVIDIA Corporation",
+      "location": "Anywhere",
+      "via": "NVIDIA Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "B.S, M.S. or PHD in Computer Science, or related field (or equivalent experience) with 8+ software engineering and HPC/AI experience",
+            "Development or integration experience with Deep Learning Frameworks such PyTorch, JAX, and Inference Engines such as TRT-LLM, vLLM, SGLang",
+            "Rapid prototyping and development with Python, C++, CUDA or related DSLs (Triton, cuTe)",
+            "Solid grasp of AI models, parallelisms, and/or compiler technologies (e.g. torch.compile)",
+            "Experience conducting performance benchmarking on AI clusters",
+            "Familiarity with at least one performance profiler toolchain (PyTorch profiler, NVIDIA Nsight Systems)",
+            "Understanding of HPC/AI communication concepts (1-sided v 2-sided communication, elasticity, resiliency, topology discovery, etc)",
+            "Adaptability and passion to learn new areas and tools",
+            "Flexibility to work and communicate effectively across different teams and timezones",
+            "Experience with parallel programming on at least one communication runtime (NCCL, NVSHMEM, MPI)",
+            "Good understanding of computer system architecture, HW-SW interactions and operating systems principles (aka systems software fundamentals)",
+            "Expertise in one or more of these areas: Training, Distributed inference, MoE, Reinforcement Learning, kernel authoring (on CUDA, Triton, cuTe, etc)",
+            "Experience with programming for compute & communication overlap in distributed runtimes",
+            "Experience with AI compiler pattern matching and lowering",
+            "Solid understanding of memory hierarchy, consistency model, and tensor layout"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+            "The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5",
+            "You will also be eligible for equity and benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be working with the team that created communication libraries like NCCL, NVSHMEM & technology like GPUDirect -- for scaling Deep Learning and HPC applications",
+            "Your customers will have diverse multi-GPU demands, ranging from training on scales up to 100K GPUs to inference down at microsecond latency",
+            "Integrate new communication libraries features in AI frameworks: from PoC to performance analysis to production",
+            "Perform deep analysis of AI workloads and frameworks to identify multi-GPU communication requirements and opportunities",
+            "Collaborate hands-on with teams working on the latest AI models",
+            "Improve AI compilers to hide communications or perform automatic fusion",
+            "Conduct in-depth AI workload performance characterization on multi-GPU clusters",
+            "Design fault-tolerant and elastic solutions for large-scale or dynamic AI workloads",
+            "Author custom communication or fused compute-communication kernels to showcase ultimate performance on NV platforms",
+            "Influence the roadmap of communication libraries - NCCL & NVSHMEM",
+            "Collaborate with a very dynamic team across multiple time zones"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=sPD8A7OlnKnPXx-bAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NMQrCQBBAUWxzBKtpbEQTEWy0ColKRG0E2zAJw2Z1M7PMrph7eUGjze8eP_lMksuN2IpCSeThTKhs2cBBsae36BMK6fsX2xajFQ6wZ2OZSGEJJ2kgjKDtQBiOIsbRdNfF6MM2y0JwqQlxZG3aSp8JUyND9pAm_FKHDpW8w0j1erMaUs9mPrveq7LKx6d60f8RLMMNOSIUDhUXUORfRYHbnLYAAAA&shmds=v1_Ac3VAowNTN-xzNk1V0xgTY4dLsRIOdIul-l5viLN0-Pku75OHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=sPD8A7OlnKnPXx-bAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.nvidia.com/careers/job/893392908947",
+      "job_title": "Senior Deep Learning Framework Communications Engineer",
+      "description": "NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High Performance Computing and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers what were once science fiction inventions from artificial intelligence to autonomous cars.\n\nWe are looking for a motivated Deep Learning engineer to bring advanced communication technologies into AI stacks, including PyTorch, TRT-LLM, vLLM, SGLang, JAX, etc. You will be working with the team that created communication libraries like NCCL, NVSHMEM & technology like GPUDirect -- for scaling Deep Learning and HPC applications. Your customers will have diverse multi-GPU demands, ranging from training on scales up to 100K GPUs to inference down at microsecond latency. Communication performance between the GPUs has a direct impact on AI applications. Your work in AI toolkits will make all of those easier for the community. This is an outstanding opportunity for someone with an AI background to advance the state of the art in this space. Are you ready to contribute to the development of innovative technologies and help realize NVIDIA's vision?\n\nWhat you will be doing:\n\n  * Integrate new communication libraries features in AI frameworks: from PoC to performance analysis to production\n\n  * Perform deep analysis of AI workloads and frameworks to identify multi-GPU communication requirements and opportunities. Collaborate hands-on with teams working on the latest AI models.\n\n  * Improve AI compilers to hide communications or perform automatic fusion.\n\n  * Conduct in-depth AI workload performance characterization on multi-GPU clusters.\n\n  * Design fault-tolerant and elastic solutions for large-scale or dynamic AI workloads.\n\n  * Author custom communication or fused compute-communication kernels to showcase ultimate performance on NV platforms.\n\n  * Influence the roadmap of communication libraries - NCCL & NVSHMEM.\n\n  * Collaborate with a very dynamic team across multiple time zones.\n\n\n\n\nWhat we need to see:\n\n  * B.S, M.S. or PHD in Computer Science, or related field (or equivalent experience) with 8+ software engineering and HPC/AI experience\n\n  * Development or integration experience with Deep Learning Frameworks such PyTorch, JAX, and Inference Engines such as TRT-LLM, vLLM, SGLang\n\n  * Rapid prototyping and development with Python, C++, CUDA or related DSLs (Triton, cuTe)\n\n  * Solid grasp of AI models, parallelisms, and/or compiler technologies (e.g. torch.compile)\n\n  * Experience conducting performance benchmarking on AI clusters. Familiarity with at least one performance profiler toolchain (PyTorch profiler, NVIDIA Nsight Systems)\n\n  * Understanding of HPC/AI communication concepts (1-sided v 2-sided communication, elasticity, resiliency, topology discovery, etc)\n\n  * Adaptability and passion to learn new areas and tools\n\n  * Flexibility to work and communicate effectively across different teams and timezones\n\n\n\n\nWays to stand out from the crowd:\n\n  * Experience with parallel programming on at least one communication runtime (NCCL, NVSHMEM, MPI). Good understanding of computer system architecture, HW-SW interactions and operating systems principles (aka systems software fundamentals)\n\n  * Expertise in one or more of these areas: Training, Distributed inference, MoE, Reinforcement Learning, kernel authoring (on CUDA, Triton, cuTe, etc). Experience with programming for compute & communication overlap in distributed runtimes\n\n  * Experience with AI compiler pattern matching and lowering. Solid understanding of memory hierarchy, consistency model, and tensor layout\n\n\n\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until November 1, 2026.\n\nThis posting is for an existing vacancy. \n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+      "apply_options": [
+        {
+          "title": "NVIDIA Careers",
+          "link": "https://jobs.nvidia.com/careers/job/893392908947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Nvidia/Job/Senior-Deep-Learning-Framework-Communications-Engineer/-in-Westford,MA?jid=efb224b63f699faa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-deep-learning-framework-communications-engineer-at-nvidia-4395474464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs | MA AI Hub Job Board - Massachusetts Technology Collaborative",
+          "link": "https://jobs.aihub.masstech.org/companies/nvidia/jobs/65813155-senior-deep-learning-framework-communications-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-deep-learning-framework-communications-engineer-nvidia-westford-ma_85357642?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/4c32f7ce-f79d-4b03-8f4d-86592fde2c34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-deep-learning-framework-communications-engineer-nvidia-westford--lensa-2365_73fc6afc97555f5594cae61ed9a238aeb4c2b98bee0d6fae76b676fe3ab66556?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/westford/massachusetts/software_development/5558849634/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGVlcCBMZWFybmluZyBGcmFtZXdvcmsgQ29tbXVuaWNhdGlvbnMgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJOVklESUEgQ29ycG9yYXRpb24iLCJodGlkb2NpZCI6InNQRDhBN09sbktuUFh4LWJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVEJEZGtkeU5HbDFWVE4wY2pSYVowUTBXSGRITTBFeFJFWklaVk5NYWw4Mk1UTnFXSEU1TlZaVVJtOUhUM1V4UlhwV01YWnRPRE14YWtaRlEzWjBSWGxIYW5SSE1FOVNTRzlCT0hob1N6RTNlUzF2V1RVeE5WbE5NV2xPWkdoVmNHWkxhWE5tV0hsS056UTRlWEZuUlZKVWRFWnhSVE5pZGtnM1NrUjFXSEJHUVhaMFZtVVNGM05SYW14aGRUWTRUVGh0VURkT1dWQjBjVlJhTFVFd0dpSkJTRTR3UlRkSVJWQjZibWhrUVRoSlZFUjNOazVsUWtKU2NrZGtNWEJDVldKUiIsImZjdiI6IjMiLCJmY19pZCI6InNQRDhBN09sbktuUFh4LWJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
+      "company_name": "2100 NVIDIA USA",
+      "location": "Santa Clara, CA",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "What we need to see: Bachelors, Masters, PhD, or equivalent experience in relevant fields (Computer Science, Computer Engineering, EECS, AI)",
+            "2 years of relevant software development experience",
+            "Strong C++, Python programming and software engineering skills Experience with DL frameworks (e.g. PyTorch, JAX, TensorFlow, ONNX) and inference libraries (e.g",
+            "TensorRT, TensorRT-LLM, vLLM, SGLang, FlashInfer)",
+            "Experience with performance analysis and performance optimization Ways to stand out from the crowd: Strong foundation and architectural knowledge of GPUs",
+            "Deep understanding of modern deep learning models and workloads (e.g. Transformers, Recommenders, ASR, TTS, Visual Understanding)",
+            "Proficiency in one of the deep learning programming domain specific languages (e.g. CUDA/TileIR/CuTeDSL/cutlass/Triton)",
+            "Prior contributions to major LLM inference frameworks (e.g. vLLM) or prior experience with graph compilers in deep learning inference (e.g. TorchDynamo/TorchInductor)",
+            "Prior experience optimizing performance for low-latency, resource-constrained systems or embedded AI pipelines (e.g",
+            "Jetson systems or other edge AI accelerators)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary range is 124,000 USD - 195,500 USD for Level 2, and 152,000 USD - 241,500 USD for Level 3",
+            "You will also be eligible for equity and benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We specialize in developing GPU-accelerated deep learning inference software like TensorRT, DL benchmarking software and performant solutions to deploy and serve these models",
+            "Collaborate with the deep learning community to integrate TensorRT into OSS frameworks like TensorRT-EdgeLLM and PyTorch",
+            "Identify performance opportunities and optimize SoTA models across the spectrum of NVIDIA accelerators, from datacenter GPUs to edge SoCs",
+            "Implement graph compiler algorithms, frontend operators and code generators across NVIDIA’s inference ecosystem",
+            "Work and collaborate with a diverse set of teams involving workflow improvements, performance modeling, performance analysis, kernel development and inference software development",
+            "What you'll be doing: Establish groundbreaking performance benchmarking methodologies and analysis workflows and identify performance issues and opportunities for NVIDIA’s inference ecosystem (e.g",
+            "TensorRT/TensorRT-EdgeLLM/Torch-TensorRT) Contribute features and code to NVIDIA/OSS inference frameworks including but not limited to TensorRT/TensorRT-EdgeLLM/Torch-TensorRT",
+            "Develop new model pipelines for NVIDIA’s inference ecosystem with optimized performance including but not limited to areas like quantization, scheduling, memory management, and distributed inference to set the gold standard for Gen AI performance",
+            "Work with cross-collaborative teams inside and outside of NVIDIA across generative AI, automotive, robotics, image understanding, and speech understanding to set directions and develop innovative inference solutions",
+            "Scale performance of deep learning models across different architectures and types of NVIDIA accelerators"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=8sRttRrx6eXCcSFKAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCQBAFsfUTrB6WokkMiKBViCKKiBi1lU1cL5FzN9wd6B_6W8Zmiilm-t9e_75ibrFnctKIQaGP8CbHWItphNmNcWbx6k5nHNk91L1IKsYEB34jV2vZMDaO7kiTdN75nZbwXa6qoYKNqrE8WNYhtH4Rx97byPhAoamiSl-xCpf6iZ9a-j9uvu7mraXAt3SWfKJWzGiYTpMEh-t2tc1wKTI0goIkEHJLjsbIsx-3QQKWygAAAA&shmds=v1_Ac3VAoyl1Wzx4cvlGxfkd3H8QIo6flOsW8nY4quru09qcki8Mw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=8sRttRrx6eXCcSFKAAAAAA%3D%3D",
+      "extensions": [
+        "19 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
+      "job_title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
+      "description": "We are now looking for a Deep Learning Software Engineer, TensorRT Performance! NVIDIA is seeking an experienced Deep Learning Engineer passionate about analyzing and improving the performance of NVIDIA’s inference ecosystem! NVIDIA is rapidly growing our research and development for Deep Learning Inference and is seeking excellent Software Engineers at all levels of expertise to join our team. Companies around the world are using NVIDIA GPUs to power a revolution in deep learning, enabling breakthroughs in areas like Generative AI, Recommenders and Vision that have put DL into every software solution. Join the team that builds the software to enable the performance optimization, deployment and serving of these DL inference solutions. We specialize in developing GPU-accelerated deep learning inference software like TensorRT, DL benchmarking software and performant solutions to deploy and serve these models. Collaborate with the deep learning community to integrate TensorRT into OSS frameworks like TensorRT-EdgeLLM and PyTorch. Identify performance opportunities and optimize SoTA models across the spectrum of NVIDIA accelerators, from datacenter GPUs to edge SoCs. Implement graph compiler algorithms, frontend operators and code generators across NVIDIA’s inference ecosystem. Work and collaborate with a diverse set of teams involving workflow improvements, performance modeling, performance analysis, kernel development and inference software development. What you'll be doing: Establish groundbreaking performance benchmarking methodologies and analysis workflows and identify performance issues and opportunities for NVIDIA’s inference ecosystem (e.g. TensorRT/TensorRT-EdgeLLM/Torch-TensorRT) Contribute features and code to NVIDIA/OSS inference frameworks including but not limited to TensorRT/TensorRT-EdgeLLM/Torch-TensorRT. Develop new model pipelines for NVIDIA’s inference ecosystem with optimized performance including but not limited to areas like quantization, scheduling, memory management, and distributed inference to set the gold standard for Gen AI performance. Work with cross-collaborative teams inside and outside of NVIDIA across generative AI, automotive, robotics, image understanding, and speech understanding to set directions and develop innovative inference solutions. Scale performance of deep learning models across different architectures and types of NVIDIA accelerators. What we need to see: Bachelors, Masters, PhD, or equivalent experience in relevant fields (Computer Science, Computer Engineering, EECS, AI). 2 years of relevant software development experience. Strong C++, Python programming and software engineering skills Experience with DL frameworks (e.g. PyTorch, JAX, TensorFlow, ONNX) and inference libraries (e.g. TensorRT, TensorRT-LLM, vLLM, SGLang, FlashInfer). Experience with performance analysis and performance optimization Ways to stand out from the crowd: Strong foundation and architectural knowledge of GPUs. Deep understanding of modern deep learning models and workloads (e.g. Transformers, Recommenders, ASR, TTS, Visual Understanding). Proficiency in one of the deep learning programming domain specific languages (e.g. CUDA/TileIR/CuTeDSL/cutlass/Triton). Prior contributions to major LLM inference frameworks (e.g. vLLM) or prior experience with graph compilers in deep learning inference (e.g. TorchDynamo/TorchInductor). Prior experience optimizing performance for low-latency, resource-constrained systems or embedded AI pipelines (e.g. Jetson systems or other edge AI accelerators). GPU deep learning has provided the foundation for machines to learn, perceive, reason and solve problems posed using human language. The GPU started out as the engine for simulating human imagination, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, NVIDIA's GPU runs deep learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why NVIDIA GPUs are used broadly for deep learning, and NVIDIA is increasingly known as “the AI computing company.” Come, join our DL Architecture team, where you can help build a real-time, cost-effective computing platform driving our success in this exciting and quickly growing field. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 124,000 USD - 195,500 USD for Level 2, and 152,000 USD - 241,500 USD for Level 3. You will also be eligible for equity and benefits. Applications for this job will be accepted at least until October 16, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law. NVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry. Learn more about NVIDIA.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/deep-learning-software-engineer-tensorrt-performance-new-college-grad-2027_7ea1aa6eb2ac9971a7873c61e9d465355049b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Newgrad.ai, New Grad",
+          "link": "https://newgrad.ai/jobs/deep-learning-software-engineer-tensorrt-performance-new-col-4bd79d3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Swooped",
+          "link": "https://swooped.co/job-postings/deep-learning-software-engineer-tensorrt-performance-new-college-grad-2027-santa-clara-nvidia-0b3a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/us/job-listing/deep-learning-software-engineer-flashinfer-new-college-grad-2025-nvidia-uscasantaclara-2-to-5-years-experience-6a05085b-10cf-4bbf-9350-de5f60c73b60?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/5968675688149269876?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Vibe Apply",
+          "link": "https://vibeapplyai.com/jobs/6acd5cf6ee7aad11654ea722/deep-learning-software-engineer-tensorrt-performance-new-college-grad-2027-at-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-santa-clara-deep-learning-software-engineer-tensorrt-performance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIFNvZnR3YXJlIEVuZ2luZWVyLCBUZW5zb3JSVCBQZXJmb3JtYW5jZSAtIE5ldyBDb2xsZWdlIEdyYWQgMjAyNyIsImNvbXBhbnlfbmFtZSI6IjIxMDAgTlZJRElBIFVTQSIsImh0aWRvY2lkIjoiOHNSdHRScng2ZVhDY1NGS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlWVk5iMmxXTFZSc2REWmpVMHRITkY5a01tMWtTbnB2Vm1kRFVYWnpVR1Z1Ym1oS1kxQlNSREpHUTB4dE4yOWhURjh6UVhCT01HMXFUV3hqYjIxVmVVeEJNVFJ2UlRaU09XVkNVMHBoYm5jMGNWRXhjbVp6ZVVGcU0ydG5ibVprYW1oUVVscHViVUpVZEV0bFluRXdjbk5LTTBST05WbFRkV0p2UzBGUGFsSktOMGs0VlcwU0YzTlJhbXhoZFRZNFRUaHRVRGRPV1ZCMGNWUmFMVUV3R2lKQlNFNHdSVGRJYVdOUk1WQkVNazFUYVc5dGJrbHZjSHBxVG14YVF6QlZWa05CIiwiZmN2IjoiMyIsImZjX2lkIjoiOHNSdHRScng2ZVhDY1NGS0FBQUFBQT09In0="
+    },
+    {
+      "title": "Computer Vision and Deep Learning Engineer",
+      "company_name": "D3 Embedded",
+      "location": "Anywhere",
+      "via": "Monster",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=GbPyVVX3ogwCTBFbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7CE7nKtqI4qKT2KKIOCpOkjRHGmnvQu6Evo8val3-4ecrvpPicOQ-fRQz3KNEJrDkoUJMcEWbKVKAmkIkHMUSLuxAxt-0MNITc-hwum9Vk-yMEenKIGo1NmXDvWFCx4N5s5N_XtLajKmziq_1djWUicJ8Vm2g7h16jx4iwQNF4YyUI6raBdyePyz5jLqmAAAA&shmds=v1_Ac3VAozvOmXpLu40HlwbBarPOOCscX8STwY2kXDXiUj0BFatOg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=GbPyVVX3ogwCTBFbAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.monster.com/job-openings/computer-vision-and-deep-learning-engineer-west-henrietta-ny--48458776-d75e-46a2-a346-cb80c5a23c1a",
+      "job_title": "Computer Vision and Deep Learning Engineer",
+      "description": "Computer Vision and Deep Learning Engineer\n\nDepartment: Product Design Services \nFLSA Status: Exempt \nReports to: PDS Operations Manager\nPay Range: $106,800 - $154,800 annually \nLocation: Rochester, NY \n\nThe Role: \n\nD3 Embedded is seeking a skilled Computer Vision and Deep Learning Engineer to develop and implement cutting-edge AI solutions. This role involves designing, training, and optimizing deep learning models for image and video analysis, object detection, and pattern recognition. The ideal candidate has experience with machine learning frameworks (PyTorch, TensorFlow), computer vision algorithms, and real-world deployment of AI models. This position requires strong problem-solving skills and collaboration with cross-functional teams to drive innovation and enhance product capabilities. \n\nResponsibilities: \n\nResearch, develop, and integrate CV/AI solutions for perception problems such as object detection, instance segmentation, sensor fusion, pose estimation etc.  Translate product feature requirements to design specifications and devise high-level software architectures to meet requirements and guide design trade-off decisions.  Deploy real-time, optimized CV/AI solutions to embedded and edge platforms.  Own the full life cycle of new products/solutions from proof of concept to integration with other components and teams.  Collaborate with management and technical teams on product strategies  Participate in all phases of the product development cycle including:  requirements definition and architecture  software design and development  implementing software  software/hardware integration  verification and validation, and customer support  Develop & identify tools / methods for better design reuse & process improvement  Participate in design reviews and provide technical oversight  Additional Responsibilities: \n\nOther duties as assigned \n\nThe Right Person Will Have (Required): \n\nBachelor or Master of Science in Computer Vision, Machine/Deep Learning, Computer Science, Computer/Electrical/Software Engineering, or related field.  0-5 years of experience Excellent problem solving & troubleshooting skills.  Proficiency in Python and C++  Proficiency with OpenCV  Proficiency with PyTorch, TensorFlow, or related machine learning framework(s)  Experience with fine-tuning and transfer learning AI models  Ability to design end-to-end processing pipelines for custom use cases  Self-Driven personality  Capable of a big picture, system-oriented approach  Solid technical leadership skills  Strong communication and interpersonal skills  The Right Person Will Have (Preferred): \n\nExperience with autonomous/industrial robotic platforms and applications  Experience with embedded and edge processing platforms (Nvidia Jetson devices and TensorRT in particular)  Experience with edge AI accelerators (integration, model conversions, deployment, profiling, etc.)  Knowledge of intrinsic and extrinsic calibration procedures for multi-modal sensor systems  Experience with sensor fusion techniques (calibration, early, mid, late fusion, etc.)  Knowledge of camera optics and computational geometry  Gstreamer experience  Robot Operating System (ROS) experience  Experience with version control systems such as GIT and DVC  Experience with GPU programming frameworks such as OpenCL and CUDA  The Benefits: \n\nCompetitive total compensation Medical and dental coverage Employer paid basic life, short-term disability, and identity theft coverage Voluntary vision, life, long-term disability, accident, critical illness coverage 401k retirement contribution Paid holidays, time-off, and sick time Tuition assistance and employer paid professional development Flexible work schedules Remote opportunities available Complimentary snacks and beverages Employer sponsored social events The Company: \n\nSince our founding in 1999, D3 Embedded has driven innovation in high-performance embedded systems development. We leverage our expertise in autonomous machines, sensors, imaging, optics, edge computing, algorithms, robotics, and electrification to provide cutting-edge engineering design and low-volume manufacturing services. Headquartered in Rochester NY, we serve a global network of customers and are proudly connected with many technology leaders and Fortune 500 companies. We are interested in bright, creative, and team-oriented individuals exhilarated by the opportunity to transform the world through frontier technologies. \n\nCandidates must be eligible to work in the United States.  D3 Embedded does not sponsor visas. For more information about D3 Embedded, please visit www.d3embedded.com. \n\nD3 Embedded is committed to fostering a diverse work environment and proud to be an Equal Opportunity Employer. We consider and hire applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state or local law. \n\nD3 Embedded participates in E-Verify, a federal program that confirms employment eligibility upon hire.\n\nPowered by JazzHR\n\n\nRemote\n\nSkills:\nAlgorithms, Analysis Skills, Artificial Intelligence (AI), Beverages, C++ Programming Language, CUDA (Compute Unified Device Architecture), Calibration, Communication Skills, Computational Geometry, Computer Science, Computer Vision, Cross-Functional, Customer Support/Service, Deep Learning, Design Services, Electrical Engineering, Embedded Systems, Fortune 500 Customers, GPU (Graphics Processing Unit), Genetics, Git, Hardware-Software Integration, High Level Architecture (HLA), Identify Issues, Interpersonal Skills, Leadership, Leading Edge Technology, Machine Learning, Manufacturing, OpenCL, Operating Systems, Operations Management, Optics, Pattern Matching, Problem Solving Skills, Process Improvement, Product Design, Product Development, Product Lifecycle, Product Strategy, Proof of Concept, Python Programming/Scripting Language, Requirements Management, Robotics, Software Architecture, Software Design, Software Development, Software Engineering, Source Code/Configuration Management (SCM), State Laws and Regulations, Team Player, Technical Leadership, Technical/Engineering Design, Tuition Fees, Use Cases, Validation Testing\n\n\nD3 Embedded",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/computer-vision-and-deep-learning-engineer-west-henrietta-ny--48458776-d75e-46a2-a346-cb80c5a23c1a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/computer-vision-and-deep-learning-engineer-667df337?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/computer-vision-and-deep-learning-engineer-d3-embedded-west-henrietta--fj-2358923956?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Job Openings — Halcyon",
+          "link": "https://halcyon.gilect.net/remote-jobs/computer-vision-and-deep-learning-engineer-5afde4ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Worklis",
+          "link": "https://www.worklis.com/jobs/usa/1d0bda00-bb9a-4018-af7e-06bd67d12224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workplex",
+          "link": "https://workplex.d5m.liveblog365.com/remote-jobs/computer-vision-and-deep-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFLink",
+          "link": "https://wflink.b3p.synergize.co/remote-jobs/computer-vision-and-deep-learning-engineer-4c21be79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFZone",
+          "link": "https://wfzone.l4x.html-5.me/remote-jobs/computer-vision-and-deep-learning-engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBWaXNpb24gYW5kIERlZXAgTGVhcm5pbmcgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJEMyBFbWJlZGRlZCIsImh0aWRvY2lkIjoiR2JQeVZWWDNvZ3dDVEJGYkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWTjFkMGhGZFd0b1kyRndXR3RrZG5oSGFHdEdlbmR0UWpWeWJHSlFkbXMxZGtkRWNYVkRkVnBIU0V4S1ZqVkVYekZqTVZwNU0ySkdZa3BLWjAxcWJ6ZG1XbXM1UmpOTVptODNjbVV5UlUxaFVUaDVkM00wUzJveFptTlRXRGt4Tm1wcE1GSnpZVEJXT0dwd01WUkpXSFl6TmsxNk5IQmFVR3BwUm5ZMlVFRXpOa294YkdVU0YzTlJhbXhoZFRZNFRUaHRVRGRPV1ZCMGNWUmFMVUV3R2lKQlNFNHdSVGRJV1dJdFRYZzRSbWhRYlhKcU1FZG9TM0Y1VGpsT1NXaENhMVJSIiwiZmN2IjoiMyIsImZjX2lkIjoiR2JQeVZWWDNvZ3dDVEJGYkFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
+      "company_name": "NVIDIA Corporation",
+      "location": "Santa Clara, CA",
+      "via": "NVIDIA Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "MS or PhD in Computer Science, Electrical/Computer Engineering, Robotics, or a related field, or equivalent experience",
+            "12+ years of proven experience building deep learning systems in Python with PyTorch or JAX on Linux",
+            "Deep expertise in 3D computer vision, multi-view geometry, structure-from-motion or SLAM, depth and camera pose estimation, point cloud processing, or 3D reconstruction with the practical ability to produce and validate 3D ground truth at scale, not just consume it",
+            "Hands-on experience with vision-language models, including building the training data and evaluations that measurably improve visual grounding and reasoning quality",
+            "Demonstrated experience building large-scale multimodal data pipelines: distributed video and image processing, deduplication, captioning and annotation, automated quality metrics, and dataset versioning",
+            "Experience running and validating large model training on multi-GPU, multi-node clusters, with working knowledge of distributed training and sharding strategies such as data, tensor, and pipeline parallelism or FSDP",
+            "Rigorous evaluation methodology: designing benchmarks that resist gaming, building clean ablations, and reading results honestly enough to kill your own ideas",
+            "Excellent written and verbal communication, with a track record of partnering effectively with research scientists and translating research direction into engineering execution",
+            "PhD and/or publications at CVPR, ICCV, ECCV, NeurIPS, ICLR, or CoRL in 3D vision, multimodal learning, or embodied AI",
+            "Experience curating web-scale or petabyte-scale video corpora, and building the distributed processing infrastructure behind it using Ray, Spark, Slurm, or similar",
+            "Familiarity with 3D foundation models and modern auto-labeling techniques for geometry, camera estimation, and correspondence",
+            "Experience with vision-language model post-training, supervised fine-tuning, chain-of-thought data design, reward modeling, or reinforcement learning with verifiable rewards applied to reasoning quality",
+            "Experience building evaluation infrastructure and harnesses such as VLMEvalKit, including leaderboards, dashboards, and example-level failure inspection"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+            "The base salary range is 224,000 USD - 356,500 USD",
+            "You will also be eligible for equity and benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will decide what the model learns geometry from, prove that it learned it, and work directly with research scientists in Cosmos Lab to turn 3D research hypotheses into measurable capability in shipped models",
+            "Own the 3D data engine for Cosmos spatial reasoning: source, curate, filter, and balance large-scale real-world image and video corpora into vision-language training data with the coverage and diversity that spatial understanding demands",
+            "Build the annotation and auto-labeling pipelines that produce 3D-grounded supervision at scale, camera-relative 3D boxes, referring and spatial question answering, free space and reachability, ego-, world-, and object-centric reference frames, cross-view correspondence, camera motion, distance and size, and chain-of-thought traces, validated by programmatic and model-based critics",
+            "Own data quality end to end: semantic deduplication, automated quality scoring for faithfulness, completeness, and correctness, coverage analysis across scene types and reference frames, and the sampling strategies that keep pre-training and supervised fine-tuning mixtures balanced",
+            "Verify end-to-end model training: run and validate full pre-training and supervised fine-tuning pipelines, guard reproducibility, catch data and checkpoint regressions, diagnose throughput and loss anomalies, and attribute capability changes back to the specific data and recipe decisions that caused them",
+            "Build and operate the 3D and spatial evaluation suite, public benchmarks such as CV-Bench, BLINK, RefSpatial, VSI-Bench, SPAR-Bench, and RoboSpatial, NVIDIA's VANTAGE-Bench for real-world fixed-camera video understanding, and in-house benchmarks you design with continuous evaluation and full traceability from every reported score back to the exact weights, inputs, configuration, and evaluation code",
+            "Partner closely with Cosmos Lab research scientists: translate 3D research hypotheses into dataset and ablation experiments, run them at scale, and feed honest results back into recipe and architecture decisions",
+            "Operate on large multi-node GPU clusters, tuning data throughput, sharding, and dataloader performance so that data is never the bottleneck on a long training run",
+            "Ship the results into Cosmos releases, open-source datasets and benchmarks where appropriate, and raise the bar for data and evaluation rigor across the team"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=auPJasBahYWrc03iAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCQBBEsc0nWG1jI5oTxUarkKhExCZgK5uwXE4uu8ftFfkoP9KzmerNmym-i-LaETuJ0BAFeBBGdmzhwtYxUdxALToJHBroAiaHHrZwlx40k8MIwnATsZ6W5zGloCdjVH1pNWV4KAeZjDD1MpuP9PqPt44YKXhM9N4fd3MZ2K5Xz1fbtFUei0FirmavY-iQE0LtMWI-Uv0AAop8sK8AAAA&shmds=v1_Ac3VAowIo0hSp7G8jCMu_LoLm7fn3EBmvrcVVel1bKZcvClYPQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=auPJasBahYWrc03iAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.nvidia.com/careers/job/893397712585?domain=nvidia.com&hl=ru",
+      "job_title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
+      "description": "NVIDIA is at the heart of the AI revolution, and Physical AI is its next frontier: machines that perceive, reason about, and act in the three-dimensional world. NVIDIA Cosmos is our open platform of world foundation models for Physical AI, built to interpret images, video, and text and turn them into a structured understanding of a physical scene: motion, object interactions, geometry, and physical context. These models are the reasoning layer for robots, autonomous vehicles, and smart infrastructure.\n\nThe Cosmos Engineering team builds the foundational capabilities behind these models. We are hiring a Senior Deep Learning Engineer to own the data engine and end-to-end training verification behind the 3D spatial reasoning and perception capabilities of these models: 2D and 3D grounding, metric geometry, spatial reference frames, cross-view correspondence, and embodied spatial reasoning. You will decide what the model learns geometry from, prove that it learned it, and work directly with research scientists in Cosmos Lab to turn 3D research hypotheses into measurable capability in shipped models. If you believe frontier model quality is won or lost in the data and the evaluations, this is the seat where that belief does the most work.\n\nWhat you'll be doing:\n\n  * Own the 3D data engine for Cosmos spatial reasoning: source, curate, filter, and balance large-scale real-world image and video corpora into vision-language training data with the coverage and diversity that spatial understanding demands.\n\n  * Build the annotation and auto-labeling pipelines that produce 3D-grounded supervision at scale, camera-relative 3D boxes, referring and spatial question answering, free space and reachability, ego-, world-, and object-centric reference frames, cross-view correspondence, camera motion, distance and size, and chain-of-thought traces, validated by programmatic and model-based critics.\n\n  * Own data quality end to end: semantic deduplication, automated quality scoring for faithfulness, completeness, and correctness, coverage analysis across scene types and reference frames, and the sampling strategies that keep pre-training and supervised fine-tuning mixtures balanced.\n\n  * Verify end-to-end model training: run and validate full pre-training and supervised fine-tuning pipelines, guard reproducibility, catch data and checkpoint regressions, diagnose throughput and loss anomalies, and attribute capability changes back to the specific data and recipe decisions that caused them.\n\n  * Build and operate the 3D and spatial evaluation suite, public benchmarks such as CV-Bench, BLINK, RefSpatial, VSI-Bench, SPAR-Bench, and RoboSpatial, NVIDIA's VANTAGE-Bench for real-world fixed-camera video understanding, and in-house benchmarks you design with continuous evaluation and full traceability from every reported score back to the exact weights, inputs, configuration, and evaluation code.\n\n  * Partner closely with Cosmos Lab research scientists: translate 3D research hypotheses into dataset and ablation experiments, run them at scale, and feed honest results back into recipe and architecture decisions.\n\n  * Operate on large multi-node GPU clusters, tuning data throughput, sharding, and dataloader performance so that data is never the bottleneck on a long training run.\n\n  * Ship the results into Cosmos releases, open-source datasets and benchmarks where appropriate, and raise the bar for data and evaluation rigor across the team.\n\n\n\n\nWhat we need to see:\n\n  * MS or PhD in Computer Science, Electrical/Computer Engineering, Robotics, or a related field, or equivalent experience.\n\n  * 12+ years of proven experience building deep learning systems in Python with PyTorch or JAX on Linux.\n\n  * Deep expertise in 3D computer vision, multi-view geometry, structure-from-motion or SLAM, depth and camera pose estimation, point cloud processing, or 3D reconstruction with the practical ability to produce and validate 3D ground truth at scale, not just consume it.\n\n  * Hands-on experience with vision-language models, including building the training data and evaluations that measurably improve visual grounding and reasoning quality.\n\n  * Demonstrated experience building large-scale multimodal data pipelines: distributed video and image processing, deduplication, captioning and annotation, automated quality metrics, and dataset versioning.\n\n  * Experience running and validating large model training on multi-GPU, multi-node clusters, with working knowledge of distributed training and sharding strategies such as data, tensor, and pipeline parallelism or FSDP.\n\n  * Rigorous evaluation methodology: designing benchmarks that resist gaming, building clean ablations, and reading results honestly enough to kill your own ideas.\n\n  * Excellent written and verbal communication, with a track record of partnering effectively with research scientists and translating research direction into engineering execution.\n\n\n\n\nWays to stand out from the crowd:\n\n  * PhD and/or publications at CVPR, ICCV, ECCV, NeurIPS, ICLR, or CoRL in 3D vision, multimodal learning, or embodied AI.\n\n  * Experience curating web-scale or petabyte-scale video corpora, and building the distributed processing infrastructure behind it using Ray, Spark, Slurm, or similar.\n\n  * Familiarity with 3D foundation models and modern auto-labeling techniques for geometry, camera estimation, and correspondence.\n\n  * Experience with vision-language model post-training, supervised fine-tuning, chain-of-thought data design, reward modeling, or reinforcement learning with verifiable rewards applied to reasoning quality.\n\n  * Experience building evaluation infrastructure and harnesses such as VLMEvalKit, including leaderboards, dashboards, and example-level failure inspection.\n\n\n\n\n  \nWith competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most forward-thinking and versatile people in the world working with us, and our engineering teams are growing fast in some of the most impactful fields of our generation: Deep Learning, Artificial Intelligence, and Physical AI. If you're a creative engineer who enjoys autonomy and shares our passion for technology, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 224,000 USD - 356,500 USD.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until September 19, 2026.\n\nThis posting is for an existing vacancy. \n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+      "apply_options": [
+        {
+          "title": "NVIDIA Careers",
+          "link": "https://jobs.nvidia.com/careers/job/893397712585?domain=nvidia.com&hl=ru&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=f3aebffc5d6c40a2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/nvidia/Job/Senior-Deep-Learning-Engineer,-Cosmo-3D-Spatial/-in-Santa-Clara,CA?jid=f5bcaa59aa95f931&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-deep-learning-engineer-cosmo-3d-spatial-at-nvidia-4467135452?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mediabistro",
+          "link": "https://www.mediabistro.com/jobs/3543075682-senior-deep-learning-engineer-cosmo-3d-spatial?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Institute For Performance And Learning Career Center",
+          "link": "https://careers.performanceandlearning.ca/job/senior-deep-learning-engineer-cosmo-3d-spatial-santa-clara-ca-c482a944177e059f30798381d4bc69a1b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-deep-learning-engineer-cosmo-3d-spatial-santa-clara-ca--0ce1ba06-ec34-4ef6-86aa-bc041d2d8538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/senior-deep-learning-engineer-cosmo-3d-spatial-santa-clara-ca--0ce1ba06-ec34-4ef6-86aa-bc041d2d8538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGVlcCBMZWFybmluZyBFbmdpbmVlciwgQ29zbW8gM0QgU3BhdGlhbCIsImNvbXBhbnlfbmFtZSI6Ik5WSURJQSBDb3Jwb3JhdGlvbiIsImh0aWRvY2lkIjoiYXVQSmFzQmFoWVdyYzAzaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdVWllibG8yY1hCT09YSlRRWGRpY1hRNE5UZE9PRTgxZVVGc2RYaDZXWGxJU2xSVmVHTTVNMDEyWjBKVFJqTk9SazFmV0VGeGJWbHpka1UzTURRM2QyOXVVWEp6VlV4Q2JXZEpVWFp2YzJoWmN5MXBXRmRKT0dSMWMxZEVaM2RLV0ZWUVNIQjZXa28zVVcxU1MyOVdNMjFoTm1aVE5reDFXRlZPVXpSeE1rOXROakYzTkc4U0YzTlJhbXhoZFRZNFRUaHRVRGRPV1ZCMGNWUmFMVUV3R2lKQlNFNHdSVGRJWTJKQ2JtUnFRekpTVmpWMmJFNTBjRVpqV0VkUFFVMWpVWEYzIiwiZmN2IjoiMyIsImZjX2lkIjoiYXVQSmFzQmFoWVdyYzAzaUFBQUFBQT09In0="
+    },
+    {
+      "title": "Deep Learning Engineer",
+      "company_name": "Hayden AI",
+      "location": "San Francisco, CA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for someone who has familiarity with or growing expertise in at least one of the verticals below — depth in a specific area is valued but not required on day one",
+            "3D vision models to predict depth and 3D structure,",
+            "Video/temporal behavior models to predict intent,",
+            "Deep understanding of Vision language models and hands-on experience fine tuning them,",
+            "Deep understanding of foundation models in perception",
+            "Deep knowledge of Nvidia edge device stack for running ML models and cuda know-how in terms delivering highly optimized models",
+            "The qualifications below outline the experience and skills most relevant to success in this role",
+            "We recognize that skills and potential come in many forms, and we welcome diverse experiences that advance our mission",
+            "Experience: 1-2 years experience building and deploying machine learning models for perception in production settings",
+            "Core Skills: Solid hands-on experience designing, training, and evaluating machine learning models for perception",
+            "Demonstrated ability to independently build ML pipelines and deploy models to cloud environments (AWS, GCP, or Azure); familiarity with MLOps practices including experiment tracking, model versioning, and automated workflows",
+            "Hands-on experience in PyTorch, Python, and related skills",
+            "Personal Attributes:Good communicator, self starter and ability to collaborate with others, quick learner who can adapt to a fast paced startup culture",
+            "Education: Bachelors or Masters in Computer Science or related field",
+            "Nice to Have: Experience working in perception problems in self driving car companies that aligns closely with the work of this team"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$161,637 – $175,000",
+            "Offers Equity",
+            "Offers Bonus",
+            "We determine fair compensation for each position by considering market rates, qualifications, experience, and location",
+            "This job posting reflects a salary range based on different levels within the position, which are primarily determined by location",
+            "Keep in mind that salary is just one piece of Hayden's total compensation package",
+            "We also offer equity and a company-wide bonus plan",
+            "Additional benefits are shared as part of this job posting",
+            "There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more!)",
+            "Options for medical, dental, and vision coverage for employees and dependents (for US employees)",
+            "Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)",
+            "401(k) with 3% company matching",
+            "Unlimited PTO",
+            "Daily catered lunches in our San Francisco office",
+            "Compensation Range: $161,637 - $175,000"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The team is responsible for building and maintaining advanced models that are able to perceive the world and the knowledge produced by the models is used downstream to implement various customer use-cases",
+            "As a Deep Learning Engineer at Hayden, you will make key contributions towards building foundational AI capabilities for Hayden that will enable solving complex problems for Hayden AI Customers",
+            "In this role, you will build, train, evaluate and deploy state of the art ML models in production at scale",
+            "You will report into the Director of AI within the Perception Org and work closely with other engineering as well as product teams to deliver value to Hayden AI customers",
+            "Come up with solutions to complex problems in perception using deep learning",
+            "Articulate ideas both verbally and in written form culminating in clear design and project plan docs for their work",
+            "Contribute to team roadmap and planning",
+            "Work with cross functional teams across the company and contribute towards delivery of end to end solutions for the customer"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=4uZJTICk4ogUYrQoAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIOw7CMAwAULH2CAzIM6IJQmKBqeKP2DhA5QYrCQp2FGcod-DQwPKG13wmTbsnynAjLBzZw4F9ZKICLVxlAP29CyAMJxGfaLoNtWbdWKuajNeKNTrj5GWFaZDRPmXQP70GLJQTVupX6-VoMvv57IzvBzF0F4gMd2Q4FmQX1ckCdt0XNKE_7I8AAAA&shmds=v1_Ac3VAozmJ9mAmTyVZyYAecPv4cKnBFfZS5n3yw6Xb1IdA851bg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=4uZJTICk4ogUYrQoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAAb1BMVEX___-8yf9Gc_-uvv8wZ_9agP-svP_H0v8AT__2-P8AU__h5_82av_6-_8ATP91k_-3xf-br_9Se_8ARP9Md_9liP88bf8hX_-Cnf_Z4P8ASP8TWv_U3P_y9P-Qp_96l__N1__o7f-ktv9ujv8pY_9jdvQsAAABLUlEQVQ4je2TW4-DIBCFD6IiWOWmeL9V__9vLHb70HabJjW7bz0PJMycbwgzAHz1L-IHOWOL7AjHtuFEj4AkQKTQzx-f6kEwIbr202M9mFoFzO28b9mCgTw6svVhyxW_2jxYT3tgLPf1pNDkT6B9uEZsz0ChrneMAclZuIcDhlQgdVVdsxVEohS1wGK6GmwNwsY79Al7W25gm_6ApqqqDZvmUQnr82PEtUBIEWnSLaPZy3bpHZjcwIDyuYPlIBHWs4Ah4HmWlFGpfYQF0JsMxxegI2gSFFPvvE1IaNdPCYweaKoMmEMX99TX-wWOPZYJgyypBnLfaB3RCVltRvQazThIb5KDnp_BezXi7Ry3zPnZJyx2zyn1_k0U1vk5xW3O3tpeaLiu2aEv8tXf6gLzERDFd9tjhgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "161,637–175,000 a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=94514612097ae568",
+      "job_title": "Deep Learning Engineer",
+      "description": "Location\n  San Francisco HQ Office\n\n\n \n \n  Employment Type\n  Full time\n\n\n \n \n  Location Type\n  Hybrid\n\n\n \n \n  Department\n  Research & DevelopmentPerception\n\n\n \n \n  Compensation\n  \n   $161,637 – $175,000 • Offers Equity • Offers Bonus\n  \n  \n   We determine fair compensation for each position by considering market rates, qualifications, experience, and location. \n\n\n     This job posting reflects a salary range based on different levels within the position, which are primarily determined by location. Your interview performance will help us determine your base salary offer within this range. \n\n\n     Keep in mind that salary is just one piece of Hayden's total compensation package. We also offer equity and a company-wide bonus plan. Additional benefits are shared as part of this job posting.\n\n\n   \n\n\n   Benefits and Perks\n   There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more!)\n\n\n   \n    \n     Options for medical, dental, and vision coverage for employees and dependents (for US employees)\n\n\n    \n     Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)\n\n\n    \n     401(k) with 3% company matching\n\n\n    \n     Unlimited PTO\n\n\n    \n     Daily catered lunches in our San Francisco office\n\n\n\n   \n   \n\n     At Hayden AI, we are committed to creating an inclusive and diverse workplace where everyone is treated with respect and dignity. We believe that our differences make us stronger and drive innovation. As an equal opportunity employer, we do not discriminate against any employee or applicant based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected status. We are dedicated to fostering a work environment that celebrates diversity and ensures that every individual has the opportunity to contribute to our mission and achieve their full potential. \n\n\n     Please do not forward resumes to our jobs alias, Hayden AI employees or any other company location. Hayden AI is not responsible for any fees related to unsolicited resumes.\n\n\n  \n \n\n\n\n\n \n  About Us\n  At Hayden AI, we are on a mission to harness the power of computer vision to transform the way transit systems and other government agencies address real-world challenges.\n\n\n  From bus lane and bus stop enforcement to transportation optimization technologies and beyond, our innovative mobile perception system empowers our clients to accelerate transit, enhance street safety, and drive toward a sustainable future.\n\n\n  About the Deep Learning Team\n  The Deep learning team’s work is at the crux of Hayden AI’s solutions to its customers. The team is responsible for building and maintaining advanced models that are able to perceive the world and the knowledge produced by the models is used downstream to implement various customer use-cases. The team runs a number of models both in the cloud as well as on the edge device serving different scenarios. The team also works closely with the platform team to build out Hayden AI’s MLOps infrastructure to achieve better scale and reliability.\n\n\n  \n\n  \n  \n  \n  About the Role\n  As a Deep Learning Engineer at Hayden, you will make key contributions towards building foundational AI capabilities for Hayden that will enable solving complex problems for Hayden AI Customers. In this role, you will build, train, evaluate and deploy state of the art ML models in production at scale. You will report into the Director of AI within the Perception Org and work closely with other engineering as well as product teams to deliver value to Hayden AI customers. We are looking for someone who has familiarity with or growing expertise in at least one of the verticals below — depth in a specific area is valued but not required on day one.\n\n\n  \n   \n    \n     3D vision models to predict depth and 3D structure,\n\n\n   \n   \n    \n     Video/temporal behavior models to predict intent,\n\n\n   \n   \n    \n     Deep understanding of Vision language models and hands-on experience fine tuning them,\n\n\n   \n   \n    \n     Deep understanding of foundation models in perception.\n\n\n   \n   \n    \n     Deep knowledge of Nvidia edge device stack for running ML models and cuda know-how in terms delivering highly optimized models\n\n\n   \n  \n  This position is based in San Francisco and follows a hybrid schedule with at least 3 days in-office per week.\n\n\n  \n\n\n  Key Responsibilities\n  Below are your primary responsibilities. These represent the core areas where you’ll make an impact. As part of a rapidly evolving team, we look forward to your impact expanding over time.\n\n\n  \n   \n    Come up with solutions to complex problems in perception using deep learning.\n\n\n   \n    Articulate ideas both verbally and in written form culminating in clear design and project plan docs for their work\n\n\n   \n    Contribute to team roadmap and planning\n\n\n   \n    Work with cross functional teams across the company and contribute towards delivery of end to end solutions for the customer\n\n\n  \n  \n\n\n  Required Qualifications\n  The qualifications below outline the experience and skills most relevant to success in this role. We recognize that skills and potential come in many forms, and we welcome diverse experiences that advance our mission.\n\n\n  \n   \n    Experience: 1-2 years experience building and deploying machine learning models for perception in production settings.\n\n\n   \n    Core Skills: Solid hands-on experience designing, training, and evaluating machine learning models for perception. Demonstrated ability to independently build ML pipelines and deploy models to cloud environments (AWS, GCP, or Azure); familiarity with MLOps practices including experiment tracking, model versioning, and automated workflows. Hands-on experience in PyTorch, Python, and related skills.\n\n\n   \n    Personal Attributes:Good communicator, self starter and ability to collaborate with others, quick learner who can adapt to a fast paced startup culture\n\n\n   \n    Education: Bachelors or Masters in Computer Science or related field\n\n\n   \n    Nice to Have: Experience working in perception problems in self driving car companies that aligns closely with the work of this team.\n\n\n  Compensation Range: $161,637 - $175,000",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=94514612097ae568&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/haydenai/f9da378a-156e-4fa4-8d8c-34580a05b4c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/deep-learning-engineer-haydenaitechnologies-san-francisco-ca_87385728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/7d19cb53-d195-491c-9785-89a909e99fe3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Hayden-AI/Job/Deep-Learning-Engineer/-in-San-Francisco,CA?jid=409e5dad97b2b020&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/deep-learning-engineer-hayden-ai-8282265?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/intern-deep-learning-engineer-bot-auto-JV_IC1147401_KO0,29_KE30,38.htm?jl=1010188355940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Climatebase",
+          "link": "https://climatebase.org/job/73872203/deep-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiSGF5ZGVuIEFJIiwiaHRpZG9jaWQiOiI0dVpKVElDazRvZ1VZclFvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2pOcU1FeFhhRGxqVjJvNWVuZEZTRzFHVjFKMGJYaFVTMk52ZDI1YVRrb3RTV3BQTkVWVGEzQm1iVFEwVVd4R01IaFVXRzV2TFZVNWVXUnpNamcyVFVsck9WQmxRV1JIT1hJeE9HVlFlUzE1WDNkTmREaFZiRjk0YUdSbVVXNXdNRU5OWjFOMGRrNVplVGM1YjFaNGVHb3RkR2sxYVhWSWF6WndkRmM1UkhOUFVuWnlWbElTRjNOUmFteGhkVFk0VFRodFVEZE9XVkIwY1ZSYUxVRXdHaUpCU0U0d1JUZEZaazF4VFd0cU5qSklRbFJGWDFWa1NUTXpaRTk2UlVaS01EUjMiLCJmY3YiOiIzIiwiZmNfaWQiOiI0dVpKVElDazRvZ1VZclFvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Applied Deep Learning Research Engineer",
+      "company_name": "Opeongo-ai",
+      "location": "Richmond, VA (+1 other)",
+      "via": "Talent.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience or demonstrable ability is required in each of the following",
+            "Candidates are assessed on the",
+            "substance of their work rather than on formal credentials alone",
+            "– Command of modern deep learning — architectures, training dynamics, optimization, and evaluation",
+            "– Proficiency in Python and PyTorch or JAX, with the engineering ability to build experimental",
+            "infrastructure independently",
+            "– Judgment to own research direction rather than only execution — defining a problem, designing the",
+            "– Ability to communicate clearly with scientists who are not machine learning specialists",
+            "– Capacity to acquire domain knowledge in an unfamiliar field, and the rigor to do so properly",
+            "Domain experience in the life sciences is an advantage rather than a requirement; the necessary",
+            "– Experience with transformers, graph neural networks, diffusion or generative models applied to",
+            "structured scientific data",
+            "– Multimodal or cross-modal modeling, including work on modalities with mismatched scale and noise",
+            "– Research experience at a frontier AI lab or a leading AI-for-science organization",
+            "– A PhD in machine learning, computer science, or a related field",
+            "– Exposure to biological, biomedical, or other high-noise experimental data",
+            "– Open-source authorship or maintenance",
+            "– Experience in a startup or early-stage research environment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "– Own research threads on the architecture of the Meshwork Virtual Machine — multimodal",
+            "representation learning, representation of heterogeneous biological measurements, simulation of",
+            "dynamics, and perturbation response prediction",
+            "– Design and run training runs and ablations, and draw conclusions that survive scrutiny",
+            "– Own evaluation that distinguishes real capability from leakage, batch artifacts, and wishful metrics",
+            "– Bring methods from the wider machine learning literature into a domain that has not yet applied them",
+            "– Build the training and evaluation infrastructure the research requires",
+            "– Develop data pipelines that turn heterogeneous experimental data into model-ready inputs",
+            "– Own reproducibility for your work — experiment tracking, seeds, environments, and results others",
+            "can rebuild",
+            "– Make and defend practical decisions about compute, scale, and where efficiency actually matters",
+            "COLLABORATION AND SCIENTIFIC CONTRIBUTION",
+            "– Work directly with the biological team to turn biological questions into model questions, and results",
+            "– Learn enough of the underlying biology to ask good questions and to recognize when a result is",
+            "biologically implausible– Contribute to technical documentation, internal reports, and investor-facing scientific material",
+            "– Share work externally where it serves the platform — publications, preprints, and open source",
+            "– Hands-on experience training and evaluating large models on real data, beyond fine-tuning existing",
+            "– Foundation model work — pre-training, adaptation, or rigorous evaluation"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=EHOSll-jQWKMz7WtAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3IsQrCMBCAYVz7CJ1uFtuI4KJTwSKIICi4ljQ9kpP07kgy9HF8VBVcfj7-6r2q-gcySYJONRJOcEJUuKJNTOzhjvlLF6BnT4yYoIGLjPC_wnAW8RHrYyhF88GYnGPrc7GFXOtkNsI4ymJeMuZfhhxsQo224LDbb5dW2a_rm6Kwl8YSEMOdXJiFpw08uw-5-DmBowAAAA&shmds=v1_Ac3VAoxeHEvF-tWQR4rQbt17a-tFJk_NJtP5rwHaHMVyqtO6aQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=EHOSll-jQWKMz7WtAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.talent.com/view?id=643002035118935331",
+      "job_title": "Senior Applied Deep Learning Research Engineer",
+      "description": "About Opeongo  \n\n Opeongo is a seed-stage AI company building the Meshwork Virtual Machine — a compound foundation model of the extracellular matrix (ECM) remodeling network, and the ECM layer of the digital human. It learns shared representations of tissue state from multimodal experimental data, simulates remodeling dynamics, and predicts response to perturbation. \n\n We are hiring a Senior Applied Deep Learning Research Engineer to work on the model itself — the \n\n architecture, training, and evaluation of the Meshwork Virtual Machine. \n\n What you will work on  \n\n FOUNDATION MODEL RESEARCH  \n\n – Own research threads on the architecture of the Meshwork Virtual Machine — multimodal \n\n representation learning, representation of heterogeneous biological measurements, simulation of \n\n dynamics, and perturbation response prediction \n\n – Design and run training runs and ablations, and draw conclusions that survive scrutiny \n\n – Own evaluation that distinguishes real capability from leakage, batch artifacts, and wishful metrics \n\n – Bring methods from the wider machine learning literature into a domain that has not yet applied them \n\n ENGINEERING AND INFRASTRUCTURE  \n\n – Build the training and evaluation infrastructure the research requires \n\n – Develop data pipelines that turn heterogeneous experimental data into model-ready inputs \n\n – Own reproducibility for your work — experiment tracking, seeds, environments, and results others \n\n can rebuild \n\n – Make and defend practical decisions about compute, scale, and where efficiency actually matters \n\n COLLABORATION AND SCIENTIFIC CONTRIBUTION  \n\n – Work directly with the biological team to turn biological questions into model questions, and results \n\n back into experiments \n\n – Learn enough of the underlying biology to ask good questions and to recognize when a result is \n\n biologically implausible– Contribute to technical documentation, internal reports, and investor-facing scientific material \n\n – Share work externally where it serves the platform — publications, preprints, and open source \n\n Profile  \n\n Experience or demonstrable ability is required in each of the following. Candidates are assessed on the \n\n substance of their work rather than on formal credentials alone. \n\n REQUIREMENTS  \n\n – Command of modern deep learning — architectures, training dynamics, optimization, and evaluation \n\n – Hands-on experience training and evaluating large models on real data, beyond fine-tuning existing \n\n checkpoints \n\n – Proficiency in Python and PyTorch or JAX, with the engineering ability to build experimental \n\n infrastructure independently \n\n – Judgment to own research direction rather than only execution — defining a problem, designing the \n\n experiment that tests it, and determining when a result is sound \n\n – Ability to communicate clearly with scientists who are not machine learning specialists \n\n – Capacity to acquire domain knowledge in an unfamiliar field, and the rigor to do so properly \n\n ADVANTAGES  \n\n Domain experience in the life sciences is an advantage rather than a requirement; the necessary \n\n biological grounding is developed in role. \n\n – Experience with transformers, graph neural networks, diffusion or generative models applied to \n\n structured scientific data \n\n – Foundation model work — pre-training, adaptation, or rigorous evaluation \n\n – Multimodal or cross-modal modeling, including work on modalities with mismatched scale and noise \n\n – Research experience at a frontier AI lab or a leading AI-for-science organization \n\n – A PhD in machine learning, computer science, or a related field \n\n – Exposure to biological, biomedical, or other high-noise experimental data \n\n – Open-source authorship or maintenance \n\n – Experience in a startup or early-stage research environment \n\n How to apply  \n\n Send a CV and a brief cover note to . Links to publications, preprints, or code are \n\n preferred over summaries of prior work. \n\n Opeongo is an equal opportunity employer committed to fostering an inclusive workspace.",
+      "apply_options": [
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643002035118935331&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/cd230dc1-7f1e-42a6-9174-7e7b135c18ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXBwbGllZCBEZWVwIExlYXJuaW5nIFJlc2VhcmNoIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiT3Blb25nby1haSIsImh0aWRvY2lkIjoiRUhPU2xsLWpRV0tNejdXdEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYcEhTVVY2YWpGNFdXeHNRV0ZtYlhSNGRqUlhUMmhRWDA0M2F6bFhTVEJtYTNWR01qTTNaRFpCWVhoS1FsTlZSM0ZWTVU1dFdWbzNaMWROU21NMlZFUjRRMU5DWTJwZk16SjZTMnRuYzFwZlh6TXlWV05FT0RoUmRGTndlbVYzVFdSbFdtRjZhMWRDTld4eVIxaDBWV1JGYkdWR2NsaFlhVlpJTmxoT01FTnRVVk0xYVVZU0YzTlJhbXhoZFRZNFRUaHRVRGRPV1ZCMGNWUmFMVUV3R2lKQlNFNHdSVGRJVjFKNVQxSmlXRzlOVURFNGQxbzFNVkpUYVdSNlJFbExhbFJSIiwiZmN2IjoiMyIsImZjX2lkIjoiRUhPU2xsLWpRV0tNejdXdEFBQUFBQT09In0="
+    },
+    {
+      "title": "Deep Learning Engineer | RD5003",
+      "company_name": "Convai Technologies Inc.",
+      "location": "Mountain View, CA",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Familiarity with batch size, precision modes, ONNX, Tensor parallel, Pipeline parallel is required",
+            "Bachelor's in Computer Science or any related technical field",
+            "Minimum 5+ years of experience in software development and 3+ years in ML and NLP - ideally with the latest transformer based models like GPT3, T5, etc",
+            "Understanding of modern techniques in Machine Learning, Deep Neural Networks, Natural Language Processing, or Speech Recognition",
+            "Strong programming knowledge in Python and various ML frameworks (Pytorch)",
+            "Strong computer science fundamentals - algorithms and data structures, computational complexity, parallel and distributed computing, system software",
+            "Algorithms, Artificial Intelligence (AI), Computer Programming, Computer Science, Computer Software, Content Development, Data Management, Data Modeling, Data Structures, Deep Learning, Distributed Computing, Machine Learning, Modeling Languages, Natural Language Processing (NLP), Parallel Computing, Product Development, Python Programming/Scripting Language, Software Development, Speech Recognition, Training Data Sets"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your role will be to lead the development of generative AI products that incorporate these models to create advanced artificial characters",
+            "Using ML/AI algorithms to support content creation and provide clients with various feature support",
+            "Training, fine-tuning and deploying large transformer based models",
+            "Developing data pipelines for model datasets",
+            "Optimizing DL models for inference"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=ZUBpD3eh8Zx0AtEjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7CE43i02LUgedpBVRdBFxLWk4kki8C72oHXwcH9S6_HzDn30n2apBjHBC3ZMnCzuynhB7-MClqcpyCTkcuQMZB-OACfbMNuB041KKsi4KkaCsJJ28UYYfBRN2PBR37uSfVpzuMQadsF1U5aAi2VleM720hysaRxzYehQ4kFHgCc78pKRH3Dy-51Bvf3EmkbenAAAA&shmds=v1_Ac3VAozOc8IUIuDEDmFr6bS-OFfsExFL24KSEWP24PBBQD0gcQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=ZUBpD3eh8Zx0AtEjAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.monster.com/job-openings/deep-learning-engineer-rd5003-mountain-view-ca--56eeea24-ea65-40b9-a8c7-b58b2d5a1a6d",
+      "job_title": "Deep Learning Engineer | RD5003",
+      "description": "We seek a highly experienced Deep Learning Engineer who has worked extensively with Large Language Models. Your role will be to lead the development of generative AI products that incorporate these models to create advanced artificial characters.\nResponsibilities\nUsing ML/AI algorithms to support content creation and provide clients with various feature support.\nTraining, fine-tuning and deploying large transformer based models.\nDeveloping data pipelines for model datasets.\nOptimizing DL models for inference. Familiarity with batch size, precision modes, ONNX, Tensor parallel, Pipeline parallel is required.\nSkills\nBachelor's in Computer Science or any related technical field.\nMinimum 5+ years of experience in software development and 3+ years in ML and NLP - ideally with the latest transformer based models like GPT3, T5, etc.\nUnderstanding of modern techniques in Machine Learning, Deep Neural Networks, Natural Language Processing, or Speech Recognition.\nStrong programming knowledge in Python and various ML frameworks (Pytorch)\nStrong computer science fundamentals - algorithms and data structures, computational complexity, parallel and distributed computing, system software.\nUnderstanding of Nvidia SDKs like Triton Inference Server, Megatron, TensorRT, etc is an added bonus.\nHow to Apply\nDoes this role sound like a good fit? Fill out the details and we shall get back to you.\n\n\nSkills:\nAlgorithms, Artificial Intelligence (AI), Computer Programming, Computer Science, Computer Software, Content Development, Data Management, Data Modeling, Data Structures, Deep Learning, Distributed Computing, Machine Learning, Modeling Languages, Natural Language Processing (NLP), Parallel Computing, Product Development, Python Programming/Scripting Language, Software Development, Speech Recognition, Training Data Sets\n\n\nConvai Technologies Inc.",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/deep-learning-engineer-rd5003-mountain-view-ca--56eeea24-ea65-40b9-a8c7-b58b2d5a1a6d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIHwgUkQ1MDAzIiwiY29tcGFueV9uYW1lIjoiQ29udmFpIFRlY2hub2xvZ2llcyBJbmMuIiwiaHRpZG9jaWQiOiJaVUJwRDNlaDhaeDBBdEVqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVZwWk5uZFpTeTEyV2xwbWVtMU9iSGRUWkRGMVFWZEliWGhMY2s1QmNWZFVhREZVVGxoM1RYZDBNblUxTm05b1UzWmpka3AyUkRNeFpsZG5NVzV2VTNKMlZIa3lkekZ1WjBseFpISm1SVVV3U1RBeGNUTnZhRlZNZGxVMmNXOURWek5mUVY5VGIwSTJabEpSZVU1SlozQkpUa1J4U2xsR2RGRTJPRTg0VVcxaVJEZFpRMllTRjNOUmFteGhkVFk0VFRodFVEZE9XVkIwY1ZSYUxVRXdHaUpCU0U0d1JUZEdkME42TFRkek1tUmZWVlJpYkUxSU1EZElPVFI2TjI5eU4ydDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJaVUJwRDNlaDhaeDBBdEVqQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxXbGxYUm1OT1gyZ3pOMlJtTjNaRFRHbE1ZVWQwV0RWd1JUWlBZWGd0YTNsSFJIVnJVVkJFZUdsWU0wTTVSSGx5TjJwc05tUldNM1ZFTnpWRmVHWklUSFpZY1V0UFRqRkRZbUp6TUZsS1JqbEdha2swVG5KNVIwb3pYMFZJUVdOemEzTTVjV2x6V1ZsYVdrUXRNa3AxV1d0Q09FMWlibGMwZVdnNFVYVm1ZekZwTlRjMk1rNUpRakpaWTE5TldUbFpNM1JtWkU4eWNreG5UbnBsWVVoYU1saG5kSEF4WkZOZmQyaENZbVV4UXpkcWQzVndNRmxzTjJWbWVWQTNVWHBrY2psVloydFZhVlpoVTBkc01HSTFVazFrU1VZd1FYUnljRTlqTjJkWk5WQXlXbVZHVVVwcU5YZzNkbWMxT1RKaldHdzRTVTUwVUhaeE9WODJhM0E0VERoYVUxSmFVMlJzU1dsdmFWZHZObEoxWDNoeWNETm5TRkJSWDNSSU5HeFhPVU0wT0ROS01XbFNhMnN4YUMxWFJEUk1XbUZNVVVWM1YydG9UamwyYkV4RFlVbHBlbFV0Y0RSclVrZENlWEZLT0hWalREY3lVVVZGWTJOd09VNTJWeTEyZDJabFR6ZHRRMVpPY1djd2FIcHpFaGR6VVdwc1lYVTJPRTA0YlZBM1RsbFFkSEZVV2kxQk1Cb2lRVWhPTUVVM1IwUjJTVjk1ZW01WlNFZFhOamRzWkhWeE16Vm5TM3AxZVdSTWR3IiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxXbGxYUm1OT1gyZ3pOMlJtTjNaRFRHbE1ZVWQwV0RWd1JUWlBZWGd0YTNsSFJIVnJVVkJFZUdsWU0wTTVSSGx5TjJwc05tUldNM1ZFTnpWRmVHWklUSFpZY1V0UFRqRkRZbUp6TUZsS1JqbEdha2swVG5KNVIwb3pYMFZJUVdOemEzTTVjV2x6V1ZsYVdrUXRNa3AxV1d0Q09FMWlibGMwZVdnNFVYVm1ZekZwTlRjMk1rNUpRakpaWTE5TldUbFpNM1JtWkU4eWNreG5UbnBsWVVoYU1saG5kSEF4WkZOZmQyaENZbVV4UXpkcWQzVndNRmxzTjJWbWVWQTNVWHBrY2psVloydFZhVlpoVTBkc01HSTFVazFrU1VZd1FYUnljRTlqTjJkWk5WQXlXbVZHVVVwcU5YZzNkbWMxT1RKaldHdzRTVTUwVUhaeE9WODJhM0E0VERoYVUxSmFVMlJzU1dsdmFWZHZObEoxWDNoeWNETm5TRkJSWDNSSU5HeFhPVU0wT0ROS01XbFNhMnN4YUMxWFJEUk1XbUZNVVVWM1YydG9UamwyYkV4RFlVbHBlbFV0Y0RSclVrZENlWEZLT0hWalREY3lVVVZGWTJOd09VNTJWeTEyZDJabFR6ZHRRMVpPY1djd2FIcHpFaGR6VVdwc1lYVTJPRTA0YlZBM1RsbFFkSEZVV2kxQk1Cb2lRVWhPTUVVM1IwUjJTVjk1ZW01WlNFZFhOamRzWkhWeE16Vm5TM3AxZVdSTWR3IiwiZmN2IjoiMyJ9&q=Deep+Learning+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Deep Learning Engineer",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:14:25.269979+00:00",
+    "request_fingerprint": "28becd4f55c6be6a670a719fad88565f22fd2e2a170f715e53a000c66ab78489",
+    "job_count": 10
+  }
+}

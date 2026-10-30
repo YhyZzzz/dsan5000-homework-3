@@ -1,0 +1,757 @@
+{
+  "search_metadata": {
+    "id": "6ae509f4395539fe4c7c4cdb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_3HbFjymxKTmMt3w7AhvihlCy4nq2Zyyz06Lwcj42F4/6ae509f4395539fe4c7c4cdb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_3HbFjymxKTmMt3w7AhvihlCy4nq2Zyyz06Lwcj42F4/6ae509f4395539fe4c7c4cdb.md",
+    "created_at": "2026-10-30 21:19:48 UTC",
+    "processed_at": "2026-10-30 21:19:48 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=AI+Solutions+Architect&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/_3HbFjymxKTmMt3w7AhvihlCy4nq2Zyyz06Lwcj42F4/6ae509f4395539fe4c7c4cdb.html",
+    "prettify_html_file": "https://serpapi.com/searches/_3HbFjymxKTmMt3w7AhvihlCy4nq2Zyyz06Lwcj42F4/6ae509f4395539fe4c7c4cdb.prettify",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "q": "AI Solutions Architect",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZVVJJYjBSNE0ydFZORmd3VUZGMmJEUnRTSE5UYkUxVk1uZ3Ria1pMVVhsQ1JuSlhlRGhZYmxreVRVdElVMHR1VFhRNWJqaEZaa3A2Ylc5TmF6aDRjblpCUTI1RWFuQktjakZ0YlRsaFYydGZabFF6TjNkQ2FUSkdaRGxSY214Qll6RjZTV2hHTUc1cWJsVlRNV0ZrZG5sU00wUmZNbU5pZG5wbldsSlVhMFkyZUVSRmNEbFFOazExTlhsU2ExOUlkRkZIV1dSMFlWSlBTMFZuTm13M1VYRndiRkJEWW13MVIyMW1TbEJsWlZwYWFrZEpSVTVwTFZGU09HUlVZblY0TFZWUmQxVjBNVlpyT0dkNVJHaDFaVUpSYTBVMFRVSk5WVzU2Wmt0ek5YRTRXRGxtU1d4bk1teE1NMmhNWlRKR1NGWnVjMnhxZUhWSFprWmliM290ZUhKSU5qUkxWbVZVTTBWSFVteHlWSEZGWTJKc2VERjNhVU5SVUdwdWVGWnBVVmRsWjBaZlp6Rm5WWFZqYURGTk9WRkVXVFpHUldneVprMXZWRTFzUm5aakxXaDZVekptV0V0SFlrOUhaMDlvVW5KTExYZFpOSGg2YlZVMU5Ua3pYMWh1YW1rellsRnBXRTVNZUhCMVpsVkhjVE42V2xkVFpYQkhRelZ0VW1GWWNGOHRaRlp1WW1aNVpIaGZTVTUzYjJaVFdGVXlaSE5IVDBOWlFucEhWbFJPTkhCaVVVWmZPSFpNU0RaemREVXlWbGN3U1cxWFowb3pVVU53ZFhSemNsRlBRbU5OVXpsNVFXNW1UVUozWDJGSllXODNlaTF3WlZFdFRtcExjMjVpWXpORlZ5MXJWVlZTV0ZFemVVeHpUazVMUkZoRFlrSjVXVUp4TlZJM1RYbE1XbEY2U0VsMVdtaG9SMDUxVXkxNE9YRm5YemwxWW5BNFgwMDNkR2x4V0cxcldETk5ja2hLV1ZCWFJuVlBUVVJaRWhjMGQyNXNZWEp1U1VwamFVdHJVRWxRYkdacGJIVkJSUm9pUVVoT01FVTNTRXN5TTNNelkwSjRXRFZ1UmpVd2RFVk5hbEJEVldKWldWQTVadyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Enterprise AI Solutions Architect",
+      "company_name": "TEKsystems",
+      "location": "Cedar Rapids, IA",
+      "via": "TEKsystems Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Engineering, Information Systems, Data Science, or a related field, or equivalent experience",
+            "Eight or more years of experience in enterprise architecture, solution architecture, platform architecture, software engineering, cloud engineering, or technology delivery",
+            "Experience designing and governing enterprise solutions across Microsoft 365, Power Platform, cloud, SaaS, data, integration, and enterprise application environments",
+            "Experience with Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Microsoft 365 Copilot extensibility, Power Platform, Power Automate, Dataverse, Teams, Outlook, SharePoint, Microsoft Graph, Azure services, or comparable AI and automation platforms",
+            "Experience creating architecture standards, reference architectures, design patterns, solution guardrails, and architecture review criteria",
+            "Strong understanding of identity and access management, data loss prevention, connector governance, API security, endpoint security, logging, monitoring, billing controls, and operational readiness",
+            "Strong understanding of responsible AI, AI governance, human oversight, content grounding, privacy, sensitive data handling, auditability, and compliance expectations",
+            "Experience designing integrations across APIs, Microsoft 365 services, enterprise applications, workflow platforms, data platforms, and knowledge repositories",
+            "Experience working within Agile, DevOps, SDLC, architecture governance, technology risk management, and change management practices",
+            "Strong communication, facilitation, analytical, and stakeholder management skills",
+            "Ability to explain complex architecture topics to both executive and technical audiences"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay and Benefits",
+            "The pay range for this position is $75.00 - $110.00/hr",
+            "Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors",
+            "Eligibility requirements apply to some benefits and may depend on your job",
+            "subject to specific elections, plan, or program terms",
+            "Medical, dental & vision",
+            "Critical Illness, Accident, and Hospital",
+            "401(k) Retirement Plan Pre-tax and Roth post-tax contributions available",
+            "Life Insurance (Voluntary Life & AD&D for the employee and dependents)",
+            "Short and long-term disability",
+            "Health Spending Account (HSA)",
+            "Transportation benefits",
+            "Employee Assistance Program",
+            "Time Off/Leave (PTO, Vacation or Sick Leave)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role will define the standards, design patterns, guardrails, and solution design practices needed to support secure, compliant, scalable, and policy-aligned adoption across the enterprise",
+            "The architect will partner with enterprise architecture, security, risk, compliance, privacy, data governance, platform, engineering, workforce technology, and business teams to ensure Copilot-based and Claude-based solutions are designed responsibly and operated effectively",
+            "This is a hands-on architecture leadership role focused on enabling business value while protecting enterprise data, enforcing governance expectations, and reducing delivery risk across a multi-vendor agentic AI landscape",
+            "Enterprise component standards for Microsoft Copilot Studio, Copilot Cowork, and Claude Cowork",
+            "Reference architecture for Copilot agents, Cowork-enabled workflows, Claude Cowork multi-step autonomous workflows, integrations, data access, and enterprise deployment",
+            "Reusable design pattern catalog for common agent, workflow, knowledge-grounding, approval, escalation, and integration scenarios",
+            "Solution design template and architecture review checklist for Copilot Studio, Copilot Cowork, and Claude Cowork implementations",
+            "Guardrails for security, privacy, data governance, responsible AI, connector usage, identity and access, auditability, monitoring, and operational readiness",
+            "Endpoint and desktop governance guidance for Claude Cowork, including device configuration, local file and application access boundaries, and managed deployment controls",
+            "Platform selection guidance that clarifies when to use Copilot Studio, Copilot Cowork, or Claude Cowork for a given business scenario",
+            "Environment, tenant, lifecycle management, deployment, and support model guidance for enterprise adoption",
+            "Decision records and exception-handling process for solution-specific architecture, security, or governance deviations",
+            "Executive-ready recommendations, roadmap input, and adoption guidance for scaling Copilot Studio, Copilot Cowork, and Claude Cowork across the enterprise",
+            "Define the enterprise architecture approach for Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Copilot agents, and related agentic AI capabilities",
+            "Create and maintain standards, design patterns, reference architectures, and guardrails for secure and governed adoption",
+            "Lead solution design for Copilot Studio, Copilot Cowork, and Claude Cowork implementations, ensuring each solution has clear business purpose, approved data sources, defined ownership, security controls, and measurable outcomes",
+            "Partner with Security, Risk, Compliance, Privacy, Legal, Data Governance, Workforce Technology, and platform administration teams to align solutions with enterprise policies and standards",
+            "Define guidance for knowledge sources, connectors, actions, prompts, approvals, grounding, monitoring, and human oversight",
+            "Shape environment strategy, data policies, application lifecycle management, deployment controls, usage visibility, billing controls, and operational support practices",
+            "Define endpoint governance, access controls, and usage policies for Claude Cowork, and support proof-of-concept evaluation and transition to production where approved",
+            "Establish architecture review criteria and reusable checklists for Copilot Studio, Copilot Cowork, Claude Cowork, and Copilot agent solutions",
+            "Provide hands-on architecture guidance to delivery teams from concept through design, build, test, deployment, and production readiness",
+            "Define integration patterns across Microsoft 365, Power Platform, Dataverse, SharePoint, Teams, Outlook, Microsoft Graph, Anthropic Claude, APIs, enterprise applications, workflow platforms, and knowledge repositories",
+            "Develop patterns for observability, audit trails, task execution visibility, quality evaluation, prompt testing, incident response, and continuous improvement",
+            "Evaluate emerging Microsoft Copilot, Copilot Studio, Copilot Cowork, Claude Cowork, Power Platform, Azure AI, Agent 365, and agentic AI capabilities for enterprise applicability",
+            "Facilitate architecture governance discussions and approvals, promoting reuse, consistency, policy alignment, and risk-based decision making",
+            "Communicate architecture decisions, risks, trade-offs, standards, and recommendations clearly to executive, business, architecture, engineering, and platform stakeholders",
+            "Mentor architects, makers, and engineering teams on enterprise-ready Copilot Studio, Copilot Cowork, and Claude Cowork design practices"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=wwhxfV3_PvhYAon_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CQ5ys2gjgiA6FSlS3dS9JOmRRNJcyJ1Qv8TfVZc3vOozq_ZtEiy5BEZoOrhTfEmgxNAU64OgFVjDhQww6t8AJTgTuYjzoxfJfFCKOdaORUuwtaVRUUJDk3qS4T89e10wRy3Yb3ebqc7JLReP9spvFhwZQoITDrrATecw8Aq65gs7S0G9mgAAAA&shmds=v1_Ac3VAozgzGh16zOO2n3l0YWxrWtfvb1GHdn1hTrKRJtnqNmrDg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=wwhxfV3_PvhYAon_AAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAq1BMVEX///8AAACZnqS6vcGxtbjx8vP7+/xfZm8ADCIoNEIQIzQAACBGT1qnq7GGjZbFyMzm6OmSl56Ah4/97dn50Kj0487///b/0Z7ynTTvgADFfyjo7fLfyqeajISVkY/wyJ7wo0v6iACKe2oAESoAAAs6RVFRWWRrcXo3lNAAdboAiMTauo5GVmrU6PIAeLkAf7vR1NdWiacfKzlJqNUhFh0AABl6sc+Yp7ADHC/6lxnjAAABXElEQVRIie2SaU/DMAyGHTdJl27OxTnGvZZyL5Rr//+X4W4IDQHbmBCf+qhRraiP/TYtQEdHR8c/s7W9s4G1u7c/HB6Mfu0dHh2fnJ6dw1iIUojqQjB10ddeCL9UvLy6Bri5hTof9Ko85r26rskUUIls+cS7+wkoE7jKBAIM+u1mYaSoPz2WvpqjyYMo2+5yJvaK6RhNM200AFkidshilrvMoqaAPqDmkvdBPz7NXudd5KjSmMFzAiVB8dxAoJ1MPNNa0Dlo5HxuNvTlFT7EedRGlaUCIlTkncOgJWbEi9uw7yiohczvE40x0UwhCeMTsBAUd0dyHErKudgOXxCzgoPnVVWZmA80UBMJrUoE7Y0HovU8kdouXC4/cgbVyke+p/0OekNXIp+m9gp8QkhceK9XR2UiBJtHjIqkjA5t5CuuI2bWS5e8A5t5F3hRLVf8jz9AawXt6Ojo+DveAN3PFOH/Up0dAAAAAElFTkSuQmCC27",
+      "extensions": [
+        "22 days ago",
+        "75–110 an hour",
+        "Contractor",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://careers.teksystems.com/ca/fr/job/JP-006316713/Enterprise-AI-Solutions-Architect",
+      "job_title": "Enterprise AI Solutions Architect",
+      "description": "Description\n\nThe Enterprise Microsoft Copilot Studio, Copilot Cowork, and Claude Cowork Architect will help the organization safely enable Microsoft Copilot Studio, Copilot Cowork, Claude Cowork (Anthropic), Copilot agents, and related agentic AI capabilities.\n\nThis role will define the standards, design patterns, guardrails, and solution design practices needed to support secure, compliant, scalable, and policy-aligned adoption across the enterprise.\n\nThe architect will partner with enterprise architecture, security, risk, compliance, privacy, data governance, platform, engineering, workforce technology, and business teams to ensure Copilot-based and Claude-based solutions are designed responsibly and operated effectively.\n\nThis is a hands-on architecture leadership role focused on enabling business value while protecting enterprise data, enforcing governance expectations, and reducing delivery risk across a multi-vendor agentic AI landscape.\n\nKey Deliverables\n\n\tEnterprise component standards for Microsoft Copilot Studio, Copilot Cowork, and Claude Cowork.\n\n\tReference architecture for Copilot agents, Cowork-enabled workflows, Claude Cowork multi-step autonomous workflows, integrations, data access, and enterprise deployment.\n\n\tReusable design pattern catalog for common agent, workflow, knowledge-grounding, approval, escalation, and integration scenarios.\n\n\tSolution design template and architecture review checklist for Copilot Studio, Copilot Cowork, and Claude Cowork implementations.\n\n\tGuardrails for security, privacy, data governance, responsible AI, connector usage, identity and access, auditability, monitoring, and operational readiness.\n\n\tEndpoint and desktop governance guidance for Claude Cowork, including device configuration, local file and application access boundaries, and managed deployment controls.\n\n\tPlatform selection guidance that clarifies when to use Copilot Studio, Copilot Cowork, or Claude Cowork for a given business scenario.\n\n\tEnvironment, tenant, lifecycle management, deployment, and support model guidance for enterprise adoption.\n\n\tDecision records and exception-handling process for solution-specific architecture, security, or governance deviations.\n\n\tExecutive-ready recommendations, roadmap input, and adoption guidance for scaling Copilot Studio, Copilot Cowork, and Claude Cowork across the enterprise.\n\nResponsibilities\n\n\tDefine the enterprise architecture approach for Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Copilot agents, and related agentic AI capabilities.\n\n\tCreate and maintain standards, design patterns, reference architectures, and guardrails for secure and governed adoption.\n\n\tLead solution design for Copilot Studio, Copilot Cowork, and Claude Cowork implementations, ensuring each solution has clear business purpose, approved data sources, defined ownership, security controls, and measurable outcomes.\n\n\tPartner with Security, Risk, Compliance, Privacy, Legal, Data Governance, Workforce Technology, and platform administration teams to align solutions with enterprise policies and standards.\n\n\tDefine guidance for knowledge sources, connectors, actions, prompts, approvals, grounding, monitoring, and human oversight.\n\n\tShape environment strategy, data policies, application lifecycle management, deployment controls, usage visibility, billing controls, and operational support practices.\n\n\tDefine endpoint governance, access controls, and usage policies for Claude Cowork, and support proof-of-concept evaluation and transition to production where approved.\n\n\tEstablish architecture review criteria and reusable checklists for Copilot Studio, Copilot Cowork, Claude Cowork, and Copilot agent solutions.\n\n\tProvide hands-on architecture guidance to delivery teams from concept through design, build, test, deployment, and production readiness.\n\n\tDefine integration patterns across Microsoft 365, Power Platform, Dataverse, SharePoint, Teams, Outlook, Microsoft Graph, Anthropic Claude, APIs, enterprise applications, workflow platforms, and knowledge repositories.\n\n\tDevelop patterns for observability, audit trails, task execution visibility, quality evaluation, prompt testing, incident response, and continuous improvement.\n\n\tEvaluate emerging Microsoft Copilot, Copilot Studio, Copilot Cowork, Claude Cowork, Power Platform, Azure AI, Agent 365, and agentic AI capabilities for enterprise applicability.\n\n\tFacilitate architecture governance discussions and approvals, promoting reuse, consistency, policy alignment, and risk-based decision making.\n\n\tCommunicate architecture decisions, risks, trade-offs, standards, and recommendations clearly to executive, business, architecture, engineering, and platform stakeholders.\n\n\tMentor architects, makers, and engineering teams on enterprise-ready Copilot Studio, Copilot Cowork, and Claude Cowork design practices.\n\nQualifications\n\n\tBachelor's degree in Computer Science, Engineering, Information Systems, Data Science, or a related field, or equivalent experience.\n\n\tEight or more years of experience in enterprise architecture, solution architecture, platform architecture, software engineering, cloud engineering, or technology delivery.\n\n\tExperience designing and governing enterprise solutions across Microsoft 365, Power Platform, cloud, SaaS, data, integration, and enterprise application environments.\n\n\tExperience with Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Microsoft 365 Copilot extensibility, Power Platform, Power Automate, Dataverse, Teams, Outlook, SharePoint, Microsoft Graph, Azure services, or comparable AI and automation platforms.\n\n\tExperience creating architecture standards, reference architectures, design patterns, solution guardrails, and architecture review criteria.\n\n\tStrong understanding of identity and access management, data loss prevention, connector governance, API security, endpoint security, logging, monitoring, billing controls, and operational readiness.\n\n\tStrong understanding of responsible AI, AI governance, human oversight, content grounding, privacy, sensitive data handling, auditability, and compliance expectations.\n\n\tExperience designing integrations across APIs, Microsoft 365 services, enterprise applications, workflow platforms, data platforms, and knowledge repositories.\n\n\tExperience working within Agile, DevOps, SDLC, architecture governance, technology risk management, and change management practices.\n\n\tStrong communication, facilitation, analytical, and stakeholder management skills.\n\n\tAbility to explain complex architecture topics to both executive and technical audiences.\n\nJob Type & Location\n\nThis is a Contract position based out of Cedar Rapids, IA.\n\nPay and BenefitsThe pay range for this position is $75.00 - $110.00/hr. \n\n Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors.\n\nEligibility requirements apply to some benefits and may depend on your job\n            classification and length of employment. Benefits are subject to change and may be\n            subject to specific elections, plan, or program terms. If eligible, the benefits\n            available for this temporary role may include the following:\n\n             Medical, dental & vision\n             Critical Illness, Accident, and Hospital\n             401(k) Retirement Plan  Pre-tax and Roth post-tax contributions available\n             Life Insurance (Voluntary Life & AD&D for the employee and dependents)\n             Short and long-term disability\n             Health Spending Account (HSA)\n             Transportation benefits\n             Employee Assistance Program\n             Time Off/Leave (PTO, Vacation or Sick Leave)\n\nWorkplace TypeThis is a fully remote position.\n\nApplication DeadlineThis position is anticipated to close on Oct 9, 2026.\n\n \n\n\n \n\n\nAbout TEKsystems\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company. \n\n\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\n\n \n\n\n \n\n\nAbout TEKsystems and TEKsystems Global Services \n\nWere a leading provider of business and technology services. We accelerate business transformation for our customers. Our expertise in strategy, design, execution and operations unlocks business value through a range of solutions. Were a team of 80,000 strong, working with over 6,000 customers, including 80% of the Fortune 500 across North America, Europe and Asia, who partner with us for our scale, full-stack capabilities and speed. Were strategic thinkers, hands-on collaborators, helping customers capitalize on change and master the momentum of technology. Were building tomorrow by delivering business outcomes and making positive impacts in our global communities. TEKsystems and TEKsystems Global Services are Allegis Group companies. Learn more at TEKsystems.com.\n\n\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\n\nSan Francisco Fair Chance Ordinance: Pursuant to the San Francisco Fair Chance Ordinance, for all positions located in the city and county of San Francisco, we will consider for employment qualified applicants with arrest and conviction records.\n\n\n\nMassachusetts Lie Detector: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\n\n\nUse of Artificial Intelligence (AI): We may use Artificial Intelligence (AI) to support parts of our hiring process, including sourcing, screening, and evaluating candidates. AI helps assess applications and qualifications, but final decisions are made by our hiring team. By applying, you acknowledge and agree that your application may be reviewed using AI tools.",
+      "apply_options": [
+        {
+          "title": "TEKsystems Careers",
+          "link": "https://careers.teksystems.com/ca/fr/job/JP-006316713/Enterprise-AI-Solutions-Architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/enterprise-ai-solutions-architect_7ea1ac898a05a8fa94c7efface4c072bda399?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/enterprise-ai-solutions-architect-teksystems-cedar-rapids--lensa-2365_fe9fb384a7d36bcf51f235be663229235c982959653d0a394030f88cd8df05d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "David Careers",
+          "link": "https://www.davidcareers.com/jobs/5ce3ac388c9e3387af3ff93f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4111-f8101a16f7c89fb5582910b8559d766e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/cedar-rapids/iowa/software_development/5557479396/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRlcnByaXNlIEFJIFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJURUtzeXN0ZW1zIiwiaHRpZG9jaWQiOiJ3d2h4ZlYzX1B2aFlBb25fQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWW5wSlMxcDFiMlZSWm5Kb1ZXWm5SVEJDT0dacU1rTlNPRE5OU1RsWFFrczRRVlpFWTBsV1ZucEhNelp2ZG1kc2QzSXRWVWxMTXpaUE5GbGpZVmhFTVhGbVlqZFVSemhpVW5oa2RYRk1aVWh5TmxOek5WVjVTbkZrVmxBeWNVeDRWbXhxY3kxcVYxQjJPRVJ0V1RCNmIzaGlVSEJrZFZCc1VXZEdjelJIYlhSVlpuUndNemdTRmpsUmJteGhkVU5IUVZwSWFIQTRORkF3WlV4SVEwRWFJa0ZJVGpCRk4wWk9VMGcwYkhnMVFsTndSM3BzUlVwV1N6TmFZM2d3UVRWRE5IYyIsImZjdiI6IjMiLCJmY19pZCI6Ind3aHhmVjNfUHZoWUFvbl9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Solutions Architect supporting Classified AI, Remote",
+      "company_name": "RTX (Raytheon)",
+      "location": "Arizona",
+      "via": "Arizona AI",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Designs must address access control, encryption, auditing, information flow, authorization, and other requirements associated with classified defense systems",
+            "The role suits an experienced enterprise or systems architect with strong infrastructure and administration knowledge, AI deployment experience, and an active Secret clearance who can communicate complex technical concepts effectively",
+            "Bachelor’s degree and typically 10+ years of experience, or 7+ years with an advanced degree",
+            "Active, transferable U.S. Secret clearance and U.S. citizenship",
+            "Experience designing and deploying systems in classified environments",
+            "Strong knowledge of infrastructure, networking, storage, virtualization, cloud integration, and encryption",
+            "Experience with system administration and enterprise architecture governance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This architect will create a long-term roadmap and end-to-end designs for classified AI capabilities, including model serving, retrieval-augmented generation, data pipelines, vector search, and orchestration",
+            "The position sits within Raytheon Digital Technology and partners with infrastructure, networking, cybersecurity, systems administration, and application teams to deliver integrated solutions",
+            "Responsibilities include leading architecture reviews, trade studies, standards development, design decisions, documentation, and repository management using recognized architecture practices"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=4F3Ta7IzHNc1Je5yAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQ6CQAyA4bjyBjp1VKNgTFx0Ig5GR3BwIwdWqDnay7Uk6DP5kOryb1_yJ59JUpTIJBFK8YORsEIem44MGwMdQpBoxC0cvVOlB-Ed8vMKCuzFENZwkRoU3Y-AMJxEWo-zQ2cWdJ9lqj5t1ZxRkzbSZ8JYy5g9pdZ_Ku1cxOCdYbXdbcY0cLucFtcbzAv3sg6FF0D8O6K3sPsCXtSJoq8AAAA&shmds=v1_Ac3VAoyovs7adUURydSDqF7tdyGF8oL8NS0ioiikNO0Dq4DdGg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=4F3Ta7IzHNc1Je5yAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "132K–252K a year",
+        "Full-time"
+      ],
+      "source_link": "https://arizonaai.com/jobs/28f9820e-0407-42c3-8c24-ef0aa18a9fbb",
+      "job_title": "Senior Solutions Architect supporting Classified AI, Remote",
+      "description": "This architect will create a long-term roadmap and end-to-end designs for classified AI capabilities, including model serving, retrieval-augmented generation, data pipelines, vector search, and orchestration. The position sits within Raytheon Digital Technology and partners with infrastructure, networking, cybersecurity, systems administration, and application teams to deliver integrated solutions. Responsibilities include leading architecture reviews, trade studies, standards development, design decisions, documentation, and repository management using recognized architecture practices. Designs must address access control, encryption, auditing, information flow, authorization, and other requirements associated with classified defense systems. The role suits an experienced enterprise or systems architect with strong infrastructure and administration knowledge, AI deployment experience, and an active Secret clearance who can communicate complex technical concepts effectively.\n\nKey qualificationsBachelor’s degree and typically 10+ years of experience, or 7+ years with an advanced degreeActive, transferable U.S. Secret clearance and U.S. citizenshipExperience designing and deploying systems in classified environmentsStrong knowledge of infrastructure, networking, storage, virtualization, cloud integration, and encryptionExperience with system administration and enterprise architecture governancePreferred experience deploying AI platforms and applying RMF, NIST, STIG, and defense security controls",
+      "apply_options": [
+        {
+          "title": "Arizona AI",
+          "link": "https://arizonaai.com/jobs/28f9820e-0407-42c3-8c24-ef0aa18a9fbb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643277948042487504&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/remote-senior-msp-solutions-architect-cloud-cyber-ufs-networks-arizona--jooble-4140834864565515973?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29sdXRpb25zIEFyY2hpdGVjdCBzdXBwb3J0aW5nIENsYXNzaWZpZWQgQUksIFJlbW90ZSIsImNvbXBhbnlfbmFtZSI6IlJUWCAoUmF5dGhlb24pIiwiaHRpZG9jaWQiOiI0RjNUYTdJekhOYzFKZTV5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVRoSGVuTk5ibkIwTjJwZlFrUTFlbmMzU21kdVlrUlJNMHhEWW1GNWRWaFdRM2R2TWtwMlYyTlljSEpETTBKSVJWOXpUV041Vkdzek5WSlNkR0pGWmxGYVFXaHlSR05hYVRoVlVtTkZYemhtYlU1WlFWTmxjVmRzUnpsNE9IcFBiV0kwTTNGME5FUkxhVVpYYjFaTldXOHlUa3N5UVhWaE16Qk1lV3BEV0dGU1MyVlNOVklTRmpsUmJteGhkVU5IUVZwSWFIQTRORkF3WlV4SVEwRWFJa0ZJVGpCRk4wVmpha3BoWjFKd1YzTlpjMDluYmpndFlsTkRaVWRaV1V4eWRXYyIsImZjdiI6IjMiLCJmY19pZCI6IjRGM1RhN0l6SE5jMUplNXlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI Solutions Architect — Programs & Delivery",
+      "company_name": "Amentum",
+      "location": "Lansing, MI",
+      "via": "Amentum",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Strong program-architecture judgment — ability to sequence work, identify dependencies, and call risks early",
+            "Ability to operate across executive (CTO, Council), technical (engineering, IT, data), and business-unit (spoke) stakeholders",
+            "Excellent written and verbal communication; comfort preparing board-level decision packages",
+            "Detail-oriented in a fast-moving environment; strong organizational and follow-through skills",
+            "Typically 5+ years of progressive experience in AI / data program architecture, AI portfolio management, or enterprise solution delivery with a Bachelor's degree in Computer Science, Engineering, Data Science, Information Systems, or related field"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Work Schedule: Standard business hours with flexibility; occasional travel to spoke sites",
+            "$160k - $180k",
+            "The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued",
+            "Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws",
+            "Our health and welfare benefits are designed to support you and your priorities",
+            "Health, dental, and vision insurance",
+            "Paid time off and holidays",
+            "Retirement benefits (including 401(k) matching)",
+            "Educational reimbursement",
+            "Parental leave",
+            "Employee stock purchase plan",
+            "Tax-saving options",
+            "Disability and life insurance",
+            "Pet insurance",
+            "Note: Benefits may vary based on employment type, location, and applicable agreements"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role owns the technical execution backbone of the COE: JANUS (the COE's AI intake and portfolio system of record), pilot and lighthouse delivery pipeline, and the interface between the COE hub and Amentum's operating-group AI spokes",
+            "The role bridges business demand, technical architecture, and governance to ensure AI initiatives are documented, planned, coordinated, and delivered against per-lighthouse execution criteria — not just inventoried",
+            "Operate JANUS as the COE's portfolio system of record — drive waves of pilot and lighthouse records to completeness, coordinate gold-record certification, and prepare board-ready evidence for Amentum’s AI Advisory Council",
+            "Drive technical delivery coordination across waves of lighthouse initiatives against signed charters and pilot execution criteria",
+            "Interface the COE hub with operating-group spokes so reusable architecture patterns flow both directions enabling growth",
+            "Coordinate with AI Governance, Cyber, CIO/EA, Legal, Export Control, Finance, and Procurement liaisons to keep boundary approvals on schedule for lighthouse production paths",
+            "Track risks, dependencies, and decision-package status across the AI portfolio; support COE leadership and the AI Advisory Council with timely, evidence-backed status",
+            "Own day-to-day operation of JANUS for COE intake, triage, prioritization, and lifecycle tracking of AI use cases",
+            "Translate business problems into technical AI solution architectures, identifying reusable patterns and platform components across AI Pilots",
+            "Support the AI Solution Architect — Generative AI (peer role) on integration, deployment, and operational hand-off of GenAI capabilities into mission and enterprise workflows",
+            "Coordinate with spoke leads on lighthouse charter execution, surfacing blockers to the Chief AI Architect and the AI Advisory Council",
+            "Maintain the COE decision log and Council package readiness on a monthly cadence",
+            "Partner with vendor Forward Deployed Engineers (FDEs) during platform buildout, ensuring reusable patterns are documented and transitioned to internal owners with FDE exit criteria met",
+            "Maintain alignment between AI work and Amentum's two-cloud posture (Azure Commercial for COE, Azure Government for customer-mandated programs)"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=blyqPdKQwQRZDBqVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKMQrCQBAAQGzzAAurrSxEcyLYaBVQJKIg-IBwCcvl5G433G4kdj7C0tf5ErWZarL3KNsXJVw59OqZBIrUtF6xUfg8X3BJ7JKNAlPYYfB3TA9YwJFrELS_CUxwYHYBJ9tWtZONMSIhd6JWfZM3HA0T1jyYG9fyp5LWJuyCVaxW6-WQd-Rm4yIiaR_BE5wsiSc3h3P5BQUvnamfAAAA&shmds=v1_Ac3VAozetQIsutXmKze-2eTPiqdNtqT0RJvsolAHq-O3k4Gs9w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=blyqPdKQwQRZDBqVAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAAb1BMVEX////hSC/fNxPfNQ/fORj88O7hRCn43drfMADgPR7uopnhRiz2zcjnc2PgQCPfMQXyubPvp570yMLwrabwsarqin/slInphHf76+n65ePmbl7iUDndHQD99vXeKADtm5HzwbvlY1HjWEP31tLoemzrnL8CAAABAklEQVQ4jaXUW3uDIAwGYA4xgiAe6jqrtbW4//8bF9Rn62XYvhv14pWQoEL8N0V/6QafzcragLVWNR9FlrsalEdC02a4GuRvTMVf792RXJmuNBKUUtqiSkGnuIWiSh0Zq8/9sQq2Y7nFSF2IcaSJiOJ2Gyd0Mwv2kODdzAutdn88qL8NayaDTVBJ+6TtruvFSqlKDuxOGI4temqx2jiw3aHGZqD71xSpVM1acVMJyvhMZc8xRicbjhNih3uVx4sAJx68Brt674dYb3TxXVA9Dy7gLABYREgJGHmOJmnej6rTIxeK1rgfh7yWntkk4MleeV+yaCdNga/8n4cQdMD/oLLzDRWuC1o9BZekAAAAAElFTkSuQmCC27",
+      "extensions": [
+        "Contractor",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://veterans.amentumcareers.com/lansing-mi/ai-solutions-architect-programs-delivery/062ACE7F966A46B4AA6560F81D24279D/job/",
+      "job_title": "AI Solutions Architect — Programs & Delivery",
+      "description": "Amentum is a global leader in advanced engineering and innovative technology solutions, trusted by the United States and its allies to address their most significant and complex challenges in science, security and sustainability. Our people apply undaunted curiosity, relentless ambition and boundless imagination to challenge convention and drive progress. Our commitments are underpinned by the belief that safety, collaboration and well-being are integral to success. Headquartered in Chantilly, Virginia, we have approximately 50,000 employees in more than 70 countries across all 7 continents.\n\n\n\nThe  AI Solutions Architect  — Programs & Delivery is the senior operational architect for Amentum's AI Center of Excellence. This role owns the technical execution backbone of the COE: JANUS (the COE's AI intake and portfolio system of record), pilot and lighthouse delivery pipeline, and the interface between the COE hub and Amentum's operating-group AI spokes.\n\n\n\nThe role bridges business demand, technical architecture, and governance to ensure AI initiatives are documented, planned, coordinated, and delivered against per-lighthouse execution criteria — not just inventoried.  This position Hybrid to our Reston, VA Office and US Citizenship is required.\n\n\n\nKey Outcomes\n\n\n\n\nOperate JANUS as the COE's portfolio system of record — drive waves of pilot and lighthouse records to completeness, coordinate gold-record certification, and prepare board-ready evidence for Amentum’s AI Advisory Council.\n\n\nDrive technical delivery coordination across waves of lighthouse initiatives against signed charters and pilot execution criteria.\n\n\nInterface the COE hub with operating-group spokes so reusable architecture patterns flow both directions enabling growth.\n\n\nCoordinate with AI Governance, Cyber, CIO/EA, Legal, Export Control, Finance, and Procurement liaisons to keep boundary approvals on schedule for lighthouse production paths.\n\n\nTrack risks, dependencies, and decision-package status across the AI portfolio; support COE leadership and the AI Advisory Council with timely, evidence-backed status.\n\n\n\n\nCore Responsibilities\n\n\n\n\nOwn day-to-day operation of JANUS for COE intake, triage, prioritization, and lifecycle tracking of AI use cases.\n\n\nTranslate business problems into technical AI solution architectures, identifying reusable patterns and platform components across AI Pilots.\n\n\nSupport the AI Solution Architect — Generative AI (peer role) on integration, deployment, and operational hand-off of GenAI capabilities into mission and enterprise workflows.\n\n\nCoordinate with spoke leads on lighthouse charter execution, surfacing blockers to the Chief AI Architect and the AI Advisory Council.\n\n\nMaintain the COE decision log and Council package readiness on a monthly cadence.\n\n\nPartner with vendor Forward Deployed Engineers (FDEs) during platform buildout, ensuring reusable patterns are documented and transitioned to internal owners with FDE exit criteria met.\n\n\nMaintain alignment between AI work and Amentum's two-cloud posture (Azure Commercial for COE, Azure Government for customer-mandated programs).\n\n\n\n\nKnowledge, Skills & Abilities:\n\n\n\n\nStrong program-architecture judgment — ability to sequence work, identify dependencies, and call risks early.\n\n\nAbility to operate across executive (CTO, Council), technical (engineering, IT, data), and business-unit (spoke) stakeholders.\n\n\nExcellent written and verbal communication; comfort preparing board-level decision packages.\n\n\nDetail-oriented in a fast-moving environment; strong organizational and follow-through skills.\n\n\n\n\nMinimum Requirements\n\n\n\n\nTypically 5+ years of progressive experience in AI / data program architecture, AI portfolio management, or enterprise solution delivery with a Bachelor's degree in Computer Science, Engineering, Data Science, Information Systems, or related field. Master's preferred.\n\n\nExperience operating an enterprise intake / portfolio system for AI, data, or technology initiatives.\n\n\nWorking knowledge of AI/ML solution architecture, including data pipelines, model integration patterns, and platform components.\n\n\nHands-on familiarity with cloud platforms (Azure preferred; AWS or GCP also acceptable).\n\n\nExperience working with structured and semi-structured data, databases, and integration patterns across enterprise systems.\n\n\nUS Citizenship is required.\n\n\n\n\nPreferred Qualifications\n\n\n\n\nExperience in a federal services, government, or mission-driven environment.\n\n\nExposure to AI governance frameworks (model risk, responsible AI, NIST AI RMF, EU AI Act categorization).\n\n\nBackground coordinating multi-vendor AI engagements (RFI/RFP, Forward Deployed Engineering, hyperscaler partnerships).\n\n\nExperience with Azure AI services, Microsoft Copilot ecosystem, and/or AWS Bedrock.\n\n\n\n\nWork Environment:  Hybrid; collaborative technical/business environment spanning CTO Office and operating-group spokes.\n\n\n\nWork Schedule:  Standard business hours with flexibility; occasional travel to spoke sites.\n\n\n\nCompensation Details:\n\n\n\n$160k - $180k\n\n\n\nThe compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws.\n\n\n\nBenefits Overview:\n\n\n\nOur health and welfare benefits are designed to support you and your priorities. Offerings include:\n\n\n\n\nHealth, dental, and vision insurance\n\n\nPaid time off and holidays\n\n\nRetirement benefits (including 401(k) matching)\n\n\nEducational reimbursement\n\n\nParental leave\n\n\nEmployee stock purchase plan\n\n\nTax-saving options\n\n\nDisability and life insurance\n\n\nPet insurance\n\n\n\n\nNote: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other employment contracts may include different provisions/benefits.\n\n\n\nOriginal Posting:\n\n\n\n08/26/2026 - Until Filled\n\n\n\nAmentum anticipates this job requisition will remain open for at least three days, with a closing date no earlier than three days after the original posting. This timeline may change based on business needs.\n\n\n\nAmentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, sex, sexual orientation, pregnancy (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, ancestry, United States military or veteran status, color, religion, creed,  marital or domestic partner status, medical condition, genetic information, national origin, citizenship status, low-income status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law. Learn more about your rights under Federal laws and supplemental language at Labor Laws Posters (https://postings.govdocs.com/#/vxSkbztPuAwwxfs) .",
+      "apply_options": [
+        {
+          "title": "Amentum",
+          "link": "https://veterans.amentumcareers.com/lansing-mi/ai-solutions-architect-programs-delivery/062ACE7F966A46B4AA6560F81D24279D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbnMgQXJjaGl0ZWN0IOKAlCBQcm9ncmFtcyBcdTAwMjYgRGVsaXZlcnkiLCJjb21wYW55X25hbWUiOiJBbWVudHVtIiwiaHRpZG9jaWQiOiJibHlxUGRLUXdRUlpEQnFWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVRjMFpHcENWMjFqTUdac2JVaGhNV1U0U1RNeFVVSk1OMFJFTWtaNlMycFRSamw0YlRVdGFWZzVaRVJ4YjNWd2EyTTNhMUozZDBod1VrRXhWRjlmUW1kc1NVMXhhR0ZLUlhwaVNYVlZSRnBqVTBkRWJXOVJNekZOY2tScVEzQmpRa0ZmVDFNMVJUUkhNVUV3WWt3eVVsTlZUSGxsVFRoMWRVMUtaVEY1TTBWNVRXbEZhakVTRmpsUmJteGhkVU5IUVZwSWFIQTRORkF3WlV4SVEwRWFJa0ZJVGpCRk4wZDZSVXhNY0hWemJFTnVaMDFJVG1sVWNqSTJUVkJSVW1WaWRGRSIsImZjdiI6IjMiLCJmY19pZCI6ImJseXFQZEtRd1FSWkRCcVZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Principal AI Security Solutions Architect",
+      "company_name": "Dell Technologies",
+      "location": "Round Rock, TX",
+      "via": "Dell Technologies",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As experts working at the cutting edge of security, we undertake vulnerability response handling, implement the security development lifecycle, coordinate security certifications and develop common software security components and toolkits",
+            "As well as ensuring the authenticity and integrity of the product code during product development, we mitigate risks of sourcing and delivery of counterfeit or maliciously tainted components in our products."
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=U3Q7tdjc-8SmnbXjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCQAwAUFz7CU4BN9FWBBedCkLRSayDW7meoY2eyXFJoX6TP2ld3vCy7yyramSSBJdE7Cm6AOUJavRDIvtALWEwElYok-_J0Bus4SwtKLppQBgqkS7g_NCbRd0XhWrIOzVn5HMv70IYWxmLp7T6p9HeJYzBGTbb3WbMI3fLxRFDgBv6niVIR6hADFcZ-DHpXyu43X_rMmW_rgAAAA&shmds=v1_Ac3VAoynWoXfmMCz6Q7dUGivA8s-K1ifPcCdlN8UeOVKA3zhFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=U3Q7tdjc-8SmnbXjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae509f4395539fe4c7c4cdb/images/egfj-6jhnl3360b9InDmS3XctCfmyxkRs5i3INXYUt4.jpeg",
+      "extensions": [
+        "14 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300551/?mode=location",
+      "job_title": "Senior Principal AI Security Solutions Architect",
+      "description": "The security of customers’ data and systems is of paramount importance to Dell Technologies. Our Product Security Engineering team designs and develops software and systems to minimize security risks within our products. As experts working at the cutting edge of security, we undertake vulnerability response handling, implement the security development lifecycle, coordinate security certifications and develop common software security components and toolkits. As well as ensuring the authenticity and integrity of the product code during product development, we mitigate risks of sourcing and delivery of counterfeit or maliciously tainted components in our products.  \n\n Dell Technologies Security and Resiliency organization manages security risk across all aspects of Dell's business. We are experiencing tremendous growth as we continue to meet the security needs of one of the world's largest technology companies. With team members located in more than 15 countries, you will have an exceptional opportunity to influence Dell's security culture while advancing your career. \n\nJoin us to do the best work of your career and make a profound social impact as a Senior Principal AI Security Solutions Architect on our Security and Resiliency team in Round Rock, Texas. Relocation assistance is available.",
+      "apply_options": [
+        {
+          "title": "Dell Technologies",
+          "link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300551/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EQuest Jobs",
+          "link": "https://jobs.equest.com/jobs/TX/dell-inc/senior-principal-ai-security-solutions-architect-491192310.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TalentApply",
+          "link": "https://talentapply.io/jobs/senior-principal-ai-security-solutions-architect-dell-1248297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs For Col U Fans",
+          "link": "https://jobs.cu-fc.com/jobs/senior-principal-ai-security-solutions-architect-round-rock-texas/3029628359-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The BIG Jobsite",
+          "link": "https://us.thebigjobsite.com/details/AAEDB4EEF1F2EA935D302E20B2181BED/senior-principal-ai-security-solutions-architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/5d42f66a-1f37-4bc1-97e8-c4fe670eef83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-principal-ai-security-solutions-architect-dell-technologies-round-rock-tx--t7xk-889576204?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-tx-round-rock-senior-principal-ai-security-solutions-architect-q5wtroa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHJpbmNpcGFsIEFJIFNlY3VyaXR5IFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJEZWxsIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiVTNRN3RkamMtOFNtbmJYakFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdtdGthM2cwV1dGNmNHTjZMWEZFZW05WVFrMTRWek5IVG1GU1lsRnJZa2Q2TVU1UWQxOVVNMWd3VERSUmFXMDBabVp4UlVsUmFYWXhTM000TW10M05sQXdjMWxJVGpCWGQyVTVSMWRPTmtJNFFXcEhZa2R5VEhsRWVrZzFkM2gxTFdKZmNsSXhUR0ZTVldNeVVIcDBWVms0V2tSeE4wNTJZMnBEWDJkRlVHTnRiR0o0Y1d3U0ZqbFJibXhoZFVOSFFWcElhSEE0TkZBd1pVeElRMEVhSWtGSVRqQkZOMGRpY1hCNGVGaHdZbVkyVURkNGNqaFZlRWcxWDBwaE1XOVNlVUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJVM1E3dGRqYy04U21uYlhqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior AI Engineer & AI Solutions Architect",
+      "company_name": "Veit",
+      "location": "Rogers, MN",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The role requires 7+ years software development, 3+ years AI in production, API integrations, and strong collaboration across teams"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will help establish solution architectures, development standards, governance, and the selection of technologies for AI initiatives, partnering with IT, analytics, security, and external vendors"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=i72c5q-PzG_AnxI2AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCQAyAYVw7OjplchDtieBipwoiCjpYcC3XI1wjZ1IuEfoivq92-eH7i--sODbIJBnqC5w4EiNmWE5qJH2MhBXqHHoyDAYbuEoHiv5_QBjOIjHhourNBj04p5rKqOaNQhnk7YSxk9G9pNMprfY-45C8Ybvbb8dy4LiaP5EMiOEhEbOu4Xb_AUU1TfuYAAAA&shmds=v1_Ac3VAoz2SsjFvNtheUP6J6K7nXjNdtPQL3BL31ZufffRGBm6-A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=i72c5q-PzG_AnxI2AAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "116K–158K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.jobleads.com/us/job/senior-ai-engineer-ai-solutions-architect--rogers--e19a8b53de4741a5197ca70ccf1feeda9",
+      "job_title": "Senior AI Engineer & AI Solutions Architect",
+      "description": "Veit in Rogers, MN seeks a Senior AI Engineer to lead design, development, and support of AI-based solutions that deliver measurable business value. You will help establish solution architectures, development standards, governance, and the selection of technologies for AI initiatives, partnering with IT, analytics, security, and external vendors.\n\nThe role requires 7+ years software development, 3+ years AI in production, API integrations, and strong collaboration across teams.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/senior-ai-engineer-ai-solutions-architect--rogers--e19a8b53de4741a5197ca70ccf1feeda9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkgRW5naW5lZXIgXHUwMDI2IEFJIFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJWZWl0IiwiaHRpZG9jaWQiOiJpNzJjNXEtUHpHX0FueEkyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWWxaNlIwZFdkR2RoT0RWM1FVeG5iM2xsVGt0R1MxcHVlaTFTZGpOa01XWktVMVZYZUcxWGRVdGlVa3BpVnpOa2NGcFBkMTlTTTBoNlVFbENVVlpOZERoNlFXaE1jRGg2UXpKWGVYUkJia2x4ZUVwc2RtbEZXWFpQVFc1VVREVk1PV3hPYmtOUGRrbFNjRzlmYVhSWk5GOXJhakZsTTBkTFJ6TkRPRkpxVEZkbVEyTTRVMGtTRmpsUmJteGhkVU5IUVZwSWFIQTRORkF3WlV4SVEwRWFJa0ZJVGpCRk4wZFNiMUo0ZDNkc1IxYzFNbXhWTjBkdFlrOVFhMDFKVFRKbFlYYyIsImZjdiI6IjMiLCJmY19pZCI6Imk3MmM1cS1QekdfQW54STJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Principal AI Solutions Architect, Customer Success",
+      "company_name": "Genesys",
+      "location": "Oak Grove, NC",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "8+ years of industry experience consulting on, implementing, architecting, or supporting enterprise CX, CRM, AI, automation, or experience orchestration platforms",
+            "Demonstrated success designing and deploying enterprise AI, automation, conversational AI, or data-driven solutions in complex customer environments",
+            "Strong hands-on experience with modern cloud platforms and architectures, including Genesys Cloud, AWS, Microsoft Azure, Google Cloud Platform, or comparable technologies",
+            "Deep expertise in enterprise integration and data patterns, including REST APIs, event-driven architecture, JSON, data pipelines, and LLM service integration",
+            "Experience with contact center platforms, conversational AI, NLP, agent-assist technologies, CX analytics, or omnichannel experience orchestration",
+            "Strong understanding of LLM-powered conversational experiences, AI agents, agentic orchestration, workflow design, and enterprise AI integration patterns",
+            "Working knowledge of data governance, security, privacy, and regulatory requirements relevant to enterprise AI and customer experience environments",
+            "Strong analytical and critical-thinking skills, with demonstrated ability to connect technical architecture decisions to business outcomes and customer KPIs",
+            "Excellent communication and stakeholder engagement skills, including experience advising senior technical leaders, business executives, and cross-functional enterprise teams",
+            "Demonstrated ability to operate independently and exercise sound technical judgment in ambiguous, fast-moving customer environments",
+            "Bachelor's degree in Computer Science, Information Technology, Data Science, Business, or a related discipline, or equivalent practical experience in CX or AI solution delivery"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This role has a market-competitive salary with an anticipated base compensation range listed below",
+            "Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location",
+            "This role might also be eligible for a commission or performance-based bonus opportunities",
+            "$134,300.00 - $236,100.00",
+            "Medical, Dental, and Vision Insurance",
+            "Telehealth coverage",
+            "Flexible work schedules and work from home opportunities",
+            "Development and career growth opportunities",
+            "Open Time Off in addition to 10 paid holidays",
+            "401(k) matching program",
+            "Adoption Assistance",
+            "Fertility treatments",
+            "A flexible-first culture – Join a global team of nearly 7,000 employees with flexible ways of working designed to help people do their best work",
+            "Growth in the AI era – Build future-ready skills through mentorship, learning programs, leadership development and education support",
+            "Time to recharge and give back – Benefits include paid volunteer time, August Free Fridays, well-being resources and regionally tailored programs for employees and their families",
+            "A Talent Acquisition Partner will review your application and, if your background is aligned, schedule a Zoom interview."
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Principal AI Solutions Architect helps strategic customers turn ambitious AI initiatives into production-ready solutions that improve customer experience, operational performance, and enterprise adoption",
+            "You will partner directly with customer business and technology leaders to identify high-value opportunities, shape AI strategy, and design scalable solutions across Genesys Cloud, agentic AI, conversational AI, automation, data, and enterprise integrations",
+            "The role owns the technical journey from discovery and architecture through proof of concept, production deployment, optimization, and expansion",
+            "You will gain strategic enterprise AI exposure and senior leadership visibility, while influencing initiatives across Customer Success, Product, Innovation, Solution Consulting, Professional Services, and Support",
+            "Own end-to-end technical engagement with strategic customers, translating complex business challenges and customer experience KPIs into scalable AI solutions that deliver measurable value",
+            "Lead discovery, requirements analysis, solution architecture, integration, deployment, and optimization across Genesys Cloud, AI, data, automation, and omnichannel CX",
+            "Prioritize AI initiatives based on business value, feasibility, effort, and adoption potential, helping customers move from experimentation to production and sustained value realization",
+            "Design reference architectures, integration patterns, data flows, and governance approaches for AI-powered experience orchestration across enterprise platforms",
+            "Lead process redesign and architecture workshops that improve customer journeys, streamline workflows, and create consistent experiences across digital and voice channels",
+            "Deliver rapid proofs of concept and minimum viable products using Genesys Cloud AI Studio, Agentic Virtual Agents, Copilots, and related AI capabilities, with clear paths to production scalability and enterprise adoption",
+            "Guide integration of Genesys AI capabilities with CRM, ERP, cloud, data, API, and third-party ecosystems using REST APIs, event-driven architectures, JSON, and LLM services",
+            "Drive continuous value engineering after launch by evaluating performance against customer KPIs, tuning AI solutions, identifying expansion opportunities, and developing roadmaps for sustained business impact",
+            "Influence technical direction across the broader delivery ecosystem by engaging specialists from Innovation, Solution Consulting, Professional Services, Product, Customer Success, Support, and other teams as needed",
+            "Champion responsible AI architecture by incorporating appropriate security, privacy, governance, safety, and compliance controls, including PCI and HIPAA requirements where applicable",
+            "Build customer AI maturity by serving as a trusted technical advisor, transferring knowledge, documenting reusable accelerators, and enabling customer teams to operate and expand solutions with greater self-sufficiency",
+            "We aim to keep the process focused and respectful of your time, with no more than five interviews in most cases"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=isQeXGcT-ifgPin-AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7BeJ0s9RGBBedSodSBxX6ASUNRxtN70LuKvV3_FJ1edPLPqusuSdPzkcboGyg5TCrZxIokxu9otMcqlmUJ0zQzs6hCOzgwj0I2t8BJqiZh4Cb86ga5WSMSCgGUaveFY4nw4Q9L-bBvfzpZLQJY7CK3eG4X4pIw3ZdI6G8BTzBzT6hTvzCHK7VF0a6WQulAAAA&shmds=v1_Ac3VAoxojr97D5C5FFeZNaMPwJrtVOoy5RC6qPqD8NlMyQBKlg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=isQeXGcT-ifgPin-AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae509f4395539fe4c7c4cdb/images/4PMSpxCwnzzmDwFkjZYaDUXFcl92m0DveRauqFrlK1Y.jpeg",
+      "extensions": [
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/principal-ai-solutions-architect-customer-success-at-genesys-4466874541",
+      "job_title": "Principal AI Solutions Architect, Customer Success",
+      "description": "Be the one building AI-powered experiences where they matter most.\n\nAt Genesys, we help organizations create better customer experiences through AI-powered experience orchestration. Our platform connects people, systems, data and AI to help organizations deliver more personalized service, improve operational efficiency and build stronger customer relationships.\n\nHelp build, support and operate technology used by more than 8,000 organizations in over 100 countries – moving AI from possibility to production in real-world enterprise environments every day.\n\n(remote US based)\n\nRole Overview:\n\nThe Principal AI Solutions Architect helps strategic customers turn ambitious AI initiatives into production-ready solutions that improve customer experience, operational performance, and enterprise adoption. Supporting the newly launched Agentic AI Orchestration program, this role combines hands-on architecture and rapid prototyping with executive-level customer engagement, technical leadership, and ownership of measurable outcomes.\n\nYou will partner directly with customer business and technology leaders to identify high-value opportunities, shape AI strategy, and design scalable solutions across Genesys Cloud, agentic AI, conversational AI, automation, data, and enterprise integrations. The role owns the technical journey from discovery and architecture through proof of concept, production deployment, optimization, and expansion.\n\nAt Genesys, collaboration, empathy, and innovation shape how we help organizations orchestrate personalized experiences at scale. You will gain strategic enterprise AI exposure and senior leadership visibility, while influencing initiatives across Customer Success, Product, Innovation, Solution Consulting, Professional Services, and Support.\n\nKey Responsibilities:\n\nOwn end-to-end technical engagement with strategic customers, translating complex business challenges and customer experience KPIs into scalable AI solutions that deliver measurable valueLead discovery, requirements analysis, solution architecture, integration, deployment, and optimization across Genesys Cloud, AI, data, automation, and omnichannel CXPrioritize AI initiatives based on business value, feasibility, effort, and adoption potential, helping customers move from experimentation to production and sustained value realizationDesign reference architectures, integration patterns, data flows, and governance approaches for AI-powered experience orchestration across enterprise platformsLead process redesign and architecture workshops that improve customer journeys, streamline workflows, and create consistent experiences across digital and voice channelsDeliver rapid proofs of concept and minimum viable products using Genesys Cloud AI Studio, Agentic Virtual Agents, Copilots, and related AI capabilities, with clear paths to production scalability and enterprise adoptionGuide integration of Genesys AI capabilities with CRM, ERP, cloud, data, API, and third-party ecosystems using REST APIs, event-driven architectures, JSON, and LLM servicesDrive continuous value engineering after launch by evaluating performance against customer KPIs, tuning AI solutions, identifying expansion opportunities, and developing roadmaps for sustained business impactInfluence technical direction across the broader delivery ecosystem by engaging specialists from Innovation, Solution Consulting, Professional Services, Product, Customer Success, Support, and other teams as neededChampion responsible AI architecture by incorporating appropriate security, privacy, governance, safety, and compliance controls, including PCI and HIPAA requirements where applicableBuild customer AI maturity by serving as a trusted technical advisor, transferring knowledge, documenting reusable accelerators, and enabling customer teams to operate and expand solutions with greater self-sufficiency\n\nRequired Qualifications:\n\n8+ years of industry experience consulting on, implementing, architecting, or supporting enterprise CX, CRM, AI, automation, or experience orchestration platformsDemonstrated success designing and deploying enterprise AI, automation, conversational AI, or data-driven solutions in complex customer environmentsStrong hands-on experience with modern cloud platforms and architectures, including Genesys Cloud, AWS, Microsoft Azure, Google Cloud Platform, or comparable technologiesDeep expertise in enterprise integration and data patterns, including REST APIs, event-driven architecture, JSON, data pipelines, and LLM service integrationExperience with contact center platforms, conversational AI, NLP, agent-assist technologies, CX analytics, or omnichannel experience orchestrationStrong understanding of LLM-powered conversational experiences, AI agents, agentic orchestration, workflow design, and enterprise AI integration patternsWorking knowledge of data governance, security, privacy, and regulatory requirements relevant to enterprise AI and customer experience environmentsStrong analytical and critical-thinking skills, with demonstrated ability to connect technical architecture decisions to business outcomes and customer KPIsExcellent communication and stakeholder engagement skills, including experience advising senior technical leaders, business executives, and cross-functional enterprise teamsDemonstrated ability to operate independently and exercise sound technical judgment in ambiguous, fast-moving customer environmentsBachelor's degree in Computer Science, Information Technology, Data Science, Business, or a related discipline, or equivalent practical experience in CX or AI solution delivery\n\nPreferred Qualifications:\n\nExperience with customer journey mapping, omnichannel CX processes, and process redesign in large enterprise environmentsFamiliarity with enterprise change management, AI adoption programs, and large-scale technology transformationExperience influencing complex customer programs across Customer Success, Professional Services, Product, Engineering, Solution Consulting, or similar functionsExperience developing reusable reference architectures, implementation patterns, technical accelerators, or AI governance frameworksKnowledge of one or more industry verticals such as insurance, healthcare, financial services, retail, or the public sector\n\nCompensation:\n\nThis role has a market-competitive salary with an anticipated base compensation range listed below. Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location. This role might also be eligible for a commission or performance-based bonus opportunities.\n\n$134,300.00 - $236,100.00\n\nBenefits:\n\nMedical, Dental, and Vision Insurance. Telehealth coverageFlexible work schedules and work from home opportunitiesDevelopment and career growth opportunitiesOpen Time Off in addition to 10 paid holidays401(k) matching programAdoption AssistanceFertility treatments\n\nClick here to view a summary overview of our Benefits.\n\nWorking at Genesys\n\nAI at enterprise scale – Build, support and operate AI-powered technology used by more than 8,000 organizations worldwide. 150+ new AI features were released in the last fiscal yearA flexible-first culture – Join a global team of nearly 7,000 employees with flexible ways of working designed to help people do their best workGrowth in the AI era – Build future-ready skills through mentorship, learning programs, leadership development and education supportTime to recharge and give back – Benefits include paid volunteer time, August Free Fridays, well-being resources and regionally tailored programs for employees and their familiesRecognized globally – Genesys is Great Place to Work® certified in 17 countries and 94% of employees are proud to tell others they work at Genesys\n\nLearn more about our culture, AI innovation and sustainability commitments through our Careers site and Sustainability Report.\n\nWhat Happens After You Apply\n\nAfter you apply, here's what you can typically expect:\n\nOur Talent Acquisition team reviews your application with the hiring teamA Talent Acquisition Partner will review your application and, if your background is aligned, schedule a Zoom interview. Next, you'll meet the hiring manager and other members of the interview teamWe aim to keep the process focused and respectful of your time, with no more than five interviews in most casesAfter interviews are complete, our team will follow up with the final steps\n\nEvery application is reviewed by a person. Response times may vary by role and location, but our team will keep you informed throughout the process.\n\nStay Connected\n\nStay connected to learn more about how we're applying AI to customer and employee experience challenges and get notified when relevant opportunities become available.\n\nGet notified about relevant opportunities.\n\nBe the one building what's next - where AI, experience and impact come together.\n\nEmployee Referral\n\nIf a Genesys employee referred you, please apply using the link they shared so we can connect your application to their referral.\n\nAbout Genesys:\n\nGenesys® empowers more than 8,000 organizations worldwide to create the best customer and employee experiences. Genesys Cloud™ is the Agentic Orchestration Platform that securely connects people, systems, data and AI across the enterprise with built-in governance and control. As a result, organizations can drive customer loyalty, growth and retention while increasing operational efficiency and teamwork across human and AI workforces. To learn more, visit www.genesys.ai.\n\nReasonable Accommodations:\n\nIf you require a reasonable accommodation to complete any part of the application process, or are limited in your ability to access or use this online application and need an alternative method for applying, you or someone you know may contact us at reasonable.accommodations@genesys.com.\n\nYou can expect a response within 24–48 hours. To help us provide the best support, click the email link above to open a pre-filled message and complete the requested information before sending. If you have any questions, please include them in your email.\n\nThis email is intended to support job seekers requesting accommodations. Messages unrelated to accommodation—such as application follow-ups or resume submissions—may not receive a response.\n\nGenesys is an equal opportunity employer committed to fairness in the workplace. We evaluate qualified applicants without regard to race, color, age, religion, sex, sexual orientation, gender identity or expression, marital status, domestic partner status, national origin, genetics, disability, military and veteran status, and other protected characteristics.\n\nPlease note that recruiters will never ask for sensitive personal or financial information during the application phase.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/principal-ai-solutions-architect-customer-success-at-genesys-4466874541?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQUkgU29sdXRpb25zIEFyY2hpdGVjdCwgQ3VzdG9tZXIgU3VjY2VzcyIsImNvbXBhbnlfbmFtZSI6IkdlbmVzeXMiLCJodGlkb2NpZCI6ImlzUWVYR2NULWlmZ1Bpbi1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZbXQxWXpjM1dVUkljR1YwVVVaalVsVlhhVEpFZG1Ob2F6Rm5ZVTVyUTJocWRFWmlSblJQTWxkdE1USldkVFZOTlRKUlUwczNaRE5HY1ZWRGMzbFVlVWhOVm1oNFIzTXdVVmxJWTB4WWJVTnVWemRzWDJrME5sQktiRW94YUdKVVVIVk5WVE5oY204MGRHZ3dUblYxWm1VMWNEaHpkelZRTlZOVFQyeFhTM1pJVm1sSlRIRVNGamxSYm14aGRVTkhRVnBJYUhBNE5GQXdaVXhJUTBFYUlrRklUakJGTjBaaVYwSk5jQzFLYVZweWJtOUZjaloxV0dGUmNrNDJOakkxTmxFIiwiZmN2IjoiMyIsImZjX2lkIjoiaXNRZVhHY1QtaWZnUGluLUFBQUFBQT09In0="
+    },
+    {
+      "title": "Sr. AI Solutions Architect",
+      "company_name": "Insight Global",
+      "location": "Jersey City, NJ",
+      "via": "Jooble",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Senior System Architect For Enterprise Gen AI SolutionRequired Skills & Experience: 10+ years of software architecture and enterprise platform engineering experience",
+            "5+ years designing AI/ML, GenAI, or advanced analytics platforms",
+            "Experience delivering AI platforms within Financial Services, Treasury, Risk, or CFO organizations",
+            "Deep understanding of: Generative AI and LLM architectures Retrieval Augmented Generation (RAG) Agentic AI frameworks (LangGraph, LangChain, MCP) Vector databases and embeddings Distributed systems and microservices Cloud-native architecture and OpenShift/Kubernetes Strong experience with: Python REST APIs Oracle and enterprise data platforms Redis and caching technologies CI/CD and DevSecOps practices Nice to Have Skills & Experience: Experience with: MCP-based tool integration architectures Enterprise Knowledge Base solutions Document Intelligence and OCR platforms AI governance and model risk management frameworks OpenAI, Azure AI, or enterprise LLM ecosystems Prior experience leading large-scale platform modernization initiatives",
+            "Define reference architectures, standards, patterns, and best practices",
+            "Lead architecture reviews, technology selection, and solution governance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Job Description: The Senior System Architect for an enterprise level Gen AI solution will be responsible for defining and evolving the end-to-end architecture of the enterprise AI platform supporting CFO, Treasury, Risk, and Finance use cases",
+            "The role drives platform strategy, application architecture, AI/LLM integration, agentic workflows, data architecture, security, scalability, and production engineering while ensuring alignment with enterprise standards and regulatory requirements",
+            "The architect will serve as the technical authority for the AI ecosystem that this application covers, including Knowledge Bases, RAG solutions, Agent Frameworks, MCP integrations, document intelligence, structured data intelligence, model orchestration, and platform modernization initiatives",
+            "Key Responsibilities: Own the target-state architecture and technical roadmap for the AI platform",
+            "Design scalable, resilient, and secure enterprise AI solutions",
+            "Drive modernization initiatives across AI, cloud-native, and data platforms"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=_TtwLteF5cIoTnxmAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CU7nKpqo4KJTcSjt4NIPKEk4kpSYC7kT2u_wh9XlDa_5bJrzWBW0PYyU3hIpM7TVhSjoBI4wkAVG8xugDB2RT7i9B5HCN62Zk_IsRqJTjl6aMlpa9EyW_0wcTMWSjOB0uZ4WVbLf7_rM0QeBLpE1CWKGASvjCo8o6wGewxeXTfsilgAAAA&shmds=v1_Ac3VAox22T4PcGwDLMnes4N3Z7702RorfiEeGjePiHlddtoc1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=_TtwLteF5cIoTnxmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAB0AOAMBEQACEQEDEQH_xAAbAAEAAQUBAAAAAAAAAAAAAAAAAwIEBQYHAf_EACUQAAICAgICAQQDAAAAAAAAAAEDAgQAEQUhEhNBBhQiMTJCgf_EABgBAQADAQAAAAAAAAAAAAAAAAACAwQB_8QAIBEAAgICAgIDAAAAAAAAAAAAAAIBAwQREkEFITFx8P_aAAwDAQACEQMRAD8A7jgDAGAMAYAwBgGi0OV56u90IQhKnXsRM4ursk1oddcs-M_LQEIRhIfieiP0NZPUEfZJwnOcxduKN2subILeDNKGQWDpJAiTM-X8pdyjGXWtDveTPtsox2spXk0fEE6ohniG9QS8je5pPIuvVBALTQgxiGInMO0yXUNSHjIj51L461lfjr7cjGWy5eLT-7JXLCPMLO4LFNnkXqinn7VhlVN-1Gz9slqZR02fo8zEk-ogb6614A7Gyd_0VFPGX-VQ9bVU7PoVXtRQGNc2LB7K-pfmBLQJYI-XegSD4nLakV3hWnUGTNutooaypdzHRU3m-bVzrLEY-Hs4-sY1J1GsFiYc8GK5CQC5EGOyQf6k9ROLq0R5VZ3Awr7bqFstXi09HtznOatXo1JCITNgnNSqbVtrGFpMRGTDLxmJQlM9AbA32DlWoNW5N-yBMxv1FxzuW4azRr2ZVmNiAGDfWiDo6-DrX-52DXg5C42QtrryiOiL6V4l_CcKmjZs_cMgSfLvUQT-hv4GJnck_I5SZeQ1qLxiTL5wwjAGAMAYAwBgDAGAMAYB_9k.jpeg",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://jooble.org/jdp/-7021825987458724639",
+      "job_title": "Sr. AI Solutions Architect",
+      "description": "Senior System Architect For Enterprise Gen AI SolutionRequired Skills & Experience: 10+ years of software architecture and enterprise platform engineering experience. 5+ years designing AI/ML, GenAI, or advanced analytics platforms. Experience delivering AI platforms within Financial Services, Treasury, Risk, or CFO organizations. Deep understanding of: Generative AI and LLM architectures Retrieval Augmented Generation (RAG) Agentic AI frameworks (LangGraph, LangChain, MCP) Vector databases and embeddings Distributed systems and microservices Cloud-native architecture and OpenShift/Kubernetes Strong experience with: Python REST APIs Oracle and enterprise data platforms Redis and caching technologies CI/CD and DevSecOps practices Nice to Have Skills & Experience: Experience with: MCP-based tool integration architectures Enterprise Knowledge Base solutions Document Intelligence and OCR platforms AI governance and model risk management frameworks OpenAI, Azure AI, or enterprise LLM ecosystems Prior experience leading large-scale platform modernization initiatives.Job Description: The Senior System Architect for an enterprise level Gen AI solution will be responsible for defining and evolving the end-to-end architecture of the enterprise AI platform supporting CFO, Treasury, Risk, and Finance use cases. The role drives platform strategy, application architecture, AI/LLM integration, agentic workflows, data architecture, security, scalability, and production engineering while ensuring alignment with enterprise standards and regulatory requirements. The architect will serve as the technical authority for the AI ecosystem that this application covers, including Knowledge Bases, RAG solutions, Agent Frameworks, MCP integrations, document intelligence, structured data intelligence, model orchestration, and platform modernization initiatives.Key Responsibilities: Own the target-state architecture and technical roadmap for the AI platform. Design scalable, resilient, and secure enterprise AI solutions. Define reference architectures, standards, patterns, and best practices. Lead architecture reviews, technology selection, and solution governance. Drive modernization initiatives across AI, cloud-native, and data platforms.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-7021825987458724639?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/insight-global/jersey-city-nj/senior-solutions-architect/598d67c14fbee89681fc03c3289eb863?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_2A74CD490A582DE205DF9B2F93EDCE61?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/b3f20fd2-bf91-11f1-87ec-4201ac122412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/sr-ai-solutions-architect-insight-global-jersey-city-nj--t7xk-851230172?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-nj-jersey-sr-ai-solutions-architect-insight-global-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28662-81c1bb563faa64652747f3addd0e0174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQUkgU29sdXRpb25zIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6Ikluc2lnaHQgR2xvYmFsIiwiaHRpZG9jaWQiOiJfVHR3THRlRjVjSW9UbnhtQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVVKVGVsWTFjMHB2YUVwbWIwWmFibmxwVW5wdWNUbEpVMVJhYm5WbGFteEZUMUJ4UkVKQ2VDMTBZWHBhVlhBeFkxWnFXbkJZVUZnMk9VdFliblpEVjNWM1gwWXllbHBXTVVGd1JYUk1iRjl3T0dkMVZtOUNiVTU2UlZoWlZreGFjVWxoVEdOM1MwOW9jazQ0Tkc5U1RUbHZVbTh5V2tzd2FIbG1lV0UyYTBoUmJXRnpRbXNTRmpsUmJteGhkVU5IUVZwSWFIQTRORkF3WlV4SVEwRWFJa0ZJVGpCRk4waFlYMlZuYkhwV00yWkdSM1F3VW5aUGQwZ3dUVXhmV2tvM1RsRSIsImZjdiI6IjMiLCJmY19pZCI6Il9UdHdMdGVGNWNJb1RueG1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Customer AI Solution Architect",
+      "company_name": "Deloitte",
+      "location": "Baltimore, MD",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ability to work independently and collaborate as part of a team",
+            "Effective written and verbal communication skills",
+            "Meticulous attention to detail and quality of work product",
+            "Ability to build and sustain professional relationships",
+            "Ability to lead and manage technical teams, projects, or workstreams",
+            "Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment",
+            "Strong interpersonal skills and professional demeanor",
+            "Ability to meet deadlines",
+            "Ability to mentor and provide clear guidance to others",
+            "6+ years of experience architecting and delivering high-performance enterprise technology solutions (for example, web, mobile, commerce, CRM, or integration platforms), including work that predates generative AI",
+            "Hands-on experience designing and delivering two or more artificial intelligence (AI) solutions or agentic systems deployed in production and used by real customers or employees, in one or more of marketing, commerce, sales, or service",
+            "Hands-on experience designing agentic systems deployed in production that include orchestration, tool integration, retrieval augmented generation (RAG), context assembly, agent memory, model selection, routing, and failure handling",
+            "Hands-on production experience with at least one agent framework, such as LangGraph, Google Agent Development Kit (ADK), Claude Agent Software Development Kit (SDK), or Amazon Bedrock AgentCore, and foundation-model application programming interfaces (APIs) for prompt and context engineering, structured outputs, tool use, prompt versioning, or model evaluation",
+            "Hands-on experience integrating deployed AI solutions with enterprise platforms through APIs or event-driven architectures and addressing identity, consent, real-time data, security, privacy, and data-residency requirements",
+            "Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve",
+            "Limited immigration sponsorship may be available",
+            "Lead the design and delivery of artificial intelligence (AI)-enabled customer experiences across marketing, commerce, sales, and service",
+            "A successful candidate would possess these skills:",
+            "Ability to work independently and collaborate as part of a team",
+            "Effective written and verbal communication skills",
+            "Meticulous attention to detail and quality of work product",
+            "Ability to build and sustain professional relationships",
+            "Ability to lead and manage technical teams, projects, or workstreams",
+            "Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment",
+            "Strong interpersonal skills and professional demeanor",
+            "Ability to meet deadlines",
+            "Ability to mentor and provide clear guidance to others",
+            "6+ years of experience architecting and delivering high-performance enterprise technology solutions (for example, web, mobile, commerce, CRM, or integration platforms), including work that predates generative AI",
+            "Hands-on experience designing and delivering two or more artificial intelligence (AI) solutions or agentic systems deployed in production and used by real customers or employees, in one or more of marketing, commerce, sales, or service",
+            "Hands-on experience designing agentic systems deployed in production that include orchestration, tool integration, retrieval augmented generation (RAG), context assembly, agent memory, model selection, routing, and failure handling",
+            "Hands-on production experience with at least one agent framework, such as LangGraph, Google Agent Development Kit (ADK), Claude Agent Software Development Kit (SDK), or Amazon Bedrock AgentCore, and foundation-model application programming interfaces (APIs) for prompt and context engineering, structured outputs, tool use, prompt versioning, or model evaluation",
+            "Hands-on experience integrating deployed AI solutions with enterprise platforms through APIs or event-driven architectures and addressing identity, consent, real-time data, security, privacy, and data-residency requirements",
+            "Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve",
+            "Limited immigration sponsorship may be available"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
+            "A reasonable estimate of the current range is $141,200 to $278,300",
+            "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance",
+            "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
+            "A reasonable estimate of the current range is $141,200 to $278,300",
+            "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Lead the design and delivery of artificial intelligence (AI)-enabled customer experiences across marketing, commerce, sales, and service",
+            "As a Customer AI Solution Architect, you will help clients identify AI use cases, design solutions that align with front-office platforms and operating models, and guide delivery from prototypes to production",
+            "You will act as a senior individual contributor with client technology executives and architects while leading a Deloitte team of developers and engineers through delivery",
+            "You will also establish reusable architecture patterns and engineering standards that support delivery across programs",
+            "As a Customer AI Solution Architect, you will be responsible for designing and delivering AI-enabled customer experiences from discovery through production",
+            "Architect agentic customer experiences for marketing, commerce, sales, and service, including customer assistants, conversational commerce, personalization, sales enablement, and support experiences",
+            "Design agentic systems that address orchestration, planning, tool use, state management, retrieval, memory, model selection, routing, failure handling, and cost management; determine when agentic approaches add value over deterministic workflows",
+            "Integrate AI solutions with front-office platforms and enterprise services using composable, headless, application programming interface (API)-led, and event-driven architectures; account for identity, consent, real-time data, security, and experience latency",
+            "Embed oversight and safeguards through human approvals, escalation and override paths, scoped permissions, prompt-injection defenses, personally identifiable information (PII) handling, audit logging, and privacy and data-residency controls",
+            "Lead architecture and security reviews with client stakeholders, resolve design issues, and coach technical teams on reference architectures, reusable patterns, and engineering standards",
+            "Lead and manage a Deloitte team of developers and engineers: set technical direction, plan and assign work, run design and code reviews, manage delivery quality and risk, and develop team members through coaching and feedback",
+            "Lead rapid prototypes and production delivery using AI-accelerated engineering practices; establish practices for AI evaluation, regression testing, observability, drift and latency monitoring, cost tracking, and continuous integration and continuous delivery (CI/CD); and partner with stakeholders to prioritize use cases, define AI-enabled and AI-native experiences, and connect delivery to business and customer outcomes",
+            "Join us to drive impactful customer interactions and business growth",
+            "As a Customer AI Solution Architect, you will help clients identify AI use cases, design solutions that align with front-office platforms and operating models, and guide delivery from prototypes to production",
+            "You will act as a senior individual contributor with client technology executives and architects while leading a Deloitte team of developers and engineers through delivery",
+            "You will also establish reusable architecture patterns and engineering standards that support delivery across programs",
+            "As a Customer AI Solution Architect, you will be responsible for designing and delivering AI-enabled customer experiences from discovery through production",
+            "Architect agentic customer experiences for marketing, commerce, sales, and service, including customer assistants, conversational commerce, personalization, sales enablement, and support experiences",
+            "Design agentic systems that address orchestration, planning, tool use, state management, retrieval, memory, model selection, routing, failure handling, and cost management; determine when agentic approaches add value over deterministic workflows",
+            "Integrate AI solutions with front-office platforms and enterprise services using composable, headless, application programming interface (API)-led, and event-driven architectures; account for identity, consent, real-time data, security, and experience latency",
+            "Embed oversight and safeguards through human approvals, escalation and override paths, scoped permissions, prompt-injection defenses, personally identifiable information (PII) handling, audit logging, and privacy and data-residency controls",
+            "Lead architecture and security reviews with client stakeholders, resolve design issues, and coach technical teams on reference architectures, reusable patterns, and engineering standards",
+            "Lead and manage a Deloitte team of developers and engineers: set technical direction, plan and assign work, run design and code reviews, manage delivery quality and risk, and develop team members through coaching and feedback",
+            "Lead rapid prototypes and production delivery using AI-accelerated engineering practices; establish practices for AI evaluation, regression testing, observability, drift and latency monitoring, cost tracking, and continuous integration and continuous delivery (CI/CD); and partner with stakeholders to prioritize use cases, define AI-enabled and AI-native experiences, and connect delivery to business and customer outcomes"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=FLZzmnzev87uXvQSAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBCAYVz7BjrdLJqI0EWnakEUnHyAkoQjTUlyIXeFvoWvbF3-4fub76Zp7zMLJazQPeFDcZZAGbrqxiDoBI7wIguMZhVYz4PIR9xdR5HCF62Zo_IsRoJTjpKmjJYWPZHlfwYeTcUSjeBwbk-LKtnvtz1GCiIIIcPNRAmJKh7g3f8AumKXLJIAAAA&shmds=v1_Ac3VAozWYNGi981jdngSezpjSuVgAsBYoAIMjyQ5SL_4drP_bw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=FLZzmnzev87uXvQSAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAgVBMVEX___8AAABXV1eFuyTt7e3i4uJ8twBTU1Pc3Nzw8PCrq6toaGh-fn5bW1t3d3egoKDR0dGEhISUlJQlJSUeHh75-fnLy8tAQEBwcHBHR0fExMQ0NDSLi4vb6sbI36jX6MDr8-Dk79T0-e631YymzG6ZxVarz3fS5biXxE2NvzWiymQ5pAadAAAA60lEQVRIie3U2xKCIBAG4EUKs9KyorLIzsf3f8AgtjBnTNeZ7vjvFuZTZjkA-Pj4_DnDMMDEyWhMgCH7StppCgNWSr8tZMO2kE0ocDqdOdkjwAhAzhcIAwK0zYxZsSLAiNDZLwgDWy3JsG-rjAxX2GMy7NlqRobjthCXuiZDbE5MhrgdigolHoCVKTb5tjFcIpQAOy6E4PtaqA85RAk6fSMlf0Uc6mCqlLuZ-iu5sPBYB4sxR_xk_8jPBJia4Qsdjl7DV1xq3hSG72fjZqS4VzrICmqhum7iorfjUd1U6H5Sfi8Oux_Mx8fH5QkjdQmZgZZQfwAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.ziprecruiter.com/c/deloitte/Job/Customer-AI-Solution-Architect/-in-Baltimore,MD?jid=712357a9dda7c371",
+      "job_title": "Customer AI Solution Architect",
+      "description": "Lead the design and delivery of artificial intelligence (AI)-enabled customer experiences across marketing, commerce, sales, and service. As a Customer AI Solution Architect, you will help clients identify AI use cases, design solutions that align with front-office platforms and operating models, and guide delivery from prototypes to production. You will act as a senior individual contributor with client technology executives and architects while leading a Deloitte team of developers and engineers through delivery. You will also establish reusable architecture patterns and engineering standards that support delivery across programs.\n\nRecruiting for this role ends on January 27, 2027\n\nWork you'll do\n\nAs a Customer AI Solution Architect, you will be responsible for designing and delivering AI-enabled customer experiences from discovery through production. You will...\n\nArchitect agentic customer experiences for marketing, commerce, sales, and service, including customer assistants, conversational commerce, personalization, sales enablement, and support experiences.Design agentic systems that address orchestration, planning, tool use, state management, retrieval, memory, model selection, routing, failure handling, and cost management; determine when agentic approaches add value over deterministic workflows.Integrate AI solutions with front-office platforms and enterprise services using composable, headless, application programming interface (API)-led, and event-driven architectures; account for identity, consent, real-time data, security, and experience latency.Embed oversight and safeguards through human approvals, escalation and override paths, scoped permissions, prompt-injection defenses, personally identifiable information (PII) handling, audit logging, and privacy and data-residency controls.Lead architecture and security reviews with client stakeholders, resolve design issues, and coach technical teams on reference architectures, reusable patterns, and engineering standards.Lead and manage a Deloitte team of developers and engineers: set technical direction, plan and assign work, run design and code reviews, manage delivery quality and risk, and develop team members through coaching and feedback.Lead rapid prototypes and production delivery using AI-accelerated engineering practices; establish practices for AI evaluation, regression testing, observability, drift and latency monitoring, cost tracking, and continuous integration and continuous delivery (CI/CD); and partner with stakeholders to prioritize use cases, define AI-enabled and AI-native experiences, and connect delivery to business and customer outcomes.A successful candidate would possess these skills:\n\nAbility to work independently and collaborate as part of a teamEffective written and verbal communication skillsMeticulous attention to detail and quality of work productAbility to build and sustain professional relationshipsAbility to lead and manage technical teams, projects, or workstreamsAbility to manage and prioritize multiple tasks in a fast-paced and dynamic environmentStrong interpersonal skills and professional demeanorAbility to meet deadlinesAbility to mentor and provide clear guidance to othersThe Team\n\nDeloitte's Advertising, Marketing and Commerce team creates content and experiences that inspire action. We design and implement technology platforms for personalized marketing across all digital touchpoints, specializing in customer-centric B2B and B2C solutions. Our in-house agency engages customers throughout their journey, working on projects like AdTech, MarTech, campaign automation, CRM, and lead-to-loyalty orchestration. Join us to drive impactful customer interactions and business growth.\n\nQualifications\n\nRequired:\n\n6+ years of experience architecting and delivering high-performance enterprise technology solutions (for example, web, mobile, commerce, CRM, or integration platforms), including work that predates generative AI.Hands-on experience designing and delivering two or more artificial intelligence (AI) solutions or agentic systems deployed in production and used by real customers or employees, in one or more of marketing, commerce, sales, or service.Hands-on experience designing agentic systems deployed in production that include orchestration, tool integration, retrieval augmented generation (RAG), context assembly, agent memory, model selection, routing, and failure handling.Hands-on production experience with at least one agent framework, such as LangGraph, Google Agent Development Kit (ADK), Claude Agent Software Development Kit (SDK), or Amazon Bedrock AgentCore, and foundation-model application programming interfaces (APIs) for prompt and context engineering, structured outputs, tool use, prompt versioning, or model evaluation.Hands-on experience integrating deployed AI solutions with enterprise platforms through APIs or event-driven architectures and addressing identity, consent, real-time data, security, privacy, and data-residency requirements.Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve.Limited immigration sponsorship may be available.Preferred:\n\nExperience designing conversational or agentic customer experiences that include brand-safety controls, trust controls, response-latency measurement, and customer-experience measurement.Assess and benchmark software products, models, and technology options.Experience measuring discoverability in AI-powered answer and discovery experiences.Experience applying AI coding or design agents and agentic software development lifecycle (SDLC) practices with documented delivery-speed or quality measures.Experience taking prototypes or pilots into production with adoption and operating plans.Experience with customer data, identity resolution, and consent management for personalization and AI-driven decisions.Experience presenting AI architecture choices and trade-offs to chief technology officers (CTOs), chief data officers (CDOs), or chief marketing officers (CMOs).The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $141,200 to $278,300.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\n#Customer_US\n\n#AMC_US\n\nQualifications:Lead the design and delivery of artificial intelligence (AI)-enabled customer experiences across marketing, commerce, sales, and service. As a Customer AI Solution Architect, you will help clients identify AI use cases, design solutions that align with front-office platforms and operating models, and guide delivery from prototypes to production. You will act as a senior individual contributor with client technology executives and architects while leading a Deloitte team of developers and engineers through delivery. You will also establish reusable architecture patterns and engineering standards that support delivery across programs.\n\nRecruiting for this role ends on January 27, 2027\n\nWork you'll do\n\nAs a Customer AI Solution Architect, you will be responsible for designing and delivering AI-enabled customer experiences from discovery through production. You will...\n\nArchitect agentic customer experiences for marketing, commerce, sales, and service, including customer assistants, conversational commerce, personalization, sales enablement, and support experiences.Design agentic systems that address orchestration, planning, tool use, state management, retrieval, memory, model selection, routing, failure handling, and cost management; determine when agentic approaches add value over deterministic workflows.Integrate AI solutions with front-office platforms and enterprise services using composable, headless, application programming interface (API)-led, and event-driven architectures; account for identity, consent, real-time data, security, and experience latency.Embed oversight and safeguards through human approvals, escalation and override paths, scoped permissions, prompt-injection defenses, personally identifiable information (PII) handling, audit logging, and privacy and data-residency controls.Lead architecture and security reviews with client stakeholders, resolve design issues, and coach technical teams on reference architectures, reusable patterns, and engineering standards.Lead and manage a Deloitte team of developers and engineers: set technical direction, plan and assign work, run design and code reviews, manage delivery quality and risk, and develop team members through coaching and feedback.Lead rapid prototypes and production delivery using AI-accelerated engineering practices; establish practices for AI evaluation, regression testing, observability, drift and latency monitoring, cost tracking, and continuous integration and continuous delivery (CI/CD); and partner with stakeholders to prioritize use cases, define AI-enabled and AI-native experiences, and connect delivery to business and customer outcomes.A successful candidate would possess these skills:\n\nAbility to work independently and collaborate as part of a teamEffective written and verbal communication skillsMeticulous attention to detail and quality of work productAbility to build and sustain professional relationshipsAbility to lead and manage technical teams, projects, or workstreamsAbility to manage and prioritize multiple tasks in a fast-paced and dynamic environmentStrong interpersonal skills and professional demeanorAbility to meet deadlinesAbility to mentor and provide clear guidance to othersThe Team\n\nDeloitte's Advertising, Marketing and Commerce team creates content and experiences that inspire action. We design and implement technology platforms for personalized marketing across all digital touchpoints, specializing in customer-centric B2B and B2C solutions. Our in-house agency engages customers throughout their journey, working on projects like AdTech, MarTech, campaign automation, CRM, and lead-to-loyalty orchestration. Join us to drive impactful customer interactions and business growth.\n\nQualifications\n\nRequired:\n\n6+ years of experience architecting and delivering high-performance enterprise technology solutions (for example, web, mobile, commerce, CRM, or integration platforms), including work that predates generative AI.Hands-on experience designing and delivering two or more artificial intelligence (AI) solutions or agentic systems deployed in production and used by real customers or employees, in one or more of marketing, commerce, sales, or service.Hands-on experience designing agentic systems deployed in production that include orchestration, tool integration, retrieval augmented generation (RAG), context assembly, agent memory, model selection, routing, and failure handling.Hands-on production experience with at least one agent framework, such as LangGraph, Google Agent Development Kit (ADK), Claude Agent Software Development Kit (SDK), or Amazon Bedrock AgentCore, and foundation-model application programming interfaces (APIs) for prompt and context engineering, structured outputs, tool use, prompt versioning, or model evaluation.Hands-on experience integrating deployed AI solutions with enterprise platforms through APIs or event-driven architectures and addressing identity, consent, real-time data, security, privacy, and data-residency requirements.Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve.Limited immigration sponsorship may be available.Preferred:\n\nExperience designing conversational or agentic customer experiences that include brand-safety controls, trust controls, response-latency measurement, and customer-experience measurement.Assess and benchmark software products, models, and technology options.Experience measuring discoverability in AI-powered answer and discovery experiences.Experience applying AI coding or design agents and agentic software development lifecycle (SDLC) practices with documented delivery-speed or quality measures.Experience taking prototypes or pilots into production with adoption and operating plans.Experience with customer data, identity resolution, and consent management for personalization and AI-driven decisions.Experience presenting AI architecture choices and trade-offs to chief technology officers (CTOs), chief data officers (CDOs), or chief marketing officers (CMOs).The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $141,200 to $278,300.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\n#Custom...",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/deloitte/Job/Customer-AI-Solution-Architect/-in-Baltimore,MD?jid=712357a9dda7c371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/manager-ai-solution-architect-at-kpmg-us-4483808510?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/eb9c22d9-b766-46da-aae4-8adb8b02eb13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-solution-architect-the-momba-group-baltimore--lifeworq-f481cc5b-fc72-496c-bf14-f10183748005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3991-371ebf3ae8162cc6810211280d57fd06?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-md-baltimore-ai-solution-architect-iris-software-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBBSSBTb2x1dGlvbiBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJEZWxvaXR0ZSIsImh0aWRvY2lkIjoiRkxaem1uemV2ODd1WHZRU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdYYzJTbGRaYVhORlJsRmtXWFIwVVdac1dYVXdOR1JEZW1jNUxVOXJUSFEwYUVoRE9FSjJiRkpHZERaUWMzWkJYM2hXTldnd01tNVVhalJrYzBKbGFFaEdPRUpMTjBFNGNYSlNXbEZvVVdOT01ucENNMGRWVG01U2MxSndjWEJ0TVdKYVdIWmpjakZzV1RoNlprZFlka0ZsTlRocGJIbzBVbHB2VUZwMlRuZ3dhVU5zVUhJU0ZqbFJibXhoZFVOSFFWcElhSEE0TkZBd1pVeElRMEVhSWtGSVRqQkZOMGMwUzBzeVRtdHJaalp4VkdGWFJtcG5SRzVaUlZwZmVHaFRWMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJGTFp6bW56ZXY4N3VYdlFTQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Solutions Architect – AI",
+      "company_name": "PSCI",
+      "location": "United States",
+      "via": "PSCI",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "9+ years of experience in software engineering, data engineering, AI, machine learning, or related technology disciplines",
+            "5+ years of experience in AI/ML architecture or a comparable technical leadership role",
+            "Proven experience designing and delivering production AI solutions within retail, e-commerce, supply chain, or a large consumer-facing environment",
+            "Strong hands-on experience with open-source AI and machine learning frameworks",
+            "Strong proficiency with Python and modern machine learning frameworks",
+            "Experience with Generative AI, LLMs, RAG architectures, vector search, and agentic AI technologies",
+            "Experience with modern enterprise data architectures including lakehouse, streaming, and batch-processing environments",
+            "Experience with enterprise cloud and data platforms",
+            "Demonstrated experience with MLOps, model monitoring, drift detection, and production AI observability",
+            "Understanding of AI security, governance, privacy, and responsible AI practices",
+            "Experience evaluating and integrating emerging AI technologies into existing enterprise environments",
+            "Ability to operate as both a hands-on technical builder and enterprise-level architect",
+            "Strong communication skills with the ability to work effectively with both technical and business stakeholders"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This individual will serve as both a hands-on technical architect and strategic AI leader, helping identify high-value use cases, establish scalable architecture standards, evaluate emerging technologies, and move AI solutions from concept through production",
+            "Define enterprise architecture, standards, and reusable patterns for AI, machine learning, and Generative AI solutions",
+            "Translate business requirements into scalable, secure, and production-ready AI architectures",
+            "Partner with business, product, engineering, data, and technology teams to identify and prioritize AI opportunities",
+            "Architect end-to-end AI solutions covering data ingestion, model development, inference, integration, and production deployment",
+            "Design solutions utilizing Generative AI, LLMs, RAG, vector search, tool calling, and agentic workflows",
+            "Evaluate and implement open-source AI and machine learning technologies",
+            "Provide hands-on technical guidance, including reference architectures, pipelines, schemas, and development patterns",
+            "Establish MLOps practices including CI/CD, model monitoring, automated retraining, drift detection, and cost management",
+            "Develop AI observability standards covering model performance, data quality, system health, latency, and production feedback loops",
+            "Establish security and governance standards for enterprise AI solutions",
+            "Address AI-specific risks including prompt injection, adversarial attacks, data poisoning, model security, and privacy concerns",
+            "Evaluate emerging AI technologies and determine how they can be integrated into existing enterprise applications and platforms",
+            "Lead build vs. buy vs. open-source evaluations for AI capabilities",
+            "Help establish and mature enterprise AI governance and Center of Excellence capabilities",
+            "Partner with technical teams to ensure AI architectures are practical, scalable, secure, and executable",
+            "Help teams adopt AI technologies and productivity tools safely and effectively"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=W9gCT_7GtK5Fgc1dAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQoCMRAAsb3exmprwUQFG60OCzkrIVgfSVxykZgNtytcaecD_KEvMTbTDMM071mzMZSeEikztKMfoqAX-L4-0HawgjM5YLRVAGU4EYWEi8MgUnivNXNSgcVK9MrTQ1NGR5O-k-M_eh7siCVZwX67W0-q5LCcX8yxg5jhmuvrBqbmyD-TY7eoigAAAA&shmds=v1_Ac3VAow3IJ173SpG12FFG1oy6u4Wm3K7_rAtBe99qxEggmn7xA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=W9gCT_7GtK5Fgc1dAAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.psci.com/jobs/solutions-architect-ai-a0erd00000bshelmar/",
+      "job_title": "Solutions Architect – AI",
+      "description": "Solutions Architect - AI\n\nLocation: Remote\n\nEmployment Type: Full-Time, Direct Hire\n\nPosition Summary\n\nOur client is seeking an experienced Solutions Architect - AI to lead the design and implementation of enterprise AI solutions across a complex, large-scale business environment.\n\nThis individual will serve as both a hands-on technical architect and strategic AI leader, helping identify high-value use cases, establish scalable architecture standards, evaluate emerging technologies, and move AI solutions from concept through production.\n\nResponsibilities\n\n- Define enterprise architecture, standards, and reusable patterns for AI, machine learning, and Generative AI solutions.\n- Translate business requirements into scalable, secure, and production-ready AI architectures.\n- Partner with business, product, engineering, data, and technology teams to identify and prioritize AI opportunities.\n- Architect end-to-end AI solutions covering data ingestion, model development, inference, integration, and production deployment.\n- Design solutions utilizing Generative AI, LLMs, RAG, vector search, tool calling, and agentic workflows.\n- Evaluate and implement open-source AI and machine learning technologies.\n- Provide hands-on technical guidance, including reference architectures, pipelines, schemas, and development patterns.\n- Establish MLOps practices including CI/CD, model monitoring, automated retraining, drift detection, and cost management.\n- Develop AI observability standards covering model performance, data quality, system health, latency, and production feedback loops.\n- Establish security and governance standards for enterprise AI solutions.\n- Address AI-specific risks including prompt injection, adversarial attacks, data poisoning, model security, and privacy concerns.\n- Evaluate emerging AI technologies and determine how they can be integrated into existing enterprise applications and platforms.\n- Lead build vs. buy vs. open-source evaluations for AI capabilities.\n- Help establish and mature enterprise AI governance and Center of Excellence capabilities.\n- Partner with technical teams to ensure AI architectures are practical, scalable, secure, and executable.\n- Help teams adopt AI technologies and productivity tools safely and effectively.\n\nRequired Qualifications\n\n- 9+ years of experience in software engineering, data engineering, AI, machine learning, or related technology disciplines.\n- 5+ years of experience in AI/ML architecture or a comparable technical leadership role.\n- Proven experience designing and delivering production AI solutions within retail, e-commerce, supply chain, or a large consumer-facing environment.\n- Strong hands-on experience with open-source AI and machine learning frameworks.\n- Strong proficiency with Python and modern machine learning frameworks.\n- Experience with Generative AI, LLMs, RAG architectures, vector search, and agentic AI technologies.\n- Experience with modern enterprise data architectures including lakehouse, streaming, and batch-processing environments.\n- Experience with enterprise cloud and data platforms.\n- Demonstrated experience with MLOps, model monitoring, drift detection, and production AI observability.\n- Understanding of AI security, governance, privacy, and responsible AI practices.\n- Experience evaluating and integrating emerging AI technologies into existing enterprise environments.\n- Ability to operate as both a hands-on technical builder and enterprise-level architect.\n- Strong communication skills with the ability to work effectively with both technical and business stakeholders.\n\nPreferred Qualifications\n\n- Experience helping establish or scale an enterprise AI Center of Excellence.\n- Direct experience within a retail or large consumer-facing organization.\n- Experience with AI red-teaming, adversarial testing, or AI risk assessment.\n- Experience contributing to or implementing open-source AI technologies.\n- Relevant cloud, AI, or machine learning certifications.",
+      "apply_options": [
+        {
+          "title": "PSCI",
+          "link": "https://www.psci.com/jobs/solutions-architect-ai-a0erd00000bshelmar/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-solutions-architect-ai-infrastructure-security_7ea1a1d8d96e7fd997e2f66092a396cc9702c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/senior-field-physical-security-solutions-architect--united-states--e5061f20522635d0a2c2440fae1b49640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SkillSync",
+          "link": "https://skillsync.c9a.fast-page.org/remote-jobs/senior-solutions-architect-ai-infrastructure-security-7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/sva-system-vertrieb-alexander-gmbh/ai-security-architect-sichere-ki-llm%E2%80%91architekturen-140989399/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobspawn",
+          "link": "https://jobspawn.liveblog365.com/job/security-architect-ai-technologies?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tsenta",
+          "link": "https://tsenta.com/jobs/openai-field-security-specialist-cyber-security-solutions-4d05550d-edc3-4f1a-9cbf-bbd29d53816f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2x1dGlvbnMgQXJjaGl0ZWN0IOKAkyBBSSIsImNvbXBhbnlfbmFtZSI6IlBTQ0kiLCJodGlkb2NpZCI6Ilc5Z0NUXzdHdEs1RmdjMWRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXVWRzVW0xNVR6QkJWRU56VW1wd1pWaFNjVXgwYm1sU2RWWlRhbHBIUlhGT1ltVmlXa1JZUjFnelgySkJWRmQyYUhwV2JubGZiSFZsTnpRM01sbGlXWGxyTUVSaVgzbFBWR0Y1YkZKTmExbDNPRUpZZDJaWmFqUkZOMHhZU21keWJXVkZiSFpoV1hnNVYxaFhTVzVWVVdWSk1GaDZiV3g0ZUdWWVNWQlFNekpxU0RjeVRua1NGamxSYm14aGRVTkhRVnBJYUhBNE5GQXdaVXhJUTBFYUlrRklUakJGTjBoYU1WQkhaekJUZFd0TmVqTmFRVmswYmxaRU1XTTNaWHBoTkZFIiwiZmN2IjoiMyIsImZjX2lkIjoiVzlnQ1RfN0d0SzVGZ2MxZEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2WUVDcmNFUVVSRVlsZGxZa0o2T0VWeVptNUxlV1pTVG5JMlZGTndhR3hKWDFabmVqTm9WMnA0UlROblpYZzJjRUZsWDBaV1JtMW1VV2RuV1VWQloyYzVNMnN5ZVZkUGQyWmZaSGhpWjBWeGJFRnpiRGx3ZW5sVVgyMWtRbVJvWVRsVlUzTm5aSEJYZG5OaGVFRkhjSGsxWWxSMVdWTm1WVk5XVERVeE9WaENRMDl0VFhOblZscDNiRkZDU1hndFUzUkxZa1JKWVRKbVlYZE9aVTlwVmxWSWNERnJXa3QyTldsa1RFZFhkVlJrT0RWblExZ3llVkozWlhkTmVsTXhkemR1YjFsaE1XbFpObFV6TlVkV2JWODBZVTgwVnpoRWJscGhjRWxGVlMxU1dIYzVZVXRpZFcxM09WUnljRXhaV25ONFFtUXlSVzl2VEZWcFkyY3dYekpSUkZWbExYZGtPRGxwWW1oV1FYQmZiRXhXYjBFdFZqaFZkV3h2YzNGSVIwWndSM2swWlhaTGVXY3RiVU4xVWxoa2IzVlBiVTF4WDFsTllYazJSWE5GUWkweWNtOUhWRVpEY21OWlp6aENZMlp6VVdoQ0xYUjFSbkI1WW5JNWNIZG1iVWhtYzNSWVV6WnJSMUZOTVRNNGNuZFhZMGRUY1RaT1oyVjVjbkptVnpKUllXZFZkMEZCZURselRXcGxTV1pCTkhBNGNqaHBVbTlvU1dwRk1tbDVkWGxKZURocVIxWkdRelpMTldsUFJEYzNXREpTVVVOdWIxVmxOR0l0ZEdOdVVtaGtkSE52YkdSdFdEVnJYM0p0UjNrNGFIUkJSa3N5VGt3ek9FcDJSREpJZDBselgyVmpkRmxZUkhZdGRXTkhVMHRPVjNWQlpUTm1TV2h4U3pKUGN6WnRVV0p6Y1U4NU0wazBXbWd0Um5SMlJsWkpaV2swZFV4Uk16UkhVR2hoY1hsVGJYSmhRalpNTWtGeU9FcG5kWGhGUjAxeE4wYzFVRlZSRWhZNVVXNXNZWFZEUjBGYVNHaHdPRFJRTUdWTVNFTkJHaUpCU0U0d1JUZEZURGwyTUdsMGVqWmhPSFIwTW1wMk1FMUtlbVZKWmxGSE5tUlIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2WUVDcmNFUVVSRVlsZGxZa0o2T0VWeVptNUxlV1pTVG5JMlZGTndhR3hKWDFabmVqTm9WMnA0UlROblpYZzJjRUZsWDBaV1JtMW1VV2RuV1VWQloyYzVNMnN5ZVZkUGQyWmZaSGhpWjBWeGJFRnpiRGx3ZW5sVVgyMWtRbVJvWVRsVlUzTm5aSEJYZG5OaGVFRkhjSGsxWWxSMVdWTm1WVk5XVERVeE9WaENRMDl0VFhOblZscDNiRkZDU1hndFUzUkxZa1JKWVRKbVlYZE9aVTlwVmxWSWNERnJXa3QyTldsa1RFZFhkVlJrT0RWblExZ3llVkozWlhkTmVsTXhkemR1YjFsaE1XbFpObFV6TlVkV2JWODBZVTgwVnpoRWJscGhjRWxGVlMxU1dIYzVZVXRpZFcxM09WUnljRXhaV25ONFFtUXlSVzl2VEZWcFkyY3dYekpSUkZWbExYZGtPRGxwWW1oV1FYQmZiRXhXYjBFdFZqaFZkV3h2YzNGSVIwWndSM2swWlhaTGVXY3RiVU4xVWxoa2IzVlBiVTF4WDFsTllYazJSWE5GUWkweWNtOUhWRVpEY21OWlp6aENZMlp6VVdoQ0xYUjFSbkI1WW5JNWNIZG1iVWhtYzNSWVV6WnJSMUZOTVRNNGNuZFhZMGRUY1RaT1oyVjVjbkptVnpKUllXZFZkMEZCZURselRXcGxTV1pCTkhBNGNqaHBVbTlvU1dwRk1tbDVkWGxKZURocVIxWkdRelpMTldsUFJEYzNXREpTVVVOdWIxVmxOR0l0ZEdOdVVtaGtkSE52YkdSdFdEVnJYM0p0UjNrNGFIUkJSa3N5VGt3ek9FcDJSREpJZDBselgyVmpkRmxZUkhZdGRXTkhVMHRPVjNWQlpUTm1TV2h4U3pKUGN6WnRVV0p6Y1U4NU0wazBXbWd0Um5SMlJsWkpaV2swZFV4Uk16UkhVR2hoY1hsVGJYSmhRalpNTWtGeU9FcG5kWGhGUjAxeE4wYzFVRlZSRWhZNVVXNXNZWFZEUjBGYVNHaHdPRFJRTUdWTVNFTkJHaUpCU0U0d1JUZEZURGwyTUdsMGVqWmhPSFIwTW1wMk1FMUtlbVZKWmxGSE5tUlIiLCJmY3YiOiIzIn0%3D&q=AI+Solutions+Architect&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "AI Solutions Architect",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:19:48.382524+00:00",
+    "request_fingerprint": "190de72af368d376689f827a2640b9787ad58ad8fa2eb4566f50eb4ce06f66c4",
+    "job_count": 9
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "titles_completed": 30,
+  "pages_per_title": 3,
+  "production_response_files": 90,
+  "raw_job_records": 847,
+  "distinct_nonempty_job_ids": 847,
+  "records_without_description": 0,
+  "records_per_title_min": 24,
+  "records_per_title_max": 30,
+  "search_attempts": 90,
+  "failed_search_attempts": 0,
+  "minimum_observed_request_interval_seconds": 17.001,
+  "collection_start_utc": "2026-10-30T21:09:19.175143+00:00",
+  "collection_end_utc": "2026-10-30T21:34:32.777806+00:00",
+  "provided_example_included": false,
+  "active_key_scan_passed": true,
+  "notebook_has_error_outputs": false,
+  "completion_status": "COMPLETE",
+  "account_hourly_limit": 250,
+  "searches_left_after_collection": 160
+}

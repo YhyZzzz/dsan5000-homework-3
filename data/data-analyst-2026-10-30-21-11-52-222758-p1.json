@@ -1,0 +1,1087 @@
+{
+  "search_metadata": {
+    "id": "6ae50818d928da3071e5581b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QHWKWCKc32N-sOAbtF0aJmPCiU-3SqtR7VcgbIvfeGw/6ae50818d928da3071e5581b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/QHWKWCKc32N-sOAbtF0aJmPCiU-3SqtR7VcgbIvfeGw/6ae50818d928da3071e5581b.md",
+    "created_at": "2026-10-30 21:11:52 UTC",
+    "processed_at": "2026-10-30 21:11:52 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/QHWKWCKc32N-sOAbtF0aJmPCiU-3SqtR7VcgbIvfeGw/6ae50818d928da3071e5581b.html",
+    "total_time_taken": 2.16
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXf9H1cojIq6y6hRz60fQQxcFgvl1uBkxbga9xqozGQO7bW2BGqgSBmwIBits6iM_mbpPYzNzwmAQrN6mOIsUUBC3zocubSdEuxekgmLVR7oVgOl4vUiEqzvQ-hTv22gZk0D1R40XEXt7n6EWsyDZax7H_S-s",
+        "q": "Data Analyst no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXf9H1cojIq6y6hRz60fQQxcFgvl1uBkxbga9xqozGQO7bW2BGqgSBmwIBits6iM_mbpPYzNzwmAQrN6mOIsUUBC3zocubSdEuxekgmLVR7oVgOl4vUiEqzvQ-hTv22gZk0D1R40XEXt7n6EWsyDZax7H_S-s&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXf9H1cojIq6y6hRz60fQQxcFgvl1uBkxbga9xqozGQO7bW2BGqgSBmwIBits6iM_mbpPYzNzwmAQrN6mOIsUUBC3zocubSdEuxekgmLVR7oVgOl4vUiEqzvQ-hTv22gZk0D1R40XEXt7n6EWsyDZax7H_S-s&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQxKsJKAF6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDiH7o5Cqv7qkTMH1El0WGPUCk0f6Q:1793394714011&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&udm=8&sa=X&ved=2ahUKEwiDmPv20-KXAxURlCsGHUI-EsgQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Lead Customer Insights & Data Analyst",
+      "company_name": "Ryder System, Inc.",
+      "location": "Santa Fe, NM",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Detailed oriented with excellent follow-up practices",
+            "A strong sense of urgency and commitment to get the job done quickly and with high-level of quality",
+            "Capable of multi-tasking, highly organized, with excellent time management skills",
+            "Demonstrates problem solving skills and the ability to find creative solutions to challenges",
+            "Effective written and verbal communication skills, with the ability to interact with management and across business and IT groups",
+            "Ability to work independently and as a member of a team",
+            "Possesses strong technical aptitude",
+            "Advanced knowledge of complex query writing using SQL with the ability to join multiple tables, summarizing, grouping, data manipulation, performing analytical functions, etc",
+            "Familiarity and knowledge of other programing languages and analytical tools (Python, PowerBI, R, DataBricks, etc.)",
+            "Bachelor's Degree in Supply Chain, Data Analytics or equivalent, Required",
+            "6 years or more in Applied Project(s) experience: Experience in demonstrating, digital transformation, data management in an educational/project., Required",
+            "6 years or more in Experience in creating dashboards for diagnostic analysis across the business",
+            "Experience working in a cloud environment., Required",
+            "4 years or more in Works in an individual contributor role as a key member of the team that others rely on., Required",
+            "Some positions require additional screening that may include employment and education verification; motor vehicle records check and a road test; and/or badging or background requirements of the customer to which you are assigned"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The compensation offered to a candidate may be influenced by a variety of factors, including the candidate’s relevant experience; education, including relevant degrees or certifications; work location; market data/ranges; internal equity; internal salary ranges; etc",
+            "The position may also be eligible to receive an annual bonus, commission, and/or long-term incentive plan based on the level and/or type",
+            "Salaried",
+            "Minimum Pay Range",
+            "$115,000.00",
+            "$125,000.00",
+            "For all Full-time positions only : Ryder offers comprehensive health and welfare benefits, to include medical, prescription, dental, vision, life insurance and disability insurance options, as well as paid time off for vacation, illness, bereavement, family and parental leave, and a tax-advantaged 401(k) retirement savings plan"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Customer Insights & Data Analytics Lead Data Analyst is a highly experienced technical resource responsible for leading complex analytical initiatives and translating large internal and external data sources into actionable insights that support Ryder’s Marketing team and broader business objectives",
+            "This role combines advanced analytical expertise with the ability to lead analytical workstreams and guide projects from concept through delivery",
+            "The Lead Data Analyst is responsible for designing and executing complex analyses, integrating data from multiple systems, and developing scalable reporting and analytical solutions",
+            "They ensure that insights are clearly communicated to stakeholders and leadership, translating technical findings into meaningful business recommendations",
+            "The Lead Data Analyst is expected to proactively identify opportunities to enhance data processes, improve reporting methodologies, and expand the team’s analytical capabilities",
+            "They must be comfortable working with large datasets, managing complex analytical requests, and collaborating across the organization with partners in Marketing, Sales, IT, and other business units to drive impactful insights and successful outcomes",
+            "The Lead Data Analyst is responsible for planning and executing complex analytical initiatives, including developing project plans, managing timelines, and ensuring successful delivery of key outputs",
+            "They proactively communicate progress, challenges, and results to stakeholders and leadership to maintain alignment and drive successful outcomes",
+            "Lead the design, development, and delivery of advanced dashboards, reporting solutions, and analytical products to support executive leadership and key strategic initiatives",
+            "Own project planning, including defining scope, timelines, and deliverables, and provide guidance on complex ad hoc reporting requests to ensure outputs deliver actionable insights",
+            "Design, enhance, and oversee scalable reporting frameworks across multiple product lines and business segments, ensuring consistency, usability, and alignment with evolving business needs",
+            "Manage associated workstreams and timelines to ensure successful implementation",
+            "Lead comprehensive customer and market analyses across Ryder business units, including customer and market sizing, share analysis, growth trends, segmentation, and other advanced analytical initiatives that support Marketing strategy and decision making",
+            "Drive these initiatives from planning through execution and delivery",
+            "Establish and reinforce best practices for data accuracy and integrity, supporting periodic audits, validation processes, and quality checks to ensure the reliability of reporting and analytical outputs",
+            "Serve as a technical leader and steward of the team’s data assets (both owned and unowned), helping organize and enhance data resources, identify issues and opportunities for improvement, and partner with leadership to strengthen the team’s analytical infrastructure",
+            "Lead the acquisition, integration, cleaning, validation, and analysis of data from multiple systems, databases, and tools to support complex analytical initiatives and improve the accessibility and usability of data assets",
+            "Plan and coordinate data related activities to align with project timelines and priorities",
+            "Performs other duties as assigned",
+            "Consistently makes connections to account for the bigger picture.",
+            "Ability to create and maintain professional relationships within all levels of the organization (peers, work groups, customers, supervisors)",
+            "Work cross-functionally in order to achieve desired results",
+            "Communicates work to customers and leadership clearly in nontechnical language"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=0-OtgCwW7nohY58hAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKvBwkLirgg2aiOKoqiFOUCYJEM2stkJmRGS03hV1-aX_yXfSbK_E1Zw_IhySz1cgzS1U4E5nFARDgH9KApLuHEBQtiXDjjAhbn2NN051U621op4U4uiNqUpubUcqODBvrmQf3Jx2FPnUSlfb1aD6UK9mL3GKpJZ_FObRro00ATIMET4TCk8Hz8HyzJqogAAAA&shmds=v1_Ac3VAoyrJaDtFQPMlqNPnQ2I9RbokPdtboq3XPQTekmLQt5PeA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=0-OtgCwW7nohY58hAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/-x7ol8NBjpfF0P5RqUFc0ifVhNwxUQwVNuEwr4C3qGk.jpeg",
+      "extensions": [
+        "16 hours ago",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/lead-customer-insights-data-analyst-at-ryder-system-inc-4484810634",
+      "job_title": "Lead Customer Insights & Data Analyst",
+      "description": "Job Seekers can review the Job Applicant Privacy Policy by clicking here (http://ryder.com/job-applicant-privacy-policy) .\n\nJob Description\n\nThe Customer Insights & Data Analytics Lead Data Analyst is a highly experienced technical resource responsible for leading complex analytical initiatives and translating large internal and external data sources into actionable insights that support Ryder’s Marketing team and broader business objectives. This role combines advanced analytical expertise with the ability to lead analytical workstreams and guide projects from concept through delivery. The Lead Data Analyst is responsible for designing and executing complex analyses, integrating data from multiple systems, and developing scalable reporting and analytical solutions. They ensure that insights are clearly communicated to stakeholders and leadership, translating technical findings into meaningful business recommendations. The Lead Data Analyst is expected to proactively identify opportunities to enhance data processes, improve reporting methodologies, and expand the team’s analytical capabilities. They must be comfortable working with large datasets, managing complex analytical requests, and collaborating across the organization with partners in Marketing, Sales, IT, and other business units to drive impactful insights and successful outcomes. The Lead Data Analyst is responsible for planning and executing complex analytical initiatives, including developing project plans, managing timelines, and ensuring successful delivery of key outputs. They proactively communicate progress, challenges, and results to stakeholders and leadership to maintain alignment and drive successful outcomes.\n\nResponsibilities\n\nLead the design, development, and delivery of advanced dashboards, reporting solutions, and analytical products to support executive leadership and key strategic initiatives. Own project planning, including defining scope, timelines, and deliverables, and provide guidance on complex ad hoc reporting requests to ensure outputs deliver actionable insights.Design, enhance, and oversee scalable reporting frameworks across multiple product lines and business segments, ensuring consistency, usability, and alignment with evolving business needs. Manage associated workstreams and timelines to ensure successful implementation.Lead comprehensive customer and market analyses across Ryder business units, including customer and market sizing, share analysis, growth trends, segmentation, and other advanced analytical initiatives that support Marketing strategy and decision making. Drive these initiatives from planning through execution and delivery.Establish and reinforce best practices for data accuracy and integrity, supporting periodic audits, validation processes, and quality checks to ensure the reliability of reporting and analytical outputs. Serve as a technical leader and steward of the team’s data assets (both owned and unowned), helping organize and enhance data resources, identify issues and opportunities for improvement, and partner with leadership to strengthen the team’s analytical infrastructure.  Lead the acquisition, integration, cleaning, validation, and analysis of data from multiple systems, databases, and tools to support complex analytical initiatives and improve the accessibility and usability of data assets. Plan and coordinate data related activities to align with project timelines and priorities.\n\nAdditional Responsibilities\n\n     Performs other duties as assigned.\n\nSkills And Abilities\n\nDetailed oriented with excellent follow-up practicesA strong sense of urgency and commitment to get the job done quickly and with high-level of quality  Capable of multi-tasking, highly organized, with excellent time management skills Demonstrates problem solving skills and the ability to find creative solutions to challenges. Consistently makes connections to account for the bigger picture. Ability to create and maintain professional relationships within all levels of the organization (peers, work groups, customers, supervisors).Work cross-functionally in order to achieve desired results Communicates work to customers and leadership clearly in nontechnical language. Effective written and verbal communication skills, with the ability to interact with management and across business and IT groups Ability to work independently and as a member of a teamPossesses strong technical aptitude\n\nKnowledge\n\nAdvanced knowledge of complex query writing using SQL with the ability to join multiple tables, summarizing, grouping, data manipulation, performing analytical functions, etc.Familiarity and knowledge of other programing languages and analytical tools (Python, PowerBI, R, DataBricks, etc.)\n\nQualifications\n\nBachelor's Degree in Supply Chain, Data Analytics or equivalent, RequiredMaster's Degree in Supply Chain, Data Analytics, MBA or equivalent, Preferred6 years or more in Applied Project(s) experience: Experience in demonstrating, digital transformation, data management in an educational/project., Required6 years or more in Experience in creating dashboards for diagnostic analysis across the business. Experience working in a cloud environment., Required4 years or more in Works in an individual contributor role as a key member of the team that others rely on., Required,,,\n\nTravel\n\nYes,\n\nJob Category: Data Science & Analytics\n\nOur Culture & Commitment\n\nAt Ryder, you’re trusted to make an impact—while enjoying room to grow and having a voice that’s heard. Our culture is built on respect, collaboration, and shared pride in doing great work rooted in innovation and safety.\n\nYour Voice. Your Success. The Future We Build Together.\n\nCompensation Information\n\nThe compensation offered to a candidate may be influenced by a variety of factors, including the candidate’s relevant experience; education, including relevant degrees or certifications; work location; market data/ranges; internal equity; internal salary ranges; etc. The position may also be eligible to receive an annual bonus, commission, and/or long-term incentive plan based on the level and/or type. Compensation ranges for the position are below:\n\nPay Type\n\nSalaried\n\nMinimum Pay Range\n\n$115,000.00\n\nMaximum Pay Range\n\n$125,000.00\n\nBenefits Information\n\nFor all Full-time positions only : Ryder offers comprehensive health and welfare benefits, to include medical, prescription, dental, vision, life insurance and disability insurance options, as well as paid time off for vacation, illness, bereavement, family and parental leave, and a tax-advantaged 401(k) retirement savings plan.\n\nFor more information about benefits, click here (https://ryder.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=4022345&hashed=256118533) to download the comprehensive benefits summary.\n\nRyder is proud to be an Equal Opportunity Employer and Drug Free workplace.\n\nAll qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, among other things, or status as a qualified individual with disability.\n\nImportant Note\n\nSome positions require additional screening that may include employment and education verification; motor vehicle records check and a road test; and/or badging or background requirements of the customer to which you are assigned.\n\nSecurity Notice For Applicants\n\nRyder will only communicate with an applicant directly from a [@ryder.com] email address and will never conduct an interview online through a chat type forum, messaging app (such as WhatsApp or Telegram), or via an online questionnaire. During an interview, Ryder will never ask for any form of payment or banking details and will never solicit personal information outside of the formal submitted application through www.ryder.com/careers .\n\nShould you have any questions regarding the application process or to verify the legitimacy of an interview or Ryder representative, please contact Ryder at careers@ryder.com .\n\nCurrent Employees\n\nIf you are a current employee at Ryder, please click here (https://wd5.myworkday.com/ryder/d/task/2998$46522.htmld) to log in to Workday to apply using the internal application process.\n\nJob Seekers can review the Job Applicant Privacy Policy by clicking here (http://ryder.com/job-applicant-privacy-policy) .\n\n\\#wd",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/lead-customer-insights-data-analyst-at-ryder-system-inc-4484810634?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/lead-customer-insights-data-analyst-ryder-system-inc-santa-fe--fj-2441024095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEN1c3RvbWVyIEluc2lnaHRzIFx1MDAyNiBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJSeWRlciBTeXN0ZW0sIEluYy4iLCJodGlkb2NpZCI6IjAtT3RnQ3dXN25vaFk1OGhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZa3BTTm1WcFNWTmxUSFV3ZDNkdVRXVmpXVU4xTkhWdlpqbGFkRTlXTTJReVdrWjFVME5uVUdsVVVGaG9XVEUyVlRGMVRIUTNhVnBxWW5RdGVtaG1ibnBPT0ZRNVEySlJUMGd0TUVRMlpIbHhUVXBNTUdNNFNYbGtkbWd6ZEZjNFREaEVVVUZuZFVaTmIySXpabTE1TlZsR2JERndSRFprTmxOcE5tcENkRlZSU21zeVYwNFNGa2RuYW14aGIwMXFhMkZwZFRSUlgwTmZUV3BCUkVFYUlrRklUakJGTjBkb1FqUnVVMjV3ZVMxa2RVdHZiRUZJZW1kRUxVcHRNeTFKZUVFIiwiZmN2IjoiMyIsImZjX2lkIjoiMC1PdGdDd1c3bm9oWTU4aEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Sr Stf - E5",
+      "company_name": "Lockheed Martin",
+      "location": "Anywhere",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors degree in a related field or 8+ years of related experience in absence of a Bachelors degree"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Full-time salary range (GEOZONE 1): $161300.00 - $299500.00",
+            "Full-time salary range (GEOZONE 2): $145100.00 - $269500.00",
+            "Full-time salary range (GEOZONE 3): $129000.00 - $239600.00",
+            "Includes metropolitan areas such as Dallas–Fort Worth, TX; Orlando, FL; Grand Prairie, TX; Marietta, GA; etc",
+            "Full-time salary range (GEOZONE 4): $116100.00 - $215700.00",
+            "Benefits offered: Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP, Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability",
+            "Annual short-term and/or long-term incentive compensation programs may be offered depending on the position",
+            "Payments under these annual programs are not guaranteed and can vary from year to year and are tied to a range of performance metrics",
+            "For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+            "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+            "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsible for collecting, processing, and analyzing data to develop immersive stories that answer business questions",
+            "Using proven and sound statistical methods, the analyst draws insights from data, and translates those insights into action that drive business results",
+            "Data Analysts are extremely resourceful and able to find novel new data sources to enrich their analysis",
+            "They apply mathematical and statistical methods to business and risk management problems.Mine, process, and summarize data; Manage the quality assurance of data scraping, query databases for stakeholder requests, and triage data issues for timely resolutions; Analyze large datasets, draw valid inferences and prepare insights in narrative or visual forms, including dashboards; Set up and maintain data processes and new analytics capabilities; Produce and track key performance indicators; Ability to formulate functional and technical requirements from business problems; Program management of key tasks and resources to achieve cost and schedule",
+            "Includes metropolitan areas such as Sunnyvale CA; Pal Alto, CA; New York City metropolitan area; Newark, New Jersey; etc",
+            "Includes metropolitan areas such as Denver, CO; King of Prussia, PA; Stratford, CT; Moorestown, NJ; etc",
+            "Includes metropolitan areas such as Camden, AR; Lexington, KY; Lufkin, TX; etc"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=AzlS5ZhBiiFI2qEaAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nON0s2IjQRSdBEUSn4Fwu8WxaYy7kbqh_4Scb4fGGN7zmu2jMERXhkDB-RMEWsPqENZy6qgs7EMLiA3CCM_MQabkPqll2xojEdhBFHX3r-W04kePZTOzkr14CFsoRlfptt5nbnIYVXNm_AtEDblh0TFC5p1FrsPVE8gOhpov6kwAAAA&shmds=v1_Ac3VAozx774U2dOxtZAMggZPneP4va_FcfJxL_5zUGP_gVHrew&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=AzlS5ZhBiiFI2qEaAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/6NOVB53pM_X0nmDahqx_F_kX7Qz5pd36srmi9BZIz1Y.jpeg",
+      "extensions": [
+        "116K–300K a year",
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=31832109a0340b5e",
+      "job_title": "Data Analyst Sr Stf - E5",
+      "description": "Standard Job Description\n   \n   \n    Responsible for collecting, processing, and analyzing data to develop immersive stories that answer business questions. Using proven and sound statistical methods, the analyst draws insights from data, and translates those insights into action that drive business results. Data Analysts are extremely resourceful and able to find novel new data sources to enrich their analysis. They apply mathematical and statistical methods to business and risk management problems.Mine, process, and summarize data; Manage the quality assurance of data scraping, query databases for stakeholder requests, and triage data issues for timely resolutions; Analyze large datasets, draw valid inferences and prepare insights in narrative or visual forms, including dashboards; Set up and maintain data processes and new analytics capabilities; Produce and track key performance indicators; Ability to formulate functional and technical requirements from business problems; Program management of key tasks and resources to achieve cost and schedule\n   \n  \n  \n   \n     Basic Qualifications\n   \n   \n    \n     Bachelors degree in a related field or 8+ years of related experience in absence of a Bachelors degree\n    \n   \n  \n  \n\n\n  \n   \n    \n\n       Desired Skills\n   \n   \n    \n     Project Management Experience\n     Communication Skills\n     Change Management Skills\n     Training Skills\n     SAP Experience\n     Project Risk Assessment Skills\n     Program Schedule\n     Product Lifecyle\n    \n   \n  \n \n \n\n\n \n\n    Pay Information\n\n\n  GeoZone Definition: GeoZones are geographic groupings created by Lockheed Martin to align compensation ranges with regional labor markets and cost-of-labor differences across the United States. Locations are assigned a Geo Zone based on the primary work location of the role.\n\n\n \n  Full-time salary range (GEOZONE 1): $161300.00 - $299500.00 \n   \n    Includes metropolitan areas such as Sunnyvale CA; Pal Alto, CA; New York City metropolitan area; Newark, New Jersey; etc.\n   \n  Full-time salary range (GEOZONE 2): $145100.00 - $269500.00 \n   \n    Includes metropolitan areas such as Denver, CO; King of Prussia, PA; Stratford, CT; Moorestown, NJ; etc.\n   \n  Full-time salary range (GEOZONE 3): $129000.00 - $239600.00 \n   \n    Includes metropolitan areas such as Dallas–Fort Worth, TX; Orlando, FL; Grand Prairie, TX; Marietta, GA; etc.\n   \n  Full-time salary range (GEOZONE 4): $116100.00 - $215700.00 \n   \n    Includes metropolitan areas such as Camden, AR; Lexington, KY; Lufkin, TX; etc.\n   \n \n At Lockheed Martin, we know mission success starts with taking care of our people. Our Total Rewards program is designed to attract top talent, support your well-being, and help you grow—both professionally and personally.\n\n\n The salary range for this position is as listed on the requisition. Please note that the salary information listed is a general guideline only.\n\n   Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market(work location) and business considerations when extending an offer.\n\n\n  Benefits offered: Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP, Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability.\n\n\n \n  Annual short-term and/or long-term incentive compensation programs may be offered depending on the position. Payments under these annual programs are not guaranteed and can vary from year to year and are tied to a range of performance metrics.\n  For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=31832109a0340b5e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/ERP-Business-Analyst-Sr-Stf-E5/-in-Fort-Worth,TX?jid=68ff42201fe4c7a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/erp-business-analyst-sr-stf-e5-lockheed-martin-JV_KO0,30_KE31,46.htm?jl=1010282064858&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/Sr-Principal-Cyber-Architect---17854_R10254605?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/sr-principal-cyber-architect-17854--united-states--ef1aba2e0139dd490c7abd48d153951b9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/systems-engineer-sr-stf-e5-at-lockheed-martin-4475227410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ac406bb4ac55253f5d7062e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Eightfold AI",
+          "link": "https://lockheedmartin.eightfold.ai/careers/job/996477245470-facilities-projects-rep-sr-stf-e5-bethesda-md?domain=lockheedmartin.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgU3IgU3RmIC0gRTUiLCJjb21wYW55X25hbWUiOiJMb2NraGVlZCBNYXJ0aW4iLCJodGlkb2NpZCI6IkF6bFM1WmhCaWlGSTJxRWFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZbE10VkdSM05URlRabFZJUjBkTVFYazNXakpYUTNOQ1dGRjVTMmxSVnpjM01uazNOVGxHUzBaUGExVnVlblZ5ZWpCUlNqbEtRMWROUm5aYU9XdE9kMVZwYmxkU1FsazNlV2xoUm1oVk0zQmlNa05MYTI5UVNsRmtRak4xVW5OaFEyaEVjR1EwZUdoUVJ6Tm5ibUp4Wnprd2F6TjBXRjltYzFjME4yUmFlRUZHWW5veWVHVVNGa2RuYW14aGIwMXFhMkZwZFRSUlgwTmZUV3BCUkVFYUlrRklUakJGTjBkMmQycFhTVXBGVTJGQ2FqTjVkMHhZU0dOb1JGOVlkRlZWZFhjIiwiZmN2IjoiMyIsImZjX2lkIjoiQXpsUzVaaEJpaUZJMnFFYUFBQUFBQT09In0="
+    },
+    {
+      "title": "Sr Data Analyst, Ecommerce & Product Analytics (Experimentation, Math/Stats, A/B testing, ML)",
+      "company_name": "1114 Target Enterprise Inc",
+      "location": "United States",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=tA2Ja2un0Lrks7yoAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOzUrEQBCE8bqP4KlOiz_ZjBG96GnFsCgKwup5mcw2k5Gke5juhfi2PooJXgqKD76q1e_ZyvYFz948tuyHH7UKbZBxpBIIa3wUOZ6C_UNLQXHRTplKGonNWxKu8O6td_u5aYWte4KRWuI4g7dLbPAqHZR8CT2EsROJA50_9mZZH5xTHeqoiyrU864Tpk4m9y2dLnHQ3hfKgzc63N7fTHXmeHXdNM0dPn2JZGjZqOSSlPDCAYnxxcnoiOUR6R84EsdG4wAAAA&shmds=v1_Ac3VAoxUn3GCdeghh1a-ZxgCD06XM7Xmjrtz6kjzMyTh6DIrTg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=tA2Ja2un0Lrks7yoAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Sr-Data-Analyst--Ecommerce---Product-Analytics--Experimentation--Math-Stats--A-B-testing--ML-_R0000476814",
+      "job_title": "Sr Data Analyst, Ecommerce & Product Analytics (Experimentation, Math/Stats, A/B testing, ML)",
+      "description": "The pay range is $88,000.00 - $158,000.00 Pay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for eligible team members include 401(k), employee discount, short term disability, long term disability, paid sick leave, paid national holidays, and paid vacation. Find competitive benefits from financial and education to well-being and beyond at https://corporate.target.com/careers/benefits. About us: Working at Target means helping all families discover the joy of everyday life. We bring that vision to life through our values and culture. Learn more about Target here. Data & Analytics—Business Insights & Analytics Behind one of the world’s best loved brands is a uniquely capable and brilliant team of applied data scientists, engineers and data analysts. The Target Data & Analytics team creates the tools and data products to sustainably educate and enable our business partners to make great data-based decisions at Target. We help develop the technology that personalizes the guest experience - from product recommendations to relevant ad content. We’re also the source of the data and analytics behind Target’s Search applications, fraud detection, Supply Chain optimization and demand forecasting. We play a key role in identifying the test-and-measure or A/B test opportunities that continuously help Target improve the guest experience, whether they love to shop in stores or at Target.com. A role with our Digital Analytics and Insights group means being part of a team that enables data-driven decision-making to enhance business performance in the modern retail landscape. As a Senior Data Analyst, you will leverage data, statistics, and visualization to generate actionable insights that drive value across multiple business functions. In this role, you will utilize market-leading tools, data automation, and analytical methodologies to support reporting and performance measurement. You will collaborate with cross-functional teams to analyze trends, optimize digital strategies, and provide clear recommendations for business growth. We are looking for an analytical thinker with hands-on experience in data extraction, transformation, and visualization. The ideal candidate should be comfortable working with large datasets, building scalable reports, and simplifying complex data to enable efficient decision-making. If you are passionate about analytics, can work independently as well as in a team, and have a keen eye for identifying opportunities through data, you will thrive in our team! Core responsibilities of this job are described within this job description. Job duties may change at any time due to business needs. About you: 4-year degree or equivalent experience 3+ years of experience as a Data Analyst in industry with strong performance in a quantitative field or equivalent experience Advanced SQL experience writing complex queries and accomplished in Python or R Demonstrated experience in analytics tools such as: SQL, Hadoop, Hive, Spark, Power BI, Adobe Analytics (or Google Analytics) and/or equivalent technologies Knowledge of A/B Testing methods and time series forecasting models including statistical analysis Builds detailed reports and dashboards using various tools, designs and implements data visualizations to communicate complex data clearly. Prepare data models and analysis to identify, analyze and interpret trends or patterns in complex data sets for values and new opportunities. Experience leveraging advanced analytics and AI-driven approaches (e.g., predictive modeling, machine learning, or AI-enabled tools) to enhance decision-making Works closely with cross functional teams to understand data needs, value opportunities and delivers solutions in partnership with digital technology and data engineering teams to ensure data integrity and accuracy Ensures the accuracy, consistency, and security of data across all reports and analysis Solid problem solving, analytical skills, data curiosity, data mining, Data creation and consolidation Excellent communication skills with the ability to speak to both business and technical teams, and translate ideas between them Cultivates and maintains positive partners relationships to understand their data needs, provides insights and finds improvement opportunities, and ensures reporting solutions address key objectives This position will operate as a Hybrid/Flex for Your Day work arrangement based on Target’s needs. A Hybrid/Flex for Your Day work arrangement means the team member’s core role will need to be performed both onsite at the Target HQ MN location the role is assigned to and virtually, depending upon what your role, team and tasks require for that day. Work duties cannot be performed outside of the country of the primary work location, unless otherwise prescribed by Target. Click here if you are curious to learn more about Minnesota. Benefits Eligibility Please paste this url into your preferred browser to learn about benefits eligibility for this role: https://tgt.biz/BenefitsForYou_D Americans with Disabilities Act (ADA) In compliance with state and federal laws, Target will make reasonable accommodations for applicants with disabilities. If a reasonable accommodation is needed to participate in the job application or interview process, please reach out to candidate.accommodations@HRHelp.Target.com. Non-accommodation-related requests, such as application follow-ups or technical issues, will not be addressed through this channel.   Target is one of the world’s most recognized brands and one of America’s leading retailers. We make Target our guests’ preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver. Target is committed to responsible corporate citizenship, ethical business practices, environmental stewardship and generous community support. Since 1946, we have given 5 percent of our profits back to our communities. Our goal is to work as one team to fulfill our unique brand promise to our guests, wherever and whenever they choose to shop. We'll contact you if you're selected for next steps. In the meantime, follow us at A Bullseye View for the latest news. Our Benefits We care about and invest in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for eligible team members include 401(k), employee discount, short term disability, long term disability, paid sick leave, paid national holidays, and paid vacation. Find competitive benefits from financial and education to well-being and beyond at https://corporate.target.com/careers/benefits.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Sr-Data-Analyst--Ecommerce---Product-Analytics--Experimentation--Math-Stats--A-B-testing--ML-_R0000476814?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Zapply.jobs",
+          "link": "https://zapply.jobs/jobs/84b50494-d00d-43e3-9665-fef0fa38e398?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EduCativ",
+          "link": "https://educativ.net/jobs/job/6754593-sr-data-analyst-ecommerce-product-analytics-experimentation-mathstats-ab-testing-ml-1000-nicollet-mall-minneapolismn-55403-2542/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBEYXRhIEFuYWx5c3QsIEVjb21tZXJjZSBcdTAwMjYgUHJvZHVjdCBBbmFseXRpY3MgKEV4cGVyaW1lbnRhdGlvbiwgTWF0aC9TdGF0cywgQS9CIHRlc3RpbmcsIE1MKSIsImNvbXBhbnlfbmFtZSI6IjExMTQgVGFyZ2V0IEVudGVycHJpc2UgSW5jIiwiaHRpZG9jaWQiOiJ0QTJKYTJ1bjBMcmtzN3lvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV2tGamVFRmxNMnBzTnpWVFlqaHZiblptVFhjNGJtVXpWMVZPU1hWQmRUTnNNRzlTWWxOV2IwbDFRbk5qVjBWdGNYWmtMVVpVV0ZCMFdqTlliMTlYYTA5aU9EZzNTbXBRV1hGU1gzVnFhbHBWYnpoSE1VOU1TVXd6UkdkV1dqRmhTVmhDVVVGSmVVaEZabTVVYWtKbU1sUTBNR3RmYzA4MU1qRlJPVTVSVVhCWVJFcDZTbThTRmtkbmFteGhiMDFxYTJGcGRUUlJYME5mVFdwQlJFRWFJa0ZJVGpCRk4wWkZSSFZ2UkhWSWIzTXhiV00wTFhkMWJIbzJXblZrU0hsVk9GRSIsImZjdiI6IjMiLCJmY19pZCI6InRBMkphMnVuMExya3M3eW9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Data Analyst - Jefferson County Public LIbrary",
+      "company_name": "Jefferson County",
+      "location": "Lakewood, CO",
+      "via": "Careers In Government",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Organizesand monitorscomplex data collectionprocessesforstate, Federal, andlocal data analyticsand reporting",
+            "Bachelor's degree in Data Analytics, Statistics, Information Systems, Business Administration, Public Administration, Computer Science, or a related field",
+            "Minimum three (3) or more years of experience in data analysis, reporting, business intelligence, performance management, or a related field",
+            "Bachelor's Degree",
+            "Work Experience: Minimum three years"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "40",
+            "This position is eligible for Standard Benefits which includes dental, medical, and vision insurance, paid time off and holidays, retirement matching, wellness programs, and tuition reimbursement",
+            "Hiring Range: $69,405.42 - $90,227.05 Annually"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Senior Data Analyst supports Jefferson County Public Library (JCPL) by developing and presenting complex data analytics to meet organizational needs",
+            "Working closely with leadership across the department, this role ensures data reporting meets business needs and provides comprehensive analytics that support priority setting, short- and long-term goal development, and strategies to achieve program goals",
+            "The position also orchestrates communication between internal and external partners to ensure the effective delivery of services to customers",
+            "In addition, the Senior Data Analyst creates and processes a variety of reports related to compliance, auditing, trends, contracts, and special requests",
+            "Coordinatesand collaborateswithleadership and other program leaders toidentify, develop, and deliver reporting tools to aid in the development and implementation ofprograms,policy objectives,andshort and long-range goals",
+            "Ensures data extrapolation provides performance measures for strategic goals",
+            "Analyzes data extrapolation and develops recommendations for leadership",
+            "Delivers and presents complex data in written and oral formats",
+            "Gathers and interprets information for reporting needs",
+            "Creates and maintainsreports utilizing various data sets and databases",
+            "Formats reports and validates data to ensure it meets reporting requirements",
+            "Provides ongoing maintenance and delivery of reports",
+            "Reviews reports for dataabnormalitiesand identifies root causes",
+            "Develops solutions tomodify orcorrect issues and collaborates with end used to ensure data entry captures required information",
+            "Utilizes various data base systems including state case management systems",
+            "Maintains proficiency insystems and theirreporting capabilities",
+            "Provides instructions, guidance, training, education and coaching to end users",
+            "Provides maintenance of reporting environment",
+            "Troubleshootsand maintain system security measures",
+            "Other duties as assigned"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=iPUAgPJrhSSEteObAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_2XNMQrCQBBAUWxzBKupRbMi2GglEUQJKHiAMLtOktV1J-xM0BzKO2pqm189-NlnkpVXip4T7FERdhHDIAoLOFFdUxKOUHAfdYBLb4N3UB5twjSMgi0IYXIt_NSBuQk03baqnWyMEQl5I4rqXe74aTiS5be5s5UxlbSYqAuoVK3Wy3fexWb2P_URSnzQi_k2h-L8BcL6oNCwAAAA&shmds=v1_Ac3VAowTdQdXk7BxvewdDf2BwnVosxMsT0oZ5XRyrGb97zImrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=iPUAgPJrhSSEteObAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/-olO0gsdve9q9X7TVHXZLq5sadYHAcJF8MMfrZTMGL0.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.careersingovernment.com/job/3650487/senior-data-analyst-jefferson-county-public-library/",
+      "job_title": "Senior Data Analyst - Jefferson County Public LIbrary",
+      "description": "Job DescriptionThe Senior Data Analyst supports Jefferson County Public Library (JCPL) by developing and presenting complex data analytics to meet organizational needs. Working closely with leadership across the department, this role ensures data reporting meets business needs and provides comprehensive analytics that support priority setting, short- and long-term goal development, and strategies to achieve program goals. The position also orchestrates communication between internal and external partners to ensure the effective delivery of services to customers. In addition, the Senior Data Analyst creates and processes a variety of reports related to compliance, auditing, trends, contracts, and special requests.\n\nJob Posting Closes at 11:59PM on:\n11/11/26\nDivision:\nLibrary Division\nManagement Level:\nIndividual Contributor\nScheduled Weekly Hours:\n40\n Benefit Eligibility: \nThis position is eligible for Standard Benefits which includes dental, medical, and vision insurance, paid time off and holidays, retirement matching, wellness programs, and tuition reimbursement.\n\nDescription:\n\nHiring Range: $69,405.42 - $90,227.05 Annually.\nCoordinatesand collaborateswithleadership and other program leaders toidentify, develop, and deliver reporting tools to aid in the development and implementation ofprograms,policy objectives,andshort and long-range goals. Ensures data extrapolation provides performance measures for strategic goals.Analyzes data extrapolation and develops recommendations for leadership. Delivers and presents complex data in written and oral formats.Gathers and interprets information for reporting needs. Creates and maintainsreports utilizing various data sets and databases. Formats reports and validates data to ensure it meets reporting requirements.Provides ongoing maintenance and delivery of reports.Reviews reports for dataabnormalitiesand identifies root causes. Develops solutions tomodify orcorrect issues and collaborates with end used to ensure data entry captures required information.Utilizes various data base systems including state case management systems.Maintains proficiency insystems and theirreporting capabilities. Provides instructions, guidance, training, education and coaching to end users.Provides maintenance of reporting environment.Ensuressystems are working. Troubleshootsand maintain system security measures.Organizesand monitorscomplex data collectionprocessesforstate, Federal, andlocal data analyticsand reporting.Other duties as assigned.\n\nWe strongly encourage candidates from all backgrounds, identities, and perspectives to apply, as we believe a diverse workforce is critical to fostering success and achieving our goals.\n\nThis union position is represented by AFSCME. Employees hired in this role are part of the bargaining unit and are eligible for union membership under the collective bargaining agreement.\n\nAccommodations Statement: We encourage people with disabilities to apply and are committed to providing reasonable accommodations throughout our hiring process. For assistance with applications, interviews, or other hiring-related accommodations, contact careertalent@jeffco.us . This contact is for accommodation requests only and cannot provide application status updates.\n\nRequired Qualifications: \nBachelor's degree in Data Analytics, Statistics, Information Systems, Business Administration, Public Administration, Computer Science, or a related field.Minimum three (3) or more years of experience in data analysis, reporting, business intelligence, performance management, or a related field.\n\n Preferred Qualifications: \n Experience developing and maintaining dashboards, scorecards, and strategic performance measures that support organizational decision-making.  Knowledge of data governance principles, including data definitions, data ownership, documentation standards, and data quality management.  Experience using business intelligence and data visualization tools such as Power BI, Tableau, or similar reporting platforms. \n\n Work Arrangement: \nHybrid work schedule. Primary work location: Lakewood Administrative Office (JCPL). \n\nEducation:\nBachelor's Degree\nExperience:\nWork Experience: Minimum three years\n\nCertifications:\n\nLanguages:\n\nCategory:\nAdministrative, Business Programs and Services",
+      "apply_options": [
+        {
+          "title": "Careers In Government",
+          "link": "https://www.careersingovernment.com/job/3650487/senior-data-analyst-jefferson-county-public-library/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://jefferson.wd5.myworkdayjobs.com/external/job/lakewood/senior-data-analyst---jefferson-county-public-library_r-10595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=e0aa6451fa4d1aa9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-jefferson-county-public-library-at-jefferson-county-colorado-4482289878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ae190c01f9d9308370aaecf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5945500260?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/jefferson-county/Job/Senior-Data-Analyst-Jefferson-County-Public-LIbrary/-in-Lakewood,CO?jid=30c540e84622aeba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/senior-data-analyst-jefferson-county-lakewood-jefferson-county-co-f3b8f9d09b25eeb988940138d79312dc?utm_source=jobrapido&utm_medium=organic&utm_campaign=us_career_io&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IC0gSmVmZmVyc29uIENvdW50eSBQdWJsaWMgTElicmFyeSIsImNvbXBhbnlfbmFtZSI6IkplZmZlcnNvbiBDb3VudHkiLCJodGlkb2NpZCI6ImlQVUFnUEpyaFNTRXRlT2JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXVzlwU2pKUFJGbGtiRVptYjBWclZGWnpOVEZrTFRWcWVrSk5iMjlGTnpWNGEzTmljMTk1VFhKWFFtMUxZMGhFVnpWa1ltOTZWbVZmUW1kUlpuaEhaazQ1T1hSNFMzcGtjakZTZWw4M1dtNXBjMmx2Wm1OeFNrWkRZM3BxYzJ4SlkycEhOekYyVFY4MU1IcHdaRE5SUzFKNmJYTldkSEkwWWxwSFVuVkxTRFpWYmtsNlEwTVNGa2RuYW14aGIwMXFhMkZwZFRSUlgwTmZUV3BCUkVFYUlrRklUakJGTjBneVZ6ZGxWM1ZOVjBKWGRXOUtZWGxCVXpkQ01XeDRUWFF6Y21jIiwiZmN2IjoiMyIsImZjX2lkIjoiaVBVQWdQSnJoU1NFdGVPYkFBQUFBQT09In0="
+    },
+    {
+      "title": "Remote Data Analyst - Earth Action Programs at Analytical Mechanics Associates United States",
+      "company_name": "Analytical Mechanics Associates",
+      "location": "United States",
+      "via": "Cter-Tero.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ideal candidates hold a BS with graduate studies in earth system science, environmental science, or meteorology with experience in PM2.5 sensors, air quality #J-18808-Ljbffr"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay ranges from $32/hr to $36/hr"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "These remote roles will provide scientific and data analysis support for the Wildland Fires Program and FireSense Project, converting NASA data to usable products and ensuring data quality"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=cl9J_9Dhao9tsIPYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_4WOMQrCQBBFsc0RrKYWkg2CjVYBRRAEUazDZB12VzY7YWeKeF8PYtTKyubDh8fjFc9ZIWfqWQm2qAhNwvgQhRJ2mNVDYzVwglNml7EXQP0iGixGOJL1mIIVaETYBlQSuKagdIOLfl4JB-5ACLP1MJn2zC7SfONVB1kbIxIrJxMbbGW5N5yo49HcuZP3tOIx0xAnV7tc1WM1JLeo_yWE9FvxArB--4znAAAA&shmds=v1_Ac3VAoxG-0q2XteJ7MkZpV4KW-k39iX7lWwp5nq1gS245FO1Tw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=cl9J_9Dhao9tsIPYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAAgVBMVEX___8YJ1EAADsVJVAAAEEAF0kAC0T7-_v39_gAGkoSI08AGUoLH00AAD8AAD3n6Om-wsXd3-EAFEjw8PLO0dNKUW1tcYYAADgpNFnW19w2P2CkprK2uMGsr7lSWHN9gZOXmqhBSWeus7dhZn2JjZ3Exc11eYwAACsAADIAACCdpKiRmTrIAAAB60lEQVQ4jb1T2WKjMAz0wWEIxDZWONochYa0zf9_4MrYcjbZPq_zkGE8M0iyYSytg0pQfz7o25SgOrBf1lH0CZ-HlaAd3hLdi-MvxkoKyl6zeiR6btpThJOQu399147XlC0lL95jHRmXRRnwW82766tPC855zP7oEGeh41xynl82eGqRFvrFeG6QDdlOoJhXt1iHV1uEZeHp5vzsW31azP5sNuw73upAtZ_mJd9wuz4Za7mxfLAMQsbW8Tlk8OzIpiFAyZ-M2DdljxGiOtaB6oZeznnx8bA5Nu0jXR3iS_waJSGcZmgXQ_buMZkT60lf83xHclkXZMVpUjtVulYgOqUzUhdwzSlkVkTjNE_xlXwP0TjWsk0-njnWyaR-L8gpyMfpWoU9STNB9ZFisjWNzUuo7nCtQjVyHKlLPKm5SdOcaJp4PtRluFa3XeiM0TzxpCypcZp9FemClVTJDq9V1PytxpO60Hz2Lqmr_tExXsJ5ENv6QvV3gOLHsTbS3zjNL6InxiM9zK9fyX9ZJf5YqZR2TJclU57QpVal8nsKSf8NOqWZxg0ktdP4YMGAuzttwFhj1V0BW8DewerFWFgAabuwCYxG2hiHpNF3AGYMTGgyUwkaPFgY_i0Yggrcw129KIOpBjAFPKkWvfwB4LgeqKQHlawAAAAASUVORK5CYII.png",
+      "extensions": [
+        "5 days ago",
+        "32 an hour",
+        "Full-time"
+      ],
+      "source_link": "https://cter-tero.org/list/job/remote-data-analyst-earth-action-programs-at-analytical-mechanics-associates-united-states-Nm1abE8zd2tlRDZzYlRFRmdDUUdnclROMUE9PQ==",
+      "job_title": "Remote Data Analyst - Earth Action Programs at Analytical Mechanics Associates United States",
+      "description": "Analytical Mechanics Associates, Inc. (AMA) seeks two part-time data analysts to support NASA’s Earth Action Program. These remote roles will provide scientific and data analysis support for the Wildland Fires Program and FireSense Project, converting NASA data to usable products and ensuring data quality.  Pay ranges from $32/hr to $36/hr. Ideal candidates hold a BS with graduate studies in earth system science, environmental science, or meteorology with experience in PM2.5 sensors, air quality #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Cter-Tero.org",
+          "link": "https://cter-tero.org/list/job/remote-data-analyst-earth-action-programs-at-analytical-mechanics-associates-united-states-Nm1abE8zd2tlRDZzYlRFRmdDUUdnclROMUE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FixTheDrip",
+          "link": "https://fixthedrip.com/opportunity/job/data-analyst-at-analytical-mechanics-associates-oregon-state-L3RlaEM5c25jY2x5M01jZmZ1NHRuaFFoNWc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Featherhairextensions.co",
+          "link": "https://featherhairextensions.co/office/job/remote-data-analyst-earth-action-programs-at-analytical-mechanics-associates-united-states-N3ZIQUF2RU1hRVB1bVlDMXNmM1NhaWtINXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mariposamorel.com",
+          "link": "https://mariposamorel.com/work/job/data-analyst-at-analytical-mechanics-associates-oregon-state-SW1MWHIzSE9XU0huYi96em9uVlNyM2ZsZHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Debriefing",
+          "link": "https://theuniversaldebriefingsystem.com/jobs/job/data-analyst-at-analytical-mechanics-associates-oregon-state-WUhvWUc4OHVyTU1RQmduMHU5bmttSFFya3c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBBbmFseXN0IC0gRWFydGggQWN0aW9uIFByb2dyYW1zIGF0IEFuYWx5dGljYWwgTWVjaGFuaWNzIEFzc29jaWF0ZXMgVW5pdGVkIFN0YXRlcyIsImNvbXBhbnlfbmFtZSI6IkFuYWx5dGljYWwgTWVjaGFuaWNzIEFzc29jaWF0ZXMiLCJodGlkb2NpZCI6ImNsOUpfOURoYW85dHNJUFlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXbWRDWlhReVpWaDVTaTFYVWpodGFqRnVVSFptYVZRMUxUWlhRVGRRY1RCTU9YcGlkVFJKUm5GVGJpMDBMVzFJTFdac2MyUTVhRGhtZDBKdVdGTktTVUp2Ym1zdFpuWmtlbTF0YVZkdVNtNHdlVUpSVTBoNGVHVlZSbEpLY0dwbWNHRkZTRWM0TW5jMldtZGlibUZTTFdGQk1qbHdPVGhHV1RoWVJGbEZSVXhWTUVOMFEwc1NGa2RuYW14aGIwMXFhMkZwZFRSUlgwTmZUV3BCUkVFYUlrRklUakJGTjBVd2NHZzNRVEpPVVUxYWJHVmlNVmhVY2xacVYyOHRRVEZSYWtFIiwiZmN2IjoiMyIsImZjX2lkIjoiY2w5Sl85RGhhbzl0c0lQWUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data Analyst (Remote)",
+      "company_name": "Govcio LLC",
+      "location": "United States",
+      "via": "GovCIO Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Skills and Experience",
+            "Bachelor’s Degree (or commensurate experience)",
+            "8+ years of professional experience",
+            "3+ years of experience working in data analysis",
+            "Experience with Databricks",
+            "Experience with Python and/or SQL development",
+            "Ability to attain and maintain DHS clearance (US citizenship required)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Posted Salary Range",
+            "USD $100,000.00 - USD $120,000.00 /Yr"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role will be responsible for providing support within a team of analysts to government taskings, data calls, analytics and dashboard development, data lineage and various other programmatic needs",
+            "This role will be a fully remote position",
+            "Leverage experience with Databricks and other complimentary tool sets to breakdown processes and accurately track data lineage across system",
+            "Collaborate with multiple stakeholders to collect and compile information to ensure timely responses to requests and ad hoc assignments",
+            "Support data analytics and reporting requirements for unit teams including weekly and monthly report requirements to the customer as well as real-time response to tasking related data requests",
+            "Group data from multiple sources to create interconnected data streams for analysis (using SQL or Python)",
+            "Develop data dashboards and organizational views of data requirements for customers",
+            "Understand the needs, issues, and challenges faced by the clients; perform gap analysis and recommend solutions",
+            "Coordinate with cross-discipline team members to make sure that all parties are on track with project requirements, deadlines, and schedules",
+            "Create project deliverables, including artifacts to ensure adherence to team compliance and quality standards",
+            "Develop, gather and disseminate information and documentation among both business and technical customers in support of the Project Managers",
+            "Establish effective project communication plans and ensure their execution",
+            "Verify data and information and analyze it to suit the direction of a project",
+            "Track, forecast and report on project progress including metrics and challenges",
+            "Work with all team members to analyze changes in requirements and recommend the most expedient solutions in a timely manner",
+            "Leverage advanced writing skills to translate complicated issues from multiple information sources into a clear point of view to create a compelling, concise, and well-written narrative"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Iu-N3VxcSA275rVXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7CbpkVMGeKC51EoWCdLI4l_QM15NrUpog9Sv8ZXV548s-s2xfE0cZ4YKGcGJMbzVY3qgXoxVs4CotKOHoOxCGUiQkmh87s0EL51RTHtTQos-99E6YWpncU1r902iHIw0JjZrdYTvlA4f1opSXjwJVdYbIcOdo9ID6l5B-AflF4FeSAAAA&shmds=v1_Ac3VAozENZnBHR8RRqWMSDrL0I4v5xn5nN1q5unrZLXXez_Lug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Iu-N3VxcSA275rVXAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAk1BMVEX___8ApvEAqPEArfK24foAAExZv_SK0ffp9v309fcALl695foAAEiS0_eZ1viy4PqQmqsKNWIAGVQzTXK2vMek2vn2-_5pyPmnqbTh5OhkdI4AEFB8iZ4AKFuEkKPs7fDL6vsntfPd9P-o1O7l-v9XZIE-VXfGy9MAAD3U1NjFw8kAAEIYPGYAC0--y9dMYX9wfpWTlDUtAAAA_klEQVQ4je2RzXKDIBRGP0BF_E8QlcSo2DY2qVbf_-mKWSWuuuhMN55huAzMuTAfwM7Ov8DjJF1rdjjKfHPmcFUgVHaV8nTrKZ6UlcbpLOtLA7S5tZ0OItcwlBJSeAQ-I5Qw_0Xs35L-_QPavQICGFzXDYShqD5vMY3RpfCoHSFC6j17-lLdE37PhylDEH3pcRTD1KQG13E1VmyhxlZDn0XRypvuv0Vrb2yzsz7OgHuCaqMKJe0BfxUNLQBmXp5aaamU3VomWctIL9MyR4ONKhLoCSsN8a3oEMYNcTbxLJ16dJDBbHNpDo9s59pOnceMg9K2DQ0z4e9-aWfnr_kBqXYQ-KeMuWoAAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://careers.govcio.com/remote/jobs/8960?lang=en-us",
+      "job_title": "Senior Data Analyst (Remote)",
+      "description": "GovCIO is currently hiring for a Senior Data Analyst to support program management, data analytics, and reporting activities at the Department of Homeland Security (DHS) Immigration and Customs Enforcement (ICE). This role will be responsible for providing support within a team of analysts to government taskings, data calls, analytics and dashboard development, data lineage and various other programmatic needs. This role will be a fully remote position.\n\n \nResponsibilities\n\nLeverage experience with Databricks and other complimentary tool sets to breakdown processes and accurately track data lineage across system.Collaborate with multiple stakeholders to collect and compile information to ensure timely responses to requests and ad hoc assignments.Support data analytics and reporting requirements for unit teams including weekly and monthly report requirements to the customer as well as real-time response to tasking related data requests.Group data from multiple sources to create interconnected data streams for analysis (using SQL or Python).Develop data dashboards and organizational views of data requirements for customers.Understand the needs, issues, and challenges faced by the clients; perform gap analysis and recommend solutions.Coordinate with cross-discipline team members to make sure that all parties are on track with project requirements, deadlines, and schedules.Create project deliverables, including artifacts to ensure adherence to team compliance and quality standards.Develop, gather and disseminate information and documentation among both business and technical customers in support of the Project Managers.Establish effective project communication plans and ensure their execution.Verify data and information and analyze it to suit the direction of a project.Track, forecast and report on project progress including metrics and challenges.Work with all team members to analyze changes in requirements and recommend the most expedient solutions in a timely manner.Leverage advanced writing skills to translate complicated issues from multiple information sources into a clear point of view to create a compelling, concise, and well-written narrative. \nQualifications\n\nRequired Skills and Experience\n\nBachelor’s Degree (or commensurate experience) 8+ years of professional experience3+ years of experience working in data analysisExperience with DatabricksExperience with Python and/or SQL developmentPreferred Skills and Experience\n\nExcellent written and oral communication skills.Strong understanding in project management and data analysis.Strong analytical, problem-solving, and organizational abilities.Ability to work independently in an extremely fast-paced environment.Ability to foster collaborative relationships with other team and external stakeholders.Be flexible to change direction on a moment’s notice while also tracking/executing tasks in progress.Ability to think “outside of the box” while communicating or dealing with a variety of situations.Possess clear understanding of the activities, roles, and responsibilities on large scale IT projects.Clearance Required:\n\nAbility to attain and maintain DHS clearance (US citizenship required) \nPosted Salary Range\n\nUSD $100,000.00 - USD $120,000.00 /Yr.",
+      "apply_options": [
+        {
+          "title": "GovCIO Careers",
+          "link": "https://careers.govcio.com/remote/jobs/8960?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Remote---USA/Senior-Data-Strategist_R-012210?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=a4ae80aa6f39ffdd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Hewlett-Packard-Enterprise-Development-LP/Job/Senior-Presales-Architect-Data-Solutions/-in-Nevada,IA?jid=7d5798673812fd49&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/solutions-advisor-senior-solutions-advisor-remote-centennial-co--fbf0f11f-7383-4ed5-af0c-87c765e3120e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Virtual Vocations",
+          "link": "https://www.virtualvocations.com/job/senior-data-solutions-architect-3313790-i.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Oakhurst",
+          "link": "https://oakhurst.j0o.totalh.net/remote-jobs/senior-data-engineer-content-data-solutions-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/divihn-com/senior-data-analyst-remote-141997213/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IChSZW1vdGUpIiwiY29tcGFueV9uYW1lIjoiR292Y2lvIExMQyIsImh0aWRvY2lkIjoiSXUtTjNWeGNTQTI3NXJWWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdVdHRXWFZPYkhoTVIweHFSRlZMUmtKaVNXSk9VR1pIVW14SU1XOU1NQzE0UVRFMmRHUjRjbVpEY2xJNFNHMDVaV2h6TldOdmMzSm9YMUJWYW5SSmIwUnFkRTl1YzJwWU16UmxRbnB6YlRoNlJsZFpUM3BVTW1sRFgySTFNV2x3Y1RneFJXVnlZMEl6UzFwTVRXeHVTRk5UUmtsd2NHeEpYM1pJZEU5YWNFMDVkbUpVVmxVU0ZrZG5hbXhoYjAxcWEyRnBkVFJSWDBOZlRXcEJSRUVhSWtGSVRqQkZOMFZuY1VGcWIxOW5lbEJGYjNnM2JsaDNTMUJXYWt0cVNXMXJlR2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJJdS1OM1Z4Y1NBMjc1clZYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst, Reporting",
+      "company_name": "MeridianLink",
+      "location": "Anywhere",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Be able to work on problems of a moderate scope which are often varied and routine where analysis of situations or data requires a review of a variety of factors",
+            "Ability to build productive internal/external working relationships to resolve mutual problems by collaborating on procedures or transactions",
+            "Bachelor's degree and 2-4 years of relevant professional experience (or equivalent work experience)",
+            "Hands-on experience with BI tools such as PowerBI or Tableau",
+            "Experience with SQL is required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Analyst will drive business decisions by providing quantitative and qualitative data analysis and reporting patterns, insights, and trends to decision-makers",
+            "This role will collect, aggregate, and analyze data from multiple internal and external sources to drive insights into business performance",
+            "The role will partner with internal stakeholders to produce actionable reports that show key performance indicators, identify areas of improvement in current operations, and display root cause analysis of problems",
+            "Collaborate to build intuitive data visualizations that offer deep and actionable insights against complex and dynamic business challenges in the Fintech space",
+            "Expected to take ownership of the UX/UI experience delivered to users across multiple data products",
+            "Expected to contribute to the design, development, and maintenance of business intelligence tools",
+            "Responsible for helping identify the business data needed to produce the most useful insights and future analytics",
+            "Partner with stakeholders to communicate findings and recommend data-driven improvements to operations",
+            "This role will support seasoned peers and management on difficult to complex data and reporting projects",
+            "The individual will develop professional expertise within the role and be able to apply MeridianLink policies and procedures to resolve a variety of subject area-related issues",
+            "Be able to exercise judgment within defined procedures and practices to determine appropriate action",
+            "Ability to apply learned techniques and contributes to analysis and investigation to solve problems"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=EekNBvn29RSF0GfZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwAUFzvEwQhs2grgotOgiCILorzkbsLbbUmpclw_oMfrS5vfM1n0rgDGsKeMb_VFnClItUSB1jCSTpQwtpHEIajSMg03UWzolvvVbMLamipd728vDB1MvqHdPqn1YiVSkajdr1Zja5wmM8uVNOQkM-Jn5AY7pyMBrj9GtIv5GjjGI8AAAA&shmds=v1_Ac3VAoxl5GZ7RIHC0xHujMMojn6Hy536-z9IDorm8oEfP0_2jg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=EekNBvn29RSF0GfZAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/DP2kxZCyL3SKxtCr3acTyItLXVPV-LTKKDXegrZ-B-E.jpeg",
+      "extensions": [
+        "5 days ago",
+        "76.8K–96K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/meridianlink/Job/Data-Analyst,-Reporting/-in-Remote,US?jid=cfdefb8ba30940fc",
+      "job_title": "Data Analyst, Reporting",
+      "description": "The Data Analyst will drive business decisions by providing quantitative and qualitative data analysis and reporting patterns, insights, and trends to decision-makers. This role will collect, aggregate, and analyze data from multiple internal and external sources to drive insights into business performance. The role will partner with internal stakeholders to produce actionable reports that show key performance indicators, identify areas of improvement in current operations, and display root cause analysis of problems.\n\n\n\nExpected Duties:\n\n\n\n\n- Collaborate to build intuitive data visualizations that offer deep and actionable insights against complex and dynamic business challenges in the Fintech space\n\n\n\n\n- Expected to take ownership of the UX/UI experience delivered to users across multiple data products\n\n\n\n\n- Expected to contribute to the design, development, and maintenance of business intelligence tools\n\n\n\n\n- Responsible for helping identify the business data needed to produce the most useful insights and future analytics\n\n\n\n\n- Partner with stakeholders to communicate findings and recommend data-driven improvements to operations\n\n\n\nQualifications: Knowledge, Skills, and Abilities:\n\n\n\n\nThis role will support seasoned peers and management on difficult to complex data and reporting projects. The individual will develop professional expertise within the role and be able to apply MeridianLink policies and procedures to resolve a variety of subject area-related issues.\n\n\n\n\n- Be able to work on problems of a moderate scope which are often varied and routine where analysis of situations or data requires a review of a variety of factors\n\n\n\n\n- Be able to exercise judgment within defined procedures and practices to determine appropriate action\n\n\n\n\n- Ability to apply learned techniques and contributes to analysis and investigation to solve problems\n\n\n\n\n- Ability to build productive internal/external working relationships to resolve mutual problems by collaborating on procedures or transactions\n\n\n\n\n- Bachelor's degree and 2-4 years of relevant professional experience (or equivalent work experience)\n\n\n\n\n- Hands-on experience with BI tools such as PowerBI or Tableau.\n\n\n\n\n- Experience with SQL is required.\n\n\n\nPreferred Qualifications:\n\n\n\n\n- Experience in a SaaS company or Fintech\n\n\n\n\n- Familiarity with data visualization tool, Sigma\n\n\n\n\n- Python or R experience\n\n\n\n\n- Exposure to data governance or data quality frameworks\n\n\n\n\n- General experience with Claude or other AI-powered analytics tools\n\n\n\n\n- Experience with Agile or Kanban project methodology\n\n\n\n\n- Experience with Databricks",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/meridianlink/Job/Data-Analyst,-Reporting/-in-Remote,US?jid=cfdefb8ba30940fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-analyst-reporting_7ea1a0835fd04db2d4df7c631747b325db199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Diversity And Inclusion For Employers",
+          "link": "https://www.diversitywork.com/posting/7367948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "DataAnalyst.com",
+          "link": "https://www.dataanalyst.com/job/lead-data-analyst-care-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ac5cb7f8a27695aea3604e9-data-analyst-reporting?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=34u82lk67om5k&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-analyst-reporting--2c87caa2-2982-46de-ae46-282a5582cff8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "StemCareers",
+          "link": "https://stemcareers.com/posting/7367948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIFJlcG9ydGluZyIsImNvbXBhbnlfbmFtZSI6Ik1lcmlkaWFuTGluayIsImh0aWRvY2lkIjoiRWVrTkJ2bjI5UlNGMEdmWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlXZ3plazEyYUVnM1QyeDRkMHhhWjNCRk5XazFkM0pJWm1sSVgybFlXVWd0Wm5Jd0xWUnFTRGs0VEhKemNqaGZORm8zY1daeFJHZzBTMmRGYTNGMU0wbERRamRJTld0eU9WOTBUalEwVlZvNWFWbzJaUzAzUzNWdGFHaEJVMlZLZGxweVpVaHdSRXRrVTNZM1RsWk1SbEoyWlRSRFVqWjNSVGx5YURWaU5VRnNRaTE2VVZZU0ZrZG5hbXhoYjAxcWEyRnBkVFJSWDBOZlRXcEJSRUVhSWtGSVRqQkZOMFl3V0U5bmRVbHBlR1pVZDNkWWJqaHNVWFF5WVVwd1ZqQktaMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJFZWtOQnZuMjlSU0YwR2ZaQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Information Security Data Analyst",
+      "company_name": "PAYCO The Clearing House Payments Company L.L.C.",
+      "location": "United States",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Qualifications Bachelor's degree in Data Analytics, Computer Science, Information Systems, Cybersecurity, Mathematics, Statistics, or a related discipline, or equivalent professional experience",
+            "Strong proficiency in SQL, including querying, joining, aggregating, and analyzing large datasets",
+            "Experience using Python, PowerShell, or similar scripting languages for data analysis and automation",
+            "Experience developing dashboards and reports using Microsoft Power BI, Tableau, or comparable business intelligence platforms",
+            "Advanced Microsoft Excel skills, including pivot tables, data transformation, formulas, and analytical reporting",
+            "Experience integrating and analyzing data from multiple enterprise systems using APIs, databases, or automated data extracts. Understanding of cybersecurity concepts, including vulnerabilities, asset management, security incidents, risk ratings, and remediation processes",
+            "Strong analytical and problem-solving skills with demonstrated ability to identify trends, anomalies, and data inconsistencies",
+            "Experience developing metrics, performance indicators, and recurring management reports",
+            "Ability to communicate complex analytical findings clearly to technical and nontechnical audiences",
+            "Strong attention to detail, organizational skills, and ability to manage multiple reporting requirements",
+            "Must be legally authorized to work in the United States",
+            "Experience analyzing vulnerability data and familiarity with security platforms",
+            "Understanding of vulnerability severity ratings, CVSS, CISA Known Exploited Vulnerabilities (KEV), and risk-based vulnerability prioritization",
+            "Familiarity with cybersecurity frameworks and regulatory expectations, including NIST CSF, FFIEC guidance, and relevant financial services requirements",
+            "Experience developing executive dashboards and reporting for risk committees or senior management",
+            "Knowledge of statistical analysis, trend forecasting, data modeling, and data visualization best practices",
+            "Relevant certifications such as Microsoft Power BI Data Analyst, CompTIA Security+, or other data analytics or cybersecurity certifications",
+            "Physical Demands and Work Environment: The working environment is generally favorable"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role is responsible for transforming complex cybersecurity data into accurate, actionable insights that support operational decision-making, risk management, regulatory oversight, and executive reporting",
+            "The Information Security Data Analyst will work closely with Security Operations, Vulnerability Management, Identity and Access Management, Infrastructure, and Technology Risk teams to develop automated reporting, dashboards, and metrics that provide visibility into the organization's cybersecurity posture",
+            "A key focus of this position will be vulnerability management analytics, including the analysis of vulnerability exposure, remediation performance, asset criticality, and compliance with established remediation timelines",
+            "Key Responsibilities Cybersecurity Data Analytics & Reporting Collect, analyze, validate, and interpret cybersecurity data from multiple enterprise security platforms",
+            "Develop and maintain dashboards, reports, and analytical models that measure cybersecurity risk, operational effectiveness, and control performance",
+            "Transform complex technical data into clear, actionable insights for Information Security leadership, executive management, and risk committees",
+            "Identify trends, anomalies, emerging risks, and opportunities for improvement across cybersecurity operations",
+            "Establish repeatable reporting processes that improve accuracy, consistency, and timeliness",
+            "Automate data collection, transformation, reconciliation, and reporting to reduce manual effort",
+            "Support the development of cybersecurity key risk indicators (KRIs), key performance indicators (KPIs), and operational metrics",
+            "Maintain clear documentation of data sources, metric definitions, calculations, assumptions, and reporting methodologies",
+            "Vulnerability Management Analytics Develop and maintain vulnerability reporting across on-premises infrastructure, cloud environments, applications, and enterprise platforms",
+            "Analyze vulnerability data from Tenable, ServiceNow Vulnerability Response, and other relevant security tools",
+            "Track critical and high-severity vulnerabilities, remediation timelines, aging, exceptions, and exposure beyond established service-level agreements",
+            "Correlate vulnerability findings with asset inventories, business criticality, ownership, and operational context to improve risk-based prioritization",
+            "Identify recurring vulnerabilities, remediation bottlenecks, data quality issues, and emerging exposure trends",
+            "Develop reporting that distinguishes newly discovered vulnerabilities from existing exposure, overdue remediation, and changes resulting from expanded scanning coverage",
+            "Partner with infrastructure and application teams to validate vulnerability data, identify remediation owners, and improve reporting accuracy",
+            "Support vulnerability governance meetings through preparation of metrics, trend analysis, and executive-level reporting",
+            "Develop analytical capabilities to measure remediation progress and assess the effectiveness of vulnerability management activities",
+            "Security Metrics & Risk Reporting Support the design, development, and maintenance of Information Security KRIs and KPIs aligned with enterprise risk management requirements",
+            "Produce recurring cybersecurity reporting for executive leadership, risk committees, and other governance forums",
+            "Analyze trends in security incidents, vulnerability exposure, identity controls, security monitoring, and remediation effectiveness",
+            "Establish consistent calculation methodologies, reporting thresholds, and data quality controls",
+            "Investigate unexpected changes in metrics and distinguish actual risk increases from changes in detection capabilities, scanning coverage, or data sources",
+            "Partner with Technology Risk and other stakeholders to ensure reporting is accurate, traceable, and aligned with approved risk definitions",
+            "Prepare supporting analysis and evidence for internal audits, regulatory examinations, and management reviews",
+            "Develop historical trending and comparative analysis to help leadership evaluate the effectiveness of security investments and operational improvements",
+            "Data Integration, Automation & Visualization Develop automated data pipelines and reporting solutions using SQL, Python, Power BI, APIs, and other approved enterprise technologies",
+            "Integrate data from cybersecurity platforms and cloud security tools",
+            "Build interactive dashboards that allow stakeholders to analyze security metrics by business service, asset criticality, technology platform, ownership, and risk category",
+            "Perform data cleansing, normalization, reconciliation, and validation across multiple systems",
+            "Identify inconsistencies between security tools and authoritative asset or configuration management data",
+            "Create reusable datasets, reporting templates, and standardized analytical models",
+            "Work with technology teams to improve data accessibility, reliability, and reporting automation",
+            "Apply appropriate data access controls and handling practices to sensitive cybersecurity information",
+            "Data Quality & Continuous Improvement Establish controls to ensure cybersecurity reporting is complete, accurate, consistent, and reproducible",
+            "Document data lineage, business rules, transformations, and calculation logic supporting key security metrics",
+            "Investigate data discrepancies and collaborate with system owners to resolve underlying issues",
+            "Identify opportunities to simplify reporting processes and eliminate redundant or manual activities",
+            "Develop quality assurance checks to detect missing records, duplicate findings, incorrect asset classifications, and inconsistent remediation statuses",
+            "Recommend improvements to cybersecurity data models, reporting architecture, and analytical capabilities",
+            "Support continuous improvement initiatives that strengthen the organization's ability to measure and manage cybersecurity risk",
+            "Cross-Functional Collaboration Partner with Information Security teams to understand operational processes, reporting requirements, and cybersecurity risk drivers",
+            "Collaborate with Infrastructure, Cloud Engineering, Application Development, Enterprise Architecture, and Technology Risk teams",
+            "Translate technical findings into concise summaries that communicate business impact and recommended actions",
+            "Support leadership in responding to ad hoc analytical requests, regulatory inquiries, and emerging cybersecurity issues",
+            "Present analytical findings and explain trends, assumptions, and limitations to technical and nontechnical stakeholders",
+            "Work is generally performed within an office environment, with standard office equipment available",
+            "Candidates will report to the office three days each week"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ujLU2TD4Y0xuIhp9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNuwrCQBAAsfUTrLYWvIggiFbhBB8IBqKFlWzimpxcdkN2BfNrfp2xmWqYGX9H49WBn9I1aEEYcirfXbAetmgIKWPs1WAGRylACbuyhsHaiVSRJpvarNV1kqhGV6kNidKV0iTCVMgneUmhf9y1xo7aiEb3xXL-cS1X0zRLb_4Ml5rAx6EcuIK9vJUgw74hNgUvTYvcw8mdnHcQGK4cjB6QDyvSH6ViILm9AAAA&shmds=v1_Ac3VAozLS1QU2PidvrxOthRQarVlx53zquJ7QLlcHWLPqmg4gg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ujLU2TD4Y0xuIhp9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/btVOc5q-26diiQyCSAxBGjxGvUyg6n3ev9z9DtZisWM.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://theclearinghouse.wd108.myworkdayjobs.com/theclearinghouse/job/Charlotte-Office/Information-Security-Data-Analyst_JR100216",
+      "job_title": "Information Security Data Analyst",
+      "description": "Position Summary The Clearing House is seeking an analytical and technically skilled Information Security Data Analyst to support cybersecurity risk reporting, data analysis, and performance measurement across the enterprise Information Security program. This role is responsible for transforming complex cybersecurity data into accurate, actionable insights that support operational decision-making, risk management, regulatory oversight, and executive reporting. The Information Security Data Analyst will work closely with Security Operations, Vulnerability Management, Identity and Access Management, Infrastructure, and Technology Risk teams to develop automated reporting, dashboards, and metrics that provide visibility into the organization's cybersecurity posture. A key focus of this position will be vulnerability management analytics, including the analysis of vulnerability exposure, remediation performance, asset criticality, and compliance with established remediation timelines. The ideal candidate combines strong data analytics capabilities with an understanding of cybersecurity concepts and can translate large volumes of technical information into clear, meaningful insights for technical teams and senior leadership. About The Clearing House: The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line. Key Responsibilities Cybersecurity Data Analytics & Reporting Collect, analyze, validate, and interpret cybersecurity data from multiple enterprise security platforms. Develop and maintain dashboards, reports, and analytical models that measure cybersecurity risk, operational effectiveness, and control performance. Transform complex technical data into clear, actionable insights for Information Security leadership, executive management, and risk committees. Identify trends, anomalies, emerging risks, and opportunities for improvement across cybersecurity operations. Establish repeatable reporting processes that improve accuracy, consistency, and timeliness. Automate data collection, transformation, reconciliation, and reporting to reduce manual effort. Support the development of cybersecurity key risk indicators (KRIs), key performance indicators (KPIs), and operational metrics. Maintain clear documentation of data sources, metric definitions, calculations, assumptions, and reporting methodologies. Vulnerability Management Analytics Develop and maintain vulnerability reporting across on-premises infrastructure, cloud environments, applications, and enterprise platforms. Analyze vulnerability data from Tenable, ServiceNow Vulnerability Response, and other relevant security tools. Track critical and high-severity vulnerabilities, remediation timelines, aging, exceptions, and exposure beyond established service-level agreements. Correlate vulnerability findings with asset inventories, business criticality, ownership, and operational context to improve risk-based prioritization. Identify recurring vulnerabilities, remediation bottlenecks, data quality issues, and emerging exposure trends. Develop reporting that distinguishes newly discovered vulnerabilities from existing exposure, overdue remediation, and changes resulting from expanded scanning coverage. Partner with infrastructure and application teams to validate vulnerability data, identify remediation owners, and improve reporting accuracy. Support vulnerability governance meetings through preparation of metrics, trend analysis, and executive-level reporting. Develop analytical capabilities to measure remediation progress and assess the effectiveness of vulnerability management activities. Security Metrics & Risk Reporting Support the design, development, and maintenance of Information Security KRIs and KPIs aligned with enterprise risk management requirements. Produce recurring cybersecurity reporting for executive leadership, risk committees, and other governance forums. Analyze trends in security incidents, vulnerability exposure, identity controls, security monitoring, and remediation effectiveness. Establish consistent calculation methodologies, reporting thresholds, and data quality controls. Investigate unexpected changes in metrics and distinguish actual risk increases from changes in detection capabilities, scanning coverage, or data sources. Partner with Technology Risk and other stakeholders to ensure reporting is accurate, traceable, and aligned with approved risk definitions. Prepare supporting analysis and evidence for internal audits, regulatory examinations, and management reviews. Develop historical trending and comparative analysis to help leadership evaluate the effectiveness of security investments and operational improvements. Data Integration, Automation & Visualization Develop automated data pipelines and reporting solutions using SQL, Python, Power BI, APIs, and other approved enterprise technologies. Integrate data from cybersecurity platforms and cloud security tools. Build interactive dashboards that allow stakeholders to analyze security metrics by business service, asset criticality, technology platform, ownership, and risk category. Perform data cleansing, normalization, reconciliation, and validation across multiple systems. Identify inconsistencies between security tools and authoritative asset or configuration management data. Create reusable datasets, reporting templates, and standardized analytical models. Work with technology teams to improve data accessibility, reliability, and reporting automation. Apply appropriate data access controls and handling practices to sensitive cybersecurity information. Data Quality & Continuous Improvement Establish controls to ensure cybersecurity reporting is complete, accurate, consistent, and reproducible. Document data lineage, business rules, transformations, and calculation logic supporting key security metrics. Investigate data discrepancies and collaborate with system owners to resolve underlying issues. Identify opportunities to simplify reporting processes and eliminate redundant or manual activities. Develop quality assurance checks to detect missing records, duplicate findings, incorrect asset classifications, and inconsistent remediation statuses. Recommend improvements to cybersecurity data models, reporting architecture, and analytical capabilities. Support continuous improvement initiatives that strengthen the organization's ability to measure and manage cybersecurity risk. Cross-Functional Collaboration Partner with Information Security teams to understand operational processes, reporting requirements, and cybersecurity risk drivers. Collaborate with Infrastructure, Cloud Engineering, Application Development, Enterprise Architecture, and Technology Risk teams. Translate technical findings into concise summaries that communicate business impact and recommended actions. Support leadership in responding to ad hoc analytical requests, regulatory inquiries, and emerging cybersecurity issues. Present analytical findings and explain trends, assumptions, and limitations to technical and nontechnical stakeholders. Required Qualifications Bachelor's degree in Data Analytics, Computer Science, Information Systems, Cybersecurity, Mathematics, Statistics, or a related discipline, or equivalent professional experience. Strong proficiency in SQL, including querying, joining, aggregating, and analyzing large datasets. Experience using Python, PowerShell, or similar scripting languages for data analysis and automation. Experience developing dashboards and reports using Microsoft Power BI, Tableau, or comparable business intelligence platforms. Advanced Microsoft Excel skills, including pivot tables, data transformation, formulas, and analytical reporting. Experience integrating and analyzing data from multiple enterprise systems using APIs, databases, or automated data extracts. Understanding of cybersecurity concepts, including vulnerabilities, asset management, security incidents, risk ratings, and remediation processes. Strong analytical and problem-solving skills with demonstrated ability to identify trends, anomalies, and data inconsistencies. Experience developing metrics, performance indicators, and recurring management reports. Ability to communicate complex analytical findings clearly to technical and nontechnical audiences. Strong attention to detail, organizational skills, and ability to manage multiple reporting requirements. Must be legally authorized to work in the United States. Preferred Qualifications Experience working in banking, financial services, payment systems, or another highly regulated industry. Experience analyzing vulnerability data and familiarity with security platforms. Understanding of vulnerability severity ratings, CVSS, CISA Known Exploited Vulnerabilities (KEV), and risk-based vulnerability prioritization. Familiarity with cybersecurity frameworks and regulatory expectations, including NIST CSF, FFIEC guidance, and relevant financial services requirements. Experience developing executive dashboards and reporting for risk committees or senior management. Knowledge of statistical analysis, trend forecasting, data modeling, and data visualization best practices. Relevant certifications such as Microsoft Power BI Data Analyst, CompTIA Security+, or other data analytics or cybersecurity certifications. Physical Demands and Work Environment: The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Travel may be required. Candidates will report to the office three days each week. Onsite work requirements may change at any time. The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://theclearinghouse.wd108.myworkdayjobs.com/theclearinghouse/job/Charlotte-Office/Information-Security-Data-Analyst_JR100216?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/information-security-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/samprasoft/information-security-data-analyst-32534958/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/information-security-data-analyst-samprasoft--lensa-2365_31f46cd2327645b7e42a7307fdf1e560ca3d6821dcbbcbc0fa0195baea022913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmZvcm1hdGlvbiBTZWN1cml0eSBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJQQVlDTyBUaGUgQ2xlYXJpbmcgSG91c2UgUGF5bWVudHMgQ29tcGFueSBMLkwuQy4iLCJodGlkb2NpZCI6InVqTFUyVEQ0WTB4dUlocDlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZVlZJVG04M1VUQTFUelYxVGpOSlJqVnlOMncxZFRSMGNsOU1URFIzWTIwMllsQTFWMTg1WlZFdE9FOTJjR3hWVDNJM1dWQkhhVVJDUkU5dWRUbGthR0Z3ZG1aaWFXTnBOV3BsWkU5R1dUVkxiRVZKWDFSUlJ6ZG1kR05KTnpkWmN6bEVabXh6U2tzNU5ISmtMVkJwVWs0MVh6Qm5ibk5aTlhrNVVYb3ljbGhMT0ZoUVJuSVNGa2RuYW14aGIwMXFhMkZwZFRSUlgwTmZUV3BCUkVFYUlrRklUakJGTjBoT1pWRm1SbmcyYldZMGMyNXpablJpTm01ckxWSk9WbXhoYTJjIiwiZmN2IjoiMyIsImZjX2lkIjoidWpMVTJURDRZMHh1SWhwOUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst IV",
+      "company_name": "12 Elements Consulting",
+      "location": "Anywhere",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s or master’s degree in data science, Statistics, Mathematics, Computer Science, Economics, Analytics, or a related quantitative field",
+            "5+ years of experience in analytics, business intelligence, risk analytics, marketing analytics, financial services, or a related analytical discipline",
+            "3+ years of experience independently leading analytical projects from ideation through implementation",
+            "Hands-on experience with marketing analytics, customer segmentation, and conversion funnel analysis",
+            "Advanced SQL skills and experience with BI/visualization tools such as Power BI or Tableau",
+            "Excellent communication skills and ability to influence stakeholders with data-driven insights",
+            "Experience in leading or collaborating with cross-functional teams (Growth, Marketing, Product, Engineering)",
+            "Do you have 3+ years of experience independently leading analytical projects from ideation through implementation?",
+            "How many years of experience do you have using data visualization tools (such as PowerBI or Tableau)?",
+            "Bachelor's (Required)",
+            "SQL: 4 years (Required)",
+            "lending, lead acquisition, or underwriting : 3 years (Required)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "401(k) 4% Match",
+            "Dental Insurance",
+            "Disability insurance",
+            "Employee assistance program",
+            "Employee discount",
+            "Flexible spending account",
+            "Health insurance",
+            "Health savings account",
+            "Life insurance",
+            "Paid sick time",
+            "Paid time off",
+            "Vision Insurance",
+            "Schedule: Day shift",
+            "We provide a highly competitive benefits package, inclusive of a 401k plan",
+            "We are passionate about work-life balance!",
+            "Expect a vibrant atmosphere and limitless avenues for personal and professional growth",
+            "Pay: $115,000.00 - $125,000.00 per year",
+            "401(k) 4% Match",
+            "Dental insurance",
+            "Flexible spending account",
+            "Health insurance",
+            "Health savings account",
+            "Life insurance",
+            "Paid time off",
+            "Vision insurance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role sits at the intersection of growth marketing, data science, and business strategy",
+            "You will serve as a strategic analytics partner and lead efforts to identify high-value acquisition channels, build strategies for lead scoring and pricing, and unlock insights that fuel smarter decisions and higher conversion rates",
+            "Your work will directly impact on customer acquisition, revenue growth, and the overall health of our marketing funnel",
+            "You will own end-to-end analytics processes, including performance monitoring, KPI tracking, trend reporting, strategy evaluation, experimentation, implementation governance, and support for roadmap development and execution",
+            "This role also serves as a technical leader within the analytics organization, mentoring analysts and promoting best practices",
+            "Own analytics, reporting, and performance monitoring for lead acquisition and underwriting programs",
+            "Deliver insights and recommendations that improve conversion, profitability, and default rates",
+            "Lead experimentation efforts, including A/B tests and champion/challenger analysis",
+            "Create dashboards, forecasts, and performance reports to support marketing and leadership teams",
+            "Collaborate with Marketing, Product, and Engineering to align targeting, messaging, and user segmentation",
+            "Manage analytical implementation and release schedules to ensure reliable and timely deployment of business strategies",
+            "Mentor analysts and elevate decision-making through strong analytical leadership and communication"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=xOGi3dBf2x4zsxXFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7CU6ZFAR7WnCxk6iIrqJryZ3henJNShOh_oTfrC5vfMVnUswOaAg7xvxWg_MdlnARD0o4hBaE4SQSM03r1qzXrXOquYxqaCmUQTonTF5G9xSvfxptcaA-o1FTbVZj2XNczNcVHDN1xKawF9ZXtsQREsONk9EDrr-Q9AtrilbTkQAAAA&shmds=v1_Ac3VAoxn_DohE8jl-ZWgYVt_WHrdDyZW5ObP223-YB4sAC_7kw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=xOGi3dBf2x4zsxXFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/dyDLopaow9bh1P6xwv5J2r5VyQev_6y3mimmayaVOSk.jpeg",
+      "extensions": [
+        "25 days ago",
+        "115K–125K a year",
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=dc314e9c56634d9f",
+      "job_title": "Data Analyst IV",
+      "description": "About Us\n\n\n12 Elements Consulting is a dynamic and innovative consulting company with a strong commitment to quality, innovation, and client satisfaction. We have experienced rapid growth and success over the years. With a strong focus on pushing the boundaries of what's possible, we are seeking top-tier talent that adds intrinsic value to our organization.\n\n\nRole Overview \n\n\nThis role sits at the intersection of growth marketing, data science, and business strategy. You will serve as a strategic analytics partner and lead efforts to identify high-value acquisition channels, build strategies for lead scoring and pricing, and unlock insights that fuel smarter decisions and higher conversion rates. Your work will directly impact on customer acquisition, revenue growth, and the overall health of our marketing funnel.\n\n\nYou will own end-to-end analytics processes, including performance monitoring, KPI tracking, trend reporting, strategy evaluation, experimentation, implementation governance, and support for roadmap development and execution.\n\n\nThis role also serves as a technical leader within the analytics organization, mentoring analysts and promoting best practices.\n\n\nRole Responsibilities \n\n\n· Own analytics, reporting, and performance monitoring for lead acquisition and underwriting programs.\n\n\n· Deliver insights and recommendations that improve conversion, profitability, and default rates.\n\n\n· Lead experimentation efforts, including A/B tests and champion/challenger analysis.\n\n\n· Create dashboards, forecasts, and performance reports to support marketing and leadership teams.\n\n\n· Collaborate with Marketing, Product, and Engineering to align targeting, messaging, and user segmentation.\n\n\n· Manage analytical implementation and release schedules to ensure reliable and timely deployment of business strategies.\n\n\n· Mentor analysts and elevate decision-making through strong analytical leadership and communication.\n\n\nRequired Skills & Education \n\n\n· Bachelor’s or master’s degree in data science, Statistics, Mathematics, Computer Science, Economics, Analytics, or a related quantitative field.\n\n\n· 5+ years of experience in analytics, business intelligence, risk analytics, marketing analytics, financial services, or a related analytical discipline.\n\n\n· 3+ years of experience independently leading analytical projects from ideation through implementation.\n\n\n· Hands-on experience with marketing analytics, customer segmentation, and conversion funnel analysis.\n\n\n· Advanced SQL skills and experience with BI/visualization tools such as Power BI or Tableau.\n\n\n· Excellent communication skills and ability to influence stakeholders with data-driven insights.\n\n\n· Experience in leading or collaborating with cross-functional teams (Growth, Marketing, Product, Engineering).\n\n\n· Experience in lending, lead acquisition, or underwriting is preferred.\n\n\n· Proficiency with Python is preferred\n\n\nBenefits \n\n\n401(k) 4% Match\n\n  Dental Insurance\n\n  Disability insurance\n\n  Employee assistance program\n\n  Employee discount\n\n  Flexible spending account\n\n  Health insurance\n\n  Health savings account\n\n  Life insurance\n\n  Paid sick time\n\n  Paid time off\n\n  Vision Insurance\n\n\nSchedule: Day shift\n\n\nWhy 12 Elements Consulting\n\n\nAt 12 Elements Consulting, we take immense pride in our team's exceptional skills and their track record of delivering industry-leading results. We aim to invest in dedicated, long-term employees who exhibit a knack for rapid learning and aspire to grow alongside us. Joining our team means actively participating in the creation of cutting-edge solutions, accessing invaluable learning resources, and being part of a company that deeply appreciates its skilled workforce.\n\n\nWe provide a highly competitive benefits package, inclusive of a 401k plan. We are passionate about work-life balance! Expect a vibrant atmosphere and limitless avenues for personal and professional growth.\n\n\nPay: $115,000.00 - $125,000.00 per year\n\n\nBenefits:\n\n\n\n 401(k) 4% Match\n Dental insurance\n Flexible spending account\n Health insurance\n Health savings account\n Life insurance\n Paid time off\n Vision insurance\n\nApplication Question(s):\n\n\n\n Do you have 3+ years of experience independently leading analytical projects from ideation through implementation?\n How many years of experience do you have using data visualization tools (such as PowerBI or Tableau)?\n Are you legally authorized to work in the United States?\n Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa, TN visa, etc.)?\n Are you actively participating in a STEM-OPT program?\n\nEducation:\n\n\n\n Bachelor's (Required)\n\nExperience:\n\n\n\n SQL: 4 years (Required)\n lending, lead acquisition, or underwriting : 3 years (Required)\n\nWork Location: Remote",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=dc314e9c56634d9f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Virtual Vocations",
+          "link": "https://www.virtualvocations.com/job/data-analyst-iv-3272151-i.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-analyst-iv-san-francisco-ca--c2c1a47e-a0a0-4059-b773-9f1d01b560b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Texas-Health-and-Human-Services-Commission/Job/Data-Analyst-IV/-in-Austin,TX?jid=ab214e223beb498b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/data-analyst-iv-12-elements-consulting-JV_KO0,15_KE16,38.htm?jl=1010286031091&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-analyst-iv_7ea1a73916d913bee8979aac267f1713e7ea2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-analyst-iv--united-states--eef0d14b3e05ef157bb4023167910ab31?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Flexjobsone",
+          "link": "https://flexjobsone.liveblog365.com/remote-jobs/data-analyst-iv-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSVYiLCJjb21wYW55X25hbWUiOiIxMiBFbGVtZW50cyBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJ4T0dpM2RCZjJ4NHpzeFhGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWW0xSFRWSXpUV2xzY2s1dVVHdFVkV2xhTkVoWU9YazVYMFo1VFdOQ01VUnZNVVpwYVZSa2RqRlJkbGR1ZFY5VVdHUldTMnQyTlhsbVdFcFdNVTR5ZG5KU2RrWndhemRIWTB0bmNTMUxTRlJOUVRGQ1JrbGFWV0pDWmtGUVJVSllRV0l6ZWkxNFpIVnVjMjlPU0c5UU5IY3RjVmhEYlZkSVJ6WmxSemxwTlVoV1ExVk5ZbW9TRmtkbmFteGhiMDFxYTJGcGRUUlJYME5mVFdwQlJFRWFJa0ZJVGpCRk4waEpUamt0UXpWQ2JVWkllbXhKV2pWS01raFlWV1p2UkhjMUxVRSIsImZjdiI6IjMiLCJmY19pZCI6InhPR2kzZEJmMng0enN4WEZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst and IT Consultant",
+      "company_name": "SoTalent",
+      "location": "United States",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Current and active Top Secret security clearance",
+            "Minimum of three years of experience managing the implementation and deployment of enterprise level software",
+            "Bachelors degree or eight years of total professional experience",
+            "Availability to work on site in Washington DC five days per week",
+            "Willingness to travel up to ten percent",
+            "Advanced proficiency with the Microsoft stack including SharePoint Business Intelligence, SQL Server, and Access",
+            "Professional certifications such as PMP, CPM, or RPA",
+            "Experience applying AI solutions within a corporate or government environment",
+            "Familiarity with real estate operations or a valid real estate license",
+            "Strong ability to present complex data to non technical audiences and resolve organizational issues"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The offered salary range for this position is between 113,000 and 188,000 dollars annually",
+            "Final compensation is determined by specific experience, certifications, and technical skills",
+            "The firm provides a comprehensive benefits package including medical, dental, and vision coverage, a 401k retirement plan, student loan repayment assistance, and professional development opportunities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role is based full time on site in Washington DC and requires a current Top Secret security clearance",
+            "The successful candidate will lead the gathering of requirements and the technical development of tools that support facility management and property operations",
+            "You will act as a primary bridge between technical teams and real estate stakeholders, ensuring that tracking systems and communication platforms operate efficiently",
+            "Consult with facilities management leads to define technical requirements for internal communication sites and management tools",
+            "Design and deploy technical solutions using platforms such as SharePoint, Power Automate, Power Apps, SQL, and Python",
+            "Integrate artificial intelligence tools like CoPilot to improve workflow efficiency",
+            "Oversee the maintenance and enhancement of existing databases and applications including Tririga and MS Access",
+            "Generate complex status reports and ad hoc data visualizations to support executive decision making",
+            "Maintain critical date tracking systems for property milestones and task management",
+            "Collaborate closely with real estate managers to align IT capabilities with portfolio goals"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=-baDCV8oNpBNJ8DUAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7BzplFuyJ0EUnURBdW-eSu4brlTMpTYT6Ff6ydXnjK76rorqiIZwZ80cNkDu4N3AR1nc2ZIMdPMSDEk6hB2G4icRMm1NvNurROdVcRjW0FMogLydMXmY3iNc_rfY40ZjRqD1U-7kcOW7XtTSYadkTw5OTUQf1UpD-ABzxtESSAAAA&shmds=v1_Ac3VAozALbAy-kPg0r4al0j7PolTZ56Jh-zOHeNmMaBcFsoXfA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=-baDCV8oNpBNJ8DUAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50818d928da3071e5581b/images/eq1V5y8AdMHgYd-F1KQTzHjXM16u-lZkSCRhsK4L8vA.jpeg",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/data-analyst-and-it-consultant-at-sotalent-4481413902",
+      "job_title": "Data Analyst and IT Consultant",
+      "description": "A prominent consulting firm is seeking a Data Analyst and IT Consultant to support a large scale real estate portfolio for a high profile federal client. This role is based full time on site in Washington DC and requires a current Top Secret security clearance.\n\n\n\n\nThe successful candidate will lead the gathering of requirements and the technical development of tools that support facility management and property operations. You will act as a primary bridge between technical teams and real estate stakeholders, ensuring that tracking systems and communication platforms operate efficiently.\n\n\n\n\nCore Responsibilities\n\n\n\n\nConsult with facilities management leads to define technical requirements for internal communication sites and management tools.\n\n\n\n\nDesign and deploy technical solutions using platforms such as SharePoint, Power Automate, Power Apps, SQL, and Python.\n\n\n\n\nIntegrate artificial intelligence tools like CoPilot to improve workflow efficiency.\n\n\n\n\nOversee the maintenance and enhancement of existing databases and applications including Tririga and MS Access.\n\n\n\n\nGenerate complex status reports and ad hoc data visualizations to support executive decision making.\n\n\n\n\nMaintain critical date tracking systems for property milestones and task management.\n\n\n\n\nCollaborate closely with real estate managers to align IT capabilities with portfolio goals.\n\n\n\n\nRequired Qualifications\n\n\n\n\nCurrent and active Top Secret security clearance.\n\n\n\n\nMinimum of three years of experience managing the implementation and deployment of enterprise level software.\n\n\n\n\nBachelors degree or eight years of total professional experience.\n\n\n\n\nAvailability to work on site in Washington DC five days per week.\n\n\n\n\nWillingness to travel up to ten percent.\n\n\n\n\nPreferred Skills and Experience\n\n\n\n\nAdvanced proficiency with the Microsoft stack including SharePoint Business Intelligence, SQL Server, and Access.\n\n\n\n\nProfessional certifications such as PMP, CPM, or RPA.\n\n\n\n\nExperience applying AI solutions within a corporate or government environment.\n\n\n\n\nFamiliarity with real estate operations or a valid real estate license.\n\n\n\n\nStrong ability to present complex data to non technical audiences and resolve organizational issues.\n\n\n\n\nThe offered salary range for this position is between 113,000 and 188,000 dollars annually. Final compensation is determined by specific experience, certifications, and technical skills.\n\n\n\n\nThe firm provides a comprehensive benefits package including medical, dental, and vision coverage, a 401k retirement plan, student loan repayment assistance, and professional development opportunities.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-analyst-and-it-consultant-at-sotalent-4481413902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6aa8578ab563ea142ea8445a-cybersecurity-assessor-and-consultant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6aaac4e376707040fb082120?visit=national-consultant-on-artificial-intelligence,-digital-technologies-and-data-privacy-protection-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/hyper-recruitment-solutions-ltd/qa-and-data-integrity-consultant-179338982/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Divulga Vagas",
+          "link": "https://divulgavagas.com.br/job-in-usa/migso-pcubed-project-data-and-technology-consultant-92348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs USA",
+          "link": "https://remoterush.mysmartpros.com/job/445770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Zenvora",
+          "link": "https://zenvora.liveblog365.com/remote-jobs/cybersecurity-assessor-and-consultant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/1109362978156707840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgYW5kIElUIENvbnN1bHRhbnQiLCJjb21wYW55X25hbWUiOiJTb1RhbGVudCIsImh0aWRvY2lkIjoiLWJhRENWOG9OcEJOSjhEVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlXTkpiMlZoZGtzeFJ6WnVObDlWTkRabE1VcENWVnB2WW5SUU5GcHlTR3RaTW1sS1EycHZVVlZpZDBadE9XdFJaR2R0V0ROdWRIQk9NRTFxY0VFMlJ5MW5UbE16TkhwV2RYUldTVzU0V0dReFZXdERja3R2T0RoeloxZE9MV1ZaWDNkcWNWSmFaMmR4YkZONlJHWldaR0pCYkRKclIwRmtaVzlqZVVaMU1uUlpUVTVTUmpZU0ZrZG5hbXhoYjAxcWEyRnBkVFJSWDBOZlRXcEJSRUVhSWtGSVRqQkZOMGhPYkdsd2NHVm9VMEZMV2tGc1RFcHRTazlNZEdoNGJXUkRTRUUiLCJmY3YiOiIzIiwiZmNfaWQiOiItYmFEQ1Y4b05wQk5KOERVQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzc0RDb3dEUVVSRVlsZGxZbmN3UlZaV1kxcFlPREpEZG1oUGFYWjJYMWRGTUhWalRHWTBNRzF1WDFJeVp6WnpTSHBvZUhWRllUWllkRjloVG5GVmJHWjNlVWhFTlROaVEwczNXbWxIVDE5Sloxb3pibkJMV0hSVU5pMTRMV3A0T0RsQlRGTlpjRzFqY1hVMVNuZGFaMHBUZUhSelZscHFiV1pqV2xJMFdpMHhVakZtY0VSWE5YUmZNMWRTWWsxYWVHOVViVlZsTjBkaGRYWm5jRTlyWTNkbFZsZFZWbVJsYW5Wa05taDNVRjlpYlhnM2RIbzVRMk4zUVhWeldtVk5VVkkzUjNGT1pYUmlNMEpmV25oWWNYZ3RRWFU0U1VsU1IxbFNaa05rTlVSNlVFbHhjSE5sV0dkd1NuUjBRMFI0Ym1OVE5GbGpSMkZwVVdGd2JFMWtOa3A2YldreFdYSjFlRUpCTTNWdmVtcGlhWGxWWm1WbFNGWTBiVXBaU1VSQ1F6TnRXWEV3WjJOVmVVZHlSa1pJYTBkZlZYTnpRazVOWldOdmFVZEhTMVE0YlhSc2VWY3lRbmRLWW5rM04xQlViV2haTFVocFZETlFhMlJuYW5sb2JqQXhNR1JaVjFaelNIQnlTbHBvYVRsb04ybzFlRVUzVW1wbU9UaEZRamhTYkU1Mk9HMDJYMnBEVGpkcmRIaHVURWs0RWhaSFoycHNZVzlOYW10aGFYVTBVVjlEWDAxcVFVUkJHaUpCU0U0d1JUZElZMm8zVm01amVYZ3lhbFV6ZVc5TGNFRXRlRVF4VFV0aVkwTjMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVzc0RDb3dEUVVSRVlsZGxZbmN3UlZaV1kxcFlPREpEZG1oUGFYWjJYMWRGTUhWalRHWTBNRzF1WDFJeVp6WnpTSHBvZUhWRllUWllkRjloVG5GVmJHWjNlVWhFTlROaVEwczNXbWxIVDE5Sloxb3pibkJMV0hSVU5pMTRMV3A0T0RsQlRGTlpjRzFqY1hVMVNuZGFaMHBUZUhSelZscHFiV1pqV2xJMFdpMHhVakZtY0VSWE5YUmZNMWRTWWsxYWVHOVViVlZsTjBkaGRYWm5jRTlyWTNkbFZsZFZWbVJsYW5Wa05taDNVRjlpYlhnM2RIbzVRMk4zUVhWeldtVk5VVkkzUjNGT1pYUmlNMEpmV25oWWNYZ3RRWFU0U1VsU1IxbFNaa05rTlVSNlVFbHhjSE5sV0dkd1NuUjBRMFI0Ym1OVE5GbGpSMkZwVVdGd2JFMWtOa3A2YldreFdYSjFlRUpCTTNWdmVtcGlhWGxWWm1WbFNGWTBiVXBaU1VSQ1F6TnRXWEV3WjJOVmVVZHlSa1pJYTBkZlZYTnpRazVOWldOdmFVZEhTMVE0YlhSc2VWY3lRbmRLWW5rM04xQlViV2haTFVocFZETlFhMlJuYW5sb2JqQXhNR1JaVjFaelNIQnlTbHBvYVRsb04ybzFlRVUzVW1wbU9UaEZRamhTYkU1Mk9HMDJYMnBEVGpkcmRIaHVURWs0RWhaSFoycHNZVzlOYW10aGFYVTBVVjlEWDAxcVFVUkJHaUpCU0U0d1JUZElZMm8zVm01amVYZ3lhbFV6ZVc5TGNFRXRlRVF4VFV0aVkwTjMiLCJmY3YiOiIzIn0%3D&q=Data+Analyst&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Analyst",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:11:52.222758+00:00",
+    "request_fingerprint": "645cff42d366c37f11fe07a9d9a686821d5f18a00f98760729ace51d06b50bad",
+    "job_count": 10
+  }
+}

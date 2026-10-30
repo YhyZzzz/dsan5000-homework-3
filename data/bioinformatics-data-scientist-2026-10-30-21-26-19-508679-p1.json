@@ -1,0 +1,945 @@
+{
+  "search_metadata": {
+    "id": "6ae50b7bd0dfd73be17eced2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Jez7ncYXIIQ1IfCMskkjNIcCZP__gTCvBKjmUlrfvcg/6ae50b7bd0dfd73be17eced2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Jez7ncYXIIQ1IfCMskkjNIcCZP__gTCvBKjmUlrfvcg/6ae50b7bd0dfd73be17eced2.md",
+    "created_at": "2026-10-30 21:26:19 UTC",
+    "processed_at": "2026-10-30 21:26:19 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Bioinformatics+Data+Scientist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Jez7ncYXIIQ1IfCMskkjNIcCZP__gTCvBKjmUlrfvcg/6ae50b7bd0dfd73be17eced2.html",
+    "total_time_taken": 6.79
+  },
+  "search_parameters": {
+    "q": "Bioinformatics Data Scientist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCFCcvNEUMUe7ADuqP__4g524V1YUM5BMELHwV8UmiqkoTcHamHkvdQlwW6uLCiyW3AT0cVBNsaMse2DuK-_MvljiVNUQyHY5_2vUZS19QDsaAcDo8R_xYmg7iVy5rp9-0PWOCX-S5LlodvmAL_HgC5hMeFokf9tuGQMSLClgcEpHqIre",
+        "q": "Bioinformatics Data Scientist remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCFCcvNEUMUe7ADuqP__4g524V1YUM5BMELHwV8UmiqkoTcHamHkvdQlwW6uLCiyW3AT0cVBNsaMse2DuK-_MvljiVNUQyHY5_2vUZS19QDsaAcDo8R_xYmg7iVy5rp9-0PWOCX-S5LlodvmAL_HgC5hMeFokf9tuGQMSLClgcEpHqIre&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCFCcvNEUMUe7ADuqP__4g524V1YUM5BMELHwV8UmiqkoTcHamHkvdQlwW6uLCiyW3AT0cVBNsaMse2DuK-_MvljiVNUQyHY5_2vUZS19QDsaAcDo8R_xYmg7iVy5rp9-0PWOCX-S5LlodvmAL_HgC5hMeFokf9tuGQMSLClgcEpHqIre&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXFp7VK4diwFm1m2d2oTqoOauA_BIEQy2tw87snxAPpCLCWrYnlbgzyjKV7PMY1XsX8oupBsDq4oKIFv5sbqNfZBB12AuhRfk_zADrWyIrPfRljby461a1TmHXGNTWxNG-8a2gseqFnyaFCcO7aXrDppCQOa5H6spf2zpFRnp2IyI_FMdZ",
+        "q": "Bioinformatics Data Scientist no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXFp7VK4diwFm1m2d2oTqoOauA_BIEQy2tw87snxAPpCLCWrYnlbgzyjKV7PMY1XsX8oupBsDq4oKIFv5sbqNfZBB12AuhRfk_zADrWyIrPfRljby461a1TmHXGNTWxNG-8a2gseqFnyaFCcO7aXrDppCQOa5H6spf2zpFRnp2IyI_FMdZ&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQxKsJKAF6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXFp7VK4diwFm1m2d2oTqoOauA_BIEQy2tw87snxAPpCLCWrYnlbgzyjKV7PMY1XsX8oupBsDq4oKIFv5sbqNfZBB12AuhRfk_zADrWyIrPfRljby461a1TmHXGNTWxNG-8a2gseqFnyaFCcO7aXrDppCQOa5H6spf2zpFRnp2IyI_FMdZ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0TmukxHUOnO22kv_-ZxA1vNJ4qtLB-36IfdblDuasFylsrFOedVuxSIEDoYK2u0v2oarvoQSTKfYqIWy4XEW-0PPeHicRaypWQP_QsW3W2UBpBa8UbndOlNL_KagoWb4XNWbc9hjapfApt_IpBLw8YWeSoqHzNL_i4H5_Hj4i2kzJigmH52sE2S7ObTpjpJC4T8pLBG9GJdcIsOCpaRJkavaz47hqJ5udW-hitAgVwlIJPGk8y9Ha6B616nGk-484l8jOmlAEvboUdDLqxGkGqBTpQAmRmM",
+            "q": "Bioinformatics Data Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0TmukxHUOnO22kv_-ZxA1vNJ4qtLB-36IfdblDuasFylsrFOedVuxSIEDoYK2u0v2oarvoQSTKfYqIWy4XEW-0PPeHicRaypWQP_QsW3W2UBpBa8UbndOlNL_KagoWb4XNWbc9hjapfApt_IpBLw8YWeSoqHzNL_i4H5_Hj4i2kzJigmH52sE2S7ObTpjpJC4T8pLBG9GJdcIsOCpaRJkavaz47hqJ5udW-hitAgVwlIJPGk8y9Ha6B616nGk-484l8jOmlAEvboUdDLqxGkGqBTpQAmRmM&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0TmukxHUOnO22kv_-ZxA1vNJ4qtLB-36IfdblDuasFylsrFOedVuxSIEDoYK2u0v2oarvoQSTKfYqIWy4XEW-0PPeHicRaypWQP_QsW3W2UBpBa8UbndOlNL_KagoWb4XNWbc9hjapfApt_IpBLw8YWeSoqHzNL_i4H5_Hj4i2kzJigmH52sE2S7ObTpjpJC4T8pLBG9GJdcIsOCpaRJkavaz47hqJ5udW-hitAgVwlIJPGk8y9Ha6B616nGk-484l8jOmlAEvboUdDLqxGkGqBTpQAmRmM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0Tmu1ULP5xPzlmvfrgd1G8DTF7pdSAHtM6NQSGUJyUz_xKAMXgAuJKOGFHd1tUrPcxI6j2jD9lOtB6KbEUp59YGDVsr1W_92Id4GwZf7dJQ-ejlJIs69E4-JrowiAfaZvCYWT2trV6PvJoLQQHB9f8A8olZQGWqqR7AQ3HNyG40q3LXtrQUgst5s-6DWfTMYyw35rCtWfD4v5MJSnYQG7AfnAfTmJiM8nVG-zkJPk-bvXJLi_Eh1OSLWoEaXK9YhStBVCvoz4NmVAuXaYNYVfjyx0OfxUmw",
+            "q": "Bioinformatics Data Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0Tmu1ULP5xPzlmvfrgd1G8DTF7pdSAHtM6NQSGUJyUz_xKAMXgAuJKOGFHd1tUrPcxI6j2jD9lOtB6KbEUp59YGDVsr1W_92Id4GwZf7dJQ-ejlJIs69E4-JrowiAfaZvCYWT2trV6PvJoLQQHB9f8A8olZQGWqqR7AQ3HNyG40q3LXtrQUgst5s-6DWfTMYyw35rCtWfD4v5MJSnYQG7AfnAfTmJiM8nVG-zkJPk-bvXJLi_Eh1OSLWoEaXK9YhStBVCvoz4NmVAuXaYNYVfjyx0OfxUmw&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0Tmu1ULP5xPzlmvfrgd1G8DTF7pdSAHtM6NQSGUJyUz_xKAMXgAuJKOGFHd1tUrPcxI6j2jD9lOtB6KbEUp59YGDVsr1W_92Id4GwZf7dJQ-ejlJIs69E4-JrowiAfaZvCYWT2trV6PvJoLQQHB9f8A8olZQGWqqR7AQ3HNyG40q3LXtrQUgst5s-6DWfTMYyw35rCtWfD4v5MJSnYQG7AfnAfTmJiM8nVG-zkJPk-bvXJLi_Eh1OSLWoEaXK9YhStBVCvoz4NmVAuXaYNYVfjyx0OfxUmw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-7NDJXvQtH9GiG3pBHx_QhajuVnRPGztbAKuVfg1cgASP46fYTY1BoCaKfhdibJDZbcxj4P709A8XAsVNRJLYHJjBjVyNO-sQ0cTHLUopccUrE4Xoj7Xy4QXWmVyQ-dlMNcsqLOxovEIv7qsHThC71KJTczcSzQ1vMsj7w0IeljD8frPZKUkPjAotSj_DMfDKMYEtvwnTsGsuRQdQAxk6cwVwf90hUMWpIN3zKV9pdOfrlND-NJENcZ0wnM_I2kqlHMaE52mB7NCPjK7EFFJ_tWj8TNfdJgGVVNlCz7RkD0sVJb09RdCw9hovI57rcwTRctTirE",
+            "q": "Bioinformatics Data Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-7NDJXvQtH9GiG3pBHx_QhajuVnRPGztbAKuVfg1cgASP46fYTY1BoCaKfhdibJDZbcxj4P709A8XAsVNRJLYHJjBjVyNO-sQ0cTHLUopccUrE4Xoj7Xy4QXWmVyQ-dlMNcsqLOxovEIv7qsHThC71KJTczcSzQ1vMsj7w0IeljD8frPZKUkPjAotSj_DMfDKMYEtvwnTsGsuRQdQAxk6cwVwf90hUMWpIN3zKV9pdOfrlND-NJENcZ0wnM_I2kqlHMaE52mB7NCPjK7EFFJ_tWj8TNfdJgGVVNlCz7RkD0sVJb09RdCw9hovI57rcwTRctTirE&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-7NDJXvQtH9GiG3pBHx_QhajuVnRPGztbAKuVfg1cgASP46fYTY1BoCaKfhdibJDZbcxj4P709A8XAsVNRJLYHJjBjVyNO-sQ0cTHLUopccUrE4Xoj7Xy4QXWmVyQ-dlMNcsqLOxovEIv7qsHThC71KJTczcSzQ1vMsj7w0IeljD8frPZKUkPjAotSj_DMfDKMYEtvwnTsGsuRQdQAxk6cwVwf90hUMWpIN3zKV9pdOfrlND-NJENcZ0wnM_I2kqlHMaE52mB7NCPjK7EFFJ_tWj8TNfdJgGVVNlCz7RkD0sVJb09RdCw9hovI57rcwTRctTirE&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUt0BuF_83jDzTPVmLyiDplKa7tKCagwMGnQ3mzgpzwF0HHJ-rpZ1CXXpvhJ9n6LQL-JSc2ZfpCjF7owD4NNbY46EnM0pZrmcBcsa32HPwbvmBq5qgQhGDzFEIHXXt2aPxZVt_nD7o8H6wQKvHlglIuA9nie0o5jC-0MCf1PU0iuBT6QWFQdFiNTGnOHGnp8-MHha_eomVBxHGGGZWfk-cFzL6NhRTF9bWimGUcCtu_-rIlj7EPbyrPsm5Z3bcsaaQKlSr2smWXzliriIBCo4v2pQWknfv0Q0MXugfDrXBrF-WdAnYeOXEx2LToPljuSFfFDe7Xg",
+            "q": "Bioinformatics Data Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUt0BuF_83jDzTPVmLyiDplKa7tKCagwMGnQ3mzgpzwF0HHJ-rpZ1CXXpvhJ9n6LQL-JSc2ZfpCjF7owD4NNbY46EnM0pZrmcBcsa32HPwbvmBq5qgQhGDzFEIHXXt2aPxZVt_nD7o8H6wQKvHlglIuA9nie0o5jC-0MCf1PU0iuBT6QWFQdFiNTGnOHGnp8-MHha_eomVBxHGGGZWfk-cFzL6NhRTF9bWimGUcCtu_-rIlj7EPbyrPsm5Z3bcsaaQKlSr2smWXzliriIBCo4v2pQWknfv0Q0MXugfDrXBrF-WdAnYeOXEx2LToPljuSFfFDe7Xg&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUt0BuF_83jDzTPVmLyiDplKa7tKCagwMGnQ3mzgpzwF0HHJ-rpZ1CXXpvhJ9n6LQL-JSc2ZfpCjF7owD4NNbY46EnM0pZrmcBcsa32HPwbvmBq5qgQhGDzFEIHXXt2aPxZVt_nD7o8H6wQKvHlglIuA9nie0o5jC-0MCf1PU0iuBT6QWFQdFiNTGnOHGnp8-MHha_eomVBxHGGGZWfk-cFzL6NhRTF9bWimGUcCtu_-rIlj7EPbyrPsm5Z3bcsaaQKlSr2smWXzliriIBCo4v2pQWknfv0Q0MXugfDrXBrF-WdAnYeOXEx2LToPljuSFfFDe7Xg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0TmukxHUOnO22kv_-ZxA1vNJ4qtLB-36IfdblDuasFylsrFOedVuxSIEDoYK2u0v2oarvoQSTKfYqIWy4XEW-0PPeHicRaypWQP_QsW3W2UBpBa8UbndOlNL_KagoWb4XNWbc9hjapfApt_IpBLw8YWeSoqHzNL_i4H5_Hj4i2kzJigmH52sE2S7ObTpjpJC4T8pLBG9GJdcIsOCpaRJkavaz47hqJ5udW-hitAgVwlIJPGk8y9Ha6B616nGk-484l8jOmlAEvboUdDLqxGkGqBTpQAmRmM",
+            "q": "Bioinformatics Data Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0TmukxHUOnO22kv_-ZxA1vNJ4qtLB-36IfdblDuasFylsrFOedVuxSIEDoYK2u0v2oarvoQSTKfYqIWy4XEW-0PPeHicRaypWQP_QsW3W2UBpBa8UbndOlNL_KagoWb4XNWbc9hjapfApt_IpBLw8YWeSoqHzNL_i4H5_Hj4i2kzJigmH52sE2S7ObTpjpJC4T8pLBG9GJdcIsOCpaRJkavaz47hqJ5udW-hitAgVwlIJPGk8y9Ha6B616nGk-484l8jOmlAEvboUdDLqxGkGqBTpQAmRmM&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0TmukxHUOnO22kv_-ZxA1vNJ4qtLB-36IfdblDuasFylsrFOedVuxSIEDoYK2u0v2oarvoQSTKfYqIWy4XEW-0PPeHicRaypWQP_QsW3W2UBpBa8UbndOlNL_KagoWb4XNWbc9hjapfApt_IpBLw8YWeSoqHzNL_i4H5_Hj4i2kzJigmH52sE2S7ObTpjpJC4T8pLBG9GJdcIsOCpaRJkavaz47hqJ5udW-hitAgVwlIJPGk8y9Ha6B616nGk-484l8jOmlAEvboUdDLqxGkGqBTpQAmRmM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0Tmu1ULP5xPzlmvfrgd1G8DTF7pdSAHtM6NQSGUJyUz_xKAMXgAuJKOGFHd1tUrPcxI6j2jD9lOtB6KbEUp59YGDVsr1W_92Id4GwZf7dJQ-ejlJIs69E4-JrowiAfaZvCYWT2trV6PvJoLQQHB9f8A8olZQGWqqR7AQ3HNyG40q3LXtrQUgst5s-6DWfTMYyw35rCtWfD4v5MJSnYQG7AfnAfTmJiM8nVG-zkJPk-bvXJLi_Eh1OSLWoEaXK9YhStBVCvoz4NmVAuXaYNYVfjyx0OfxUmw",
+            "q": "Bioinformatics Data Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0Tmu1ULP5xPzlmvfrgd1G8DTF7pdSAHtM6NQSGUJyUz_xKAMXgAuJKOGFHd1tUrPcxI6j2jD9lOtB6KbEUp59YGDVsr1W_92Id4GwZf7dJQ-ejlJIs69E4-JrowiAfaZvCYWT2trV6PvJoLQQHB9f8A8olZQGWqqR7AQ3HNyG40q3LXtrQUgst5s-6DWfTMYyw35rCtWfD4v5MJSnYQG7AfnAfTmJiM8nVG-zkJPk-bvXJLi_Eh1OSLWoEaXK9YhStBVCvoz4NmVAuXaYNYVfjyx0OfxUmw&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLYoeMQgwEr_CTLx-T68bMeQ702j-0h4Wcgg16Bsq0Tmu1ULP5xPzlmvfrgd1G8DTF7pdSAHtM6NQSGUJyUz_xKAMXgAuJKOGFHd1tUrPcxI6j2jD9lOtB6KbEUp59YGDVsr1W_92Id4GwZf7dJQ-ejlJIs69E4-JrowiAfaZvCYWT2trV6PvJoLQQHB9f8A8olZQGWqqR7AQ3HNyG40q3LXtrQUgst5s-6DWfTMYyw35rCtWfD4v5MJSnYQG7AfnAfTmJiM8nVG-zkJPk-bvXJLi_Eh1OSLWoEaXK9YhStBVCvoz4NmVAuXaYNYVfjyx0OfxUmw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-7NDJXvQtH9GiG3pBHx_QhajuVnRPGztbAKuVfg1cgASP46fYTY1BoCaKfhdibJDZbcxj4P709A8XAsVNRJLYHJjBjVyNO-sQ0cTHLUopccUrE4Xoj7Xy4QXWmVyQ-dlMNcsqLOxovEIv7qsHThC71KJTczcSzQ1vMsj7w0IeljD8frPZKUkPjAotSj_DMfDKMYEtvwnTsGsuRQdQAxk6cwVwf90hUMWpIN3zKV9pdOfrlND-NJENcZ0wnM_I2kqlHMaE52mB7NCPjK7EFFJ_tWj8TNfdJgGVVNlCz7RkD0sVJb09RdCw9hovI57rcwTRctTirE",
+            "q": "Bioinformatics Data Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-7NDJXvQtH9GiG3pBHx_QhajuVnRPGztbAKuVfg1cgASP46fYTY1BoCaKfhdibJDZbcxj4P709A8XAsVNRJLYHJjBjVyNO-sQ0cTHLUopccUrE4Xoj7Xy4QXWmVyQ-dlMNcsqLOxovEIv7qsHThC71KJTczcSzQ1vMsj7w0IeljD8frPZKUkPjAotSj_DMfDKMYEtvwnTsGsuRQdQAxk6cwVwf90hUMWpIN3zKV9pdOfrlND-NJENcZ0wnM_I2kqlHMaE52mB7NCPjK7EFFJ_tWj8TNfdJgGVVNlCz7RkD0sVJb09RdCw9hovI57rcwTRctTirE&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-7NDJXvQtH9GiG3pBHx_QhajuVnRPGztbAKuVfg1cgASP46fYTY1BoCaKfhdibJDZbcxj4P709A8XAsVNRJLYHJjBjVyNO-sQ0cTHLUopccUrE4Xoj7Xy4QXWmVyQ-dlMNcsqLOxovEIv7qsHThC71KJTczcSzQ1vMsj7w0IeljD8frPZKUkPjAotSj_DMfDKMYEtvwnTsGsuRQdQAxk6cwVwf90hUMWpIN3zKV9pdOfrlND-NJENcZ0wnM_I2kqlHMaE52mB7NCPjK7EFFJ_tWj8TNfdJgGVVNlCz7RkD0sVJb09RdCw9hovI57rcwTRctTirE&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUt0BuF_83jDzTPVmLyiDplKa7tKCagwMGnQ3mzgpzwF0HHJ-rpZ1CXXpvhJ9n6LQL-JSc2ZfpCjF7owD4NNbY46EnM0pZrmcBcsa32HPwbvmBq5qgQhGDzFEIHXXt2aPxZVt_nD7o8H6wQKvHlglIuA9nie0o5jC-0MCf1PU0iuBT6QWFQdFiNTGnOHGnp8-MHha_eomVBxHGGGZWfk-cFzL6NhRTF9bWimGUcCtu_-rIlj7EPbyrPsm5Z3bcsaaQKlSr2smWXzliriIBCo4v2pQWknfv0Q0MXugfDrXBrF-WdAnYeOXEx2LToPljuSFfFDe7Xg",
+            "q": "Bioinformatics Data Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUt0BuF_83jDzTPVmLyiDplKa7tKCagwMGnQ3mzgpzwF0HHJ-rpZ1CXXpvhJ9n6LQL-JSc2ZfpCjF7owD4NNbY46EnM0pZrmcBcsa32HPwbvmBq5qgQhGDzFEIHXXt2aPxZVt_nD7o8H6wQKvHlglIuA9nie0o5jC-0MCf1PU0iuBT6QWFQdFiNTGnOHGnp8-MHha_eomVBxHGGGZWfk-cFzL6NhRTF9bWimGUcCtu_-rIlj7EPbyrPsm5Z3bcsaaQKlSr2smWXzliriIBCo4v2pQWknfv0Q0MXugfDrXBrF-WdAnYeOXEx2LToPljuSFfFDe7Xg&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUt0BuF_83jDzTPVmLyiDplKa7tKCagwMGnQ3mzgpzwF0HHJ-rpZ1CXXpvhJ9n6LQL-JSc2ZfpCjF7owD4NNbY46EnM0pZrmcBcsa32HPwbvmBq5qgQhGDzFEIHXXt2aPxZVt_nD7o8H6wQKvHlglIuA9nie0o5jC-0MCf1PU0iuBT6QWFQdFiNTGnOHGnp8-MHha_eomVBxHGGGZWfk-cFzL6NhRTF9bWimGUcCtu_-rIlj7EPbyrPsm5Z3bcsaaQKlSr2smWXzliriIBCo4v2pQWknfv0Q0MXugfDrXBrF-WdAnYeOXEx2LToPljuSFfFDe7Xg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk2CDK_JRFfwGP3eUHSdNtvqjtT5GDytZ3_1vR2TLWQjPwtqY6b-QuOwfjkpbZpOMTgPbWU0B0zfJDrg8l6e91GrY0iH5ViYJ4Hzrxq_J9kDi7BFm_UvTsCtac_bFd2rVLHiuk8xeP88DxuFDBxRDuHfWt64fBf5d7wh9Hqkq7guqNxTnbcFFNMXfECjK9ywAE9rdv87kz-Ok_uGYE0q4RJfkmuwh7C4wtZAG6nkPkE4A_kqc8ef8MyweOYRNoN3j52Iwh6oxi9y5PU1zrarT_2DFzlZurpV8f-Khr3yr9vC_fwwLEIEqZyspEA9_HAB6xdC1fZ2JUnLXhi6Nr7L1mo8CTj94",
+            "q": "Bioinformatics Data Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk2CDK_JRFfwGP3eUHSdNtvqjtT5GDytZ3_1vR2TLWQjPwtqY6b-QuOwfjkpbZpOMTgPbWU0B0zfJDrg8l6e91GrY0iH5ViYJ4Hzrxq_J9kDi7BFm_UvTsCtac_bFd2rVLHiuk8xeP88DxuFDBxRDuHfWt64fBf5d7wh9Hqkq7guqNxTnbcFFNMXfECjK9ywAE9rdv87kz-Ok_uGYE0q4RJfkmuwh7C4wtZAG6nkPkE4A_kqc8ef8MyweOYRNoN3j52Iwh6oxi9y5PU1zrarT_2DFzlZurpV8f-Khr3yr9vC_fwwLEIEqZyspEA9_HAB6xdC1fZ2JUnLXhi6Nr7L1mo8CTj94&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk2CDK_JRFfwGP3eUHSdNtvqjtT5GDytZ3_1vR2TLWQjPwtqY6b-QuOwfjkpbZpOMTgPbWU0B0zfJDrg8l6e91GrY0iH5ViYJ4Hzrxq_J9kDi7BFm_UvTsCtac_bFd2rVLHiuk8xeP88DxuFDBxRDuHfWt64fBf5d7wh9Hqkq7guqNxTnbcFFNMXfECjK9ywAE9rdv87kz-Ok_uGYE0q4RJfkmuwh7C4wtZAG6nkPkE4A_kqc8ef8MyweOYRNoN3j52Iwh6oxi9y5PU1zrarT_2DFzlZurpV8f-Khr3yr9vC_fwwLEIEqZyspEA9_HAB6xdC1fZ2JUnLXhi6Nr7L1mo8CTj94&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxfs4KntPl1-HSBQ_8bhY02pPsxT3mLJJIT-xJytBu_IdiciKf03KtVXAlKJQL5GtA9fEVTXn7HYLvoTMFeCAQfZdQq36xMq248M2gns8YEfHFRCIAfHnjDTo4j7Bf_In_GZIG3uJ10IJhkzOOlgcRyZ92oC9QwklHKx5xJz2XrLg6a8DJ11gU9kdKmzkkMmMKVZbbaVLW1LTkix2P4LVpyLpah8NqppZBirXPtwPM_vp1bqHjy_K3-douAcQ2Y04oY5-cWwB-OuzKBDLKQSHpTFnCrGtDm5wjKBhb6nxuatUInCWX73eHKtv8mQQE9Gb75_JmePZc0RBRLR3mmySLFeQzq3Z",
+            "q": "Bioinformatics Data Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxfs4KntPl1-HSBQ_8bhY02pPsxT3mLJJIT-xJytBu_IdiciKf03KtVXAlKJQL5GtA9fEVTXn7HYLvoTMFeCAQfZdQq36xMq248M2gns8YEfHFRCIAfHnjDTo4j7Bf_In_GZIG3uJ10IJhkzOOlgcRyZ92oC9QwklHKx5xJz2XrLg6a8DJ11gU9kdKmzkkMmMKVZbbaVLW1LTkix2P4LVpyLpah8NqppZBirXPtwPM_vp1bqHjy_K3-douAcQ2Y04oY5-cWwB-OuzKBDLKQSHpTFnCrGtDm5wjKBhb6nxuatUInCWX73eHKtv8mQQE9Gb75_JmePZc0RBRLR3mmySLFeQzq3Z&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxfs4KntPl1-HSBQ_8bhY02pPsxT3mLJJIT-xJytBu_IdiciKf03KtVXAlKJQL5GtA9fEVTXn7HYLvoTMFeCAQfZdQq36xMq248M2gns8YEfHFRCIAfHnjDTo4j7Bf_In_GZIG3uJ10IJhkzOOlgcRyZ92oC9QwklHKx5xJz2XrLg6a8DJ11gU9kdKmzkkMmMKVZbbaVLW1LTkix2P4LVpyLpah8NqppZBirXPtwPM_vp1bqHjy_K3-douAcQ2Y04oY5-cWwB-OuzKBDLKQSHpTFnCrGtDm5wjKBhb6nxuatUInCWX73eHKtv8mQQE9Gb75_JmePZc0RBRLR3mmySLFeQzq3Z&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBR3Wa2jpMOJG8MhEYLn0vYdLARbE6hr2IXzndDv5sy6ZpP3sdM3fTzKjgVCRlvXcjT4pJvhe1-LPuB34ncuunObVaDET5INGfORQWNPPwTO4wHzayYHwSSr_BeSrbAaFL7n0rtkcA3Z5VWvmDQcmd5zZ4Bjch_kJh4NZAjfAZNY5UUE_qC60YsRIkickG2cstsb7Bp1-EMoOYDWwLIOQDLWWY2oP3cioMBWvioW0Um5zDBJHJYP6wkm-f3gCG0TNG9IyADyP8FI00pzFTp8wTLB8PcaUSuqOpBIPD4E0omcvNNgl7rYzoDLaWM88FdlUw2Dk-IcKjEuYh6NtvN6KV_79ny5w",
+            "q": "Bioinformatics Data Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBR3Wa2jpMOJG8MhEYLn0vYdLARbE6hr2IXzndDv5sy6ZpP3sdM3fTzKjgVCRlvXcjT4pJvhe1-LPuB34ncuunObVaDET5INGfORQWNPPwTO4wHzayYHwSSr_BeSrbAaFL7n0rtkcA3Z5VWvmDQcmd5zZ4Bjch_kJh4NZAjfAZNY5UUE_qC60YsRIkickG2cstsb7Bp1-EMoOYDWwLIOQDLWWY2oP3cioMBWvioW0Um5zDBJHJYP6wkm-f3gCG0TNG9IyADyP8FI00pzFTp8wTLB8PcaUSuqOpBIPD4E0omcvNNgl7rYzoDLaWM88FdlUw2Dk-IcKjEuYh6NtvN6KV_79ny5w&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBR3Wa2jpMOJG8MhEYLn0vYdLARbE6hr2IXzndDv5sy6ZpP3sdM3fTzKjgVCRlvXcjT4pJvhe1-LPuB34ncuunObVaDET5INGfORQWNPPwTO4wHzayYHwSSr_BeSrbAaFL7n0rtkcA3Z5VWvmDQcmd5zZ4Bjch_kJh4NZAjfAZNY5UUE_qC60YsRIkickG2cstsb7Bp1-EMoOYDWwLIOQDLWWY2oP3cioMBWvioW0Um5zDBJHJYP6wkm-f3gCG0TNG9IyADyP8FI00pzFTp8wTLB8PcaUSuqOpBIPD4E0omcvNNgl7rYzoDLaWM88FdlUw2Dk-IcKjEuYh6NtvN6KV_79ny5w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE_NKqqxMN4IfEkmsYpvt5_nzAPyDAn4CoJHmf3_ugWdf7lpLWPC4MtiDveNeObgIwVS2AOsUatgtVgFssAkfEgz3CuaFLVHm3perTl4SBqkDcTTdXk8LwmZXuva89YN6jr_5VpKSS5KBIXrmToYsHgzJ-snRSpVDWqc5Evszeg1Eb185RySH5Wo6wZxXTC1zjjuMvudeYj-gUeB7iL7dowmNRGSwAI-xE6MHbjSlWVqNp62DnovZbB8mHx3-Jv_P6vAEWfThaNAaFImkSBnHqjhTAfLEXjN2VFX3ukhBgbFkQJpsXEt0KlOXr7VGwqUn33BC7-Hc3KcKK2Hnx-QcdRk9d6wJ",
+            "q": "Bioinformatics Data Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE_NKqqxMN4IfEkmsYpvt5_nzAPyDAn4CoJHmf3_ugWdf7lpLWPC4MtiDveNeObgIwVS2AOsUatgtVgFssAkfEgz3CuaFLVHm3perTl4SBqkDcTTdXk8LwmZXuva89YN6jr_5VpKSS5KBIXrmToYsHgzJ-snRSpVDWqc5Evszeg1Eb185RySH5Wo6wZxXTC1zjjuMvudeYj-gUeB7iL7dowmNRGSwAI-xE6MHbjSlWVqNp62DnovZbB8mHx3-Jv_P6vAEWfThaNAaFImkSBnHqjhTAfLEXjN2VFX3ukhBgbFkQJpsXEt0KlOXr7VGwqUn33BC7-Hc3KcKK2Hnx-QcdRk9d6wJ&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE_NKqqxMN4IfEkmsYpvt5_nzAPyDAn4CoJHmf3_ugWdf7lpLWPC4MtiDveNeObgIwVS2AOsUatgtVgFssAkfEgz3CuaFLVHm3perTl4SBqkDcTTdXk8LwmZXuva89YN6jr_5VpKSS5KBIXrmToYsHgzJ-snRSpVDWqc5Evszeg1Eb185RySH5Wo6wZxXTC1zjjuMvudeYj-gUeB7iL7dowmNRGSwAI-xE6MHbjSlWVqNp62DnovZbB8mHx3-Jv_P6vAEWfThaNAaFImkSBnHqjhTAfLEXjN2VFX3ukhBgbFkQJpsXEt0KlOXr7VGwqUn33BC7-Hc3KcKK2Hnx-QcdRk9d6wJ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk2CDK_JRFfwGP3eUHSdNtvqjtT5GDytZ3_1vR2TLWQjPwtqY6b-QuOwfjkpbZpOMTgPbWU0B0zfJDrg8l6e91GrY0iH5ViYJ4Hzrxq_J9kDi7BFm_UvTsCtac_bFd2rVLHiuk8xeP88DxuFDBxRDuHfWt64fBf5d7wh9Hqkq7guqNxTnbcFFNMXfECjK9ywAE9rdv87kz-Ok_uGYE0q4RJfkmuwh7C4wtZAG6nkPkE4A_kqc8ef8MyweOYRNoN3j52Iwh6oxi9y5PU1zrarT_2DFzlZurpV8f-Khr3yr9vC_fwwLEIEqZyspEA9_HAB6xdC1fZ2JUnLXhi6Nr7L1mo8CTj94",
+            "q": "Bioinformatics Data Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk2CDK_JRFfwGP3eUHSdNtvqjtT5GDytZ3_1vR2TLWQjPwtqY6b-QuOwfjkpbZpOMTgPbWU0B0zfJDrg8l6e91GrY0iH5ViYJ4Hzrxq_J9kDi7BFm_UvTsCtac_bFd2rVLHiuk8xeP88DxuFDBxRDuHfWt64fBf5d7wh9Hqkq7guqNxTnbcFFNMXfECjK9ywAE9rdv87kz-Ok_uGYE0q4RJfkmuwh7C4wtZAG6nkPkE4A_kqc8ef8MyweOYRNoN3j52Iwh6oxi9y5PU1zrarT_2DFzlZurpV8f-Khr3yr9vC_fwwLEIEqZyspEA9_HAB6xdC1fZ2JUnLXhi6Nr7L1mo8CTj94&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk2CDK_JRFfwGP3eUHSdNtvqjtT5GDytZ3_1vR2TLWQjPwtqY6b-QuOwfjkpbZpOMTgPbWU0B0zfJDrg8l6e91GrY0iH5ViYJ4Hzrxq_J9kDi7BFm_UvTsCtac_bFd2rVLHiuk8xeP88DxuFDBxRDuHfWt64fBf5d7wh9Hqkq7guqNxTnbcFFNMXfECjK9ywAE9rdv87kz-Ok_uGYE0q4RJfkmuwh7C4wtZAG6nkPkE4A_kqc8ef8MyweOYRNoN3j52Iwh6oxi9y5PU1zrarT_2DFzlZurpV8f-Khr3yr9vC_fwwLEIEqZyspEA9_HAB6xdC1fZ2JUnLXhi6Nr7L1mo8CTj94&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxfs4KntPl1-HSBQ_8bhY02pPsxT3mLJJIT-xJytBu_IdiciKf03KtVXAlKJQL5GtA9fEVTXn7HYLvoTMFeCAQfZdQq36xMq248M2gns8YEfHFRCIAfHnjDTo4j7Bf_In_GZIG3uJ10IJhkzOOlgcRyZ92oC9QwklHKx5xJz2XrLg6a8DJ11gU9kdKmzkkMmMKVZbbaVLW1LTkix2P4LVpyLpah8NqppZBirXPtwPM_vp1bqHjy_K3-douAcQ2Y04oY5-cWwB-OuzKBDLKQSHpTFnCrGtDm5wjKBhb6nxuatUInCWX73eHKtv8mQQE9Gb75_JmePZc0RBRLR3mmySLFeQzq3Z",
+            "q": "Bioinformatics Data Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxfs4KntPl1-HSBQ_8bhY02pPsxT3mLJJIT-xJytBu_IdiciKf03KtVXAlKJQL5GtA9fEVTXn7HYLvoTMFeCAQfZdQq36xMq248M2gns8YEfHFRCIAfHnjDTo4j7Bf_In_GZIG3uJ10IJhkzOOlgcRyZ92oC9QwklHKx5xJz2XrLg6a8DJ11gU9kdKmzkkMmMKVZbbaVLW1LTkix2P4LVpyLpah8NqppZBirXPtwPM_vp1bqHjy_K3-douAcQ2Y04oY5-cWwB-OuzKBDLKQSHpTFnCrGtDm5wjKBhb6nxuatUInCWX73eHKtv8mQQE9Gb75_JmePZc0RBRLR3mmySLFeQzq3Z&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxfs4KntPl1-HSBQ_8bhY02pPsxT3mLJJIT-xJytBu_IdiciKf03KtVXAlKJQL5GtA9fEVTXn7HYLvoTMFeCAQfZdQq36xMq248M2gns8YEfHFRCIAfHnjDTo4j7Bf_In_GZIG3uJ10IJhkzOOlgcRyZ92oC9QwklHKx5xJz2XrLg6a8DJ11gU9kdKmzkkMmMKVZbbaVLW1LTkix2P4LVpyLpah8NqppZBirXPtwPM_vp1bqHjy_K3-douAcQ2Y04oY5-cWwB-OuzKBDLKQSHpTFnCrGtDm5wjKBhb6nxuatUInCWX73eHKtv8mQQE9Gb75_JmePZc0RBRLR3mmySLFeQzq3Z&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBR3Wa2jpMOJG8MhEYLn0vYdLARbE6hr2IXzndDv5sy6ZpP3sdM3fTzKjgVCRlvXcjT4pJvhe1-LPuB34ncuunObVaDET5INGfORQWNPPwTO4wHzayYHwSSr_BeSrbAaFL7n0rtkcA3Z5VWvmDQcmd5zZ4Bjch_kJh4NZAjfAZNY5UUE_qC60YsRIkickG2cstsb7Bp1-EMoOYDWwLIOQDLWWY2oP3cioMBWvioW0Um5zDBJHJYP6wkm-f3gCG0TNG9IyADyP8FI00pzFTp8wTLB8PcaUSuqOpBIPD4E0omcvNNgl7rYzoDLaWM88FdlUw2Dk-IcKjEuYh6NtvN6KV_79ny5w",
+            "q": "Bioinformatics Data Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBR3Wa2jpMOJG8MhEYLn0vYdLARbE6hr2IXzndDv5sy6ZpP3sdM3fTzKjgVCRlvXcjT4pJvhe1-LPuB34ncuunObVaDET5INGfORQWNPPwTO4wHzayYHwSSr_BeSrbAaFL7n0rtkcA3Z5VWvmDQcmd5zZ4Bjch_kJh4NZAjfAZNY5UUE_qC60YsRIkickG2cstsb7Bp1-EMoOYDWwLIOQDLWWY2oP3cioMBWvioW0Um5zDBJHJYP6wkm-f3gCG0TNG9IyADyP8FI00pzFTp8wTLB8PcaUSuqOpBIPD4E0omcvNNgl7rYzoDLaWM88FdlUw2Dk-IcKjEuYh6NtvN6KV_79ny5w&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBR3Wa2jpMOJG8MhEYLn0vYdLARbE6hr2IXzndDv5sy6ZpP3sdM3fTzKjgVCRlvXcjT4pJvhe1-LPuB34ncuunObVaDET5INGfORQWNPPwTO4wHzayYHwSSr_BeSrbAaFL7n0rtkcA3Z5VWvmDQcmd5zZ4Bjch_kJh4NZAjfAZNY5UUE_qC60YsRIkickG2cstsb7Bp1-EMoOYDWwLIOQDLWWY2oP3cioMBWvioW0Um5zDBJHJYP6wkm-f3gCG0TNG9IyADyP8FI00pzFTp8wTLB8PcaUSuqOpBIPD4E0omcvNNgl7rYzoDLaWM88FdlUw2Dk-IcKjEuYh6NtvN6KV_79ny5w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE_NKqqxMN4IfEkmsYpvt5_nzAPyDAn4CoJHmf3_ugWdf7lpLWPC4MtiDveNeObgIwVS2AOsUatgtVgFssAkfEgz3CuaFLVHm3perTl4SBqkDcTTdXk8LwmZXuva89YN6jr_5VpKSS5KBIXrmToYsHgzJ-snRSpVDWqc5Evszeg1Eb185RySH5Wo6wZxXTC1zjjuMvudeYj-gUeB7iL7dowmNRGSwAI-xE6MHbjSlWVqNp62DnovZbB8mHx3-Jv_P6vAEWfThaNAaFImkSBnHqjhTAfLEXjN2VFX3ukhBgbFkQJpsXEt0KlOXr7VGwqUn33BC7-Hc3KcKK2Hnx-QcdRk9d6wJ",
+            "q": "Bioinformatics Data Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDju0LACJOgPtkrwd0Rw-aXJSGl2SQ:1793395585447&q=Bioinformatics+Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE_NKqqxMN4IfEkmsYpvt5_nzAPyDAn4CoJHmf3_ugWdf7lpLWPC4MtiDveNeObgIwVS2AOsUatgtVgFssAkfEgz3CuaFLVHm3perTl4SBqkDcTTdXk8LwmZXuva89YN6jr_5VpKSS5KBIXrmToYsHgzJ-snRSpVDWqc5Evszeg1Eb185RySH5Wo6wZxXTC1zjjuMvudeYj-gUeB7iL7dowmNRGSwAI-xE6MHbjSlWVqNp62DnovZbB8mHx3-Jv_P6vAEWfThaNAaFImkSBnHqjhTAfLEXjN2VFX3ukhBgbFkQJpsXEt0KlOXr7VGwqUn33BC7-Hc3KcKK2Hnx-QcdRk9d6wJ&udm=8&sa=X&ved=2ahUKEwiAnb-W1-KXAxXpVTABHdjTHLoQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Bioinformatics+Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE_NKqqxMN4IfEkmsYpvt5_nzAPyDAn4CoJHmf3_ugWdf7lpLWPC4MtiDveNeObgIwVS2AOsUatgtVgFssAkfEgz3CuaFLVHm3perTl4SBqkDcTTdXk8LwmZXuva89YN6jr_5VpKSS5KBIXrmToYsHgzJ-snRSpVDWqc5Evszeg1Eb185RySH5Wo6wZxXTC1zjjuMvudeYj-gUeB7iL7dowmNRGSwAI-xE6MHbjSlWVqNp62DnovZbB8mHx3-Jv_P6vAEWfThaNAaFImkSBnHqjhTAfLEXjN2VFX3ukhBgbFkQJpsXEt0KlOXr7VGwqUn33BC7-Hc3KcKK2Hnx-QcdRk9d6wJ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Scientist (Bioinformatics), IS- 1560- 11",
+      "company_name": "Smithsonian Institution",
+      "location": "Washington, DC",
+      "via": "The Impact Job",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Pass Pre-employment Background Check and Subsequent Background Investigation for position designated",
+            "Proof of eligibility to work in U.S. is not required to apply",
+            "Applicants must meet all qualification and eligibility requirements within 30 days of the closing date of this announcement",
+            "Professional knowledge of and skill in applying a wide range of data-science principles, concepts, methods, and practices sufficient to perform difficult data-management, processing, computational, and analytical assignments involving ecological and forestry data",
+            "Knowledge of data acquisition, data cleaning, validation, transformation, integration, storage, analysis, visualization, documentation, and reproducible computational workflows",
+            "Knowledge of computational and data-management methods is required to develop, modify, implement, and maintain processing pipelines for tree inventory, GNSS, ALS, TLS, spatial, and related scientific datasets",
+            "Knowledge of programming concepts and skill in applying programming languages and analytical tools such as R, Python, SQL, Git, GitHub, and related software to manipulate, process, analyze, and manage scientific data",
+            "Knowledge of algorithm development, software testing, version control, debugging, documentation, deployment, and maintenance practices is required to support scientific applications and data-processing workflows",
+            "Knowledge of spatial-data concepts, common spatial-data formats, and GIS software is required to process and evaluate geospatial information associated with ForestGEO and GEO-TREES projects",
+            "Knowledge of the scientific concepts associated with ecology, tropical biology, forestry, or related environmental sciences sufficient to understand data characteristics, research requirements, analytical objectives, and the relationships among data variables",
+            "Knowledge to select and modify appropriate data-processing and analytical methods; identify and resolve data-quality problems; evaluate alternative computational approaches; interpret results; develop recommendations; and prepare technical documentation and analytical products",
+            "Skill adapting or modifying established data-science techniques and procedures to address differences in data structure, quality, collection methods, analytical requirements, or site-specific circumstances",
+            "Education completed outside the United States must be deemed equivalent to higher education programs of U.S. Institutions by an organization that specializes in the interpretation of foreign educational credentials"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $85,447 - $91,145 / year",
+            "Trust Fund positions are unique to the Smithsonian",
+            "Trust employees have their own benefit program, which may include Health, Dental & Vision Insurance, Life Insurance, Transit/Commuter Benefits, Accidental Death and Dismemberment Insurance, Annual and Sick Leave, Family Friendly Leave, 403b Retirement Plan, Discounts for Smithsonian Memberships, Museum Stores and Restaurants, Credit Union, Smithsonian Early Enrichment Center (Child Care), Flexible Spending Account (Health & Dependent Care)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Scientist supports the Forest Global Earth Observatory (ForestGEO) and GEO-TREES programs as a liaison between site-based data collection and the development of analytical data products",
+            "Data Management, Scientific Analysis, and Software Programming (50%)",
+            "Performs data-management, computational, and bioinformatics assignments supporting research in tropical biology, ecology, and forestry",
+            "Develops, implements, modifies, and maintains data-processing pipelines used to process plot-based tree inventory and related ecological data and to derive estimates such as forest woody biomass density",
+            "Evaluates the performance of existing data-processing pipelines and recommends modifications or improvements based on data characteristics, analytical requirements, user needs, and experience working with ForestGEO and GEO-TREES site teams",
+            "Develops and modifies computational procedures for analysis of ForestGEO and GEO-TREES scientific data using established data-science principles, methods, and practices",
+            "Processes, validates, organizes, and manages tree inventory, Global Navigation Satellite System (GNSS), Airborne Laser Scanning (ALS), and Terrestrial Laser Scanning (TLS) data for scientific analysis and long-term storage",
+            "Supports the archiving and long-term management of scientific datasets to ensure appropriate organization, documentation, accessibility, and usability",
+            "Develops and maintains data-management solutions and informatics workflows for data acquisition, formatting, validation, processing, analysis, use, and storage",
+            "Implements established data standards and contributes to the development and modification of data structures and architectures appropriate to assigned projects",
+            "Writes, tests, documents, troubleshoots, and maintains computer code used in data-processing and analytical workflows",
+            "Uses programming languages and tools such as R, Python, SQL, Git, GitHub, GIS applications, and related scientific and data-management software",
+            "Identifies data-quality problems, inconsistencies, missing values, formatting issues, and other anomalies and determines appropriate methods for correcting or documenting them",
+            "Works with researchers and other technical personnel to ensure that processed data and analyticalproducts meet established scientific and program requirements",
+            "Requirements Gathering and Technical Support (25%)",
+            "Works closely with researchers and program personnel to identify data-processing, analytical, software, and data-management requirements for assigned scientific projects",
+            "Conducts technical analyses of available methods and alternatives and recommends appropriate software tools, workflows, calculations, and analytical approaches",
+            "Assists researchers in translating scientific requirements into practical data-processing and",
+            "computational solutions",
+            "Evaluates existing workflows and recommends modifications when established approaches do not fully address the characteristics of the data or requirements of an assigned project",
+            "Coordinates with site representatives concerning timelines and technical requirements for acquisition and submission of plot inventory, TLS, ALS, GNSS, and related scientific data",
+            "Reviews submitted data to determine whether established ForestGEO and GEO-TREES formatting, documentation, and data-quality requirements have been met",
+            "Works with site personnel to resolve routine and moderately complex data-submission and data-quality problems",
+            "Coordinates with the Office of the Chief Information Officer (OCIO) and other appropriate technical staff to ensure assigned development activities follow applicable systems-development, documentation, version-control, security, and software-development practices",
+            "Prepares technical documentation describing data-processing workflows, code, data structures, analytical procedures, and related methods",
+            "Assists in testing new or modified software tools, workflows, and procedures prior to implementation",
+            "Training and Collaboration (25%)",
+            "Develops and provides formal and informal training to researchers, site personnel, and program partners concerning ForestGEO and GEO-TREES data systems, data-management procedures, formatting requirements, data-processing workflows, and related tools",
+            "Serves as a technical point of contact for tree-inventory teams and other users at assigned ForestGEO and GEO-TREES sites",
+            "Provides advice, training, troubleshooting assistance, and technical support concerning data collection, formatting, cleaning, validation, processing, documentation, and submission",
+            "Explains data standards, analytical procedures, software requirements, and data-management practices to researchers and partners with varying levels of technical expertise",
+            "Collaborates with scientists, data managers, programmers, and other personnel to identify and resolve data-management and processing problems",
+            "Participates in meetings, working groups, and collaborative activities involving ForestGEO, GEO-TREES, Smithsonian staff, and domestic and international research partners",
+            "Shares information concerning lessons learned, recurring data problems, workflow improvements, and effective data-management practices with program staff and partners",
+            "Performs other duties as assigned"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=XzhicdOLWNAS8Gp9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhyBKspxQALJlhopyQGWwpLspB1dwzMEGZMOJVnFJrX_R_9dlFVWbXQ9OhIURQON2SkN8-jVewlTqBuUijKc75aQApP7kCcnfsATPBg9oPbX4PqJBdjRIbMi25t1vNomFzHi_lwJxutBDu7abDq2lOZL9lE_hg3I2oQJrQENYmifhXXORK8rAQkr0wJVPc_vevN-bEAAAA&shmds=v1_Ac3VAoxkgRU60Lt_IivDVB4-bwas7TENHQETF6GrDxL3gbRNQQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=XzhicdOLWNAS8Gp9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50b7bd0dfd73be17eced2/images/hpYbQJZm9ufiLq8NeJyW4DLvmm6zvlrTiGWQ4vgd7FU.jpeg",
+      "extensions": [
+        "18 days ago",
+        "85,447–91,145 a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.theimpactjob.com/jobs/764039205-data-scientist-bioinformatics-is-1560-11",
+      "job_title": "Data Scientist (Bioinformatics), IS- 1560- 11",
+      "description": "Data Scientist (Bioinformatics), IS- 1560- 11Application Deadline: 12 October 2026\n\nDepartment: Smithsonian Tropical Research Institute\n\nEmployment Type: Full Time\n\nLocation: Washington, DC\n\nCompensation: $85,447 - $91,145 / year\n\n\nDescriptionOPEN DATE: September 11, 2026                    CLOSING DATE: October 12, 2026               POSITION TYPE: Trust FundAPPOINTMENT TYPE: Temporary for 2 years   SCHEDULE: Full Time\nDUTY LOCATION: Washington, DC, National Museum of Natural History \n\n\n\nPosition sensitivity and risk: \nNon-Sensitive - Low risk \n\nWho May Apply:\nOpen to all qualified applicants\n\nWhat are Trust Fund Positions?\nTrust Fund positions are unique to the Smithsonian. They are paid for from a variety of sources, including the Smithsonian endowment, revenue from our business activities, donations, grants and contracts. Trust employees are not part of the civil service, nor does trust fund employment lead to Federal status. The salary ranges for trust positions are generally the same as for federal positions and in many cases trust and federal employees work side by side. Trust employees have their own benefit program, which may include Health, Dental & Vision Insurance, Life Insurance, Transit/Commuter Benefits, Accidental Death and Dismemberment Insurance, Annual and Sick Leave, Family Friendly Leave, 403b Retirement Plan, Discounts for Smithsonian Memberships, Museum Stores and Restaurants, Credit Union, Smithsonian Early Enrichment Center (Child Care), Flexible Spending Account (Health & Dependent Care). Conditions of Employment\nPass Pre-employment Background Check and Subsequent Background Investigation for position designated.\nComplete a Probationary Period.\nMaintain a Bank Account for Direct Deposit/Electronic Transfer.\nThe position is open to all candidates eligible to work in the United States.  Proof of eligibility to work in U.S. is not required to apply.\nApplicants must meet all qualification and eligibility requirements within 30 days of the closing date of this announcement. \n\nOVERVIEWThis position is located in Washington, DC, within the Forest Global Earth Observatory (ForestGEO), Smithsonian Tropical Research Institute (STRI), under the Office of the Under Secretary for Science and Research at the Smithsonian Institution (SI).\n\n\nSTRI provides a global platform for research on tropical forests and marine ecosystems, biodiversity, and human well-being.\n\nThe ForestGEO program is a global network of scientists and forest research sites dedicated to advancing the long-term study of the world's forests. \n\nThe GEO-TREES initiative builds on this network to improve the accuracy and verification of global forest carbon estimates through collaboration among forest research sites worldwide. The Data Scientist supports the Forest Global Earth Observatory (ForestGEO) and GEO-TREES programs as a liaison between site-based data collection and the development of analytical data products.\nDUTIES AND RESPONSIBILITIESData Management, Scientific Analysis, and Software Programming (50%)\nPerforms data-management, computational, and bioinformatics assignments supporting research in tropical biology, ecology, and forestry.\nDevelops, implements, modifies, and maintains data-processing pipelines used to process plot-based tree inventory and related ecological data and to derive estimates such as forest woody biomass density.\nEvaluates the performance of existing data-processing pipelines and recommends modifications or improvements based on data characteristics, analytical requirements, user needs, and experience working with ForestGEO and GEO-TREES site teams.\nDevelops and modifies computational procedures for analysis of ForestGEO and GEO-TREES scientific data using established data-science principles, methods, and practices.\nProcesses, validates, organizes, and manages tree inventory, Global Navigation Satellite System (GNSS), Airborne Laser Scanning (ALS), and Terrestrial Laser Scanning (TLS) data for scientific analysis and long-term storage.\nSupports the archiving and long-term management of scientific datasets to ensure appropriate organization, documentation, accessibility, and usability.\nDevelops and maintains data-management solutions and informatics workflows for data acquisition, formatting, validation, processing, analysis, use, and storage.\nImplements established data standards and contributes to the development and modification of data structures and architectures appropriate to assigned projects.\nWrites, tests, documents, troubleshoots, and maintains computer code used in data-processing and analytical workflows.\nUses programming languages and tools such as R, Python, SQL, Git, GitHub, GIS applications, and related scientific and data-management software.\nIdentifies data-quality problems, inconsistencies, missing values, formatting issues, and other anomalies and determines appropriate methods for correcting or documenting them.\nWorks with researchers and other technical personnel to ensure that processed data and analyticalproducts meet established scientific and program requirements.\n\n\nRequirements Gathering and Technical Support (25%)\n\nWorks closely with researchers and program personnel to identify data-processing, analytical, software, and data-management requirements for assigned scientific projects.\nConducts technical analyses of available methods and alternatives and recommends appropriate software tools, workflows, calculations, and analytical approaches.\nAssists researchers in translating scientific requirements into practical data-processing and\ncomputational solutions.\nEvaluates existing workflows and recommends modifications when established approaches do not fully address the characteristics of the data or requirements of an assigned project.\nCoordinates with site representatives concerning timelines and technical requirements for acquisition and submission of plot inventory, TLS, ALS, GNSS, and related scientific data.\nReviews submitted data to determine whether established ForestGEO and GEO-TREES formatting, documentation, and data-quality requirements have been met.\nWorks with site personnel to resolve routine and moderately complex data-submission and data-quality problems.\nCoordinates with the Office of the Chief Information Officer (OCIO) and other appropriate technical staff to ensure assigned development activities follow applicable systems-development, documentation, version-control, security, and software-development practices.\nPrepares technical documentation describing data-processing workflows, code, data structures, analytical procedures, and related methods.\nAssists in testing new or modified software tools, workflows, and procedures prior to implementation.\n\n\nTraining and Collaboration (25%)\n\nDevelops and provides formal and informal training to researchers, site personnel, and program partners concerning ForestGEO and GEO-TREES data systems, data-management procedures, formatting requirements, data-processing workflows, and related tools.\nServes as a technical point of contact for tree-inventory teams and other users at assigned ForestGEO and GEO-TREES sites.\nProvides advice, training, troubleshooting assistance, and technical support concerning data collection, formatting, cleaning, validation, processing, documentation, and submission.\nExplains data standards, analytical procedures, software requirements, and data-management practices to researchers and partners with varying levels of technical expertise.\nCollaborates with scientists, data managers, programmers, and other personnel to identify and resolve data-management and processing problems.\nParticipates in meetings, working groups, and collaborative activities involving ForestGEO, GEO-TREES, Smithsonian staff, and domestic and international research partners.\nShares information concerning lessons learned, recurring data problems, workflow improvements, and effective data-management practices with program staff and partners.\nPerforms other duties as assigned.\nQUALIFICATION REQUIREMENTSEducation  and Experience:\nProfessional knowledge of and skill in applying a wide range of data-science principles, concepts, methods, and practices sufficient to perform difficult data-management, processing, computational, and analytical assignments involving ecological and forestry data.\nKnowledge of data acquisition, data cleaning, validation, transformation, integration, storage, analysis, visualization, documentation, and reproducible computational workflows.\nKnowledge of computational and data-management methods is required to develop, modify, implement, and maintain processing pipelines for tree inventory, GNSS, ALS, TLS, spatial, and related scientific datasets.\nKnowledge of programming concepts and skill in applying programming languages and analytical tools such as R, Python, SQL, Git, GitHub, and related software to manipulate, process, analyze, and manage scientific data.\nKnowledge of algorithm development, software testing, version control, debugging, documentation, deployment, and maintenance practices is required to support scientific applications and data-processing workflows.\nKnowledge of spatial-data concepts, common spatial-data formats, and GIS software is required to process and evaluate geospatial information associated with ForestGEO and GEO-TREES projects.\nKnowledge of the scientific concepts associated with ecology, tropical biology, forestry, or related environmental sciences sufficient to understand data characteristics, research requirements, analytical objectives, and the relationships among data variables.\nKnowledge to select and modify appropriate data-processing and analytical methods; identify and resolve data-quality problems; evaluate alternative computational approaches; interpret results; develop recommendations; and prepare technical documentation and analytical products.\nSkill adapting or modifying established data-science techniques and procedures to address differences in data structure, quality, collection methods, analytical requirements, or site-specific circumstances.\nEducation completed outside the United States must be deemed equivalent to higher education programs of U.S. Institutions by an organization that specializes in the interpretation of foreign educational credentials. This documentation is the responsibility of the applicant and should be included as part of your application package.Any false statement in your application may result in rejection of your application and may also result in termination after employment begins.Join us in \"Inspiring Generations through Knowledge and Discovery.\" \nResumes should include a description of your paid and non-paid work experience that is related to this job; starting and ending dates of job (month and year); and average number of hours worked per week.  \n\nWhat To Expect Next: Once the vacancy announcement closes, a review of your resume will be compared against the qualification and experience requirements related to this job. After review of applicant resumes is complete, qualified candidates will be referred to the hiring manager.Relocation expenses are not paid.\n\nThe Smithsonian Institution provides reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation should contact strisearch@si.edu. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.  To learn more, please review the Smithsonian’s Accommodation Procedures. The Smithsonian Institution is an Equal Opportunity Employer. To review The Smithsonian's EEO program information, please click the following: https://www.si.edu/oeo",
+      "apply_options": [
+        {
+          "title": "The Impact Job",
+          "link": "https://www.theimpactjob.com/jobs/764039205-data-scientist-bioinformatics-is-1560-11?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-scientist-bioinformatics_7ea1a6d2f0a4dd9380e6373690fa3d1461fd0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ABRF Career Center",
+          "link": "https://careers.abrf.org/job/data-scientist-bioinformatics-is-1560-11-washington-dc-cf9f786acc9acb7b9bdf8eaa91ea1c41b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/smithsonian/washington-dc/bioinformatics-scientist/4c60a20476d231f22999182164670af9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/54e6f9bf-38a5-40e8-89b5-499f571843ef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-scientist-bioinformatics-is-1560-11-smithsonian-institution-washington-dc--jooble--908707133254873825--285a84e5c665f1f030ba862f71479d31?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-dc-washington-data-scientist-bioinformatics-is-11-smithsonian-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoQmlvaW5mb3JtYXRpY3MpLCBJUy0gMTU2MC0gMTEiLCJjb21wYW55X25hbWUiOiJTbWl0aHNvbmlhbiBJbnN0aXR1dGlvbiIsImh0aWRvY2lkIjoiWHpoaWNkT0xXTkFTOEdwOUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlVbGhkVWRaTVRoV2NuVTNlSHBVTlRKT1EzTjFPV0p6YW1sUVUxRkNOR2w1YUZwcFNuaFJkelZVUW5SZk4yRkNVRFZJUmpaSU1tbFZVVjlOZUdKek9HZEZabWRTVldRMGFFVkRMVzVIVG10aVgyRk9SWEZvV0ZaRldFWTRRMjFSVG5KT1ptaFBSVUkxTjJOd2FGSnJTRzlVYW13MlFWbFdVbU4xUjFGTmIzcGxNbXhTYzJzU0YyZFJkbXhoYzBSWlIzVnRjbmRpYTFBeVMyWjZNRUZ6R2lKQlNFNHdSVGRIZERGT1FWTlZibGw1VUdWNVlYcDBSSFphUldGb1RFMHlhVTUzIiwiZmN2IjoiMyIsImZjX2lkIjoiWHpoaWNkT0xXTkFTOEdwOUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Bioinformatics Data Scientist AI/ML for Drug Discovery",
+      "company_name": "Merck KGaA",
+      "location": "Burlington, MA (+1 other)",
+      "via": "Talent.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=VYS4-h0LfbwKneHaAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMPQrCQBBAYWxzBLGYWjQrgo1WCQHxJ5X2slnGzWicCTsT0WN5Q7V5zQcv-4yy8wmZJEFJQnyV9PBGQaHy5uEUCNlIDYqdq4_wY6jSEKEiDfLE9IY57KUBRZ9CC8KwFYkdjjetWa9r51S7PKr9p3mQhxPGRl7uJo3-c9HWJ-w7b3hZrhavvOc4ndSYwh0OW18AMZRD6oijCc-gLr4N6kKvtAAAAA&shmds=v1_Ac3VAowLgP860B48YC7zSpM1PddKSkmU1EibfO7d24U1C_jZfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=VYS4-h0LfbwKneHaAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.talent.com/view?id=628297462675809217",
+      "job_title": "Senior Bioinformatics Data Scientist AI/ML for Drug Discovery",
+      "description": "Created in our Life Science Transformation Office (now part of the Technology Office) and still transformational at heart, the Digital Center of Excellence team (DiCE) is an agile and forward-thinking team of currently 70 + highly motivated individuals that thrives on facilitating, streamlining, and accelerating the conception, development and scaling of high-quality digital solutions that solve our Life Science customers’ challenges. We value teamwork, innovation, and a passion for learning. As part of DiCE R&D enablement, you will work on accelerating early phases of scientific software development, and on crafting scientific algorithms for groundbreaking, digital platforms. You will use your knowledge and understanding of AI, cheminformatics, and bioinformatics tools to develop digital tools that answer the toughest challenges in Life Science. Your strong interpersonal skills and knowledge of computational techniques in biology and chemistry enable you to make strides at the forefront of digital innovation. You will be working in an interdisciplinary team that includes lab managers, chemists, biologists, data scientists, and software engineers based around the world. Main responsibilities: In this role, you need to understand and translate R&D lab needs into product requirements for prototype construction, scientific algorithm development, and final product development by software engineering teams. You will be typically involved in activities, such as: Analyzing complex problems in Life Science and articulating solution ideas based on ChemInformatics, BioInformatics and AI/ML approaches Providing proof-of-concepts for testing out R&D lab ideas Following an agile development approach in building PoC and core software modules. You will contribute to the development of the scientific component of the software and work in close collaboration with cross functional software engineering teams e.g. UI/UX experts Keeping up with the latest development in computational chemistry, computational biology and machine-driven drug discovery in publications to improve the existing digital products based on them Building the computational chemistry engine for drug discovery or lab automation purpose based on ML/AL and other procedural algorithms. Curating large datasets and building predictive models from them Applying ML/AL on the traditional computational science approaches Documenting data, data curation and model building processes Who youa are Minimum Qualifications: Masters or PhD degree in Chemistry, Biochemistry, Cheminformatics, Chemical Engineering, Computer Science or related fields. Minimum of 5 years industry experience. Thereof, minimum 3 years working with bioinformatics, cheminformatics, and/or ML techniques in the Pharmaceutical, Biotech, or Life Science industry Preferred Qualifications: Proficient with tools for data science, such as data analysis, data processing, statistics, AI/ML, etc., and be able to use those tools to create working PoC for demonstration purposes, which implies practical and in-depth programming skills in Python, Java, JavaScript, C++, etc. Familiarity with Palantir Foundry, AWS computing platforms, and the agile development process preferred. Experience working in multi-disciplinary and cross-culture teams Excellent communication skills Be curious and innovative with a strong desire to revolutionize the life science industry What we offer: We are curious minds that come from a broad range of backgrounds, perspectives, and life experiences. We celebrate all dimensions of diversity and believe that it drives excellence and innovation, strengthening our ability to lead in science and technology. We are committed to creating access and opportunities for all to develop and grow at your own pace. Join us in building a culture of inclusion and belonging that impacts millions and empowers everyone to work their magic and champion human progress! Apply now and become a part of our diverse team! If you would like to know more about what diversity, equity, and inclusion means to us, please visit https://www.emdgroup.com/en/company/press-positions.html Notice on Fraudulent Job Offers Unfortunately, we are aware of third parties that pretend to represent our company offering unauthorized employment opportunities. If you think a fraudulent source is offering you a job, please have a look at the following information: https://www.merckgroup.com/en/careers/faqs.html #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=628297462675809217&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ma-burlington-senior-bioinformatics-data-scientist-ai-ml-for-drug?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-b3afd2371deb4922487bfb2811d066bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmlvaW5mb3JtYXRpY3MgRGF0YSBTY2llbnRpc3QgQUkvTUwgZm9yIERydWcgRGlzY292ZXJ5IiwiY29tcGFueV9uYW1lIjoiTWVyY2sgS0dhQSIsImh0aWRvY2lkIjoiVllTNC1oMExmYndLbmVIYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYWnRjVVJHUWpCR0xUWk1iekJNV1ZkSWJVdFFWRjlwVDBwbFlsQndRWGR1VjNKUVowNWxlVzl5V21kWFlWbGFUVFpzVUd0S2JFdElhWG90Wm0wd1lsWjFWRWhIWDB4NFF6aGplVWRWTWw5NmRISklOVXhtUjJGUVZFaEdjRVpLVG5kbVpFTkNNVWg2WlhSa1UwZHlZemhhZW5wSlFtdFFVR3BoU0ZaRVRXZzRNMGRhTWxBU0YyZFJkbXhoYzBSWlIzVnRjbmRpYTFBeVMyWjZNRUZ6R2lKQlNFNHdSVGRGUjFwc09YcDFWbTlrWkZWM1JrZFZRVzlhTVV4aWNIZDNaV2xSIiwiZmN2IjoiMyIsImZjX2lkIjoiVllTNC1oMExmYndLbmVIYUFBQUFBQT09In0="
+    },
+    {
+      "title": "Remote Neuroscience Data Scientist - Bioinformatics Lead",
+      "company_name": "University of Colorado Anschutz",
+      "location": "Anywhere",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsibilities include reviewing clinical data, performing analyses, and leading manuscript preparation and submission across decades of data",
+            "The role involves remote work eligibility within the United States and collaboration across clinical and research teams to drive publications and grant activities"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=ARAVMvIsp9lqRl9RAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOwQqCUBBFaesntJp1pEbQplZmEEQkFK1lfI76Qt_ImzGsf-vf0s2Fc-DADX6LILtTx0pwo8GzGEvOEJxQER4zqBWFEI6WravYd6jWCFwJy8leuAAh9KYBdnBmrltaHhrVXvZxLNJGtehcRIa7mB0VPMYvLmSeXBr01LeolG93mzHqXb0Kn86-yYvVD3AFKbfssWRInJhm0C9YB8l01OMa0uwP0v_Fc8AAAAA&shmds=v1_Ac3VAowEIz1ogW1hOJXwOqib7JlvmfbZmePNglkNbappAyDwcQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=ARAVMvIsp9lqRl9RAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAgCAMAAABw3UvaAAAAn1BMVEX______vz__v2-vr3IyMf08_IAAADQ0M_o5-bFxcTNzczw7-7y8eulmHfWxZr7-vm0tLPax5auqqLZw4b6-PLYxIzb29qmpqWtrayemYyTjoG4s6nGuJLUwIvLuo2elXvn1KGJhXzBvbTY08ennoq7sZgAAA4hJS4_QUV6dWq2qIZHR0eBfXNNT1OvpYs2O0RZXWWTinHMtXaYmJeCgoPMdvBGAAAB0ElEQVQ4jeWU2XLbMAxFQQIyQbI1ZcsmaddL6yxNXHeJlf__toJRpnETVTN67AR8ELEcQLziCOAd24diwyWqx2D1sdi6N1nyxXRP_NNmO51Ot7t5f2P9T3A-208mk_XnL4fDVQ85CF7Pbm6_3k1l6Ejwfnv8dvreHPvOOQT--Dk9Xje_mofF2_QAeLU_N-fz-eaueRgljoLDfr3b3E9Gg_KhaLc5rVejQaUWp9lyuTz2iToMwmI1n88PvXdnEHy-V72ZCxDUZYl-bgaFLv6fxGsQjCxQvosAx9JIBAoB6wAl142P3StcgAjWkktQk0loXbLBebStxCEiOUQySBYRLbwGJVSbnB0S24yQWXoRoA4tWIycKpdJP0rh32es0DBE77TURBvZZ1Cy1QqxPB1xsBSJMeoXEDoJtSrb4osFYZ6aPvklpLpaeBEc2gCVrKBd0Eo7FeRY8FgixFpyzHJ0kjlV0OIrFbqJPlI2tTUiCdaAiVswuWpFDZcc2kg1CwqUa2ttchkodSojJQs5tp4dJ_FMBSa2VMcUpNTXJnEQsTCTZ4uiVY65-2jgWTFVhn3lyUdDwSvZkzbRs-EYA7BVJnKofDZAEhn-_fVZGI_8v_YbW8Qcbm4LJUkAAAAASUVORK5CYII.png",
+      "extensions": [
+        "17 days ago",
+        "156K–180K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/remote-neuroscience-data-scientist-bioinformatics-lead--aurora--ebee2a580145d13495a3ef89a3219bb76",
+      "job_title": "Remote Neuroscience Data Scientist - Bioinformatics Lead",
+      "description": "University of Colorado Anschutz in Aurora, CO seeks a Research Collaborator to support the Pituitary Program under Dr. Kevin Lillehei. Responsibilities include reviewing clinical data, performing analyses, and leading manuscript preparation and submission across decades of data.\n\nThe role involves remote work eligibility within the United States and collaboration across clinical and research teams to drive publications and grant activities.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/remote-neuroscience-data-scientist-bioinformatics-lead--aurora--ebee2a580145d13495a3ef89a3219bb76?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/lead-data-scientist-remote-minnetonka-mn--31884058-6868-4db9-92e9-52af5967c7c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-scientist-qa-lead-remote-at-yo-it-consulting-4433012451?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Jobzeno",
+          "link": "https://jobzeno.liveblog365.com/remote-jobs/data-scientist-qa-lead-remote-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/remote-lead-data-scientist-us-remote-bb2c6a0f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SkillSync",
+          "link": "https://skillsync.c9a.fast-page.org/remote-jobs/remote-data-scientist-qa-lead-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Afflu",
+          "link": "https://afflu.o8v.html-5.me/remote-jobs/lead-data-scientist-us-remote-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/discovered-mena/lead-data-scientist-remote-101498097/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgTmV1cm9zY2llbmNlIERhdGEgU2NpZW50aXN0IC0gQmlvaW5mb3JtYXRpY3MgTGVhZCIsImNvbXBhbnlfbmFtZSI6IlVuaXZlcnNpdHkgb2YgQ29sb3JhZG8gQW5zY2h1dHoiLCJodGlkb2NpZCI6IkFSQVZNdklzcDlscVJsOVJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbGxETFZCb2RtMWlibmgwZDJwbGVVSjBOM052TlZNNVIwbFBiVGsxVVhkUmRtWnFTRU51UTFWVE1VWnBkazF1VW04NE4weE5WazAxYlhGQ1kwb3dUVGN6WkVod05XWlpOblpxVGt4NWIwZHFhMlF4UjNGc2NsOXBOREJCZERZNFRUSjRVWGh6UlRaalUyWlVlRnBuWTFsUGEzQlRRV1pTUm5aelpVazJiSFkwUWw5T09EY1NGMmRSZG14aGMwUlpSM1Z0Y25kaWExQXlTMlo2TUVGekdpSkJTRTR3UlRkSVlqbGhRVFUxTFZGT2NqVlJkRWR2YURWU2NtSnhVblpQUWtKMyIsImZjdiI6IjMiLCJmY19pZCI6IkFSQVZNdklzcDlscVJsOVJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Bioinformatics / Data Scientist (San Mateo)",
+      "company_name": "Dinamo Biotechnologies",
+      "location": "San Mateo, CA",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD or Masters in bioinformatics, computational biology, or related field",
+            "5+ years of experience in bioinformatics, computational biology, statistics, and/or data science",
+            "Evidence (products, publications, patents, open source projects) of original computational / statistical / modeling contributions in the domains of autoimmune diseases, epigenetics, and/or transcriptomics with high-dimensional / high-noise data",
+            "Evidence of cold starting projects in a commercial settings, executing extensive benchmark studies, or otherwise solving challenging / long-standing problems",
+            "Secondary to tertiary bioinformatics analysis, data science, and machine learning with NGS data",
+            "Implementation with Python, plus at least R or one compiled language",
+            "Distributed / cloud / high-performance computing or workflow managers",
+            "Experience: 5 years required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This is a fully hands-on role involving analytical development of bioinformatics, ML/AI, data science, statistics, and data visualization methodologies"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=s69CXEYC4pQLIUv8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OOwrCQBBAsc0RrKbzg2ZFsNFKDYiCVQ4QNsu4O5LMhJ0pci1vqGlsXvneKz6z4l4jk2S4kBC_JPfeKCg4qLx5qAMhG6nBsvYMT28oK9jCQ1pQ9DkkEIabSOxwfkpmgx6dU-3KqDaZyiC9E8ZWRveWVic0mnzGofvJmv1hN5YDx_WiIva9TB-GIbF0EgkViOFf3sD1_AWl_VWxtAAAAA&shmds=v1_Ac3VAoxUaX_qU3eRJIXx6_IGI4e1KwLwlTdwG_Opz0SrQiInJQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=s69CXEYC4pQLIUv8AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEUAGlHy8vIAFk8ZJ1j8_PkAAEH19fQAAEcAEU3a2d35-fgAAEX9_PtJUXIAGFAAAEkADExuc4qSlaWtrroAAD6ho7FmbIWMkKGChJc1Pmh4e5EoMl8ACEsgK1xjaIPMzdLi4-ZWXHu1t8LBwspDSm0rxr_6AAABmElEQVRIie2V246DIBCGheXkQMF6aHVta9W-_zNuT6C2EXGTTfaif6IXZD4GhjlE0Ucf_YkMtTqs44rYapusAXkB7CG1WwWaPaCHyEasAksHVqvAw7cDa_xL8LgO3DrwaxnEieGcGzEB1SKY0OiUFllRbrgU4R5FfmpAwU0KZVUeCh6ODWHICkixCwPNBg3YHT2jEFBUbMqN5AO1PM9yXtCUapbzgZqOHAI8vhAwaYm1Yiytpaz3o1B5wGvtObCSWGvB6yCPtLH7Q8mft25VACjdmyGun2t5zBZBbawN6-n78edBHNljQcbt4qgDeEDyDvIAUAtrwzrpPKYBSW7cY8S5XaP9cnAi6iIItqPhyGWA7znc7qzJ71Y47yEAHCKIoE-kMZJ3Q7Z6eg6OBjNAXbrv0CjLfWUl-5EhA5gUp6-vimpcRy_yNmSZzlcyqXzNivavpDuuuniHDs3U5GaQuQQ4eeejpm2snlFhoOJqp6zKhVme0EsRI6IIirOWJseN1fKYE1xSbm6_662wsAqacvqmEMOP_od-AKStFrv9ThM3AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "90K–126K a year",
+        "Part-time"
+      ],
+      "source_link": "https://talents.vaia.com/companies/dinamo-biotechnologies/senior-bioinformatics-data-scientist-san-mateo-18169244/",
+      "job_title": "Senior Bioinformatics / Data Scientist (San Mateo)",
+      "description": "Company Description  \n\nDinamo is building a new category of high-resolution DNA methylation analysis platform to decode the epigenome and bring clarity to autoimmune disease. We combine molecular biology, engineering, and advanced analytics to develop precision tools that replace ambiguity with insight. Join us to help transform how medicine understands and treats complex diseases.  \n\nResponsibilities  \n\nThis is a fully hands-on role involving analytical development of bioinformatics, ML/AI, data science, statistics, and data visualization methodologies. This is a full-time on-site role at our lab in San Carlos, CA. No remote, no hybrid.  \n\nQualifications  \n\nPhD or Masters in bioinformatics, computational biology, or related field 5+ years of experience in bioinformatics, computational biology, statistics, and/or data science Evidence (products, publications, patents, open source projects) of original computational / statistical / modeling contributions in the domains of autoimmune diseases, epigenetics, and/or transcriptomics with high-dimensional / high-noise data Evidence of cold starting projects in a commercial settings, executing extensive benchmark studies, or otherwise solving challenging / long-standing problems Secondary to tertiary bioinformatics analysis, data science, and machine learning with NGS data Implementation with Python, plus at least R or one compiled language Distributed / cloud / high-performance computing or workflow managers  \n\nExperience: 5 years required",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/dinamo-biotechnologies/senior-bioinformatics-data-scientist-san-mateo-18169244/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmlvaW5mb3JtYXRpY3MgLyBEYXRhIFNjaWVudGlzdCAoU2FuIE1hdGVvKSIsImNvbXBhbnlfbmFtZSI6IkRpbmFtbyBCaW90ZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6InM2OUNYRVlDNHBRTElVdjhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVzFmYkZrMFNsbGFSR2RJZEhjMFoybFhPRmMyYUdwTVV5MXBZM1p0YW1sdlQwa3lURVF4UTNGdlJHTXRUV1k1Um10aFl5MUpNR0pqVm5OeGVYUlViR3hsU0VKTU1HSmxhMjFHWWtabVQwdzBaeTEyTmtjdE5uSjVZMWsxUTBOeWNISm1NRVF5TldGSFdTMXBaR0o1UlRGVVNEWkNibkJzYUhsYWJFVlpTRUU0ZUd0SmRIRVNGMmRSZG14aGMwUlpSM1Z0Y25kaWExQXlTMlo2TUVGekdpSkJTRTR3UlRkR1RVVjZabll5ZFhvNVgzZFpWbkZpUzJwdU5UQjViR05MUVc1biIsImZjdiI6IjMiLCJmY19pZCI6InM2OUNYRVlDNHBRTElVdjhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Bioinformatics Scientist – HIV-SOMAL",
+      "company_name": "Axle",
+      "location": "Rockville, MD",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Next-generation sequencing analysis (whole-exome, whole-genome, RNA-seq, ChIP-seq, using both long- and short-read technologies)",
+            "Statistical modeling",
+            "Scripting",
+            "Biological interpretation",
+            "Clearance",
+            "Ability to obtain and maintain a Public Trust security clearance",
+            "Four or more years of experience in bioinformatics, including two or more years developing and maintaining production bioinformatics pipelines",
+            "Programming languages",
+            "Expert-level proficiency in two of the following: Python, R, C/C++, sh/bash",
+            "Containerization",
+            "Experience building images using one of the following: Docker, Podman, Singularity/Apptainer",
+            "Pipeline frameworks",
+            "Expert-level proficiency in one pipeline framework: Snakemake, Nextflow, or CWL/WDL",
+            "Experience building pipelines on-premises using available high-performance computing infrastructure"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "100% Medical, Dental & Vision Coverage for Employees",
+            "Paid Time Off and Paid Holidays",
+            "401K match up to 5%",
+            "Educational Benefits for Career Growth",
+            "Employee Referral Bonus",
+            "Flexible Spending Accounts:",
+            "Healthcare (FSA)",
+            "Parking Reimbursement Account (PRK)",
+            "Dependent Care Assistant Program (DCAP)",
+            "Transportation Reimbursement Account (TRN)",
+            "This role has a market-competitive salary with an anticipated base compensation range listed below",
+            "Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location",
+            "Salary Range: $105,000 USD - $130,000 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Bioinformatics Scientist will address the bioinformatics, scientific computing, and data analysis needs of investigators within the NIAID Division of Intramural Research (DIR) and their collaborators, as part of the Integrated Data Sciences Section (IDSS) within the Research Technologies Branch (RTB), with particular emphasis on HIV research",
+            "The incumbent will provide analysis support across genomic and clinical research data — including viral sequence, host–pathogen, and immunologic datasets generated by HIV studies — develop and maintain production pipelines, and contribute to a scalable resource supporting NIAID scientists",
+            "A substantial portion of the work will directly support HIV investigators and their laboratory and clinical research teams",
+            "The successful candidate will be highly motivated, adaptable, structured, and detail-oriented",
+            "Scientific consultation",
+            "Address the bioinformatics, scientific computing, and data analysis needs of users within the NIAID Division of Intramural Research and their collaborators, providing expertise in the statistical design of biological experiments involving high-throughput genome-scale technologies, data mining and knowledge discovery techniques, automated workflow development, and experimental design consultation",
+            "Bioinformatics support",
+            "Provide support spanning somatic and germline variant calling and analysis, single-cell and bulk gene expression analysis, de novo assembly of genomes and transcriptomes, comparative genomics of model and non-model organisms, proteomics, ChIP-seq, and ATAC-seq, including development of high-throughput pipelines for these data modalities",
+            "Programming support",
+            "Provide programming and troubleshooting support to the Research Technologies Branch and collaborating Institutes in the dissemination of research data",
+            "Data analysis",
+            "Perform computational data analysis on genomic and clinical research data, and provide statistical support and analysis on research data",
+            "Collaboration",
+            "Work with staff on scientific programming and experimental design",
+            "Publication",
+            "Contribute to and co-author scientific publications in leading peer-reviewed journals",
+            "Resource development",
+            "Contribute to the development of a scalable and flexible resource providing next-generation sequencing bioinformatics, structural and computational biology, and machine learning data support to NIAID scientists and investigators",
+            "The Bioinformatics Scientist is expected to bring strong skills in the following areas:",
+            "Demonstrated expertise building technical and user documentation for tools, pipelines, and applications"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=YUpbvSqlI2jGBb1XAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMOwrCQBAAUGzT21hNLSYrgo1iERH8YBAM2IbNMiajm52QGSSld8gNPYmkeeWLhkm02xNTeHLXWCUnkDvCoCQKv-8Ap_Mjzm9ZeoUYLlyCoO1cDRzgyFx5nG1r1VY2xoj4pBIdk8RxYzhgyb15cSkjhdS2w9ZbxWK1XvZJG6r5NO09AgW4s3t_yHtcQHb4A4GZ5WiWAAAA&shmds=v1_Ac3VAowMsq-ZhHFDMLXQG7_iqXM5xHpK-KiIRGsvVCMo-rm8Lw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=YUpbvSqlI2jGBb1XAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYBBAcDAv_EAC0QAAEEAgEDAgMJAQAAAAAAAAEAAgMEBRESBiExQVETUnEHFSIkMjNTYYIU_8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDAv_EACERAQEAAgAFBQAAAAAAAAAAAAABAhFhkaHB8AMSITFB_9oADAMBAAIRAxEAPwDuKIiAiIgIiICIiAiKhWerbkfWoDZo_uGK03GSt_Dv_oc0u5786DuLPbuVZNrJta8zcs4-OO1FG2Ssx35lujzaz5m_T1C8enb2SyLLVq_Xir1nTObSjb3eYh25vO9fi8gD0152oj7QJZ4DiLFhzxg4rjX5Ewkh7QP23OP8Yfrl6-Fv9PCWGpfMIcyiJHmmH_qA77_zvwuLuZTj0azHG-lv9nnPssCKE6JvWcl0lib16X4tmesx8snEDk4judAAKqz5XLWursrjmZfM1oYrUUEApYyOeKMOjYSXvMZ493E9z4WkxZadFRfLAQxoJ5EDufdFyjJGwqqfs76ZdTfBJQD5XlxdbcdzlxJJdz872Va0Vls-llsRmVx816GGp8UCqTqzy7ulZ8vto-q1umsPZw1CbGTWRYoxuLaRO_iRxHxG4nzx8A-30U4ik-FuV1pXML0fUwstZ1PI5cxVhxjryXnuh1ojRZ413S30fTs5C3djyOWqy23h8wqXXRNcQ0NB0P6AVjRX3VN1hjeLQ3ZOhrZPcosoogiIgIiICIiAiIg__9k.jpeg",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/bioinformatics-scientist-%E2%80%93-hiv-somal-at-axle-4483258146",
+      "job_title": "Bioinformatics Scientist – HIV-SOMAL",
+      "description": "(ID: 2026-3884)\n\n\n\n\n    Axle is a bioscience and information technology company that offers advancements in                translational research, biomedical informatics, and data                science applications to research centers and healthcare                organizations nationally and abroad. With experts in                biomedical science, software engineering, and program                management, we focus on developing and applying research                tools and techniques to empower decision-making and                accelerate research discoveries. We work with some of the                top research organizations and facilities in the country                including multiple institutes at the National Institutes of                Health (NIH).\n\n\n    Benefits We Offer:\n\n            100% Medical, Dental & Vision Coverage for Employees        Paid Time Off and Paid Holidays        401K match up to 5%        Educational Benefits for Career Growth        Employee Referral Bonus                    Flexible Spending Accounts:                            Healthcare (FSA)                Parking Reimbursement Account (PRK)                Dependent Care Assistant Program (DCAP)                Transportation Reimbursement Account (TRN)                        Position Overview\n\n \n\nThe Bioinformatics Scientist will address the bioinformatics, scientific computing, and data analysis needs of investigators within the NIAID Division of Intramural Research (DIR) and their collaborators, as part of the Integrated Data Sciences Section (IDSS) within the Research Technologies Branch (RTB), with particular emphasis on HIV research. The incumbent will provide analysis support across genomic and clinical research data — including viral sequence, host–pathogen, and immunologic datasets generated by HIV studies — develop and maintain production pipelines, and contribute to a scalable resource supporting NIAID scientists. A substantial portion of the work will directly support HIV investigators and their laboratory and clinical research teams. The successful candidate will be highly motivated, adaptable, structured, and detail-oriented.\n\n \n\nKey Responsibilities\n\n \n\nScientific consultation. Address the bioinformatics, scientific computing, and data analysis needs of users within the NIAID Division of Intramural Research and their collaborators, providing expertise in the statistical design of biological experiments involving high-throughput genome-scale technologies, data mining and knowledge discovery techniques, automated workflow development, and experimental design consultation.\n\nBioinformatics support. Provide support spanning somatic and germline variant calling and analysis, single-cell and bulk gene expression analysis, de novo assembly of genomes and transcriptomes, comparative genomics of model and non-model organisms, proteomics, ChIP-seq, and ATAC-seq, including development of high-throughput pipelines for these data modalities.\n\nProgramming support. Provide programming and troubleshooting support to the Research Technologies Branch and collaborating Institutes in the dissemination of research data.\n\nData analysis. Perform computational data analysis on genomic and clinical research data, and provide statistical support and analysis on research data.\n\nCollaboration. Work with staff on scientific programming and experimental design.\n\nPublication. Contribute to and co-author scientific publications in leading peer-reviewed journals.\n\nResource development. Contribute to the development of a scalable and flexible resource providing next-generation sequencing bioinformatics, structural and computational biology, and machine learning data support to NIAID scientists and investigators.\n\n \n\nThe Bioinformatics Scientist is expected to bring strong skills in the following areas:\n\nNext-generation sequencing analysis (whole-exome, whole-genome, RNA-seq, ChIP-seq, using both long- and short-read technologies)\n\nStatistical modeling\n\nScripting\n\nBiological interpretation\n\n \n\nRequired Qualifications\n\n \n\nClearance. Ability to obtain and maintain a Public Trust security clearance.\n\nEducation. Minimum of a bachelor’s degree in a related field; master’s degree or doctorate preferred.\n\nExperience. Four or more years of experience in bioinformatics, including two or more years developing and maintaining production bioinformatics pipelines.\n\nProgramming languages. Expert-level proficiency in two of the following: Python, R, C/C++, sh/bash.\n\nContainerization. Experience building images using one of the following: Docker, Podman, Singularity/Apptainer.\n\nPipeline frameworks. Expert-level proficiency in one pipeline framework: Snakemake, Nextflow, or CWL/WDL.\n\nDocumentation. Demonstrated expertise building technical and user documentation for tools, pipelines, and applications.\n\nInfrastructure. Experience building pipelines on-premises using available high-performance computing infrastructure.\n\n \n\nPreferred Qualifications\n\n \n\nExperience supporting HIV research, including the analysis of HIV sequence data — for example viral genome assembly, phylogenetic and quasi-species analysis, drug-resistance profiling, or characterization of the latent reservoir.\n\nFamiliarity with HIV and infectious disease data resources and host–pathogen study designs, including integration of viral sequence data with host genomic, transcriptomic, or immunologic datasets.\n\nExperience building pipelines or applications in the cloud using AWS, GCP, or Azure.\n\nExperience building applications using one of the following frameworks: Django, Flask, RShiny, Electron, Flutter, or React.\n\nExperience working in a laboratory setting.\n\n \n\n\n    Disclaimer: The above description is meant to illustrate the general nature of work and        level of effort being performed by individuals assigned to this position or job description. This is not        restricted as a complete list of all skills, responsibilities, duties, and/or assignments required. Individuals        may be required to perform duties outside of their position, job description or responsibilities as needed.\n\n    The diversity of Axle’s employees is a tremendous asset. We are firmly committed to providing equal opportunity        in all aspects of employment and will not tolerate any illegal discrimination or harassment based on age, race,        gender, religion, national origin, disability, marital status, covered veteran status, sexual orientation,        status with respect to public assistance, and other characteristics protected under state, federal, or local law        and to deter those who aid, abet, or induce discrimination or coerce others to discriminate.\n\n    Accessibility: If you need an accommodation as part of the employment process please contact: careers@axleinfo.com    \n\n     This role has a market-competitive salary with an anticipated base compensation range listed below.  Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location.\n\n Salary Range: $105,000 USD - $130,000 USD",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/bioinformatics-scientist-%E2%80%93-hiv-somal-at-axle-4483258146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/-pqFyhk3lTdTtB8EWmCEdUqdThEUS5L2Ji8Sxapg7QMkyt-ozznm2Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/bioinformatics-scientist-hiv-somal--rockville--ec1c709bfd56714dc3f6677f73d7dc45e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/bioinformatics-scientist-hiv-somal-axle-rockville-md--t7xk-901171859?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/4965765116248195072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4112-c082dbbe4ae5a575dd5833b9a09231e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/rockville/maryland/research_and_development/5560604198/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaW9pbmZvcm1hdGljcyBTY2llbnRpc3Qg4oCTIEhJVi1TT01BTCIsImNvbXBhbnlfbmFtZSI6IkF4bGUiLCJodGlkb2NpZCI6IllVcGJ2U3FsSTJqR0JiMVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZazV3Wm05dk0wTjZUaTFCTVhSMlYyOVRNMDg0Y1U1TE5tZERXV2czUXpkWGMxQnlSazAzZVVsQ1VVZ3dZWFkzUTFST1pqYzNVblIxTlRKbGNsUlRURTR4WDFkalJIUTVjRFExTm5CM1RGSnhRVFp1VFRsMkxXcDROa3BRVkdVMU1uRXpVekk1YXpOTlQyOVhiMlpYTkdKWWNFTmxXR2wwYjJVMFpUTklSVVpwVkRkVFR6Y1NGMmRSZG14aGMwUlpSM1Z0Y25kaWExQXlTMlo2TUVGekdpSkJTRTR3UlRkRk9GbzRSWEEwTFVWb2JVRkZSbGRMVUVacFpUTXdWSEZVT1d4UiIsImZjdiI6IjMiLCJmY19pZCI6IllVcGJ2U3FsSTJqR0JiMVhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Bioinformatics/Data Scientist New Frederick, MD",
+      "company_name": "Axle Informatics LLC",
+      "location": "Frederick, MD",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates must hold a PhD in bioinformatics, computational biology, biostatistics, or a related quantitative field",
+            "Extensive experience with single-cell data analysis, including familiarity with tools such as Seurat, Scanpy, or similar platforms, is essential",
+            "Strong programming skills in R and Python are required, along with experience in statistical analysis and data visualization",
+            "Knowledge of proteomics and metabolomics data analysis workflows is necessary",
+            "indicates a required field",
+            "An \"Armed forces service medal veteran\" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985",
+            "Form CC-305 Page 1 of 1 OMB Control Number 1250-0005 Expires 04/30/2026",
+            "Alcohol or other substance use disorder (not currently using drugs illegally)",
+            "Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS",
+            "Blind or low vision",
+            "Cancer (past or present)",
+            "Celiac disease",
+            "Cerebral palsy",
+            "Deaf or serious difficulty hearing",
+            "Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders",
+            "Epilepsy or other seizure disorder",
+            "Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome",
+            "Intellectual or developmental disability",
+            "Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD",
+            "Missing limbs or partially missing limbs",
+            "Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports",
+            "Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)",
+            "Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities",
+            "Partial or complete paralysis (any cause)",
+            "Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema",
+            "Traumatic brain injury",
+            "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number",
+            "Experience: 5 years required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Paid Time Off and Paid Holidays",
+            "401K match up to 5%",
+            "Educational Benefits for Career Growth",
+            "Employee Referral Bonus",
+            "Flexible Spending Accounts:",
+            "Healthcare (FSA)",
+            "Parking Reimbursement Account (PRK)",
+            "Dependent Care Assistant Program (DCAP)",
+            "Transportation Reimbursement Account (TRN)",
+            "This role has a market-competitive salary with an anticipated base compensation range listed below",
+            "Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location",
+            "$105,000 - $115,000 USD",
+            "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability",
+            "OMB Control Number 1250-0005",
+            "Expires 04/30/2026",
+            "Voluntary Self-Identification of Disability"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Bioinformatics/Data Scientist will conduct comprehensive analyses of multi-omics data generated from organoid systems and corresponding normal tissues",
+            "This position is central to the SOM Center's research objectives, focusing on characterizing organoid fidelity, identifying biomarkers of successful differentiation, and developing computational frameworks for organoid quality assessment",
+            "The successful candidate will analyze complex datasets including single-cell RNA sequencing, bulk RNA sequencing, proteomics, and metabolomics data from various organoid systems and their tissue counterparts",
+            "The position will develop and implement computational pipelines for data processing, quality control, and statistical analysis",
+            "A major component of the role involves integrating SOM-generated data with publicly available datasets to benchmark organoid characteristics against normal tissue profiles",
+            "The position requires close collaboration with experimental teams to interpret results and guide protocol optimization, as well as contributing to manuscript preparation and presenting findings at scientific conferences",
+            "Disclaimer: The above description is meant to illustrate the general nature of work and level of effort being performed by individuals assigned to this position or job description"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=sQYMCowqxlZMvL5zAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1WOMQrCQBAAsc0TrLaxEc2JYKOVGiJKtPEB4XJZk9XLbbhdMI_ykZJKbKacmeQzSfIDMYUHx84qOTGZVQt3RxiUROGGb8gj1hjJvRZwzWAJF65A0EbXAgc4MTcep7tWtZetMSI-bURHW-q4Mxyw4sE8uZIRpbQ2Yu-tYrnerIa0D818th88wvm3AUVxBAr_6S-8HnOYrwAAAA&shmds=v1_Ac3VAowZ0vi_1W_1bmp2b7jku0XDs86DDrAeSVKkzYtw0W926g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=sQYMCowqxlZMvL5zAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50b7bd0dfd73be17eced2/images/OD9-2etK9HfE5gRnGkcPucM2wQCJotWQg_4ti9QTeb4.jpeg",
+      "extensions": [
+        "105K–115K a year",
+        "Full-time",
+        "Paid time off"
+      ],
+      "source_link": "https://talents.vaia.com/companies/axle-informatics-llc/bioinformatics-data-scientist-new-frederick-md-37137631/",
+      "job_title": "Bioinformatics/Data Scientist New Frederick, MD",
+      "description": "Axle is a bioscience and information technology company that offers advancements in translational research, biomedical informatics, and data science applications to research centers and healthcare organizations nationally and abroad. With experts in biomedical science, software engineering, and program management, we focus on developing and applying research tools and techniques to empower decision-making and accelerate research discoveries. We work with some of the top research organizations and facilities in the country including multiple institutes at the National Institutes of Health (NIH).\n\nAxle is seeking a Bioinformatics/Data Scientist to join our vibrant team at the National Institutes of Health (NIH) supporting theStandardized Organoid Model Centerlocated in Frederick, MD. The Standardized Organoid Model Center is an NIH-funded initiative dedicated to advancing organoid research through the development of validated, reproducible, and well-characterized organoid models. The center brings together interdisciplinary teams of researchers to establish standardized protocols, develop quality control measures, and create resources that will benefit the broader organoid research community.\n\nBenefits We Offer:\n\nPaid Time Off and Paid Holidays401K match up to 5%Educational Benefits for Career GrowthEmployee Referral BonusFlexible Spending Accounts:Healthcare (FSA)Parking Reimbursement Account (PRK)Dependent Care Assistant Program (DCAP)Transportation Reimbursement Account (TRN)Overview\n\nThe Bioinformatics/Data Scientist will conduct comprehensive analyses of multi-omics data generated from organoid systems and corresponding normal tissues. This position is central to the SOM Center\\'s research objectives, focusing on characterizing organoid fidelity, identifying biomarkers of successful differentiation, and developing computational frameworks for organoid quality assessment.\n\nResponsibilities\n\nThe successful candidate will analyze complex datasets including single-cell RNA sequencing, bulk RNA sequencing, proteomics, and metabolomics data from various organoid systems and their tissue counterparts.The position will develop and implement computational pipelines for data processing, quality control, and statistical analysis.A major component of the role involves integrating SOM-generated data with publicly available datasets to benchmark organoid characteristics against normal tissue profiles.The position requires close collaboration with experimental teams to interpret results and guide protocol optimization, as well as contributing to manuscript preparation and presenting findings at scientific conferences.Required Qualifications\n\nCandidates must hold a PhD in bioinformatics, computational biology, biostatistics, or a related quantitative field.Extensive experience with single-cell data analysis, including familiarity with tools such as Seurat, Scanpy, or similar platforms, is essential.Strong programming skills in R and Python are required, along with experience in statistical analysis and data visualization.Knowledge of proteomics and metabolomics data analysis workflows is necessary.Preferred Qualifications\n\nPrevious experience analyzing organoid datasets is strongly preferred.Experience with machine learning approaches for biological data, familiarity with pathway analysis tools, and knowledge of developmental biology principles will be considered valuable assets.Experience with high-performance computing environments and version control systems is desirable.Disclaimer: The above description is meant to illustrate the general nature of work and level of effort being performed by individuals assigned to this position or job description. This is not restricted as a complete list of all skills, responsibilities, duties, and/or assignments required. Individuals may be required to perform duties outside of their position, job description or responsibilities as needed.\n\nThe diversity of Axle’s employees is a tremendous asset. We are firmly committed to providing equal opportunity in all aspects of employment and will not tolerate any illegal discrimination or harassment based on age, race, gender, religion, national origin, disability, marital status, covered veteran status, sexual orientation, status with respect to public assistance, and other characteristics protected under state, federal, or local law and to deter those who aid, abet, or induce discrimination or coerce others to discriminate.\n\nAccessibility: If you need an accommodation as part of the employment process please contact: careers@axleinfo.com\n\nThis role has a market-competitive salary with an anticipated base compensation range listed below. Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location.\n\n#INDPSD\n\nSalary Range\n\n$105,000 - $115,000 USD\n\nCreate a Job Alert\n\nInterested in building your career at Axle? Get future opportunities sent straight to your email.\n\nApply for this job*\n\nindicates a required field\n\nFirst Name *\n\nLast Name *\n\nEmail *\n\nPhone *\n\nLocation (City)\n\nResume/CV *\n\nEnter manually\n\nAccepted file types: pdf, doc, docx, txt, rtf\n\nLinkedIn Profile\n\nHave you previously worked at Axle? * Select...\n\nDo you have the legal authorization to work on a full-time, indefinite basis in the country where this role is located? * Select...\n\nCan you perform the essential functions of this job without reasonable accommodation? * Select...\n\nAre you willing and able to work at the specified job location, or are you open to relocation if required? * Select...\n\nDoes accepting employment with Axle or performing the duties required for this role conflict with any non-compete, non-solicitation, or other contractual agreements you may have? * Select...\n\nDo you meet the eligibility requirements for obtaining a US Government Security Clearance? * Select...\n\nVoluntary Self-IdentificationFor government reporting purposes, we ask candidates to respond to the below self-identification survey.Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiringprocess or thereafter. Any information that you do provide will be recorded and maintained in aconfidential file.\n\nAs set forth in Axle’s Equal Employment Opportunity policy,we do not discriminate on the basis of any protected group status under any applicable law.\n\nIf you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measurethe effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categoriesis as follows:\n\nA \\\"disabled veteran\\\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.\n\nA \\\"recently separated veteran\\\" means any veteran during the three-year period beginning on the date of such veteran\\'s discharge or release from active duty in the U.S. military, ground, naval, or air service.\n\nAn \\\"active duty wartime or campaign badge veteran\\\" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.\n\nAn \\\"Armed forces service medal veteran\\\" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.\n\nSelect...\n\nVoluntary Self-Identification of DisabilityForm CC-305\n\nPage 1 of 1\n\nOMB Control Number 1250-0005\n\nExpires 04/30/2026\n\n\n\nVoluntary Self-Identification of DisabilityForm CC-305 Page 1 of 1 OMB Control Number 1250-0005 Expires 04/30/2026\nWhy are you being asked to complete this form?We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.\n\nCompleting this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp .\n\nHow do you know if you have a disability?A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:\n\nAlcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn\\'s Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injuryDisability Status Select...PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.\n\n #J-18808-Ljbffr\n\nExperience: 5 years required",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/axle-informatics-llc/bioinformatics-data-scientist-new-frederick-md-37137631/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaW9pbmZvcm1hdGljcy9EYXRhIFNjaWVudGlzdCBOZXcgRnJlZGVyaWNrLCBNRCIsImNvbXBhbnlfbmFtZSI6IkF4bGUgSW5mb3JtYXRpY3MgTExDIiwiaHRpZG9jaWQiOiJzUVlNQ293cXhsWk12TDV6QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWs1dFMyZDRhRkF4TVd4SGMwdDJlRzVCT1ZsUlVtSkpNbTVuUmw5WFJHeExlV0kwYWpkUlpXY3ljR2hHZG1SU1QyMUZOMmhOZG1OTU5XRmpZMFJKWVhGelNGQjFjMWhFWkdWRUxXNWlVRzlGZUMxcFQxY3ljM1ZoYmxwRlIwRmxOMDFRWjBnM1FUWlhUVXd5VDBaeVpqWnlMV1poWWxsZmRGRmFaRGRFVG1aMlNVRlRZMElTRjJkUmRteGhjMFJaUjNWdGNuZGlhMUF5UzJaNk1FRnpHaUpCU0U0d1JUZEZUbUpyTTBSd2REUk9WbGRzYkd0blNIRTVWSFJZVmtzMGRrbG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJzUVlNQ293cXhsWk12TDV6QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Bioinformatics Scientist - Clinical Data for Trials",
+      "company_name": "ADP",
+      "location": "Hayward, CA",
+      "via": "BeBee",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will support clinical studies with data management, integration of genomic and clinical data, and development of analysis-ready datasets",
+            "This role leads cross-functional data workflows, collaborates with clinical and regulatory teams, and ensures data integrity and audit-readiness across study lifecycles in a fast-growing oncology diagnostics environment"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=bv_wj3sR9fpVFANJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCQAxAce3o6JRZtBXBRafaguKk1L2k59lGrkm5BKz_44dal7e8x0u-s-RWeSaJcCQhfkrs0cgpVI48G6nBGopATA4DlGgIUwP3SBh0UhdpQD1G14EwnETa4BeHzmzQfZaphrRV-x9TJ30m7BsZs5c0-ketHUY_BDRfb3ebMR24Xc7z8grEcMbPG-NjBUX-A6Ruiw2nAAAA&shmds=v1_Ac3VAozWGLt80ch5p6QlFjdXqJ9jKv_plGZdJMbDpU34uT2GJA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=bv_wj3sR9fpVFANJAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50b7bd0dfd73be17eced2/images/1sze6SZGrW-X1a-LepKZ5rPCGdvB1GdLUs2XKkQHrxg.png",
+      "extensions": [
+        "9 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://bebee.com/us/jobs/senior-bioinformatics-scientist-clinical-data-for-trials-adp-hayward-ca-united-states--appcast-7428_504967eb16bdefd23cb82c7a33d4ab6c1b6211733e6171e4f973d251067fd311",
+      "job_title": "Senior Bioinformatics Scientist - Clinical Data for Trials",
+      "description": "Predicine Inc. is seeking a Senior Bioinformatics Scientist to join the CDSDM team in Hayward, CA. You will support clinical studies with data management, integration of genomic and clinical data, and development of analysis-ready datasets.\n\n\nThis role leads cross-functional data workflows, collaborates with clinical and regulatory teams, and ensures data integrity and audit-readiness across study lifecycles in a fast-growing oncology diagnostics environment.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-bioinformatics-scientist-clinical-data-for-trials-adp-hayward-ca-united-states--appcast-7428_504967eb16bdefd23cb82c7a33d4ab6c1b6211733e6171e4f973d251067fd311?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-05e098e90b66e570532ce823f194c5a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmlvaW5mb3JtYXRpY3MgU2NpZW50aXN0IC0gQ2xpbmljYWwgRGF0YSBmb3IgVHJpYWxzIiwiY29tcGFueV9uYW1lIjoiQURQIiwiaHRpZG9jaWQiOiJidl93ajNzUjlmcFZGQU5KQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWpKMlVUbEdSUzF2VDFkUWMzZEZhWGRpTkdGMGVteGxVVVo1VmxsWFYxaGZTRTl1YldKQmFIazVURTFXVFd0TFpreEVRVk0wU20weVNtNXdRa1phVWw5eVkxTmhaRFpDUkRWc1dIRTNjSGhDVEVORFpVMHdaMmsxYVdKR1l6Rnpka1ZpZUVkVmN6RjBSMU4wUlUxclVXOWFVMlpuTkVGNWNUaFdSR3BCTVZGZlVVTTRaallTRjJkUmRteGhjMFJaUjNWdGNuZGlhMUF5UzJaNk1FRnpHaUpCU0U0d1JUZEZXV1I2UW1wWmVqRjRNbEZaWmpWWVFsVXpUamRzY2psalNIVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJidl93ajNzUjlmcFZGQU5KQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist Specialist/Bioinformatics Specialist",
+      "company_name": "3M",
+      "location": "Maplewood, MN",
+      "via": "JobzMall",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Conduct data analysis and interpretation to support research and development projects in the healthcare industry",
+            "Utilize advanced statistical and computational techniques to analyze large and complex datasets",
+            "Collaborate with cross-functional teams to identify key research questions and design experiments to address them",
+            "Develop and implement data mining and machine learning algorithms to extract valuable insights from diverse datasets",
+            "Utilize bioinformatics tools to analyze and interpret biological data, such as genomics, proteomics, and transcriptomics",
+            "Communicate results and findings through visualizations, presentations, and reports to stakeholders and team members",
+            "Stay updated with the latest industry developments and trends in data science and bioinformatics to continuously improve processes and methods",
+            "Work with data management teams to ensure accurate, reliable, and secure data collection, storage, and retrieval",
+            "Contribute to the development and implementation of data science strategies and initiatives to support business goals",
+            "Participate in the development and maintenance of data analysis pipelines and systems",
+            "Collaborate with external partners and vendors to leverage their expertise and technologies in data science and bioinformatics",
+            "Train and mentor junior data scientists and bioinformatics specialists to enhance their skills and knowledge",
+            "Adhere to data privacy and security regulations and ensure ethical conduct in handling sensitive information",
+            "Proactively identify and troubleshoot data quality issues and implement solutions to improve data accuracy and integrity",
+            "Continuously evaluate and improve processes, tools, and methodologies to enhance efficiency and effectiveness in data analysis and bioinformatics"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=CmTDsDSGCyVGjsyVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02LMQrCQBAAsU1rZ7W1aE4UG-1EEAKxyQPC5lyTlcvtcbtgXuNbNZ3NMDBM8VkU1RUNofFM0VgNmkSeMfzUXVg4PiWPaOz1r8AWKulACbMfQCLcRPpAq_NglvTknGooe7X5K72MTiJ1MrmXdDqj1QEzpYBG7f64m8oU-_XyUANHqDEFeos8NlDfvwkQkQChAAAA&shmds=v1_Ac3VAowAucCBvq7s8S_aaJEszJmEiOALcYRpyYrjy_9CpJFDyQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=CmTDsDSGCyVGjsyVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50b7bd0dfd73be17eced2/images/DeyNntWS9AuRDxeoyPCJJBd6VOwCh4Oz5zz38zG1lxU.png",
+      "extensions": [
+        "90K–120K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobzmall.com/3m/job/data-scientist-specialist-bioinformatics-specialist",
+      "job_title": "Data Scientist Specialist/Bioinformatics Specialist",
+      "description": "Welcome to 3M, where our mission is to improve lives through science and innovation. We are currently seeking a highly skilled and passionate Data Scientist Specialist/Bioinformatics Specialist to join our team. As a global leader in technology and healthcare solutions, we are committed to using data-driven insights to drive impactful decisions and advancements in the healthcare industry. This is an exciting opportunity for an experienced and motivated individual to make a significant impact on the future of healthcare. If you are a problem solver with a strong background in data analysis and bioinformatics, we encourage you to apply for this position and be a part of our dynamic and innovative team.\\n\\nConduct data analysis and interpretation to support research and development projects in the healthcare industry.\nUtilize advanced statistical and computational techniques to analyze large and complex datasets.\nCollaborate with cross-functional teams to identify key research questions and design experiments to address them.\nDevelop and implement data mining and machine learning algorithms to extract valuable insights from diverse datasets.\nUtilize bioinformatics tools to analyze and interpret biological data, such as genomics, proteomics, and transcriptomics.\nCommunicate results and findings through visualizations, presentations, and reports to stakeholders and team members.\nStay updated with the latest industry developments and trends in data science and bioinformatics to continuously improve processes and methods.\nWork with data management teams to ensure accurate, reliable, and secure data collection, storage, and retrieval.\nContribute to the development and implementation of data science strategies and initiatives to support business goals.\nParticipate in the development and maintenance of data analysis pipelines and systems.\nCollaborate with external partners and vendors to leverage their expertise and technologies in data science and bioinformatics.\nTrain and mentor junior data scientists and bioinformatics specialists to enhance their skills and knowledge.\nAdhere to data privacy and security regulations and ensure ethical conduct in handling sensitive information.\nProactively identify and troubleshoot data quality issues and implement solutions to improve data accuracy and integrity.\nContinuously evaluate and improve processes, tools, and methodologies to enhance efficiency and effectiveness in data analysis and bioinformatics.\n\n3M is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+      "apply_options": [
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/3m/job/data-scientist-specialist-bioinformatics-specialist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBTcGVjaWFsaXN0L0Jpb2luZm9ybWF0aWNzIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiIzTSIsImh0aWRvY2lkIjoiQ21URHNEU0dDeVZHanN5VkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXMDROVFUzWTFsVFZYb3dlamxTY0ZGeFpsUlBkbmxsVlhoV2MyTjNZM0JDY2twVmRraDFjbVpITUdSUFprNUdiR3RyTnpkVVgzbzRTelZMV0dkYVNuQlFSbEkyZFdkNFpXTjVVbXR5VW1veU5XWnVaalJJU2s5T1QxUTVla1l6YkVvNGIxZElaa2xTYjFCMlpsbHhZMlpVYmtwWVlXcHVlSFZXUlhwMlNtVkhiMFJJVFZBU0YyZFJkbXhoYzBSWlIzVnRjbmRpYTFBeVMyWjZNRUZ6R2lKQlNFNHdSVGRITFRKNFZVUTFZMGt6TTFGS2VFRTRiRmQwY0RSU1Z6TkRRMDkzIiwiZmN2IjoiMyIsImZjX2lkIjoiQ21URHNEU0dDeVZHanN5VkFBQUFBQT09In0="
+    },
+    {
+      "title": "Bioinformatics Scientist",
+      "company_name": "LUNDQUIST INSTITUTE FOR BIOMEDICAL INNOVATION AT HARBOR-UCLA",
+      "location": "Torrance, CA",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in Bioinformatics, Computational Biology, Genomics, Biostatistics, Biomedical Informatics, Computer Science, or a closely related quantitative discipline",
+            "More than three years of relevant postdoctoral or post-PhD experience in bioinformatics, computational biology, genomics, cancer research, or related fields",
+            "Demonstrated expertise in NGS and multi-omics data analysis",
+            "Strong record of scientific contributions, including multiple peer-reviewed publications involving cancer genomics or omics research",
+            "Experience conducting cancer-related genomic, transcriptomic, epigenomic, and other omics analyses",
+            "Experience accessing, curating, and analyzing public annotated genomic and NGS databases",
+            "Understanding of spatial sequencing technologies, spatial transcriptomics, associated protocols, and analytical approaches",
+            "Proficiency in R and familiarity with additional bioinformatics software tools, statistical packages, and computational workflows",
+            "Experience developing and implementing analytical pipelines and computational methods",
+            "Strong knowledge of biostatistical methodologies and their application to biological datasets",
+            "Ability to evaluate, implement, and optimize emerging computational technologies and analytical programs",
+            "Ability to communicate complex scientific findings through publications, presentations, and collaborative discussions",
+            "Excellent analytical, organizational, problem-solving, and scientific communication skills",
+            "Demonstrated ability to work effectively in multidisciplinary collaborative research environments",
+            "Experience supporting translational, clinical, precision medicine, or cancer research programs",
+            "Experience with cloud computing and high-performance computing environments",
+            "Experience applying machine learning and artificial intelligence methods to biological datasets",
+            "Experience mentoring junior scientists, bioinformatics analysts, or trainees",
+            "Experience leading collaborative multi-institutional research initiatives"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "FT 100% - 40 hours per week (FT Benefit)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This position develops and applies state-of-the-art analytical approaches to next-generation sequencing (NGS) and multi-omics datasets, integrating diverse genomic, transcriptomic, epigenomic, spatial sequencing, and related biological data",
+            "The Bioinformatics Scientist collaborates closely with investigators, laboratory personnel, statisticians, and external collaborators to generate meaningful scientific insights, advance research objectives, and contribute to high-impact publications and presentations",
+            "The role requires staying current with emerging computational methodologies, bioinformatics tools, and artificial intelligence applications relevant to biomedical research",
+            "Lead the analysis and interpretation of next-generation sequencing (NGS) and multi-omics datasets, including genomic, transcriptomic, epigenomic, and related biological data",
+            "Design, develop, validate, and implement computational workflows and bioinformatics pipelines to support cancer and translational research studies",
+            "Perform advanced analytical assessments of omics datasets and identify biologically meaningful patterns, biomarkers, molecular signatures, and disease-related mechanisms",
+            "Access, curate, and analyze publicly available annotated genomic, transcriptomic, and cancer-related databases",
+            "Analyze and interpret spatial sequencing and spatial transcriptomics datasets and understand associated laboratory protocols and analytical methodologies",
+            "Employ and evaluate emerging computational technologies, algorithms, and analytical software for NGS and multi-omics applications",
+            "Apply biostatistical methods using R and other established bioinformatics software platforms",
+            "Utilize artificial intelligence and machine learning methodologies to enhance bioinformatics and data-analysis workflows when appropriate",
+            "Collaborate with laboratory personnel, investigators, clinicians, biostatisticians, and external collaborators to define analytical objectives and interpret research findings",
+            "Generate publication-quality figures, tables, datasets, methods descriptions, and analytical reports",
+            "Contribute to peer-reviewed manuscripts, scientific presentations, abstracts, grant applications, and other scholarly communications",
+            "Maintain organized and reproducible analytical workflows, documentation, code repositories, and data-management practices",
+            "Stay current with advances in bioinformatics, computational biology, NGS technologies, omics analytics, artificial intelligence, and related scientific disciplines",
+            "Perform other duties as assigned in support of research and institutional objectives"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=zqnshqMqd2M2hIZZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLvQ6CMBRA4bj6CE53NkqNiYtOBf9qkEYorqQ0FWqwl_R28OF8OHU5y5cz_UymLHXo_APDS0dnCCrjrI-OIizhgi2Q1cH0gB5OiN1gZ7s-xpG2jBENSUfxvyUGXwy9bfHNntjSPw31Othx0NE2683qnYy-m-d5XexvtagUiKJSQtXqAEdZQirk9bAXGc9_UMg7V0IWwBWceZnKcllnOQfnQWEI2hu7gIx_ASi7xOa_AAAA&shmds=v1_Ac3VAowK2BI91whSBKNwl6A2oSRjZPfD5u6D_Ykcs29AofY1rw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=zqnshqMqd2M2hIZZAAAAAA%3D%3D",
+      "extensions": [
+        "26 days ago",
+        "75K–85K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.tealhq.com/job/bioinformatics-scientist_7ea1a7ee7f936084ecb3b823e32f6e3b04b13",
+      "job_title": "Bioinformatics Scientist",
+      "description": "About the position\n\nThe Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center (TLI) is Los Angeles County's preeminent independent, not-for-profit biomedical research hub, excelling in transforming scientific breakthroughs into practical therapies. With a \\$90 million annual budget, TLI is home to over 150 investigators and 500 staff, advancing 600 projects in areas such as Infection and Immunity, Cancer, and Women's Health. Founded in 1952, the Institute continues to train physician-scientists and manage healthcare programs for 60,000 underserved families throughout South Los Angeles. The Bioinformatics Scientist leads advanced computational and bioinformatics analyses supporting cancer and translational research initiatives. This position develops and applies state-of-the-art analytical approaches to next-generation sequencing (NGS) and multi-omics datasets, integrating diverse genomic, transcriptomic, epigenomic, spatial sequencing, and related biological data. The Bioinformatics Scientist collaborates closely with investigators, laboratory personnel, statisticians, and external collaborators to generate meaningful scientific insights, advance research objectives, and contribute to high-impact publications and presentations. The role requires staying current with emerging computational methodologies, bioinformatics tools, and artificial intelligence applications relevant to biomedical research.\n\nResponsibilities\n\nLead the analysis and interpretation of next-generation sequencing (NGS) and multi-omics datasets, including genomic, transcriptomic, epigenomic, and related biological data.Design, develop, validate, and implement computational workflows and bioinformatics pipelines to support cancer and translational research studies.Perform advanced analytical assessments of omics datasets and identify biologically meaningful patterns, biomarkers, molecular signatures, and disease-related mechanisms.Access, curate, and analyze publicly available annotated genomic, transcriptomic, and cancer-related databases.Analyze and interpret spatial sequencing and spatial transcriptomics datasets and understand associated laboratory protocols and analytical methodologies.Employ and evaluate emerging computational technologies, algorithms, and analytical software for NGS and multi-omics applications.Apply biostatistical methods using R and other established bioinformatics software platforms.Utilize artificial intelligence and machine learning methodologies to enhance bioinformatics and data-analysis workflows when appropriate.Collaborate with laboratory personnel, investigators, clinicians, biostatisticians, and external collaborators to define analytical objectives and interpret research findings.Generate publication-quality figures, tables, datasets, methods descriptions, and analytical reports.Contribute to peer-reviewed manuscripts, scientific presentations, abstracts, grant applications, and other scholarly communications.Maintain organized and reproducible analytical workflows, documentation, code repositories, and data-management practices.Stay current with advances in bioinformatics, computational biology, NGS technologies, omics analytics, artificial intelligence, and related scientific disciplines.Perform other duties as assigned in support of research and institutional objectives.Requirements\n\nPhD in Bioinformatics, Computational Biology, Genomics, Biostatistics, Biomedical Informatics, Computer Science, or a closely related quantitative discipline.More than three years of relevant postdoctoral or post-PhD experience in bioinformatics, computational biology, genomics, cancer research, or related fields.Demonstrated expertise in NGS and multi-omics data analysis.Strong record of scientific contributions, including multiple peer-reviewed publications involving cancer genomics or omics research.Experience conducting cancer-related genomic, transcriptomic, epigenomic, and other omics analyses.Experience accessing, curating, and analyzing public annotated genomic and NGS databases.Understanding of spatial sequencing technologies, spatial transcriptomics, associated protocols, and analytical approaches.Proficiency in R and familiarity with additional bioinformatics software tools, statistical packages, and computational workflows.Experience developing and implementing analytical pipelines and computational methods.Strong knowledge of biostatistical methodologies and their application to biological datasets.Ability to evaluate, implement, and optimize emerging computational technologies and analytical programs.Ability to communicate complex scientific findings through publications, presentations, and collaborative discussions.Excellent analytical, organizational, problem-solving, and scientific communication skills.Demonstrated ability to work effectively in multidisciplinary collaborative research environments.Nice-to-haves\n\nExperience supporting translational, clinical, precision medicine, or cancer research programs.Experience with cloud computing and high-performance computing environments.Experience applying machine learning and artificial intelligence methods to biological datasets.Experience mentoring junior scientists, bioinformatics analysts, or trainees.Experience leading collaborative multi-institutional research initiatives.Benefits\n\nFT 100% - 40 hours per week (FT Benefit)",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/bioinformatics-scientist_7ea1a7ee7f936084ecb3b823e32f6e3b04b13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/bioinformatics-scientist--torrance--e835333f923da2f2483d161466e2224e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Health Jobs Nationwide",
+          "link": "https://www.healthjobsnationwide.com/job/bioinformatics-scientist-15568711?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/bioinformatics-scientist-lundquist-institute-for-biomedical-innovation-at-harbor-ucla-torrance--techmap_us_5d4b38103cdbbc966428cc261e12fff1_468965?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/bioinformatics-scientist-jobs/C1E8B4D88531379D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bioinformatics Jobs",
+          "link": "https://bioinformaticsjobs.org/job/523332/bioinformatics-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-torrance-bioinformatics-scientist-lundquist-institute-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCaW9pbmZvcm1hdGljcyBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJMVU5EUVVJU1QgSU5TVElUVVRFIEZPUiBCSU9NRURJQ0FMIElOTk9WQVRJT04gQVQgSEFSQk9SLVVDTEEiLCJodGlkb2NpZCI6InpxbnNocU1xZDJNMmhJWlpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa2xrVUVGbExUUmlUVUUwY25CMlFqWTRjQzFMWWs1VloyczBWSGhwVmtkS1YzbDBhVWwyZWt0VWR5MDBZVkJTV1hsTVFqSjRTV0kyVFRsVVRsSlpVMlIzZVdsbk5qWXpka0o2Um5wbFJIY3lZV2gwZUU5TVZGOVFXbHBhVm5aT1JYZzBjbEZGZEdzdFIxQXpTMm80Ulc1VE1rRlJkbEJXUm5ScE56RlpjV1JrUmpZM1JIVVNGMmRSZG14aGMwUlpSM1Z0Y25kaWExQXlTMlo2TUVGekdpSkJTRTR3UlRkSFIwUmhkbE5NUTNWS01GQXdRVzVMTjBSbFpWVlRRelpEUzJ0QiIsImZjdiI6IjMiLCJmY19pZCI6InpxbnNocU1xZDJNMmhJWlpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Scientist, Bioinformatics",
+      "company_name": "Mercy BioAnalytics Inc",
+      "location": "Anywhere",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates for this position must enjoy working for a fast-paced, cutting-edge company, be able to work in a highly collaborative and teamwork-oriented environment and exhibit a passion for being a part of our life-saving mission",
+            "BSc/MS in bioinformatics, computational biology, genomics, biostatistics, or a related field plus 5 years' industry experience, or a PhD; minimum 3+ years of industry experience in biotech, diagnostics, or pharma is required",
+            "Working knowledge of cancer biology and biomarker development, including tumor heterogeneity, staging, and the distinction between prognostic and diagnostic markers",
+            "Demonstrated experience integrating multiple public omics resources, such as TCGA, GTEx, CPTAC, and single-cell atlases, into a substantive analysis",
+            "Expert-level proficiency in Python and/or R, strong SQL, and Git",
+            "Cloud experience, preferably AWS, and familiarity with workflow orchestration tools",
+            "Excellent verbal and written communication skills as well as interpersonal skills",
+            "Ability to work in a fast-paced environment and adapt to changing priorities",
+            "Hiring Manager: Director, Software and AI",
+            "I confirm that I have uploaded my resume above",
+            "Amazon Web Services (AWS), Analysis Skills, Artificial Intelligence (AI), Assays, Bioinformatics, Biology, Biomarkers, Biostatistics, Biotech and Pharmaceutical, Cancer, Candidate Sourcing, Clinical Validation, Cloud Computing, Communication Skills, Data Analysis, Data Sets, Data Warehousing, Establish Priorities, Genomics, Git, Interpersonal Skills, Machine Tool, Medicine, Metadata, Phlebotomy, Presentation/Verbal Skills, Programming Tools, Proteomics, Python Programming/Scripting Language, Quality Control, R Programming Language, SQL (Structured Query Language), Sample Design, Source Code/Configuration Management (SCM), Team Player, Trademarks, Willing to Travel, Writing Skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Base Salary Range: $120,000 - $128,000"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Mercy Way",
+            "Mercy Foundation",
+            "Biomarker Discovery and Prioritization",
+            "Integrate public cancer resources, including TCGA, GTEx, CPTAC and other proteomics datasets, single-cell atlases, CCLE/DepMap, and the Human Protein Atlas, into coherent and queryable evidence layers that support repeatable analysis",
+            "Develop and maintain a biomarker prioritization framework that ranks candidates on tumor specificity, off-target expression, surface accessibility, vesicle association, and reagent availability",
+            "Extend prioritization to marker combinations and pairs, reflecting how Mercy's assays generate signal, including co-expression analysis at single-cell resolution",
+            "Analyze internal data from cell line and clinical sample profiling, including QC, batch effect assessment, normalization, replicate and plate-level diagnostics, and hit calling",
+            "Partner with the laboratory team on screening design, sample size, and reagent and binder selection, and evaluate candidate biomarkers for early detection",
+            "Data Platform Architecture and Engineering",
+            "Design and build the data warehouse spanning sample and clinical metadata, screening results, public reference data, and analysis outputs",
+            "Build self-service access for the laboratory team through dashboards, browsable candidate and screening views, and lightweight applications",
+            "Establish pragmatic engineering practice for the group, including version control, containerized environments, workflow orchestration, and reproducible analysis, applying AI-based development tools to build and deploy quickly",
+            "Drag & Drop Files, Choose Files to Upload",
+            "Drag & Drop Files, Choose Files to Upload"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Bioinformatics+Data+Scientist&htidocid=NhVh07eSYIoqJs6ZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NsQrCQAyAYVz7CE5ZXKT2iuCiU11EoZODY0mP2Du5JuWSoX0Rn1fq8k8_fMV3U9RPH4ktqpVwjRL5LXlEi17hAA_pQQmzDyAMN5Eh0fYSzCY9O6eaqkFtnSsvoxOmXmb3kV7XdBow05TQqDue6rmaeNjvWsp-WaWGMS1_584eIsMLkwUcS2ibH4noQheZAAAA&shmds=v1_Ac3VAoziTS5H5fymn6asyr7QrobhofPsNWfSdoAcicusmZzQhg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bioinformatics+Data+Scientist&htidocid=NhVh07eSYIoqJs6ZAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAB8AOAMBIgACEQEDEQH_xAAbAAACAgMBAAAAAAAAAAAAAAADBAACAQYHBf_EACoQAAICAQEGBQUBAAAAAAAAAAECAAMEEQUSITFBYRMiUXGRMkOBoaIH_8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMFAQQA_8QAGhEAAgMBAQAAAAAAAAAAAAAAAAIBAxEhIv_aAAwDAQACEQMRAD8A6sgh0WCSMViMkg0qXVIpVtPZ9wBqy6mBvbHGjfcHNfeV29TtC_ZdtOyXSvIs8viOT5FPMjTr6e-vSeFi_wCf4OLmi2m-8VpjgInHQXdX_IA4dz2hrCZrSUop8bBtLLBOsJjLcuOi5JU2gaMV695hxFwc1icFXEks8kInuvSIZjLpsurr8EgWI4dSeQI1_R5HsTKoYdGmSPpfBSunXHxkFtLBciy36wd5G393TUaE-dfn2jFib-00zEtqNSooI3-mj6n-h2-BGFIAHAS28PQTMKK3cFaVrSpkyfBdgHDWEg74J46_HEcuEmLU1GOqWHVxzOupPQanrwAjDkHmBBO08Its0G5klHMkLCc7dP_Z.jpeg",
+      "extensions": [
+        "120K–128K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.monster.com/job-openings/scientist-bioinformatics-waltham-ma--a4af8d0b-9a3d-4723-8c9e-b042d032b72b",
+      "job_title": "Scientist, Bioinformatics",
+      "description": "Scientist, Bioinformatics - Mercy BioAnalytics\n\nWhy Extracellular Vesicles\n\nEvident Ovarian\n\nNews\n\nPress\n\nCompany News\n\nEvents\n\nPublications\n\nClinical Expertise\n\nExtracellular Vesicles\n\nAbout Mercy\n\nTeam Mercy\n\nThe Mercy Way\n\nPartners\n\nMercy Foundation\n\nContact\n\nCareers\n\nSelect Page\n\nScientist, Bioinformatics\n\nMercy BioAnalytics, Inc., is a biotechnology company dedicated to reducing suffering and saving lives through the early detection of cancer. Backed by extensive clinical validation, we are advancing one of the most important innovations in modern medicine: detecting cancer at its earliest, most treatable stages through a simple blood draw.\n\nWe are looking for a passionate and experienced Scientist to join our Bioinformatics team. The successful candidate will enable biomarker discovery for our early detection programs, integrating public cancer datasets and internal screening data to generate prioritized candidates, and will build the data infrastructure and tooling that supports similar biomarker discovery work for computational and laboratory colleagues.\n\nCandidates for this position must enjoy working for a fast-paced, cutting-edge company, be able to work in a highly collaborative and teamwork-oriented environment and exhibit a passion for being a part of our life-saving mission.\n\nResponsibilities:\n\nBiomarker Discovery and Prioritization\n\nIntegrate public cancer resources, including TCGA, GTEx, CPTAC and other proteomics datasets, single-cell atlases, CCLE/DepMap, and the Human Protein Atlas, into coherent and queryable evidence layers that support repeatable analysisDevelop and maintain a biomarker prioritization framework that ranks candidates on tumor specificity, off-target expression, surface accessibility, vesicle association, and reagent availabilityExtend prioritization to marker combinations and pairs, reflecting how Mercy's assays generate signal, including co-expression analysis at single-cell resolutionAnalyze internal data from cell line and clinical sample profiling, including QC, batch effect assessment, normalization, replicate and plate-level diagnostics, and hit callingPartner with the laboratory team on screening design, sample size, and reagent and binder selection, and evaluate candidate biomarkers for early detectionData Platform Architecture and Engineering\n\nDesign and build the data warehouse spanning sample and clinical metadata, screening results, public reference data, and analysis outputsBuild self-service access for the laboratory team through dashboards, browsable candidate and screening views, and lightweight applicationsEstablish pragmatic engineering practice for the group, including version control, containerized environments, workflow orchestration, and reproducible analysis, applying AI-based development tools to build and deploy quicklyRequirements:\n\nBSc/MS in bioinformatics, computational biology, genomics, biostatistics, or a related field plus 5 years' industry experience, or a PhD; minimum 3+ years of industry experience in biotech, diagnostics, or pharma is requiredWorking knowledge of cancer biology and biomarker development, including tumor heterogeneity, staging, and the distinction between prognostic and diagnostic markersDemonstrated experience integrating multiple public omics resources, such as TCGA, GTEx, CPTAC, and single-cell atlases, into a substantive analysisExpert-level proficiency in Python and/or R, strong SQL, and GitCloud experience, preferably AWS, and familiarity with workflow orchestration toolsExcellent verbal and written communication skills as well as interpersonal skillsSingle-cell RNA-seq analysis experience, particularly for co-expression or cell-type-specific marker questions, is preferredExperience building analytical applications for non-computational users, using tools such as Shiny or Streamlit, with evidence of sustained adoption, is preferredHands-on use of modern AI development tooling, including coding agents and LLM-assisted pipelines, to accelerate delivery is preferredAbility to work in a fast-paced environment and adapt to changing prioritiesHiring Manager: Director, Software and AI\n\nLocation: Remote, with periodic travel to office in Waltham, MA\n\nStatus: Full Time\n\nJob ID: DEV014\n\nBase Salary Range: $120,000 - $128,000\n\nApply now\n\nPlease enable JavaScript in your browser to complete this form.\n\nEmail *\n\nName *\n\nFirst\n\nLast\n\nPhone\n\nTitle of position youre applying for *\n\nPlease only enter ONE position title. Submit a new form to apply for an additional position.\n\nJob ID of position youre applying for (located at bottom of job listing) *\n\nPlease only enter ONE job ID. Submit a new form to apply for an additional position.\n\nCover Letter Upload\n\nDrag & Drop Files, Choose Files to Upload\n\nResume Upload *\n\nDrag & Drop Files, Choose Files to Upload\n\nConfirm only submitted for 1 position *\n\nI confirm that I have entered only ONE position title and job ID aboveConfirm uploaded resume *\n\nI confirm that I have uploaded my resume aboveSubmit\n\nCopyright 2026. Mercy BioAnalytics. All rights reserved. | Mercy Bio is a trademark of Mercy BioAnalytics, Inc. | Privacy Policy\n\n\nRemote\n\nSkills:\nAmazon Web Services (AWS), Analysis Skills, Artificial Intelligence (AI), Assays, Bioinformatics, Biology, Biomarkers, Biostatistics, Biotech and Pharmaceutical, Cancer, Candidate Sourcing, Clinical Validation, Cloud Computing, Communication Skills, Data Analysis, Data Sets, Data Warehousing, Establish Priorities, Genomics, Git, Interpersonal Skills, Machine Tool, Medicine, Metadata, Phlebotomy, Presentation/Verbal Skills, Programming Tools, Proteomics, Python Programming/Scripting Language, Quality Control, R Programming Language, SQL (Structured Query Language), Sample Design, Source Code/Configuration Management (SCM), Team Player, Trademarks, Willing to Travel, Writing Skills\n\n\nMercy BioAnalytics Inc",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/scientist-bioinformatics-waltham-ma--a4af8d0b-9a3d-4723-8c9e-b042d032b72b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Oakhurst",
+          "link": "https://oakhurst.j0o.totalh.net/remote-jobs/research-scientist-bioinformatics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IHireBiotechnology",
+          "link": "https://www.ihirebiotechnology.com/jobs/view/536956236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/principal-scientist-bioinformatics_7ea1a549097d3335870ddfd428f1488d1a293?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "USA Remote Jobs Mysmartpros",
+          "link": "https://remoteworld.mysmartpros.com/job/application-scientist-bioinformatics-434eb66f/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/remote-scientist-bioinformatics-75c05884?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/principal-scientist-bioinformatics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/saphetor/application-scientist-bioinformatics-143364596/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTY2llbnRpc3QsIEJpb2luZm9ybWF0aWNzIiwiY29tcGFueV9uYW1lIjoiTWVyY3kgQmlvQW5hbHl0aWNzIEluYyIsImh0aWRvY2lkIjoiTmhWaDA3ZVNZSW9xSnM2WkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlraE9SM0ZCTldwblVWcFFSM0pCWnkxc01uQmhXR3hsYW5seGEzVXpaVEJsY1d0elluQlJPVkZMV0hRNVJqSjVVMlU1VEUxYVl6bFFTMVJ6VlhsemQxOVhNMGcxWjNKU1V6UnJYMjVDYmtObVVYRnpSV3c1V1RCdlpraFhhazA1UzBWNk9VMTZWRlppU0c1NVRsWmFPRlp5WkhvMVZHMXhiVXBFZG10UExURmFRMnB0ZGxFU0YyZFJkbXhoYzBSWlIzVnRjbmRpYTFBeVMyWjZNRUZ6R2lKQlNFNHdSVGRGWnkwek1rWnRka3QxWjNoSFpIVmtZWEZzVERacFMyUlRjMHgzIiwiZmN2IjoiMyIsImZjX2lkIjoiTmhWaDA3ZVNZSW9xSnM2WkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZV1JxWWtsNFEwcG5OWFpCV21aMmVtTTNUa1kxVW5SdFprTnBPRWRoTVV0bFRIVjFNMmxOTm5OUWRHWTRhelEyWDBkWk5ucENSMU5RV21SbWRuWXpTRVpFVVRrMVJVbG1aM1ZaWmtWaWNFWTRTVkJITkRCc2JHaFBaa1ZWVVcxR1RVYzNSVVpOU214c1N6QmZSRTFaUWxKWGFsZ3hUWFoxU2taak9WQkpWR3RHYlVsRk9IQmhOMGxOYURGSlVraHdlVGhaY0dnMk5rNW1iSEpsVWpoYWEwcHlXVXBMUVZKb2RIVkdSVXhtYlZsTFVqbFJlazkyUm1KbFdXTkdNVGxLYUZaUVdYQjZkMmxJYUV4eFJ6WnlXbUl0YldGbVFtMVZSMmR6U0dkUVIyczJRbkpaVG1GWlpGQkdZMTgyY2s5bFUwbzVXWEJWWlY5ck4xTXRRVjlHZW0xV2FVNXZhbDkyTldWMGJXbG1aVGRUTnpSNlJ6UnlPWE14VVVOVVlsOWpZVTlxWkdGUVdtWm1kVm95VnpGelF6ZzBNMk54VlcxWGRtVTJOVkZSYmxKNFpYRnlSekpZZVdaS01UaEdkR041TUhGV1JFeEhhWFJIWTA1WE1URTVTa2d5Um1oR1pFeG5ZazlRYmpSaVppMTBNR2c0YTFkak9VTnFSa2RHVjBoVVlqaFBaV3ByVkhwQ1h6RlpObmhFTUhoa1IzUkxWR0Y1ZG1sMmJYbzNVMmROWm5OVVlsZHdUbE5hT0RadE4xazFiM0J3ZVVwMk1tSTBSRFpMU0RGZlZqTkNOV3BSU0RaQmIycFplR3QyTTNCeU1FcGZSRW95VTJWaWJGaGZOWFJGWVZKeUxYUlpNR016WHpndFNVcHNORzFNT1hKVVlrZFRRMWhTTnpZMk5XSlBiRjlHUTBkaGJVWTFha3cwTjBGbVkwODNiMjgzTWtkdGFFUlVjbWwwWmxCWFZWcEtTRGRZWTB0M1JXUTFaelZ2RWhkblVYWnNZWE5FV1VkMWJYSjNZbXRRTWt0bWVqQkJjeG9pUVVoT01FVTNSblJsUTBKM2NsYzBTa1E0ZW1salRYWnplSFJxYzAxNVVWcFhVUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZV1JxWWtsNFEwcG5OWFpCV21aMmVtTTNUa1kxVW5SdFprTnBPRWRoTVV0bFRIVjFNMmxOTm5OUWRHWTRhelEyWDBkWk5ucENSMU5RV21SbWRuWXpTRVpFVVRrMVJVbG1aM1ZaWmtWaWNFWTRTVkJITkRCc2JHaFBaa1ZWVVcxR1RVYzNSVVpOU214c1N6QmZSRTFaUWxKWGFsZ3hUWFoxU2taak9WQkpWR3RHYlVsRk9IQmhOMGxOYURGSlVraHdlVGhaY0dnMk5rNW1iSEpsVWpoYWEwcHlXVXBMUVZKb2RIVkdSVXhtYlZsTFVqbFJlazkyUm1KbFdXTkdNVGxLYUZaUVdYQjZkMmxJYUV4eFJ6WnlXbUl0YldGbVFtMVZSMmR6U0dkUVIyczJRbkpaVG1GWlpGQkdZMTgyY2s5bFUwbzVXWEJWWlY5ck4xTXRRVjlHZW0xV2FVNXZhbDkyTldWMGJXbG1aVGRUTnpSNlJ6UnlPWE14VVVOVVlsOWpZVTlxWkdGUVdtWm1kVm95VnpGelF6ZzBNMk54VlcxWGRtVTJOVkZSYmxKNFpYRnlSekpZZVdaS01UaEdkR041TUhGV1JFeEhhWFJIWTA1WE1URTVTa2d5Um1oR1pFeG5ZazlRYmpSaVppMTBNR2c0YTFkak9VTnFSa2RHVjBoVVlqaFBaV3ByVkhwQ1h6RlpObmhFTUhoa1IzUkxWR0Y1ZG1sMmJYbzNVMmROWm5OVVlsZHdUbE5hT0RadE4xazFiM0J3ZVVwMk1tSTBSRFpMU0RGZlZqTkNOV3BSU0RaQmIycFplR3QyTTNCeU1FcGZSRW95VTJWaWJGaGZOWFJGWVZKeUxYUlpNR016WHpndFNVcHNORzFNT1hKVVlrZFRRMWhTTnpZMk5XSlBiRjlHUTBkaGJVWTFha3cwTjBGbVkwODNiMjgzTWtkdGFFUlVjbWwwWmxCWFZWcEtTRGRZWTB0M1JXUTFaelZ2RWhkblVYWnNZWE5FV1VkMWJYSjNZbXRRTWt0bWVqQkJjeG9pUVVoT01FVTNSblJsUTBKM2NsYzBTa1E0ZW1salRYWnplSFJxYzAxNVVWcFhVUSIsImZjdiI6IjMifQ%3D%3D&q=Bioinformatics+Data+Scientist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Bioinformatics Data Scientist",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:26:19.508679+00:00",
+    "request_fingerprint": "885bc1d7fa22a48a99a36bc0eb03467c1439497190b07c7017222e5225b34e82",
+    "job_count": 10
+  }
+}

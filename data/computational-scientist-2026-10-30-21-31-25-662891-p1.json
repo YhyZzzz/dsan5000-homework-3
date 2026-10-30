@@ -1,0 +1,940 @@
+{
+  "search_metadata": {
+    "id": "6ae50cad0a7667fab85c5231",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yAWANJHDWZf3O7EpafJb1lufWi_CEFqAXC-YjkJNizg/6ae50cad0a7667fab85c5231.json",
+    "markdown_endpoint": "https://serpapi.com/searches/yAWANJHDWZf3O7EpafJb1lufWi_CEFqAXC-YjkJNizg/6ae50cad0a7667fab85c5231.md",
+    "created_at": "2026-10-30 21:31:25 UTC",
+    "processed_at": "2026-10-30 21:31:25 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Computational+Scientist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/yAWANJHDWZf3O7EpafJb1lufWi_CEFqAXC-YjkJNizg/6ae50cad0a7667fab85c5231.html",
+    "total_time_taken": 9.71
+  },
+  "search_parameters": {
+    "q": "Computational Scientist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXR6lrY9XmLb8gv1hsE5SNHP_9S_2sdICu7Y06SZJuThb0jJX6e3IEBtp9SIOK5EDgEMwAkQXcFyuXyptGN57TflZcQdWImrBhuKo_X5QdkzaGLne-QCf_CgiQh5YWIRLG0pF1CA0RbitEZ2LDxsGKxqi5xGgeSIes2tBgnvwAZ_gRjOEH",
+        "q": "Computational Scientist remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXR6lrY9XmLb8gv1hsE5SNHP_9S_2sdICu7Y06SZJuThb0jJX6e3IEBtp9SIOK5EDgEMwAkQXcFyuXyptGN57TflZcQdWImrBhuKo_X5QdkzaGLne-QCf_CgiQh5YWIRLG0pF1CA0RbitEZ2LDxsGKxqi5xGgeSIes2tBgnvwAZ_gRjOEH&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXR6lrY9XmLb8gv1hsE5SNHP_9S_2sdICu7Y06SZJuThb0jJX6e3IEBtp9SIOK5EDgEMwAkQXcFyuXyptGN57TflZcQdWImrBhuKo_X5QdkzaGLne-QCf_CgiQh5YWIRLG0pF1CA0RbitEZ2LDxsGKxqi5xGgeSIes2tBgnvwAZ_gRjOEH&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXX0OUGVBjQVshnNC2wx-u_ICOcB87bQmF_kRSmH_ZQKu-XWywU79urSMc6fJpPL8_XE-iHko-EDheUL4BnvBP0xWVf3jDah43UYi6Xb6rrnG62SOBio2qPlyFC7a2F7QMBshDKJCewrxDHL0Rg6NrlFO1LNgJo-V4JrSVwwQC1PMkjziB",
+        "q": "Computational Scientist no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXX0OUGVBjQVshnNC2wx-u_ICOcB87bQmF_kRSmH_ZQKu-XWywU79urSMc6fJpPL8_XE-iHko-EDheUL4BnvBP0xWVf3jDah43UYi6Xb6rrnG62SOBio2qPlyFC7a2F7QMBshDKJCewrxDHL0Rg6NrlFO1LNgJo-V4JrSVwwQC1PMkjziB&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQxKsJKAF6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXX0OUGVBjQVshnNC2wx-u_ICOcB87bQmF_kRSmH_ZQKu-XWywU79urSMc6fJpPL8_XE-iHko-EDheUL4BnvBP0xWVf3jDah43UYi6Xb6rrnG62SOBio2qPlyFC7a2F7QMBshDKJCewrxDHL0Rg6NrlFO1LNgJo-V4JrSVwwQC1PMkjziB&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZp2lVPJxeSMA2HAWYFIqnL3iusyUwA4XODQ5JYP0QdhbXuuj5_B0ROPexlBscBAWoz0zMXoQqOXcrGrt2c54wcxOanacy-g1OO3Tx1UcOJw0h7RIF_0VA3KdIsvUNSX5tsHk_Hym4mxvwlf7BNg71VcEOCH6vhRS2hAHL6pmL73G3dHkPuisNHhDN7yZsbvCAjFcQXRNCgaKj1J1zOWModtqLLOY90dQicuIzXKzmwy_WedaVTPp2iPnLKtY5zhO5Gz-I4Ty1T4kDQJkdPAWYBMVMkEMCW8hvmsrAmr4cypXuH07P0EjEMgMa_EFA--6I6NnoU",
+            "q": "Computational Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZp2lVPJxeSMA2HAWYFIqnL3iusyUwA4XODQ5JYP0QdhbXuuj5_B0ROPexlBscBAWoz0zMXoQqOXcrGrt2c54wcxOanacy-g1OO3Tx1UcOJw0h7RIF_0VA3KdIsvUNSX5tsHk_Hym4mxvwlf7BNg71VcEOCH6vhRS2hAHL6pmL73G3dHkPuisNHhDN7yZsbvCAjFcQXRNCgaKj1J1zOWModtqLLOY90dQicuIzXKzmwy_WedaVTPp2iPnLKtY5zhO5Gz-I4Ty1T4kDQJkdPAWYBMVMkEMCW8hvmsrAmr4cypXuH07P0EjEMgMa_EFA--6I6NnoU&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZp2lVPJxeSMA2HAWYFIqnL3iusyUwA4XODQ5JYP0QdhbXuuj5_B0ROPexlBscBAWoz0zMXoQqOXcrGrt2c54wcxOanacy-g1OO3Tx1UcOJw0h7RIF_0VA3KdIsvUNSX5tsHk_Hym4mxvwlf7BNg71VcEOCH6vhRS2hAHL6pmL73G3dHkPuisNHhDN7yZsbvCAjFcQXRNCgaKj1J1zOWModtqLLOY90dQicuIzXKzmwy_WedaVTPp2iPnLKtY5zhO5Gz-I4Ty1T4kDQJkdPAWYBMVMkEMCW8hvmsrAmr4cypXuH07P0EjEMgMa_EFA--6I6NnoU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYGxxJvy8Mcsb4FtjwGZL_WVUlHKNo49aLx2c4poAv8gw_kE2JKSuJ77gixfqkQVX-Fgbu6xMnyfOg3rh3xNQPYPDKPH06p4Ue2umRva-D8XSi49enZd_1IAaMd0BMF9aQ4E6Pn0o41L6R_d40_xwuHCtcj-OLq-pPcrqQxFdhyZhS2zSVKJMIRrfZSmRVHeiYNbixVGnsNq220gJ7BNZVrY7O7CBtcPWS7xnWXuD7K3uYQPFTn3nG2mUQow06UNbipJ3xInAWDs100k6O-P4syghtgcY2JONyp3fIreH4mMh7AgNsp64EKyMuNj--CwSELgCak8",
+            "q": "Computational Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYGxxJvy8Mcsb4FtjwGZL_WVUlHKNo49aLx2c4poAv8gw_kE2JKSuJ77gixfqkQVX-Fgbu6xMnyfOg3rh3xNQPYPDKPH06p4Ue2umRva-D8XSi49enZd_1IAaMd0BMF9aQ4E6Pn0o41L6R_d40_xwuHCtcj-OLq-pPcrqQxFdhyZhS2zSVKJMIRrfZSmRVHeiYNbixVGnsNq220gJ7BNZVrY7O7CBtcPWS7xnWXuD7K3uYQPFTn3nG2mUQow06UNbipJ3xInAWDs100k6O-P4syghtgcY2JONyp3fIreH4mMh7AgNsp64EKyMuNj--CwSELgCak8&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYGxxJvy8Mcsb4FtjwGZL_WVUlHKNo49aLx2c4poAv8gw_kE2JKSuJ77gixfqkQVX-Fgbu6xMnyfOg3rh3xNQPYPDKPH06p4Ue2umRva-D8XSi49enZd_1IAaMd0BMF9aQ4E6Pn0o41L6R_d40_xwuHCtcj-OLq-pPcrqQxFdhyZhS2zSVKJMIRrfZSmRVHeiYNbixVGnsNq220gJ7BNZVrY7O7CBtcPWS7xnWXuD7K3uYQPFTn3nG2mUQow06UNbipJ3xInAWDs100k6O-P4syghtgcY2JONyp3fIreH4mMh7AgNsp64EKyMuNj--CwSELgCak8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA_H8JooQERjnyMimGOlAjdPdSB1xPnMp6l9VvamutCuxQCOHLdUc6w08sncGwXFYqSmBh_cCzV4V4EUwgOM_WAG_bdRlqIixxNKMwrCB03T3hKyTRYde_8vZrkejZDrpyfn4vSjW_gArHCCaDkIqqAWkIldw0eM6Za6Hpd4rkiK8LTJtkBU_zwcRl1TNuxUcaVTdo5QdJ-aKF_EnPnzhoKxVzm7Wmx6VUv8eH71gYXSkTQ_YFweT2IGXNr5Wbn2zcKJ7B-dAOS-sGGRFRN3q2xjPmbp7bS0DS85_coeGs3YJgtW7vx0YglCBxOQYOZ1fUqUjbA4",
+            "q": "Computational Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA_H8JooQERjnyMimGOlAjdPdSB1xPnMp6l9VvamutCuxQCOHLdUc6w08sncGwXFYqSmBh_cCzV4V4EUwgOM_WAG_bdRlqIixxNKMwrCB03T3hKyTRYde_8vZrkejZDrpyfn4vSjW_gArHCCaDkIqqAWkIldw0eM6Za6Hpd4rkiK8LTJtkBU_zwcRl1TNuxUcaVTdo5QdJ-aKF_EnPnzhoKxVzm7Wmx6VUv8eH71gYXSkTQ_YFweT2IGXNr5Wbn2zcKJ7B-dAOS-sGGRFRN3q2xjPmbp7bS0DS85_coeGs3YJgtW7vx0YglCBxOQYOZ1fUqUjbA4&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA_H8JooQERjnyMimGOlAjdPdSB1xPnMp6l9VvamutCuxQCOHLdUc6w08sncGwXFYqSmBh_cCzV4V4EUwgOM_WAG_bdRlqIixxNKMwrCB03T3hKyTRYde_8vZrkejZDrpyfn4vSjW_gArHCCaDkIqqAWkIldw0eM6Za6Hpd4rkiK8LTJtkBU_zwcRl1TNuxUcaVTdo5QdJ-aKF_EnPnzhoKxVzm7Wmx6VUv8eH71gYXSkTQ_YFweT2IGXNr5Wbn2zcKJ7B-dAOS-sGGRFRN3q2xjPmbp7bS0DS85_coeGs3YJgtW7vx0YglCBxOQYOZ1fUqUjbA4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRomWBMziMcjj_9J52NAWzcuDMoNCw7MVna7TyRgoYdVEQTB3XaSrU1bg40sJ51cEdeVwOvsmsgo5XUnjCLbnAjpMST6sBSWfdIvvBvt3beE2f5--vfYEq41_h6nhDClcM-lZhuw8V99uL5Wfyz6f4WH2ZVZ1YO4ORaQE8W_qC-eJSSKajnRDeK3uxLKgsW1QFXLTKs7jb16-o18Hkm0gL9mHPBGm3juT4gbbAZVRDPkxhLz7JAEnpFXIKVfupDMGytmOOHrOCbZfTQW0U0Qh3hZsyVIeXonBeNok6_7BEtA0FITdJVxiD4Xj_-B7qvCMkHiJ_8cI",
+            "q": "Computational Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRomWBMziMcjj_9J52NAWzcuDMoNCw7MVna7TyRgoYdVEQTB3XaSrU1bg40sJ51cEdeVwOvsmsgo5XUnjCLbnAjpMST6sBSWfdIvvBvt3beE2f5--vfYEq41_h6nhDClcM-lZhuw8V99uL5Wfyz6f4WH2ZVZ1YO4ORaQE8W_qC-eJSSKajnRDeK3uxLKgsW1QFXLTKs7jb16-o18Hkm0gL9mHPBGm3juT4gbbAZVRDPkxhLz7JAEnpFXIKVfupDMGytmOOHrOCbZfTQW0U0Qh3hZsyVIeXonBeNok6_7BEtA0FITdJVxiD4Xj_-B7qvCMkHiJ_8cI&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRomWBMziMcjj_9J52NAWzcuDMoNCw7MVna7TyRgoYdVEQTB3XaSrU1bg40sJ51cEdeVwOvsmsgo5XUnjCLbnAjpMST6sBSWfdIvvBvt3beE2f5--vfYEq41_h6nhDClcM-lZhuw8V99uL5Wfyz6f4WH2ZVZ1YO4ORaQE8W_qC-eJSSKajnRDeK3uxLKgsW1QFXLTKs7jb16-o18Hkm0gL9mHPBGm3juT4gbbAZVRDPkxhLz7JAEnpFXIKVfupDMGytmOOHrOCbZfTQW0U0Qh3hZsyVIeXonBeNok6_7BEtA0FITdJVxiD4Xj_-B7qvCMkHiJ_8cI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZp2lVPJxeSMA2HAWYFIqnL3iusyUwA4XODQ5JYP0QdhbXuuj5_B0ROPexlBscBAWoz0zMXoQqOXcrGrt2c54wcxOanacy-g1OO3Tx1UcOJw0h7RIF_0VA3KdIsvUNSX5tsHk_Hym4mxvwlf7BNg71VcEOCH6vhRS2hAHL6pmL73G3dHkPuisNHhDN7yZsbvCAjFcQXRNCgaKj1J1zOWModtqLLOY90dQicuIzXKzmwy_WedaVTPp2iPnLKtY5zhO5Gz-I4Ty1T4kDQJkdPAWYBMVMkEMCW8hvmsrAmr4cypXuH07P0EjEMgMa_EFA--6I6NnoU",
+            "q": "Computational Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZp2lVPJxeSMA2HAWYFIqnL3iusyUwA4XODQ5JYP0QdhbXuuj5_B0ROPexlBscBAWoz0zMXoQqOXcrGrt2c54wcxOanacy-g1OO3Tx1UcOJw0h7RIF_0VA3KdIsvUNSX5tsHk_Hym4mxvwlf7BNg71VcEOCH6vhRS2hAHL6pmL73G3dHkPuisNHhDN7yZsbvCAjFcQXRNCgaKj1J1zOWModtqLLOY90dQicuIzXKzmwy_WedaVTPp2iPnLKtY5zhO5Gz-I4Ty1T4kDQJkdPAWYBMVMkEMCW8hvmsrAmr4cypXuH07P0EjEMgMa_EFA--6I6NnoU&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZp2lVPJxeSMA2HAWYFIqnL3iusyUwA4XODQ5JYP0QdhbXuuj5_B0ROPexlBscBAWoz0zMXoQqOXcrGrt2c54wcxOanacy-g1OO3Tx1UcOJw0h7RIF_0VA3KdIsvUNSX5tsHk_Hym4mxvwlf7BNg71VcEOCH6vhRS2hAHL6pmL73G3dHkPuisNHhDN7yZsbvCAjFcQXRNCgaKj1J1zOWModtqLLOY90dQicuIzXKzmwy_WedaVTPp2iPnLKtY5zhO5Gz-I4Ty1T4kDQJkdPAWYBMVMkEMCW8hvmsrAmr4cypXuH07P0EjEMgMa_EFA--6I6NnoU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYGxxJvy8Mcsb4FtjwGZL_WVUlHKNo49aLx2c4poAv8gw_kE2JKSuJ77gixfqkQVX-Fgbu6xMnyfOg3rh3xNQPYPDKPH06p4Ue2umRva-D8XSi49enZd_1IAaMd0BMF9aQ4E6Pn0o41L6R_d40_xwuHCtcj-OLq-pPcrqQxFdhyZhS2zSVKJMIRrfZSmRVHeiYNbixVGnsNq220gJ7BNZVrY7O7CBtcPWS7xnWXuD7K3uYQPFTn3nG2mUQow06UNbipJ3xInAWDs100k6O-P4syghtgcY2JONyp3fIreH4mMh7AgNsp64EKyMuNj--CwSELgCak8",
+            "q": "Computational Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYGxxJvy8Mcsb4FtjwGZL_WVUlHKNo49aLx2c4poAv8gw_kE2JKSuJ77gixfqkQVX-Fgbu6xMnyfOg3rh3xNQPYPDKPH06p4Ue2umRva-D8XSi49enZd_1IAaMd0BMF9aQ4E6Pn0o41L6R_d40_xwuHCtcj-OLq-pPcrqQxFdhyZhS2zSVKJMIRrfZSmRVHeiYNbixVGnsNq220gJ7BNZVrY7O7CBtcPWS7xnWXuD7K3uYQPFTn3nG2mUQow06UNbipJ3xInAWDs100k6O-P4syghtgcY2JONyp3fIreH4mMh7AgNsp64EKyMuNj--CwSELgCak8&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYGxxJvy8Mcsb4FtjwGZL_WVUlHKNo49aLx2c4poAv8gw_kE2JKSuJ77gixfqkQVX-Fgbu6xMnyfOg3rh3xNQPYPDKPH06p4Ue2umRva-D8XSi49enZd_1IAaMd0BMF9aQ4E6Pn0o41L6R_d40_xwuHCtcj-OLq-pPcrqQxFdhyZhS2zSVKJMIRrfZSmRVHeiYNbixVGnsNq220gJ7BNZVrY7O7CBtcPWS7xnWXuD7K3uYQPFTn3nG2mUQow06UNbipJ3xInAWDs100k6O-P4syghtgcY2JONyp3fIreH4mMh7AgNsp64EKyMuNj--CwSELgCak8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA_H8JooQERjnyMimGOlAjdPdSB1xPnMp6l9VvamutCuxQCOHLdUc6w08sncGwXFYqSmBh_cCzV4V4EUwgOM_WAG_bdRlqIixxNKMwrCB03T3hKyTRYde_8vZrkejZDrpyfn4vSjW_gArHCCaDkIqqAWkIldw0eM6Za6Hpd4rkiK8LTJtkBU_zwcRl1TNuxUcaVTdo5QdJ-aKF_EnPnzhoKxVzm7Wmx6VUv8eH71gYXSkTQ_YFweT2IGXNr5Wbn2zcKJ7B-dAOS-sGGRFRN3q2xjPmbp7bS0DS85_coeGs3YJgtW7vx0YglCBxOQYOZ1fUqUjbA4",
+            "q": "Computational Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA_H8JooQERjnyMimGOlAjdPdSB1xPnMp6l9VvamutCuxQCOHLdUc6w08sncGwXFYqSmBh_cCzV4V4EUwgOM_WAG_bdRlqIixxNKMwrCB03T3hKyTRYde_8vZrkejZDrpyfn4vSjW_gArHCCaDkIqqAWkIldw0eM6Za6Hpd4rkiK8LTJtkBU_zwcRl1TNuxUcaVTdo5QdJ-aKF_EnPnzhoKxVzm7Wmx6VUv8eH71gYXSkTQ_YFweT2IGXNr5Wbn2zcKJ7B-dAOS-sGGRFRN3q2xjPmbp7bS0DS85_coeGs3YJgtW7vx0YglCBxOQYOZ1fUqUjbA4&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA_H8JooQERjnyMimGOlAjdPdSB1xPnMp6l9VvamutCuxQCOHLdUc6w08sncGwXFYqSmBh_cCzV4V4EUwgOM_WAG_bdRlqIixxNKMwrCB03T3hKyTRYde_8vZrkejZDrpyfn4vSjW_gArHCCaDkIqqAWkIldw0eM6Za6Hpd4rkiK8LTJtkBU_zwcRl1TNuxUcaVTdo5QdJ-aKF_EnPnzhoKxVzm7Wmx6VUv8eH71gYXSkTQ_YFweT2IGXNr5Wbn2zcKJ7B-dAOS-sGGRFRN3q2xjPmbp7bS0DS85_coeGs3YJgtW7vx0YglCBxOQYOZ1fUqUjbA4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRomWBMziMcjj_9J52NAWzcuDMoNCw7MVna7TyRgoYdVEQTB3XaSrU1bg40sJ51cEdeVwOvsmsgo5XUnjCLbnAjpMST6sBSWfdIvvBvt3beE2f5--vfYEq41_h6nhDClcM-lZhuw8V99uL5Wfyz6f4WH2ZVZ1YO4ORaQE8W_qC-eJSSKajnRDeK3uxLKgsW1QFXLTKs7jb16-o18Hkm0gL9mHPBGm3juT4gbbAZVRDPkxhLz7JAEnpFXIKVfupDMGytmOOHrOCbZfTQW0U0Qh3hZsyVIeXonBeNok6_7BEtA0FITdJVxiD4Xj_-B7qvCMkHiJ_8cI",
+            "q": "Computational Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRomWBMziMcjj_9J52NAWzcuDMoNCw7MVna7TyRgoYdVEQTB3XaSrU1bg40sJ51cEdeVwOvsmsgo5XUnjCLbnAjpMST6sBSWfdIvvBvt3beE2f5--vfYEq41_h6nhDClcM-lZhuw8V99uL5Wfyz6f4WH2ZVZ1YO4ORaQE8W_qC-eJSSKajnRDeK3uxLKgsW1QFXLTKs7jb16-o18Hkm0gL9mHPBGm3juT4gbbAZVRDPkxhLz7JAEnpFXIKVfupDMGytmOOHrOCbZfTQW0U0Qh3hZsyVIeXonBeNok6_7BEtA0FITdJVxiD4Xj_-B7qvCMkHiJ_8cI&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRomWBMziMcjj_9J52NAWzcuDMoNCw7MVna7TyRgoYdVEQTB3XaSrU1bg40sJ51cEdeVwOvsmsgo5XUnjCLbnAjpMST6sBSWfdIvvBvt3beE2f5--vfYEq41_h6nhDClcM-lZhuw8V99uL5Wfyz6f4WH2ZVZ1YO4ORaQE8W_qC-eJSSKajnRDeK3uxLKgsW1QFXLTKs7jb16-o18Hkm0gL9mHPBGm3juT4gbbAZVRDPkxhLz7JAEnpFXIKVfupDMGytmOOHrOCbZfTQW0U0Qh3hZsyVIeXonBeNok6_7BEtA0FITdJVxiD4Xj_-B7qvCMkHiJ_8cI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-ifHcK_ruWACYQDZvgEajWi0ECX4ccUFtwhImNgCCa9j-Ug0Sv3vAYQuOwQpRUmatTHHbOVTfrI1eIF9U2VnDtTk--VuY3zkP_W0XbiMryVT_NAk6nZ_G28IvHqmTes7o-kqKkgUp8g4DwYGEw-sRhz6WPJ9YfmMuCgPtb-4cy5q699ng_sKIY2_VVvasgFNUZ9CQYSqQ-86zlhK2CWX99pGexyG85N0L4E_xxSitZzQAdu9ZID-_WKorJMlJCft9KFR1KDzNzDdjan1NdEHnpsHeEzVYdtZXOCYKfSOg0kolYZDhA",
+            "q": "Computational Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-ifHcK_ruWACYQDZvgEajWi0ECX4ccUFtwhImNgCCa9j-Ug0Sv3vAYQuOwQpRUmatTHHbOVTfrI1eIF9U2VnDtTk--VuY3zkP_W0XbiMryVT_NAk6nZ_G28IvHqmTes7o-kqKkgUp8g4DwYGEw-sRhz6WPJ9YfmMuCgPtb-4cy5q699ng_sKIY2_VVvasgFNUZ9CQYSqQ-86zlhK2CWX99pGexyG85N0L4E_xxSitZzQAdu9ZID-_WKorJMlJCft9KFR1KDzNzDdjan1NdEHnpsHeEzVYdtZXOCYKfSOg0kolYZDhA&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-ifHcK_ruWACYQDZvgEajWi0ECX4ccUFtwhImNgCCa9j-Ug0Sv3vAYQuOwQpRUmatTHHbOVTfrI1eIF9U2VnDtTk--VuY3zkP_W0XbiMryVT_NAk6nZ_G28IvHqmTes7o-kqKkgUp8g4DwYGEw-sRhz6WPJ9YfmMuCgPtb-4cy5q699ng_sKIY2_VVvasgFNUZ9CQYSqQ-86zlhK2CWX99pGexyG85N0L4E_xxSitZzQAdu9ZID-_WKorJMlJCft9KFR1KDzNzDdjan1NdEHnpsHeEzVYdtZXOCYKfSOg0kolYZDhA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-jSObNNC4_bojmwsoaPE3DBDw31csP55LhO9O1LhiKctsZ8qr7bQJVIUWxgGnK-DaWcwDyHIAu7L_AFoBxY5FnqABb5AAkI_6Fk6zSF5qZFP1tVDOVDvyDR_yAVyk6QZrpFek6TUCumfHoiReP8NliuO42K9avkgCdJhSocqY1Z3xAQBKoqWpouPZPLLCqzat977Ld4GO5HSPetNo_WvzoIafufcXLN7IzNDMJc9blhajmEbjdnB6z5Cd2DQ09Tr2fbCZDKACWBe-MjT8BMwGfAe6_vVnAIeqrv70KQ8KchJKrZZfM",
+            "q": "Computational Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-jSObNNC4_bojmwsoaPE3DBDw31csP55LhO9O1LhiKctsZ8qr7bQJVIUWxgGnK-DaWcwDyHIAu7L_AFoBxY5FnqABb5AAkI_6Fk6zSF5qZFP1tVDOVDvyDR_yAVyk6QZrpFek6TUCumfHoiReP8NliuO42K9avkgCdJhSocqY1Z3xAQBKoqWpouPZPLLCqzat977Ld4GO5HSPetNo_WvzoIafufcXLN7IzNDMJc9blhajmEbjdnB6z5Cd2DQ09Tr2fbCZDKACWBe-MjT8BMwGfAe6_vVnAIeqrv70KQ8KchJKrZZfM&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-jSObNNC4_bojmwsoaPE3DBDw31csP55LhO9O1LhiKctsZ8qr7bQJVIUWxgGnK-DaWcwDyHIAu7L_AFoBxY5FnqABb5AAkI_6Fk6zSF5qZFP1tVDOVDvyDR_yAVyk6QZrpFek6TUCumfHoiReP8NliuO42K9avkgCdJhSocqY1Z3xAQBKoqWpouPZPLLCqzat977Ld4GO5HSPetNo_WvzoIafufcXLN7IzNDMJc9blhajmEbjdnB6z5Cd2DQ09Tr2fbCZDKACWBe-MjT8BMwGfAe6_vVnAIeqrv70KQ8KchJKrZZfM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7NaTN7WwiOshXb7l4_zKH-FhnYzi4SPycxzcnH24qZd71aiJVwO5Psy_nLMs_6k2V-XWtmutIixfjOC0Nhzf7syP5AKkdl7lAM4UNG8FwhoHadEdPSEOraCHmcyfeavcshE7_yz5pECS2UvtIreo9UHfxjSWp8dmhRsDsAgI7bymYdvoB5iQOPniesrCwIAAwrETQfQtL8Crz3GYlpjmGE8Puv-UW-xBUHxCGOnlf2A1y_40_zMrNKI0nsz76i6JD18kJmjZexCMhcL81I0_-WmtKYkgO3BJqbLlNCJhueaONzxOtw",
+            "q": "Computational Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7NaTN7WwiOshXb7l4_zKH-FhnYzi4SPycxzcnH24qZd71aiJVwO5Psy_nLMs_6k2V-XWtmutIixfjOC0Nhzf7syP5AKkdl7lAM4UNG8FwhoHadEdPSEOraCHmcyfeavcshE7_yz5pECS2UvtIreo9UHfxjSWp8dmhRsDsAgI7bymYdvoB5iQOPniesrCwIAAwrETQfQtL8Crz3GYlpjmGE8Puv-UW-xBUHxCGOnlf2A1y_40_zMrNKI0nsz76i6JD18kJmjZexCMhcL81I0_-WmtKYkgO3BJqbLlNCJhueaONzxOtw&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7NaTN7WwiOshXb7l4_zKH-FhnYzi4SPycxzcnH24qZd71aiJVwO5Psy_nLMs_6k2V-XWtmutIixfjOC0Nhzf7syP5AKkdl7lAM4UNG8FwhoHadEdPSEOraCHmcyfeavcshE7_yz5pECS2UvtIreo9UHfxjSWp8dmhRsDsAgI7bymYdvoB5iQOPniesrCwIAAwrETQfQtL8Crz3GYlpjmGE8Puv-UW-xBUHxCGOnlf2A1y_40_zMrNKI0nsz76i6JD18kJmjZexCMhcL81I0_-WmtKYkgO3BJqbLlNCJhueaONzxOtw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqh4Gseo4G7_QWhiDHyM_8FtN_mYUrhjXSzymCwsvYZNJxPobpPu0c6XFZMWevk6faSZtgKPKJWnH4as5FCD1RNBICUTQ7MQz1IzR5-5nNRGh-S7KuVDsTgRIIO4rx9S5AYaoHU0O1_0t-4kllVnC_gv86oPScfiW1lRrca-gZ1Zuccp3wT1WnIZKz0hGVzS0lXo_VYqYfSeE-8o-SZYOSmUq03Sfxxp-LKLSDdH6uMWPE7FZLQ9raEw7pnxNsMGFfhg5ToXzriy-ltCta72XdiGtT_T7C_j3S_fv5iO53qze5nutvA",
+            "q": "Computational Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqh4Gseo4G7_QWhiDHyM_8FtN_mYUrhjXSzymCwsvYZNJxPobpPu0c6XFZMWevk6faSZtgKPKJWnH4as5FCD1RNBICUTQ7MQz1IzR5-5nNRGh-S7KuVDsTgRIIO4rx9S5AYaoHU0O1_0t-4kllVnC_gv86oPScfiW1lRrca-gZ1Zuccp3wT1WnIZKz0hGVzS0lXo_VYqYfSeE-8o-SZYOSmUq03Sfxxp-LKLSDdH6uMWPE7FZLQ9raEw7pnxNsMGFfhg5ToXzriy-ltCta72XdiGtT_T7C_j3S_fv5iO53qze5nutvA&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqh4Gseo4G7_QWhiDHyM_8FtN_mYUrhjXSzymCwsvYZNJxPobpPu0c6XFZMWevk6faSZtgKPKJWnH4as5FCD1RNBICUTQ7MQz1IzR5-5nNRGh-S7KuVDsTgRIIO4rx9S5AYaoHU0O1_0t-4kllVnC_gv86oPScfiW1lRrca-gZ1Zuccp3wT1WnIZKz0hGVzS0lXo_VYqYfSeE-8o-SZYOSmUq03Sfxxp-LKLSDdH6uMWPE7FZLQ9raEw7pnxNsMGFfhg5ToXzriy-ltCta72XdiGtT_T7C_j3S_fv5iO53qze5nutvA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-ifHcK_ruWACYQDZvgEajWi0ECX4ccUFtwhImNgCCa9j-Ug0Sv3vAYQuOwQpRUmatTHHbOVTfrI1eIF9U2VnDtTk--VuY3zkP_W0XbiMryVT_NAk6nZ_G28IvHqmTes7o-kqKkgUp8g4DwYGEw-sRhz6WPJ9YfmMuCgPtb-4cy5q699ng_sKIY2_VVvasgFNUZ9CQYSqQ-86zlhK2CWX99pGexyG85N0L4E_xxSitZzQAdu9ZID-_WKorJMlJCft9KFR1KDzNzDdjan1NdEHnpsHeEzVYdtZXOCYKfSOg0kolYZDhA",
+            "q": "Computational Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-ifHcK_ruWACYQDZvgEajWi0ECX4ccUFtwhImNgCCa9j-Ug0Sv3vAYQuOwQpRUmatTHHbOVTfrI1eIF9U2VnDtTk--VuY3zkP_W0XbiMryVT_NAk6nZ_G28IvHqmTes7o-kqKkgUp8g4DwYGEw-sRhz6WPJ9YfmMuCgPtb-4cy5q699ng_sKIY2_VVvasgFNUZ9CQYSqQ-86zlhK2CWX99pGexyG85N0L4E_xxSitZzQAdu9ZID-_WKorJMlJCft9KFR1KDzNzDdjan1NdEHnpsHeEzVYdtZXOCYKfSOg0kolYZDhA&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-ifHcK_ruWACYQDZvgEajWi0ECX4ccUFtwhImNgCCa9j-Ug0Sv3vAYQuOwQpRUmatTHHbOVTfrI1eIF9U2VnDtTk--VuY3zkP_W0XbiMryVT_NAk6nZ_G28IvHqmTes7o-kqKkgUp8g4DwYGEw-sRhz6WPJ9YfmMuCgPtb-4cy5q699ng_sKIY2_VVvasgFNUZ9CQYSqQ-86zlhK2CWX99pGexyG85N0L4E_xxSitZzQAdu9ZID-_WKorJMlJCft9KFR1KDzNzDdjan1NdEHnpsHeEzVYdtZXOCYKfSOg0kolYZDhA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-jSObNNC4_bojmwsoaPE3DBDw31csP55LhO9O1LhiKctsZ8qr7bQJVIUWxgGnK-DaWcwDyHIAu7L_AFoBxY5FnqABb5AAkI_6Fk6zSF5qZFP1tVDOVDvyDR_yAVyk6QZrpFek6TUCumfHoiReP8NliuO42K9avkgCdJhSocqY1Z3xAQBKoqWpouPZPLLCqzat977Ld4GO5HSPetNo_WvzoIafufcXLN7IzNDMJc9blhajmEbjdnB6z5Cd2DQ09Tr2fbCZDKACWBe-MjT8BMwGfAe6_vVnAIeqrv70KQ8KchJKrZZfM",
+            "q": "Computational Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-jSObNNC4_bojmwsoaPE3DBDw31csP55LhO9O1LhiKctsZ8qr7bQJVIUWxgGnK-DaWcwDyHIAu7L_AFoBxY5FnqABb5AAkI_6Fk6zSF5qZFP1tVDOVDvyDR_yAVyk6QZrpFek6TUCumfHoiReP8NliuO42K9avkgCdJhSocqY1Z3xAQBKoqWpouPZPLLCqzat977Ld4GO5HSPetNo_WvzoIafufcXLN7IzNDMJc9blhajmEbjdnB6z5Cd2DQ09Tr2fbCZDKACWBe-MjT8BMwGfAe6_vVnAIeqrv70KQ8KchJKrZZfM&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15ihuVZiOAGfN08SP1D0mYx-jSObNNC4_bojmwsoaPE3DBDw31csP55LhO9O1LhiKctsZ8qr7bQJVIUWxgGnK-DaWcwDyHIAu7L_AFoBxY5FnqABb5AAkI_6Fk6zSF5qZFP1tVDOVDvyDR_yAVyk6QZrpFek6TUCumfHoiReP8NliuO42K9avkgCdJhSocqY1Z3xAQBKoqWpouPZPLLCqzat977Ld4GO5HSPetNo_WvzoIafufcXLN7IzNDMJc9blhajmEbjdnB6z5Cd2DQ09Tr2fbCZDKACWBe-MjT8BMwGfAe6_vVnAIeqrv70KQ8KchJKrZZfM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7NaTN7WwiOshXb7l4_zKH-FhnYzi4SPycxzcnH24qZd71aiJVwO5Psy_nLMs_6k2V-XWtmutIixfjOC0Nhzf7syP5AKkdl7lAM4UNG8FwhoHadEdPSEOraCHmcyfeavcshE7_yz5pECS2UvtIreo9UHfxjSWp8dmhRsDsAgI7bymYdvoB5iQOPniesrCwIAAwrETQfQtL8Crz3GYlpjmGE8Puv-UW-xBUHxCGOnlf2A1y_40_zMrNKI0nsz76i6JD18kJmjZexCMhcL81I0_-WmtKYkgO3BJqbLlNCJhueaONzxOtw",
+            "q": "Computational Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7NaTN7WwiOshXb7l4_zKH-FhnYzi4SPycxzcnH24qZd71aiJVwO5Psy_nLMs_6k2V-XWtmutIixfjOC0Nhzf7syP5AKkdl7lAM4UNG8FwhoHadEdPSEOraCHmcyfeavcshE7_yz5pECS2UvtIreo9UHfxjSWp8dmhRsDsAgI7bymYdvoB5iQOPniesrCwIAAwrETQfQtL8Crz3GYlpjmGE8Puv-UW-xBUHxCGOnlf2A1y_40_zMrNKI0nsz76i6JD18kJmjZexCMhcL81I0_-WmtKYkgO3BJqbLlNCJhueaONzxOtw&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7NaTN7WwiOshXb7l4_zKH-FhnYzi4SPycxzcnH24qZd71aiJVwO5Psy_nLMs_6k2V-XWtmutIixfjOC0Nhzf7syP5AKkdl7lAM4UNG8FwhoHadEdPSEOraCHmcyfeavcshE7_yz5pECS2UvtIreo9UHfxjSWp8dmhRsDsAgI7bymYdvoB5iQOPniesrCwIAAwrETQfQtL8Crz3GYlpjmGE8Puv-UW-xBUHxCGOnlf2A1y_40_zMrNKI0nsz76i6JD18kJmjZexCMhcL81I0_-WmtKYkgO3BJqbLlNCJhueaONzxOtw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqh4Gseo4G7_QWhiDHyM_8FtN_mYUrhjXSzymCwsvYZNJxPobpPu0c6XFZMWevk6faSZtgKPKJWnH4as5FCD1RNBICUTQ7MQz1IzR5-5nNRGh-S7KuVDsTgRIIO4rx9S5AYaoHU0O1_0t-4kllVnC_gv86oPScfiW1lRrca-gZ1Zuccp3wT1WnIZKz0hGVzS0lXo_VYqYfSeE-8o-SZYOSmUq03Sfxxp-LKLSDdH6uMWPE7FZLQ9raEw7pnxNsMGFfhg5ToXzriy-ltCta72XdiGtT_T7C_j3S_fv5iO53qze5nutvA",
+            "q": "Computational Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiMnG7yJur4SgBme3GFqEjVdZuLJA:1793395894941&q=Computational+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqh4Gseo4G7_QWhiDHyM_8FtN_mYUrhjXSzymCwsvYZNJxPobpPu0c6XFZMWevk6faSZtgKPKJWnH4as5FCD1RNBICUTQ7MQz1IzR5-5nNRGh-S7KuVDsTgRIIO4rx9S5AYaoHU0O1_0t-4kllVnC_gv86oPScfiW1lRrca-gZ1Zuccp3wT1WnIZKz0hGVzS0lXo_VYqYfSeE-8o-SZYOSmUq03Sfxxp-LKLSDdH6uMWPE7FZLQ9raEw7pnxNsMGFfhg5ToXzriy-ltCta72XdiGtT_T7C_j3S_fv5iO53qze5nutvA&udm=8&sa=X&ved=2ahUKEwiGrYmq2OKXAxVlRTABHURfJ9YQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Computational+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqh4Gseo4G7_QWhiDHyM_8FtN_mYUrhjXSzymCwsvYZNJxPobpPu0c6XFZMWevk6faSZtgKPKJWnH4as5FCD1RNBICUTQ7MQz1IzR5-5nNRGh-S7KuVDsTgRIIO4rx9S5AYaoHU0O1_0t-4kllVnC_gv86oPScfiW1lRrca-gZ1Zuccp3wT1WnIZKz0hGVzS0lXo_VYqYfSeE-8o-SZYOSmUq03Sfxxp-LKLSDdH6uMWPE7FZLQ9raEw7pnxNsMGFfhg5ToXzriy-ltCta72XdiGtT_T7C_j3S_fv5iO53qze5nutvA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Computational Scientist/Scientific Programmer Jobs",
+      "company_name": "Riverside Research",
+      "location": "Dayton, OH (+1 other)",
+      "via": "Clearance Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The successful candidate will combine strong technical expertise with independent problem-solving, technical leadership, and business acumen",
+            "Active Top Secret/SCI Security Clearance and consent to CI Poly",
+            "Degree in physics, electrical engineering, applied mathematics, computer science, or a related STEM discipline",
+            "Bachelor's with 8+ years of experience, or",
+            "Master's with 6+ years of experience",
+            "PhD with 3+ years of experience",
+            "Relevant years of experience may be substituted in lieu of a degree",
+            "Demonstrated experience developing, applying, or validating physics-based computational models, numerical methods, or scientific simulation software",
+            "Strong foundation in applied mathematics, numerical analysis, computational physics, or a closely related technical discipline",
+            "Demonstrated proficiency in scientific computing and programming, including experience in a relevant compiled language such as C, C++, or Fortran and/or an equivalent scientific programming environment",
+            "Ability to independently frame complex technical problems, evaluate potential approaches, exercise sound technical judgment, and deliver results with limited direction",
+            "Demonstrated technical leadership, such as leading a research task, directing technical work, serving as a technical lead or PI, or taking ownership of a significant technical deliverable",
+            "Excellent written, verbal, and presentation skills, including the ability to communicate complex technical concepts clearly to technical and nontechnical audiences",
+            "Demonstrated ability to collaborate effectively across disciplines, build productive working relationships, and mentor or support the development of other technical staff",
+            "Ability to balance technical rigor with customer needs, practical constraints, and program objectives",
+            "Ability to travel (less than 10%)",
+            "CA), or multi-level fast multipole methods (MLFMM)",
+            "Experience with high-performance scientific computing, parallel algorithms, distributed computing, or performance optimization on large computing systems, including MPI and/or OpenMP"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This individual will lead and contribute to the development of advanced computational methods, guide multidisciplinary technical teams, and translate complex customer problems into effective technical solutions",
+            "The position offers the opportunity to shape technical direction, lead research and development efforts, engage directly with customers, and help grow a portfolio of technical programs and capabilities",
+            "The successful candidate will be expected to operate with a high degree of autonomy, communicate effectively across technical and business audiences, and take ownership of technical outcomes",
+            "Technical Leadership: Provide technical direction and subject matter expertise in computational electromagnetics, applied mathematics, computational physics, and scientific modeling and simulation",
+            "Formulate approaches to complex technical problems, evaluate alternatives, manage technical risk, and drive solutions from concept through implementation and validation",
+            "Research and Algorithm Development: Research, develop, implement, evaluate, and improve state-of-the-art numerical methods, computational algorithms, and physics-based models to address challenging electromagnetic and related scientific problems",
+            "Technical Program Leadership: Serve as a Principal Investigator (PI), technical lead, or equivalent technical authority for research, development, and customer-funded efforts",
+            "Establish technical objectives, develop execution strategies, manage technical risks, and ensure delivery of high-quality results",
+            "Customer Engagement and Business Growth: Engage with government and defense customers to understand mission needs, communicate technical approaches, build customer confidence, and identify opportunities for follow-on work and new technical capabilities",
+            "Technical Planning and Proposal Development: Contribute to technical volumes, cost and schedule estimates, statements of work, multi-year technical roadmaps, and government proposals",
+            "Help shape fundable research and development concepts aligned with customer needs and organizational strategy",
+            "Software and Computational Development: Contribute to scientific software development through algorithm design, requirements definition, interface specifications, verification and validation planning, code reviews, and performance evaluation",
+            "Collaborate with software engineers to ensure that computational methods are implemented as reliable, maintainable, and usable software",
+            "Multidisciplinary Collaboration: Provide technical guidance and coordinate work across scientists, software engineers, electrical and RF engineers, program managers, and other stakeholders",
+            "Align technical execution with program objectives, schedules, resources, and customer commitments",
+            "Technical Communication: Prepare and present technical reports, research findings, briefings, and recommendations for audiences ranging from technical specialists to customers and senior leadership",
+            "Mentoring and Team Development: Mentor junior and mid-level staff, promote technical rigor and sound engineering practices, and help develop the next generation of technical leaders",
+            "Perform other duties as assigned",
+            "Demonstrated contributions to business development, including customer engagement, opportunity shaping, proposal development, technical volume leadership, or development of follow-on work",
+            "Publications, technical reports, patents, or other demonstrated contributions to scientific or engineering advancement"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=c0bcux8Bw5ME3YGIAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2MMQrCQBBFsfUIVlOLZkWw0VJBsTEkBwibdUxGdmeWnVXisbyhBtK8_5r_5t_ZvKyRSRIcJcRXtpmErYfaEXImzWayBzkok3TJhoAJrtIqrMcBRZtcD8JwFuk8Lg59zlH3xqj6otOx6QonwQhjK4N5_r8jGu1twuhtxma72wxF5G4JFb0xKd0RKpzSxHCynyy8gtvlB33ZZO20AAAA&shmds=v1_Ac3VAow9r4RVbk4B7VL51lv1aLp8nwyK-sNJS5U8VGBuR7sNmQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=c0bcux8Bw5ME3YGIAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "130K–200K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.clearancejobs.com/jobs/9266360/senior-computational-scientistscientific-programmer",
+      "job_title": "Senior Computational Scientist/Scientific Programmer Jobs",
+      "description": "Riverside Overview\n\nRiverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical services, research and development, and prototype solutions to some of the country’s most challenging technical problems.\n \n All Riverside Research opportunities require U.S. Citizenship.\n\nPosition Overview\n\nRiverside Research’s Applied Mathematics and Physics Solutions group is seeking a Senior Computational Scientist/Scientific Programmer to advance high-impact computational electromagnetics (CEM), scientific computing, and physics-based modeling and simulation capabilities in support of challenging government and defense applications.\n\nThe successful candidate will combine strong technical expertise with independent problem-solving, technical leadership, and business acumen. This individual will lead and contribute to the development of advanced computational methods, guide multidisciplinary technical teams, and translate complex customer problems into effective technical solutions.\n\nThe position offers the opportunity to shape technical direction, lead research and development efforts, engage directly with customers, and help grow a portfolio of technical programs and capabilities. The successful candidate will be expected to operate with a high degree of autonomy, communicate effectively across technical and business audiences, and take ownership of technical outcomes.\n\nCandidate can work in our facilities in Fairfax, VA or Dayton, OH.\n\nResponsibilities\n\nTechnical Leadership: Provide technical direction and subject matter expertise in computational electromagnetics, applied mathematics, computational physics, and scientific modeling and simulation. Formulate approaches to complex technical problems, evaluate alternatives, manage technical risk, and drive solutions from concept through implementation and validation.Research and Algorithm Development: Research, develop, implement, evaluate, and improve state-of-the-art numerical methods, computational algorithms, and physics-based models to address challenging electromagnetic and related scientific problems.Technical Program Leadership: Serve as a Principal Investigator (PI), technical lead, or equivalent technical authority for research, development, and customer-funded efforts. Establish technical objectives, develop execution strategies, manage technical risks, and ensure delivery of high-quality results.Customer Engagement and Business Growth: Engage with government and defense customers to understand mission needs, communicate technical approaches, build customer confidence, and identify opportunities for follow-on work and new technical capabilities.Technical Planning and Proposal Development: Contribute to technical volumes, cost and schedule estimates, statements of work, multi-year technical roadmaps, and government proposals. Help shape fundable research and development concepts aligned with customer needs and organizational strategy.Software and Computational Development: Contribute to scientific software development through algorithm design, requirements definition, interface specifications, verification and validation planning, code reviews, and performance evaluation. Collaborate with software engineers to ensure that computational methods are implemented as reliable, maintainable, and usable software.Multidisciplinary Collaboration: Provide technical guidance and coordinate work across scientists, software engineers, electrical and RF engineers, program managers, and other stakeholders. Align technical execution with program objectives, schedules, resources, and customer commitments.Technical Communication: Prepare and present technical reports, research findings, briefings, and recommendations for audiences ranging from technical specialists to customers and senior leadership.Mentoring and Team Development: Mentor junior and mid-level staff, promote technical rigor and sound engineering practices, and help develop the next generation of technical leaders.Perform other duties as assigned.\n\nQualifications\n\nActive Top Secret/SCI Security Clearance and consent to CI PolyEducation and Experience: Degree in physics, electrical engineering, applied mathematics, computer science, or a related STEM disciplineBachelor's with 8+ years of experience, orMaster's with 6+ years of experiencePhD with 3+ years of experienceRelevant years of experience may be substituted in lieu of a degree.Demonstrated experience developing, applying, or validating physics-based computational models, numerical methods, or scientific simulation software.Strong foundation in applied mathematics, numerical analysis, computational physics, or a closely related technical discipline.Demonstrated proficiency in scientific computing and programming, including experience in a relevant compiled language such as C, C++, or Fortran and/or an equivalent scientific programming environment.Ability to independently frame complex technical problems, evaluate potential approaches, exercise sound technical judgment, and deliver results with limited direction.Demonstrated technical leadership, such as leading a research task, directing technical work, serving as a technical lead or PI, or taking ownership of a significant technical deliverable.Excellent written, verbal, and presentation skills, including the ability to communicate complex technical concepts clearly to technical and nontechnical audiences.Demonstrated ability to collaborate effectively across disciplines, build productive working relationships, and mentor or support the development of other technical staff.Ability to balance technical rigor with customer needs, practical constraints, and program objectives.Ability to travel (less than 10%) \n\nDesired\nActive Top Secret/SCI Security Clearance w/ CI PolyPhD in physics, electrical engineering, applied mathematics, computational science, or a related discipline with 8+ years of experience.Experience with numerical techniques such as method of moments, surface or volumetric integral equations, finite-difference time-domain methods, finite-element methods, asymptotic methods, domain decomposition, hierarchical Adaptive Cross Approximation (hACA), or multi-level fast multipole methods (MLFMM).Experience with high-performance scientific computing, parallel algorithms, distributed computing, or performance optimization on large computing systems, including MPI and/or OpenMP.Demonstrated contributions to business development, including customer engagement, opportunity shaping, proposal development, technical volume leadership, or development of follow-on work.Publications, technical reports, patents, or other demonstrated contributions to scientific or engineering advancement.",
+      "apply_options": [
+        {
+          "title": "Clearance Jobs",
+          "link": "https://www.clearancejobs.com/jobs/9266360/senior-computational-scientistscientific-programmer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29tcHV0YXRpb25hbCBTY2llbnRpc3QvU2NpZW50aWZpYyBQcm9ncmFtbWVyIEpvYnMiLCJjb21wYW55X25hbWUiOiJSaXZlcnNpZGUgUmVzZWFyY2giLCJodGlkb2NpZCI6ImMwYmN1eDhCdzVNRTNZR0lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZV2R0ZDA0eldYZDVTV2hwU1ZGdVVrTjRMV2h4ZGpWd1FsRTFkMmhMVTBORVNVMVpUMFZDWW1zMVdpMXNaekpuZUZoRlMxa3lUVGRWYzB4T2RIbFBSMVZOVldvMWJVZFpOSGRJUzNodVl6UllYMUpLYmxBd2NYbHFOakJwZDBaYU1rNHRiMGcyV20xamIxbERUa2Q0UTJkM1ZsVmFha3hVWkZwT00yZFROREJUV2tGWVEyZ1NGM1JuZW14aGIySTJUMDlYUzNkaWExQjRURFprYzFFd0dpSkJTRTR3UlRkR2JsbG1ja00xU214aWFYSldkVmRFUldSVWRIZExjalpHUVRCUiIsImZjdiI6IjMiLCJmY19pZCI6ImMwYmN1eDhCdzVNRTNZR0lBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI Computational Scientist",
+      "company_name": "Brookhaven National Laboratory",
+      "location": "New York",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD degree in Physics, Biology, Computer Science, Science or similar area",
+            "At least 10 years of experience in synchrotron light source science",
+            "Curiosity, good communication skills and ability to work in large multi-disciplinary teams",
+            "Those not in possession of a REAL ID-compliant document will not be permitted to access the site which includes access to the Laboratory for interviews",
+            "Department of Energy laboratory, Brookhaven National Laboratory requires employees to obtain and maintain a DOE Uncleared Personal Identity Verification (UPIV) credential in accordance with Homeland Security Presidential Directive 12 (HSPD-12) requirements",
+            "The credentialing process is completed as part of onboarding and enables access to DOE facilities and information systems",
+            "As a condition of employment, the selected candidate must be able to obtain and maintain a UPIV credential",
+            "These requirements are established under DOE Order 206.2 Chg",
+            "2, Identity, Credential, and Access Management (ICAM- Identity, Credential, and Access Management (ICAM)), and DOE Order 473.1A- Physical Protection Program- Physical Protection Program"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The full salary range for this position is $154,250.00 - $235,000.00 / year",
+            "Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "It is therefore essential to provide advanced tools making use of artificial intelligence and machine learning for data acquisition and data analysis and to work with the diverse user community of the NSLS-II in developing these tools",
+            "We are looking to recruit a scientist to work on Ai and machine learning developments for synchrotron applications, notably for applications where data analysis and management coupled with automated data collection would provide a large benefit to the experimental process",
+            "The work will take place the Data Science and Systems Integration (DSSI) in close collaboration with beamlines beamline groups",
+            "Development of innovative machine-learning based algorithms for data acquisition and online data processing",
+            "Organize data, meta-data standards, provide mechanisms for distributing data and analysis tools for integration of NSLS-II results in a broader context",
+            "Conduct original research project exploiting machine learning for synchrotron applications with NSLS-II science programs",
+            "Work with scientists and engineers at NSLS-II, user groups and research sponsors to disseminate knowledge about the use of artificial intelligence and machine learning for light source science applications"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=zREAo-mMpEAJmjZKAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNsQrCMBBAce0nON1csFHBRSd1EEVcnJzKJRxtbJoLuVPrv_ix2sHlDQ8er_hMisX2CHvu00NRPUcMcHWeonpRmMGJLQhhdi1whANzE2i6aVWTrI0RCVUjY-gqx73hSJYHc2crI2ppMVMKqFQvV_OhSrEpy11m7lp8UoTLf3lGyxmV8xv8T9MLbpy7L7SQQUyfAAAA&shmds=v1_Ac3VAowyrieq0wK5YGTIJwnEiwCRgWEi8QJ8b6KBg_v6uVdAng&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=zREAo-mMpEAJmjZKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50cad0a7667fab85c5231/images/KsztbhOhcGfE78639UdlonKQgIi8-cH-0Y6IZwgH7zg.jpeg",
+      "extensions": [
+        "21 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/ai-computational-scientist-at-brookhaven-national-laboratory-4468867504",
+      "job_title": "AI Computational Scientist",
+      "description": "The NSLS-II beamlines provide world-class facilities for research. The increased brilliance of the source, along with automation for data analysis has led to a significant increase in the acquisition speed and the amount of data which must be processed and analyzed by NSLS-II users. It is therefore essential to provide advanced tools making use of artificial intelligence and machine learning for data acquisition and data analysis and to work with the diverse user community of the NSLS-II in developing these tools.\n\nNSLS-II has initiated AI pilot programs to further the development of these techniques. We are looking to recruit a scientist to work on Ai and machine learning developments for synchrotron applications, notably for applications where data analysis and management coupled with automated data collection would provide a large benefit to the experimental process.\n\nThe work will take place the Data Science and Systems Integration (DSSI) in close collaboration with beamlines beamline groups.\n\nEssential Duties And Responsibilities\n\n\n\nDevelopment of innovative machine-learning based algorithms for data acquisition and online data processing.Organize data, meta-data standards, provide mechanisms for distributing data and analysis tools for integration of NSLS-II results in a broader context.Conduct original research project exploiting machine learning for synchrotron applications with NSLS-II science programs.Work with scientists and engineers at NSLS-II, user groups and research sponsors to disseminate knowledge about the use of artificial intelligence and machine learning for light source science applications.\n\nRequired Knowledge, Skills, And Abilities\n\nPhD degree in Physics, Biology, Computer Science, Science or similar areaAt least 10 years of experience in synchrotron light source science.Curiosity, good communication skills and ability to work in large multi-disciplinary teams.\n\nPreferred Knowledge, Skills, And Abilities\n\nDemonstration of the deployment machine (deep) learning developments ideally for synchrotron data analysis or similarStrong programming skills in Python GPU programming (CUDA, OpenCL) is a plus.Experience in working with collaborative open-source projects for science and/or engineering.\n\nBrookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $154,250.00 - $235,000.00 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group.\n\nBrookhaven National Laboratory is committed to employee success and we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Review more information at BNL | Benefits Program\n\nBrookhaven National Laboratory requires all non-badged personnel including visitors to produce a REAL-ID or REAL-ID compliant documentation to access Brookhaven National Laboratory – view more information at www.bnl.gov/real-id. This is due to nationwide identification requirements for federal site access as required by the federal REAL ID Act. Those not in possession of a REAL ID-compliant document will not be permitted to access the site which includes access to the Laboratory for interviews.\n\nAs a U.S. Department of Energy laboratory, Brookhaven National Laboratory requires employees to obtain and maintain a DOE Uncleared Personal Identity Verification (UPIV) credential in accordance with Homeland Security Presidential Directive 12 (HSPD-12) requirements. The credentialing process is completed as part of onboarding and enables access to DOE facilities and information systems. As a condition of employment, the selected candidate must be able to obtain and maintain a UPIV credential. These requirements are established under DOE Order 206.2 Chg. 2, Identity, Credential, and Access Management (ICAM- Identity, Credential, and Access Management (ICAM)), and DOE Order 473.1A- Physical Protection Program- Physical Protection Program.\n\nAbout Us\n\nBrookhaven National Laboratory (www.bnl.gov) delivers discovery science and transformative technology to power and secure the nation’s future. Brookhaven Lab is a multidisciplinary laboratory with seven Nobel Prize-winning discoveries, 37 R&D 100 Awards, and more than 70 years of pioneering research. The Lab is primarily supported by the U.S. Department of Energy’s (DOE) Office of Science. Brookhaven Science Associates (BSA) operates and manages the Laboratory for DOE. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University. BSA salutes our veterans and active military members with careers that leverage the skills and unique experience they gained while serving our country, learn more at BNL | Opportunities for Veterans at Brookhaven National Laboratory.\n\nEqual Opportunity/Affirmative Action Employer\n\nGuided by our core values of integrity, responsibility, innovation, respect, and teamwork, Brookhaven Science Associates is an Equal Employment Opportunity Employer-Vets/Disabled. We are committed to fostering a respectful and collaborative environment that fuels scientific discovery. We consider all qualified applicants without regard to any characteristic protected by law. All qualified individuals are encouraged to apply. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. *VEVRAA Federal Contractor\n\nBSA employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven. The full text of the Order may be found at: https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-computational-scientist-at-brookhaven-national-laboratory-4468867504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=637868455560413477&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4023-e1236f8499da1b24b1427e0b08024ebc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Swiftcruit",
+          "link": "https://www.swiftcruit.ai/jobs/ai-computational-scientist-400218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBDb21wdXRhdGlvbmFsIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IkJyb29raGF2ZW4gTmF0aW9uYWwgTGFib3JhdG9yeSIsImh0aWRvY2lkIjoielJFQW8tbU1wRUFKbWpaS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduZENiRFV5TUZwWFozaFVWVGhIUjFGNlUySkdkak41VlZadWJsTmhXRmxaY2xKMlozcFlWVTl4UXpoYVEwcENZMlJ0ZEVkcVJGUkJWbkJJVDNNdFYwSTRkVzEyV0RCUlEyZEZlVjlCVkhseFRWVk9URTVhTWw5bGRrRXhUVk5FYlRNNFpuTXRZa1pzWkdvME5XMU5iR2szWVRaQllXMU5kVlJNVDFaM1JqTkVNRkpvVG5nU0YzUm5lbXhoYjJJMlQwOVhTM2RpYTFCNFREWmtjMUV3R2lKQlNFNHdSVGRIWldkM1oyMVVYMmMxU2tJeFQwSTNOR2R1VkZSU1pFSkpNbkYzIiwiZmN2IjoiMyIsImZjX2lkIjoielJFQW8tbU1wRUFKbWpaS0FBQUFBQT09In0="
+    },
+    {
+      "title": "Computational Scientist",
+      "company_name": "Roswell Park Cancer Institute",
+      "location": "Buffalo, NY",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Education and Experience",
+            "Master's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of two (2) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics; or",
+            "Bachelor's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of four (4) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics",
+            "Degrees must be conferred by an accredited school, college, or university, or by an institution recognized by Roswell Park Comprehensive Cancer Center and/or Health Research Incorporated as adhering to acceptable educational standards",
+            "PhD in relevant field",
+            "Experience with electronic health record data, oncology and EHR terminology, large language models/transformers, deployment of clinical NLP tools in secure enterprise or research computing environments, and research experience: clinical research experience, grants, publication-writing experience",
+            "Compliance with funding requirements such as time and effort reporting, grant deliverables, and contract deliverables is required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Starting annual salary is $129, 828 which includes a comprehensive benefits package"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Works in concert with other departments throughout the organization and serves as a subject matter expert in the area of ML/AI in oncology",
+            "Promotes engagement of the research community, facilitates oncology research, use-case development, assists with user support, developing, and delivering advanced training",
+            "This role is primarily centered on Clinical Natural Language Processing (NLP): developing, evaluating, and deploying methods to transform unstructured clinical text, radiology reports, and pathology reports into high-quality structured data for research use",
+            "This role provides technical leadership in clinical NLP workflows including named entity recognition, clinical concept normalization to standard terminologies, and semantic classification of concepts, documents, and events",
+            "Additionally, the position collaborates with clinical, informatics, data science, and information technology teams to design annotation strategies, build and benchmark models, support secure and compliant data pipelines, and translate clinical language data into actionable insights for oncology research"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=sJE6fJvpYY6jizZdAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAwAUFz7CU6Zpd6J4KKbHUQHEZ2cSnqk7ek1KZcU-y_-rLi87RXfReEqGcbJ0KIwJniESGxRDdZwkQaUMIcehOEk0iVaHnqzUffeqybX6T8GF2TwwtTI7F_S6J9ae8w0JjSqt7vN7EbuVuVd9EMpwQ3zGyrkQBnOrBZtMoLIcJzaFpOUcH3-AN5p6yOeAAAA&shmds=v1_Ac3VAowIJYpC3wSfJrpvUFWY1l121GknK3htcCEQeX2tg9t_aw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=sJE6fJvpYY6jizZdAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://talents.vaia.com/companies/roswell-park-cancer-institute/buffalo/computational-scientist-132511709/",
+      "job_title": "Computational Scientist",
+      "description": "Title:\nComputational Scientist\nJob Type:\nRegularCompany:\nHealth Research, Inc. (HRI) Roswell Park DivisionDepartment:\nBiostatistics & BioinformaticsTime Type:\nFull timeWeekly Hours:\n40\nFTE:\n1Shift:\nFirst Shift (United States of America)\n\nSummary:\nAre you passionate about applying AI, machine learning, and NLP to solve complex challenges in oncology? Join our team and make an impact.\n\nThe Computational Scientist promotes machine and deep learning artificial intelligence (AI) research through Roswell Park and provides senior level AI technical expertise as required to facilitate demand within the Biomedical Research Informatics Shared Resource. Works in concert with other departments throughout the organization and serves as a subject matter expert in the area of ML/AI in oncology. Promotes engagement of the research community, facilitates oncology research, use-case development, assists with user support, developing, and delivering advanced training.\n\nThis role is primarily centered on Clinical Natural Language Processing (NLP): developing, evaluating, and deploying methods to transform unstructured clinical text, radiology reports, and pathology reports into high-quality structured data for research use. This role provides technical leadership in clinical NLP workflows including named entity recognition, clinical concept normalization to standard terminologies, and semantic classification of concepts, documents, and events.\n\nAdditionally, the position collaborates with clinical, informatics, data science, and information technology teams to design annotation strategies, build and benchmark models, support secure and compliant data pipelines, and translate clinical language data into actionable insights for oncology research.\n\nStarting annual salary is $129, 828 which includes a comprehensive benefits package.\n\nQualifications:\nRequired Education and Experience\n\n1. Master's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of two (2) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics; or\n2. Bachelor's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of four (4) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics.\n\nNOTE:\nDegrees must be conferred by an accredited school, college, or university, or by an institution recognized by Roswell Park Comprehensive Cancer Center and/or Health Research Incorporated as adhering to acceptable educational standards.\n\nPreferred Qualifications\n\nPhD in relevant field. Experience with electronic health record data, oncology and EHR terminology, large language models/transformers, deployment of clinical NLP tools in secure enterprise or research computing environments, and research experience: clinical research experience, grants, publication-writing experience.\n\nEqual Employment Opportunity Statement\n\nRoswell Park Cancer Institute Corporation (RPCIC) and Health Research Inc. (HRI) Roswell Park Division believe that all persons are entitled to equal employment opportunities, and we do not discriminate against our employees, applicants or job seekers because of their race, color, religion, sex, sexual orientation, gender identity or expression, national origin, creed, age, disability, pregnancy-related condition, military or veteran status, marital or familial status, domestic violence victim status, citizenship status, genetic information, individual's relationship or association with a member of a protected category or any other protected group status as defined by law.\n\nAffirmative Action/Equal Opportunity Employer/Qualified Individuals with Disabilities/Qualified Protected Veterans\n\nReasonable Accommodation Request\n\nRPCIC and HRI are committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please email HR-BenefitsandLeaves@roswellpark.org and let us know the nature of your request and your contact information.\n\nOur Core Values\n\nRPCIC and HRI are committed to providing an environment where patients, families, employees and community are treated with courtesy and respect. We support an inclusive environment that nurtures the talents, skills and abilities of each individual to embody and reflect our core values: Innovation, Integrity, Teamwork, Commitment, Compassion and Respect.\n\nGrant Funding\n\nThis is a grant-funded position. Compliance with funding requirements such as time and effort reporting, grant deliverables, and contract deliverables is required.\n\nE-Verify Employer\n\nHealth Research Inc. (HRI) Roswell Park Division participates in the E-Verify program.",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/roswell-park-cancer-institute/buffalo/computational-scientist-132511709/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.com",
+          "link": "https://www.career.com/job/roswell-park-comprehensive-cancer-center/computational-scientist/j202411051425388586261?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IlJvc3dlbGwgUGFyayBDYW5jZXIgSW5zdGl0dXRlIiwiaHRpZG9jaWQiOiJzSkU2Zkp2cFlZNmppelpkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWxaclZGaGxjMlI0TFVkSmVFWkJjVlJtYzIxSVlYVlBhbkZ0Y3pSd1ZXMDFVbXR3TmxkWWIwMVBZbUZHUnpkWFVWRjZRMWhwYmxaUWFHdDVTRzVXUW5GTGJYQXhkREYxUlVGSlV6VjFiRVpTWTNoVFMwZFpPVTV0VTFKTGFXMU1aRE5FYnpkamFHaGhUemx2ZFc5blpHODNTVEJJVmxabFRXSjVkRVV6YVVKMGNWVnZZbXdTRjNSbmVteGhiMkkyVDA5WFMzZGlhMUI0VERaa2MxRXdHaUpCU0U0d1JUZElMWHBvZGxoUlkwVXRVRE10V25Sd1RVMUdUbU4yTFV4T1ltRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJzSkU2Zkp2cFlZNmppelpkQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Computational Scientist I - Scalable Services",
+      "company_name": "Broad Institute",
+      "location": "Burlington, MA",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in Computer Science, Mathematics, Bioinformatics, Physics or a related field",
+            "0+ years of experience",
+            "Strong computational and data analysis skills are required",
+            "Excellent oral and written communication skills",
+            "Ability to solve complex problems individually and as part of a team",
+            "Experience developing software in one or more modern programming languages"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The expected base pay range for this position as listed above is based on a 40 hour per week schedule",
+            "Broad provides pay ranges representing its reasonable and good faith estimate of what the organization reasonably expects to pay for a position at the time of posting",
+            "Actual compensation will vary based on factors including but not limited to, relevant skills, experience, education, qualifications, and other factors permissible by law",
+            "At Broad, your base pay is just one part of a comprehensive total rewards package",
+            "From day one, this role offers a competitive benefits package including medical, dental, vision, life, and disability insurance; a 401(k) retirement plan; flexible spending and health savings accounts; at least 13 paid holidays; winter closure; paid time off; parental and family care leave; and an employee assistance program, among other Broad benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As part of Broad Scalable Services, you will bridge the gap between initial research discovery and production-level computational pipelines",
+            "While the initial focus of this role will be on the development and optimization of emerging single-cell products, the successful candidate will be expected to contribute to a diverse portfolio of genomic and multiomic initiatives",
+            "Design, implement, and maintain scalable computational pipelines for high-throughput genomic data, ensuring high performance and reliability",
+            "Collaborate closely with experimentalists and product development teams to define computational requirements for new genomic assays and technologies",
+            "Lead the computational analysis of complex datasets to validate product performance, identify technical artifacts, and refine analytical methods",
+            "Act as a technical bridge between research laboratories and software engineering teams to ensure seamless integration of biological insights into automated workflows"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=OTOMcBwii8MImlmmAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBAA8doneFqvoo0IXvRkFaSCpz6gJHFpI-luyG6lL_KdtpeBmcMUv1Vxv_GQRrUamGyExgckDaJQw342G62LCA3mb_Aoc3uyA0GbfQ9M8GDuIq4vvWqSszEisexk2fnS82CY0PFkPuxkQSu9zZiiVWyPp8NUJuq2myqzfUNNokFHRQgE1ZhjoE6ZdvC6_gHFubwQqQAAAA&shmds=v1_Ac3VAoxi5-iJ1BNNyBLUmEmRkFvfVuBos_Cl4vAGTaxXyUhHUQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=OTOMcBwii8MImlmmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAkFBMVEX___8AAACtra2hudLz8_Pt7e2wsLC-zN7S0tLw8PDj4-P8_Py7u7vb29vq6uoAVZqmpqZulbxubm7g5-8AUJcdHR2Dg4N1dXUAWZyNjY3JyckATJZiYmI1NTVoaGicnJyBo8VNf7CXss6xx9vq8fbR3Og-d6sAYKAhaaSKqsnH1uVLS0thjbgtLS0PDw9AQEBVH-8XAAAB3UlEQVRIie1S2ZKjMAwUmMOctgkJh5PhSgIkM5v__7tt4-R992lrq-gqKFl0S3Ijoh07duz4L3Ad2YZxouuNKHCl5ESt68rUfPa7Jth4HFnKkZaZFR6EqGuh79M0aEXkOVH0gsThXnUG_RIn6SUB7_xl2LLI46Kwwnmo64WNdVnODGcHXcE5xqhBieMh1eEcNVsYnEyNbhOWi1LrLIR63EIrPGOqY07pkdKnoXhOQp3fyI8wczbhUvfrt1aPdTGjktM1Z9T-OZ0rn7pqm8rxqaD8-BFGVjivte6voy7F8LAd41-mo8SA6YsssX1WJyd7C_mno1qV7kN2Y-87EkbDHX-MRzmOTUXGD7d6C5_SCmfV9_U6rY-Jmfv4_gl2onwGFb9kifui3PB92ANXs6_q7eo66_7AdFneYU4auC46tYGbEJceeV2DYxDE5lPqB4E0oRUKxQb9_WD3zZw_xkHf1TAuQgzhDebkLUoTXrw1a9RSxrFGWJ4g2RKcfJdb4TLU88zYUpZihKO4eCfBKTBR0qAAJm2wOg2ZFUTCa-ysh1IAemahKpUVcumidWF5mxDhaRPCJK_LN6EXWkwhJQfw8bM4oWaLwEPn2MQRfmaKtYha82R_Y8WOHTt2_Ev8BnPjIOCclED1AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://talents.vaia.com/companies/broad-institute/burlington/computational-scientist-i-scalable-services-111933300/",
+      "job_title": "Computational Scientist I - Scalable Services",
+      "description": "Description & Requirements\n\nThe Broad Institute of MIT and Harvard is seeking a talented and motivated Computational Scientist to join Broad Scalable Services. In this role, you will be at the forefront of translating cutting-edge genomic research into robust, scalable products that empower the global scientific community.\n\nAs part of Broad Scalable Services, you will bridge the gap between initial research discovery and production-level computational pipelines. While the initial focus of this role will be on the development and optimization of emerging single-cell products, the successful candidate will be expected to contribute to a diverse portfolio of genomic and multiomic initiatives.\n\nKey Responsibilities\n\nDesign, implement, and maintain scalable computational pipelines for high-throughput genomic data, ensuring high performance and reliability.Collaborate closely with experimentalists and product development teams to define computational requirements for new genomic assays and technologies.Lead the computational analysis of complex datasets to validate product performance, identify technical artifacts, and refine analytical methods.Act as a technical bridge between research laboratories and software engineering teams to ensure seamless integration of biological insights into automated workflows.Requirements\n\nPhD in Computer Science, Mathematics, Bioinformatics, Physics or a related field.0+ years of experience.Strong computational and data analysis skills are required.Excellent oral and written communication skills.Ability to solve complex problems individually and as part of a team.Experience developing software in one or more modern programming languages.The expected base pay range for this position as listed above is based on a 40 hour per week schedule. Broad provides pay ranges representing its reasonable and good faith estimate of what the organization reasonably expects to pay for a position at the time of posting. Actual compensation will vary based on factors including but not limited to, relevant skills, experience, education, qualifications, and other factors permissible by law. At Broad, your base pay is just one part of a comprehensive total rewards package. From day one, this role offers a competitive benefits package including medical, dental, vision, life, and disability insurance; a 401(k) retirement plan; flexible spending and health savings accounts; at least 13 paid holidays; winter closure; paid time off; parental and family care leave; and an employee assistance program, among other Broad benefits.\nThe Broad Institute is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, disability, protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.\nShould you need a reasonable accommodation to complete the application or interview process, please contact recruiting@broadinstitute.org for assistance.",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/broad-institute/burlington/computational-scientist-i-scalable-services-111933300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/computational-scientist-i-scalable-services-broad-institute-burlington--lifeworq-db6f0592-1f97-4590-9b95-4838b26bd42c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCBJIC0gU2NhbGFibGUgU2VydmljZXMiLCJjb21wYW55X25hbWUiOiJCcm9hZCBJbnN0aXR1dGUiLCJodGlkb2NpZCI6Ik9UT01jQndpaThNSW1sbW1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVTlHZVcxRU5tVjZaMGx2UW1GU2FubFpWbEZWYzJWa2RrSk5ibGxTTkRrMWREUTFPRUZDZVRNemJXdHRUSEJzVlZVdFIzcGpWblpRT0ZsM1lWRlRVV3MwWlhocWIzTnZRMkpMUkVaVVRtbFFiMk4xTVV4SFkxWkJaMXB1WkhoTmEwNTBORWMwUzNOTWRYQjZPSEE0YW5wSlZGaHphVVp2UlVOeFRFTjBkbDlFTVdSMUxWQVNGM1JuZW14aGIySTJUMDlYUzNkaWExQjRURFprYzFFd0dpSkJTRTR3UlRkR1dWSnpPRVl6VlRsc05YUXpVRVY2Vm5kVFlXZEpNak5EWVRWbiIsImZjdiI6IjMiLCJmY19pZCI6Ik9UT01jQndpaThNSW1sbW1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Computational Materials Scientist",
+      "company_name": "Commonwealth Fusion Systems",
+      "location": "Devens, MA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate would have a background in both computational materials simulation methods, and materials science and/or physical chemistry",
+            "In collaboration with design and analysis engineers, develop material design curves methodology capable of determining statistically significant minimum properties for tokamak applications such as low and high cycle fatigue, dielectric breakdown, radiation effects",
+            "Materials Science and Engineering, Applied Physics, Applied Mathematics, Physical Chemistry, Computer Science or related field",
+            "Minimum of 7+ years experience in experimental or computational materials science",
+            "Experience using computational materials science tools and integrated computational materials engineering (ICME) tools to answer specific scientific or engineering questions across length scales",
+            "Implementation and/or authorship of codes for calculation and analyses of material properties and microstructures",
+            "Predictive models for material properties and microstructure evolution in extreme environments",
+            "Validation of models with experimental data or physical mechanism bounds",
+            "Understanding process-structure-properties-performance principles and fundamental mechanisms responsible for property changes in extreme environments",
+            "Understanding of the underlying models that enable materials simulation methods across length scales including; Atomistic, molecular dynamics, density functional theory, Monte Carlo, phase field, crystal plasticity, dislocation dynamics, and computational thermodynamics, finite element",
+            "Scientific computing, numerical algorithms, FEM, FD, FVM, BEM, eigen/linear/PDE solvers, convex optimization, computational geometry, advanced statistical methods",
+            "High-performance computing: distributed processing, message parsing interface, gpu acceleration",
+            "Understanding of the sensitivity to uncertainty in the inputs and outputs of those calculations or models",
+            "Demonstrated ability to work effectively cross-functionally",
+            "Excellent organizational skills including prioritization of multiple concurrent projects",
+            "Ability to break down complex problems into smaller deliverables that add value",
+            "Experience displaying complex quantitative data in a simple, intuitive format and presenting findings clearly and concisely",
+            "Experience making and justifying decisions in fast paced engineering settings",
+            "Written and verbal communication with technical teams",
+            "Taking under-defined problems and driving them to a state of completion",
+            "Operating in a flexible, service-oriented engineering domain team",
+            "Perform activities such as typing and sitting for extended periods of time",
+            "Dedication to safety to mitigate industrial hazards that may include heat, cold, noise, fumes, strong magnets, lead (Pb), high voltage, and cryogenics",
+            "Willingness to travel or work required nights/weekends/on-call occasionally",
+            "Travel less than 10%"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary range for this full-time position + equity + benefits",
+            "The actual salary will depend on level, location, qualifications, and experience",
+            "The range displayed on each job posting reflects new hire salaries for the position across all US locations",
+            "Competitive compensation with equity",
+            "13 Company-wide Holidays",
+            "Flexible vacation days",
+            "10 sick days",
+            "Generous parental leave policy",
+            "Health, dental, and vision insurance",
+            "401(k) with employer matching",
+            "Professional growth opportunities",
+            "Team-building activities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Materials and Processing (M&P) Department at CFS supports design engineers, supply chain, and manufacturing by selecting materials, unambiguously defining materials and processing routes, validating and measuring those materials and their properties, and conducting R&D to develop new materials and processes to enable fusion power deployment",
+            "These devices pose unique materials challenges including neutron fluxes produced by deuterium-tritium fusion, high heat loads, molten salt coolant systems, complex component topologies, high magnetic fields, and high mechanical loading in cryogenic conditions",
+            "To support this mission, the CFS Materials Department is seeking a Computational Materials Scientist with expertise in process-structure-properties relationships, physics informed modeling, and materials in extreme environments",
+            "The responsibilities will include physics-based modeling, synthetic data generation, and first-principles modeling and simulation to support development of CFS materials",
+            "They will collaborate with other engineers and subject matter experts to identify highest sensitivity parameters and prioritize experimental work for greatest impact to decreasing uncertainty",
+            "Use and build computational toolsets, workflows, and methods to generate predicted material properties in extreme environments including temperature, radiation, and magnetic field with uncertainty bounds informed by physical mechanisms",
+            "Identify chemical and microstructural features that strongly impact material performance in extreme environments, and quantify the relationships for use in optimization for engineering application",
+            "Inform design of experiments for materials in extreme environments, including simultaneous corrosion, stress, and irradiation",
+            "As well as magnetic field, electric field, and high temperature",
+            "Identify gaps in knowledge and experimental capability which can be filled via simulation or model building",
+            "Assist in benchmarking and creating metrics for material property variability and sources of variability in manufacturing, fabrication, assembly, and processes",
+            "Collaborate with other M&P Engineers to create workflows to enable the appropriate capture, storage, data visualization and analysis of data generated within the materials domain",
+            "Support writing materials standard specifications",
+            "Stay current with the evolving technology and modeling techniques"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=1qQWJBsBayAYk1QwAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE63KtqI4KKDiKIgdOoDlDQcbSS5C7mr1kfyLW2Xf_z-4rcozjWS5wxXjmlQq57JBqisYvY2CNTOI6kXhS08uQVBm10PTPBg7gIuT71qkqMxIqHsZCZc6TgaJmx5NC9uZU4jvc2YwiQ3-8NuLBN169W0jUwftEF7uA8y7aH-imIU8AQ3fCPJBqrLH95crCGsAAAA&shmds=v1_Ac3VAoxAfU19NOyaK6ofH5f2M20J3rWONOO_45T2Rc9BdW__9w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=1qQWJBsBayAYk1QwAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50cad0a7667fab85c5231/images/6cYSkx6k6gP4yMnUfPdlmxzu4g7d1BQMxb9fb0qE8Hs.jpeg",
+      "extensions": [
+        "16 days ago",
+        "152K–230K a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=93fee34034e3812a",
+      "job_title": "Senior Computational Materials Scientist",
+      "description": "About Commonwealth Fusion Systems:\n \n \n \n  Commonwealth Fusion Systems is on a mission to deliver the urgent transition to fusion energy.\n \n \n \n  Combining decades of research, top talent, and new technologies, we’re designing and building commercially viable fusion power plants. And we're working with policymakers, suppliers, and many others to build the energy industry of the future.\n \n \n \n  We’re in the best position to make it happen. Since 2018, we’ve raised $4 billion of capital, making us the largest and leading fusion company in the world.\n \n \n \n  Now we’re looking for more thinkers, doers, builders, and makers to join us. People who’ll bring new perspectives, solve tough problems, and thrive as part of a team.\n \n \n \n  If that’s you and this role fits, we want to hear from you.\n \n \n \n  \n\n    Join the power movement as a Senior Computational Materials Scientist\n \n \n  The Materials and Processing (M&P) Department at CFS supports design engineers, supply chain, and manufacturing by selecting materials, unambiguously defining materials and processing routes, validating and measuring those materials and their properties, and conducting R&D to develop new materials and processes to enable fusion power deployment. M&P at CFS is organized around three primary thrusts: engineering, test and characterization, and development programs. The work is undertaken in support of delivering SPARC, the net energy tokamak under construction in Devens, MA, and ultimately in designing the ARC fusion power plant. These devices pose unique materials challenges including neutron fluxes produced by deuterium-tritium fusion, high heat loads, molten salt coolant systems, complex component topologies, high magnetic fields, and high mechanical loading in cryogenic conditions.\n\n To support this mission, the CFS Materials Department is seeking a Computational Materials Scientist with expertise in process-structure-properties relationships, physics informed modeling, and materials in extreme environments. The ideal candidate would have a background in both computational materials simulation methods, and materials science and/or physical chemistry. The responsibilities will include physics-based modeling, synthetic data generation, and first-principles modeling and simulation to support development of CFS materials. They will collaborate with other engineers and subject matter experts to identify highest sensitivity parameters and prioritize experimental work for greatest impact to decreasing uncertainty\n \n What you'll do:\n \n  Use and build computational toolsets, workflows, and methods to generate predicted material properties in extreme environments including temperature, radiation, and magnetic field with uncertainty bounds informed by physical mechanisms\n  Identify chemical and microstructural features that strongly impact material performance in extreme environments, and quantify the relationships for use in optimization for engineering application\n  Inform design of experiments for materials in extreme environments, including simultaneous corrosion, stress, and irradiation. As well as magnetic field, electric field, and high temperature.\n  In collaboration with design and analysis engineers, develop material design curves methodology capable of determining statistically significant minimum properties for tokamak applications such as low and high cycle fatigue, dielectric breakdown, radiation effects.\n  Identify gaps in knowledge and experimental capability which can be filled via simulation or model building\n  Assist in benchmarking and creating metrics for material property variability and sources of variability in manufacturing, fabrication, assembly, and processes\n  Collaborate with other M&P Engineers to create workflows to enable the appropriate capture, storage, data visualization and analysis of data generated within the materials domain.\n  Support writing materials standard specifications\n  Stay current with the evolving technology and modeling techniques\n \n What we’re looking for:\n \n  Materials Science and Engineering, Applied Physics, Applied Mathematics, Physical Chemistry, Computer Science or related field\n  Minimum of 7+ years experience in experimental or computational materials science\n  Experience using computational materials science tools and integrated computational materials engineering (ICME) tools to answer specific scientific or engineering questions across length scales\n  Implementation and/or authorship of codes for calculation and analyses of material properties and microstructures\n  Predictive models for material properties and microstructure evolution in extreme environments\n  Validation of models with experimental data or physical mechanism bounds\n  Understanding process-structure-properties-performance principles and fundamental mechanisms responsible for property changes in extreme environments\n  Understanding of the underlying models that enable materials simulation methods across length scales including; Atomistic, molecular dynamics, density functional theory, Monte Carlo, phase field, crystal plasticity, dislocation dynamics, and computational thermodynamics, finite element\n  Scientific computing, numerical algorithms, FEM, FD, FVM, BEM, eigen/linear/PDE solvers, convex optimization, computational geometry, advanced statistical methods\n  High-performance computing: distributed processing, message parsing interface, gpu acceleration\n  Understanding of the sensitivity to uncertainty in the inputs and outputs of those calculations or models\n  Demonstrated ability to work effectively cross-functionally\n  Excellent organizational skills including prioritization of multiple concurrent projects\n  Ability to break down complex problems into smaller deliverables that add value\n \n Bonus points for: \n \n  Experience displaying complex quantitative data in a simple, intuitive format and presenting findings clearly and concisely\n  Experience making and justifying decisions in fast paced engineering settings\n  Written and verbal communication with technical teams\n  Taking under-defined problems and driving them to a state of completion\n  Operating in a flexible, service-oriented engineering domain team\n \n Must-have Requirements: \n \n  Perform activities such as typing and sitting for extended periods of time\n  Dedication to safety to mitigate industrial hazards that may include heat, cold, noise, fumes, strong magnets, lead (Pb), high voltage, and cryogenics\n  Willingness to travel or work required nights/weekends/on-call occasionally. Travel less than 10%\n \n \n  Salary range for this full-time position + equity + benefits. The actual salary will depend on level, location, qualifications, and experience. The range displayed on each job posting reflects new hire salaries for the position across all US locations. Benefits include:\n \n \n \n  Competitive compensation with equity\n \n \n  13 Company-wide Holidays\n \n \n  Flexible vacation days\n \n \n  10 sick days\n \n \n  Generous parental leave policy\n \n \n  Health, dental, and vision insurance\n \n \n  401(k) with employer matching\n \n \n  Professional growth opportunities\n \n \n  Team-building activities\n \n Does your experience not meet all of our posted requirements? Studies have shown that some people are less likely to apply to positions unless they meet every listed requirement. We are committed to building a diverse, inclusive, flexible, and collaborative environment, so if you want to help us transition the world to clean and affordable electricity, and don’t meet all posted requirements for a particular role, we’d still love to hear from you. We can sometimes be flexible enough to shift responsibilities for the right person, or otherwise identify open or upcoming roles that may better fit your professional background.\n\n\n \n  \n\n \n \n  #LI-Hybrid\n \n \n \n  \n\n   At CFS, we excel in fast-paced environments, driven by our values of integrity, execution, impact, and self-critique. As we grow, we’re eager to bring on mission-driven folks who offer diverse perspectives and fresh ways to tackle challenges.\n \n \n \n  We value diversity deeply and are proud to be an equal opportunity employer by choice. We consider all qualified applicants equally, regardless of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law.\n \n \n \n  This role requires compliance with U.S. laws concerning the export of controlled or protected technologies or information (collectively, “Export Control Laws\"). Any offer of employment will be contingent on the need for compliance with such Export Control Laws.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=93fee34034e3812a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Fusion Energy Base",
+          "link": "https://www.fusionenergybase.com/jobs/4590?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-computational-materials-scientist-devens-ma--6b9a74e7-81ba-4a3b-85f8-3404494c97eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lever",
+          "link": "https://jobs.lever.co/cfsenergy/837fd8a9-50a7-4646-864b-5afc9829cf87?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/commonwealth-fusion-systems/Job/Senior-Computational-Materials-Scientist/-in-Devens,MA?jid=e607faae9d298e06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Climatebase",
+          "link": "https://jobs.climatebase.org/job/77767013/senior-computational-materials-scientist?source=company_page&queryID=7b855fec2500534462561b6a2518dd42&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Work In Green",
+          "link": "https://workingreen.jobs/offers/senior-computational-materials-scientist-at-commonwealth-fusion-systems-devens-ma?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Breakthrough Energy Ventures",
+          "link": "https://bevjobs.breakthroughenergy.org/companies/commonwealth-fusion-systems-2/jobs/97043988-senior-computational-materials-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29tcHV0YXRpb25hbCBNYXRlcmlhbHMgU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiQ29tbW9ud2VhbHRoIEZ1c2lvbiBTeXN0ZW1zIiwiaHRpZG9jaWQiOiIxcVFXSkJzQmF5QVlrMVF3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtKTE9FRlpUbUpvVG5GVllVcDBWbFEyYmtsaFYzWmlVbE53VVdocE4zaFlNMEpIUjI1cGVtUXpaMnBSYldFMFZuaFpha1k1UlZjd1V6TnFlamRPYmpkbFRsRlZVMkoyT0haVlowUjNSR2xwTTIwMVRIZzFkR2t3YkdWUGNrVmlZakZHYTFRelZtY3pXVUZKTjJwNU9IaHNRaTFNZUhOM1VtdHllV3hhZW5vMU5GQnFRbEVTRjNSbmVteGhiMkkyVDA5WFMzZGlhMUI0VERaa2MxRXdHaUpCU0U0d1JUZEZiMVpoYTB4d1FWOVBYM2xxTWt4U1ZHUklNa1ZRVm5nNE9HbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiIxcVFXSkJzQmF5QVlrMVF3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Computational and Experimental Scientist",
+      "company_name": "Clera Inc.",
+      "location": "Anywhere",
+      "via": "Jobgether",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Typically 3 to 11 years of relevant experience, including experience in biotech or scientific software roles such as solutions engineering, customer success, or a hybrid operator position",
+            "Hands-on experience building or operating protein design, discrete diffusion, protein language, or structure prediction systems within an experimental design-make-test cycle",
+            "Practical experience with tools such as ESM, ProtT5, RFdiffusion, BindCraft, or equivalent approaches",
+            "Direct experience writing and debugging production methods for Hamilton, Tecan, Opentrons, or equivalent liquid-handling systems",
+            "Hands-on BLI or SPR kinetic curve fitting, assay design, and diagnosis of assay failure modes",
+            "Ability to code robot methods and analyze kinetic data using Python or equivalent scripting tools",
+            "Understanding of biology, biochemistry, receptor biology, protein structure, and scoring functions, with the ability to investigate when predictions do not match experimental results",
+            "Experience completing a full loop from sequence design through synthesis or expression and kinetics measurement to model updates and iteration",
+            "Comfort with scientific customer engagement, including personalized outbound communication and navigating buying processes across organizations of different sizes"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Consulting engagement: $3,000 to $5,000 per month",
+            "Full-time conversion base salary: $80,000 to $200,000 annually, depending on experience, with equity and deal-contingent upside"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Join a lean team at an early-stage AI and biotech company, owning computational and experimental work across protein design and an inference platform",
+            "You will connect sequence design, laboratory testing, and model improvement in an end-to-end design-make-test loop",
+            "Improve and extend discrete diffusion and protein folding models, including model refinements, attention mechanisms, and hierarchical reasoning",
+            "Operate and scale an inference platform, and analyze usage patterns such as signups, churn, and customer segments",
+            "Develop, debug, and maintain production protocols for liquid-handling robots and plate automation",
+            "Design and run BLI and SPR assays, including immobilization, regeneration, referencing, dilution series, kinetic fitting, and quality control",
+            "Write precise protocols for external laboratory partners and manage screening instrumentation",
+            "Connect receptor biology, protein structure, scoring, and model outputs to practical scientific workflows",
+            "Use experimental kinetics data to update models and improve designed sequences"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=nmlTcoAV2JQCH6r6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce3s5HSzYCKCiw4ORUQXBz-gXOORRtK7kDuhH-IH2y6Pxxte81s1l1bG8jW0JIwZkN9wnQrVNBLbHF4hzZLUYAcP6UEJaxhAGG4iMdPmPJgVPXmvml3U5RRckNELUy-T_0ivCzodsFLJaNQdjvvJFY7bdZupItw5OEgMz0pR-A8ax_nclwAAAA&shmds=v1_Ac3VAozzZ9pqAtf1ghY4_v0rCSToFMsrjrpKNzzZb1vM_RzmYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=nmlTcoAV2JQCH6r6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAMFBMVEX4-fr5-vvo7O6lucHz9fbk6ezg5um9y9G3xs3b4ubT3ODs8PL9_f6sv8bL1tu0xcucGP44AAAAzElEQVRIie2XyQ7DIAxEGcbELIb8_9-WtFeSFo4Vcx2e8IaEnQS_oCAuYEnBebgFwW9wgxv8axAQgZOx_QBaOiujVpkErbG2Vqk2BQKe6sxcZMHwwBjE4TMDLp85pN9Bi5r7Vd0vzJEToYoczAZY5iGj8twWB64yF8lUzOR4OeVkl9p0H3thU1LGG_dp5PDOMY1Tuc0x8bBPOybBwtMDJb7bORMqGlkr2eaH3DfV5sej-vyszGzYw2_goza4wQ3-B7j4mfdOVraHvj68AOzfBn1HhJIyAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "9 days ago",
+        "80K–200K a year",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobgether.com/offer/6ad9839aa8fae18ba2dd6c01-computational-and-experimental-scientist",
+      "job_title": "Computational and Experimental Scientist",
+      "description": "This a Full Remote job, the offer is available from: United States, New York (USA)\n\n \n\nAbout the RoleJoin a lean team at an early-stage AI and biotech company, owning computational and experimental work across protein design and an inference platform. You will connect sequence design, laboratory testing, and model improvement in an end-to-end design-make-test loop.\n\nWhat You'll DoImprove and extend discrete diffusion and protein folding models, including model refinements, attention mechanisms, and hierarchical reasoning.\n\nOperate and scale an inference platform, and analyze usage patterns such as signups, churn, and customer segments.\n\nDevelop, debug, and maintain production protocols for liquid-handling robots and plate automation.\n\nDesign and run BLI and SPR assays, including immobilization, regeneration, referencing, dilution series, kinetic fitting, and quality control.\n\nWrite precise protocols for external laboratory partners and manage screening instrumentation.\n\nConnect receptor biology, protein structure, scoring, and model outputs to practical scientific workflows.\n\nUse experimental kinetics data to update models and improve designed sequences.\n\nWhat We're Looking ForTypically 3 to 11 years of relevant experience, including experience in biotech or scientific software roles such as solutions engineering, customer success, or a hybrid operator position.\n\nHands-on experience building or operating protein design, discrete diffusion, protein language, or structure prediction systems within an experimental design-make-test cycle.\n\nPractical experience with tools such as ESM, ProtT5, RFdiffusion, BindCraft, or equivalent approaches.\n\nDirect experience writing and debugging production methods for Hamilton, Tecan, Opentrons, or equivalent liquid-handling systems.\n\nHands-on BLI or SPR kinetic curve fitting, assay design, and diagnosis of assay failure modes.\n\nAbility to code robot methods and analyze kinetic data using Python or equivalent scripting tools.\n\nUnderstanding of biology, biochemistry, receptor biology, protein structure, and scoring functions, with the ability to investigate when predictions do not match experimental results.\n\nExperience completing a full loop from sequence design through synthesis or expression and kinetics measurement to model updates and iteration.\n\nComfort with scientific customer engagement, including personalized outbound communication and navigating buying processes across organizations of different sizes.\n\nCompensation & BenefitsConsulting engagement: $3,000 to $5,000 per month. Full-time conversion base salary: $80,000 to $200,000 annually, depending on experience, with equity and deal-contingent upside. Visa sponsorship is not available.\n\nLocationHybrid in New York, United States, with increased on-site presence expected as internal screening operations are established.\n\nThis offer from \"Clera Inc.\" has been enriched by Jobgether.com and got a 0% flex score.",
+      "apply_options": [
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ad9839aa8fae18ba2dd6c01-computational-and-experimental-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/clera/Job/Computational-and-Experimental-Scientist/-in-Remote,US?jid=f0a42ff56328359f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tidewell",
+          "link": "https://tidewell.gilect.net/remote-jobs/computational-and-experimental-scientist-c0665595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Employa",
+          "link": "https://employa.liveblog365.com/remote-jobs/computational-and-experimental-scientist-c0665595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Metaintro",
+          "link": "https://www.metaintro.com/job/computational-and-experimental-scientist-at-clera-906a98fe-e205-5a0c-8b7c-18e37d813422?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFH Beacon",
+          "link": "https://wfhbeacon.up.railway.app/job/computational-and-experimental-scientist-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HiredNow AI",
+          "link": "https://www.hirednowai.com/jobs/clera/computational-and-experimental-scientist-11564842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Careerflow",
+          "link": "https://careerflow.fast-page.org/remote-jobs/computational-and-modeling-physicist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIGFuZCBFeHBlcmltZW50YWwgU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiQ2xlcmEgSW5jLiIsImh0aWRvY2lkIjoibm1sVGNvQVYySlFDSDZyNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdVcDBRMXAwY3kxellYVktiM1ZSTFRGaVVuUnZhRXBTZEhneExVNDVNbGhFYkVnelVXNWtja0ZNYVhSTVV6TmZlazUwYjBGTVYzVlhTamRCTkZSbVgxZHRObkUzVkdOeVgySmhXV1prUnpKTlJVVmZjRGN0UlVGelYzWmFUbTVvVEVGZlRUTnBlSHBQWldKSVoxbzNkbEZpVERSNVEwVXRRWGhhVjJSSVlYZzRPRkJzYVdJU0YzUm5lbXhoYjJJMlQwOVhTM2RpYTFCNFREWmtjMUV3R2lKQlNFNHdSVGRGUW1KV1FtazJaVlU1TUUxNFYxaFpOelp3TW1GbGEzaFVNemhuIiwiZmN2IjoiMyIsImZjX2lkIjoibm1sVGNvQVYySlFDSDZyNkFBQUFBQT09In0="
+    },
+    {
+      "title": "Computational Scientist for Protein Engineering",
+      "company_name": "Manifold Bio",
+      "location": "Boston, MA",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD and/or 4+ years of equivalent experience in computational biology, bioinformatics, protein engineering, antibody engineering, or similar field working with biological sequences",
+            "Rich experience with Python, agentic coding, data pipeline development",
+            "Familiarity with version control, test-driven development, and Unix computing",
+            "Strong antibody engineering background with first-hand experience in antibody design, optimization, or discovery",
+            "Experience with massively parallel reporter assays (MPRAs) and high-throughput screening data analysis",
+            "Experience designing DNA libraries for binders, DMS, phage display, or equivalent high-throughput experiments",
+            "Experience working with Next Generation Sequencing (NGS) data from library-based experiments",
+            "Strong understanding of statistics fundamentals and data analysis methodologies",
+            "Outstanding written and verbal communication skills for cross-functional collaboration",
+            "Intuition or exposure to best practices in software/data engineering",
+            "Industry experience in antibody therapeutic development or biotechnology R&D",
+            "Track record of developing computational tools or pipelines adopted by experimental teams",
+            "Experience mentoring junior scientists or leading cross-functional project teams",
+            "Publications or patents in antibody engineering, protein design, or high-throughput screening methods",
+            "Familiarity with cloud computing platforms (AWS, GCP) and containerization technologies"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Annual performance-based target bonus",
+            "Stock options",
+            "Comprehensive medical, dental, and vision coverage",
+            "401(k) plan",
+            "Flexible paid time off and holidays",
+            "On-site gym",
+            "Onsite lunch",
+            "Commuter support"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will work closely with experimental scientists to design and analyze highly multiplexed protein library experiments",
+            "You will specifically be working with traditional phage and yeast display readouts, as well as other proprietary display data",
+            "You will be expected to own and independently advance projects in areas related to your deep expertise such as protein design, DNA library design, or machine learning/biophysical modeling from MPRA data",
+            "You will work closely with our Head of Platform and our other computational scientists to onboard new capabilities that advance the M-Design platform for data-driven engineering of drugs with desired properties",
+            "Invent new quantitative protein engineering assays working with experimental scientists",
+            "Build robust data pipelines with rich metrics and statistics for real-time dataset analysis and reporting",
+            "Perform analysis and \"hit calling\" support, contributing new insights to active projects",
+            "Improve library design workflows to best co-optimize antibody libraries for enhanced performance",
+            "Write and contribute robust code in shared libraries for common protein design tasks",
+            "Collaborate on designing high-throughput experiments and analyze/interpret results from phage display (biopanning, phi-seq, in vivo) and yeast display platforms",
+            "Deliver high-quality data reporting through slides and documentation for cross-functional teams",
+            "Proactively share findings with colleagues through excellent documentation and discussions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=hlo-GMO41bM3MqsuAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNQQrCQAxAUdz2CK6yFu2I4EZXVlQQCoIHKNOaTiPTZJhE6HW8qXbzl-8X30VxPcuYPuaNhH2EZ0fIRmrQS4ZHFkNiuHAgRszEATZwlxYUfe4GEIabSIi4PA5mSQ_OqcYy6Ax2ZSejE8ZWJveWVuc0OviMKXrDZrffTmXisFrWnqmX-IKKBP7DStSE11Cffl_N2YOkAAAA&shmds=v1_Ac3VAow8yg5y8sllznd_hTqvNYVc8JSNwW_cg3O1IRPcutYv8w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=hlo-GMO41bM3MqsuAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50cad0a7667fab85c5231/images/1afl3NFy9W0e-XAgCN5x9q4ZfZUlzA4jwJiI5M1f_dw.jpeg",
+      "extensions": [
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.tealhq.com/job/computational-scientist_7ea1a33e89efcdefac55bc8bc18604dc59b16",
+      "job_title": "Computational Scientist for Protein Engineering",
+      "description": "About the position\n\nManifold Bio is a platform biotechnology company pioneering AI-guided protein design and massively multiplexed in vivo screening to unlock tissue-targeted medicines and organism-scale models of living systems. Using proprietary molecular barcoding technology, we screen hundreds of thousands of protein designs simultaneously in living systems, producing in vivo-validated datasets at a scale no one else can match. The datasets power our computational models, which leads to better drug designs, creating a flywheel that gets stronger with every campaign. Our team of protein engineers, biologists, and computational scientists works across this full stack to pursue programs both internally and with leading pharma companies.\\n\\nManifold Bio is seeking an exceptional Computational Scientist to join our growing Quantitative Biology team. You will work closely with experimental scientists to design and analyze highly multiplexed protein library experiments. You will specifically be working with traditional phage and yeast display readouts, as well as other proprietary display data. You will be expected to own and independently advance projects in areas related to your deep expertise such as protein design, DNA library design, or machine learning/biophysical modeling from MPRA data. You will work closely with our Head of Platform and our other computational scientists to onboard new capabilities that advance the M-Design platform for data-driven engineering of drugs with desired properties.\n\nResponsibilities\n\nInvent new quantitative protein engineering assays working with experimental scientistsBuild robust data pipelines with rich metrics and statistics for real-time dataset analysis and reportingPerform analysis and \\\"hit calling\\\" support, contributing new insights to active projectsImprove library design workflows to best co-optimize antibody libraries for enhanced performanceWrite and contribute robust code in shared libraries for common protein design tasksCollaborate on designing high-throughput experiments and analyze/interpret results from phage display (biopanning, phi-seq, in vivo) and yeast display platformsDeliver high-quality data reporting through slides and documentation for cross-functional teamsProactively share findings with colleagues through excellent documentation and discussionsRequirements\n\nPhD and/or 4+ years of equivalent experience in computational biology, bioinformatics, protein engineering, antibody engineering, or similar field working with biological sequencesRich experience with Python, agentic coding, data pipeline developmentFamiliarity with version control, test-driven development, and Unix computingStrong antibody engineering background with first-hand experience in antibody design, optimization, or discoveryExperience with massively parallel reporter assays (MPRAs) and high-throughput screening data analysisExperience designing DNA libraries for binders, DMS, phage display, or equivalent high-throughput experimentsExperience working with Next Generation Sequencing (NGS) data from library-based experimentsStrong understanding of statistics fundamentals and data analysis methodologiesOutstanding written and verbal communication skills for cross-functional collaborationNice-to-haves\n\nIntuition or exposure to best practices in software/data engineeringIndustry experience in antibody therapeutic development or biotechnology R&DTrack record of developing computational tools or pipelines adopted by experimental teamsExperience mentoring junior scientists or leading cross-functional project teamsPublications or patents in antibody engineering, protein design, or high-throughput screening methodsFamiliarity with cloud computing platforms (AWS, GCP) and containerization technologiesBenefits\n\nAnnual performance-based target bonusStock optionsComprehensive medical, dental, and vision coverage401(k) planFlexible paid time off and holidaysOn-site gymOnsite lunchCommuter support",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/computational-scientist_7ea1a33e89efcdefac55bc8bc18604dc59b16?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCBmb3IgUHJvdGVpbiBFbmdpbmVlcmluZyIsImNvbXBhbnlfbmFtZSI6Ik1hbmlmb2xkIEJpbyIsImh0aWRvY2lkIjoiaGxvLUdNTzQxYk0zTXFzdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdtaFNjMkpoVURRME1YaFdaVmcxV21kYVgyUnRlbUpzTm5WaFEycGpWV1ZaUkdWNFJFOTRWVzR4ZGt0bllWOW5WMGhOTVVoNlVFaG5kbGt4U25wRGVuUkRYMHcwV0UxRFFtaDZXRVl4VEVsVVlUbHBOVmROT0hkWlNXa3RjWEJNTUZOUlUwWlpTM0JRWHpoTGVYUjBVa2hYVFhKUFlscFBUVTlCU2xCVGNVVmxURFU1TFZrU0YzUm5lbXhoYjJJMlQwOVhTM2RpYTFCNFREWmtjMUV3R2lKQlNFNHdSVGRHY1hJdFZEbGxVbGwyUzNadGIySlliRW8xUmtFNWFrRTVSMTlSIiwiZmN2IjoiMyIsImZjX2lkIjoiaGxvLUdNTzQxYk0zTXFzdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Computational Scientist Opportunity",
+      "company_name": "Efficiency Engineering",
+      "location": "Hartford, AL",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Doctoral Degree",
+            "7-10 or more years of experience",
+            "Minimum 7-10 years experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We our seeking a Computational Scientist to join the team; this is an opportunity to be involved in the use of state-of-the-art technologies to study the structural genomic variation in human biology, evolution and disease",
+            "In addition, the Computational Scientist will participate in all Lee Lab activities and collaborations as assigned by the PI of the lab to the extent assigned",
+            "They include, and are not limited to, helping interns, post-doctoral fellows, scientists and grant writing",
+            "Furthermore, they will present results to The JAX community, at conferences and workshops"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=zqr0DnepX4uSe4B8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE43OYg2IrjUSaQoIjj4ACWN1_QkvQvJFdrH8U2lyz9-f_FbFdVVhjiqVRK2Ad6OkJWywitGSToy6Qx7eEgLGW1yPQjDTcQHXJ971ZgrY3IOpc8L4kongxHGVibzlTYvaXJvE8ZgFZvj6TCVkf12U3cdLTc3Q82eGDEReyCGu03aSfrs4PL8A3GJYZykAAAA&shmds=v1_Ac3VAowrI9znbAhkAlEE4oht-3So8DNMwVUpdAAWxSnS4i--Aw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=zqr0DnepX4uSe4B8AAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://talents.vaia.com/companies/efficiency-engineering/hartford/computational-scientist-opportunity-121878181/",
+      "job_title": "Computational Scientist Opportunity",
+      "description": "Computational Scientist Opportunity Job ID – 10016272\n\nRequirements:\n\nDoctoral Degree7-10 or more years of experience.In This Role You Will:\n\nWe our seeking a Computational Scientist to join the team; this is an opportunity to be involved in the use of state-of-the-art technologies to study the structural genomic variation in human biology, evolution and disease.The Computational Scientist will work closely with a team of scientists involved in the ongoing studies which includes; accurate identification and characterization of structural variation (SV) in human and other vertebrate genomes, the development of new algorithm/approach for SV detection, and understanding genome evolution in vertebrate species and its impact on genome stability.\n\nIn addition, the Computational Scientist will participate in all Lee Lab activities and collaborations as assigned by the PI of the lab to the extent assigned. They include, and are not limited to, helping interns, post-doctoral fellows, scientists and grant writing. Furthermore, they will present results to The JAX community, at conferences and workshops.\n\nQualifications: Experience Requirements:\n\nMinimum 7-10 years experience.\n\nJob Category: Bioinfomatics Biostatistics Computer Science\n\nJob Location: CT Farmington",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/efficiency-engineering/hartford/computational-scientist-opportunity-121878181/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCBPcHBvcnR1bml0eSIsImNvbXBhbnlfbmFtZSI6IkVmZmljaWVuY3kgRW5naW5lZXJpbmciLCJodGlkb2NpZCI6InpxcjBEbmVwWDR1U2U0QjhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbTg0TVUxNVUybHdaV0U1UkdReFdHeGhSWFF6VEhnNGFFbEVXWEZtTjJWYVlrNDJZbUZ5YTNSc0xVaFlUbXRWTVhaaE0zUkliRWxzTkhWamRtUmxUM2cwVVhCd2NrOVZjRmhmWm1JMFZsQkdTbkZqU1dKeFZVbG9jMmsxVmtwclpFMUpVRTl0YWxnME4xcE1XRk5UWVdOak1YZGhPSEpOVms5b1psaEJUMEU0UjNsbFVIa1NGM1JuZW14aGIySTJUMDlYUzNkaWExQjRURFprYzFFd0dpSkJTRTR3UlRkR2VHRldjVU4xTlZSbWFGZ3RSbWhUVmkxemRVbFdZakZKUldkUiIsImZjdiI6IjMiLCJmY19pZCI6InpxcjBEbmVwWDR1U2U0QjhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Associate Computational Plasma Scientist",
+      "company_name": "Princeton Plasma Physics Laboratory (PPPL)",
+      "location": "Princeton, NJ",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required are a Ph.D. in a relevant field, strong HPC experience, and proficiency in Python, NumPy, and PyTorch"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role emphasizes development of LTP-PIC, collaboration with academia and industry, and dissemination of results"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=Bo3hF1Oa9QbL6NJUAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNQQrCMBBFcdsjuJqlijYiuLELERdCKRLwADINoYmkmZAZoT2bl7MF3fzV--8Vn0VxvjCT8SgWrtSnt6B4ihhAB-Qe4WG8jeJZYAc1tcAWs3FAEW5EXbDLyokkPinFHMqO578pDfWKom1pUC9qeZ4nO8w2han0PBz3Q5lit6l09tFYmXS_nnYje8PQYEsZhfIIK611swY_MX96C_f6C4lxixa-AAAA&shmds=v1_Ac3VAozTBK1tgJTQyjVyYL3hpg8bf3AzQ8fB-fgMzvQlJpXjyA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=Bo3hF1Oa9QbL6NJUAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50cad0a7667fab85c5231/images/F5xvaJJWuq2rCQKXpPEFx7WVfcjid7XY3jmZRPEgX7k.png",
+      "extensions": [
+        "7 days ago",
+        "94K–149K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/associate-computational-plasma-scientist--princeton--e8529e8a5f9086b8b02380dade7be6f88",
+      "job_title": "Associate Computational Plasma Scientist",
+      "description": "Princeton Plasma Physics Laboratory (PPPL) seeks an Associate Computational Scientist to advance modeling and physics research for low-temperature plasmas using HPC, ML, and surrogate models. The role emphasizes development of LTP-PIC, collaboration with academia and industry, and dissemination of results.\n\nRequired are a Ph.D. in a relevant field, strong HPC experience, and proficiency in Python, NumPy, and PyTorch.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/associate-computational-plasma-scientist--princeton--e8529e8a5f9086b8b02380dade7be6f88?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobServe",
+          "link": "https://www.jobserve.com/us/en/extjob/ASSOCIATE-COMPUTATIONAL-PLASMA-SCIENTIST-in-Princeton-New-Jersey-USA-C32E9E98323D8BEA92/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/5882043062535847936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/associate-computational-plasma-scientist-princeton-plasma-physics-laboratory-pppl-princeton--pureheal-29599_25300_8529e8a5f9086b8b02380dade7be6f88?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/princeton/new-jersey/research_and_development/5543429719/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgQ29tcHV0YXRpb25hbCBQbGFzbWEgU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiUHJpbmNldG9uIFBsYXNtYSBQaHlzaWNzIExhYm9yYXRvcnkgKFBQUEwpIiwiaHRpZG9jaWQiOiJCbzNoRjFPYTlRYkw2TkpVQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVd4d1N6VkpNVmhPTVVkWWJuUm9TRm80TTNsM2NFWmtTUzFqU0hadFZtbHBNMGxUZFRWTllXVlhPVWswU1hWeFNXTkxkMGhhZUROS1lrb3hUV1pqWVZGNFZVdHdhM0UwUlRSME4zaHVRakZmWkhoUldrUjNOVFZaTlU0MGFrdzFZalZLYkRodFlURjRURTVzVUhwUVFtdzJRMk56UlRWbk5ITjZVa1JHVVhwWFpYRndjRWtTRjNSbmVteGhiMkkyVDA5WFMzZGlhMUI0VERaa2MxRXdHaUpCU0U0d1JUZEdMVzF5TW14UldrZGFTMmw0ZEdvNGRWOVZMWGxYVDNSRmF6ZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJCbzNoRjFPYTlRYkw2TkpVQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Quantum Computational Materials Scientist, US",
+      "company_name": "Phasecraft",
+      "location": "Anywhere",
+      "via": "Workable Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Expertise in applied and theoretical computational materials science or closely related field",
+            "PhD in (ab initio) electronic structure methods, theory and computation, Chemistry, Physics, Materials Science, or a closely related field",
+            "Proven track record of working independently on research projects",
+            "Deep expertise and an excellent publication track-record in relevant discipline",
+            "Excellent written and verbal communication skills and the ability to disseminate research results to technical and non-technical audiences",
+            "A deep understanding of the requirements of different funding sources, and the ability to lead efforts and independently write effective grant applications",
+            "Flexibility to work across different aspects of quantum algorithms, and to work on other tasks required to support the growth and success of the company",
+            "An interest in near-term quantum computing",
+            "Experience in materials discovery and use of machine learning methods to enhance workflows",
+            "Experience in DFT++ approaches, such as DMFT, DMET, GW etc",
+            "Experience in high throughput materials screening applications",
+            "Demonstrable experience in leading multiple complex and collaborative scientific research projects",
+            "Experience in developing and growing a team of scientists, promoting an appropriate culture for continuous improvement and knowledge exchange",
+            "Enthusiasm for learning and novel research"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The annual compensation range for this role is $120,000 - $175,000, depending on experience",
+            "Health, Vision, Dental, Life Insurance",
+            "401(k) Plan with company matching",
+            "Unlimited annual leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this newly created role, you will play a key role in guiding and coordinating the materials team’s research efforts in the US, working closely with the Head of the US office and the materials team lead at Phasecraft",
+            "The ideal candidate will have extensive experience of research in the theory and application of computational techniques to materials or chemistry simulation, with an interest in applying algorithms for quantum computers to computational materials science",
+            "Their work will contribute to Phasecraft’s goal of developing quantum algorithms for near-term quantum computers, and may encompass topics such as algorithm design, optimization and implementation, resource analysis, classical and quantum simulation benchmarking",
+            "They will have the opportunity to direct and grow a portfolio of research activity across the breadth of Phasecraft’s interests",
+            "Take the role of a senior member of a talented team of scientists undertaking theoretical and applied research on near-term quantum computing algorithms, applications and enabling theoretical technologies",
+            "Take initiative within the team to deliver publications, presentations, patent applications and similar resulting from the research",
+            "Be a focal point for Phasecraft's interaction with stakeholders on US based collaborations applying quantum computing to materials simulation and discovery",
+            "Contribute to new research directions ensuring alignment with the company’s overall science strategy",
+            "Work within the team to promote an environment of collaboration across a small international team made up of full-time staff and affiliated PhD students",
+            "Other activities as required to support the growth and success of Phasecraft"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=MssdxIfk1WyFnu6vAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CeJws9RGBBcdKwiKoBRxLNcQm0h6F3JX6Cf5mdrlja_4Lopr4yhwhseIpOMANQ9pVNTAhBFuqC4HjAKNDY40iJbwbGADF-5AHGbrgQnOzH10y6NXTXIwRiRWvcyNrSwPhsl1PJkPdzLTisfsUvzv7W6_napE_Xp19yjOZnwrBIIXig_UK1MJp_oHDBSlQqsAAAA&shmds=v1_Ac3VAoyLdOsvpA9-pOpBRiVuSZdW7SUUOX9RhawHY-WXcEVd6w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=MssdxIfk1WyFnu6vAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://apply.workable.com/phasecraft-1/j/2297994CAE/",
+      "job_title": "Senior Quantum Computational Materials Scientist, US",
+      "description": "Phasecraft is the quantum algorithms company. We are building the mathematical foundations for quantum computing applications that solve real-world problems. Founded in 2019 by Toby Cubitt, Ashley Montanaro and John Morton, we are based in London and Bristol in the UK and opened an office in Washington DC in 2024, led by Steve Flammia. In 2025 we completed a $34m Series B funding round co-led by Plural, existing investor Playground Global, and Novo Holdings’ Quantum Fund in its first direct quantum software investment.\n\nPhasecraft’s unprecedented access to today’s best quantum computers – through partnerships with Google, IBM, Quantinuum and QuEra – provides us with unique opportunities to develop foundational IP, inform the development of next-generation quantum hardware, and accelerate commercialization of high-value breakthroughs.\n\nOne of the key applications of Phasecraft’s quantum algorithms is to modelling materials and molecular systems, where we have demonstrated significant reductions in cost compared with the state-of-the-art.\n\nOn the back of these breakthroughs, we are now looking to hire a Senior Quantum Computational Materials Scientist to join our team in Washington DC. In this newly created role, you will play a key role in guiding and coordinating the materials team’s research efforts in the US, working closely with the Head of the US office and the materials team lead at Phasecraft. \n\nThe ideal candidate will have extensive experience of research in the theory and application of computational techniques to materials or chemistry simulation, with an interest in applying algorithms for quantum computers to computational materials science. Their work will contribute to Phasecraft’s goal of developing quantum algorithms for near-term quantum computers, and may encompass topics such as algorithm design, optimization and implementation, resource analysis, classical and quantum simulation benchmarking. They will have the opportunity to direct and grow a portfolio of research activity across the breadth of Phasecraft’s interests.\n\nJob Description\n\nTake the role of a senior member of a talented team of scientists undertaking theoretical and applied research on near-term quantum computing algorithms, applications and enabling theoretical technologies.Take initiative within the team to deliver publications, presentations, patent applications and similar resulting from the research.Be a focal point for Phasecraft's interaction with stakeholders on US based collaborations applying quantum computing to materials simulation and discovery.Contribute to new research directions ensuring alignment with the company’s overall science strategy.Work within the team to promote an environment of collaboration across a small international team made up of full-time staff and affiliated PhD students.Other activities as required to support the growth and success of Phasecraft.Essential Criteria\n\nExpertise in applied and theoretical computational materials science or closely related field.PhD in (ab initio) electronic structure methods, theory and computation, Chemistry, Physics, Materials Science, or a closely related field.Proven track record of working independently on research projects.Deep expertise and an excellent publication track-record in relevant discipline.Excellent written and verbal communication skills and the ability to disseminate research results to technical and non-technical audiences.A deep understanding of the requirements of different funding sources, and the ability to lead efforts and independently write effective grant applications.Flexibility to work across different aspects of quantum algorithms, and to work on other tasks required to support the growth and success of the company.An interest in near-term quantum computing.\n\n  Desirable criteria\n\nExperience in materials discovery and use of machine learning methods to enhance workflows.Experience in DFT++ approaches, such as DMFT, DMET, GW etc.Experience in high throughput materials screening applications. Demonstrable experience in leading multiple complex and collaborative scientific research projects.Experience in developing and growing a team of scientists, promoting an appropriate culture for continuous improvement and knowledge exchange.Enthusiasm for learning and novel research.\n\n\n\n The annual compensation range for this role is $120,000 - $175,000, depending on experience. Health, Vision, Dental, Life Insurance. 401(k) Plan with company matching. Unlimited annual leave.",
+      "apply_options": [
+        {
+          "title": "Workable Jobs",
+          "link": "https://apply.workable.com/phasecraft-1/j/2297994CAE/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/phasecraft/senior-quantum-computational-materials-scientist-us-34115375/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-research-scientist-us-virtual-vocations-inc-united-states--appcast-7428_be4f9c9f42b514e4d64bc12584367a5bd80cf1f449f1218629b02f2e1b922c27?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5381-884b4c685a338dbb38d512f7230c7224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Juntojobs",
+          "link": "https://juntojobs.gamer.gd/remote-jobs/senior-scientist-computational-materials-solutions?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUXVhbnR1bSBDb21wdXRhdGlvbmFsIE1hdGVyaWFscyBTY2llbnRpc3QsIFVTIiwiY29tcGFueV9uYW1lIjoiUGhhc2VjcmFmdCIsImh0aWRvY2lkIjoiTXNzZHhJZmsxV3lGbnU2dkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYaERPRzl3V25CTWQwcGFPVlZUWkU1U1drdG1Ua1JFU21seFZGcG5RMmRpVVROZmIybHNhVnBKYkcxUk1FVndNRzFSUTAweU1XZG1NaTFIY1daUWN6WXhVWEZEVm5aTVRpMTZNSE16VkZvdFJUZHlhUzB3UnpGc2JEVldSM0V6Y1RGWk0wSkpiRGN0VUVadFdVMUZNbHB2WldoWVkxOU1UbFJ6ZFZCakxWaEpTRzFKTW5VU0YzUm5lbXhoYjJJMlQwOVhTM2RpYTFCNFREWmtjMUV3R2lKQlNFNHdSVGRHYzJReE4wUnVSalJFV0VGbFFXNVZPVXhqZGtGNExVcG5SVzlSIiwiZmN2IjoiMyIsImZjX2lkIjoiTXNzZHhJZmsxV3lGbnU2dkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZVnAyVjJJMGNXa3habFY2WVhnM1QyMUJaWFpFYldWcllURnVYek4wZERFelNtWndVbGMwUVRCek9DMURaekZNTFhCNWNucGhVWGRPWWxWTU1XZE5NblZ6ZVhNd1JFdHdWVjl6TW01bVJHOTFjSFZmZVdGYVVuUnpOR1UxU1VWMGVuWnRhMDR0Vm1kRGIwd3pXbG81ZDA1Wk1GVk5iaTFRVjJaRFZGbGlORGRMYVVST2NFaGthM1J5Wmt4NFJsSkJiVkJWYWt4aWRUaDZhVFJQTlVwQ2VIVkRibnBSTFdWRloxRkhUM1JrTnpFNGJWVmpVWGxtTjNOVVkzUTNRVkpvYlVwWGRscFRPV0l3U25rMVZHcEhjRXd4UTBSaE1sVllUVlpsVUROa1R6aFdNV1ZtTjI1cVVIcHhPRXQ0Y0VWbWIyUnRTRTlFVTJ0MlRWTlNZVTFPU25welluQldXVUp1YUhoSGQzZG5jRVE0YmpWbGVXdDJOR2RrYkROR1l6Sk9aVFpLU0hoU2RrRlRUVUZQVlhWNmRXNWFjbE4wY0RkS1VWVkJZVlkyVWxaRE9WTkZiRzE0UzB4V2JuVlhNelJIZVd0R1VUTnJlR2RZYlZGdVZVbzNObGRIWkZRdE9YTk1aVUV4VUVOWlNrUjZWVlJVZEcxTWRtbGFkMVJ5V1VGS05UVkVRMUkzWW1SeE9UZGthREJUZW1KS2FrRXhZMmxKUzI5Q01uRlBVVUZzYXpKT1RVMW9iRFpaUlROZldraEhlRkYzYUZGS2VscFdNMXBhY0hCNFIyNHROVWMwVGtrelVuVllVRzVWZWpSMGQycE1WVXQzZVZkVVRXWkdiVEF0VEdVMlNFaDJhM05RTVdNeVoyTnhTR2RwVG1SaVdWZGhaV2R6TmtOSFZHZG5URlEyVmtVM0xXeFRiMEY0VVUxWGQxSTFZVUZVYkY5aVkwY3llRUp3V25JME5HWklaSGMzZWs5dmFHWTFSa1pKRWhkMFozcHNZVzlpTms5UFYwdDNZbXRRZUV3MlpITlJNQm9pUVVoT01FVTNTRk5RVlVGVWNtY3pZM2hhVkZjemJ6aEZhMWRhU1ZOaGVtMVpVUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZVnAyVjJJMGNXa3habFY2WVhnM1QyMUJaWFpFYldWcllURnVYek4wZERFelNtWndVbGMwUVRCek9DMURaekZNTFhCNWNucGhVWGRPWWxWTU1XZE5NblZ6ZVhNd1JFdHdWVjl6TW01bVJHOTFjSFZmZVdGYVVuUnpOR1UxU1VWMGVuWnRhMDR0Vm1kRGIwd3pXbG81ZDA1Wk1GVk5iaTFRVjJaRFZGbGlORGRMYVVST2NFaGthM1J5Wmt4NFJsSkJiVkJWYWt4aWRUaDZhVFJQTlVwQ2VIVkRibnBSTFdWRloxRkhUM1JrTnpFNGJWVmpVWGxtTjNOVVkzUTNRVkpvYlVwWGRscFRPV0l3U25rMVZHcEhjRXd4UTBSaE1sVllUVlpsVUROa1R6aFdNV1ZtTjI1cVVIcHhPRXQ0Y0VWbWIyUnRTRTlFVTJ0MlRWTlNZVTFPU25welluQldXVUp1YUhoSGQzZG5jRVE0YmpWbGVXdDJOR2RrYkROR1l6Sk9aVFpLU0hoU2RrRlRUVUZQVlhWNmRXNWFjbE4wY0RkS1VWVkJZVlkyVWxaRE9WTkZiRzE0UzB4V2JuVlhNelJIZVd0R1VUTnJlR2RZYlZGdVZVbzNObGRIWkZRdE9YTk1aVUV4VUVOWlNrUjZWVlJVZEcxTWRtbGFkMVJ5V1VGS05UVkVRMUkzWW1SeE9UZGthREJUZW1KS2FrRXhZMmxKUzI5Q01uRlBVVUZzYXpKT1RVMW9iRFpaUlROZldraEhlRkYzYUZGS2VscFdNMXBhY0hCNFIyNHROVWMwVGtrelVuVllVRzVWZWpSMGQycE1WVXQzZVZkVVRXWkdiVEF0VEdVMlNFaDJhM05RTVdNeVoyTnhTR2RwVG1SaVdWZGhaV2R6TmtOSFZHZG5URlEyVmtVM0xXeFRiMEY0VVUxWGQxSTFZVUZVYkY5aVkwY3llRUp3V25JME5HWklaSGMzZWs5dmFHWTFSa1pKRWhkMFozcHNZVzlpTms5UFYwdDNZbXRRZUV3MlpITlJNQm9pUVVoT01FVTNTRk5RVlVGVWNtY3pZM2hhVkZjemJ6aEZhMWRhU1ZOaGVtMVpVUSIsImZjdiI6IjMifQ%3D%3D&q=Computational+Scientist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Computational Scientist",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:31:25.662891+00:00",
+    "request_fingerprint": "b0c10200a44f6a4bea09ceb8167e0b0af0fe1ee2500ef19f42955b14874d1b6a",
+    "job_count": 10
+  }
+}

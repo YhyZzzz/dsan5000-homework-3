@@ -1,0 +1,757 @@
+{
+  "search_metadata": {
+    "id": "6ae50be12cbc87b354def416",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Faiq5S9pOo_6g0zH_cw6h-bgTd2SbWdNuiTXDXSVwwM/6ae50be12cbc87b354def416.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Faiq5S9pOo_6g0zH_cw6h-bgTd2SbWdNuiTXDXSVwwM/6ae50be12cbc87b354def416.md",
+    "created_at": "2026-10-30 21:28:01 UTC",
+    "processed_at": "2026-10-30 21:28:01 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Customer+Insights+Analyst&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Faiq5S9pOo_6g0zH_cw6h-bgTd2SbWdNuiTXDXSVwwM/6ae50be12cbc87b354def416.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "q": "Customer Insights Analyst",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfi7zLurCoHPveMAtTqRTkq88hgzFZKrX_VnJaYwHvwW-iPCm3siJgQWQW3yAjNnnFOBuhRKkIA6ys7u68bvQcKsAvn90QvIbcTIniXPMSyZnwRbVTMNB9o86AEWlgKzwzGpegx62It9kRdFqFa4B2q2tMXSTTNuEkvfRpvJ6yNuOsUtw",
+        "q": "Customer Insights Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfi7zLurCoHPveMAtTqRTkq88hgzFZKrX_VnJaYwHvwW-iPCm3siJgQWQW3yAjNnnFOBuhRKkIA6ys7u68bvQcKsAvn90QvIbcTIniXPMSyZnwRbVTMNB9o86AEWlgKzwzGpegx62It9kRdFqFa4B2q2tMXSTTNuEkvfRpvJ6yNuOsUtw&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfi7zLurCoHPveMAtTqRTkq88hgzFZKrX_VnJaYwHvwW-iPCm3siJgQWQW3yAjNnnFOBuhRKkIA6ys7u68bvQcKsAvn90QvIbcTIniXPMSyZnwRbVTMNB9o86AEWlgKzwzGpegx62It9kRdFqFa4B2q2tMXSTTNuEkvfRpvJ6yNuOsUtw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXRk3WJgjXrmpwHohptoDdguxBBNtyqX2UcHp2jlJaQDhBbVJzMHG5Rmd8jhhvFAHA3MMYvos8S15dTvjjhjGyhde6skUNtZNKuwtmxhx3l61LFDXyMqRQgfeszdgo2ekmFqq9F7qpt58WsLVIxwRRt3fND5UIcV6LgSiBjo--rOzn8wk",
+        "q": "Customer Insights Analyst no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXRk3WJgjXrmpwHohptoDdguxBBNtyqX2UcHp2jlJaQDhBbVJzMHG5Rmd8jhhvFAHA3MMYvos8S15dTvjjhjGyhde6skUNtZNKuwtmxhx3l61LFDXyMqRQgfeszdgo2ekmFqq9F7qpt58WsLVIxwRRt3fND5UIcV6LgSiBjo--rOzn8wk&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXRk3WJgjXrmpwHohptoDdguxBBNtyqX2UcHp2jlJaQDhBbVJzMHG5Rmd8jhhvFAHA3MMYvos8S15dTvjjhjGyhde6skUNtZNKuwtmxhx3l61LFDXyMqRQgfeszdgo2ekmFqq9F7qpt58WsLVIxwRRt3fND5UIcV6LgSiBjo--rOzn8wk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5SdCg22hffcMwj-Qqqly50HbaCw6BJhDCXOaybBKdZ8q_pzw7QOqDtnODThe6YH8C81ow98uDBZDJKVmlwtqiZCHyrpCsjTTiBB48MyrAs1rL4YeIGwmhtVWljE_s5Od_bK4DEU9GWHIl0Y9zUqXQ-rHLVVma3NcM5XwJ1GbZQxJBgkEd-mNTRlyP5NKRzchvZrKNA94AONH996E5PUzcqWlr8v3o1DTKsXi1rtRmtel6Osjfu0x5O3V1nSqBy9gMNRa2118gHmSSNJg5_uFjtKvWUaQI",
+            "q": "Customer Insights Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5SdCg22hffcMwj-Qqqly50HbaCw6BJhDCXOaybBKdZ8q_pzw7QOqDtnODThe6YH8C81ow98uDBZDJKVmlwtqiZCHyrpCsjTTiBB48MyrAs1rL4YeIGwmhtVWljE_s5Od_bK4DEU9GWHIl0Y9zUqXQ-rHLVVma3NcM5XwJ1GbZQxJBgkEd-mNTRlyP5NKRzchvZrKNA94AONH996E5PUzcqWlr8v3o1DTKsXi1rtRmtel6Osjfu0x5O3V1nSqBy9gMNRa2118gHmSSNJg5_uFjtKvWUaQI&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5SdCg22hffcMwj-Qqqly50HbaCw6BJhDCXOaybBKdZ8q_pzw7QOqDtnODThe6YH8C81ow98uDBZDJKVmlwtqiZCHyrpCsjTTiBB48MyrAs1rL4YeIGwmhtVWljE_s5Od_bK4DEU9GWHIl0Y9zUqXQ-rHLVVma3NcM5XwJ1GbZQxJBgkEd-mNTRlyP5NKRzchvZrKNA94AONH996E5PUzcqWlr8v3o1DTKsXi1rtRmtel6Osjfu0x5O3V1nSqBy9gMNRa2118gHmSSNJg5_uFjtKvWUaQI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5S_NftFy9kCSNyVDwaA9hNElHVVzB3Hk0ZM9Z1uc8gJszLx8-lMADXhjtyzmOTVyLcazqMDtTlYX26UkF3IMhVmmmwKwrtnH8TUWeviIQmo-v_O0XQg3ULrY8S00oUPQWHVj0Z3aElaT2PTbKRvLnP-7QjQnFckOChIZDAnwz3gy_luV6zyCLmC7vKM6-Bhxwjiqnvn-F2tm9geTF9YXwnDtGfBGbMQFDcS0RkUHaElojoVomA817ek4b9qzaAcjCSYzhOvCwol3GvzTjynCKHW6nvi2s",
+            "q": "Customer Insights Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5S_NftFy9kCSNyVDwaA9hNElHVVzB3Hk0ZM9Z1uc8gJszLx8-lMADXhjtyzmOTVyLcazqMDtTlYX26UkF3IMhVmmmwKwrtnH8TUWeviIQmo-v_O0XQg3ULrY8S00oUPQWHVj0Z3aElaT2PTbKRvLnP-7QjQnFckOChIZDAnwz3gy_luV6zyCLmC7vKM6-Bhxwjiqnvn-F2tm9geTF9YXwnDtGfBGbMQFDcS0RkUHaElojoVomA817ek4b9qzaAcjCSYzhOvCwol3GvzTjynCKHW6nvi2s&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5S_NftFy9kCSNyVDwaA9hNElHVVzB3Hk0ZM9Z1uc8gJszLx8-lMADXhjtyzmOTVyLcazqMDtTlYX26UkF3IMhVmmmwKwrtnH8TUWeviIQmo-v_O0XQg3ULrY8S00oUPQWHVj0Z3aElaT2PTbKRvLnP-7QjQnFckOChIZDAnwz3gy_luV6zyCLmC7vKM6-Bhxwjiqnvn-F2tm9geTF9YXwnDtGfBGbMQFDcS0RkUHaElojoVomA817ek4b9qzaAcjCSYzhOvCwol3GvzTjynCKHW6nvi2s&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTglpJV0UmaYODG4iN5kwAOQLxNqNGqBMwyxjHiYuj0beNEsVAlqE3-bvw0ML6hQTlRN58j9PRC5T0BwPyVeLBTpMGYH9sTkzdBe2shRzwzsnyXQmIM5nHNaMtYBrI9TOyNBKROi_KHbDu5lWKZraPfuDFKcZeiVs65YR2GkTo9k31y2bS4zpGM_TAEHHfcKRnmGP4P-FobNlkCyHUxAhO5ozgjMwW7VV6tIdgc6ME1h82CgTwEkjJ-jXxB2zlNvMbPlaD02S74Pyng3VZhM8zqf9fvtaVQYV02hVCSXjGC3_LFAi1A",
+            "q": "Customer Insights Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTglpJV0UmaYODG4iN5kwAOQLxNqNGqBMwyxjHiYuj0beNEsVAlqE3-bvw0ML6hQTlRN58j9PRC5T0BwPyVeLBTpMGYH9sTkzdBe2shRzwzsnyXQmIM5nHNaMtYBrI9TOyNBKROi_KHbDu5lWKZraPfuDFKcZeiVs65YR2GkTo9k31y2bS4zpGM_TAEHHfcKRnmGP4P-FobNlkCyHUxAhO5ozgjMwW7VV6tIdgc6ME1h82CgTwEkjJ-jXxB2zlNvMbPlaD02S74Pyng3VZhM8zqf9fvtaVQYV02hVCSXjGC3_LFAi1A&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTglpJV0UmaYODG4iN5kwAOQLxNqNGqBMwyxjHiYuj0beNEsVAlqE3-bvw0ML6hQTlRN58j9PRC5T0BwPyVeLBTpMGYH9sTkzdBe2shRzwzsnyXQmIM5nHNaMtYBrI9TOyNBKROi_KHbDu5lWKZraPfuDFKcZeiVs65YR2GkTo9k31y2bS4zpGM_TAEHHfcKRnmGP4P-FobNlkCyHUxAhO5ozgjMwW7VV6tIdgc6ME1h82CgTwEkjJ-jXxB2zlNvMbPlaD02S74Pyng3VZhM8zqf9fvtaVQYV02hVCSXjGC3_LFAi1A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER66UMSNxGu-OxmfOghnIBjiUdm_u2hlEYiDp7fSTUTo1T8WzNJf98ty7xIdvHE6kd1wsZje01Wv06cx2Rs7OCJRlwwqTTL9yhGTESz_JaLSgmTOsE8ySZkdszCBJSE-1GlkG_O5B-93Er5EMrf6DbYrWSnLTEcKJO7ucB31moev0pz0HICFr0eGUgis4SpEnJEmkOeLTei6J9dzg0MTwO4UYcRoD78-8DNwYcw20O3mhnb4BBi0tOrtcjje9Z2wwfdMoR13pGyybjKTw15iXcvVBZcTURqddl2Si5jj8XQQ6OBUNqMw",
+            "q": "Customer Insights Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER66UMSNxGu-OxmfOghnIBjiUdm_u2hlEYiDp7fSTUTo1T8WzNJf98ty7xIdvHE6kd1wsZje01Wv06cx2Rs7OCJRlwwqTTL9yhGTESz_JaLSgmTOsE8ySZkdszCBJSE-1GlkG_O5B-93Er5EMrf6DbYrWSnLTEcKJO7ucB31moev0pz0HICFr0eGUgis4SpEnJEmkOeLTei6J9dzg0MTwO4UYcRoD78-8DNwYcw20O3mhnb4BBi0tOrtcjje9Z2wwfdMoR13pGyybjKTw15iXcvVBZcTURqddl2Si5jj8XQQ6OBUNqMw&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER66UMSNxGu-OxmfOghnIBjiUdm_u2hlEYiDp7fSTUTo1T8WzNJf98ty7xIdvHE6kd1wsZje01Wv06cx2Rs7OCJRlwwqTTL9yhGTESz_JaLSgmTOsE8ySZkdszCBJSE-1GlkG_O5B-93Er5EMrf6DbYrWSnLTEcKJO7ucB31moev0pz0HICFr0eGUgis4SpEnJEmkOeLTei6J9dzg0MTwO4UYcRoD78-8DNwYcw20O3mhnb4BBi0tOrtcjje9Z2wwfdMoR13pGyybjKTw15iXcvVBZcTURqddl2Si5jj8XQQ6OBUNqMw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5SdCg22hffcMwj-Qqqly50HbaCw6BJhDCXOaybBKdZ8q_pzw7QOqDtnODThe6YH8C81ow98uDBZDJKVmlwtqiZCHyrpCsjTTiBB48MyrAs1rL4YeIGwmhtVWljE_s5Od_bK4DEU9GWHIl0Y9zUqXQ-rHLVVma3NcM5XwJ1GbZQxJBgkEd-mNTRlyP5NKRzchvZrKNA94AONH996E5PUzcqWlr8v3o1DTKsXi1rtRmtel6Osjfu0x5O3V1nSqBy9gMNRa2118gHmSSNJg5_uFjtKvWUaQI",
+            "q": "Customer Insights Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5SdCg22hffcMwj-Qqqly50HbaCw6BJhDCXOaybBKdZ8q_pzw7QOqDtnODThe6YH8C81ow98uDBZDJKVmlwtqiZCHyrpCsjTTiBB48MyrAs1rL4YeIGwmhtVWljE_s5Od_bK4DEU9GWHIl0Y9zUqXQ-rHLVVma3NcM5XwJ1GbZQxJBgkEd-mNTRlyP5NKRzchvZrKNA94AONH996E5PUzcqWlr8v3o1DTKsXi1rtRmtel6Osjfu0x5O3V1nSqBy9gMNRa2118gHmSSNJg5_uFjtKvWUaQI&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5SdCg22hffcMwj-Qqqly50HbaCw6BJhDCXOaybBKdZ8q_pzw7QOqDtnODThe6YH8C81ow98uDBZDJKVmlwtqiZCHyrpCsjTTiBB48MyrAs1rL4YeIGwmhtVWljE_s5Od_bK4DEU9GWHIl0Y9zUqXQ-rHLVVma3NcM5XwJ1GbZQxJBgkEd-mNTRlyP5NKRzchvZrKNA94AONH996E5PUzcqWlr8v3o1DTKsXi1rtRmtel6Osjfu0x5O3V1nSqBy9gMNRa2118gHmSSNJg5_uFjtKvWUaQI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5S_NftFy9kCSNyVDwaA9hNElHVVzB3Hk0ZM9Z1uc8gJszLx8-lMADXhjtyzmOTVyLcazqMDtTlYX26UkF3IMhVmmmwKwrtnH8TUWeviIQmo-v_O0XQg3ULrY8S00oUPQWHVj0Z3aElaT2PTbKRvLnP-7QjQnFckOChIZDAnwz3gy_luV6zyCLmC7vKM6-Bhxwjiqnvn-F2tm9geTF9YXwnDtGfBGbMQFDcS0RkUHaElojoVomA817ek4b9qzaAcjCSYzhOvCwol3GvzTjynCKHW6nvi2s",
+            "q": "Customer Insights Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5S_NftFy9kCSNyVDwaA9hNElHVVzB3Hk0ZM9Z1uc8gJszLx8-lMADXhjtyzmOTVyLcazqMDtTlYX26UkF3IMhVmmmwKwrtnH8TUWeviIQmo-v_O0XQg3ULrY8S00oUPQWHVj0Z3aElaT2PTbKRvLnP-7QjQnFckOChIZDAnwz3gy_luV6zyCLmC7vKM6-Bhxwjiqnvn-F2tm9geTF9YXwnDtGfBGbMQFDcS0RkUHaElojoVomA817ek4b9qzaAcjCSYzhOvCwol3GvzTjynCKHW6nvi2s&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZxvnSJRdXHJphSQJxiMrhDS9ApyRF0i5LmueWws327IIUElj77RVr38LYPqJa_5S_NftFy9kCSNyVDwaA9hNElHVVzB3Hk0ZM9Z1uc8gJszLx8-lMADXhjtyzmOTVyLcazqMDtTlYX26UkF3IMhVmmmwKwrtnH8TUWeviIQmo-v_O0XQg3ULrY8S00oUPQWHVj0Z3aElaT2PTbKRvLnP-7QjQnFckOChIZDAnwz3gy_luV6zyCLmC7vKM6-Bhxwjiqnvn-F2tm9geTF9YXwnDtGfBGbMQFDcS0RkUHaElojoVomA817ek4b9qzaAcjCSYzhOvCwol3GvzTjynCKHW6nvi2s&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTglpJV0UmaYODG4iN5kwAOQLxNqNGqBMwyxjHiYuj0beNEsVAlqE3-bvw0ML6hQTlRN58j9PRC5T0BwPyVeLBTpMGYH9sTkzdBe2shRzwzsnyXQmIM5nHNaMtYBrI9TOyNBKROi_KHbDu5lWKZraPfuDFKcZeiVs65YR2GkTo9k31y2bS4zpGM_TAEHHfcKRnmGP4P-FobNlkCyHUxAhO5ozgjMwW7VV6tIdgc6ME1h82CgTwEkjJ-jXxB2zlNvMbPlaD02S74Pyng3VZhM8zqf9fvtaVQYV02hVCSXjGC3_LFAi1A",
+            "q": "Customer Insights Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTglpJV0UmaYODG4iN5kwAOQLxNqNGqBMwyxjHiYuj0beNEsVAlqE3-bvw0ML6hQTlRN58j9PRC5T0BwPyVeLBTpMGYH9sTkzdBe2shRzwzsnyXQmIM5nHNaMtYBrI9TOyNBKROi_KHbDu5lWKZraPfuDFKcZeiVs65YR2GkTo9k31y2bS4zpGM_TAEHHfcKRnmGP4P-FobNlkCyHUxAhO5ozgjMwW7VV6tIdgc6ME1h82CgTwEkjJ-jXxB2zlNvMbPlaD02S74Pyng3VZhM8zqf9fvtaVQYV02hVCSXjGC3_LFAi1A&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTglpJV0UmaYODG4iN5kwAOQLxNqNGqBMwyxjHiYuj0beNEsVAlqE3-bvw0ML6hQTlRN58j9PRC5T0BwPyVeLBTpMGYH9sTkzdBe2shRzwzsnyXQmIM5nHNaMtYBrI9TOyNBKROi_KHbDu5lWKZraPfuDFKcZeiVs65YR2GkTo9k31y2bS4zpGM_TAEHHfcKRnmGP4P-FobNlkCyHUxAhO5ozgjMwW7VV6tIdgc6ME1h82CgTwEkjJ-jXxB2zlNvMbPlaD02S74Pyng3VZhM8zqf9fvtaVQYV02hVCSXjGC3_LFAi1A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER66UMSNxGu-OxmfOghnIBjiUdm_u2hlEYiDp7fSTUTo1T8WzNJf98ty7xIdvHE6kd1wsZje01Wv06cx2Rs7OCJRlwwqTTL9yhGTESz_JaLSgmTOsE8ySZkdszCBJSE-1GlkG_O5B-93Er5EMrf6DbYrWSnLTEcKJO7ucB31moev0pz0HICFr0eGUgis4SpEnJEmkOeLTei6J9dzg0MTwO4UYcRoD78-8DNwYcw20O3mhnb4BBi0tOrtcjje9Z2wwfdMoR13pGyybjKTw15iXcvVBZcTURqddl2Si5jj8XQQ6OBUNqMw",
+            "q": "Customer Insights Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER66UMSNxGu-OxmfOghnIBjiUdm_u2hlEYiDp7fSTUTo1T8WzNJf98ty7xIdvHE6kd1wsZje01Wv06cx2Rs7OCJRlwwqTTL9yhGTESz_JaLSgmTOsE8ySZkdszCBJSE-1GlkG_O5B-93Er5EMrf6DbYrWSnLTEcKJO7ucB31moev0pz0HICFr0eGUgis4SpEnJEmkOeLTei6J9dzg0MTwO4UYcRoD78-8DNwYcw20O3mhnb4BBi0tOrtcjje9Z2wwfdMoR13pGyybjKTw15iXcvVBZcTURqddl2Si5jj8XQQ6OBUNqMw&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER66UMSNxGu-OxmfOghnIBjiUdm_u2hlEYiDp7fSTUTo1T8WzNJf98ty7xIdvHE6kd1wsZje01Wv06cx2Rs7OCJRlwwqTTL9yhGTESz_JaLSgmTOsE8ySZkdszCBJSE-1GlkG_O5B-93Er5EMrf6DbYrWSnLTEcKJO7ucB31moev0pz0HICFr0eGUgis4SpEnJEmkOeLTei6J9dzg0MTwO4UYcRoD78-8DNwYcw20O3mhnb4BBi0tOrtcjje9Z2wwfdMoR13pGyybjKTw15iXcvVBZcTURqddl2Si5jj8XQQ6OBUNqMw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqRlnF5-p5ojPzss7-402wEaFm-dHXhyH2EU0x3s-G-_2oCRj0PXkydICFyVr7Hr0_Jnm43eDfxcOFZ83EZysbNdP5DnYwWIfL__3r91GHXUgvzPLGCNS-qp6598x1waZsLbM-o3QuY8vy-vk63jCWwIkeJTm6sorGA7P__F0khjTSYpm2lo_5N8ULO887kl6L93oOPyhCtJPcuMFfFxvo4J9jZRzdChnWZAqWSx9R1jz7_9uB8Wdkqd2A30Ido552Eduor1PMI7XiTj10HEHUXWmTiexdqza4FR_zXEoPEmsV7IWHlkppAVyMdWlJlx0VPQ5g1c",
+            "q": "Customer Insights Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqRlnF5-p5ojPzss7-402wEaFm-dHXhyH2EU0x3s-G-_2oCRj0PXkydICFyVr7Hr0_Jnm43eDfxcOFZ83EZysbNdP5DnYwWIfL__3r91GHXUgvzPLGCNS-qp6598x1waZsLbM-o3QuY8vy-vk63jCWwIkeJTm6sorGA7P__F0khjTSYpm2lo_5N8ULO887kl6L93oOPyhCtJPcuMFfFxvo4J9jZRzdChnWZAqWSx9R1jz7_9uB8Wdkqd2A30Ido552Eduor1PMI7XiTj10HEHUXWmTiexdqza4FR_zXEoPEmsV7IWHlkppAVyMdWlJlx0VPQ5g1c&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqRlnF5-p5ojPzss7-402wEaFm-dHXhyH2EU0x3s-G-_2oCRj0PXkydICFyVr7Hr0_Jnm43eDfxcOFZ83EZysbNdP5DnYwWIfL__3r91GHXUgvzPLGCNS-qp6598x1waZsLbM-o3QuY8vy-vk63jCWwIkeJTm6sorGA7P__F0khjTSYpm2lo_5N8ULO887kl6L93oOPyhCtJPcuMFfFxvo4J9jZRzdChnWZAqWSx9R1jz7_9uB8Wdkqd2A30Ido552Eduor1PMI7XiTj10HEHUXWmTiexdqza4FR_zXEoPEmsV7IWHlkppAVyMdWlJlx0VPQ5g1c&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgzmFZzniope4of3GQJuWkxEv5pdNmHOpTVMpsdjuR0L2YcSHr1iRrw7A8m7rAjrQH_GmLeuWiMFbwaCwN-pV7FkzaVNn3bmf49wLyWNEis5p2UqfwQ4KtgnOGebwjKvdv9BuOfgWidwTIUTlfwBLErwzBP7a1NuI7nWiazbd_4XecmSWulBb1gzKl62s4V6T7OHWONF21BW2q0ABvuv5gUKVeDaaU7BTCknuDLPH057VlaFUlUOg2g61waLT_5nyDNP0qNugPS186EJ8yFAYTOV5a4pN8jOOdEtqberaHkDmKDsdCto-uPQggUfF4UqTGFiz8RfuZhAHawfbUuvceoW3aKui0TBAoy_wxk_M2wE9lOfy",
+            "q": "Customer Insights Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgzmFZzniope4of3GQJuWkxEv5pdNmHOpTVMpsdjuR0L2YcSHr1iRrw7A8m7rAjrQH_GmLeuWiMFbwaCwN-pV7FkzaVNn3bmf49wLyWNEis5p2UqfwQ4KtgnOGebwjKvdv9BuOfgWidwTIUTlfwBLErwzBP7a1NuI7nWiazbd_4XecmSWulBb1gzKl62s4V6T7OHWONF21BW2q0ABvuv5gUKVeDaaU7BTCknuDLPH057VlaFUlUOg2g61waLT_5nyDNP0qNugPS186EJ8yFAYTOV5a4pN8jOOdEtqberaHkDmKDsdCto-uPQggUfF4UqTGFiz8RfuZhAHawfbUuvceoW3aKui0TBAoy_wxk_M2wE9lOfy&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgzmFZzniope4of3GQJuWkxEv5pdNmHOpTVMpsdjuR0L2YcSHr1iRrw7A8m7rAjrQH_GmLeuWiMFbwaCwN-pV7FkzaVNn3bmf49wLyWNEis5p2UqfwQ4KtgnOGebwjKvdv9BuOfgWidwTIUTlfwBLErwzBP7a1NuI7nWiazbd_4XecmSWulBb1gzKl62s4V6T7OHWONF21BW2q0ABvuv5gUKVeDaaU7BTCknuDLPH057VlaFUlUOg2g61waLT_5nyDNP0qNugPS186EJ8yFAYTOV5a4pN8jOOdEtqberaHkDmKDsdCto-uPQggUfF4UqTGFiz8RfuZhAHawfbUuvceoW3aKui0TBAoy_wxk_M2wE9lOfy&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX2rbToen15rpQ7aLccMOMB8mNMIl6PiQFzwVmBF1O5lGcK_4NFm43WLm2qeSCNel7tZjiahDZ5Qk9jIQdLKaMFLl2pf7izm5PqKdHDSv_KnGLL1Wmmu7dFAkkJLFagh9uEfzfUz1ZqbfqrMELOFQr301630pzdWUI3G3jKnYcTkQfzj3V4MyD0p2BbE8SvCxQce-VBM4FWHX1JzxCmPw0h-wtSB3QQXzUH7KVVuvYyWOo0sSQFUbrazeN_6EU4ei2RdtzcEnnCbRkddjOegHqmbA4rsq5IVHhAQ4ptyFKhft3VAjQWJyq8rLChHAdjH0xHXBcciCfJmaJElYQxG8OANxreI8DdJJRHR7nE7rffBZA31vY",
+            "q": "Customer Insights Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2rbToen15rpQ7aLccMOMB8mNMIl6PiQFzwVmBF1O5lGcK_4NFm43WLm2qeSCNel7tZjiahDZ5Qk9jIQdLKaMFLl2pf7izm5PqKdHDSv_KnGLL1Wmmu7dFAkkJLFagh9uEfzfUz1ZqbfqrMELOFQr301630pzdWUI3G3jKnYcTkQfzj3V4MyD0p2BbE8SvCxQce-VBM4FWHX1JzxCmPw0h-wtSB3QQXzUH7KVVuvYyWOo0sSQFUbrazeN_6EU4ei2RdtzcEnnCbRkddjOegHqmbA4rsq5IVHhAQ4ptyFKhft3VAjQWJyq8rLChHAdjH0xHXBcciCfJmaJElYQxG8OANxreI8DdJJRHR7nE7rffBZA31vY&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2rbToen15rpQ7aLccMOMB8mNMIl6PiQFzwVmBF1O5lGcK_4NFm43WLm2qeSCNel7tZjiahDZ5Qk9jIQdLKaMFLl2pf7izm5PqKdHDSv_KnGLL1Wmmu7dFAkkJLFagh9uEfzfUz1ZqbfqrMELOFQr301630pzdWUI3G3jKnYcTkQfzj3V4MyD0p2BbE8SvCxQce-VBM4FWHX1JzxCmPw0h-wtSB3QQXzUH7KVVuvYyWOo0sSQFUbrazeN_6EU4ei2RdtzcEnnCbRkddjOegHqmbA4rsq5IVHhAQ4ptyFKhft3VAjQWJyq8rLChHAdjH0xHXBcciCfJmaJElYQxG8OANxreI8DdJJRHR7nE7rffBZA31vY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJIFl0Enjq_nMpHLZZOGDbF5KbkBiM3_Tqn7mEPNBvqkoQpXUGelTmQ26H4rVwCAC8aTgvrkhN7YLrW4New7xQpCocWByRLThkq9nFUIc2tadQGf-7BZNigsQgql23sfrLTXDYilI_kDr1S2qsHguC5JFYU52UvaNCTQAMz7UcWaw17xeSsxQXlGJMHsaJkDErh_Bv2OeZJZg24uM139mUIa3IJEIfJWQdtYerkFrM11dorKMkL831QxM2RlZIN5YdSUE7_EmcmyqT454VithEDQ5crvdj2Wlak23ALF7cAw6txBDMTjrYDcJBZQfOL5vHeFpQbc9s2iO8JXuPOF8cgPXrgZpbyADKIN7PNDzK-FzXbHZ",
+            "q": "Customer Insights Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJIFl0Enjq_nMpHLZZOGDbF5KbkBiM3_Tqn7mEPNBvqkoQpXUGelTmQ26H4rVwCAC8aTgvrkhN7YLrW4New7xQpCocWByRLThkq9nFUIc2tadQGf-7BZNigsQgql23sfrLTXDYilI_kDr1S2qsHguC5JFYU52UvaNCTQAMz7UcWaw17xeSsxQXlGJMHsaJkDErh_Bv2OeZJZg24uM139mUIa3IJEIfJWQdtYerkFrM11dorKMkL831QxM2RlZIN5YdSUE7_EmcmyqT454VithEDQ5crvdj2Wlak23ALF7cAw6txBDMTjrYDcJBZQfOL5vHeFpQbc9s2iO8JXuPOF8cgPXrgZpbyADKIN7PNDzK-FzXbHZ&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJIFl0Enjq_nMpHLZZOGDbF5KbkBiM3_Tqn7mEPNBvqkoQpXUGelTmQ26H4rVwCAC8aTgvrkhN7YLrW4New7xQpCocWByRLThkq9nFUIc2tadQGf-7BZNigsQgql23sfrLTXDYilI_kDr1S2qsHguC5JFYU52UvaNCTQAMz7UcWaw17xeSsxQXlGJMHsaJkDErh_Bv2OeZJZg24uM139mUIa3IJEIfJWQdtYerkFrM11dorKMkL831QxM2RlZIN5YdSUE7_EmcmyqT454VithEDQ5crvdj2Wlak23ALF7cAw6txBDMTjrYDcJBZQfOL5vHeFpQbc9s2iO8JXuPOF8cgPXrgZpbyADKIN7PNDzK-FzXbHZ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqRlnF5-p5ojPzss7-402wEaFm-dHXhyH2EU0x3s-G-_2oCRj0PXkydICFyVr7Hr0_Jnm43eDfxcOFZ83EZysbNdP5DnYwWIfL__3r91GHXUgvzPLGCNS-qp6598x1waZsLbM-o3QuY8vy-vk63jCWwIkeJTm6sorGA7P__F0khjTSYpm2lo_5N8ULO887kl6L93oOPyhCtJPcuMFfFxvo4J9jZRzdChnWZAqWSx9R1jz7_9uB8Wdkqd2A30Ido552Eduor1PMI7XiTj10HEHUXWmTiexdqza4FR_zXEoPEmsV7IWHlkppAVyMdWlJlx0VPQ5g1c",
+            "q": "Customer Insights Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqRlnF5-p5ojPzss7-402wEaFm-dHXhyH2EU0x3s-G-_2oCRj0PXkydICFyVr7Hr0_Jnm43eDfxcOFZ83EZysbNdP5DnYwWIfL__3r91GHXUgvzPLGCNS-qp6598x1waZsLbM-o3QuY8vy-vk63jCWwIkeJTm6sorGA7P__F0khjTSYpm2lo_5N8ULO887kl6L93oOPyhCtJPcuMFfFxvo4J9jZRzdChnWZAqWSx9R1jz7_9uB8Wdkqd2A30Ido552Eduor1PMI7XiTj10HEHUXWmTiexdqza4FR_zXEoPEmsV7IWHlkppAVyMdWlJlx0VPQ5g1c&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqRlnF5-p5ojPzss7-402wEaFm-dHXhyH2EU0x3s-G-_2oCRj0PXkydICFyVr7Hr0_Jnm43eDfxcOFZ83EZysbNdP5DnYwWIfL__3r91GHXUgvzPLGCNS-qp6598x1waZsLbM-o3QuY8vy-vk63jCWwIkeJTm6sorGA7P__F0khjTSYpm2lo_5N8ULO887kl6L93oOPyhCtJPcuMFfFxvo4J9jZRzdChnWZAqWSx9R1jz7_9uB8Wdkqd2A30Ido552Eduor1PMI7XiTj10HEHUXWmTiexdqza4FR_zXEoPEmsV7IWHlkppAVyMdWlJlx0VPQ5g1c&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgzmFZzniope4of3GQJuWkxEv5pdNmHOpTVMpsdjuR0L2YcSHr1iRrw7A8m7rAjrQH_GmLeuWiMFbwaCwN-pV7FkzaVNn3bmf49wLyWNEis5p2UqfwQ4KtgnOGebwjKvdv9BuOfgWidwTIUTlfwBLErwzBP7a1NuI7nWiazbd_4XecmSWulBb1gzKl62s4V6T7OHWONF21BW2q0ABvuv5gUKVeDaaU7BTCknuDLPH057VlaFUlUOg2g61waLT_5nyDNP0qNugPS186EJ8yFAYTOV5a4pN8jOOdEtqberaHkDmKDsdCto-uPQggUfF4UqTGFiz8RfuZhAHawfbUuvceoW3aKui0TBAoy_wxk_M2wE9lOfy",
+            "q": "Customer Insights Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgzmFZzniope4of3GQJuWkxEv5pdNmHOpTVMpsdjuR0L2YcSHr1iRrw7A8m7rAjrQH_GmLeuWiMFbwaCwN-pV7FkzaVNn3bmf49wLyWNEis5p2UqfwQ4KtgnOGebwjKvdv9BuOfgWidwTIUTlfwBLErwzBP7a1NuI7nWiazbd_4XecmSWulBb1gzKl62s4V6T7OHWONF21BW2q0ABvuv5gUKVeDaaU7BTCknuDLPH057VlaFUlUOg2g61waLT_5nyDNP0qNugPS186EJ8yFAYTOV5a4pN8jOOdEtqberaHkDmKDsdCto-uPQggUfF4UqTGFiz8RfuZhAHawfbUuvceoW3aKui0TBAoy_wxk_M2wE9lOfy&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgzmFZzniope4of3GQJuWkxEv5pdNmHOpTVMpsdjuR0L2YcSHr1iRrw7A8m7rAjrQH_GmLeuWiMFbwaCwN-pV7FkzaVNn3bmf49wLyWNEis5p2UqfwQ4KtgnOGebwjKvdv9BuOfgWidwTIUTlfwBLErwzBP7a1NuI7nWiazbd_4XecmSWulBb1gzKl62s4V6T7OHWONF21BW2q0ABvuv5gUKVeDaaU7BTCknuDLPH057VlaFUlUOg2g61waLT_5nyDNP0qNugPS186EJ8yFAYTOV5a4pN8jOOdEtqberaHkDmKDsdCto-uPQggUfF4UqTGFiz8RfuZhAHawfbUuvceoW3aKui0TBAoy_wxk_M2wE9lOfy&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX2rbToen15rpQ7aLccMOMB8mNMIl6PiQFzwVmBF1O5lGcK_4NFm43WLm2qeSCNel7tZjiahDZ5Qk9jIQdLKaMFLl2pf7izm5PqKdHDSv_KnGLL1Wmmu7dFAkkJLFagh9uEfzfUz1ZqbfqrMELOFQr301630pzdWUI3G3jKnYcTkQfzj3V4MyD0p2BbE8SvCxQce-VBM4FWHX1JzxCmPw0h-wtSB3QQXzUH7KVVuvYyWOo0sSQFUbrazeN_6EU4ei2RdtzcEnnCbRkddjOegHqmbA4rsq5IVHhAQ4ptyFKhft3VAjQWJyq8rLChHAdjH0xHXBcciCfJmaJElYQxG8OANxreI8DdJJRHR7nE7rffBZA31vY",
+            "q": "Customer Insights Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2rbToen15rpQ7aLccMOMB8mNMIl6PiQFzwVmBF1O5lGcK_4NFm43WLm2qeSCNel7tZjiahDZ5Qk9jIQdLKaMFLl2pf7izm5PqKdHDSv_KnGLL1Wmmu7dFAkkJLFagh9uEfzfUz1ZqbfqrMELOFQr301630pzdWUI3G3jKnYcTkQfzj3V4MyD0p2BbE8SvCxQce-VBM4FWHX1JzxCmPw0h-wtSB3QQXzUH7KVVuvYyWOo0sSQFUbrazeN_6EU4ei2RdtzcEnnCbRkddjOegHqmbA4rsq5IVHhAQ4ptyFKhft3VAjQWJyq8rLChHAdjH0xHXBcciCfJmaJElYQxG8OANxreI8DdJJRHR7nE7rffBZA31vY&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2rbToen15rpQ7aLccMOMB8mNMIl6PiQFzwVmBF1O5lGcK_4NFm43WLm2qeSCNel7tZjiahDZ5Qk9jIQdLKaMFLl2pf7izm5PqKdHDSv_KnGLL1Wmmu7dFAkkJLFagh9uEfzfUz1ZqbfqrMELOFQr301630pzdWUI3G3jKnYcTkQfzj3V4MyD0p2BbE8SvCxQce-VBM4FWHX1JzxCmPw0h-wtSB3QQXzUH7KVVuvYyWOo0sSQFUbrazeN_6EU4ei2RdtzcEnnCbRkddjOegHqmbA4rsq5IVHhAQ4ptyFKhft3VAjQWJyq8rLChHAdjH0xHXBcciCfJmaJElYQxG8OANxreI8DdJJRHR7nE7rffBZA31vY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJIFl0Enjq_nMpHLZZOGDbF5KbkBiM3_Tqn7mEPNBvqkoQpXUGelTmQ26H4rVwCAC8aTgvrkhN7YLrW4New7xQpCocWByRLThkq9nFUIc2tadQGf-7BZNigsQgql23sfrLTXDYilI_kDr1S2qsHguC5JFYU52UvaNCTQAMz7UcWaw17xeSsxQXlGJMHsaJkDErh_Bv2OeZJZg24uM139mUIa3IJEIfJWQdtYerkFrM11dorKMkL831QxM2RlZIN5YdSUE7_EmcmyqT454VithEDQ5crvdj2Wlak23ALF7cAw6txBDMTjrYDcJBZQfOL5vHeFpQbc9s2iO8JXuPOF8cgPXrgZpbyADKIN7PNDzK-FzXbHZ",
+            "q": "Customer Insights Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjDWdp9L_OIIWZUajKYCBZxtBxICg:1793395681792&q=Customer+Insights+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJIFl0Enjq_nMpHLZZOGDbF5KbkBiM3_Tqn7mEPNBvqkoQpXUGelTmQ26H4rVwCAC8aTgvrkhN7YLrW4New7xQpCocWByRLThkq9nFUIc2tadQGf-7BZNigsQgql23sfrLTXDYilI_kDr1S2qsHguC5JFYU52UvaNCTQAMz7UcWaw17xeSsxQXlGJMHsaJkDErh_Bv2OeZJZg24uM139mUIa3IJEIfJWQdtYerkFrM11dorKMkL831QxM2RlZIN5YdSUE7_EmcmyqT454VithEDQ5crvdj2Wlak23ALF7cAw6txBDMTjrYDcJBZQfOL5vHeFpQbc9s2iO8JXuPOF8cgPXrgZpbyADKIN7PNDzK-FzXbHZ&udm=8&sa=X&ved=2ahUKEwjS4rfE1-KXAxVJl4kEHZWFNocQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Customer+Insights+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJIFl0Enjq_nMpHLZZOGDbF5KbkBiM3_Tqn7mEPNBvqkoQpXUGelTmQ26H4rVwCAC8aTgvrkhN7YLrW4New7xQpCocWByRLThkq9nFUIc2tadQGf-7BZNigsQgql23sfrLTXDYilI_kDr1S2qsHguC5JFYU52UvaNCTQAMz7UcWaw17xeSsxQXlGJMHsaJkDErh_Bv2OeZJZg24uM139mUIa3IJEIfJWQdtYerkFrM11dorKMkL831QxM2RlZIN5YdSUE7_EmcmyqT454VithEDQ5crvdj2Wlak23ALF7cAw6txBDMTjrYDcJBZQfOL5vHeFpQbc9s2iO8JXuPOF8cgPXrgZpbyADKIN7PNDzK-FzXbHZ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Customer Insights Analyst: Drive Growth with Data",
+      "company_name": "Jersey Mike's Subs",
+      "location": "United States",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate has strong SQL skills, experience with Power BI or Tableau, and an analytic mindset focused on turning data into strategic action that enhances"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will own reporting and dashboard development, partnering across BI, CRM, Marketing, Strategy and Finance to influence customer decisions across the lifecycle"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=rf8D7Cr0zI5rOB0lAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU4HDoJgI4JLncRCteBUnEtajySa5kruatt_8iPV5Y0v-SySy3lgoQ4jXAM7Y4XhFLSfWTLIo3sjFJFGsTC6H7kWDVsoqQFGHVsLFKAgMh6XRyvSc6YUs08NixbXpi11igI2NKknNfynZqsj9l4L1vvDbkr7YDarEiPjDDf3wjVDNTQMLsA9OMEHVL8M-QvutH0GrwAAAA&shmds=v1_Ac3VAox_4N8r0qrtAsPlqWTgkzA1djjGOlFtcl4e0beHl5h7Kw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=rf8D7Cr0zI5rOB0lAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50be12cbc87b354def416/images/LYpeNIEmdZBTNknbWq9PJe0AfAeVTHlUO5JTA_3tpB4.png",
+      "extensions": [
+        "4 days ago",
+        "85K–115K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.jobleads.com/us/job/customer-insights-analyst-drive-growth-with-data--united-states--eb8619fbcec3dc6981addb1b444eb5851",
+      "job_title": "Customer Insights Analyst: Drive Growth with Data",
+      "description": "Jersey Mike’s Subs in the United States seeks a Customer Insights Analyst to transform first-party customer data into actionable insights that drive business growth. You will own reporting and dashboard development, partnering across BI, CRM, Marketing, Strategy and Finance to influence customer decisions across the lifecycle.\n\nThe ideal candidate has strong SQL skills, experience with Power BI or Tableau, and an analytic mindset focused on turning data into strategic action that enhances",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/customer-insights-analyst-drive-growth-with-data--united-states--eb8619fbcec3dc6981addb1b444eb5851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5373-b987557bfb6f42fc4f0c67e3872e643f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBJbnNpZ2h0cyBBbmFseXN0OiBEcml2ZSBHcm93dGggd2l0aCBEYXRhIiwiY29tcGFueV9uYW1lIjoiSmVyc2V5IE1pa2UncyBTdWJzIiwiaHRpZG9jaWQiOiJyZjhEN0NyMHpJNXJPQjBsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVdKclh6WkNZM2RMYTFwQlpuQm1iazQwUm1sdWNXOXFRblZYUkU1RlVHUkhYMHhuVWxwQmJXRlFVRjl3T1U5T1dsbERPVzVoYWswelFWRkhNMlJ3UWtkSlVXbENMVzF2VURaSk5WSmlSbFkxVlc1alUyRmpjbmRxTlcxYWFXNUpWWEpPTm1ZMlNHRk5MVk5PY1dScGJUTmxUek5tWm5kRFgxSkViRlJKWmpsRFFXZFFXRWtTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZEliMW8wTmtWbWQyRXhiMDlHVWtaSlJWWXRWMnB4TkVrdGQyRjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJyZjhEN0NyMHpJNXJPQjBsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Analyst, Customer Insights",
+      "company_name": "060 SAKS & CO LLC",
+      "location": "United States",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=KHlupUmq3i8xPcZoAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU6Hg4NoUwUddCodRC04FOeStkcSSe9K74T6H36wurzxJZ9Zss3JxrfoGoqXKPc4woUkOK8CG7hyA4J2bD0wwZnZRZyfvOogR2NEYupErYY2bbk3TNjwZJ7cyJ9avB1xiFax3u2zKR3IrRbZIYMqv1WwhOIOZVlAIHhQUOyg-l0oX2VlRGCXAAAA&shmds=v1_Ac3VAozmVU9VqoFJwhYFqcDkEjwJp0rX3i11VlMBSLTo9tRrYw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=KHlupUmq3i8xPcZoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50be12cbc87b354def416/images/jZ99pQOlgSZcoXYkYoI_rffsbI9dwnrtw_SfDlZUbcU.png",
+      "extensions": [
+        "22 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://saks.wd1.myworkdayjobs.com/en-US/careers_at_saks/job/Analyst--Customer-Strategy_R-109117",
+      "job_title": "Analyst, Customer Insights",
+      "description": "WHO WE ARE: Exemplar Luxury Group, formerly Saks Global, is the luxury collective uniting coveted brands with unrivaled customer experiences across Neiman Marcus, Saks Fifth Avenue and Bergdorf Goodman. Driven by a relentless devotion to our customers and powered by our talented colleagues, we offer expertly curated product assortments, unparalleled service and personalized experiences across our integrated retail model. Through strong partnerships with the world's most desired luxury brands and deep customer relationships enhanced by data-rich insights, Exemplar Luxury Group is committed to setting the standard of excellence for luxury retail. Job Description: YOU WILL BE: As an Analyst, Customer Insights, you will translate complex customer data into actionable growth strategies. Working at the intersection of analytics, CRM, and commercial strategy, you will build foundational SQL models, analyze audience behaviors, and design dynamic reporting that tracks performance across the customer lifecycle. Beyond pulling insights, you will partner directly with cross-functional teams to identify churn risks, uncover high-value audience segments, and turn raw data into executive-ready recommendations that directly influence retention and revenue. Working directly alongside the Senior Manager of Customer Strategy, you will support in daily tasks of audience requests and propose new ideas and opportunities based on your findings. WHAT YOU WILL DO: Data Analysis & Storytelling: Manipulate and analyze raw datasets in Excel / Google Sheets to build pivot tables that help surface key trends. Study performance and present clear, easy-to-understand findings. CRM Collaboration & Ticket Tracking: Submit clear, detailed requests to the CRM team via Jira for targeted audience lists. Actively monitor requests, reply promptly to Jira comments/questions from the CRM team, and follow up to ensure requests stay on track and get delivered on time. Agile Data Extraction: Write basic SQL queries to quickly pull, filter, and aggregate data from internal customer databases to support ad-hoc questions and routine reporting. Cross Functional Collaboration: Build relationships with cross functional teams to gain a better understanding of the business needs and how customer strategy can support it. Proactive Problem Solving: Look past surface-level numbers. When a metric shifts unexpectedly, jump in, ask probing questions, and dig into the data to find underlying root causes. WHAT YOU WILL BRING: Bachelor's degree 2-3 years of experience in a highly analytical and strategic role Excel Proficiency: Skillful with data organization in excel (rows/columns, sorting/filtering) and using pivot tables to analyze data and deliver clear takeaways. Foundational SQL: Ability to write basic SQL queries (SELECT, WHERE, GROUP BY, simple JOINs) to extract and aggregate data. Snowflake Experience: Hands-on experience with Snowflake is a strong plus; experience with other cloud databases (BigQuery, Redshift, MySQL) is welcome. Jira Communication: Experience using Jira (or any project management platform) as a requester—submitting tickets, managing your submitted queue, and actively communicating via ticket comments to keep cross-functional requests moving forward. YOUR LIFE AND CAREER AT EXEMPLAR LUXURY GROUP: Opportunity to work in a dynamic fast paced environment at a company experiencing growth and transformation Exposure to rewarding career advancement opportunities across the largest multi-brand luxury retailer from retail to distribution, to digital or corporate Comprehensive benefits package for all eligible full-time employees (including medical, vision and dental) An amazing employee discount Benefits: We offer the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision insurance, 401(k) retirement plan, basic life insurance, supplemental life insurance, disability insurance, and a variety of additional voluntary benefits (such as critical illness, hospital and accident insurance). Thank you for your interest with Exemplar Luxury Group. We look forward to reviewing your application. Exemplar Luxury Group is an equal employment opportunity employer and is committed to providing reasonable accommodations to applicants with disabilities. If you are interested in applying for employment with Exemplar Luxury Group and would like to request special assistance or an accommodation, please contact candidatesupport@exemplarluxury.com. Salary Range $72,000 - $89,000* Compensation for this role varies by geographic location. The listed range reflects multiple markets, including higher-cost areas. Actual starting pay will be determined based on work location, experience, and other job-related factors. Exemplar Luxury Group is a world-renowned luxury ecommerce destination. The company’s unique approach combines a focus on the digital customer experience with a strong connection to a network of extraordinary stores that extends that seamless experience into the real world. On its website and app, Exemplar Luxury Group offers an unparalleled selection of curated merchandise across fashion for women and men, beauty, jewelry, home décor and more. In addition to the shopping experience, customers come to Exemplar Luxury Group for inspiring editorial content, access to digital stylists, lifestyle experiences and other world-class services. The company is currently in the midst of a dramatic expansion, driven by significant enhancements to its platforms and offerings, with the goal of becoming the preeminent destination for luxury internationally.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://saks.wd1.myworkdayjobs.com/en-US/careers_at_saks/job/Analyst--Customer-Strategy_R-109117?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "USA Remote Jobs Mysmartpros",
+          "link": "https://remoteworld.mysmartpros.com/job/analyst-customer-insights-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/analyst-customer-insights-saksfifthave-sf-0689-saks-direct--t7xk-877237462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5374-fef9bb14849629d695b89a4dd089dcb3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFseXN0LCBDdXN0b21lciBJbnNpZ2h0cyIsImNvbXBhbnlfbmFtZSI6IjA2MCBTQUtTIFx1MDAyNiBDTyBMTEMiLCJodGlkb2NpZCI6IktIbHVwVW1xM2k4eFBjWm9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa3R5YzNCT2NESlJUVTAyWjBoMmJYUTBPRFJoU2xkTmNrbERXazFDUlhaVFEyRkpXbFp5UTFkM1ducENNRnBDY2t0NGEzZFlaMFY1Wm1oMldrMWlRMnMzTUc5WlVIWTBZMlU0YUU0NWNXWndlakJ0ZEVaR1RERnFTMFpGYjBSVGQzVkJaRkJFZG1WNk5XaElWRWxsYVRkMFoxTlJaMUpCYkVaNlNFcEJkMDAwTjFWUlRGQVNGelJSZG14aGNFeDFURGh0ZFhCMFVWQnNXWFpoZFZGbkdpSkJTRTR3UlRkRloycExUMWREY0ZSRlZtaEtjbmhNZDNSTFVFSmZibGhTVWpSMyIsImZjdiI6IjMiLCJmY19pZCI6IktIbHVwVW1xM2k4eFBjWm9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Customer Insights Analyst",
+      "company_name": "Eliassen Group",
+      "location": "Cheyenne, WY",
+      "via": "BeBee",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Eliassen Group client is seeking a part-time Insights Analyst to support sustainability and impact reporting",
+            "The role will focus on dashboard data collection and governance, executive reporting and storytelling, operational coordination, process improvement, and adoption of metrics across the enterprise",
+            "The analyst will write SQL queries, coordinate stakeholders, maintain KPI documentation, and help demonstrate impact through clear narratives and reports"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=yYlZoVOBT-Pc68B8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CQ5ys2hSBBedpIjoD4hTScqRRNK7kLtC-xX-srq88TWfVdN2kyiPWOFOkkJUgQu5vIjCHh7sQdDVIQIT3JhDxvU5qhY5WSuSTRB1mgYz8GiZ0PNs3-zlTy_RVSzZKfaHYzubQmG7uebkRPC3VZ4KJIIu4oJEuIPn6wskKQW9kgAAAA&shmds=v1_Ac3VAoxL5EmuS5Hv1BvHhYmXtzVanaq1zDRge9cEXf6IpWThXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=yYlZoVOBT-Pc68B8AAAAAA%3D%3D",
+      "extensions": [
+        "22 days ago",
+        "Part-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://bebee.com/us/jobs/customer-insights-analyst-eliassen-group-cheyenne--lensa-7428_038b28435450f6a7e0518998e665791a6a1304fd467e6b09d04f40953646e47a",
+      "job_title": "Customer Insights Analyst",
+      "description": "The Eliassen Group client is seeking a part-time Insights Analyst to support sustainability and impact reporting. The role will focus on dashboard data collection and governance, executive reporting and storytelling, operational coordination, process improvement, and adoption of metrics across the enterprise.The analyst will write SQL queries, coordinate stakeholders, maintain KPI documentation, and help demonstrate impact through clear narratives and reports.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/customer-insights-analyst-eliassen-group-cheyenne--lensa-7428_038b28435450f6a7e0518998e665791a6a1304fd467e6b09d04f40953646e47a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWxpYXNzZW4gR3JvdXAiLCJodGlkb2NpZCI6InlZbFpvVk9CVC1QYzY4QjhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbkpCYUhWd2EzUktTekZtYW10VFYwRnBTMUZYU2xOMFluaDFRbUZHWkU5Q2EyaDVPRTB3U0hkd1ZHcERlbVZwUmxwUk5YaG5Za05wYjFkcmJYVXlTRUZHUlcxYU1EQm5ha1U0Y0c1TVMyNTJNbnBIZFZwQmFVaFlYMmx1TVRkeVVtcE9jMVJFZUdjMWRWTkdkMGMyVkhWblIwWXRhekJmWVZOMFowVTNOR0pxUjNaWVgwWVNGelJSZG14aGNFeDFURGh0ZFhCMFVWQnNXWFpoZFZGbkdpSkJTRTR3UlRkSWFEVlNNbU5tYnpsYVFrNW9VM28xUWpWTFEwVlRXazFPV1hoMyIsImZjdiI6IjMiLCJmY19pZCI6InlZbFpvVk9CVC1QYzY4QjhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company_name": "Earn Haus",
+      "location": "Coal Creek, CO",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be at least 18 years old",
+            "No previous experience required",
+            "Basic computer or smartphone skills",
+            "Ability to follow simple instructions",
+            "Reliable internet connection",
+            "Those seeking a side hustle or part-time income",
+            "No experience or special skills required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer same-day payments",
+            "Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities",
+            "Benefits",
+            "Same-day payments",
+            "Earn up to $25 per completed survey",
+            "Get paid to play games",
+            "Work from home or anywhere with internet access",
+            "Create your own schedule",
+            "No commute or fixed hours",
+            "Get paid through PayPal, Venmo, check, or gift cards (where available)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your feedback helps companies improve the products, services, and experiences people use every day",
+            "Play mobile games and earn cash",
+            "Share honest opinions about products, services, and advertisements",
+            "Choose opportunities that fit your schedule",
+            "Help brands improve future products and services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=iX6eDawCXfmw54wyAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXESwrCMBAAUNz2CLqZtWhSBDe6kiB-Nh6hTMuQtKYzJTOFegcPLb7Fq76rqg7COo9U4MHax2QKF8b8UYM9PKUFJSxdAmG4icRM63Mym_TkvWp2UQ2t71wnoxemVhY_SKv_Gk1YaMpo1ByO9eImjtvNFQvDHWeFniEIZgiF6L2D8PoBrNMv6Y8AAAA&shmds=v1_Ac3VAozvo46trrNuZFACcjOIqfskq55101YFg6enfwFX4P0Yuw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=iX6eDawCXfmw54wyAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-3014-396d58afd2e73bf4830335e6b7c855c9",
+      "job_title": "Consumer Insights Analyst",
+      "description": "Job Description\n\nWe're currently seeking motivated individuals to participate in online surveys and paid gaming opportunities for well-known national brands. If you're looking for a flexible way to earn extra cash from home, this opportunity could be a great fit. We offer same-day payments.\n\nEarn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities. Your feedback helps companies improve the products, services, and experiences people use every day.\n\nWhat You'll Do\n\nComplete paid online surveysPlay mobile games and earn cashShare honest opinions about products, services, and advertisementsChoose opportunities that fit your scheduleHelp brands improve future products and servicesQualifications\n\nMust be at least 18 years oldNo previous experience requiredBasic computer or smartphone skillsAbility to follow simple instructionsReliable internet connectionWho This Is Perfect For\n\nAnyone looking to earn extra incomePeople who want a flexible work-from-home opportunityStudents, parents, retirees, and professionalsThose seeking a side hustle or part-time incomeBenefits\n\nSame-day paymentsEarn up to $25 per completed surveyGet paid to play gamesWork from home or anywhere with internet accessCreate your own scheduleNo commute or fixed hoursGet paid through PayPal, Venmo, check, or gift cards (where available)No experience or special skills requiredThis opportunity is ideal for people from all backgrounds, including customer service, retail, warehouse, healthcare, hospitality, administrative support, education, sales, food service, delivery, rideshare, gig work, and more.\n\nLooking for a work from home job, remote job, side hustle, part-time job, flexible online job, or a way to earn extra money? Paid online surveys and play-to-earn games are a simple way to make money online in your spare time. Survey participants come from all backgrounds including retail associates, customer service representatives, cashiers, warehouse workers, teachers, nurses, administrative assistants, drivers, students, stay-at-home parents, military veterans, and retirees. Whether you're looking for supplemental income, remote work, online research studies, market research opportunities, paid focus groups, opinion panels, or legitimate ways to earn money online, no previous experience is required—just your honest opinions and a computer or smartphone with internet access.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3014-396d58afd2e73bf4830335e6b7c855c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdW1lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWFybiBIYXVzIiwiaHRpZG9jaWQiOiJpWDZlRGF3Q1hmbXc1NHd5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWxOdFlVMHdSMEpxVGs5U2FEVk9VR3N3Y1RCUFFtZG5lVWcwV0ZKNlRYbGtOM05WTW1wWFkyTXljaTFWVDA5NFdsQnRXazVHVkZsUFp6bE5iM0pKUVhCSVQyaEdXRGxFUVhSRlRTMVFhazl5Um1sV1dFbDZVVVZCTVVjNWVXVmhhbFJ6WDFOT2JGWmlTREpmVGtWNmIyUkhZMjQ1UTNWclZuQjJNbVZsUW1zNFYzSXlTa1FTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZEhNM2w0Y21rd09Fa3pORlJ4WmtwV1lWWjViVFJtTlVNd05tSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJpWDZlRGF3Q1hmbXc1NHd5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company_name": "Earn Haus",
+      "location": "Keenesburg, CO",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be at least 18 years old",
+            "No previous experience required",
+            "Basic computer or smartphone skills",
+            "Ability to follow simple instructions",
+            "Reliable internet connection",
+            "Those seeking a side hustle or part-time income",
+            "No experience or special skills required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer same-day payments",
+            "Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities",
+            "Benefits",
+            "Same-day payments",
+            "Earn up to $25 per completed survey",
+            "Get paid to play games",
+            "Work from home or anywhere with internet access",
+            "Create your own schedule",
+            "No commute or fixed hours",
+            "Get paid through PayPal, Venmo, check, or gift cards (where available)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your feedback helps companies improve the products, services, and experiences people use every day",
+            "Play mobile games and earn cash",
+            "Share honest opinions about products, services, and advertisements",
+            "Choose opportunities that fit your schedule",
+            "Help brands improve future products and services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=bePnWi6YME6ZHq79AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXESwrCMBAAUNz2CLqZtWhSBDe6kiL-Fh6hTMqQtKQzJTOFegcPLb7Fq76rqm6EdR6pwIO1j8kULoz5owZ7eEoAJSxdAmG4icRM63Mym_TkvWp2UQ2t71wnoxemIIsfJOi_VhMWmjIatYdjvbiJ43ZzxcJwx1mhZ3gRMWmYS9xB8_4B81enLY8AAAA&shmds=v1_Ac3VAozQsLuodrwj-vu3Sm7I6AKwgWkBsdqjf5h_MO7VGmiIRA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=bePnWi6YME6ZHq79AAAAAA%3D%3D",
+      "extensions": [
+        "25 an hour",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://talents.vaia.com/companies/earn-haus/keenesburg/consumer-insights-analyst-103032151/",
+      "job_title": "Consumer Insights Analyst",
+      "description": "Job Description  \n\nWe're currently seeking motivated individuals to participate in online surveys and paid gaming opportunities for well-known national brands. If you're looking for a flexible way to earn extra cash from home, this opportunity could be a great fit. We offer same-day payments.\n\n  Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities. Your feedback helps companies improve the products, services, and experiences people use every day.\n\n  What You'll Do    Complete paid online surveys   Play mobile games and earn cash   Share honest opinions about products, services, and advertisements   Choose opportunities that fit your schedule   Help brands improve future products and services   Qualifications    Must be at least 18 years old   No previous experience required   Basic computer or smartphone skills   Ability to follow simple instructions   Reliable internet connection   Who This Is Perfect For    Anyone looking to earn extra income   People who want a flexible work-from-home opportunity   Students, parents, retirees, and professionals   Those seeking a side hustle or part-time income   Benefits    Same-day payments   Earn up to $25 per completed survey   Get paid to play games   Work from home or anywhere with internet access   Create your own schedule   No commute or fixed hours   Get paid through PayPal, Venmo, check, or gift cards (where available)   No experience or special skills required   This opportunity is ideal for people from all backgrounds, including customer service, retail, warehouse, healthcare, hospitality, administrative support, education, sales, food service, delivery, rideshare, gig work, and more.\n\n  Looking for a work from home job, remote job, side hustle, part-time job, flexible online job, or a way to earn extra money? Paid online surveys and play-to-earn games are a simple way to make money online in your spare time. Survey participants come from all backgrounds including retail associates, customer service representatives, cashiers, warehouse workers, teachers, nurses, administrative assistants, drivers, students, stay-at-home parents, military veterans, and retirees. Whether you're looking for supplemental income, remote work, online research studies, market research opportunities, paid focus groups, opinion panels, or legitimate ways to earn money online, no previous experience is required—just your honest opinions and a computer or smartphone with internet access.",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/earn-haus/keenesburg/consumer-insights-analyst-103032151/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3014-9418b1277589f6cbe4f9ffa2513b7063?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdW1lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWFybiBIYXVzIiwiaHRpZG9jaWQiOiJiZVBuV2k2WU1FNlpIcTc5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VaNVRYTXdkalJsYkZGUk9YUk1UM2MxWjBObmN6VjFRM2hSY0doZlJXTlpSemN4V0cxWFZqVjJOemhuU0VKVlFuTlJha1JqYWpkUmIyb3lOMVU1TWpscldHdzVWMjlPVW1reVYxOVFVazl1Y25CRVoyUmZOVlZyYkhaWE1HUndiMkpDZVhSUk1rMUJhbU5EVlU5S05FeDBaMUZTUlhKUlkwMUlaRk5vY1ZnelV6aHBTM1FTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZEdObmxGYVhsdWRGbEdPRTFvTjJ4YVRFWXhjVlZGVUZwcldUbEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJiZVBuV2k2WU1FNlpIcTc5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Customer Insights Analyst: Payer Data",
+      "company_name": "Datavant",
+      "location": "Santa Fe, NM",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Datavant is seeking a Customer Insights Analyst to transform customer and operational data into actionable insights for our Payer Retrieval business",
+            "You will collect, analyze, and visualize data to identify trends, monitor performance, and help teams understand customer needs and outcomes",
+            "You will partner with Customer Success, Operations, and cross‑functional stakeholders to develop dashboards, respond to questions, and identify opportunities to improve the customer experience and operational"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=kxbJY8mNyJYIh-zcAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCQAwA8doXiKecRbsieKm9iKIoKIIPKGkJu5VtUpoo7UP8r-1lBuYwyW-W5MePmjTUwZW19sEUDoxxUMvgicPYT2gIa7hJCUrYVQGE4SLiIy32wazVzDnVmHo1tLpKK2mcMJXSu7eUOqHQgB21EY2K7W7Tpy375Xw6f5ENaobXaIQzreBx_wPB9Eb2mAAAAA&shmds=v1_Ac3VAoxpIeTrV7h98DlOeFwRFV5Qqic6yT8of3suRZmJrygQ4g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=kxbJY8mNyJYIh-zcAAAAAA%3D%3D",
+      "extensions": [
+        "18 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-2283-e8f8a6e48a6f5dc9eebf3a1b4cdaab6f",
+      "job_title": "Customer Insights Analyst: Payer Data",
+      "description": "Datavant is seeking a Customer Insights Analyst to transform customer and operational data into actionable insights for our Payer Retrieval business. You will collect, analyze, and visualize data to identify trends, monitor performance, and help teams understand customer needs and outcomes.\n\nYou will partner with Customer Success, Operations, and cross‑functional stakeholders to develop dashboards, respond to questions, and identify opportunities to improve the customer experience and operational\nJ-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-e8f8a6e48a6f5dc9eebf3a1b4cdaab6f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBJbnNpZ2h0cyBBbmFseXN0OiBQYXllciBEYXRhIiwiY29tcGFueV9uYW1lIjoiRGF0YXZhbnQiLCJodGlkb2NpZCI6Imt4YkpZOG1OeUpZSWgtemNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZblJWVUd0UlNYUkRPV0pWUTJReldGY3dabWxVU21NeVVFNW5OMHBGYTNKQldraHBhako1ZW0xellUWkhhSEI0YzJoa1ptNVdXbloxWkROT2VVNWhVbFZTTWxwNWRuWjFaakpOVlZSclNsRkJORzF2Y0hWNlExb3RXRGR2VkVoR1lYVjFlWHBQWTA5bU1reENOVFV3ZWtJM1ltUmxkazFGYjJobE9WZDNVRlpEZUVKRExXc1NGelJSZG14aGNFeDFURGh0ZFhCMFVWQnNXWFpoZFZGbkdpSkJTRTR3UlRkRk0xZEJSbVZpTjFaVk9ERlVOVEJyYTFKNGJGQjBNRXB5TUhsQiIsImZjdiI6IjMiLCJmY19pZCI6Imt4YkpZOG1OeUpZSWgtemNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company_name": "Earn Haus",
+      "location": "Ault, CO",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be at least 18 years old",
+            "No previous experience required",
+            "Basic computer or smartphone skills",
+            "Ability to follow simple instructions",
+            "Reliable internet connection",
+            "Those seeking a side hustle or part-time income",
+            "No experience or special skills required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer same-day payments",
+            "Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities",
+            "Benefits",
+            "Same-day payments",
+            "Earn up to $25 per completed survey",
+            "Get paid to play games",
+            "Work from home or anywhere with internet access",
+            "Create your own schedule",
+            "No commute or fixed hours",
+            "Get paid through PayPal, Venmo, check, or gift cards (where available)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your feedback helps companies improve the products, services, and experiences people use every day",
+            "Play mobile games and earn cash",
+            "Share honest opinions about products, services, and advertisements",
+            "Choose opportunities that fit your schedule",
+            "Help brands improve future products and services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=sjjwFcmY0VcXPZaFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFy7uzjdLNoUwUWnUsSfxUco13AkKeldyV2hvoDPLX7DV303VdMJ6zJRgSdrCtEUWsb8UYMjvGQAJSw-gjDcRUKm3TWazXpxTjXXQQ0t-drL5IRpkNWNMui_XiMWmjMa9adzs9Yzh_32hoXhgYtCYmiXbAfo3j8psdzkiQAAAA&shmds=v1_Ac3VAoxn-FBcnFbILqelGHgaJZxo8YH3F7PEu47liY_PPYzEVQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=sjjwFcmY0VcXPZaFAAAAAA%3D%3D",
+      "extensions": [
+        "52K–68K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://talents.vaia.com/companies/earn-haus/ault/consumer-insights-analyst-104456653/",
+      "job_title": "Consumer Insights Analyst",
+      "description": "Job Description   We're currently seeking motivated individuals to participate in online surveys and paid gaming opportunities for well-known national brands. If you're looking for a flexible way to earn extra cash from home, this opportunity could be a great fit. We offer same-day payments. \n\n  Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities. Your feedback helps companies improve the products, services, and experiences people use every day. \n\n  What You'll Do     Complete paid online surveys    Play mobile games and earn cash    Share honest opinions about products, services, and advertisements    Choose opportunities that fit your schedule    Help brands improve future products and services     Qualifications     Must be at least 18 years old    No previous experience required    Basic computer or smartphone skills    Ability to follow simple instructions    Reliable internet connection     Who This Is Perfect For     Anyone looking to earn extra income    People who want a flexible work-from-home opportunity    Students, parents, retirees, and professionals    Those seeking a side hustle or part-time income     Benefits     Same-day payments    Earn up to $25 per completed survey    Get paid to play games    Work from home or anywhere with internet access    Create your own schedule    No commute or fixed hours    Get paid through PayPal, Venmo, check, or gift cards (where available)    No experience or special skills required     This opportunity is ideal for people from all backgrounds, including customer service, retail, warehouse, healthcare, hospitality, administrative support, education, sales, food service, delivery, rideshare, gig work, and more. \n\n  Looking for a work from home job, remote job, side hustle, part-time job, flexible online job, or a way to earn extra money? Paid online surveys and play-to-earn games are a simple way to make money online in your spare time. Survey participants come from all backgrounds including retail associates, customer service representatives, cashiers, warehouse workers, teachers, nurses, administrative assistants, drivers, students, stay-at-home parents, military veterans, and retirees. Whether you're looking for supplemental income, remote work, online research studies, market research opportunities, paid focus groups, opinion panels, or legitimate ways to earn money online, no previous experience is required—just your honest opinions and a computer or smartphone with internet access.",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/earn-haus/ault/consumer-insights-analyst-104456653/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3014-20853a920b0922ce2dff37028d26d4da?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdW1lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWFybiBIYXVzIiwiaHRpZG9jaWQiOiJzamp3RmNtWTBWY1hQWmFGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWkxVU4waHZSalZSTFRscVVWOW5kbGN0WnpJMGNVRmFPR2N0T1VGZk5qTlJhV1Y1UmpaVmRsUjNTa1ZJWjJjd2JtWkdPRE5mUm5Kc1RXMWZaVEE1WWpaa1REQkhjWGhYYzJOQ2FWVnZZa1Z0U0RKc2JVbHVVak55TjE5eWVqTktPVU16YW13NFF6bFZOa3BMTWpkQldtNVJUR1JsYjBGM1VsUkhNWEkyWlhoM1FYZG9URTRTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZEZURlJoVERaWVVpMUxRbmxmYjNnMGREaFhNVVpvTVcxTU1ESm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJzamp3RmNtWTBWY1hQWmFGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company_name": "Earn Haus",
+      "location": "Niwot, CO",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be at least 18 years old",
+            "No previous experience required",
+            "Basic computer or smartphone skills",
+            "Ability to follow simple instructions",
+            "Reliable internet connection",
+            "Those seeking a side hustle or part-time income",
+            "No experience or special skills required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer same-day payments",
+            "Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities",
+            "Benefits",
+            "Same-day payments",
+            "Earn up to $25 per completed survey",
+            "Get paid to play games",
+            "Work from home or anywhere with internet access",
+            "Create your own schedule",
+            "No commute or fixed hours",
+            "Get paid through PayPal, Venmo, check, or gift cards (where available)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your feedback helps companies improve the products, services, and experiences people use every day",
+            "Play mobile games and earn cash",
+            "Share honest opinions about products, services, and advertisements",
+            "Choose opportunities that fit your schedule",
+            "Help brands improve future products and services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=sA_Ip4AJiFyibmiXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7AA5ON4smRXDRSYr4M-gjlEsJSSS9C7kr1ifwtcVv-Jrvomk7JplGX-FGkkJUgRNh_ojCFu7sQDzWIQITXJhD9qtjVC1ysFYkmyCKmgYz8GiZvOPZvtjJv14iVl8yqu93-3Y2hcJ6ecZKcMVJIBE80pt1A93zB3jHyeyKAAAA&shmds=v1_Ac3VAozHtuOIeFXBwhf3x-AopB9_mZSUD5f-S_9mYDDlEgS3YQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=sA_Ip4AJiFyibmiXAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-3014-b4b9d451d6187a1ab7f46251e53aefb2",
+      "job_title": "Consumer Insights Analyst",
+      "description": "Job Description\n\nWe're currently seeking motivated individuals to participate in online surveys and paid gaming opportunities for well-known national brands. If you're looking for a flexible way to earn extra cash from home, this opportunity could be a great fit. We offer same-day payments.\n\nEarn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities. Your feedback helps companies improve the products, services, and experiences people use every day.\n\nWhat You'll Do\n\nComplete paid online surveysPlay mobile games and earn cashShare honest opinions about products, services, and advertisementsChoose opportunities that fit your scheduleHelp brands improve future products and servicesQualifications\n\nMust be at least 18 years oldNo previous experience requiredBasic computer or smartphone skillsAbility to follow simple instructionsReliable internet connectionWho This Is Perfect For\n\nAnyone looking to earn extra incomePeople who want a flexible work-from-home opportunityStudents, parents, retirees, and professionalsThose seeking a side hustle or part-time incomeBenefits\n\nSame-day paymentsEarn up to $25 per completed surveyGet paid to play gamesWork from home or anywhere with internet accessCreate your own scheduleNo commute or fixed hoursGet paid through PayPal, Venmo, check, or gift cards (where available)No experience or special skills requiredThis opportunity is ideal for people from all backgrounds, including customer service, retail, warehouse, healthcare, hospitality, administrative support, education, sales, food service, delivery, rideshare, gig work, and more.\n\nLooking for a work from home job, remote job, side hustle, part-time job, flexible online job, or a way to earn extra money? Paid online surveys and play-to-earn games are a simple way to make money online in your spare time. Survey participants come from all backgrounds including retail associates, customer service representatives, cashiers, warehouse workers, teachers, nurses, administrative assistants, drivers, students, stay-at-home parents, military veterans, and retirees. Whether you're looking for supplemental income, remote work, online research studies, market research opportunities, paid focus groups, opinion panels, or legitimate ways to earn money online, no previous experience is required—just your honest opinions and a computer or smartphone with internet access.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3014-b4b9d451d6187a1ab7f46251e53aefb2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdW1lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWFybiBIYXVzIiwiaHRpZG9jaWQiOiJzQV9JcDRBSmlGeWlibWlYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWxKMUxVWm5WVkpEUkcxNk16ZENZamxEYjNJMlMwTlBZMU00WDFkbFVqSklja000TFd0VFUzcDZUMVkwWVU5SldFdFpOMmxwVVVsMWExUkdaMHREYmpCaU0zaEJiRE16ZWxjMFVGUTVNV3hXY1dOM1NsbEJSMUJ1V0c1b1JHWkdTR28wUzNkVVkzZG5TRGd3VDNsWFZuaGFVRlZaZEVkZlpXVmxUR3BPTWxWVWVWZDZheklTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZElTMkpGUm5kNFlYcFVSbmN6TkhBeVduSTVRM1pMZDJ4RFh6TlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJzQV9JcDRBSmlGeWlibWlYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company_name": "Earn Haus",
+      "location": "Las Animas, CO",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be at least 18 years old",
+            "No previous experience required",
+            "Basic computer or smartphone skills",
+            "Ability to follow simple instructions",
+            "Reliable internet connection",
+            "Those seeking a side hustle or part-time income",
+            "No experience or special skills required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer same-day payments",
+            "Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities",
+            "Benefits",
+            "Same-day payments",
+            "Earn up to $25 per completed survey",
+            "Get paid to play games",
+            "Work from home or anywhere with internet access",
+            "Create your own schedule",
+            "No commute or fixed hours",
+            "Get paid through PayPal, Venmo, check, or gift cards (where available)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your feedback helps companies improve the products, services, and experiences people use every day",
+            "Play mobile games and earn cash",
+            "Share honest opinions about products, services, and advertisements",
+            "Choose opportunities that fit your schedule",
+            "Help brands improve future products and services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=RnS3y7yQ0VLl2_AYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNSwrCMBAAUNz2CLqZtWhTBDe6kiJ-EDxCmYSQRNKZkJlCvYOHlm7e9jW_VdP1TDKNvsKDJIWoAhfC_BWFPTzZgnisLgIT3JhD9utzVC1yMkYkt0EUNbnW8WiYvOXZfNjKwiARqy8Z1Q-HYze3hcJ2c8VKcMdJIBG8cNnSiLKD_v0HVGSI7Y8AAAA&shmds=v1_Ac3VAoypdrDVJXcCqYzzYdWpeAu9C61-2d4pu5xzzP1_fJFxlg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=RnS3y7yQ0VLl2_AYAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-3014-bce1144bc674fddf57b603f0c404344a",
+      "job_title": "Consumer Insights Analyst",
+      "description": "Job Description\n\nWe're currently seeking motivated individuals to participate in online surveys and paid gaming opportunities for well-known national brands. If you're looking for a flexible way to earn extra cash from home, this opportunity could be a great fit. We offer same-day payments.\n\nEarn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities. Your feedback helps companies improve the products, services, and experiences people use every day.\n\nWhat You'll Do\n\nComplete paid online surveysPlay mobile games and earn cashShare honest opinions about products, services, and advertisementsChoose opportunities that fit your scheduleHelp brands improve future products and servicesQualifications\n\nMust be at least 18 years oldNo previous experience requiredBasic computer or smartphone skillsAbility to follow simple instructionsReliable internet connectionWho This Is Perfect For\n\nAnyone looking to earn extra incomePeople who want a flexible work-from-home opportunityStudents, parents, retirees, and professionalsThose seeking a side hustle or part-time incomeBenefits\n\nSame-day paymentsEarn up to $25 per completed surveyGet paid to play gamesWork from home or anywhere with internet accessCreate your own scheduleNo commute or fixed hoursGet paid through PayPal, Venmo, check, or gift cards (where available)No experience or special skills requiredThis opportunity is ideal for people from all backgrounds, including customer service, retail, warehouse, healthcare, hospitality, administrative support, education, sales, food service, delivery, rideshare, gig work, and more.\n\nLooking for a work from home job, remote job, side hustle, part-time job, flexible online job, or a way to earn extra money? Paid online surveys and play-to-earn games are a simple way to make money online in your spare time. Survey participants come from all backgrounds including retail associates, customer service representatives, cashiers, warehouse workers, teachers, nurses, administrative assistants, drivers, students, stay-at-home parents, military veterans, and retirees. Whether you're looking for supplemental income, remote work, online research studies, market research opportunities, paid focus groups, opinion panels, or legitimate ways to earn money online, no previous experience is required—just your honest opinions and a computer or smartphone with internet access.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3014-bce1144bc674fddf57b603f0c404344a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdW1lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWFybiBIYXVzIiwiaHRpZG9jaWQiOiJSblMzeTd5UTBWTGwyX0FZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW5wblYwdEVSbTVZTjFwWGRHOW5hSEpZUVY5TVVWTXpZMFJIZEVwZmEweFFiMDl3ZDFCNWJYTnFTV2xwWVVKWk5qWmhUR0pRV0dreVZWaE1ZMGx2YmpSWVpUTmtkalF3ZUdOWVQxbHhNMll5YzNsMGFFODFObXhxYldFNVdXYzFaVU55ZUhoRmVqWXpTRmxxTms1Nk9HaFJTR2hWUjNseE4wTnFXSFpxYlZsUVowOU5Na1lTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZEdZMUpuTW1aelluZ3RkSEl0TVhZMmFUaDFjMkZOUm5CcFlVVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJSblMzeTd5UTBWTGwyX0FZQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company_name": "Earn Haus",
+      "location": "Collbran, CO",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be at least 18 years old",
+            "No previous experience required",
+            "Basic computer or smartphone skills",
+            "Ability to follow simple instructions",
+            "Reliable internet connection",
+            "Those seeking a side hustle or part-time income",
+            "No experience or special skills required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer same-day payments",
+            "Earn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities",
+            "Benefits",
+            "Same-day payments",
+            "Earn up to $25 per completed survey",
+            "Get paid to play games",
+            "Work from home or anywhere with internet access",
+            "Create your own schedule",
+            "No commute or fixed hours",
+            "Get paid through PayPal, Venmo, check, or gift cards (where available)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your feedback helps companies improve the products, services, and experiences people use every day",
+            "Play mobile games and earn cash",
+            "Share honest opinions about products, services, and advertisements",
+            "Choose opportunities that fit your schedule",
+            "Help brands improve future products and services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Customer+Insights+Analyst&htidocid=Z8Pvqj6ObC55pSqmAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3BlpNLZosgo1WEsRP4xGWSQjJSnYmZGZhvYKnFl_xuu-q6x2TzFNs8CAZU1aBC2H5iMIenuxBIraQgQluzKnEzTmrVjlZK1JMEkUdgwk8WaboebFv9vJvkIwt1oIah8OxX0yltF1fsRHccRYYCRyX4hvSDtzrByD9-h-NAAAA&shmds=v1_Ac3VAoxt7bfSJ7agp8PwI4gs3JQYGSGolpH0PxHs4AERFdqTDA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Customer+Insights+Analyst&htidocid=Z8Pvqj6ObC55pSqmAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-3014-13e720aa2f89237aaf085d7c75a67f3d",
+      "job_title": "Consumer Insights Analyst",
+      "description": "Job Description\n\nWe're currently seeking motivated individuals to participate in online surveys and paid gaming opportunities for well-known national brands. If you're looking for a flexible way to earn extra cash from home, this opportunity could be a great fit. We offer same-day payments.\n\nEarn up to $25 per completed survey, earn cash for playing mobile games, sharing your opinions, and completing other online activities. Your feedback helps companies improve the products, services, and experiences people use every day.\n\nWhat You'll Do\n\nComplete paid online surveysPlay mobile games and earn cashShare honest opinions about products, services, and advertisementsChoose opportunities that fit your scheduleHelp brands improve future products and servicesQualifications\n\nMust be at least 18 years oldNo previous experience requiredBasic computer or smartphone skillsAbility to follow simple instructionsReliable internet connectionWho This Is Perfect For\n\nAnyone looking to earn extra incomePeople who want a flexible work-from-home opportunityStudents, parents, retirees, and professionalsThose seeking a side hustle or part-time incomeBenefits\n\nSame-day paymentsEarn up to $25 per completed surveyGet paid to play gamesWork from home or anywhere with internet accessCreate your own scheduleNo commute or fixed hoursGet paid through PayPal, Venmo, check, or gift cards (where available)No experience or special skills requiredThis opportunity is ideal for people from all backgrounds, including customer service, retail, warehouse, healthcare, hospitality, administrative support, education, sales, food service, delivery, rideshare, gig work, and more.\n\nLooking for a work from home job, remote job, side hustle, part-time job, flexible online job, or a way to earn extra money? Paid online surveys and play-to-earn games are a simple way to make money online in your spare time. Survey participants come from all backgrounds including retail associates, customer service representatives, cashiers, warehouse workers, teachers, nurses, administrative assistants, drivers, students, stay-at-home parents, military veterans, and retirees. Whether you're looking for supplemental income, remote work, online research studies, market research opportunities, paid focus groups, opinion panels, or legitimate ways to earn money online, no previous experience is required—just your honest opinions and a computer or smartphone with internet access.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3014-13e720aa2f89237aaf085d7c75a67f3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdW1lciBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWFybiBIYXVzIiwiaHRpZG9jaWQiOiJaOFB2cWo2T2JDNTVwU3FtQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW1aUE4wUm1RVEJGTUdWYVNsWmZOamxFV1hSR1UyVk5RMkY2Y0VwMlUzbzNOVFV6TTBFeFZtMUxNazFsTVhveVVHaE5WekJaVUUxa1kydEhTM2hYVTJKTmFGbFhjbGxOY2xkek1GaDVOVll3UlZCdFFWYzJNRzlVZVVwcVUwMVNVblk1T0ZKUGJYbGtTV3B2ZVZveVRuSXlWSE5EUzFKRlJVMWFWV2xCWVhObGRuVlRNM1FTRnpSUmRteGhjRXgxVERodGRYQjBVVkJzV1haaGRWRm5HaUpCU0U0d1JUZEZURzlFYzJ0NmRsaDNNVGhvZG1vMlgzRm9RbTEzWW05WFZHNW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJaOFB2cWo2T2JDNTVwU3FtQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SURDcUlEUVVSRVlsZGxXa2w0V25WRFJWOTNjVzg0TURKMmFGbG1jMVJCWjBJdFVIWTJVbTFLU1VGWGNqTlVNazg1VG1GS01IbGtlbVZ6TjJ4V2FqSm1NbUpzUVhwTmJpMW1jeTFoVTBsUFFYcHJPWFl4ZEdWTVZGbzRjRFoxV0d4MVNreEJhVTFCYjJVMVl5MUZSRlJHZDBab1pFRTVaSGwwUzJjelZXWTROWGwxV25nemVVOXVkRmxSZGw5elZVUmxOV0Z3VFRsVFVqSldjbEpoVVc1clRITlRkM1ZpVjB0T1FXRlFaemN0YTE5SGIyNTFRVE4wYkRKSGQxZG5UM1oxV1hadlJsUnVlbk5pVVV3M1RYWnlkMjVrYkd3emRYcGxVbU51TlZFMlozaFRSRFZHYld4UVVqZEJiR1JZTW5OV2NYaFBlVU5mUkd3NFQxVkVNVVp2WjFwR01TMURlbEphZFZRMFZrdEhjMDk2TjBwS1R6Qktia2xOVFhvM1UxSmlTRVJrTkVSZmJGUmhSVWhyTUdka1EzRnJSMWh5Tldoa1ZIUnlTMmhMUWpONVZFOVVkbU5rWVRoSlJuY3pOVXAwVHpGelUxOXpTbnBJTjJSUE4xUnZia2hNZW5reVEyZGtMWEJ6UjJSdlFrczBkRkZ3VHkwMWFuRjZVVzFIVjFKYWQxSmZibVJuY2pSUExVeHdORzlJUms5MVNtNUhWVEpZVEhCTVZtaGFXWFJxY1dKcVVSSVhORkYyYkdGd1RIVk1PRzExY0hSUlVHeFpkbUYxVVdjYUlrRklUakJGTjBkNFRtOXdjRmhFT1hSR00wWTFSMkpEZDFGTWNHNXNjbGM0TFZFIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV1SURDcUlEUVVSRVlsZGxXa2w0V25WRFJWOTNjVzg0TURKMmFGbG1jMVJCWjBJdFVIWTJVbTFLU1VGWGNqTlVNazg1VG1GS01IbGtlbVZ6TjJ4V2FqSm1NbUpzUVhwTmJpMW1jeTFoVTBsUFFYcHJPWFl4ZEdWTVZGbzRjRFoxV0d4MVNreEJhVTFCYjJVMVl5MUZSRlJHZDBab1pFRTVaSGwwUzJjelZXWTROWGwxV25nemVVOXVkRmxSZGw5elZVUmxOV0Z3VFRsVFVqSldjbEpoVVc1clRITlRkM1ZpVjB0T1FXRlFaemN0YTE5SGIyNTFRVE4wYkRKSGQxZG5UM1oxV1hadlJsUnVlbk5pVVV3M1RYWnlkMjVrYkd3emRYcGxVbU51TlZFMlozaFRSRFZHYld4UVVqZEJiR1JZTW5OV2NYaFBlVU5mUkd3NFQxVkVNVVp2WjFwR01TMURlbEphZFZRMFZrdEhjMDk2TjBwS1R6Qktia2xOVFhvM1UxSmlTRVJrTkVSZmJGUmhSVWhyTUdka1EzRnJSMWh5Tldoa1ZIUnlTMmhMUWpONVZFOVVkbU5rWVRoSlJuY3pOVXAwVHpGelUxOXpTbnBJTjJSUE4xUnZia2hNZW5reVEyZGtMWEJ6UjJSdlFrczBkRkZ3VHkwMWFuRjZVVzFIVjFKYWQxSmZibVJuY2pSUExVeHdORzlJUms5MVNtNUhWVEpZVEhCTVZtaGFXWFJxY1dKcVVSSVhORkYyYkdGd1RIVk1PRzExY0hSUlVHeFpkbUYxVVdjYUlrRklUakJGTjBkNFRtOXdjRmhFT1hSR00wWTFSMkpEZDFGTWNHNXNjbGM0TFZFIiwiZmN2IjoiMyJ9&q=Customer+Insights+Analyst&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Customer Insights Analyst",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:28:01.546547+00:00",
+    "request_fingerprint": "134e45f96e0faf14a7ad86e27ebcb1af10379737bebb5f0db71765b3a53c4bec",
+    "job_count": 10
+  }
+}

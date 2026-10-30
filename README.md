@@ -38,3 +38,38 @@ Upload the following to Canvas:
   * Each notebook already starts with a front-matter cell that embeds resources (`format: html: embed-resources: true`), so each HTML file is self-contained.
   * Render with, e.g., `quarto render HW-3.1-crawl.ipynb`. By default Quarto does not re-execute notebooks, so rendering will not use up API searches or credits; just make sure the notebook was run and saved first.
   * Double check that the images are embedded correctly and render in Canvas.
+
+## Local workflow
+
+Part 1 defaults to an **offline preview**. Its live collection is not complete until all 30 titles have a completed or exhausted pagination chain in `reports/crawl-summary.csv`.
+
+```bash
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m unittest discover -s tests -v
+python run_part1.py
+```
+
+For a new environment, first create it with `python3 -m venv .venv`.
+Store the SerpApi key in `~/.api-keys.json` under the `serpapi` key, outside this repository. Once the offline tests pass, collect in stages and inspect each trial's saved JSON before the next stage:
+
+```bash
+python run_part1.py --live --stage trial
+python run_part1.py --live --stage second
+python run_part1.py --live --stage all
+quarto render HW-3.1-crawl.ipynb --no-execute
+```
+
+Use `--keys-file /absolute/path/to/keys.json` if the key is stored elsewhere outside the repository. Run only one crawler at a time. Successful pages are cached in `data/`, request attempts are tracked in `reports/search-attempts.json`, and request pacing uses the live account hourly limit with a safety margin (75 seconds when the limit is unavailable). Request timestamps persist across restarts. The full crawl takes approximately 25 minutes with a 250-search/hour limit, or two hours with a 50-search/hour limit. Inspect the final audit for failures or incomplete titles before committing.
+
+The student reviews, commits, and pushes each completed part before work starts on the next part. The runner performs no Git operations.
+
+Final submission checklist:
+
+- [x] Part 1: 30 titles, 90 real response files, 847 raw job records, completed collection audit, executed notebook, self-contained HTML.
+- [ ] Part 2: manual cleaning notebook, `data/processed-jobs-1.csv`, self-contained HTML.
+- [ ] Part 3: LLM cleaning notebook and reflection, `data/processed-jobs-2.csv`, self-contained HTML.
+- [ ] Part 4: visual EDA of both datasets and comparison, executed notebook, self-contained HTML.
+- [ ] Optional Part 5, if completed: fictitious Jane Doe resume/cover-letter pipeline and rendered HTML.
+- [ ] `commit-history.txt` exported **after** the final homework commit; open it and confirm every part appears.
+- [ ] Open each final HTML and verify figures/resources are embedded; check for errors, placeholders, and leaked credentials before uploading to Canvas.

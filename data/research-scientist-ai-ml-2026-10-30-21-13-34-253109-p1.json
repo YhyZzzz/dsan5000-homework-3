@@ -1,0 +1,884 @@
+{
+  "search_metadata": {
+    "id": "6ae5087ebccefc2d9d63af09",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P8S23HVA98knOVagqqtuWxm9tv-2wA5OFijvkGEIjEk/6ae5087ebccefc2d9d63af09.json",
+    "markdown_endpoint": "https://serpapi.com/searches/P8S23HVA98knOVagqqtuWxm9tv-2wA5OFijvkGEIjEk/6ae5087ebccefc2d9d63af09.md",
+    "created_at": "2026-10-30 21:13:34 UTC",
+    "processed_at": "2026-10-30 21:13:34 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Research+Scientist+%28AI-ML%29&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/P8S23HVA98knOVagqqtuWxm9tv-2wA5OFijvkGEIjEk/6ae5087ebccefc2d9d63af09.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "q": "Research Scientist (AI-ML)",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7J7oiCYbPnT5llRNiprUF2QPELdMwg56xdFduI-50JHtdhIuUExPwBTH_n9HHv5FotfJ2PUf3LnvfzwnNRTkWolaacmR-xQlesFQkaqWnS0fdiVNeZxVjwo0BaLBPqf7XaxqXeua5-tdq8C4Vv75DcNGYvbzi17voqTWlGkiCoqsxzP1",
+        "q": "Research Scientist (AI-ML) remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7J7oiCYbPnT5llRNiprUF2QPELdMwg56xdFduI-50JHtdhIuUExPwBTH_n9HHv5FotfJ2PUf3LnvfzwnNRTkWolaacmR-xQlesFQkaqWnS0fdiVNeZxVjwo0BaLBPqf7XaxqXeua5-tdq8C4Vv75DcNGYvbzi17voqTWlGkiCoqsxzP1&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQxKsJKAB6BAgfEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7J7oiCYbPnT5llRNiprUF2QPELdMwg56xdFduI-50JHtdhIuUExPwBTH_n9HHv5FotfJ2PUf3LnvfzwnNRTkWolaacmR-xQlesFQkaqWnS0fdiVNeZxVjwo0BaLBPqf7XaxqXeua5-tdq8C4Vv75DcNGYvbzi17voqTWlGkiCoqsxzP1&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXeBi8GfnuvjLctBxlDNO6Rz-RoscWpcw_X7e1A15Zd7CRlxXPlLGYlsUCOg8Ii_iYPztj0YxccYekgZBxVlfXwpRvDdlOntBhccXRAESx0n-A4rFEQmOgGixFpBE1rw56TbTJUKsGKDLK-OABc6Knf486oIkT4lI4iDFNTLxyjFiRI03f",
+        "q": "Research Scientist (AI-ML) no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXeBi8GfnuvjLctBxlDNO6Rz-RoscWpcw_X7e1A15Zd7CRlxXPlLGYlsUCOg8Ii_iYPztj0YxccYekgZBxVlfXwpRvDdlOntBhccXRAESx0n-A4rFEQmOgGixFpBE1rw56TbTJUKsGKDLK-OABc6Knf486oIkT4lI4iDFNTLxyjFiRI03f&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQxKsJKAF6BAggEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXeBi8GfnuvjLctBxlDNO6Rz-RoscWpcw_X7e1A15Zd7CRlxXPlLGYlsUCOg8Ii_iYPztj0YxccYekgZBxVlfXwpRvDdlOntBhccXRAESx0n-A4rFEQmOgGixFpBE1rw56TbTJUKsGKDLK-OABc6Knf486oIkT4lI4iDFNTLxyjFiRI03f&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf5cA6hKPt9HiQooxwsDSCmSJxHPkjcIOgS5eNvIfX273erDXvpRGEI8jbehsxoLBbZdCqyHSjYaaGKSf5_HVp5HXmmSDBSNcAKq4R_EgK4ceYAgiGn2ysG81AgiCV0CuVESSpdQHwXOTDeSmEzpowUNlq3i7jVxlOJWsSexZKwA_FQYA-sVpdbn6Va-TgvgJSKiIfEDzIA00LgiMR3OgsxDqHP69NPU8R8SiJAMRAI1sCabdscPmoaviH8RVr0841LqcuMjPCYOl4z1Oqv_oIIAc-4jKCCfIOM0j5lM66A_vmg4ChiajqO_JTFdLe5XlzKLyirg",
+            "q": "Research Scientist (AI-ML) since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf5cA6hKPt9HiQooxwsDSCmSJxHPkjcIOgS5eNvIfX273erDXvpRGEI8jbehsxoLBbZdCqyHSjYaaGKSf5_HVp5HXmmSDBSNcAKq4R_EgK4ceYAgiGn2ysG81AgiCV0CuVESSpdQHwXOTDeSmEzpowUNlq3i7jVxlOJWsSexZKwA_FQYA-sVpdbn6Va-TgvgJSKiIfEDzIA00LgiMR3OgsxDqHP69NPU8R8SiJAMRAI1sCabdscPmoaviH8RVr0841LqcuMjPCYOl4z1Oqv_oIIAc-4jKCCfIOM0j5lM66A_vmg4ChiajqO_JTFdLe5XlzKLyirg&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf5cA6hKPt9HiQooxwsDSCmSJxHPkjcIOgS5eNvIfX273erDXvpRGEI8jbehsxoLBbZdCqyHSjYaaGKSf5_HVp5HXmmSDBSNcAKq4R_EgK4ceYAgiGn2ysG81AgiCV0CuVESSpdQHwXOTDeSmEzpowUNlq3i7jVxlOJWsSexZKwA_FQYA-sVpdbn6Va-TgvgJSKiIfEDzIA00LgiMR3OgsxDqHP69NPU8R8SiJAMRAI1sCabdscPmoaviH8RVr0841LqcuMjPCYOl4z1Oqv_oIIAc-4jKCCfIOM0j5lM66A_vmg4ChiajqO_JTFdLe5XlzKLyirg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb8Aoq4Wn1lqMTs97UbU701TLEKgbDAEDIP7Z4rjYXUgtQznMNMCvu7-eqQdfMio_VYJsZ91YPbAJpx28cEwiGnCbpQ_8u5S95NEtJti9jVDFup9iBfxmE41n_lNB5zOFQ5RD1HtHhd9a8IEpwBtHr-YVQ2RRGUL3VztSC6YcnkOpcnq9s5ERw0D9HU3jTyb3jwKWzJKWUh2lH-6y6Bia-KqozUta8BU84FDvpRDvkf99XqlMga6SVX2l0RBC3nvcLUOOpNKN68Bzla2CSMUYuLBxJFEe_jxExYzUeurPPB9AhhhtbfIHSVY2xp1Zo7K9t39ak54eMll6rdxZOLRziISTVC0J",
+            "q": "Research Scientist (AI-ML) in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb8Aoq4Wn1lqMTs97UbU701TLEKgbDAEDIP7Z4rjYXUgtQznMNMCvu7-eqQdfMio_VYJsZ91YPbAJpx28cEwiGnCbpQ_8u5S95NEtJti9jVDFup9iBfxmE41n_lNB5zOFQ5RD1HtHhd9a8IEpwBtHr-YVQ2RRGUL3VztSC6YcnkOpcnq9s5ERw0D9HU3jTyb3jwKWzJKWUh2lH-6y6Bia-KqozUta8BU84FDvpRDvkf99XqlMga6SVX2l0RBC3nvcLUOOpNKN68Bzla2CSMUYuLBxJFEe_jxExYzUeurPPB9AhhhtbfIHSVY2xp1Zo7K9t39ak54eMll6rdxZOLRziISTVC0J&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb8Aoq4Wn1lqMTs97UbU701TLEKgbDAEDIP7Z4rjYXUgtQznMNMCvu7-eqQdfMio_VYJsZ91YPbAJpx28cEwiGnCbpQ_8u5S95NEtJti9jVDFup9iBfxmE41n_lNB5zOFQ5RD1HtHhd9a8IEpwBtHr-YVQ2RRGUL3VztSC6YcnkOpcnq9s5ERw0D9HU3jTyb3jwKWzJKWUh2lH-6y6Bia-KqozUta8BU84FDvpRDvkf99XqlMga6SVX2l0RBC3nvcLUOOpNKN68Bzla2CSMUYuLBxJFEe_jxExYzUeurPPB9AhhhtbfIHSVY2xp1Zo7K9t39ak54eMll6rdxZOLRziISTVC0J&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXnSaMmMUOFCEohTH6pb-ALCiVn4xXJf8a4jg9GjMUz1nzmgyt9vr8f90nCHDDe2rtYfOZZiQQPUm2gGGrYQH5YwScmJ3--zYHb82v3FQ2y55HUcPXwIkS13Cj2SpV2yxsx46aVIZezIJ4gBXeDaQwkK2WtPvg2mOo20n2yjVcDug_khOOnEr2vpAXFAwT01A9HLtxDSIfHwt9lwBVNT7oqv3gaL4-Js5to1h0ze_a5qZsJBq-bhUPfYacma3o7ilnS-adyWoZHhm-svYn116YLzpRa9W4YMgXgv6Ml7FSm0265NSDnSBxsPjpnpOe7ycR8nlsm8KEAXNnjy71D6u5_TTGMNqn3No9I9LYjFManG4_zM_n",
+            "q": "Research Scientist (AI-ML) in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnSaMmMUOFCEohTH6pb-ALCiVn4xXJf8a4jg9GjMUz1nzmgyt9vr8f90nCHDDe2rtYfOZZiQQPUm2gGGrYQH5YwScmJ3--zYHb82v3FQ2y55HUcPXwIkS13Cj2SpV2yxsx46aVIZezIJ4gBXeDaQwkK2WtPvg2mOo20n2yjVcDug_khOOnEr2vpAXFAwT01A9HLtxDSIfHwt9lwBVNT7oqv3gaL4-Js5to1h0ze_a5qZsJBq-bhUPfYacma3o7ilnS-adyWoZHhm-svYn116YLzpRa9W4YMgXgv6Ml7FSm0265NSDnSBxsPjpnpOe7ycR8nlsm8KEAXNnjy71D6u5_TTGMNqn3No9I9LYjFManG4_zM_n&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnSaMmMUOFCEohTH6pb-ALCiVn4xXJf8a4jg9GjMUz1nzmgyt9vr8f90nCHDDe2rtYfOZZiQQPUm2gGGrYQH5YwScmJ3--zYHb82v3FQ2y55HUcPXwIkS13Cj2SpV2yxsx46aVIZezIJ4gBXeDaQwkK2WtPvg2mOo20n2yjVcDug_khOOnEr2vpAXFAwT01A9HLtxDSIfHwt9lwBVNT7oqv3gaL4-Js5to1h0ze_a5qZsJBq-bhUPfYacma3o7ilnS-adyWoZHhm-svYn116YLzpRa9W4YMgXgv6Ml7FSm0265NSDnSBxsPjpnpOe7ycR8nlsm8KEAXNnjy71D6u5_TTGMNqn3No9I9LYjFManG4_zM_n&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMG6dyNdcAK0mAgDB-gwC7PvYzWYZeJKNVdaZq_8eAT3eWs8EwuicH5mEZ-3-lRxeP2oT67f4C9khzC3NX5S6I_wgx21k3As7-bXQQ8oySEKQraH_OITkIn4UoUQynI1PZNBOBgHRxtaiNwedOSqWu7WqxOpQbdRxWbWi8xB8qo_LFepdwT7prQQg82SuCr6Tax4agSrrL-fK3jzZqvaFd_DRnoGUuoWW6oY1P0hZb7iaeDxeAbOQZa1p7rPgjExIqZN3duqZ3GVkoK3hGLDTqcV7wu262Yk02LMoTKLGh15-G_mkEg5N19q2uv2QXl8Ym5rdIJbbJ_0wm4oZAdvEMKJ_7YRqejOHsxFoIvSZHZl-PEH5",
+            "q": "Research Scientist (AI-ML) in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMG6dyNdcAK0mAgDB-gwC7PvYzWYZeJKNVdaZq_8eAT3eWs8EwuicH5mEZ-3-lRxeP2oT67f4C9khzC3NX5S6I_wgx21k3As7-bXQQ8oySEKQraH_OITkIn4UoUQynI1PZNBOBgHRxtaiNwedOSqWu7WqxOpQbdRxWbWi8xB8qo_LFepdwT7prQQg82SuCr6Tax4agSrrL-fK3jzZqvaFd_DRnoGUuoWW6oY1P0hZb7iaeDxeAbOQZa1p7rPgjExIqZN3duqZ3GVkoK3hGLDTqcV7wu262Yk02LMoTKLGh15-G_mkEg5N19q2uv2QXl8Ym5rdIJbbJ_0wm4oZAdvEMKJ_7YRqejOHsxFoIvSZHZl-PEH5&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMG6dyNdcAK0mAgDB-gwC7PvYzWYZeJKNVdaZq_8eAT3eWs8EwuicH5mEZ-3-lRxeP2oT67f4C9khzC3NX5S6I_wgx21k3As7-bXQQ8oySEKQraH_OITkIn4UoUQynI1PZNBOBgHRxtaiNwedOSqWu7WqxOpQbdRxWbWi8xB8qo_LFepdwT7prQQg82SuCr6Tax4agSrrL-fK3jzZqvaFd_DRnoGUuoWW6oY1P0hZb7iaeDxeAbOQZa1p7rPgjExIqZN3duqZ3GVkoK3hGLDTqcV7wu262Yk02LMoTKLGh15-G_mkEg5N19q2uv2QXl8Ym5rdIJbbJ_0wm4oZAdvEMKJ_7YRqejOHsxFoIvSZHZl-PEH5&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf5cA6hKPt9HiQooxwsDSCmSJxHPkjcIOgS5eNvIfX273erDXvpRGEI8jbehsxoLBbZdCqyHSjYaaGKSf5_HVp5HXmmSDBSNcAKq4R_EgK4ceYAgiGn2ysG81AgiCV0CuVESSpdQHwXOTDeSmEzpowUNlq3i7jVxlOJWsSexZKwA_FQYA-sVpdbn6Va-TgvgJSKiIfEDzIA00LgiMR3OgsxDqHP69NPU8R8SiJAMRAI1sCabdscPmoaviH8RVr0841LqcuMjPCYOl4z1Oqv_oIIAc-4jKCCfIOM0j5lM66A_vmg4ChiajqO_JTFdLe5XlzKLyirg",
+            "q": "Research Scientist (AI-ML) since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf5cA6hKPt9HiQooxwsDSCmSJxHPkjcIOgS5eNvIfX273erDXvpRGEI8jbehsxoLBbZdCqyHSjYaaGKSf5_HVp5HXmmSDBSNcAKq4R_EgK4ceYAgiGn2ysG81AgiCV0CuVESSpdQHwXOTDeSmEzpowUNlq3i7jVxlOJWsSexZKwA_FQYA-sVpdbn6Va-TgvgJSKiIfEDzIA00LgiMR3OgsxDqHP69NPU8R8SiJAMRAI1sCabdscPmoaviH8RVr0841LqcuMjPCYOl4z1Oqv_oIIAc-4jKCCfIOM0j5lM66A_vmg4ChiajqO_JTFdLe5XlzKLyirg&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf5cA6hKPt9HiQooxwsDSCmSJxHPkjcIOgS5eNvIfX273erDXvpRGEI8jbehsxoLBbZdCqyHSjYaaGKSf5_HVp5HXmmSDBSNcAKq4R_EgK4ceYAgiGn2ysG81AgiCV0CuVESSpdQHwXOTDeSmEzpowUNlq3i7jVxlOJWsSexZKwA_FQYA-sVpdbn6Va-TgvgJSKiIfEDzIA00LgiMR3OgsxDqHP69NPU8R8SiJAMRAI1sCabdscPmoaviH8RVr0841LqcuMjPCYOl4z1Oqv_oIIAc-4jKCCfIOM0j5lM66A_vmg4ChiajqO_JTFdLe5XlzKLyirg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb8Aoq4Wn1lqMTs97UbU701TLEKgbDAEDIP7Z4rjYXUgtQznMNMCvu7-eqQdfMio_VYJsZ91YPbAJpx28cEwiGnCbpQ_8u5S95NEtJti9jVDFup9iBfxmE41n_lNB5zOFQ5RD1HtHhd9a8IEpwBtHr-YVQ2RRGUL3VztSC6YcnkOpcnq9s5ERw0D9HU3jTyb3jwKWzJKWUh2lH-6y6Bia-KqozUta8BU84FDvpRDvkf99XqlMga6SVX2l0RBC3nvcLUOOpNKN68Bzla2CSMUYuLBxJFEe_jxExYzUeurPPB9AhhhtbfIHSVY2xp1Zo7K9t39ak54eMll6rdxZOLRziISTVC0J",
+            "q": "Research Scientist (AI-ML) in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb8Aoq4Wn1lqMTs97UbU701TLEKgbDAEDIP7Z4rjYXUgtQznMNMCvu7-eqQdfMio_VYJsZ91YPbAJpx28cEwiGnCbpQ_8u5S95NEtJti9jVDFup9iBfxmE41n_lNB5zOFQ5RD1HtHhd9a8IEpwBtHr-YVQ2RRGUL3VztSC6YcnkOpcnq9s5ERw0D9HU3jTyb3jwKWzJKWUh2lH-6y6Bia-KqozUta8BU84FDvpRDvkf99XqlMga6SVX2l0RBC3nvcLUOOpNKN68Bzla2CSMUYuLBxJFEe_jxExYzUeurPPB9AhhhtbfIHSVY2xp1Zo7K9t39ak54eMll6rdxZOLRziISTVC0J&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb8Aoq4Wn1lqMTs97UbU701TLEKgbDAEDIP7Z4rjYXUgtQznMNMCvu7-eqQdfMio_VYJsZ91YPbAJpx28cEwiGnCbpQ_8u5S95NEtJti9jVDFup9iBfxmE41n_lNB5zOFQ5RD1HtHhd9a8IEpwBtHr-YVQ2RRGUL3VztSC6YcnkOpcnq9s5ERw0D9HU3jTyb3jwKWzJKWUh2lH-6y6Bia-KqozUta8BU84FDvpRDvkf99XqlMga6SVX2l0RBC3nvcLUOOpNKN68Bzla2CSMUYuLBxJFEe_jxExYzUeurPPB9AhhhtbfIHSVY2xp1Zo7K9t39ak54eMll6rdxZOLRziISTVC0J&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXnSaMmMUOFCEohTH6pb-ALCiVn4xXJf8a4jg9GjMUz1nzmgyt9vr8f90nCHDDe2rtYfOZZiQQPUm2gGGrYQH5YwScmJ3--zYHb82v3FQ2y55HUcPXwIkS13Cj2SpV2yxsx46aVIZezIJ4gBXeDaQwkK2WtPvg2mOo20n2yjVcDug_khOOnEr2vpAXFAwT01A9HLtxDSIfHwt9lwBVNT7oqv3gaL4-Js5to1h0ze_a5qZsJBq-bhUPfYacma3o7ilnS-adyWoZHhm-svYn116YLzpRa9W4YMgXgv6Ml7FSm0265NSDnSBxsPjpnpOe7ycR8nlsm8KEAXNnjy71D6u5_TTGMNqn3No9I9LYjFManG4_zM_n",
+            "q": "Research Scientist (AI-ML) in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnSaMmMUOFCEohTH6pb-ALCiVn4xXJf8a4jg9GjMUz1nzmgyt9vr8f90nCHDDe2rtYfOZZiQQPUm2gGGrYQH5YwScmJ3--zYHb82v3FQ2y55HUcPXwIkS13Cj2SpV2yxsx46aVIZezIJ4gBXeDaQwkK2WtPvg2mOo20n2yjVcDug_khOOnEr2vpAXFAwT01A9HLtxDSIfHwt9lwBVNT7oqv3gaL4-Js5to1h0ze_a5qZsJBq-bhUPfYacma3o7ilnS-adyWoZHhm-svYn116YLzpRa9W4YMgXgv6Ml7FSm0265NSDnSBxsPjpnpOe7ycR8nlsm8KEAXNnjy71D6u5_TTGMNqn3No9I9LYjFManG4_zM_n&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnSaMmMUOFCEohTH6pb-ALCiVn4xXJf8a4jg9GjMUz1nzmgyt9vr8f90nCHDDe2rtYfOZZiQQPUm2gGGrYQH5YwScmJ3--zYHb82v3FQ2y55HUcPXwIkS13Cj2SpV2yxsx46aVIZezIJ4gBXeDaQwkK2WtPvg2mOo20n2yjVcDug_khOOnEr2vpAXFAwT01A9HLtxDSIfHwt9lwBVNT7oqv3gaL4-Js5to1h0ze_a5qZsJBq-bhUPfYacma3o7ilnS-adyWoZHhm-svYn116YLzpRa9W4YMgXgv6Ml7FSm0265NSDnSBxsPjpnpOe7ycR8nlsm8KEAXNnjy71D6u5_TTGMNqn3No9I9LYjFManG4_zM_n&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMG6dyNdcAK0mAgDB-gwC7PvYzWYZeJKNVdaZq_8eAT3eWs8EwuicH5mEZ-3-lRxeP2oT67f4C9khzC3NX5S6I_wgx21k3As7-bXQQ8oySEKQraH_OITkIn4UoUQynI1PZNBOBgHRxtaiNwedOSqWu7WqxOpQbdRxWbWi8xB8qo_LFepdwT7prQQg82SuCr6Tax4agSrrL-fK3jzZqvaFd_DRnoGUuoWW6oY1P0hZb7iaeDxeAbOQZa1p7rPgjExIqZN3duqZ3GVkoK3hGLDTqcV7wu262Yk02LMoTKLGh15-G_mkEg5N19q2uv2QXl8Ym5rdIJbbJ_0wm4oZAdvEMKJ_7YRqejOHsxFoIvSZHZl-PEH5",
+            "q": "Research Scientist (AI-ML) in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMG6dyNdcAK0mAgDB-gwC7PvYzWYZeJKNVdaZq_8eAT3eWs8EwuicH5mEZ-3-lRxeP2oT67f4C9khzC3NX5S6I_wgx21k3As7-bXQQ8oySEKQraH_OITkIn4UoUQynI1PZNBOBgHRxtaiNwedOSqWu7WqxOpQbdRxWbWi8xB8qo_LFepdwT7prQQg82SuCr6Tax4agSrrL-fK3jzZqvaFd_DRnoGUuoWW6oY1P0hZb7iaeDxeAbOQZa1p7rPgjExIqZN3duqZ3GVkoK3hGLDTqcV7wu262Yk02LMoTKLGh15-G_mkEg5N19q2uv2QXl8Ym5rdIJbbJ_0wm4oZAdvEMKJ_7YRqejOHsxFoIvSZHZl-PEH5&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMG6dyNdcAK0mAgDB-gwC7PvYzWYZeJKNVdaZq_8eAT3eWs8EwuicH5mEZ-3-lRxeP2oT67f4C9khzC3NX5S6I_wgx21k3As7-bXQQ8oySEKQraH_OITkIn4UoUQynI1PZNBOBgHRxtaiNwedOSqWu7WqxOpQbdRxWbWi8xB8qo_LFepdwT7prQQg82SuCr6Tax4agSrrL-fK3jzZqvaFd_DRnoGUuoWW6oY1P0hZb7iaeDxeAbOQZa1p7rPgjExIqZN3duqZ3GVkoK3hGLDTqcV7wu262Yk02LMoTKLGh15-G_mkEg5N19q2uv2QXl8Ym5rdIJbbJ_0wm4oZAdvEMKJ_7YRqejOHsxFoIvSZHZl-PEH5&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZR6V9mqX3TuQ6RY95MtFxKmGgvFR4Lv5vXbj0ZbISVt78jv_7EjW-0tr9EyRzB8g16Fbz60R7jqW7zuRrTJG7DQBPd8LsChdCwIsrCv-wJ9P9Re3GtJnlF0X7Y7uXjr3KIWm8ayjWCiMBFoY6n7EcxxXf07E60unR_QhmoZHwzs-1UaVNALbVI6J53f71myyNpYv5nKF4IaJ3s8P8F_Y1RxgfHP2m5GKnuX6iI6kOttKKZ9ZUJYIg0V2c2hEWmO3vdalebp1la-stOxBJVJ3fIwqtIazk",
+            "q": "Research Scientist (AI-ML) full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZR6V9mqX3TuQ6RY95MtFxKmGgvFR4Lv5vXbj0ZbISVt78jv_7EjW-0tr9EyRzB8g16Fbz60R7jqW7zuRrTJG7DQBPd8LsChdCwIsrCv-wJ9P9Re3GtJnlF0X7Y7uXjr3KIWm8ayjWCiMBFoY6n7EcxxXf07E60unR_QhmoZHwzs-1UaVNALbVI6J53f71myyNpYv5nKF4IaJ3s8P8F_Y1RxgfHP2m5GKnuX6iI6kOttKKZ9ZUJYIg0V2c2hEWmO3vdalebp1la-stOxBJVJ3fIwqtIazk&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZR6V9mqX3TuQ6RY95MtFxKmGgvFR4Lv5vXbj0ZbISVt78jv_7EjW-0tr9EyRzB8g16Fbz60R7jqW7zuRrTJG7DQBPd8LsChdCwIsrCv-wJ9P9Re3GtJnlF0X7Y7uXjr3KIWm8ayjWCiMBFoY6n7EcxxXf07E60unR_QhmoZHwzs-1UaVNALbVI6J53f71myyNpYv5nKF4IaJ3s8P8F_Y1RxgfHP2m5GKnuX6iI6kOttKKZ9ZUJYIg0V2c2hEWmO3vdalebp1la-stOxBJVJ3fIwqtIazk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZRxfBjPGA86hU8UpILZHOtEfLHM7nue5Zipx1Httetc1sMO3lWglo_eF_qZHIH1WT6trjXt9_pp1JvWPscVSIyTkAAxqyLS2jh_hAk0ASi7WGWNR5Jf70IaxXz7HMer5yOle2FjGbk0ltIUZQCZZzmmSiIg6niYg62tiuKiWTJwDFQF5Z_vCn6vi7SNn8c5MT6ty1uUEaFteCUlrDiYlmPW3dyGz31j67LSjWu55yl3i8PLuM1talCKiHF_Sy92Q4rGN5VIopqUEoj1Vdvzf2gx2bxHC4",
+            "q": "Research Scientist (AI-ML) part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZRxfBjPGA86hU8UpILZHOtEfLHM7nue5Zipx1Httetc1sMO3lWglo_eF_qZHIH1WT6trjXt9_pp1JvWPscVSIyTkAAxqyLS2jh_hAk0ASi7WGWNR5Jf70IaxXz7HMer5yOle2FjGbk0ltIUZQCZZzmmSiIg6niYg62tiuKiWTJwDFQF5Z_vCn6vi7SNn8c5MT6ty1uUEaFteCUlrDiYlmPW3dyGz31j67LSjWu55yl3i8PLuM1talCKiHF_Sy92Q4rGN5VIopqUEoj1Vdvzf2gx2bxHC4&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZRxfBjPGA86hU8UpILZHOtEfLHM7nue5Zipx1Httetc1sMO3lWglo_eF_qZHIH1WT6trjXt9_pp1JvWPscVSIyTkAAxqyLS2jh_hAk0ASi7WGWNR5Jf70IaxXz7HMer5yOle2FjGbk0ltIUZQCZZzmmSiIg6niYg62tiuKiWTJwDFQF5Z_vCn6vi7SNn8c5MT6ty1uUEaFteCUlrDiYlmPW3dyGz31j67LSjWu55yl3i8PLuM1talCKiHF_Sy92Q4rGN5VIopqUEoj1Vdvzf2gx2bxHC4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYrQ4yIauiVP5gmhNYeQs4lCUiInVcFjsAc8k2uXi6GVvSJwHdIQhv_9b4Eq4a5V0xnd8ppbeFGe47dfJruUrUEPVK_3wekJwRrl3BMTD1iVdOO31dVXRKb6zQHKDdaYvxqrQOpnpmJIrf1pW3w5jlMsenMhCfeKV2SLhWCpTS2eGfQ-fIwhWx-QVlUatEPVnxwBAe0fbQlMtHxxpb1co2dvvolZ4Uld3FCzakAewyoHBSRadzs4c-0Jj9EXL5yHft46x87xhJlP2TXeKxS0itLVOqrLW3uc0FciBIXmy26kcuWOhIQ",
+            "q": "Research Scientist (AI-ML) contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYrQ4yIauiVP5gmhNYeQs4lCUiInVcFjsAc8k2uXi6GVvSJwHdIQhv_9b4Eq4a5V0xnd8ppbeFGe47dfJruUrUEPVK_3wekJwRrl3BMTD1iVdOO31dVXRKb6zQHKDdaYvxqrQOpnpmJIrf1pW3w5jlMsenMhCfeKV2SLhWCpTS2eGfQ-fIwhWx-QVlUatEPVnxwBAe0fbQlMtHxxpb1co2dvvolZ4Uld3FCzakAewyoHBSRadzs4c-0Jj9EXL5yHft46x87xhJlP2TXeKxS0itLVOqrLW3uc0FciBIXmy26kcuWOhIQ&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYrQ4yIauiVP5gmhNYeQs4lCUiInVcFjsAc8k2uXi6GVvSJwHdIQhv_9b4Eq4a5V0xnd8ppbeFGe47dfJruUrUEPVK_3wekJwRrl3BMTD1iVdOO31dVXRKb6zQHKDdaYvxqrQOpnpmJIrf1pW3w5jlMsenMhCfeKV2SLhWCpTS2eGfQ-fIwhWx-QVlUatEPVnxwBAe0fbQlMtHxxpb1co2dvvolZ4Uld3FCzakAewyoHBSRadzs4c-0Jj9EXL5yHft46x87xhJlP2TXeKxS0itLVOqrLW3uc0FciBIXmy26kcuWOhIQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXNKCsUKSP-VzRyvR_bN4l7VGFvqtwQM_rOOeUx4RolGn4s0gkWvgKves1kMC6vIO6Yp9sHKhhhymtHwYA1LnA1SrP9sx9hqGNJCvZZCwyqaCujtoRoonV1CSzbD58oLjxXfUQDiL2Y4d4-q82Gfm9FarXZ8tmglxJ35S7oMWn2DsOTcCcQyeV-WskrkXZ4Th9SSmihRt2XDr3PdpGUG-j4q478y9TonoizuKs-5hFH1rMn8esDk7SBv6GAGqa2Vq4zfACHQXJ1lzYcvtMZ5jr7mnDlXipsC5cPXX60rIH5GUypwYNWSs19lzbGKH4m9zMmx8XKA",
+            "q": "Research Scientist (AI-ML) internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXNKCsUKSP-VzRyvR_bN4l7VGFvqtwQM_rOOeUx4RolGn4s0gkWvgKves1kMC6vIO6Yp9sHKhhhymtHwYA1LnA1SrP9sx9hqGNJCvZZCwyqaCujtoRoonV1CSzbD58oLjxXfUQDiL2Y4d4-q82Gfm9FarXZ8tmglxJ35S7oMWn2DsOTcCcQyeV-WskrkXZ4Th9SSmihRt2XDr3PdpGUG-j4q478y9TonoizuKs-5hFH1rMn8esDk7SBv6GAGqa2Vq4zfACHQXJ1lzYcvtMZ5jr7mnDlXipsC5cPXX60rIH5GUypwYNWSs19lzbGKH4m9zMmx8XKA&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXNKCsUKSP-VzRyvR_bN4l7VGFvqtwQM_rOOeUx4RolGn4s0gkWvgKves1kMC6vIO6Yp9sHKhhhymtHwYA1LnA1SrP9sx9hqGNJCvZZCwyqaCujtoRoonV1CSzbD58oLjxXfUQDiL2Y4d4-q82Gfm9FarXZ8tmglxJ35S7oMWn2DsOTcCcQyeV-WskrkXZ4Th9SSmihRt2XDr3PdpGUG-j4q478y9TonoizuKs-5hFH1rMn8esDk7SBv6GAGqa2Vq4zfACHQXJ1lzYcvtMZ5jr7mnDlXipsC5cPXX60rIH5GUypwYNWSs19lzbGKH4m9zMmx8XKA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZR6V9mqX3TuQ6RY95MtFxKmGgvFR4Lv5vXbj0ZbISVt78jv_7EjW-0tr9EyRzB8g16Fbz60R7jqW7zuRrTJG7DQBPd8LsChdCwIsrCv-wJ9P9Re3GtJnlF0X7Y7uXjr3KIWm8ayjWCiMBFoY6n7EcxxXf07E60unR_QhmoZHwzs-1UaVNALbVI6J53f71myyNpYv5nKF4IaJ3s8P8F_Y1RxgfHP2m5GKnuX6iI6kOttKKZ9ZUJYIg0V2c2hEWmO3vdalebp1la-stOxBJVJ3fIwqtIazk",
+            "q": "Research Scientist (AI-ML) full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZR6V9mqX3TuQ6RY95MtFxKmGgvFR4Lv5vXbj0ZbISVt78jv_7EjW-0tr9EyRzB8g16Fbz60R7jqW7zuRrTJG7DQBPd8LsChdCwIsrCv-wJ9P9Re3GtJnlF0X7Y7uXjr3KIWm8ayjWCiMBFoY6n7EcxxXf07E60unR_QhmoZHwzs-1UaVNALbVI6J53f71myyNpYv5nKF4IaJ3s8P8F_Y1RxgfHP2m5GKnuX6iI6kOttKKZ9ZUJYIg0V2c2hEWmO3vdalebp1la-stOxBJVJ3fIwqtIazk&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZR6V9mqX3TuQ6RY95MtFxKmGgvFR4Lv5vXbj0ZbISVt78jv_7EjW-0tr9EyRzB8g16Fbz60R7jqW7zuRrTJG7DQBPd8LsChdCwIsrCv-wJ9P9Re3GtJnlF0X7Y7uXjr3KIWm8ayjWCiMBFoY6n7EcxxXf07E60unR_QhmoZHwzs-1UaVNALbVI6J53f71myyNpYv5nKF4IaJ3s8P8F_Y1RxgfHP2m5GKnuX6iI6kOttKKZ9ZUJYIg0V2c2hEWmO3vdalebp1la-stOxBJVJ3fIwqtIazk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZRxfBjPGA86hU8UpILZHOtEfLHM7nue5Zipx1Httetc1sMO3lWglo_eF_qZHIH1WT6trjXt9_pp1JvWPscVSIyTkAAxqyLS2jh_hAk0ASi7WGWNR5Jf70IaxXz7HMer5yOle2FjGbk0ltIUZQCZZzmmSiIg6niYg62tiuKiWTJwDFQF5Z_vCn6vi7SNn8c5MT6ty1uUEaFteCUlrDiYlmPW3dyGz31j67LSjWu55yl3i8PLuM1talCKiHF_Sy92Q4rGN5VIopqUEoj1Vdvzf2gx2bxHC4",
+            "q": "Research Scientist (AI-ML) part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZRxfBjPGA86hU8UpILZHOtEfLHM7nue5Zipx1Httetc1sMO3lWglo_eF_qZHIH1WT6trjXt9_pp1JvWPscVSIyTkAAxqyLS2jh_hAk0ASi7WGWNR5Jf70IaxXz7HMer5yOle2FjGbk0ltIUZQCZZzmmSiIg6niYg62tiuKiWTJwDFQF5Z_vCn6vi7SNn8c5MT6ty1uUEaFteCUlrDiYlmPW3dyGz31j67LSjWu55yl3i8PLuM1talCKiHF_Sy92Q4rGN5VIopqUEoj1Vdvzf2gx2bxHC4&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7FVVzKjEmdc2ztVb4ED9a0uE7ppBawjkczyj51N_vxZkVchRo2UqrOmDo3YJyYZRxfBjPGA86hU8UpILZHOtEfLHM7nue5Zipx1Httetc1sMO3lWglo_eF_qZHIH1WT6trjXt9_pp1JvWPscVSIyTkAAxqyLS2jh_hAk0ASi7WGWNR5Jf70IaxXz7HMer5yOle2FjGbk0ltIUZQCZZzmmSiIg6niYg62tiuKiWTJwDFQF5Z_vCn6vi7SNn8c5MT6ty1uUEaFteCUlrDiYlmPW3dyGz31j67LSjWu55yl3i8PLuM1talCKiHF_Sy92Q4rGN5VIopqUEoj1Vdvzf2gx2bxHC4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYrQ4yIauiVP5gmhNYeQs4lCUiInVcFjsAc8k2uXi6GVvSJwHdIQhv_9b4Eq4a5V0xnd8ppbeFGe47dfJruUrUEPVK_3wekJwRrl3BMTD1iVdOO31dVXRKb6zQHKDdaYvxqrQOpnpmJIrf1pW3w5jlMsenMhCfeKV2SLhWCpTS2eGfQ-fIwhWx-QVlUatEPVnxwBAe0fbQlMtHxxpb1co2dvvolZ4Uld3FCzakAewyoHBSRadzs4c-0Jj9EXL5yHft46x87xhJlP2TXeKxS0itLVOqrLW3uc0FciBIXmy26kcuWOhIQ",
+            "q": "Research Scientist (AI-ML) contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYrQ4yIauiVP5gmhNYeQs4lCUiInVcFjsAc8k2uXi6GVvSJwHdIQhv_9b4Eq4a5V0xnd8ppbeFGe47dfJruUrUEPVK_3wekJwRrl3BMTD1iVdOO31dVXRKb6zQHKDdaYvxqrQOpnpmJIrf1pW3w5jlMsenMhCfeKV2SLhWCpTS2eGfQ-fIwhWx-QVlUatEPVnxwBAe0fbQlMtHxxpb1co2dvvolZ4Uld3FCzakAewyoHBSRadzs4c-0Jj9EXL5yHft46x87xhJlP2TXeKxS0itLVOqrLW3uc0FciBIXmy26kcuWOhIQ&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYrQ4yIauiVP5gmhNYeQs4lCUiInVcFjsAc8k2uXi6GVvSJwHdIQhv_9b4Eq4a5V0xnd8ppbeFGe47dfJruUrUEPVK_3wekJwRrl3BMTD1iVdOO31dVXRKb6zQHKDdaYvxqrQOpnpmJIrf1pW3w5jlMsenMhCfeKV2SLhWCpTS2eGfQ-fIwhWx-QVlUatEPVnxwBAe0fbQlMtHxxpb1co2dvvolZ4Uld3FCzakAewyoHBSRadzs4c-0Jj9EXL5yHft46x87xhJlP2TXeKxS0itLVOqrLW3uc0FciBIXmy26kcuWOhIQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXNKCsUKSP-VzRyvR_bN4l7VGFvqtwQM_rOOeUx4RolGn4s0gkWvgKves1kMC6vIO6Yp9sHKhhhymtHwYA1LnA1SrP9sx9hqGNJCvZZCwyqaCujtoRoonV1CSzbD58oLjxXfUQDiL2Y4d4-q82Gfm9FarXZ8tmglxJ35S7oMWn2DsOTcCcQyeV-WskrkXZ4Th9SSmihRt2XDr3PdpGUG-j4q478y9TonoizuKs-5hFH1rMn8esDk7SBv6GAGqa2Vq4zfACHQXJ1lzYcvtMZ5jr7mnDlXipsC5cPXX60rIH5GUypwYNWSs19lzbGKH4m9zMmx8XKA",
+            "q": "Research Scientist (AI-ML) internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDizUuzYHimxvJV4f3yI3Gv_FCf_vw:1793394814378&q=Research+Scientist+(AI-ML)+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXNKCsUKSP-VzRyvR_bN4l7VGFvqtwQM_rOOeUx4RolGn4s0gkWvgKves1kMC6vIO6Yp9sHKhhhymtHwYA1LnA1SrP9sx9hqGNJCvZZCwyqaCujtoRoonV1CSzbD58oLjxXfUQDiL2Y4d4-q82Gfm9FarXZ8tmglxJ35S7oMWn2DsOTcCcQyeV-WskrkXZ4Th9SSmihRt2XDr3PdpGUG-j4q478y9TonoizuKs-5hFH1rMn8esDk7SBv6GAGqa2Vq4zfACHQXJ1lzYcvtMZ5jr7mnDlXipsC5cPXX60rIH5GUypwYNWSs19lzbGKH4m9zMmx8XKA&udm=8&sa=X&ved=2ahUKEwikgOmm1OKXAxVVjSsGHY7aO4oQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Research+Scientist+%28AI-ML%29+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXNKCsUKSP-VzRyvR_bN4l7VGFvqtwQM_rOOeUx4RolGn4s0gkWvgKves1kMC6vIO6Yp9sHKhhhymtHwYA1LnA1SrP9sx9hqGNJCvZZCwyqaCujtoRoonV1CSzbD58oLjxXfUQDiL2Y4d4-q82Gfm9FarXZ8tmglxJ35S7oMWn2DsOTcCcQyeV-WskrkXZ4Th9SSmihRt2XDr3PdpGUG-j4q478y9TonoizuKs-5hFH1rMn8esDk7SBv6GAGqa2Vq4zfACHQXJ1lzYcvtMZ5jr7mnDlXipsC5cPXX60rIH5GUypwYNWSs19lzbGKH4m9zMmx8XKA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "ML Research Scientist (Remote | $245–$280/hr)",
+      "company_name": "Synthires",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Prior AI experience is not required",
+            "Strong proficiency in Python and data analysis",
+            "Knowledge of machine learning, statistics, experimentation, and data modeling",
+            "Experience with Pandas and related data science tools",
+            "Strong analytical, problem-solving, and quantitative reasoning skills",
+            "Excellent written and verbal communication skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $245–$280 per hour",
+            "Location: Remote",
+            "Hourly compensation of $245–$280",
+            "Remote, contractor-based engagement"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Contractors will help improve next-generation AI systems by evaluating model outputs, developing high-quality datasets, and providing expert feedback",
+            "Design and execute statistical analyses to uncover insights from complex datasets",
+            "Develop, validate, and evaluate machine learning models for business and research objectives",
+            "Apply data modeling techniques and manage data transformations using Python and Pandas",
+            "Collaborate with stakeholders to establish experimentation frameworks and analyze outcomes",
+            "Document methodologies, findings, and recommendations clearly and accurately",
+            "Review peer contributions and provide constructive technical feedback",
+            "Deliver reproducible code and organized analytical reports",
+            "Evaluate AI model outputs involving statistics, machine learning, experimentation, and quantitative reasoning",
+            "Create expert-level prompts, datasets, and reference solutions",
+            "Identify flawed methodologies, statistical errors, and weaknesses in quantitative reasoning",
+            "Provide structured feedback to improve AI model performance"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=CHTO2EtEsaOGmv9iAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LMQrCQBAAQGzzBAvZIoWK5kIwIFqJEEG0SR4QLseSO0luw-0WESz8g2_wY75EBJvpJnpPouJ6gRIZdTAWKuPQi2OBeYk9CcID4myTf56vONumyoYFrOFMDfwDeTgRtR1O91Zk4J1SzF3SsmhxJjHUK_LY0Khu1PCPmq0OOHRasM7ydEwG3y5n1d2LdQEZnIdKeyiC9saxoRUcD18mhTfwqAAAAA&shmds=v1_Ac3VAoxDMuV7aR5BmJsEeSkY34vZl-55rJK5dAwMGahjHqfieg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=CHTO2EtEsaOGmv9iAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAgYDBQcB_8QAKhAAAgIBAgUDAwUAAAAAAAAAAQIAAxEEEgUTITFBIlGBFBWhBjJhcZH_xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgEFBP_EABkRAQADAQEAAAAAAAAAAAAAAAABAhFBMf_aAAwDAQACEQMRAD8A5ZEROs8pERAREQEREBE8bO04ODjpOh2aP9OcT1tWmoTQVad9Mbr7NEhf6QVMrEtZ0yHTmL6gGB25z0k2tjcUOgafDNqGfp0VK-7fJ6Af7_Ug4BzZVW60k4Usd3XHbdgAmWO3X8Ju0p28P4dWW0NmoC8v1LqOexWrPts2jb5E2HEOJ8Nu11i2fbrtLqeKb2IX9tLIBv8A4b3PcYlxOp8UtkZMb1ZcgEZGMg9jIyxV38J5GiGpWmwt9OlzHJZFFQ3Y9hvGD84h_tRvZcaNSa_VYCCoOT2UDBOMZwQe3nMqKb1M2ziuxESFkkHZVZVZgrDDAHo3nr79ZGICZKRQSee9qjwK0Bz8kjH5mOJpKdrI1hNabE8Luzj5kIiAiImBERAREQEREBERA__Z.jpeg",
+      "extensions": [
+        "3 days ago",
+        "245–280 an hour",
+        "Work from home",
+        "Contractor"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/ml-research-scientist-remote-%24245%E2%80%93%24280-hr-at-synthires-4481862617",
+      "job_title": "ML Research Scientist (Remote | $245–$280/hr)",
+      "description": "Applied Scientist (Remote | $245–$280/hr)\n\n\n\n\nPosition: Applied Scientist\n\n\n\n\nType: Contractor\n\n\n\n\nCompensation: $245–$280 per hour\n\n\n\n\nLocation: Remote\n\n\n\n\nAbout the Opportunity\n\nAn AI-focused project is seeking Applied Scientists to contribute expertise in advanced analytics, experimentation, statistics, and machine learning. Contractors will help improve next-generation AI systems by evaluating model outputs, developing high-quality datasets, and providing expert feedback. Prior AI experience is not required.\n\nKey Responsibilities\n\nDesign and execute statistical analyses to uncover insights from complex datasets.Develop, validate, and evaluate machine learning models for business and research objectives.Apply data modeling techniques and manage data transformations using Python and Pandas.Collaborate with stakeholders to establish experimentation frameworks and analyze outcomes.Document methodologies, findings, and recommendations clearly and accurately.Review peer contributions and provide constructive technical feedback.Deliver reproducible code and organized analytical reports.Evaluate AI model outputs involving statistics, machine learning, experimentation, and quantitative reasoning.Create expert-level prompts, datasets, and reference solutions.Identify flawed methodologies, statistical errors, and weaknesses in quantitative reasoning.Provide structured feedback to improve AI model performance.Required Qualifications\n\nStrong proficiency in Python and data analysis.Knowledge of machine learning, statistics, experimentation, and data modeling.Experience with Pandas and related data science tools.Strong analytical, problem-solving, and quantitative reasoning skills.Excellent written and verbal communication skills.Preferred Qualifications\n\nAt least one year of experience at a leading company in technology, finance, or research.Proficiency with Python libraries such as Pandas and scikit-learn.Demonstrated experience in applied statistics, experimental design, and machine learning.Experience developing, tuning, and evaluating machine learning models.Ability to work with structured and unstructured data.Experience collaborating on cross-functional or open data science projects.Advanced academic background or practical experience in data science, applied mathematics, or a related field.Compensation\n\nHourly compensation of $245–$280.Remote, contractor-based engagement.Application Process\n\nThe application process was not specified in the provided listing.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ml-research-scientist-remote-%24245%E2%80%93%24280-hr-at-synthires-4481862617?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643400699878516432&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/academic-research-scientist-remote-245280-hr-synthires-san-francisco-bay-area--appcast-10440_4459516084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNTCBSZXNlYXJjaCBTY2llbnRpc3QgKFJlbW90ZSB8ICQyNDXigJMkMjgwL2hyKSIsImNvbXBhbnlfbmFtZSI6IlN5bnRoaXJlcyIsImh0aWRvY2lkIjoiQ0hUTzJFdEVzYU9HbXY5aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduRjZhM04wTkZWTGIyMVRhalZ5WjFJMk1tVndaV1YyZGpKZlpHcE1VMWh4Y0d0dE9XOHpVa1ZvTjBWNlJVeHhUR281Y1RWeVgwSmtUR1p0VTJ0cVlucFpRVXBDTVZKSGJVZzVZVTE0YTJabFl6Tlhla1o0WjJGNE5VbEhaM0JCVFZSc1FWVk5VVk53T0VobFV6SndhRlpsYkZwT2JHczJjSEpmYVc5S09FbGlNa0p1UWxBU0YyWm5hbXhoY1ZSS1JuUlhZWEoxUlZCcWNsaDJNRkZuR2lKQlNFNHdSVGRHUlcxS01sOXFNM1ZCUkRZNVdYUkdWR05oUkRWRFl6bHRYM2RSIiwiZmN2IjoiMyIsImZjX2lkIjoiQ0hUTzJFdEVzYU9HbXY5aUFBQUFBQT09In0="
+    },
+    {
+      "title": "AI/ML Research Scientist (Contractor | $60–$120/hr)",
+      "company_name": "Synthires",
+      "location": "Youngstown, OH",
+      "via": "SaluteMyJob",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Master's degree or PhD in Computer Science, Machine Learning, AI, Applied Mathematics, Statistics, Engineering, or a related quantitative field",
+            "Strong professional or research experience in machine learning",
+            "Practical proficiency in Python and experience using coding agents",
+            "Ability to implement, debug, and validate complex machine learning workflows"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "or PhD) (Remote | $60–$120/hr)",
+            "Compensation: $60–$120/hour",
+            "$60–$120/hour, with output-based payment for tasks meeting project specifications"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Type: Contractor (Part-Time, approximately 15 hours/week)",
+            "This opportunity is for experienced Machine Learning Engineers to contribute to AI training projects involving model development, training and inference systems, and performance optimization",
+            "The role is highly coding-intensive, with a focus on Python, reproducible workflows, and coding agents",
+            "Develop and validate machine learning models, training pipelines, and inference systems",
+            "Implement model components, data pipelines, evaluation systems, and numerical methods",
+            "Build reproducible workflows using Python and command-line tools",
+            "Debug numerical and system-level issues and optimize memory usage and performance",
+            "Create, solve, review, and validate challenging machine learning engineering tasks",
+            "Approximately 15 hours per week with a flexible schedule",
+            "Apply for the role and complete the screening questions",
+            "Complete an AI interview of approximately 30 minutes",
+            "If selected, complete onboarding and begin the first task within 24–48 hours"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=RwfaMycNBY1ax0zJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MPQrCQBBAYWxzBG2msFDRbAxooZVY-IMiaGUVNsuSXYkzYWfECBbewUt4Lk-igs3rvhe9GtFmtlLbDewtWx2Mg4PxFsWzQGdOKEEboQB3aI-T9-PZHqaJcqELA1hTDn9DCAuiorTNqROpeKIUcxkXLFq8iQ2dFaHNqVYnyvmXjJ0Otiq12CwdJXVcYdFrHW4ozgfL4BGOdMHvga7Yh93yA9IFjAirAAAA&shmds=v1_Ac3VAoxgu1RFNvCxanVlZnFZLJTSmysoHPRdAwtOCQmg_JYcEA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=RwfaMycNBY1ax0zJAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Part-time and Contractor"
+      ],
+      "source_link": "https://salutemyjob.com/jobs/ai-ml-research-scientist-contractor-60-120-hr-youngstown-ohio/3040350810-2/",
+      "job_title": "AI/ML Research Scientist (Contractor | $60–$120/hr)",
+      "description": "ML Engineer (MSc. or PhD) (Remote | $60–$120/hr)\n\n\n\n\nPosition: ML Engineer (MSc. or PhD)\n\n\n\n\nType: Contractor (Part-Time, approximately 15 hours/week)\n\n\n\n\nCompensation: $60–$120/hour\n\n\n\n\nLocation: Remote (Worldwide)\n\n\n\n\nAbout the Opportunity\n\nThis opportunity is for experienced Machine Learning Engineers to contribute to AI training projects involving model development, training and inference systems, and performance optimization. The role is highly coding-intensive, with a focus on Python, reproducible workflows, and coding agents.\n\nKey Responsibilities\n\nDevelop and validate machine learning models, training pipelines, and inference systems.Implement model components, data pipelines, evaluation systems, and numerical methods.Build reproducible workflows using Python and command-line tools.Debug numerical and system-level issues and optimize memory usage and performance.Create, solve, review, and validate challenging machine learning engineering tasks.Required Qualifications\n\nMaster's degree or PhD in Computer Science, Machine Learning, AI, Applied Mathematics, Statistics, Engineering, or a related quantitative field.Strong professional or research experience in machine learning.Practical proficiency in Python and experience using coding agents.Ability to implement, debug, and validate complex machine learning workflows.Preferred Qualifications\n\nExperience at an established technology company, AI laboratory, or research organization.Exceptional academic or open-source engineering experience demonstrating relevant expertise.Compensation\n\n$60–$120/hour, with output-based payment for tasks meeting project specifications.Approximately 15 hours per week with a flexible schedule.Immediate availability preferred; first task expected within 24–48 hours after onboarding.Application Process\n\nApply for the role and complete the screening questions.Complete an AI interview of approximately 30 minutes.Complete the hiring manager review.If selected, complete onboarding and begin the first task within 24–48 hours.",
+      "apply_options": [
+        {
+          "title": "SaluteMyJob",
+          "link": "https://salutemyjob.com/jobs/ai-ml-research-scientist-contractor-60-120-hr-youngstown-ohio/3040350810-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs For Col U Fans",
+          "link": "https://jobs.cu-fc.com/jobs/ai-ml-research-scientist-contractor-60-120-hr-youngstown-ohio/3040350810-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Move Collective Jobs",
+          "link": "https://jobs.movecollective.uk/jobs/ai-ml-research-scientist-contractor-60-120-hr-youngstown-ohio/3040350810-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hire The Better",
+          "link": "https://www.hirethebetter.com/jobs/ai-ml-research-scientist-contractor-60-120-hr-youngstown-ohio/3040350810-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs ExForces",
+          "link": "https://jobsforces.net/jobs/ai-ml-research-scientist-contractor-60-120-hr-youngstown-ohio/3040350810-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBSZXNlYXJjaCBTY2llbnRpc3QgKENvbnRyYWN0b3IgfCAkNjDigJMkMTIwL2hyKSIsImNvbXBhbnlfbmFtZSI6IlN5bnRoaXJlcyIsImh0aWRvY2lkIjoiUndmYU15Y05CWTFheDB6SkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXcFhRV3BJVkhKd1VVbGlNRzFpYlVWMldWRlRZbFF3V0hGdlh6VnBMV2RDZERoWVVHUmhjRkZ2YVVSV2EyNUdOSHBsYVRKbE5uazFaR3RWVkdZeFl6TnRSamRCYUhCcWJXMDJaelZ6Y0V4aGEwVm1TWFpvZERjMlREbEdOa1JRVTAxYU9VNU5SakJoTkZkR2R6bElaalZGVlZBM1NVZFJSblI2VEVoa01ESTRUbTAzTUhBU0YyWm5hbXhoY1ZSS1JuUlhZWEoxUlZCcWNsaDJNRkZuR2lKQlNFNHdSVGRGYTB0WVJtOVZjekZEU1U0NGVWVk1SRE0xZG5wdVQzWklNVzVSIiwiZmN2IjoiMyIsImZjX2lkIjoiUndmYU15Y05CWTFheDB6SkFBQUFBQT09In0="
+    },
+    {
+      "title": "AI/ML Research Scientist",
+      "company_name": "Peraton",
+      "location": "Maryland",
+      "via": "Peraton Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum of MS with 6+ years of experience or PhD with 3+ years of experience in Computer Science, Electrical and Computer Engineering, or closely related field",
+            "Expertise in machine learning and optimization techniques",
+            "Hands-on experience with ML tooling such a PyTorch, TensorFlow",
+            "Experience with modeling, simulation and analysis",
+            "Strong software development skills in Python, C/C++",
+            "Proficiency with Linux, Git, Docker and Kubernetes",
+            "Excellent oral and written communication skills (technical presentations + well-structured documentation)",
+            "Ability to work independently, manage ambiguity, and deliver tangible outputs in a research environment",
+            "US Citizenship is a requirement for this position",
+            "Willingness and eligibility to obtain a Secret clearance",
+            "Candidate will be required to travel to Basking Ridge, NJ as needed - expected at 25%",
+            "The ideal candidate thrives in an environment where they can independently drive technical work while communicating results clearly through presentations and written technical documents"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role focuses on research, prototyping and evaluation of AI/ML-driven analytics to expedite MSA including development of surrogate models to reduce simulation run times",
+            "The role requires a deep understanding of machine learning techniques and optimization algorithms and working with simulators",
+            "You will work with a small team of research scientists to investigate challenging problems, develop optimization and AI/ML-based solutions, software prototypes and demonstrate performance through hands-on evaluations",
+            "Conduct applied research on AI/ML-driven analytics using cutting edge machine learning and optimization techniques to expedite high-fidelity modeling and simulations",
+            "Design and implement prototypes that operationalize research into usable capabilities",
+            "Work with teammates to translate customer needs into technical approaches, balancing novelty with feasibility and deployability",
+            "Produce high-quality technical documentation, briefings and presentations, and contribute to reports, proposals, whitepapers, and publications",
+            "Maintain strong system hygiene: Linux-based development, version control, containers, reproducibility, and clean software practices",
+            "Learn and integrate new tools/technologies quickly to keep pace with evolving customer needs and emerging research"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=_yGTxXN9o16HA5jJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MsQoCMQyAYVxvdXPKLNiK4KKTkygeiD7AkdbQ9qhNaTKcsy-ugss_fMPfvWedPZxsf4EbCWHzEe4-UdEkCis4s4M_c4Ejc8i02EfVKjtrRbIJoqjJG89Py4UcT3ZkJ78MErFRzag0bLbrydQSlvMrNdTvLBXosb0ylscHAENes4YAAAA&shmds=v1_Ac3VAoywHaatK9qIlFSi2J8NxTKlEEDoQPTcil9iNpF5BAtqog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=_yGTxXN9o16HA5jJAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAYFBMVEUAAACQkJCIiIi5ubno6Ojd3d3j4-OLjIz9_f3s7Oy_v7_Dw8NtbW1hYWHGxsbU1NR1dXUxMTH29vYnKCilpqY2NzdUVFSfn5-zs7M9PT0VFRUODg5LS0tDQ0N9fn6srKzHstDNAAAAmUlEQVQ4je3OzQ6DIBBG0QH5cRBEKAhUW97_LWvjot2pTbrjJrOYxUk-gFbru4lS9xP0kvjP112At8gCF9EzyTnp-cxYCojpGKpB98EqhFnZamEwIJQGfwy3Q0O1AIwkWxNqwc6cgO9NTlUgMI9Ju3xPY5kKHE_di84t67Ku5bGUk2RvMEJjlfaJNV-DyWa-QSqIvQRbrX_1AsJDB26VbRZCAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "135K–216K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.careers.peraton.com/jobs/ai-ml-research-scientist-home-maryland-171438-jobs--cms-scientific-research-analysis--",
+      "job_title": "AI/ML Research Scientist",
+      "description": "Required Qualifications\n\nMinimum of MS with 6+ years of experience or PhD with 3+ years of experience in Computer Science, Electrical and Computer Engineering, or closely related fieldExpertise in machine learning and optimization techniquesHands-on experience with ML tooling such a PyTorch, TensorFlowKnowledge of LLMs and agentic AI is a plusExperience with modeling, simulation and analysisExperience with developing surrogate models is a plusStrong software development skills in Python, C/C++Proficiency with Linux, Git, Docker and KubernetesExcellent oral and written communication skills (technical presentations + well-structured documentation)Ability to work independently, manage ambiguity, and deliver tangible outputs in a research environmentUS Citizenship is a requirement for this positionWillingness and eligibility to obtain a Secret clearanceCandidate will be required to travel to Basking Ridge, NJ as needed - expected at 25%. Preferred Qualifications\n\nHistory of peer-reviewed publications, patents, open-source contributions, or evidence of research impact in the relevant areasCurrent security clearance is a plus Peraton Labs is seeking a self-motivated AI/ML Research Scientist with a strong foundation in machine learning, optimization techniques and data analytics to help design and deliver next-generation ML-driven  modeling, simulation and analysis (MSA) capabilities.  The role focuses on research, prototyping and evaluation of AI/ML-driven analytics to expedite MSA including development of surrogate models to reduce simulation run times.  The role requires a deep understanding of machine learning techniques and optimization algorithms and working with simulators.\n\n \n\nYou will work with a small team of research scientists to investigate challenging problems, develop optimization and AI/ML-based solutions, software prototypes and demonstrate performance through hands-on evaluations.  The ideal candidate thrives in an environment where they can independently drive technical work while communicating results clearly through presentations and written technical documents.\n\n \n\nKey responsibilities:\n\nConduct applied research on AI/ML-driven analytics using cutting edge machine learning and optimization techniques to expedite high-fidelity modeling and simulationsDesign and implement prototypes that operationalize research into usable capabilitiesWork with teammates to translate customer needs into technical approaches, balancing novelty with feasibility and deployabilityProduce high-quality technical documentation, briefings and presentations, and contribute to reports, proposals, whitepapers, and publicationsMaintain strong system hygiene: Linux-based development, version control, containers, reproducibility, and clean software practicesLearn and integrate new tools/technologies quickly to keep pace with evolving customer needs and emerging research#plabs26",
+      "apply_options": [
+        {
+          "title": "Peraton Careers",
+          "link": "https://www.careers.peraton.com/jobs/ai-ml-research-scientist-home-maryland-171438-jobs--cms-scientific-research-analysis--?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=ca9cdd3af78ae004&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/quantitative-methods-research-scientist-md--00984d1f-5b7f-429d-a92b-9b2aef5afa9b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/research-scientist--2000c2d5-b2da-4364-a88e-f84f4fa0ee3b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ac4b1ef8a27695aea307f1e-senior-decision-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/ai-ml-research-scientist--maryland--e949247359e20c1a96d762da0e9533e7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/research-scientist-university-of-maryland-ae0c33b5beea82f872be974948db2790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/dZ5rYKB13bY1VRFLb77Elm_8hkXatp90LdCwkmvfSEJac05dzsnRNw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBSZXNlYXJjaCBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJQZXJhdG9uIiwiaHRpZG9jaWQiOiJfeUdUeFhOOW8xNkhBNWpKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtOb1lrMXJXbGx1WTAwNFoybzNWV1I1ZDIxUFdEVk1kbEkxVms5M2QzaE1lalJ1TFVZelJrOVRRazFOZFRBeFZXMURiRWxhYTJWSk1GQmZWemM0WWxsYVNIcDVhVVJCYzFObVYwVmhaVmRYUTFKcFVrZHVSV05JWTBweGVVazFMVWRtZVU5WWFIbFVTMmRFVFU5VmRWVnlkMkY0Vkc1NFlUWk5ZVlZWVm1SRFUwcFZkVE1TRjJabmFteGhjVlJLUm5SWFlYSjFSVkJxY2xoMk1GRm5HaUpCU0U0d1JUZElXV0ZhTUY5cWVVVkNVbEpYT1dscVNEVk1TM042YTJsMlZ5MUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJfeUdUeFhOOW8xNkhBNWpKQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI/ML Research Scientist",
+      "company_name": "MIT Lincoln Laboratory",
+      "location": "Lexington, MA",
+      "via": "Jobs At MIT Lincoln Laboratory - MIT",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates who possess an B.S. in electrical engineering, computer science or other relevant discipline will be considered",
+            "Recent Graduate Hiring Range: [[gradRange]]",
+            "Experienced Hiring Range: [[experiencedRange]]",
+            "Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This range reflects base salary only and does not include additional forms of compensation or benefits",
+            "At MIT Lincoln Laboratory, our exceptional career opportunities include many outstanding benefits to help you stay healthy, feel supported, and enjoy a fulfilling work-life balance",
+            "Benefits offered to employees include:",
+            "Comprehensive health, dental, and vision plans",
+            "MIT-funded pension",
+            "Matching 401K",
+            "Paid leave (including vacation, sick, parental, military, etc.)",
+            "Tuition reimbursement and continuing education programs",
+            "Mentorship programs",
+            "A range of work-life balance options",
+            "... and much more!",
+            "As an employee of MIT, you can also take advantage of other voluntary benefits, discounts and perks"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, program, and architect advanced ML methods",
+            "Develop algorithms in speech, natural language processing, multimedia, cyber, and graph analytics",
+            "Publish and present research at premier conferences",
+            "The AI Technology and Systems Group is seeking motivated applicants that can contribute to projects addressing a wide range of national needs in AI and ML",
+            "Research on state-of-the-art algorithms in signal processing, natural language processing, graph analytics, or adversarial AI",
+            "Applying innovative methods to challenging, real-world problems",
+            "Working in a collaborative, team-oriented development environment",
+            "This is an opportunity to apply your skills to some of the most important technical challenges of our time—while learning from and contributing to a world-class research community"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=02gPE1kSE3BzmYJxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3IsQrCMBCAYVz7CE63CaKNCC46dZJKs6h7ScKRRuJdyd0Qn8TXVcHlh-9v3ovGdL2xA1xR0JUwwS0kJE2isIULe_hvJjgzx4zL06Q6y9EYkdxGUacptIGfhgk9V_NgL7-MMrmCc3aK4_6wq-1Mcb2y_R2GRIEzweA8F6dcXpC-wpooKtMGbPcBB_Bb45oAAAA&shmds=v1_Ac3VAoxDHyhu0M0QAUW0JIFeidp9d-Femmo8fW8zxRjmqc2TGQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=02gPE1kSE3BzmYJxAAAAAA%3D%3D",
+      "extensions": [
+        "17 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.ll.mit.edu/job/Lexington-AIML-Research-Scientist-MA-02420/1384875600/",
+      "job_title": "AI/ML Research Scientist",
+      "description": "Are you excited to contribute to world-class research in artificial intelligence with real impact on national security? The Artificial Intelligence Technology and Systems Group at MIT Lincoln Laboratory has over 50 years of experience developing revolutionary technologies for critical national missions. Group 52 AI Technology & Systems Group specializes in machine learning (ML) algorithms, technologies, and systems that extract and analyze information from multimedia data—including speech, text, images, and video. In recent years, we have significantly expanded our mission to include developing impactful ML solutions for cybersecurity in collaboration with the Nation’s top cyber organizations. As a recognized leader in both basic and applied AI/ML, our group is shaping emerging AI fields and driving the Laboratory’s efforts in AI Assurance across the Department of Defense and the Intelligence Community. We also integrate expertise in multimedia, cyber, and AI assurance to develop cutting-edge technologies for Operations in the Information Environment (OIE). A hallmark of our work is a focus on operational relevance: we design and evaluate AI/ML systems using realistic datasets and metrics, and we partner directly with intelligence analysts and cyber operators to ensure rapid transition of our technologies into real-world, mission-critical systems.  Job Description   Assistant staff members:  Design, program, and architect advanced ML methods. Develop algorithms in speech, natural language processing, multimedia, cyber, and graph analytics. Publish and present research at premier conferences.  The AI Technology and Systems Group is seeking motivated applicants that can contribute to projects addressing a wide range of national needs in AI and ML. Assignments may include:  Research on state-of-the-art algorithms in signal processing, natural language processing, graph analytics, or adversarial AI. Applying innovative methods to challenging, real-world problems. Working in a collaborative, team-oriented development environment.  This is an opportunity to apply your skills to some of the most important technical challenges of our time—while learning from and contributing to a world-class research community.     Requirements   Candidates who possess an B.S. in electrical engineering, computer science or other relevant discipline will be considered. Desired Skills:  Knowledge of artificial intelligence ideally with applications on multimedia, cyber security or adversarial machine learning / AI security experience. Proficient programmer – comfortable writing modular code; familiar with at least one major ML library (PyTorch, TensorFlow, etc.) and data handling libraries (NumPy, pandas, etc.). Hands-on experience with rapid-prototyping and AI frameworks – exposure to agentic/LLM-oriented toolkits (e.g., MCP), integration with both commercial and locally-hosted AI models. Software engineering best practices; version-control, collaborative coding – basic Git workflow (branching, pull requests, code reviews) and familiarity with issue-tracking. Strong problem-solving mindset – can take a research concept, break it into implementable components, and iterate quickly based upon experimental results. Detail oriented, able to multi-task, and with the ability to work autonomously given direction. Effective written and oral communications skills in technical environments, technical notes and documentation. Current TS/SCI clearance or willingness to obtain one.     Recent Graduate Hiring Range: [[gradRange]] Experienced Hiring Range: [[experiencedRange]]  Disclaimer: MIT Lincoln Laboratory provides a typical hiring range as a good faith estimate of what we reasonably expect to offer for this position at the time of posting. The final salary offered to a selected candidate will depend on various factors, including—but not limited to—the scope and responsibilities of the role, the candidate’s experience, skills and education/training, internal equity considerations and applicable legal requirements. This range reflects base salary only and does not include additional forms of compensation or benefits.  At MIT Lincoln Laboratory, our exceptional career opportunities include many outstanding benefits to help you stay healthy, feel supported, and enjoy a fulfilling work-life balance. Benefits offered to employees include:    Comprehensive health, dental, and vision plans MIT-funded pension Matching 401K Paid leave (including vacation, sick, parental, military, etc.) Tuition reimbursement and continuing education programs Mentorship programs A range of work-life balance options ... and much more!     Please visit our Benefits page for more information. As an employee of MIT, you can also take advantage of other voluntary benefits, discounts and perks.  Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.  MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.  Requisition ID: 42939",
+      "apply_options": [
+        {
+          "title": "Jobs At MIT Lincoln Laboratory - MIT",
+          "link": "https://careers.ll.mit.edu/job/Lexington-AIML-Research-Scientist-MA-02420/1384875600/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/ai-ml-research-scientist-lexington-ma--dd862364-a71c-4ecc-9a4a-3fb3fddac021?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/MIT-Lincoln-Laboratory/Job/AI-ML-Research-Scientist/-in-Lexington,MA?jid=4a02f601016fb8f2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/lexington/massachusetts/info_technology/5559094826/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBSZXNlYXJjaCBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJNSVQgTGluY29sbiBMYWJvcmF0b3J5IiwiaHRpZG9jaWQiOiIwMmdQRTFrU0UzQnptWUp4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW1SRVh6WXdTMnB3VEV3MFlWcHVRblp5VkhKbVVubDFkMkpEYUZveGJucDBSbWcyVTNsT1kxTXpNa0ZUTmxrNFQyMUhVVmhLTmtkemQwNWxPVVJKWTNaT1RrWnZiSGxvWTNoSVZuSmhSRnBoUVhsU2REbDBMV2RIVW1aNVdsY3dTRlUxWkhGSVozTmFjMWhRUjE5TGVFVmFWRmxQTjFwSVMzRldSVzl6U0c1Q2EyWjJlRGdTRjJabmFteGhjVlJLUm5SWFlYSjFSVkJxY2xoMk1GRm5HaUpCU0U0d1JUZEdNa1pmYW1wdFduZFlUMmN0WVdOMFNVTnVZWE5GVWpoVGVrOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiIwMmdQRTFrU0UzQnptWUp4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "company_name": "Meta",
+      "location": "Bellevue, WA (+2 others)",
+      "via": "Meta Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=t6-nwDL79o_u_c96AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LsQrCMBCAYVw7OzndqFIbEVx0qgpSsVB0cCxpOJJIvCvJKX0h31MFl3_6_uw9ypoLJtTROLgajyQ-CVQkGCmHsoI9R4RaG-cJ4fyF5MnCtHGHGSzgxB38byY4MtuAk60T6dNGqZRCYZNo8aYw_FBM2PGg7tylX9rkdMQ-aMF2tV4ORU92Pq5RNHiCHYaAryfmcCs_E4Zr-qgAAAA&shmds=v1_Ac3VAowGq-zeqKV9nKhSDKbQ2CY6UVitKjrchO0VvM-JFB12Eg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=t6-nwDL79o_u_c96AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5087ebccefc2d9d63af09/images/kOAINbLnozyaN6rOBmg7Uu069aZTsVQ6YTLfiJhEGh8.jpeg",
+      "extensions": [
+        "8 days ago",
+        "Internship"
+      ],
+      "source_link": "https://www.metacareers.com/profile/job_details/1648122343381284/",
+      "job_title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "description": "Meta was built to help people connect and share, and over the last decade, our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Meta offers countless ways to make an impact in a fast growing organization.\n\nMeta is seeking Research Interns to join Monetization Ranking & AI Foundations where we strive to serve the best personalized ads to people, maximizing their personal utility and advertiser value. We are committed to making fundamental advances in artificial intelligence and machine learning technologies that can be applied to all aspects of Monetization, including but not limited to, ranking, retrieval, supply, model architecture, representation learning, optimization, and generally a deep understanding of the users, ads, and any signals and contents related to their interactions.\n\nOur interns closely collaborate with researchers and engineers within the organization and across the company (e.g., FAIR), push the boundaries of state-of-the-art research in AI and ML, share the latest findings through top-tier publications and open source, and integrate innovations at an unprecedented scale.\n\nOur internships are twelve (12) to sixteen (16), or twenty-four (24) weeks long and we have various start dates throughout the year.",
+      "apply_options": [
+        {
+          "title": "Meta Careers",
+          "link": "https://www.metacareers.com/profile/job_details/1648122343381284/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Meta/Job/Research-Scientist-Intern,-AI-Core-Machine-Learning-(PhD)/-in-Sunnyvale,CA?jid=495e61afe9bd78c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/research-scientist-intern-ai-core-machine-learning-phd-meta-JV_IC1147442_KO0,54_KE55,59.htm?jl=1010305468082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=03eb7b87ad741cd0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/research-scientist-intern-ai-core-machine-learning-phd-sunnyvale-ca--0b7c82ca-5503-478f-abf8-391fcdc37f10?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6adbbe0346a8cabdc1ff47d2?visit=machine-learning-research-intern---summer-2027-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/research-scientist-intern-ai-core-machine-learning-phd-at-meta-4481034676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/research-scientist-intern-ai-core-machine-learning-phd-sunnyvale-ca--0b7c82ca-5503-478f-abf8-391fcdc37f10?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QgSW50ZXJuLCBBSSBDb3JlIE1hY2hpbmUgTGVhcm5pbmcgKFBoRCkiLCJjb21wYW55X25hbWUiOiJNZXRhIiwiaHRpZG9jaWQiOiJ0Ni1ud0RMNzlvX3VfYzk2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVRScmIzbHRaMjlNYzNWd1QwUkNTMGhVZUV0bFlUZHJVbFJ6ZFRkT1oxOXlVR2xYVlZGNlZEZFlaakpMTFdkbk5FeExNVmRDUmtsVmJuaFdaMU0zT0UweVQyNVBWRmQ1VGkxNVJHVnZRVWcxVkRGbmJrMTFaMDFJY2psRFJtbG5hRkZSU0VOTVgxY3phVkZ1Um5SUmNIQk5abUV3Wm01SFIwaGZTREJJYXpKR01HcGxhRVVTRjJabmFteGhjVlJLUm5SWFlYSjFSVkJxY2xoMk1GRm5HaUpCU0U0d1JUZEhiR3Q1WWpoNlVuSnJXRVV4ZGtSc01FRk1jekZ3TURrMFlYWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0Ni1ud0RMNzlvX3VfYzk2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Research Scientist: AI/ML for Real-World Impact",
+      "company_name": "Google LLC",
+      "location": "Mountain View, CA",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will lead experiments, publish results, and collaborate across teams to deploy impactful research ideas"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=TodXio1MCVUTk5FLAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2MwQqCQBBA6eondGnOkW4EXewkQmHoxaCOsm6Tbqw7izORX9R3VtTl8S7vRa9ZtK-RUY-mh5Ox6MWypJAVqirhRiPUqF18odFdoRiCNgIxHKmFf0MeDkSdw_muFwmcKsXsko5FizWJoUGRx5YmdaeWv2i41yMGpwWbzXY9JcF3y8VvAmWZg_VQ0cOL_sjZ4nMFefYG62Nk06kAAAA&shmds=v1_Ac3VAoz2GD1ev-gCFga09MmmZFYIPUAkabL0NVbAwY2-YO9Eiw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=TodXio1MCVUTk5FLAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "174K–252K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/research-scientist-ai-ml-for-real-world-impact--mountain-view--ef33023c19ed25d6ae50b70f1a7ffbc91",
+      "job_title": "Research Scientist: AI/ML for Real-World Impact",
+      "description": "Google LLC in Mountain View, CA is seeking a Research Scientist to advance Gemini models through data design, large-scale testing, and rapid evaluation. You will lead experiments, publish results, and collaborate across teams to deploy impactful research ideas.\n\nThe role emphasizes cutting-edge AI research in NLP, ML, CV, and related areas, with opportunities to influence product innovation and safety at scale for billions of users.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/research-scientist-ai-ml-for-real-world-impact--mountain-view--ef33023c19ed25d6ae50b70f1a7ffbc91?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28652-c49e94933f61e1788cbaf076f0f8bf4c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3Q6IEFJL01MIGZvciBSZWFsLVdvcmxkIEltcGFjdCIsImNvbXBhbnlfbmFtZSI6Ikdvb2dsZSBMTEMiLCJodGlkb2NpZCI6IlRvZFhpbzFNQ1ZVVGs1RkxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbTlOY0VwUmJVODVhVWQ1UkMxelJHMVBRbGxGWkVGRE5WQnJjMkZEYVdsbVFYSmFhR2d5YTNwNmNXVmpiWHB1Y2s1UmFVWnlkM2N4TVU5TU4zWnJVREJwWmpaTlRVTlNYMkZXVkhCaWRFUnFRbXBMUkVoT1RqRjVTa0ZoVVRKT01HSlhUbWxoYlY4MlZXSmtMV1JLU21NeVEyMHRkMlJNV21GSFowRnhWRXBwWVZBNFQwZ1NGMlpuYW14aGNWUktSblJYWVhKMVJWQnFjbGgyTUZGbkdpSkJTRTR3UlRkSFNqZ3dRalpVY3paWVFVMXlSbGg0YzJ0QlgwVkdiSEkyVjNOUiIsImZjdiI6IjMiLCJmY19pZCI6IlRvZFhpbzFNQ1ZVVGs1RkxBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Research Scientist, AI / ML Biologics",
+      "company_name": "Real Staffing Group",
+      "location": "Syracuse, NY",
+      "via": "David Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in a relevant field with at least three years of industry experience",
+            "Strong background in oligonucleotide chemistry, antibody design, and computational modeling of antibody–antigen interactions",
+            "Expertise in probabilistic and deep learning models",
+            "Programming in Python, R, and SQLExperience with modern deep learning frameworks",
+            "Familiarity with large-scale computing and cloud infrastructure",
+            "Excellent communication and teamwork skillsstrong communicationcollaborationcontinuous learning"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This is a hands-on, impact-focused position within a remote contract setting and cross-functional team",
+            "Compensation / Benefitshealth insurancehealth savings accountretirement savings planlife and disability insurancepaid leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you apply AI/ML to accelerate discovery in ASO therapeutics and antibody research, working across multiple biologic modalities",
+            "You will collaborate with experimental teams to validate predictions and build scalable, reproducible computational workflows",
+            "The role blends de novo antibody discovery, sequence-aware ASO modeling, and generative protein design to drive multi-objective optimization",
+            "Design and implement AI/ML methods for de novo antibody discovery",
+            "Develop sequence-aware predictive models to prioritize ASO therapeutics based on exon-skipping response",
+            "Fine-tune protein language models and develop generative protein design workflows",
+            "Deploy ML methods for multi-objective optimization across antibodies, antigens, ADCs, and other biologics",
+            "Build reproducible computational frameworks and curate/harmonize datasets",
+            "Define robust sequence and structure features and establish model benchmarks",
+            "Collaborate with experimental teams to validate predictions and integrate proprietary and open-source tools",
+            "Maintain well-documented codebase and provide user guidance for cross-functional teams"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=wVpktybfaj20amEkAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3KsQrCMBAAUFz7CU4HblIbEVzURZeiqEM7OZU0XJNIzIXcFerf-KkiuLzpFZ9ZcWiQUWfjoDUeo3iWEo5nUHC7wslTIOsNwwou1MN_UoSayAac751I4p1SzKGyLFq8qQy9FEXsaVJP6vlHx05nTEELdpvteqpStMtFgzpAK3oYfLRQZxoT-AjtO2szMpZwf3wBNDtaqaMAAAA&shmds=v1_Ac3VAozW8KkRTW52koyTtaFc2fAJuTKbiawptZnRXEf0Ugxyrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=wVpktybfaj20amEkAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://davidcareers.com/jobs/550212c1933181d9341fd3f4",
+      "job_title": "Research Scientist, AI / ML Biologics",
+      "description": "Overview:\n\nIn this role, you apply AI/ML to accelerate discovery in ASO therapeutics and antibody research, working across multiple biologic modalities. You will collaborate with experimental teams to validate predictions and build scalable, reproducible computational workflows. The role blends de novo antibody discovery, sequence-aware ASO modeling, and generative protein design to drive multi-objective optimization. This is a hands-on, impact-focused position within a remote contract setting and cross-functional team. Compensation / Benefitshealth insurancehealth savings accountretirement savings planlife and disability insurancepaid leave\n\nResponsibilities:\n\nDesign and implement AI/ML methods for de novo antibody discoveryDevelop sequence-aware predictive models to prioritize ASO therapeutics based on exon-skipping responseFine-tune protein language models and develop generative protein design workflowsDeploy ML methods for multi-objective optimization across antibodies, antigens, ADCs, and other biologicsBuild reproducible computational frameworks and curate/harmonize datasetsDefine robust sequence and structure features and establish model benchmarksCollaborate with experimental teams to validate predictions and integrate proprietary and open-source toolsMaintain well-documented codebase and provide user guidance for cross-functional teamsKey requirements:\n\nPhD in a relevant field with at least three years of industry experienceStrong background in oligonucleotide chemistry, antibody design, and computational modeling of antibody–antigen interactionsExpertise in probabilistic and deep learning modelsProgramming in Python, R, and SQLExperience with modern deep learning frameworksFamiliarity with large-scale computing and cloud infrastructureExcellent communication and teamwork skillsstrong communicationcollaborationcontinuous learningPythonRSQL",
+      "apply_options": [
+        {
+          "title": "David Careers",
+          "link": "https://davidcareers.com/jobs/550212c1933181d9341fd3f4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QsIEFJIC8gTUwgQmlvbG9naWNzIiwiY29tcGFueV9uYW1lIjoiUmVhbCBTdGFmZmluZyBHcm91cCIsImh0aWRvY2lkIjoid1Zwa3R5YmZhajIwYW1Fa0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdXWjZiR1I0V2taZmJWOUhaRmxSUzJ4cVlYZG5NRlUxWmpGa05DMVZTRGg1WVhoUmVqSkVNM1JpT1d4UlJucGhhMmRuUW5sdGFuSm5WemN0T1haeGNEUldSa1psWm1aR1N6aFVTM1JxWmxRNFIwZzNkMUExVWxkbVRVZDVPRFF6UjJ4MmF6WktlbTlTWlVoclZIUklNMll4Y1VWQlZscGxPRzkxYVhSaGJpMXNSR2wwV0ZjU0YyWm5hbXhoY1ZSS1JuUlhZWEoxUlZCcWNsaDJNRkZuR2lKQlNFNHdSVGRJTkZVNGQxTnpPVE5FTWtWUGVFNWxhSHBpWW1wNFlVOW9ZakYzIiwiZmN2IjoiMyIsImZjX2lkIjoid1Zwa3R5YmZhajIwYW1Fa0FBQUFBQT09In0="
+    },
+    {
+      "title": "AIML - Applied ML Research Scientist - Accessibility, Human Centered Machine Intelligence",
+      "company_name": "Apple",
+      "location": "Seattle, WA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are especially interested in researchers who want to bring expertise in one or more of the following areas to these accessibility challenges: multimodal reasoning, agentic systems and multi-turn interaction, contextual understanding, privacy-preserving ML, and synthetic data and evaluation methodologies",
+            "Experience conducting research in accessibility or demonstrated commitment to accessibility",
+            "Experience doing data collection or data curation (e.g., developing data or annotation protocols)",
+            "Experience with human-centered evaluation methods (e.g., developing user study protocols or running studies)",
+            "Experience developing and shipping products that use machine learning",
+            "Strong writing and presentation skills",
+            "PhD in Machine Learning, Computer Science, Human-Computer Interaction or related field",
+            "Experienced researcher, with research depth in one or more of: multimodal modeling, agentic systems and tool use, computer vision, speech, or foundation model post-training and evaluation",
+            "Publication and research record commensurate with seniority",
+            "Proven history of turning research contributions into tools, datasets or products, or strong potential to do so"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay & Benefits",
+            "At Apple, base pay is one part of our total compensation package and is determined within a range",
+            "This provides the opportunity to progress as you grow and develop within a role",
+            "The base pay range for this role is between $166,600 and $250,700, and your base pay will depend on your skills, qualifications, experience, and location",
+            "Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs",
+            "Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan",
+            "You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition",
+            "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation",
+            "Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Research Scientists in HCMI tackle significant technical challenges, collaborate with partner teams to ship products, and shape the field of human-centered AIML via external publication",
+            "\",\"responsibilities\":\"Develop new ML modeling approaches with the potential for both research and product impact",
+            "Advance the state of the art on Accessibility-related problems",
+            "Design and execute experiments to evaluate machine learning modeling approaches",
+            "Evaluate ML-powered applications using human-centered methods",
+            "Partner with product teams to bring research into features that reach users",
+            "Share contributions through internal impact and external publication in top ML and HCI venues"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=fk17aUE2bfg9e_y3AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQvCMBCFce3s5HSzaCOCi07FQSu62MGxpPFITtIk9E6oP9D_ZQouDz4e3-MV31mRqvp2hTVUKXnCJ2S4I6MejIPGEAYhlqk3BpmpI0_yWcH53esAx1zjMFnaOAoIdWbvyWIwmKVL7OC_FQOcYrQeFwcnknivFLMvLYsWMqWJvYoBuziqV-x4ipadHjB5Ldhud5uxTMEu59NPBArQoBbxuIJH9QN2XTpSyAAAAA&shmds=v1_Ac3VAozllUHni3CuJmW84nZRA08CmlGLmIiWtIHCRkWSPwhf_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=fk17aUE2bfg9e_y3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAABAcIBgP_xAAuEAAABgECBQIEBwAAAAAAAAAAAQIDBAURBhIHFCExUUFxE2GRsQgVFiIyUmL_xAAUAQEAAAAAAAAAAAAAAAAAAAAA_8QAFBEBAAAAAAAAAAAAAAAAAAAAAP_aAAwDAQACEQMRAD8AvEAAAABzWutaVuiq1EqwJbrryjSxHbxucMu_fsRepgOlAQKGc9Z0sGfJjHFdksJdUwasm3uLOM4L7CeAAAAAAIV0bhU082c_F5ZzZjvnaeAFR6x44nAtnoOnYDElphexcmQo8LUR9dpFjp889RyeoeJ9ZqB-DZWOmEyLKGRpbQ7KM4xdc7jQREajz6GePcViADQ_DPixZ6pu0VM-mQZqSajkQ87WiL1UkzPBemc98dBbgpD8NT0MmbtjKSnGptfXubeDLp8iP7kLvAAAAADLJYMAAZJ4naUd0nqqTGJsyhPqN6Isi_aaDP8Aj7p7fTyOSG07mkq7yOmPbwGJjSVbkpeQStp-S8Dy_TVFyHIfk0DlMY-Dy6Nv0wAzVwcpbK21tEcr3no7MQydlPtKNOEf0z_rtj38DVQgU9LWUcZUeogsQ2VK3KSygk7j8n5E8AAAAAAAAAAAAAAAAAH_2Q.jpeg",
+      "extensions": [
+        "22 days ago",
+        "167K–251K a year",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=52489122ec649939",
+      "job_title": "AIML - Applied ML Research Scientist - Accessibility, Human Centered Machine Intelligence",
+      "description": "We are seeking an Applied Machine Learning Research Scientist to join our Accessibility efforts on the Human-Centered Machine Intelligence (HCMI) team within AIML at Apple. Research Scientists in HCMI tackle significant technical challenges, collaborate with partner teams to ship products, and shape the field of human-centered AIML via external publication. Join us to advance ML research and intelligent interactive technologies that enable people of all abilities to use Apple technology.\n\nDescription\n\n\n  The Human-Centered Machine Intelligence (HCMI) group advances ML modeling and interactive technologies grounded in human-centered research. We are a close-knit team of research scientists and engineers working closely with product and platform teams across Apple. The Accessibility team within HCMI specifically focuses on core ML technologies that address grand challenges in accessibility, including equitable speech access for people with communication disabilities, visual understanding for people who are blind or low vision, sign language technology, and more.\n\n\n  We are especially interested in researchers who want to bring expertise in one or more of the following areas to these accessibility challenges: multimodal reasoning, agentic systems and multi-turn interaction, contextual understanding, privacy-preserving ML, and synthetic data and evaluation methodologies.\n\n\n  \",\"responsibilities\":\"Develop new ML modeling approaches with the potential for both research and product impact.\n\n\n  Advance the state of the art on Accessibility-related problems.\n\n\n  Design and execute experiments to evaluate machine learning modeling approaches.\n\n\n  Evaluate ML-powered applications using human-centered methods.\n\n\n  Partner with product teams to bring research into features that reach users.\n\n\n  Share contributions through internal impact and external publication in top ML and HCI venues.\n\nPreferred Qualifications\n\n\n  Experience conducting research in accessibility or demonstrated commitment to accessibility.\n\n\n  Experience doing data collection or data curation (e.g., developing data or annotation protocols).\n\n\n  Experience with human-centered evaluation methods (e.g., developing user study protocols or running studies).\n\n\n  Experience developing and shipping products that use machine learning.\n\n\n  Strong writing and presentation skills.\n\nMinimum Qualifications\n\n\n  PhD in Machine Learning, Computer Science, Human-Computer Interaction or related field.\n\n\n  Experienced researcher, with research depth in one or more of: multimodal modeling, agentic systems and tool use, computer vision, speech, or foundation model post-training and evaluation.\n\n\n  Publication and research record commensurate with seniority.\n\n\n  Proven history of turning research contributions into tools, datasets or products, or strong potential to do so.\n\nPay & Benefits\n\n\n  At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $166,600 and $250,700, and your base pay will depend on your skills, qualifications, experience, and location.\n\n\n  Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits\n\n\n  Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=52489122ec649939&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "A11yjobs",
+          "link": "https://www.a11yjobs.com/jobs/aiml-applied-ml-research-scientist-accessibility-human-centered-machine-intelligence-apple-QKSJI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/aiml-applied-ml-research-scientist-accessibility-human-centered-machine-intelligence-seattle-wa--c87dbf8e-1799-47b1-8430-07ec3cd7d0f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/apple/Job/AIML-Applied-ML-Research-Scientist-Accessibility,-Human-Centered-Machine-Intelligence/-in-Seattle,WA?jid=a079964a1d93fb07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/applied-ml-research-scientist-accessibility-human-centered-machine-intelligence_7ea1ac0ab68745fc25a538e74f56467026938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/aiml-applied-ml-research-scientist-accessibility-human-centered-machine-intelligence--seattle--e43d45842fd5098203b06237d236d3c20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/aiml-applied-ml-research-scientist-accessibility-human-centered-machine-intelligence-apple-seattle-wa_89211450?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/aiml-sr-machine-learning-research-seattle-apple-e7f1f5269ea5398fa3431663a0ebe2cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSU1MIC0gQXBwbGllZCBNTCBSZXNlYXJjaCBTY2llbnRpc3QgLSBBY2Nlc3NpYmlsaXR5LCBIdW1hbiBDZW50ZXJlZCBNYWNoaW5lIEludGVsbGlnZW5jZSIsImNvbXBhbnlfbmFtZSI6IkFwcGxlIiwiaHRpZG9jaWQiOiJmazE3YVVFMmJmZzllX3kzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVVSNVRUVnZia1UwZFZVMFZXWmtXbE16YlRGNGJtbzFiRmRVV2tScmVHd3lTVU5QTUdSWVZERXRVWGgzYjFsQ2FtTlhXV2hZVmpkQkxTMXJhWEp0WjFndFgzUlBhVmx0WVZKWlFsTktNV296WVdNdFYxOTBiVUY0UkRaalozVXdMVVV4Y1VWdVdFWm9WbUZtUkRSYVpIZEVNM1l5YUZCUWRuVmlTVmxDUlRNM2NtWjVWVEVTRjJabmFteGhjVlJLUm5SWFlYSjFSVkJxY2xoMk1GRm5HaUpCU0U0d1JUZEdSbXR3WjFoM2VtOXVYMGRyWDB0V2JrZGhTV2RMV21GRWMyaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmazE3YVVFMmJmZzllX3kzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI/ML Research Scientist Jobs",
+      "company_name": "MIT Lincoln Laboratory",
+      "location": "Fort Meade, MD",
+      "via": "Clearance Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is an opportunity to apply your skills to some of the most important technical challenges of our time-while learning from and contributing to a world-class research community",
+            "Candidates must possess a Ph.D in electrical engineering, computer science, or another relevant discipline or a MS with 5 or more years of relevant experience or a BS and 9 or more years of relevant expereince will be considered",
+            "Current TS/SCI clearance required (must be active at the time of application)",
+            "Adept at formulating hypothesis, designing controlled experiments, and drawing data-driven conclusions on novel problems",
+            "Ability to document code, write reproducible experiment notebooks, and maintain versioned releases",
+            "Selected candidate will be subject to a pre-employment background investigation and must possess a current in scope Top Secret level security clearance"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Recent Graduate Hiring Range: $145,200 - $170,000",
+            "Experienced Hiring Range: $145,20-0 - $220,000",
+            "This range reflects base salary only and does not include additional forms of compensation or benefits",
+            "At MIT Lincoln Laboratory, our exceptional career opportunities include many outstanding benefits to help you stay healthy, feel supported, and enjoy a fulfilling work-life balance",
+            "Benefits offered to employees include:",
+            "Comprehensive health, dental, and vision plans",
+            "MIT-funded pension",
+            "Matching 401K",
+            "Paid leave (including vacation, sick, parental, military, etc.)",
+            "Tuition reimbursement and continuing education programs",
+            "Mentorship programs",
+            "A range of work-life balance options",
+            "... and much more!",
+            "As an employee of MIT, you can also take advantage of other voluntary benefits, discounts and perks"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, program, and architect advanced ML methods",
+            "Develop algorithms in speech, natural language processing, multimedia, cyber, and graph analytics",
+            "Publish and present research at premier conferences",
+            "The AI Technology and Systems Group is seeking motivated applicants who can contribute to projects addressing a wide range of national needs in AI and ML",
+            "Research on state-of-the-art algorithms in signal processing, natural language processing, graph analytics, or adversarial AI",
+            "Applying innovative methods to challenging, real-world problems",
+            "Working in a collaborative, team-oriented development environment",
+            "Operate within a rapid research-to-prototype pipeline - demonstrable ability to turn novel algorithms and approaches into robust, reproduceable prototypes in tight timescales, around iterative refinement",
+            "Agentic-AI framework experience - hands-on work with MCP or comparable toolkits; able to design, implement, and evaluate end-to-end LLM-driven agents",
+            "Advanced Python & ML libraries - expert-level proficiency in Python and deep-learning frameworks (PyTorch, TensorFlow, etc.), plus Huggingface ecosystem, and data science frameworks (NumPy/pandas/SciPy, etc.)",
+            "Software-engineering best practices - strong Git workflow (branching, pull-requests, code reviews), continuous-integration testing, environment reproducibility (e.g., conda, virtualenv)",
+            "Team and Project leadership - experience leading small research teams, assigning tasks, tracking progress, removing technical blockers, and mentoring junior staff",
+            "Stakeholder communication - strong written and oral skills for prepping technical briefings, composing white-papers, demo presentations, and funding proposals; able to convey complex research outcomes to sponsors, senior leadership, and external partners",
+            "Detail-oriented, able to multi-task, with the ability to work autonomously, set technical direction, and operate with minimal supervision"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=HrQGYieAxdHBrf5jAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2LsQrCMBBAce0nON0ooo2ILjoJolSaRd1LGo8mEu9K7ob6Mf6rFlzeGx6v-EyKzaEytoYrCrrsA9x8RNIoChduBZaj4N-Y4MzcJZzug2ovO2NEUtmJOo2-9PwyTNjyYJ6_d0QjwWXsk1Ns1tvVUPbUzWe2ukMdyXMiqF3L2SnnN0SCE2cFi-6BC7DHLywfA92gAAAA&shmds=v1_Ac3VAoyWA1uzthF_uBMreI2LL0CK7uHiaJrFBiRovnZvS3ywpg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=HrQGYieAxdHBrf5jAAAAAA%3D%3D",
+      "extensions": [
+        "145K–170K a year",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.clearancejobs.com/jobs/9143242/aiml-research-scientist",
+      "job_title": "AI/ML Research Scientist Jobs",
+      "description": "Fort Meade, MD (On-Site Position) \n \nAre you excited to contribute to world-class research in artificial intelligence with real impact on national security? The Artificial Intelligence Technology and Systems Group at MIT Lincoln Laboratory has over 50 years of experience developing revolutionary technologies for critical national missions. \n \n Location : This position is based at our field site in Fort Meade, MD. Candidates must be willing and able to commute to and work on-site and will regularly interface directly with government sponsors in secure facilities. \n \nGroup 52 AI Technology & Systems specializes in machine learning (ML) algorithms, technologies, and systems that extract and analyze information from multimedia data-including speech, text, images, and video. In recent years, we have significantly expanded our mission to include developing impactful ML solutions for cybersecurity in collaboration with the Nation's top cyber organizations. \n \nAs a recognized leader in both basic and applied AI/ML, our group is shaping emerging AI fields and driving the Laboratory's efforts in AI Assurance across the Department of Defense and the Intelligence Community. We also integrate expertise in multimedia, cyber, and AI assurance to develop cutting-edge technologies for Operations in the Information Environment (OIE). \n \nA hallmark of our work is a focus on operational relevance: we design and evaluate AI/ML systems using realistic datasets and metrics, and we partner directly with intelligence analysts and cyber operators to ensure rapid transition of our technologies into real-world, mission-critical systems. \n\nJob Description \n\nTechnical staff members:\n  Design, program, and architect advanced ML methods.  Develop algorithms in speech, natural language processing, multimedia, cyber, and graph analytics.  Publish and present research at premier conferences.   \nThe AI Technology and Systems Group is seeking motivated applicants who can contribute to projects addressing a wide range of national needs in AI and ML. Assignments may include: \n  Research on state-of-the-art algorithms in signal processing, natural language processing, graph analytics, or adversarial AI.  Applying innovative methods to challenging, real-world problems.  Working in a collaborative, team-oriented development environment.   \nThis is an opportunity to apply your skills to some of the most important technical challenges of our time-while learning from and contributing to a world-class research community. \n\nQualifications \n\nCandidates must possess a Ph.D in electrical engineering, computer science, or another relevant discipline or a MS with 5 or more years of relevant experience or a BS and 9 or more years of relevant expereince will be considered. \n  Current TS/SCI clearance required (must be active at the time of application).    \nDesired Skills\n  Knowledge of artificial intelligence ideally with applications on multimedia, cyber security or adversarial machine learning / AI security experience. Deep AI/ML experience - graduate-level (or professional) knowledge of state-of-the-art machine-learning, deep-learning, LLM/agentic AI, multimodal perception, graph analytics, adversarial/AI-assurance, or cyber-ML; ability to read, critique, and extend advanced research papers. System analysis & problem decomposition - can translate high-level end-state requirements into a clear set of research tasks, define quantitative success metrics and measures, and produce a task-breakdown structure that aligns with program/project milestones. Adept at formulating hypothesis, designing controlled experiments, and drawing data-driven conclusions on novel problems. Operate within a rapid research-to-prototype pipeline - demonstrable ability to turn novel algorithms and approaches into robust, reproduceable prototypes in tight timescales, around iterative refinement. Agentic-AI framework experience - hands-on work with MCP or comparable toolkits; able to design, implement, and evaluate end-to-end LLM-driven agents. Advanced Python & ML libraries - expert-level proficiency in Python and deep-learning frameworks (PyTorch, TensorFlow, etc.), plus Huggingface ecosystem, and data science frameworks (NumPy/pandas/SciPy, etc.). Software-engineering best practices - strong Git workflow (branching, pull-requests, code reviews), continuous-integration testing, environment reproducibility (e.g., conda, virtualenv). Ability to document code, write reproducible experiment notebooks, and maintain versioned releases. Team and Project leadership - experience leading small research teams, assigning tasks, tracking progress, removing technical blockers, and mentoring junior staff. Stakeholder communication - strong written and oral skills for prepping technical briefings, composing white-papers, demo presentations, and funding proposals; able to convey complex research outcomes to sponsors, senior leadership, and external partners. Detail-oriented, able to multi-task, with the ability to work autonomously, set technical direction, and operate with minimal supervision. \n\nRecent Graduate Hiring Range: $145,200 - $170,000\nExperienced Hiring Range: $145,20-0 - $220,000\n\n Disclaimer: MIT Lincoln Laboratory provides a typical hiring range as a good faith estimate of what we reasonably expect to offer for this position at the time of posting. The final salary offered to a selected candidate will depend on various factors, including-but not limited to-the scope and responsibilities of the role, the candidate's experience, skills and education/training, internal equity considerations and applicable legal requirements. This range reflects base salary only and does not include additional forms of compensation or benefits.\n\n \n \nAt MIT Lincoln Laboratory, our exceptional career opportunities include many outstanding benefits to help you stay healthy, feel supported, and enjoy a fulfilling work-life balance. Benefits offered to employees include: \n\n Comprehensive health, dental, and vision plans MIT-funded pension Matching 401K Paid leave (including vacation, sick, parental, military, etc.) Tuition reimbursement and continuing education programs Mentorship programs A range of work-life balance options ... and much more!  \n Please visit our Benefits page  for more information. As an employee of MIT, you can also take advantage of  other voluntary benefits, discounts and perks .\n\nSelected candidate will be subject to a pre-employment background investigation and must possess a current in scope Top Secret level security clearance. \n\nMIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.\n\nRequisition ID: 42940",
+      "apply_options": [
+        {
+          "title": "Clearance Jobs",
+          "link": "https://www.clearancejobs.com/jobs/9143242/aiml-research-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBSZXNlYXJjaCBTY2llbnRpc3QgSm9icyIsImNvbXBhbnlfbmFtZSI6Ik1JVCBMaW5jb2xuIExhYm9yYXRvcnkiLCJodGlkb2NpZCI6IkhyUUdZaWVBeGRIQnJmNWpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbHBGU1hneVlXaHVhRXRrU0U5WVozSnVObU5GYUhKUFQxTnNOWGxxTW14aWJtOTBUbTFhYlhGT1NrRnJlR1JMVm5Cdk0zUkNaMjExVFVnd1VFZGlRMjFuV20xdlNFcDNXakpyT0RWRU9HTmhNbUZwVVRkSFltWnhlalp2UzB0VVMyaGFlRkZuYTBaU1V6aEVNbkJyTjAwd1ZrbFJWbWQ1VlZOQ2FHbFNWelprYUZKaVN6SVNGMlpuYW14aGNWUktSblJYWVhKMVJWQnFjbGgyTUZGbkdpSkJTRTR3UlRkSFRFUjBhVU5ZZWtkSkxUbHJWVkIxT1ZBMVoxaHZRazVyZWkxUiIsImZjdiI6IjMiLCJmY19pZCI6IkhyUUdZaWVBeGRIQnJmNWpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Principal Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+      "company_name": "Genentech",
+      "location": "South San Francisco, CA (+2 others)",
+      "via": "Careers At Genentech",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=Ys6jBWwO9A6Iu_RWAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWPwUoDQRBEyTWfkFMdPKisuxLwoqfFxRBRkOwHhNmhnWkZu5fpicTPzB9lQi5FQRXFq-VpsUxfmcXz7BI-nY8shA9yWVgCRs8kha00eMtaHWXsyGrsY4N-i2_NGPIhYGDz-kf5H7f9dhju8IB3nXCtQgUb1ZBo9RJLme2568xSG6y4wr71-tup0KTH7kcnu8jeoss0J1dov356PLazhPubDUnlobrIglEPJWJ0UtlcfVABGrz2Z0e1sdzUAAAA&shmds=v1_Ac3VAoyesfaGHbwBsZf9pkDe1Ku8NKdwuMxnTa-bSu7lzy3ivg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=Ys6jBWwO9A6Iu_RWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5087ebccefc2d9d63af09/images/jv-tjIQd81Lyzl70Hm15dC9--ao5z7GqhQTHaYcfUsc.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://careers.gene.com/us/en/job/202608-121261/Principal-Machine-Learning-Scientist-Frontier-Research-AI-for-Drug-Discovery-AIDD",
+      "job_title": "Principal Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+      "description": "The PositionA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche.\n\nAdvances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide. ​\n\n\n\n\n\nThe Opportunity\n\n\n\nFrontier Research is dedicated to foundational machine learning research and developing new algorithmic frameworks. We operate with a flat scientific structure in which senior scientists define their own research agendas, and leaders act as mentors who shape priorities across the organization. We view open science as a core value and a competitive necessity. Our commitment to open dissemination, academic engagement, and community contribution ensures that our work contributes meaningfully to the broader machine learning community and advances the scientific ecosystem.  In biology, many exciting research questions cannot yet be addressed with off-the-shelf ML approaches—they demand not only novel solutions but also new ways of framing the questions themselves, often beyond existing ML paradigms. We believe that the field of generative modeling provides the most promising paths to connect these fields and build robust, impactful solutions.\n\n\n\n\n\nIn this role, you will:\n\n\n\n• Develop theoretical frameworks and algorithms for sampling and generative modeling.\n\n\n\n• Contribute to publications and present your results at internal and external scientific conferences.\n\n\n\n• Collaborate and execute on research that pushes forward the state of the art in machine learning.\n\n\n\n• Directly contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results.\n\n\n\n• Work with a large and globally distributed team.\n\n\n\n\n\nWho You Are\n\n\n\n• You have a PhD in Mathematics, Physics, Computer Science, Statistics, Machine Learning, or related disciplines with 2-7 years of relevant work experience.\n\n\n\n• You have a strong publication record in generative modeling, with publications in academic journals like JMLR and at peer-reviewed ML conferences (e.g., NeurIPS, ICML, ICLR, and COLT).\n\n\n\n• You have strong communication and collaboration skills.\n\n\n\n\n\nPreferred:\n\n\n\n• Published work with theoretical contributions.\n\n\n\n\n\nRelocation benefits are NOT available for this opportunity\n\nThis position must be based in South San Francisco, New York City, or Basel\n\n\n\nThe expected salary range for this position in California is $201,300 - 373,800. For New York City, the expected salary range is $192,500 - 357,500. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.\n\n\n\nBenefits\n\n\n\n#ComputationCoE\n\n#tech4lifeComputationalScience\n\n\n\nGenentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.\n\n\n\nIf you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
+      "apply_options": [
+        {
+          "title": "Careers At Genentech",
+          "link": "https://careers.gene.com/us/en/job/202608-121261/Principal-Machine-Learning-Scientist-Frontier-Research-AI-for-Drug-Discovery-AIDD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed CH",
+          "link": "https://ch.indeed.com/viewjob?jk=7266597f9005dfbb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://ch.linkedin.com/jobs/view/principal-machine-learning-scientist-frontier-research-ai-for-drug-discovery-aidd-at-genentech-4459385122?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://www.experteer.it/career/view-jobs/principal-machine-learning-scientist-frontier-research-ai-for-drug-discovery-aidd-basel-schweiz-59127458?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://ch.trabajo.org/stellenangebot-3139-07ea8afaed7c6c26b9dcb96cddbfd81a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://de.glassdoor.ch/job-listing/jv?jl=1010241968194&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://ch.talent.com/view?id=634407417214994224&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://ch.jobrapido.com/jobpreview/5542328429149421568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBTY2llbnRpc3QsIEZyb250aWVyIFJlc2VhcmNoLCBBSSBmb3IgRHJ1ZyBEaXNjb3ZlcnkgKEFJREQpIiwiY29tcGFueV9uYW1lIjoiR2VuZW50ZWNoIiwiaHRpZG9jaWQiOiJZczZqQld3TzlBNkl1X1JXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1c1SWRHbFBaMWhWWkZacVVDMU1kMFpJZW5RelJsaFFOM1pVZFY5V1lqSmhjMmRPTkZGaE9VNUhibHBKZVVaak5GOHdNMVpyTlV4blgyUTBOVWRoUjFGUGRGcFBUazF1T0VWWlVFTm9NV0p5YjB4WlpVRTJjV05PY1UxSGExZHlXVVZqZG1KVlFXVllTRk5YYVRVeGJuSk1PRGx5ZWxJdGIyZExMVkpKV0hGdWFXVlBMVzhTRjJabmFteGhjVlJLUm5SWFlYSjFSVkJxY2xoMk1GRm5HaUpCU0U0d1JUZEhNelpzTFd4WFUwWlNVbGx3ZDJSeFlVUkdSRkJET1Vkd1IySlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJZczZqQld3TzlBNkl1X1JXQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXa1ZhZFVReFpYVTBPRFJZU1VaYWFFY3hWWFE0YUVGWU9GVlRjWFprVmtWc2VrNVRhMlJhYW14Uk1WOTFNR1ZJZGtaRlRUQTJjVWhIU1VOS1ZIRjVVQzAwVG1oUVgwZ3hha1JWY0RCaWFVeE5kekZZUzNaTVREWldiMWhLY1hkdllVMVhWbXB0YlRreVdGbE5ibHAxVEVaSmNUZHBTRXAzY1ZNd1Ztb3RYeTFNY0VsMFdUZExURloyYlRkcGVVTnpkbUZOWlVsbU5FaGFjVW8wZGxWUk56SktSRTQ0V205cWJEZE5SRjh0TUZSNlZFTkZPRUpuV21sS01HeHNjRkEyY21RMGJEbFFiek01VW5CSGFXMWxWVlZXVm14S1RHbEZTM0ZSU1ZSWVl6ZGllV2hPZVhreFEzVlhkalk0VDNGUlkwMVJUbGw1VjFWcE1rUklVME51ZERkUGIzUjRiM1J2UW5SdFlrRk5SVlpUU1hWT1ZVTTRSemd6UlZkd2JsOXNVRTFmT0VSU2EwOVNiREpNTTNweGVUQkRNMkZsZG5oZk4xVXhNRE0yVkRNNWNHZHBkVFpMWWxsR00zWkxPVzVDVjBrNGIwbEJZMHBaV0VGNFNWQnhYMVl5ZFhWMFNIRm1kWFJaVjFSUmVXOVpibnA1ZDBocFJHRkVVVUZ3WVY5aE1EaHJVV000YWtGeVozRmhSMDEzZDBkRFRHNHliVUY1TUU0M01VWTFZMDEyVFhwWmJpMXJaR0l0VFV4clkwNXZYMDlwWDJkUmIzRnBXR2RGWjFkaFMwUXdTR0UyVEVWVWFpMDJaMEZTUmxwUGFHTnVlbUZuZFRKQ1VFMVBZV3AzVkRKaVoxY3dXbTFSUld3NFZVY3haWFZaY2xwa2NWQm9NRk56ZGxCemFVVkRaSEpUTjBKUlkydGZRMEpxVmxWWlQwMTJWbFIzY1RGek1qVjJOeTFsWkZSR00yZEtVRE5vYUVoMlpUTlJRMmx6RWhkbVoycHNZWEZVU2taMFYyRnlkVVZRYW5KWWRqQlJaeG9pUVVoT01FVTNSMWRyVUc5bk9YaFlRbWxtZUZOUVh6VndSSEIxWkRCTlozTlpVUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXa1ZhZFVReFpYVTBPRFJZU1VaYWFFY3hWWFE0YUVGWU9GVlRjWFprVmtWc2VrNVRhMlJhYW14Uk1WOTFNR1ZJZGtaRlRUQTJjVWhIU1VOS1ZIRjVVQzAwVG1oUVgwZ3hha1JWY0RCaWFVeE5kekZZUzNaTVREWldiMWhLY1hkdllVMVhWbXB0YlRreVdGbE5ibHAxVEVaSmNUZHBTRXAzY1ZNd1Ztb3RYeTFNY0VsMFdUZExURloyYlRkcGVVTnpkbUZOWlVsbU5FaGFjVW8wZGxWUk56SktSRTQ0V205cWJEZE5SRjh0TUZSNlZFTkZPRUpuV21sS01HeHNjRkEyY21RMGJEbFFiek01VW5CSGFXMWxWVlZXVm14S1RHbEZTM0ZSU1ZSWVl6ZGllV2hPZVhreFEzVlhkalk0VDNGUlkwMVJUbGw1VjFWcE1rUklVME51ZERkUGIzUjRiM1J2UW5SdFlrRk5SVlpUU1hWT1ZVTTRSemd6UlZkd2JsOXNVRTFmT0VSU2EwOVNiREpNTTNweGVUQkRNMkZsZG5oZk4xVXhNRE0yVkRNNWNHZHBkVFpMWWxsR00zWkxPVzVDVjBrNGIwbEJZMHBaV0VGNFNWQnhYMVl5ZFhWMFNIRm1kWFJaVjFSUmVXOVpibnA1ZDBocFJHRkVVVUZ3WVY5aE1EaHJVV000YWtGeVozRmhSMDEzZDBkRFRHNHliVUY1TUU0M01VWTFZMDEyVFhwWmJpMXJaR0l0VFV4clkwNXZYMDlwWDJkUmIzRnBXR2RGWjFkaFMwUXdTR0UyVEVWVWFpMDJaMEZTUmxwUGFHTnVlbUZuZFRKQ1VFMVBZV3AzVkRKaVoxY3dXbTFSUld3NFZVY3haWFZaY2xwa2NWQm9NRk56ZGxCemFVVkRaSEpUTjBKUlkydGZRMEpxVmxWWlQwMTJWbFIzY1RGek1qVjJOeTFsWkZSR00yZEtVRE5vYUVoMlpUTlJRMmx6RWhkbVoycHNZWEZVU2taMFYyRnlkVVZRYW5KWWRqQlJaeG9pUVVoT01FVTNSMWRyVUc5bk9YaFlRbWxtZUZOUVh6VndSSEIxWkRCTlozTlpVUSIsImZjdiI6IjMifQ%3D%3D&q=Research+Scientist+%28AI-ML%29&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Research Scientist (AI-ML)",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:13:34.253109+00:00",
+    "request_fingerprint": "a62c6e0b72ddfa93c5261762fe79ad63c5b49787110ee78ce78541d8f4ae5380",
+    "job_count": 10
+  }
+}

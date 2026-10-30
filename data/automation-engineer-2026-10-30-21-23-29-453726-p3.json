@@ -1,0 +1,799 @@
+{
+  "search_metadata": {
+    "id": "6ae50ad11f56faf00641c4b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WmNMihlml0zinEqrZfduDVBpr0z7i-6N_JJkxmZ9Vtc/6ae50ad11f56faf00641c4b7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/WmNMihlml0zinEqrZfduDVBpr0z7i-6N_JJkxmZ9Vtc/6ae50ad11f56faf00641c4b7.md",
+    "created_at": "2026-10-30 21:23:29 UTC",
+    "processed_at": "2026-10-30 21:23:29 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Automation+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/WmNMihlml0zinEqrZfduDVBpr0z7i-6N_JJkxmZ9Vtc/6ae50ad11f56faf00641c4b7.html",
+    "prettify_html_file": "https://serpapi.com/searches/WmNMihlml0zinEqrZfduDVBpr0z7i-6N_JJkxmZ9Vtc/6ae50ad11f56faf00641c4b7.prettify",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "q": "Automation Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVSRVlsZGxXbmxRUVRsclJqZHZSR0ZKUkc5blUxWlZjSFY2VEVWVVJFaFBhbk4zUzNCWVgyTklVMDFTTFdoTVdWaHZRamt4VEZkdWJGQnlZMjVhZVhwNlF6RlViV3RwVW5sbE9HNXBSWEV6ZFZNMGNuVXpaRWRVWW05VmJVaEpTVTlzWVdNMmFYQXpaWEJ4UWt0UVJUSlJkR2R0TmxJdGFIbEliV1ZTV2pWSFp6ZEhRWHBKV2xoTFNUVjNXbVozTWtsVVFXMVBVbEpJZDNWeFYyOTBMV05vTW0wMFQxSjFZazVaTmsxd1RsZHNUVzEwV25wVVFWUlBibTlwUXpGQlZXTm5ZakZtYjBoalpUaDBObFZyVTBsR2NVNVZaV3BSZVhVdFlVNVRPRlkyZFRSV1JVMW5VbHBvZEhkVlMzaFBaRlJxTVZGZlVXcEZYMFJDUW1WblpVSjVNbXN6ZFhGWWVtNTFOak52VjNoVE5XMUpUbGhNZGxGaWNXZE9Wa1JJVVhScVZFZFhRamhQWkRoTVZ6RmtjemRuTUdsQ1RpMVZXRFl4VVZCclVGWlFTMFpMTlc5bGVEaDFYM1lTRjNkQmNteGhkSHBDVGkxbFdYQjBVVkJ4VUV0ZmFWRlZHaUpCU0U0d1JUZEdiVXRPUkdKVlIzQnBlQzFoUTNJdFlrczVVMGxKVW5GeGRuSlIiLCJmY3YiOiIzIn0="
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Automation Engineer",
+      "company_name": "SolidMark Technologies",
+      "location": "Tampa, FL",
+      "via": "Tallo",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=z-J_88x4XulEtKOJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE4HbqKNCi46OaggOrV7ucYjiaZ3IRehL-L7Wpd_-fir76zaNsRBMpw-RQYsQRjO7AITZVjDTXpQwmw9THAVcZHmR19K0oMxqrF2WqbL1lYGI0y9jOYlvf7TqcdMKWKhbrffjHVit1w0EsPzgfkNLVnPEsUFUggMLQ4JV3C5_wBK1o7AmAAAAA&shmds=v1_Ac3VAozesdvjSkwOTQEf1r_N1aMmqHzXvWNdwQo1avShHXlNOg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=z-J_88x4XulEtKOJAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "135K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://tallo.com/talent/job/technology/network-engineer-or-architect/fl/tampa/senior-automation-engineer-d2ec341c",
+      "job_title": "Senior Automation Engineer",
+      "description": "Location: Tampa, FL Employment type: Full-time, on-site Pay: $130,000 - $140,000 per year, commensurate with experience Schedule: Monday through Friday, 7:00 a.m. to 3:30 p.m., with scheduled call-in coverage for planned shutdowns and critical downtime events, compensated at time-and-a-half Job description SolidMark Technologies manufactures engineered polymer and composite components at our Tampa facility, where fifteen lines produce parts for aerospace, medical device, and industrial equipment customers under AS9100 and ISO 13485 quality systems. We are hiring a Senior Automation Engineer to own the facility's control systems end to end: Allen-Bradley PLCs, the Ignition SCADA platform, robotic material handling, and in-line vision inspection. Responsibilities Program, commission, and troubleshoot Allen-Bradley ControlLogix and CompactLogix platforms across fifteen packaging and processing lines Administer and extend the Ignition SCADA platform, including alarm rationalization, historian configuration, and tag architecture Direct capital automation projects from scope definition and vendor evaluation through factory acceptance testing, installation, and validation Integrate, calibrate, and support robotic palletizing equipment, case packers, and Cognex vision inspection systems Design and document plant-floor network architecture, including Stratix switch configuration, VLAN segmentation, and CIP Security readiness Mentor controls engineering staff and review all contractor-developed code prior to production deployment Maintain control system documentation for FDA and SQF audit requirements Analyze recurring failure modes through downtime root cause analysis and report findings monthly to plant leadership Qualifications Required: Bachelor's degree in electrical engineering, industrial engineering, mechatronics, or a related discipline, or equivalent practical experience with relevant certification Five or more years of controls and automation experience in manufacturing, including at least two years of independent ownership of a production area Proficiency programming Allen-Bradley ControlLogix and CompactLogix systems in Studio 5000 Hands-on SCADA administration experience; Ignition preferred, FactoryTalk or Wonderware accepted Working knowledge of industrial networking, including EtherNet/IP, device-level ring topology, and managed switch configuration Experience with variable frequency drives, servo motion control, and vision-guided robotic systems Ability to lift up to 35 pounds, access mezzanine levels via stairs and ladders, and perform troubleshooting in refrigerated production areas, with or without reasonable accommodation Preferred: Ignition Perspective or Core developer certification Safety certification covering control of hazardous energy and robot safety per ANSI/RIA R15.06 Experience preparing control system documentation for FDA or SQF audits Working proficiency in C#, Python, or SQL for reporting and historian data analysis Benefits Medical, dental, and vision coverage effective on the date of hire Company-paid life insurance and short-term disability 401(k) plan with a 4 percent company match, fully vested upon enrollment Fifteen days of paid time off and nine paid holidays annually Annual professional development allowance of $4,000 for certifications, training, and conferences Tuition reimbursement for ABET or SACS-accredited degree completion programs On-site employee parking at no cost Apply Today Apply through this job posting. A recruiter will contact you within five business days if your qualifications match the position. About SolidMark Technologies SolidMark Technologies operates a 210,000-square-foot manufacturing facility in Tampa, employing approximately 340 people in production, engineering, and quality roles. Equal opportunity employer SolidMark Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, veteran status, or any other characteristic protected by applicable law. Pay: $130,000.00 - $140,000.00 per year Benefits: 401(k) 401(k) matching Dental insurance Disability insurance Health insurance Life insurance Paid time off Parental leave Vision insurance Work Location: In person",
+      "apply_options": [
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/network-engineer-or-architect/fl/tampa/senior-automation-engineer-d2ec341c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/rit-solutions/tampa-fl/senior-automation-engineer/a8ef900c9c3f48843d3178d67999b1a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/rit-solutions-inc/tampa/senior-automation-engineer-141795669/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-automation-engineer-rit-solutions-inc-tampa--lensa-2365_d24ac83e306194ddcf9b7ab0a0102594c6bde9ca5caff929dbcac62ca0d43c5f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2585204450771599360?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-27bcfb7d9dc43dc3ddcdf19ba5db9ea0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-fl-tampa-senior-automation-engineer-rit-solutions-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXV0b21hdGlvbiBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlNvbGlkTWFyayBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6InotSl84OHg0WHVsRXRLT0pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZblZSUWxkZlVrTlpRbXRsVEcxWlFteFBaVFZUZEVkWWRsWllXbFV5V25sbGFWTkRTWEJwWjJwR1RGQkRhREZMVkVSRlNWRlNVbFp5V2paU0xXSXhkbGwyUVdwS1dqaE5aelk1UlhZNWVXRm1WbTVuVEdGMlgwcFJhRlJYYURGbGNrOXVNRFZ2UmtSMk9TMTRNbkJ4U1RKa2JHMHdSWEpmYVZsWGFVMDBVa0oyY0MxdWNVc1NGekJSY214aGRHRjVTM0JoZFdsTVRWQnhOa2h1ZVZGckdpSkJTRTR3UlRkSE9HVlhRbVZyU201d2JtWlpORU5KTW01emJYZGFXa05TZG10UiIsImZjdiI6IjMiLCJmY19pZCI6InotSl84OHg0WHVsRXRLT0pBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Automation Engineer (Amazon RME)",
+      "company_name": "Aerotek",
+      "location": "Brookshire, TX",
+      "via": "Aerotek Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "4-year degree or knowledge equivalent to a 4-year degree in a relevant engineering or technical discipline",
+            "Proven ability to lead, train, and mentor less experienced automation engineers in a fast-paced industrial environment",
+            "Strong proficiency in using Computerized Maintenance Management Systems (CMMS) to coordinate and document complex maintenance activities",
+            "Demonstrated troubleshooting skills in industrial automation and equipment maintenance, including control systems and material handling equipment",
+            "Advanced verbal and written English communication skills, with the ability to interpret and clearly communicate policies and technical information",
+            "A strong problem-solving mindset, with adaptability and a demonstrated commitment to continuous improvement",
+            "Flexibility and willingness to work varied 10-hour shifts, including nights, weekends, and holidays",
+            "At least 1 year of hands-on experience working with automation equipment, controls, or robotics in an industrial or distribution environment",
+            "Ability to work comfortably in a performance-driven environment where productivity and results are measured using data and metrics",
+            "2+ years of experience in PLC programming and troubleshooting, including development of ladder logic and related control strategies",
+            "Experience in HMI and control network design, as well as working with SCADA systems and performance KPIs",
+            "Hands-on experience with motor controls such as variable frequency drives (VFDs), DC drives, and starters",
+            "Experience working with industrial electrical systems, including 480V 3-phase, 120 VAC, and 24VDC circuits",
+            "Proficiency in Allen-Bradley platforms and controls software such as RSLogix5000, Studio, FT View, and related automation tools",
+            "Experience in controls design and systems integration for industrial automation and material handling systems",
+            "Ability to interpret, modify, and develop mechanical and electrical schematics and drawings",
+            "Field service engineering and technical training experience, particularly with conveyors, sortation systems, ASRS, and industrial robotics",
+            "Proven track record in providing remote technical support and driving automation system improvements across multiple sites",
+            "Experience with control technician or automation technician responsibilities, including equipment maintenance and industrial maintenance",
+            "Familiarity with scanners, cameras, print-and-apply systems, and SCADA devices within an automated distribution environment",
+            "Experience with HMI development and troubleshooting, Control View or similar visualization tools, and industrial network diagnostics",
+            "Comfort working with high-speed automation, robotic equipment, and advanced material handling technologies",
+            "Exposure to target automation controls or robotics and the ability to dive into errors and troubleshoot complex control issues"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The organization supports upward mobility, with a significant portion of internal conversions receiving promotions within a year, creating clear opportunities for career advancement",
+            "Pay and Benefits",
+            "The pay range for this position is $41.50 - $41.50/hr",
+            "Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors",
+            "subject to specific elections, plan, or program terms",
+            "Medical, dental & vision",
+            "Critical Illness, Accident, and Hospital",
+            "401(k) Retirement Plan Pre-tax and Roth post-tax contributions available",
+            "Life Insurance (Voluntary Life & AD&D for the employee and dependents)",
+            "Short and long-term disability",
+            "Health Spending Account (HSA)",
+            "Transportation benefits",
+            "Employee Assistance Program",
+            "Time Off/Leave (PTO, Vacation or Sick Leave)",
+            "Aerotek offers weekly pay, employee benefits including medical, dental & vision, life insurance, health advocacy and employee assistance programs, a 401(k) plan, and employee discounts"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role focuses on designing, developing, implementing, and optimizing automation control systems for industrial processes and highly automated warehouse distribution equipment",
+            "You will work with conveyors, sortation systems, scanners, cameras, print-and-apply systems, SCADA devices, and related material handling equipment to improve reliability, performance, and safety",
+            "You will serve as a technical expert on automation controls, lead complex troubleshooting, and drive continuous improvement initiatives while strictly following established policies, procedures, and safety standards",
+            "Serve as the on-site technical expert for automation control systems, providing guidance and mentoring to less experienced automation engineers to ensure adherence to safety and technical standards",
+            "Design, develop, implement, and optimize control systems and software for industrial automation and material handling equipment",
+            "Program, configure, maintain, and troubleshoot PLC and PC-based controllers, HMI systems, and industrial control networks",
+            "Support and optimize material handling equipment (MHE) including conveyors, sortation systems, scanners, cameras, print-and-apply systems, and SCADA devices",
+            "Adhere to strict documentation requirements and follow Automation Change Management procedures for all system modifications and upgrades",
+            "Partner closely with operations, engineering, and support teams to deliver automation projects and improve MHE performance and reliability",
+            "Monitor MHE metrics and KPIs, analyze performance issues, and lead troubleshooting efforts both locally on-site and remotely",
+            "Conduct root cause analysis for equipment and system failures, implement corrective actions, and drive process improvements for performance and cost savings",
+            "Communicate technical issues, project timelines, risks, and operational workarounds clearly to leadership and key stakeholders",
+            "Provide remote technical support for automation systems, guiding teams through diagnostics, error resolution, and system recovery",
+            "Interpret, modify, and develop mechanical and electrical drawings to support installation, maintenance, and upgrades of automation systems",
+            "Use CMMS tools to plan, coordinate, and document complex maintenance activities involving multiple stakeholders",
+            "Support field service engineering and technical training activities related to conveyors, sortation, ASRS, industrial robotics, and other automation equipment",
+            "Engage in continuous improvement initiatives, leveraging data and system performance metrics to identify opportunities for optimization",
+            "Work flexibly across varied 10-hour shifts, including nights, weekends, and holidays, to support a high-speed, highly automated distribution environment",
+            "You will work in a large, highly automated distribution facility equipped with high-speed material handling systems and extensive robotic components",
+            "The role is physically active and requires comfort with walking approximately 10,000 steps per day as you move throughout the facility to support equipment and systems",
+            "All positions operate on 10-hour shifts, and you must be open to working any shift, including days, nights, weekends, and holidays, to support continuous operations",
+            "You will regularly interact with advanced automation technologies, including conveyors, sortation equipment, scanners, cameras, print-and-apply systems, PLCs, HMIs, SCADA devices, and industrial electrical and control systems"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=XJZUe621cSzwiBG6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7BjrdqKKNCFLQKUIRBBdxcCtJOJLYNldyJxTfwje2Lv_wDX_xnRWVfgv1RiIlqJOPCTHDUvfmM8H9Vq9gC1eywGiyCzDhhch3uDgFkYGPSjF3pWeZFq501CtKaGlUL7L8T8PBZBw6I9jsD7uxHJJfzzVmEmwhJjhnopZDzLiBx_MH8YLCJpQAAAA&shmds=v1_Ac3VAoy5IpGQyRv7kvCTMJbQpeIFeRY0_k7ohPAGFDpURWgHsQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=XJZUe621cSzwiBG6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50ad11f56faf00641c4b7/images/C_VjWUeuKZjzJ5YVsUGOyxfXWj1_S2yN-H31rDEf3Pk.png",
+      "extensions": [
+        "20 days ago",
+        "41.50 an hour",
+        "Contractor",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://jobs.aerotek.com/us/en/job/JP-006336595/Automation-Engineer-Amazon-RME",
+      "job_title": "Automation Engineer (Amazon RME)",
+      "description": "Job Title: Automation Engineer (Amazon RME)Job DescriptionThis role focuses on designing, developing, implementing, and optimizing automation control systems for industrial processes and highly automated warehouse distribution equipment. You will work with conveyors, sortation systems, scanners, cameras, print-and-apply systems, SCADA devices, and related material handling equipment to improve reliability, performance, and safety. You will serve as a technical expert on automation controls, lead complex troubleshooting, and drive continuous improvement initiatives while strictly following established policies, procedures, and safety standards.\n\nResponsibilitiesServe as the on-site technical expert for automation control systems, providing guidance and mentoring to less experienced automation engineers to ensure adherence to safety and technical standards.Design, develop, implement, and optimize control systems and software for industrial automation and material handling equipment.Program, configure, maintain, and troubleshoot PLC and PC-based controllers, HMI systems, and industrial control networks.Support and optimize material handling equipment (MHE) including conveyors, sortation systems, scanners, cameras, print-and-apply systems, and SCADA devices.Adhere to strict documentation requirements and follow Automation Change Management procedures for all system modifications and upgrades.Partner closely with operations, engineering, and support teams to deliver automation projects and improve MHE performance and reliability.Monitor MHE metrics and KPIs, analyze performance issues, and lead troubleshooting efforts both locally on-site and remotely.Conduct root cause analysis for equipment and system failures, implement corrective actions, and drive process improvements for performance and cost savings.Communicate technical issues, project timelines, risks, and operational workarounds clearly to leadership and key stakeholders.Provide remote technical support for automation systems, guiding teams through diagnostics, error resolution, and system recovery.Interpret, modify, and develop mechanical and electrical drawings to support installation, maintenance, and upgrades of automation systems.Use CMMS tools to plan, coordinate, and document complex maintenance activities involving multiple stakeholders.Support field service engineering and technical training activities related to conveyors, sortation, ASRS, industrial robotics, and other automation equipment.Engage in continuous improvement initiatives, leveraging data and system performance metrics to identify opportunities for optimization.Work flexibly across varied 10-hour shifts, including nights, weekends, and holidays, to support a high-speed, highly automated distribution environment.Essential Skills4-year degree or knowledge equivalent to a 4-year degree in a relevant engineering or technical discipline.Proven ability to lead, train, and mentor less experienced automation engineers in a fast-paced industrial environment.Strong proficiency in using Computerized Maintenance Management Systems (CMMS) to coordinate and document complex maintenance activities.Demonstrated troubleshooting skills in industrial automation and equipment maintenance, including control systems and material handling equipment.Advanced verbal and written English communication skills, with the ability to interpret and clearly communicate policies and technical information.A strong problem-solving mindset, with adaptability and a demonstrated commitment to continuous improvement.Flexibility and willingness to work varied 10-hour shifts, including nights, weekends, and holidays.At least 1 year of hands-on experience working with automation equipment, controls, or robotics in an industrial or distribution environment.Ability to work comfortably in a performance-driven environment where productivity and results are measured using data and metrics.Additional Skills & Qualifications2+ years of experience in PLC programming and troubleshooting, including development of ladder logic and related control strategies.Experience in HMI and control network design, as well as working with SCADA systems and performance KPIs.Hands-on experience with motor controls such as variable frequency drives (VFDs), DC drives, and starters.Experience working with industrial electrical systems, including 480V 3-phase, 120 VAC, and 24VDC circuits.Proficiency in Allen-Bradley platforms and controls software such as RSLogix5000, Studio, FT View, and related automation tools.Experience in controls design and systems integration for industrial automation and material handling systems.Ability to interpret, modify, and develop mechanical and electrical schematics and drawings.Field service engineering and technical training experience, particularly with conveyors, sortation systems, ASRS, and industrial robotics.Proven track record in providing remote technical support and driving automation system improvements across multiple sites.Experience with control technician or automation technician responsibilities, including equipment maintenance and industrial maintenance.Familiarity with scanners, cameras, print-and-apply systems, and SCADA devices within an automated distribution environment.Experience with HMI development and troubleshooting, Control View or similar visualization tools, and industrial network diagnostics.Comfort working with high-speed automation, robotic equipment, and advanced material handling technologies.Exposure to target automation controls or robotics and the ability to dive into errors and troubleshoot complex control issues.Why Work Here?You will join a highly recognized, large-scale operation that offers formal training on high-speed automation and robotic equipment, providing a strong platform for technical growth. The organization supports upward mobility, with a significant portion of internal conversions receiving promotions within a year, creating clear opportunities for career advancement. With more than 1,200 facilities across the United States, you will have the potential to explore different locations and gain broad experience. The culture emphasizes wellbeing, inclusivity, and belonging, and encourages collaboration across local and global teams to deliver innovative solutions and create a positive impact for colleagues and communities.\n\nWork EnvironmentYou will work in a large, highly automated distribution facility equipped with high-speed material handling systems and extensive robotic components. The environment is data-driven, with performance tracked through metrics to ensure expectations are met, while avoiding unnecessary micromanagement. The role is physically active and requires comfort with walking approximately 10,000 steps per day as you move throughout the facility to support equipment and systems. All positions operate on 10-hour shifts, and you must be open to working any shift, including days, nights, weekends, and holidays, to support continuous operations. You will regularly interact with advanced automation technologies, including conveyors, sortation equipment, scanners, cameras, print-and-apply systems, PLCs, HMIs, SCADA devices, and industrial electrical and control systems.\n\nJob Type & LocationThis is a Contract position based out of Brookshire, TX.\n\nPay and BenefitsThe pay range for this position is $41.50 - $41.50/hr. \n\n Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors.\n\nEligibility requirements apply to some benefits and may depend on your job\n            classification and length of employment. Benefits are subject to change and may be\n            subject to specific elections, plan, or program terms. If eligible, the benefits\n            available for this temporary role may include the following:\n\n             Medical, dental & vision\n             Critical Illness, Accident, and Hospital\n             401(k) Retirement Plan  Pre-tax and Roth post-tax contributions available\n             Life Insurance (Voluntary Life & AD&D for the employee and dependents)\n             Short and long-term disability\n             Health Spending Account (HSA)\n             Transportation benefits\n             Employee Assistance Program\n             Time Off/Leave (PTO, Vacation or Sick Leave)\n\nWorkplace TypeThis is a fully onsite position in Brookshire,TX.\n\nApplication DeadlineThis position is anticipated to close on Oct 22, 2026.\n\n \n\n\n         \n\n\n About Aerotek\n\nAerotek® Inc. provides staffing and services solutions in manufacturing, logistics, construction, aviation, facilities and maintenance. We provide the expertise, solutions and people required to rise to the challenges of North American industry. Headquartered in Hanover, Md., Aerotek operates a unified network of over 200 offices across North America, supporting more than 18,000 clients each year. Aerotek is an Allegis Group company, the global leader in workforce and business solutions. To learn more, visit: Aerotek.com | 1-888-AEROTEK.\n\n \n \nAerotek offers weekly pay, employee benefits including medical, dental & vision, life insurance, health advocacy and employee assistance programs, a 401(k) plan, and employee discounts.\n\n\n \nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\n\nSan Francisco Fair Chance Ordinance:\n\nPursuant to the San Francisco Fair Chance Ordinance, for all positions located in the city and county of San Francisco, we will consider for employment qualified applicants with arrest and conviction records.\n\n\n\nMassachusetts Lie Detector:\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\n\n\nUse of Artificial Intelligence (AI):\n\nWe may use Artificial Intelligence (AI) to support parts of our hiring process, including sourcing, screening, and evaluating candidates. AI helps assess applications and qualifications, but final decisions are made by our hiring team. By applying, you acknowledge and agree that your application may be reviewed using AI tools.",
+      "apply_options": [
+        {
+          "title": "Aerotek Jobs",
+          "link": "https://jobs.aerotek.com/us/en/job/JP-006336595/Automation-Engineer-Amazon-RME?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=ec1976d11b740baa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/automation-engineer-brookshire-tx--42b7dc08-c64e-42df-8620-b043ff7ca171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/manpower/Job/Automation-Maintenance-Technician/-in-Brookshire,TX?jid=807441afaccff1ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/74b78614-4eb0-4174-afec-08494584897b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/automation-engineer-jll-brookshire-texas-gdml7xbiw694lhfk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LocalJobNetwork.com",
+          "link": "https://jobs.localjobnetwork.com/job/detail/87941432/Automation-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/engineering/electrical-and-electronics-technician/remote/automation-engineer-amazon-rm-5e02a7ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIChBbWF6b24gUk1FKSIsImNvbXBhbnlfbmFtZSI6IkFlcm90ZWsiLCJodGlkb2NpZCI6IlhKWlVlNjIxY1N6d2lCRzZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVTR4VG5ob09GRmhWa1pVTTNSak4wZ3lkakE0TUhkd2FVaHRVa05mVld0UVV6ZDZVM1Z6TkY5RldtUlZkMG8xVjJwc2FtTXlZbE5sVWtGeU5tMVlkR1pKTW5aSmVFRjNRa1pOU2pOVWJVdFVlVlJGYTFOWlVIaFRMWFpDVjFNM1NGcEZRWEJ6WldRNVVIUlFhbEZzUzFWdFkyaHFhRjlrT0c0M01ITlNWMFJtYkZCWE0xb1NGekJSY214aGRHRjVTM0JoZFdsTVRWQnhOa2h1ZVZGckdpSkJTRTR3UlRkRlVGYzNUa3RRUTAxMGRHTkdjVU56YVVsVlV6QmFSa0pMVVhaMyIsImZjdiI6IjMiLCJmY19pZCI6IlhKWlVlNjIxY1N6d2lCRzZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Automation Engineer",
+      "company_name": "Optimum",
+      "location": "Bethpage, NY",
+      "via": "Optimum Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is a role for someone who is comfortable with variety, picks up unfamiliar domains quickly, and wants to build depth in production AI systems",
+            "Familiarity with Confluent Kafka, Google Cloud, and BigQuery is important to this role, and you'll be supported in growing that expertise",
+            "Bachelor's degree in computer science or related field required",
+            "2-3 years of professional software development experience",
+            "Strong communication skills, intellectual curiosity, and a willingness to give and receive feedback",
+            "Proficiency in Python, along with working familiarity with JavaScript, GIT, NodeJS, and SQL",
+            "Exposure to Confluent Kafka or another event streaming platform, with interest in developing depth in Confluent tooling such as Flink, Kafka Streams, Schema Registry, Kafka Connect, or ksqlDB",
+            "Exposure to Google Cloud or another major cloud provider, with interest in building and productionalizing services on Google Cloud",
+            "Foundational understanding of AI/ML concepts, including large language models, retrieval-augmented generation, and tool or function calling",
+            "Interest in working across several projects at once and adapting to shifting priorities",
+            "Familiarity with containers (Docker) and CI/CD pipelines",
+            "Exposure to prompt engineering is an added advantage",
+            "Foundational understanding of networking concepts (TCP/IP, routing, ACLs, and firewall policy)",
+            "Exposure to modeling, simulation, or network configuration analysis tooling such as Batfish is a nice to have",
+            "The person should be a strong team player",
+            "The person should be in the New York area and ready for the hybrid work culture (3 days in the office)",
+            "Familiarity with AI Tools and AI First mindset"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The starting pay rate/range at time of hire for this position in the posted location is $83,538.00 - $137,241.00 / year"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will work across a portfolio of AI initiatives, helping take them from prototype and proof of concept to production systems the business can rely on",
+            "The work spans applied LLM and agent systems, intelligent automation of engineering workflows, and modeling and simulation of complex systems, and the mix shifts as new opportunities come in",
+            "You'll collaborate with cross-functional teams, including developers, data scientists, ML engineers, product managers, and infrastructure teams to bring cutting-edge innovations to production at scale",
+            "Contribute to the development and productionalization of AI-driven systems and services across multiple initiatives, under the guidance of senior engineers",
+            "Implement, test, and maintain well-scoped components of AI applications and the pipelines that feed them",
+            "Help build and maintain streaming and batch data pipelines using Confluent Kafka and stream processing tooling such as Flink and Kafka Streams",
+            "Write and maintain queries and datasets in BigQuery that support AI workloads and reporting",
+            "Build and maintain APIs and microservices that support AI workloads",
+            "Support agent, tool-calling, and retrieval integrations so AI systems can query authoritative internal systems and return grounded, verifiable answers",
+            "Assist with modeling and simulation work, including digital twin approaches to complex infrastructure, where it accelerates engineering decision-making",
+            "Participate in code reviews, write unit and integration tests, and contribute to CI/CD automation",
+            "Support deployment, monitoring, and troubleshooting of AI services on Google Cloud",
+            "Follow AI best practices related to ethical AI, responsible data handling, and evaluation of AI output quality",
+            "Document the systems you work on so they are supportable by the wider team",
+            "Continuously build your skills in AI/ML and modern data engineering practices"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=oXvRpviRO30_uBxhAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7AoLTzUUTEVx0UhDBQWenkpQjiSR3IXeFzj65dfmXj7_7rrr-MikXp4kJbhQSITbYwYM9CLo2Rljgzhwybs5RtcrJWpFsguhyjWbkYpnQ82w_7OWfQaJrWLNTHA7H_WwqhX79qprKVCARXFFjdQG38Hz_AFfM8FiFAAAA&shmds=v1_Ac3VAow1bij3BAupwlKQGgS5MN0EcxStRpxmmTJm6sBVxmwqXw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=oXvRpviRO30_uBxhAAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.optimumcareers.com/job/Bethpage-Automation-Engineer-NY-11714/1436156300/",
+      "job_title": "Automation Engineer",
+      "description": "Are you looking to Optimize your life? Start your exciting path to a rewarding career today!    We are Optimum, a leader in the fast-paced world of connectivity, and we're seeking driven and enthusiastic professionals to join our team, empower lives, fuel businesses, and drive innovation. Connectivity is no longer a luxury, but a necessity. A career at Optimum means you'll be enabling progress and enhancing lives by providing reliable, high-speed connectivity solutions that keep the world connected. Our successes, now and in the future, are powered by our amazing product, a commitment to our people and culture, and the connections we make in our communities.  If you are resourceful, collaborative, and passionate about delivering consistent excellence, Optimum is for you! Job Summary We're looking for a motivated Software Development Engineer I with an interest in AI and machine learning to join our growing AI engineering team. In this role, you will work across a portfolio of AI initiatives, helping take them from prototype and proof of concept to production systems the business can rely on. The work spans applied LLM and agent systems, intelligent automation of engineering workflows, and modeling and simulation of complex systems, and the mix shifts as new opportunities come in. This is a role for someone who is comfortable with variety, picks up unfamiliar domains quickly, and wants to build depth in production AI systems. Familiarity with Confluent Kafka, Google Cloud, and BigQuery is important to this role, and you'll be supported in growing that expertise. You'll collaborate with cross-functional teams, including developers, data scientists, ML engineers, product managers, and infrastructure teams to bring cutting-edge innovations to production at scale.Responsibilities  Contribute to the development and productionalization of AI-driven systems and services across multiple initiatives, under the guidance of senior engineers. Implement, test, and maintain well-scoped components of AI applications and the pipelines that feed them. Help build and maintain streaming and batch data pipelines using Confluent Kafka and stream processing tooling such as Flink and Kafka Streams. Write and maintain queries and datasets in BigQuery that support AI workloads and reporting. Build and maintain APIs and microservices that support AI workloads. Support agent, tool-calling, and retrieval integrations so AI systems can query authoritative internal systems and return grounded, verifiable answers. Assist with modeling and simulation work, including digital twin approaches to complex infrastructure, where it accelerates engineering decision-making. Participate in code reviews, write unit and integration tests, and contribute to CI/CD automation. Support deployment, monitoring, and troubleshooting of AI services on Google Cloud. Follow AI best practices related to ethical AI, responsible data handling, and evaluation of AI output quality. Document the systems you work on so they are supportable by the wider team. Continuously build your skills in AI/ML and modern data engineering practices. Qualifications  Bachelor's degree in computer science or related field required 2-3 years of professional software development experience Strong communication skills, intellectual curiosity, and a willingness to give and receive feedback Proficiency in Python, along with working familiarity with JavaScript, GIT, NodeJS, and SQL Exposure to Confluent Kafka or another event streaming platform, with interest in developing depth in Confluent tooling such as Flink, Kafka Streams, Schema Registry, Kafka Connect, or ksqlDB Working knowledge of SQL and exposure to a cloud data warehouse; experience with BigQuery preferred Exposure to Google Cloud or another major cloud provider, with interest in building and productionalizing services on Google Cloud Foundational understanding of AI/ML concepts, including large language models, retrieval-augmented generation, and tool or function calling Interest in working across several projects at once and adapting to shifting priorities Familiarity with containers (Docker) and CI/CD pipelines Exposure to prompt engineering is an added advantage Foundational understanding of networking concepts (TCP/IP, routing, ACLs, and firewall policy) Exposure to modeling, simulation, or network configuration analysis tooling such as Batfish is a nice to have The person should be a strong team player The person should be in the New York area and ready for the hybrid work culture (3 days in the office) Familiarity with AI Tools and AI First mindset At Optimum, every action and interaction we take part in, is driven by our three Guiding Principles: Do What’s Right, Drive One Optimum, and Make It Happen. These aren’t just words, they help us build trust, create real community, and embrace new ways of thinking. Our employees are empowered to do the right thing for our customers and co-workers and to recognize and reward these behaviors when we see them. It’s all part of the bigger picture of “Be The Difference” where each employee knows they have the power to enact real change, share new ideas, and understand that learning never stop.   If you have the drive to succeed and are ready to embark on a thrilling career, seize this opportunity today, and join our winning team. Together, we'll shape the future of connectivity.   All job descriptions and required skills, qualifications and responsibilities for a particular position are subject to modification by the Company from time to time, in the Company’s discretion based on business necessity.   We are an Equal Opportunity Employer committed to recruiting, hiring and promoting qualified people of all backgrounds regardless of gender, race, color, creed, national origin, religion, age, marital status, pregnancy, physical or mental disability, sexual orientation, gender identity, military or veteran status, or any other basis protected by federal, state, or local law. The Company collects personal information about its applicants for employment that may include personal identifiers, professional or employment related information, photos, education information and/or protected classifications under federal and state law. This information is collected for employment purposes, including identification, work authorization, FCRA-compliant background screening, human resource administration and compliance with federal, state and local law.   Applicants for employment with The Company will never be asked to provide money (even if reimbursable) as part of the job application or hiring process. Please review our Fraud FAQ for further details.     Pay is competitive and based on a number of job-related factors, including skills and experience. The starting pay rate/range at time of hire for this position in the posted location is $83,538.00 - $137,241.00  / year. The rate/range provided herein is the anticipated pay at the time of hire and does not reflect future job opportunity.   We appreciate your interest in this opportunity. Applicants must be authorized to work for ANY employer in the U.S.  Please note that at this time, we do not provide visa sponsorship for employment.",
+      "apply_options": [
+        {
+          "title": "Optimum Careers",
+          "link": "https://www.optimumcareers.com/job/Bethpage-Automation-Engineer-NY-11714/1436156300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=fb5a35e00fd16727&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/automation-engineer-at-optimum-4477147737?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/optimum/Job/Automation-Engineer/-in-Bethpage,NY?jid=7f4e3781748273c1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/QFs4aPFFmIG3AeFKUvQTjICHDVfrI4JoKZfYNUwZOaXrv-6PaNmr1g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/automation-engineer--bethpage--e2632e11517169a64a8cd7378844abf84?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/automation-engineer-optimum-bethpage-ny_89559819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=0bmpf6fy0zi6y&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiT3B0aW11bSIsImh0aWRvY2lkIjoib1h2UnB2aVJPMzBfdUJ4aEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduTnVhRzFKZUhkYVUzQTRWVlJFZUZRMVZsUkljMmxUZEdoU1ZYWkVWRVp6ZWpScVRuZENMVzFZZDBsNFFreFNSVVZmUTJOQlIydEJNVlJXWlV3dGFqbFdka1F6YjJndFpuZExTR1ZoT0dNMVRUWmFVV3QxUWxZMVRXOWtlbnBuVVdOSFJFVnhWWEJYTTNKb1JVd3lSRkE0VEhSVU1sWTBPR3hPYldJNFdrWlhSRmxLVTNvU0Z6QlJjbXhoZEdGNVMzQmhkV2xNVFZCeE5raHVlVkZyR2lKQlNFNHdSVGRIYVRoblkxSkpSRWhzWXpaNlFqRk5iMGRaTUdjd1ZtMHRZMGxCIiwiZmN2IjoiMyIsImZjX2lkIjoib1h2UnB2aVJPMzBfdUJ4aEFBQUFBQT09In0="
+    },
+    {
+      "title": "Automation Engineer",
+      "company_name": "Sparrow Company",
+      "location": "Sparks, NV",
+      "via": "Built In",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors or better in Electrical Engineering or related field",
+            "Minimum of plant engineering or maintenance experience in an automated manufacturing environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits Offered on Your First Day!",
+            "Medical",
+            "Dental & Orthodontics",
+            "Vision",
+            "FSA Medical & Dependent Care",
+            "Paid Parental Leave",
+            "Tuition Reimbursement",
+            "Employee Assistance Program",
+            "Wellness Incentive Bonus Program",
+            "Life and AD&D",
+            "Short-Term and Long-Term Disability",
+            "Paid Vacation",
+            "Paid Holidays",
+            "401(k)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Actively develop, implement and participate in all safety programs, rules and",
+            "procedures",
+            "Maintain proactive working habits with all plant personnel to",
+            "continuously improve overall safety",
+            "Administer preventative maintenance plan for reliable operation of plant process",
+            "servers, and overall process network",
+            "Ensure that all HMI and PLC programs are kept current and backed up on a",
+            "regular basis",
+            "Assist corporate IT personnel in maintaining reliable operation of the plant office",
+            "computer servers",
+            "Assist in achieving company production goals in waste and delay",
+            "Train existing employees to maintain competent skill level in the maintenance",
+            "Incorporate new equipment and/or processes into the existing process network",
+            "This can include developing new PLC programming and",
+            "interfacing associated HMI screens",
+            "Maintain proactive working habits to improve overall reliability of equipment",
+            "Take an active role in communications between departments, especially",
+            "explaining new equipment additions, controls, or programming changes to",
+            "production personnel",
+            "Troubleshoot plant upset conditions and assist in resolving equipment",
+            "malfunctions",
+            "Participate in development and implementation of all established company",
+            "Act as a role model in compliance and enforcement for all personnel",
+            "All other duties and responsibilities, as assigned"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=0X0lqD2LONu1yWSvAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLsQrCMBBAce0nCMLNRRMRXHQSEcHBRXAtSTiS1OYu5CLWP_CzbZc3vMdrfoumPb0rJ1MjE1zIR0IssIEbWxA0xQWYwpXZD7g8hlqzHLQWGZSXOl1OOU6aCS2PumcrMzoJpmAeTMVut9-OKpNvV49sSuEPnDllQ1-IBLN6yRruzz90APDCiwAAAA&shmds=v1_Ac3VAox1O_3negmEw3sULjF7_mG3bzomqI7m1Xoz1CXJq1WM4A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=0X0lqD2LONu1yWSvAAAAAA%3D%3D",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAbAAEAAgIDAAAAAAAAAAAAAAAABAcBAgMFBv/EACgQAAEDBAEDAgcAAAAAAAAAAAEAAgMEBREhMRITgVFhIiNBQnGR8P/EABkBAQEAAwEAAAAAAAAAAAAAAAACAwUGAf/EACcRAQACAgAEBAcAAAAAAAAAAAABAgMRBBMhUhJRofAUMTIzQmGR/9oADAMBAAIRAxEAPwC8UBAQEBAQEBAQEBAQEBBHlrqaGpippZmNmlz22E7dhROSsTFZnquuK9qzeI6Q58q0M5QEDKAgIK6utLVVF6qI5onSPlf8su05o+0D29x5XM8Te988xG/FvpHn79HS8Pkx04es1nWo6+X7eofa7iXO7NwljbjDGl5d06A5PPB/a33KvP5aaSM+OPnSJDbbmX5FxeBvWdc5/vwnKv3nPx9jeO33JsIY6ue94JJeSRnIx9PTZ8qox319SZzY5ncURamjudP8UlxqXB2h22F3ScHkBTyr96viMWvtwzSPrYZBJNUVU4bvoMDwCMY9PKquO0TubbRky47RqtNJFM6sdWsEj5ujqzjtOA1kbPCqKW3vaZvTWor7/juDEwvDy0F7eHEbCrwxveurHudabqnggICAgICAgICAgICAgICAgICAg//Z24",
+      "extensions": [
+        "6 days ago",
+        "80K–120K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://builtin.com/job/automation-engineer/11529776",
+      "job_title": "Automation Engineer",
+      "description": "Specific Job Requirements\n\nActively develop, implement and participate in all safety programs, rules and\nprocedures. Maintain proactive working habits with all plant personnel to\ncontinuously improve overall safety.Administer preventative maintenance plan for reliable operation of plant process\nservers, and overall process network.Ensure that all HMI and PLC programs are kept current and backed up on a\nregular basis.Assist corporate IT personnel in maintaining reliable operation of the plant office\ncomputer servers.Assist in achieving company production goals in waste and delay.Train existing employees to maintain competent skill level in the maintenance\ndepartment.Incorporate new equipment and/or processes into the existing process network\nwhen necessary. This can include developing new PLC programming and\ninterfacing associated HMI screens.Maintain proactive working habits to improve overall reliability of equipment.Take an active role in communications between departments, especially\nexplaining new equipment additions, controls, or programming changes to\nproduction personnel.Troubleshoot plant upset conditions and assist in resolving equipment\nmalfunctions.Participate in development and implementation of all established company\npolicies. Act as a role model in compliance and enforcement for all personnel.All other duties and responsibilities, as assignedBenefits Offered on Your First Day!\n\nMedicalTelemedicineHealth Advocate ServiceDental & OrthodonticsVisionFSA Medical & Dependent CarePaid Parental LeaveTuition ReimbursementEmployee Assistance ProgramWellness Incentive Bonus ProgramLife and AD&DShort-Term and Long-Term DisabilityPaid VacationPaid Holidays401(k) \n\n \n\nQualifications\n\nEducation\n\nRequired\n\nBachelors or better in Electrical Engineering or related field.\n\n \n\nExperience\n\nRequired\n\n4 years:\n\nMinimum of plant engineering or maintenance experience in an automated manufacturing environment.",
+      "apply_options": [
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/automation-engineer/11529776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/automation-engineer-sparks-nv--92d936dc-37e6-4195-b71d-0b96970645c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/sparrow/Job/Automation-Engineer/-in-Sparks,NV?jid=a79d17cd1128f7a1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/automation-engineer_7ea1ad90fa0f6c096d5df48c114622f5c03ae?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/automation-engineer-sparrow-company-sparks-nv_89246085?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tsenta",
+          "link": "https://tsenta.com/jobs/sanmar-maintenance-engineer-316a8cce-5415-4578-ba51-fd4aa1f4a394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WorkOnward",
+          "link": "https://www.workonward.com/en/job-search/detail/e5f44f10-2a9e-44f6-9409-dd4be00283ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643141914574589219&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiU3BhcnJvdyBDb21wYW55IiwiaHRpZG9jaWQiOiIwWDBscUQyTE9OdTF5V1N2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV25SYVdVZE5MV3cxYTFKR2NGUkhOamx3UmxRM2JXNXpYMFp3WlVKT04xWlpVSGxvVEZsb01WSkJWVlJGYzJwblNIY3pSMVppUTBzdFkzb3laVGR0UWpObWJGRkNZMXBQTkVrMFVGVklUbXRWYWxwblVVUk5ZVFJsYlRWWWMydGlXbTlxVVdOMVVWOUJkV3RRWlVGeVZXdDFPSGh1Tm0xM1VUazNUVGxRU2xKcldUUlBiMlVTRnpCUmNteGhkR0Y1UzNCaGRXbE1UVkJ4TmtodWVWRnJHaUpCU0U0d1JUZEllWE5MVUhOQ1NtMXpiVkIzYjNwRlNXWnVTek40WWpsQlpGQlIiLCJmY3YiOiIzIiwiZmNfaWQiOiIwWDBscUQyTE9OdTF5V1N2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Controls Engineer",
+      "company_name": "United Pharma Technologies Inc",
+      "location": "Oak Grove, NC",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are seeking a Senior Controls Engineer with proven, hands-on experience implementing robotic bin-picking systems to support advanced plant automation and automated assembly-cell projects",
+            "The ideal candidate will have strong experience with Allen-Bradley PLCs, Yaskawa/Motoman robots, machine vision, servo systems, HMIs, industrial networks, and automated manufacturing equipment",
+            "Mandatory: Direct hands-on experience designing, programming, commissioning, and troubleshooting robotic bin-picking applications is required",
+            "Candidates without bin-picking experience will not be considered",
+            "Cognex, Keyence, SICK, or comparable 2D/3D vision systems",
+            "Allen-Bradley or Siemens PLCs",
+            "Robot-to-PLC and vision-to-robot communications",
+            "Bachelor’s degree in Electrical, Controls, Automation, Mechanical Engineering, or a related technical discipline",
+            "7+ years of controls, robotics, or industrial automation experience",
+            "Mandatory hands-on robotic bin-picking experience",
+            "Strong Allen-Bradley PLC programming and troubleshooting experience",
+            "Hands-on Yaskawa/Motoman robot programming and troubleshooting experience",
+            "Experience integrating 2D/3D machine-vision systems, preferably Cognex or Keyence",
+            "Strong understanding of robot/PLC/vision communications and automated-cell integration",
+            "Ability to read, create, and modify electrical schematics",
+            "Experience with 480 VAC three-phase power and 24 VDC control circuits",
+            "Proven experience commissioning, troubleshooting, and optimizing automated manufacturing or assembly cells"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay rate: $(45-47)/hour on W2",
+            "Health Insurance: Medical, dental, and vision insurance options are available through a third-party provider",
+            "Employees are responsible for paying the full cost of their insurance premiums",
+            "Retirement Benefits: A 401(k) retirement savings plan is available",
+            "No employer matching or other employer contributions are provided",
+            "Paid Time Off (PTO): No PTO is provided other than that required by applicable state and local laws"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This individual will independently lead controls projects from concept and design through programming, integration, commissioning, startup, and production handoff",
+            "Part localization, calibration, collision avoidance, and pick-path optimization",
+            "Automated-cell integration, commissioning, and production startup",
+            "Lead controls and automation projects from concept through production startup and handoff",
+            "Design, program, integrate, and optimize robotic bin-picking applications",
+            "Program and troubleshoot Allen-Bradley PLCs, HMIs, Yaskawa robots, servo drives, safety systems, and electrical controls",
+            "Integrate robots, PLCs, vision systems, sensors, conveyors, safety devices, and automated assembly equipment",
+            "Develop controls architecture, functional requirements, sequence-of-operation documentation, electrical schematics, and interface specifications",
+            "Support equipment design reviews, FAT/SAT, vendor coordination, commissioning, startup, and production ramp-up",
+            "Troubleshoot complex PLC, robot, vision, electrical, motion-control, and communication issues",
+            "Develop permanent corrective solutions for recurring equipment and process failures",
+            "Maintain controlled backups and revision histories for PLC, HMI, robot, and vision programs",
+            "Support plant objectives related to Safety, Quality, Delivery, Productivity, Throughput, and Efficiency",
+            "Apply Lean manufacturing practices including 5S, Kaizen, standardized work, and visual management"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=EdV76JFaJc5kzLjgAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBAAUFz7CU43imgigouORYoO6qBzSeORpKZ3JXdIP8XPVZe3vOozqxY1kxbOAkcKiRALrOHMHQi64iMwQcMcMs4PUXWUvbUi2QRRp8kbz4Nlwo4n23Mnf1qJruCYnWK73W0mM1JY2gclxSfcfjc4uKOPxJlDQoETeUgEV_eCpvAbV3Cpv17-HG-bAAAA&shmds=v1_Ac3VAozE7kw3BqDpciM3R2tzaseCHE6G4hqbXrbAAtrri0nwjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=EdV76JFaJc5kzLjgAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50ad11f56faf00641c4b7/images/Ebqu8h_jQAaelHGgw7z58EmAWX7qcUeVmdyYEmglQ9U.jpeg",
+      "extensions": [
+        "2 days ago",
+        "45–47 an hour",
+        "Contractor",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/controls-engineer-at-united-pharma-technologies-inc-4484139121",
+      "job_title": "Controls Engineer",
+      "description": "Role: Controls Engineer\n\nLocation: Mebane, North Carolina\n\nCompany: United Pharma Technologies\n\nDuration: 12 Months\n\nIndustry: Automotive/Manufacturing\n\n\n\n\nPosition Summary\n\nWe are seeking a Senior Controls Engineer with proven, hands-on experience implementing robotic bin-picking systems to support advanced plant automation and automated assembly-cell projects.\n\nThe ideal candidate will have strong experience with Allen-Bradley PLCs, Yaskawa/Motoman robots, machine vision, servo systems, HMIs, industrial networks, and automated manufacturing equipment. This individual will independently lead controls projects from concept and design through programming, integration, commissioning, startup, and production handoff.\n\nMandatory: Direct hands-on experience designing, programming, commissioning, and troubleshooting robotic bin-picking applications is required. Candidates without bin-picking experience will not be considered.\n\nYaskawa/Motoman, FANUC, ABB, or KUKA robotsCognex, Keyence, SICK, or comparable 2D/3D vision systemsAllen-Bradley or Siemens PLCsRobot-to-PLC and vision-to-robot communicationsPart localization, calibration, collision avoidance, and pick-path optimizationAutomated-cell integration, commissioning, and production startup\n\n\nKey Responsibilities\n\nLead controls and automation projects from concept through production startup and handoff.Design, program, integrate, and optimize robotic bin-picking applications.Program and troubleshoot Allen-Bradley PLCs, HMIs, Yaskawa robots, servo drives, safety systems, and electrical controls.Integrate robots, PLCs, vision systems, sensors, conveyors, safety devices, and automated assembly equipment.Develop controls architecture, functional requirements, sequence-of-operation documentation, electrical schematics, and interface specifications.Support equipment design reviews, FAT/SAT, vendor coordination, commissioning, startup, and production ramp-up.Troubleshoot complex PLC, robot, vision, electrical, motion-control, and communication issues.Develop permanent corrective solutions for recurring equipment and process failures.Maintain controlled backups and revision histories for PLC, HMI, robot, and vision programs.Support plant objectives related to Safety, Quality, Delivery, Productivity, Throughput, and Efficiency.Apply Lean manufacturing practices including 5S, Kaizen, standardized work, and visual management.\n\n\nRequired Qualifications\n\nBachelor’s degree in Electrical, Controls, Automation, Mechanical Engineering, or a related technical discipline.7+ years of controls, robotics, or industrial automation experience.Mandatory hands-on robotic bin-picking experience.Strong Allen-Bradley PLC programming and troubleshooting experience.Hands-on Yaskawa/Motoman robot programming and troubleshooting experience.Experience integrating 2D/3D machine-vision systems, preferably Cognex or Keyence.Strong understanding of robot/PLC/vision communications and automated-cell integration.Ability to read, create, and modify electrical schematics.Experience with 480 VAC three-phase power and 24 VDC control circuits.Proven experience commissioning, troubleshooting, and optimizing automated manufacturing or assembly cells.\n\n\nPay rate: $(45-47)/hour on W2\n\n\n\n\nBenefits\n\nEmployees hired into this position are eligible for the following benefits, subject to applicable plan terms and eligibility requirements:\n\n\n\n\nHealth Insurance: Medical, dental, and vision insurance options are available through a third-party provider. Employees are responsible for paying the full cost of their insurance premiums.\n\n\n\n\nRetirement Benefits: A 401(k) retirement savings plan is available. No employer matching or other employer contributions are provided.\n\n\n\n\nPaid Time Off (PTO): No PTO is provided other than that required by applicable state and local laws.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/controls-engineer-at-united-pharma-technologies-inc-4484139121?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb250cm9scyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlVuaXRlZCBQaGFybWEgVGVjaG5vbG9naWVzIEluYyIsImh0aWRvY2lkIjoiRWRWNzZKRmFKYzVrekxqZ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlsVjVVVEk0TjNSbVNsTTVReTA0TVY5cFoyaHNlVXBhVERoMGRFWlBTekl5ZURSaVFXVnhjamhrVDFwNFNHSlFOVEJNU0c1MmVqWlRSM2g0UW5Kbk1WWnFjRlo1T1hoMFNVSXpja1ZtU1RoTVRGWklWVUZ0ZWs1TWNVNUlUM2h2TjI5bVNubzBkME5GWkRKMU1rUnVZblV3TFdwM2JuQlJOVXRaUkVodWExaHlOa2hNZEdNU0Z6QlJjbXhoZEdGNVMzQmhkV2xNVFZCeE5raHVlVkZyR2lKQlNFNHdSVGRGVGxwR1lqaGZSRXByY0ZOZlJVTm9RM3B2Ym1Rd2RVZEtaRk4zIiwiZmN2IjoiMyIsImZjX2lkIjoiRWRWNzZKRmFKYzVrekxqZ0FBQUFBQT09In0="
+    },
+    {
+      "title": "HW/SW Lab Automation Engineer",
+      "company_name": "Apex Informatics",
+      "location": "Mountain View, CA",
+      "via": "Wiley Analytical Science",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ideal candidate profile - python automation",
+            "PCB embedded test, mechatronics engineer, hardware engineer"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Build regression test beds in the lab (putting together PCBs, Optics, motion stages and other hardware sensors/actuators)",
+            "Build the foundations of a hardware-in-the-loop test infrastructure (testing embedded systems, drivers, hardware/software interfaces)",
+            "Build automation infrastructure for nightly regressions and integrate with existing CI/CD infrastructure",
+            "Build Integration tests for software features and ensure full feature coverage",
+            "Document the different hardware text fixtures, software automation and feature tests"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=m2eKRM-owOuOEgGHAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNvQrCMBRGce0jON3FRbQR0cVORcQfdBLsWJJwTSPtvSE3xT6LT2u7fBw4HL7sN8t2l0o9K7hrA2WfuNPJM8GJnCfECGu4sQFBHW0DozgzuxbnRZNSkINSIm3uJI2VzS13igkND-rDRqappdERQ6sT1tv9ZsgDueWiDDjAld4cpzsr4Ake3FPSI7w8fldwLP_hUqgknQAAAA&shmds=v1_Ac3VAoxwEFP_OKmhmRayf0H0B1wBUEwhFFxOL_eO-e-QWVkrZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=m2eKRM-owOuOEgGHAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://analyticalscience.wiley.com/careers/job/20387/hw-sw-lab-automation-engineer/",
+      "job_title": "HW/SW Lab Automation Engineer",
+      "description": "Build regression test beds in the lab (putting together PCBs, Optics, motion stages and other hardware sensors/actuators)\n \n2. Build the foundations of a hardware-in-the-loop test infrastructure (testing embedded systems, drivers, hardware/software interfaces)\n \n3. Build automation infrastructure for nightly regressions and integrate with existing CI/CD infrastructure.\n \n4. Build Integration tests for software features and ensure full feature coverage.\n \n5. Document the different hardware text fixtures, software automation and feature tests\n\nIdeal candidate profile - python automation. PCB embedded test, mechatronics engineer, hardware engineer.",
+      "apply_options": [
+        {
+          "title": "Wiley Analytical Science",
+          "link": "https://analyticalscience.wiley.com/careers/job/20387/hw-sw-lab-automation-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/robotics-lab-automation-engineer-mountain-view-ca--4987bacd-f11a-4b82-ab35-4e450d02f5cb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/HW-SW-Lab-Automation-Engineer/-in-Mountain-View,CA?jid=bb48b1b74e71442d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Iitjobs",
+          "link": "https://www.iitjobs.com/job/lab-automation-engineer-mountain-view-ca-usa-606118?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/omni-inclusive/mountain-view-ca/robotics-application-engineer/3f38717cae7caa58e3b6aa247ec7af89?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/c1748893-503a-43f6-8d50-3f4325d4ef97?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/6073024452709318656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/hw-sw-lab-automation-engineer-agama-solutions-mountain-view--ss-us-1by00qd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIVy9TVyBMYWIgQXV0b21hdGlvbiBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkFwZXggSW5mb3JtYXRpY3MiLCJodGlkb2NpZCI6Im0yZUtSTS1vd091T0VnR0hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV3QzWlZCdlJrdEJVbGhYTVVkb1RrNTZNR2xhZGpsblh6QjJValJpUzNkV05EWlpNRmRYWTBsWlJGaHFYMHBsY2kxM09VZHhkSFJXZG1KSVJYQmFVbmcwWjNoTldXNVpTbVE1ZFdWNWJtMWFTMFpVUjFSaWVFRkxPV3RmZFZOYVExRjRjRkpVY1RKUVNsTTFURzVJTlZKcFMwSkRhMFJhZUVaUk9YUjNZblZoUkZkUWQySVNGekJSY214aGRHRjVTM0JoZFdsTVRWQnhOa2h1ZVZGckdpSkJTRTR3UlRkSGNqZHJlVUpQZFcxMGJqTkJSVFpxVjFwRlMyMTBVMGxTZG5aQiIsImZjdiI6IjMiLCJmY19pZCI6Im0yZUtSTS1vd091T0VnR0hBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Automation Engineer",
+      "company_name": "Onesource Professional Search",
+      "location": "Louisiana",
+      "via": "Dice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Type: Full-time Experience Required: 5+ years in Automation, Instrumentation, and Project Management",
+            "Bachelor's degree in Engineering, Engineering Technology (Electrical, Automation, Controls), Computer Science, or related field",
+            "Minimum 5 years of experience in automation, instrumentation, and project management",
+            "Strong troubleshooting and failure analysis skills with PLCs, HMIs, flow computers, and PID loops"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This individual will play a critical role in the development, programming, integration, testing, and commissioning of advanced instrumentation and control systems across a highly technical operational environment",
+            "The ideal candidate is motivated, growth-oriented, and eager to expand into evolving technologies while supporting Operations, Maintenance, SCADA, OMCs, Engineering, Loss Controls, Cybersecurity, and internal/external customers",
+            "Design, develop, and troubleshoot PLC logic, HMI applications, flow computers, and PID control loops",
+            "Perform FAT, SAT, and point-to-point testing for control system implementations",
+            "Redline and update I&C documentation including P&IDs, loop diagrams, wiring diagrams, IO lists, and cause-and-effect charts",
+            "Calibrate and program instrumentation (pressure, temperature, level, density, etc.)",
+            "Develop secure data interfaces and communication configurations for internal and external customers",
+            "Collaborate with Network Engineering on OT network connections and support OT cybersecurity best practices",
+            "Provide high-level technical support to Operations, Maintenance, SCADA, OMCs, and Engineering",
+            "Manage capital and expense projects, ensuring scope, budget, and schedule alignment",
+            "Support the Management of Change (MOC) process and lifecycle planning for I&C assets"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=BfsVyOBM_rRJxn6GAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNQQrCMBAA8doneNpzwUYEL3ryIIIICj6gbMOaRNLdkt1CP-J_jXiZyzBM81k17Wk2GdGSMJw5JCYqsIGrDKCExUeo4iISMq2P0WzSg3OquQtqtfKdl9EJ0yCLe8ugP_QasdCU0ajf7bdLN3Fo2zuTylw8waPIi1TrEjM8_5fEcJM5aULGL8VmLyWYAAAA&shmds=v1_Ac3VAozTfAQMqoU6PUaQOoAfl92bZtUevAkyrVzAnbtLWe1BNA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=BfsVyOBM_rRJxn6GAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.dice.com/job-detail/709da398-ed0f-4cd0-92e5-5f14f7e1980c",
+      "job_title": "Automation Engineer",
+      "description": "We're partnering with a leading midstream company in South Louisiana seeking an experienced Automation Engineer to join their team. This individual will play a critical role in the development, programming, integration, testing, and commissioning of advanced instrumentation and control systems across a highly technical operational environment.\n\nThe ideal candidate is motivated, growth-oriented, and eager to expand into evolving technologies while supporting Operations, Maintenance, SCADA, OMCs, Engineering, Loss Controls, Cybersecurity, and internal/external customers.\n\nPosition: Automation Engineer\n\n Type: Full-time Experience Required: 5+ years in Automation, Instrumentation, and Project Management\n\nKey Responsibilities\nDesign, develop, and troubleshoot PLC logic, HMI applications, flow computers, and PID control loops.Perform FAT, SAT, and point-to-point testing for control system implementations.Redline and update I&C documentation including P&IDs, loop diagrams, wiring diagrams, IO lists, and cause-and-effect charts.Calibrate and program instrumentation (pressure, temperature, level, density, etc.).Develop secure data interfaces and communication configurations for internal and external customers.Collaborate with Network Engineering on OT network connections and support OT cybersecurity best practices.Provide high-level technical support to Operations, Maintenance, SCADA, OMCs, and Engineering.Manage capital and expense projects, ensuring scope, budget, and schedule alignment.Support the Management of Change (MOC) process and lifecycle planning for I&C assets.\nQualifications\nBachelor's degree in Engineering, Engineering Technology (Electrical, Automation, Controls), Computer Science, or related field.Minimum 5 years of experience in automation, instrumentation, and project management.Strong troubleshooting and failure analysis skills with PLCs, HMIs, flow computers, and PID loops.",
+      "apply_options": [
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/709da398-ed0f-4cd0-92e5-5f14f7e1980c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/maintenance-engineer-egan-la--e7828159-5761-49a3-9677-51e06d5ef266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/MeaysXJ74trl8xVEOHD0RQjgRSTsHK09D_HTYmWQs6sBxR4uFtOCww?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4023-52578cdc9efc4d11b77a9e64749c633b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/maintenance-engineer-royal-vopak-saint-charles--ss-us-1hdaa46?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.com",
+          "link": "https://www.career.com/job/champtechnology/automation-engineer-co-op/j202609150511038825824?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiT25lc291cmNlIFByb2Zlc3Npb25hbCBTZWFyY2giLCJodGlkb2NpZCI6IkJmc1Z5T0JNX3JSSnhuNkdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbTVWZEU5c1oxTkNVVUpDY0Y5RU9HbERTWGxWZEhOM1JsVjFNMEZ2WkcxMlEyZzVNVU5JZUdWaFkwc3pOVTlQVFV0SmQxQkJkMVZxV2sxWVdqVjVka0YwZG1aRVQyRmhTa3ROTm5KdFQyRjVjVFZST1c1R1FYTllPV1ZWV2paTVYzbzNialZNYjBvdFozUm5VV1JhVEd4SFFtMUNWVXhtVDBFeE1WQlJWbUY0U1ZwSVVGY1NGekJSY214aGRHRjVTM0JoZFdsTVRWQnhOa2h1ZVZGckdpSkJTRTR3UlRkSVFXaFVRM016WW1wcFVsUXdOVzVwZWxaNE5uUjJPRmRhWHpKUiIsImZjdiI6IjMiLCJmY19pZCI6IkJmc1Z5T0JNX3JSSnhuNkdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Automation Engineer - Fulfillment Centers",
+      "company_name": "Amazon.com Services LLC - A57",
+      "location": "Fort Myers, FL",
+      "via": "SaluteMyJob",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of PLC programming or automation engineering experience",
+            "Work flexible schedule including weekends, nights, and holidays",
+            "Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of process or production environment related PLC-controlled automation and issue diagnosis experience",
+            "Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of robotics work cells and control systems experience",
+            "Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of electrical theory, robotics, controls components, and automated equipment experience",
+            "Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of Ladder Logic and structured programming from Siemens, Allen-Bradley, or Codesys PLCs experience"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Amazon offers competitive compensation packages including comprehensive healthcare benefits starting on Day 1, matching 401(k) program, and up to 20 weeks of paid parental leave",
+            "But wait, there's more: We provide lightweight fire-resistant daily wear and composite toe safety shoes for your safety!",
+            "Your Amazon package will include sign-on payments and restricted stock units (RSUs)",
+            "Final compensation will be determined based on factors including experience, qualifications, and location",
+            "Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As an Automation Engineer, you will play a crucial role in maximizing equipment reliability and operational performance in our fulfillment centers by providing proactive controls automation and technical support",
+            "Your expertise will be essential in troubleshooting complex control systems, analyzing performance metrics, and driving continuous improvement initiatives",
+            "You'll collaborate with cross-functional teams to optimize material handling equipment (MHE) systems and implement innovative projects",
+            "You'll work with state-of-the-art technology, including conveyors, sortation systems, scanners, cameras, print and apply systems, and SCADA devices and programs",
+            "You will serve as the site expert for maintaining the automation systems that are critical for operations",
+            "You will understand, maintain and troubleshoot material handling control systems, including PLC/PC controllers and industrial networks such as Ethernet, ControlNet, DeviceNet, Profibus, motor control systems, servo drives, frequency drives, and electrical distribution systems",
+            "You will monitor MHE metrics and partner with maintenance/operations to address system performance issues and provide analysis across all operations",
+            "You will provide first-level escalation support for site technicians, both locally and remotely",
+            "You will perform and analyze building System Assessments to enhance material handling system performance"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=X2w6GocjueHj6zKPAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQQrCMBBFcdsjuJq1aCNCEXRjKVaQuvIAJQ1jG0kyJTOV6qk8onHzFp_H_z_7LrJTOQl5LZYCnENvA2KEDdSTe1jnPAaBKgEjp_RKHTDqaAZI-oWod7g8DiIjH5RidnnPkrpMbsgrCtjRrJ7U8R8tDzri6LRguyu2cz6GfqVKrz8U_j7cMb6sQYamqdJYWezBBqgpCtze6cAa6uYH6kfpSbMAAAA&shmds=v1_Ac3VAozBH67a9CuJxBZ0o0DUEHOZZk4Z77uw2sHlgBEn68R-mA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=X2w6GocjueHj6zKPAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://salutemyjob.com/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3037660178-2/",
+      "job_title": "Automation Engineer - Fulfillment Centers",
+      "description": "Operations is at the heart of Amazon's business. We are known for our speed, accuracy, and exceptional service. Our buildings deliver tens of thousands of products to hundreds of countries worldwide, every day. The Reliability & Maintenance Engineering (RME) team are the business partners that work tirelessly behind the scenes to make it happen. We drive continuous improvement, and maintain all of the robotics and material handling equipment (MHE) to ensure our customers are met with the Amazon smile. Come join us on our journey!\n\nAbout the Role:\nAs an Automation Engineer, you will play a crucial role in maximizing equipment reliability and operational performance in our fulfillment centers by providing proactive controls automation and technical support. Your expertise will be essential in troubleshooting complex control systems, analyzing performance metrics, and driving continuous improvement initiatives. You'll collaborate with cross-functional teams to optimize material handling equipment (MHE) systems and implement innovative projects. You'll work with state-of-the-art technology, including conveyors, sortation systems, scanners, cameras, print and apply systems, and SCADA devices and programs. Through your efforts, you'll directly contribute to ensuring our customers receive their orders with Amazon's signature speed and accuracy.\n\nWhat Do We Offer?\nAmazon offers competitive compensation packages including comprehensive healthcare benefits starting on Day 1, matching 401(k) program, and up to 20 weeks of paid parental leave. But wait, there's more: We provide lightweight fire-resistant daily wear and composite toe safety shoes for your safety!\n\n\nKey job responsibilities\nKey job responsibilities include, but are not limited to:\n- You will serve as the site expert for maintaining the automation systems that are critical for operations\n- You will understand, maintain and troubleshoot material handling control systems, including PLC/PC controllers and industrial networks such as Ethernet, ControlNet, DeviceNet, Profibus, motor control systems, servo drives, frequency drives, and electrical distribution systems\n- You will monitor MHE metrics and partner with maintenance/operations to address system performance issues and provide analysis across all operations\n- You will provide first-level escalation support for site technicians, both locally and remotely \n- You will perform and analyze building System Assessments to enhance material handling system performance \n\n\n\nBASIC QUALIFICATIONS- Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of PLC programming or automation engineering experience\n- Work flexible schedule including weekends, nights, and holidays\n- Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of process or production environment related PLC-controlled automation and issue diagnosis experience\n- Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of robotics work cells and control systems experience\n- Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of electrical theory, robotics, controls components, and automated equipment experience\n- Bachelor's degree in computer science, electrical engineering, automation engineering, or equivalent, or 2+ years of Ladder Logic and structured programming from Siemens, Allen-Bradley, or Codesys PLCs experience\nPREFERRED QUALIFICATIONS- Experience with HMI and control network components, including maintenance, troubleshooting, programming and design\n- Experience identifying, maintaining, troubleshooting, and modifying Motor Controls including motor starters, Variable Frequency Drives, DC drives, and standard electrical components\n- Experience with preventive maintenance procedures, industrial electrical, industrial controls, and industrial electronics & robotics\n- Experience interpreting and modifying mechanical and electrical drawings\n- Experience programming with RSLogix5000, Studio 5000, FT View, and other controls software platforms\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit  for more information. If the country/region you're applying in isn't listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at   .\n\n\n\nUSA, FL, FORT MYERS - 90,000.00 - 112,500.00 USD annually",
+      "apply_options": [
+        {
+          "title": "SaluteMyJob",
+          "link": "https://salutemyjob.com/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3037660178-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Edinburgh City FC",
+          "link": "https://jobs.edinburghcityfc.com/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3030593314-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FOX8 Jobs",
+          "link": "https://jobs.fox8.com/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3030593314-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Local Jobs.Hire The Better",
+          "link": "https://localjobs.hirethebetter.com/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3037660178-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs Warehouse",
+          "link": "https://www.jobswarehouse.co.uk/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3030593314-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Vacancies For Col U Fans",
+          "link": "https://vacancies.cu-fc.com/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3030593314-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/fort-myers/florida/software_development/5542272074/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Move Collective Jobs",
+          "link": "https://jobs.movecollective.uk/jobs/automation-engineer-fulfillment-centers-fort-myers-florida/3030593314-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIC0gRnVsZmlsbG1lbnQgQ2VudGVycyIsImNvbXBhbnlfbmFtZSI6IkFtYXpvbi5jb20gU2VydmljZXMgTExDIC0gQTU3IiwiaHRpZG9jaWQiOiJYMnc2R29janVlSGo2ektQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWxrMldrcG5TWFF4WTJGMlVXeE9NRXBEWDBoTVIzcG9iVXB6U1RsNVV6bE5OVTF4TW5GMmNGaHBVbWxDVm1kVWJWZDZZMGMzVTFSWVdqWkhjVU5CV0hoRWVWRXpkVFpxYVZGckxVVlBlRUp3VW1OeVdUSk9VakU1YTNCa2EzQTBjbTVFVUVvMVoxaGtVVGx4VkZCTlExWnVaMlZXUmtwNVMxSTJWWEJaYUZadE5EUnpXbGNTRnpCUmNteGhkR0Y1UzNCaGRXbE1UVkJ4TmtodWVWRnJHaUpCU0U0d1JUZEhXVkJXYnpGc1JqVlhTMGg0VGpoeGVXSkpXbGt5TVc1T1NXWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJYMnc2R29janVlSGo2ektQQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Automation Engineer",
+      "company_name": "E Tech Group",
+      "location": "Miamiville, OH",
+      "via": "GetHiredToday | Job Board - Women For Hire",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This includes defining architecture requirements, developing detailed software design specifications, programming PLC and SCADA applications, configuring thin client server applications, configuring process-based historian databases, tuning control loops, providing control system startup and commissioning services, troubleshooting existing control systems and providing control system qualifications",
+            "Bachelor's Degree in Engineering or related Engineering fields",
+            "2+ years of experience, or equivalent combination of education",
+            "Experience reading and interpreting control system electrical design packages",
+            "Proficiency in troubleshooting control systems and an understanding of process controls",
+            "Rockwell experience with products such as: ControlLogix, CompactLogix, PlantPax, Factory Talk Software Suite, Studio 5000, PLC5, SLC500, RSView, PanelView Plus, etc",
+            "Working knowledge of control system networks (Ethernet, ControlNet, DeviceNet, etc.)",
+            "Excellent written and verbal communication skills",
+            "A DNA comprised of collaboration and teamwork"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "401k + match + prompt enrollment",
+            "E Tech Group employees are 100% vested upon entry",
+            "Prompt enrollment into Medical, Dental, and Vision benefits",
+            "Generous paid time off that includes paid vacation, paid holidays, paid family leave and sick time off",
+            "Learning and growth are key parts of the E Tech culture"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We are seeking an enthusiastic and experienced Automation Engineer to be responsible for leading or contributing to detailed hardware and software design of process automation control systems projects",
+            "This a fantastic opportunity to lead/work on projects from concept through commissioning phases",
+            "Provide application/control systems design and development for systems of varying complexity",
+            "Develop and evaluate alternative system solutions that meet stated requirements",
+            "Modifies program/system logic involving multiple systems and subsystems using ladder logic, structured text, or function block",
+            "Develop proficiency in several programming languages and control device networks for PLCs, HMIs, DCS",
+            "Interact with customers to gain an understanding of the business environment",
+            "Defines scope, plans, and deliverables for assigned work",
+            "Work successfully in a team environment supporting a variety of industries (wastewater, chemical, discrete control)",
+            "Be an ambassador who embodies our Core Values, prioritizing the success of E Tech Group, our clients, and the professional development of our associates"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=cQuhojCSftY6MAB-AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBQAce0nOMibiyYiuOjkUCqCuLiXJDySlCQv5KXSX_Cvjcstx1333XT9bakUVfWUYEjWJ8QCB3iQBkZVjIMmRiIbcHt1tWa-SMkchOXaKiMMRUkJNa1yJs1_TOxUwRxUxel0Pq4iJ9vvBnhj242Flgw-wdOr6D8-BNzD6_4Dhz6KQIwAAAA&shmds=v1_Ac3VAoyMR3Z2Oult8EsGETnDHW5PjchM0JcMYNddezqNWF1Ohw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=cQuhojCSftY6MAB-AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50ad11f56faf00641c4b7/images/WhIJXDIviMVeI-6f7BJsEoucFTFio_88i5jHn2KFq2I.png",
+      "extensions": [
+        "7 days ago",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://jobs.womenforhire.com/job/usa/miamiville-oh/automation-engineer-361487/",
+      "job_title": "Automation Engineer",
+      "description": "Automation Engineer\nAutomation EngineerEmployer: E Tech Group\n\nLocation: West Chester. OH\n\nDepartment: Central\n\nReference: 1461\n\nAt E Tech Group, joining our team means joining a group of passionate and forward-thinkingexperts. Were one of the largest engineering and system integration firms in the United States providing value for our clients through IT automation and control solutions for more than 30 years to the Life Sciences, Mission Critical, Metals & Mining, Warehousing & Distribution, and CPG/Food & Beverage industries.Our national and global scale allows us to help our clients develop and implement standardized solutions at any of their facilities regardless of physical location or the local resources available at that site.   \n\nWe are seeking an enthusiastic and experienced Automation Engineer to be responsible for leading or contributing to detailed hardware and software design of process automation control systems projects. This includes defining architecture requirements, developing detailed software design specifications, programming PLC and SCADA applications, configuring thin client server applications, configuring process-based historian databases, tuning control loops, providing control system startup and commissioning services, troubleshooting existing control systems and providing control system qualifications. This a fantastic opportunity to lead/work on projects from concept through commissioning phases.\n\nYou Will:\n\nProvide application/control systems design and development for systems of varying complexityDevelop and evaluate alternative system solutions that meet stated requirementsModifies program/system logic involving multiple systems and subsystems using ladder logic, structured text, or function blockDevelop proficiency in several programming languages and control device networks for PLCs, HMIs, DCSInteract with customers to gain an understanding of the business environment. Defines scope, plans, and deliverables for assigned workWork successfully in a team environment supporting a variety of industries (wastewater, chemical, discrete control)Be an ambassador who embodies our Core Values, prioritizing the success of E Tech Group, our clients, and the professional development of our associates. You Have:\n\nBachelor's Degree in Engineering or related Engineering fields2+ years of experience, or equivalent combination of educationExperience reading and interpreting control system electrical design packagesProficiency in troubleshooting control systems and an understanding of process controlsRockwell experience with products such as: ControlLogix, CompactLogix, PlantPax, Factory Talk Software Suite, Studio 5000, PLC5, SLC500, RSView, PanelView Plus, etc.Working knowledge of control system networks (Ethernet, ControlNet, DeviceNet, etc.)Excellent written and verbal communication skillsA DNA comprised of collaboration and teamworkBenefits & Perks: \n\n401k + match + prompt enrollment. E Tech Group employees are 100% vested upon entry. Prompt enrollment into Medical, Dental, and Vision benefits. Generous paid time off that includes paid vacation, paid holidays, paid family leave and sick time off. Learning and growth are key parts of the E Tech culture. We provide you with training and continuing education from day one, so you canadvance your career. As an E Tech associate, youcan unlock your greatest potential through challenges and opportunities.  \n\nE Tech Group is an Equal Opportunity Employer. Applicants are considered for employment without regard to race, color, religion, sex, age, disability, military status, genetic information, gender identity, sexual orientation, citizenship status, or any other basis prohibited by law. E Tech Group will provide reasonable accommodations to qualified individuals with disabilities and for religious beliefs. E Tech Group is an Affirmative Action Employer of individuals with disabilities and protected veterans.  \n\n\n\nEqual employment opportunity, including veterans and individuals with disabilities.\nPI287897078",
+      "apply_options": [
+        {
+          "title": "GetHiredToday | Job Board - Women For Hire",
+          "link": "https://jobs.womenforhire.com/job/usa/miamiville-oh/automation-engineer-361487/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiRSBUZWNoIEdyb3VwIiwiaHRpZG9jaWQiOiJjUXVob2pDU2Z0WTZNQUItQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhKM01IVjJaV2RNZFRseVJUbHdOa3RJZFRaa1UwWjFUM1ZFYjFCNWNWUmtVa296T0ZWUlYxSnViM0pzV0c1Wk1ETXhOVEkwTFhOd05teEZXVkpqY3pSR00wWjBSbnBZUkRBNU1GbE1jVmRDVWt0UlEwMTBUMnQxTmsxdmNEUmZXUzFRTUZoaVJUaEhRV2x5YkRGNGJsVjJRMDAyU2tGWmVVdG5TRTlWWm5aWlQzWkRaVmdTRnpCUmNteGhkR0Y1UzNCaGRXbE1UVkJ4TmtodWVWRnJHaUpCU0U0d1JUZElOMkpQZEdFemVrMVJZWFZ6YWpNNVNVaFBZVXhCYmtGMWVISm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJjUXVob2pDU2Z0WTZNQUItQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVSRVlsZGxXVXh2T1Voc2FYVjVWelF3UkUxVGJIcGtWVEJ3YzNWdllrMXNNM3AyUmtSS09XRXpMVGxhWHpFeE5XUnNPWEp6WW1sSllTMXBPVzVSUldGSVptdGpTelpQYkVGMFMycExVR1oxWHpoM2NVOVVOVXhqVHkxT00xb3dlWGxYUVZwdGRWTjBNMjFEY1V4VVFsWkdPVTU0YUZkTVVISkdRMXBvU0hwWGREWklSMjV6U0MxcVdHWnFXR3BSU21obWVVMTJiM1JTUWtseU1sazFUalpUY1dzNFgxcHdTRGxNU0hSNmNITlFXWEJxTVRCdVEzbERiRlZRWldKbmJHRnVSVWMzT1VvNVRqVkZPWFZIZDNGdFdsaGtXVzlpT0ZFeVlWUXdTMDFSYmtkaVFsaHdORkpuUkc5TmRGSmhRakZDWWtsbFpFUXRRMk42U2tKU1lVcE9VMEpEVlZkaVYyZFNPSEpLY0hoZmEyZENWSEpyU0hwSWEyUjNkR1JWUkhWQllucFFTR1pMYmxKblkwWXRMV1pKYUZWa1kyWllWVEUxY21sYU16Sk1OMlUzWnpNeFFtUllOemhCV0cxdmNUTmtObUY1WWpkeVprdGxVR05qTFRKUkVoY3dVWEpzWVhSaGVVdHdZWFZwVEUxUWNUWklibmxSYXhvaVFVaE9NRVUzUldKZllVZEJla1Y0TkdKbVExQlBlSGgyVDA5ZlZVbENTR2xhZHciLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVxSURDdUlDUVVSRVlsZGxXVXh2T1Voc2FYVjVWelF3UkUxVGJIcGtWVEJ3YzNWdllrMXNNM3AyUmtSS09XRXpMVGxhWHpFeE5XUnNPWEp6WW1sSllTMXBPVzVSUldGSVptdGpTelpQYkVGMFMycExVR1oxWHpoM2NVOVVOVXhqVHkxT00xb3dlWGxYUVZwdGRWTjBNMjFEY1V4VVFsWkdPVTU0YUZkTVVISkdRMXBvU0hwWGREWklSMjV6U0MxcVdHWnFXR3BSU21obWVVMTJiM1JTUWtseU1sazFUalpUY1dzNFgxcHdTRGxNU0hSNmNITlFXWEJxTVRCdVEzbERiRlZRWldKbmJHRnVSVWMzT1VvNVRqVkZPWFZIZDNGdFdsaGtXVzlpT0ZFeVlWUXdTMDFSYmtkaVFsaHdORkpuUkc5TmRGSmhRakZDWWtsbFpFUXRRMk42U2tKU1lVcE9VMEpEVlZkaVYyZFNPSEpLY0hoZmEyZENWSEpyU0hwSWEyUjNkR1JWUkhWQllucFFTR1pMYmxKblkwWXRMV1pKYUZWa1kyWllWVEUxY21sYU16Sk1OMlUzWnpNeFFtUllOemhCV0cxdmNUTmtObUY1WWpkeVprdGxVR05qTFRKUkVoY3dVWEpzWVhSaGVVdHdZWFZwVEUxUWNUWklibmxSYXhvaVFVaE9NRVUzUldKZllVZEJla1Y0TkdKbVExQlBlSGgyVDA5ZlZVbENTR2xhZHciLCJmY3YiOiIzIn0%3D&q=Automation+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Automation Engineer",
+    "page": 3,
+    "collected_at_utc": "2026-10-30T21:23:29.453726+00:00",
+    "request_fingerprint": "24a4b484c35d50dec0c5efffbc48b3fdad8fa396c45295385a64bb0a0996dad0",
+    "job_count": 9
+  }
+}

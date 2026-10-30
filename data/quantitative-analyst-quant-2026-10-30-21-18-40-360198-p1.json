@@ -1,0 +1,1100 @@
+{
+  "search_metadata": {
+    "id": "6ae509b0e85e6e71ac676b11",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0ePfkLmn5AVx0G01sMl8kVv_Gz-NhdAGsKNod1IBdho/6ae509b0e85e6e71ac676b11.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0ePfkLmn5AVx0G01sMl8kVv_Gz-NhdAGsKNod1IBdho/6ae509b0e85e6e71ac676b11.md",
+    "created_at": "2026-10-30 21:18:40 UTC",
+    "processed_at": "2026-10-30 21:18:40 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Quantitative+Analyst+%28Quant%29&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/0ePfkLmn5AVx0G01sMl8kVv_Gz-NhdAGsKNod1IBdho/6ae509b0e85e6e71ac676b11.html",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "q": "Quantitative Analyst (Quant)",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQ6gwAr36EhJIVzZngqdV4ONo8u9R__1I9MbrFFC3VupzSWYtE0KJ3j4RiEoxVTRb2XMEnEFVyoUOCGV4khF3Bfw1CXbG99UU5c_3NAGFOPAr2tEl3Oneq4XtX9n5KKif-M0rzPu1wyEKkaNwY7MMGh6fsMH0_bbLs6WSAT57Ugqdg086",
+        "q": "Quantitative Analyst (Quant) no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ6gwAr36EhJIVzZngqdV4ONo8u9R__1I9MbrFFC3VupzSWYtE0KJ3j4RiEoxVTRb2XMEnEFVyoUOCGV4khF3Bfw1CXbG99UU5c_3NAGFOPAr2tEl3Oneq4XtX9n5KKif-M0rzPu1wyEKkaNwY7MMGh6fsMH0_bbLs6WSAT57Ugqdg086&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ6gwAr36EhJIVzZngqdV4ONo8u9R__1I9MbrFFC3VupzSWYtE0KJ3j4RiEoxVTRb2XMEnEFVyoUOCGV4khF3Bfw1CXbG99UU5c_3NAGFOPAr2tEl3Oneq4XtX9n5KKif-M0rzPu1wyEKkaNwY7MMGh6fsMH0_bbLs6WSAT57Ugqdg086&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMS8d6ePAPtdOyutBeecUEaeUahyg2Pg8UslqhA7U0U5CKUC6VKPO57UrxUGOSVDgjz4Lc_P6ncS4qumesWBkYruu5WUGcsTLlGFlDrOAxJotks8h0Yj8gsjotRSv7NS2CD9tD67mZXgmLPCToEB24qJNEB1DhSfMxunDzvYaFW-_ERRi",
+        "q": "Quantitative Analyst (Quant) remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMS8d6ePAPtdOyutBeecUEaeUahyg2Pg8UslqhA7U0U5CKUC6VKPO57UrxUGOSVDgjz4Lc_P6ncS4qumesWBkYruu5WUGcsTLlGFlDrOAxJotks8h0Yj8gsjotRSv7NS2CD9tD67mZXgmLPCToEB24qJNEB1DhSfMxunDzvYaFW-_ERRi&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQxKsJKAF6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMS8d6ePAPtdOyutBeecUEaeUahyg2Pg8UslqhA7U0U5CKUC6VKPO57UrxUGOSVDgjz4Lc_P6ncS4qumesWBkYruu5WUGcsTLlGFlDrOAxJotks8h0Yj8gsjotRSv7NS2CD9tD67mZXgmLPCToEB24qJNEB1DhSfMxunDzvYaFW-_ERRi&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEZork9mOONrU-NvhN_6qdLF2OWqTV54cIKSWdES532cKmBf_P-5iC-DeWcj2Wdb1U0HH6DBrvJSrCtwdeCLEhDyLHnF3-6sgbtrk-l5r2oXL83mh0DtO4IyYjXE9inMArBSeNn6-d8jD4DGWgMa9mM0Szf2dfr37JGAiFYP2qpbFKeuFjeIF9yJctMImgHzaUpNgwJjNdGcjDk3MuR8AhkogQl0bqUcfKnhVmth3sAwle2p1JgStLRQ0ahKJk0AkbggNLbil1ETozmcxQ8zc5SC0j3aY",
+            "q": "Quantitative Analyst (Quant) full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEZork9mOONrU-NvhN_6qdLF2OWqTV54cIKSWdES532cKmBf_P-5iC-DeWcj2Wdb1U0HH6DBrvJSrCtwdeCLEhDyLHnF3-6sgbtrk-l5r2oXL83mh0DtO4IyYjXE9inMArBSeNn6-d8jD4DGWgMa9mM0Szf2dfr37JGAiFYP2qpbFKeuFjeIF9yJctMImgHzaUpNgwJjNdGcjDk3MuR8AhkogQl0bqUcfKnhVmth3sAwle2p1JgStLRQ0ahKJk0AkbggNLbil1ETozmcxQ8zc5SC0j3aY&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEZork9mOONrU-NvhN_6qdLF2OWqTV54cIKSWdES532cKmBf_P-5iC-DeWcj2Wdb1U0HH6DBrvJSrCtwdeCLEhDyLHnF3-6sgbtrk-l5r2oXL83mh0DtO4IyYjXE9inMArBSeNn6-d8jD4DGWgMa9mM0Szf2dfr37JGAiFYP2qpbFKeuFjeIF9yJctMImgHzaUpNgwJjNdGcjDk3MuR8AhkogQl0bqUcfKnhVmth3sAwle2p1JgStLRQ0ahKJk0AkbggNLbil1ETozmcxQ8zc5SC0j3aY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEkm9KSV7y2tYgNCu3rdaWZ50nIKuRg-IT3lypUQbhijeGTIyTR9UTD04Q98nsuwLpGQ_H_vY0QyarZ6Y2EwuvDiMTnDiA8Z0f0EXr34GRiIFzBztbvbUn3XjYzIwWpANvNAhJbXfrke9tv2IGxRKrp1tASUdT7uhSlFq0IE5J_941VRPhDIzp9fJGxe7daSMtiRBsVR3oYV4njdm8NJobkUyP4TarwZlRXvLLZFC-Bi7Z_99YdGj59CX_9AU2-5gZ1sqxalQ9IrJMNmrwBHn6W-dnNqU",
+            "q": "Quantitative Analyst (Quant) part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEkm9KSV7y2tYgNCu3rdaWZ50nIKuRg-IT3lypUQbhijeGTIyTR9UTD04Q98nsuwLpGQ_H_vY0QyarZ6Y2EwuvDiMTnDiA8Z0f0EXr34GRiIFzBztbvbUn3XjYzIwWpANvNAhJbXfrke9tv2IGxRKrp1tASUdT7uhSlFq0IE5J_941VRPhDIzp9fJGxe7daSMtiRBsVR3oYV4njdm8NJobkUyP4TarwZlRXvLLZFC-Bi7Z_99YdGj59CX_9AU2-5gZ1sqxalQ9IrJMNmrwBHn6W-dnNqU&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEkm9KSV7y2tYgNCu3rdaWZ50nIKuRg-IT3lypUQbhijeGTIyTR9UTD04Q98nsuwLpGQ_H_vY0QyarZ6Y2EwuvDiMTnDiA8Z0f0EXr34GRiIFzBztbvbUn3XjYzIwWpANvNAhJbXfrke9tv2IGxRKrp1tASUdT7uhSlFq0IE5J_941VRPhDIzp9fJGxe7daSMtiRBsVR3oYV4njdm8NJobkUyP4TarwZlRXvLLZFC-Bi7Z_99YdGj59CX_9AU2-5gZ1sqxalQ9IrJMNmrwBHn6W-dnNqU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nlv6FvDXYYDenG_vqpKVzqS_WShW-MZGWbwGH9kC_CUbUoJSHCDIhyeUN7M_oCJiECP8sweXOfmzLmpOvyGwG4g3VY-ETstGKSVpNUsjDCN9HSBnQzuQq3mb2ZfDzV-6nuAU-6PrU0iwMt3kg7-96RSH7-3CGsZBFFad38Bs4CEj3040gPtNSQpwSFcoDp1Unqxo-VEVlYMvFqG8AP30m6Tg8JOwYewt1QDL-L26n6xsJLSDfOn9BUZkEh-MlQMjZavH39vhygUPCvwba78pDd7O-aCWPwtq6fVMCjMVQjxdzWLpk4g",
+            "q": "Quantitative Analyst (Quant) contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nlv6FvDXYYDenG_vqpKVzqS_WShW-MZGWbwGH9kC_CUbUoJSHCDIhyeUN7M_oCJiECP8sweXOfmzLmpOvyGwG4g3VY-ETstGKSVpNUsjDCN9HSBnQzuQq3mb2ZfDzV-6nuAU-6PrU0iwMt3kg7-96RSH7-3CGsZBFFad38Bs4CEj3040gPtNSQpwSFcoDp1Unqxo-VEVlYMvFqG8AP30m6Tg8JOwYewt1QDL-L26n6xsJLSDfOn9BUZkEh-MlQMjZavH39vhygUPCvwba78pDd7O-aCWPwtq6fVMCjMVQjxdzWLpk4g&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nlv6FvDXYYDenG_vqpKVzqS_WShW-MZGWbwGH9kC_CUbUoJSHCDIhyeUN7M_oCJiECP8sweXOfmzLmpOvyGwG4g3VY-ETstGKSVpNUsjDCN9HSBnQzuQq3mb2ZfDzV-6nuAU-6PrU0iwMt3kg7-96RSH7-3CGsZBFFad38Bs4CEj3040gPtNSQpwSFcoDp1Unqxo-VEVlYMvFqG8AP30m6Tg8JOwYewt1QDL-L26n6xsJLSDfOn9BUZkEh-MlQMjZavH39vhygUPCvwba78pDd7O-aCWPwtq6fVMCjMVQjxdzWLpk4g&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNHhiPb_mmvFOSsDV7XaBj1pO1U1t86bfojUCI0Hp_FN_77nPk4fcjQLUbC2dk06x30ppFLPumr822znqcGQR1eL-FcqPjRVemiac_IqJdSU5wfHBHF_56NuH0uT5pMrCIv6ufAfaQ0Puw7UzYAtbBwSceMIrXADV5RbXfKKhdnUXWPEUXHfkRIhBk3CVeG6rxf7H6flLIQnC93uDnkzyfBa93SbXFrd_ri3n7UMmk_eq_m6VROmGJilT1ZZ5kF4JB6bTL3Rx83kIWwrH5N9b3pObM5lJyJSm0ewbQTh4z6jrYPd66Q",
+            "q": "Quantitative Analyst (Quant) internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNHhiPb_mmvFOSsDV7XaBj1pO1U1t86bfojUCI0Hp_FN_77nPk4fcjQLUbC2dk06x30ppFLPumr822znqcGQR1eL-FcqPjRVemiac_IqJdSU5wfHBHF_56NuH0uT5pMrCIv6ufAfaQ0Puw7UzYAtbBwSceMIrXADV5RbXfKKhdnUXWPEUXHfkRIhBk3CVeG6rxf7H6flLIQnC93uDnkzyfBa93SbXFrd_ri3n7UMmk_eq_m6VROmGJilT1ZZ5kF4JB6bTL3Rx83kIWwrH5N9b3pObM5lJyJSm0ewbQTh4z6jrYPd66Q&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNHhiPb_mmvFOSsDV7XaBj1pO1U1t86bfojUCI0Hp_FN_77nPk4fcjQLUbC2dk06x30ppFLPumr822znqcGQR1eL-FcqPjRVemiac_IqJdSU5wfHBHF_56NuH0uT5pMrCIv6ufAfaQ0Puw7UzYAtbBwSceMIrXADV5RbXfKKhdnUXWPEUXHfkRIhBk3CVeG6rxf7H6flLIQnC93uDnkzyfBa93SbXFrd_ri3n7UMmk_eq_m6VROmGJilT1ZZ5kF4JB6bTL3Rx83kIWwrH5N9b3pObM5lJyJSm0ewbQTh4z6jrYPd66Q&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEZork9mOONrU-NvhN_6qdLF2OWqTV54cIKSWdES532cKmBf_P-5iC-DeWcj2Wdb1U0HH6DBrvJSrCtwdeCLEhDyLHnF3-6sgbtrk-l5r2oXL83mh0DtO4IyYjXE9inMArBSeNn6-d8jD4DGWgMa9mM0Szf2dfr37JGAiFYP2qpbFKeuFjeIF9yJctMImgHzaUpNgwJjNdGcjDk3MuR8AhkogQl0bqUcfKnhVmth3sAwle2p1JgStLRQ0ahKJk0AkbggNLbil1ETozmcxQ8zc5SC0j3aY",
+            "q": "Quantitative Analyst (Quant) full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEZork9mOONrU-NvhN_6qdLF2OWqTV54cIKSWdES532cKmBf_P-5iC-DeWcj2Wdb1U0HH6DBrvJSrCtwdeCLEhDyLHnF3-6sgbtrk-l5r2oXL83mh0DtO4IyYjXE9inMArBSeNn6-d8jD4DGWgMa9mM0Szf2dfr37JGAiFYP2qpbFKeuFjeIF9yJctMImgHzaUpNgwJjNdGcjDk3MuR8AhkogQl0bqUcfKnhVmth3sAwle2p1JgStLRQ0ahKJk0AkbggNLbil1ETozmcxQ8zc5SC0j3aY&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEZork9mOONrU-NvhN_6qdLF2OWqTV54cIKSWdES532cKmBf_P-5iC-DeWcj2Wdb1U0HH6DBrvJSrCtwdeCLEhDyLHnF3-6sgbtrk-l5r2oXL83mh0DtO4IyYjXE9inMArBSeNn6-d8jD4DGWgMa9mM0Szf2dfr37JGAiFYP2qpbFKeuFjeIF9yJctMImgHzaUpNgwJjNdGcjDk3MuR8AhkogQl0bqUcfKnhVmth3sAwle2p1JgStLRQ0ahKJk0AkbggNLbil1ETozmcxQ8zc5SC0j3aY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEkm9KSV7y2tYgNCu3rdaWZ50nIKuRg-IT3lypUQbhijeGTIyTR9UTD04Q98nsuwLpGQ_H_vY0QyarZ6Y2EwuvDiMTnDiA8Z0f0EXr34GRiIFzBztbvbUn3XjYzIwWpANvNAhJbXfrke9tv2IGxRKrp1tASUdT7uhSlFq0IE5J_941VRPhDIzp9fJGxe7daSMtiRBsVR3oYV4njdm8NJobkUyP4TarwZlRXvLLZFC-Bi7Z_99YdGj59CX_9AU2-5gZ1sqxalQ9IrJMNmrwBHn6W-dnNqU",
+            "q": "Quantitative Analyst (Quant) part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEkm9KSV7y2tYgNCu3rdaWZ50nIKuRg-IT3lypUQbhijeGTIyTR9UTD04Q98nsuwLpGQ_H_vY0QyarZ6Y2EwuvDiMTnDiA8Z0f0EXr34GRiIFzBztbvbUn3XjYzIwWpANvNAhJbXfrke9tv2IGxRKrp1tASUdT7uhSlFq0IE5J_941VRPhDIzp9fJGxe7daSMtiRBsVR3oYV4njdm8NJobkUyP4TarwZlRXvLLZFC-Bi7Z_99YdGj59CX_9AU2-5gZ1sqxalQ9IrJMNmrwBHn6W-dnNqU&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_ZRNYCjwqd1eo8wMTj4g34ZXZX0GPclgzWbOtHZ-EmTEkm9KSV7y2tYgNCu3rdaWZ50nIKuRg-IT3lypUQbhijeGTIyTR9UTD04Q98nsuwLpGQ_H_vY0QyarZ6Y2EwuvDiMTnDiA8Z0f0EXr34GRiIFzBztbvbUn3XjYzIwWpANvNAhJbXfrke9tv2IGxRKrp1tASUdT7uhSlFq0IE5J_941VRPhDIzp9fJGxe7daSMtiRBsVR3oYV4njdm8NJobkUyP4TarwZlRXvLLZFC-Bi7Z_99YdGj59CX_9AU2-5gZ1sqxalQ9IrJMNmrwBHn6W-dnNqU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nlv6FvDXYYDenG_vqpKVzqS_WShW-MZGWbwGH9kC_CUbUoJSHCDIhyeUN7M_oCJiECP8sweXOfmzLmpOvyGwG4g3VY-ETstGKSVpNUsjDCN9HSBnQzuQq3mb2ZfDzV-6nuAU-6PrU0iwMt3kg7-96RSH7-3CGsZBFFad38Bs4CEj3040gPtNSQpwSFcoDp1Unqxo-VEVlYMvFqG8AP30m6Tg8JOwYewt1QDL-L26n6xsJLSDfOn9BUZkEh-MlQMjZavH39vhygUPCvwba78pDd7O-aCWPwtq6fVMCjMVQjxdzWLpk4g",
+            "q": "Quantitative Analyst (Quant) contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nlv6FvDXYYDenG_vqpKVzqS_WShW-MZGWbwGH9kC_CUbUoJSHCDIhyeUN7M_oCJiECP8sweXOfmzLmpOvyGwG4g3VY-ETstGKSVpNUsjDCN9HSBnQzuQq3mb2ZfDzV-6nuAU-6PrU0iwMt3kg7-96RSH7-3CGsZBFFad38Bs4CEj3040gPtNSQpwSFcoDp1Unqxo-VEVlYMvFqG8AP30m6Tg8JOwYewt1QDL-L26n6xsJLSDfOn9BUZkEh-MlQMjZavH39vhygUPCvwba78pDd7O-aCWPwtq6fVMCjMVQjxdzWLpk4g&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nlv6FvDXYYDenG_vqpKVzqS_WShW-MZGWbwGH9kC_CUbUoJSHCDIhyeUN7M_oCJiECP8sweXOfmzLmpOvyGwG4g3VY-ETstGKSVpNUsjDCN9HSBnQzuQq3mb2ZfDzV-6nuAU-6PrU0iwMt3kg7-96RSH7-3CGsZBFFad38Bs4CEj3040gPtNSQpwSFcoDp1Unqxo-VEVlYMvFqG8AP30m6Tg8JOwYewt1QDL-L26n6xsJLSDfOn9BUZkEh-MlQMjZavH39vhygUPCvwba78pDd7O-aCWPwtq6fVMCjMVQjxdzWLpk4g&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNHhiPb_mmvFOSsDV7XaBj1pO1U1t86bfojUCI0Hp_FN_77nPk4fcjQLUbC2dk06x30ppFLPumr822znqcGQR1eL-FcqPjRVemiac_IqJdSU5wfHBHF_56NuH0uT5pMrCIv6ufAfaQ0Puw7UzYAtbBwSceMIrXADV5RbXfKKhdnUXWPEUXHfkRIhBk3CVeG6rxf7H6flLIQnC93uDnkzyfBa93SbXFrd_ri3n7UMmk_eq_m6VROmGJilT1ZZ5kF4JB6bTL3Rx83kIWwrH5N9b3pObM5lJyJSm0ewbQTh4z6jrYPd66Q",
+            "q": "Quantitative Analyst (Quant) internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNHhiPb_mmvFOSsDV7XaBj1pO1U1t86bfojUCI0Hp_FN_77nPk4fcjQLUbC2dk06x30ppFLPumr822znqcGQR1eL-FcqPjRVemiac_IqJdSU5wfHBHF_56NuH0uT5pMrCIv6ufAfaQ0Puw7UzYAtbBwSceMIrXADV5RbXfKKhdnUXWPEUXHfkRIhBk3CVeG6rxf7H6flLIQnC93uDnkzyfBa93SbXFrd_ri3n7UMmk_eq_m6VROmGJilT1ZZ5kF4JB6bTL3Rx83kIWwrH5N9b3pObM5lJyJSm0ewbQTh4z6jrYPd66Q&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNHhiPb_mmvFOSsDV7XaBj1pO1U1t86bfojUCI0Hp_FN_77nPk4fcjQLUbC2dk06x30ppFLPumr822znqcGQR1eL-FcqPjRVemiac_IqJdSU5wfHBHF_56NuH0uT5pMrCIv6ufAfaQ0Puw7UzYAtbBwSceMIrXADV5RbXfKKhdnUXWPEUXHfkRIhBk3CVeG6rxf7H6flLIQnC93uDnkzyfBa93SbXFrd_ri3n7UMmk_eq_m6VROmGJilT1ZZ5kF4JB6bTL3Rx83kIWwrH5N9b3pObM5lJyJSm0ewbQTh4z6jrYPd66Q&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9oGLLJIhG6sNGEYpv6cjJfMAh359OcnS76b6kJUNDcVqYiWZevm8OQq4sPcvn9-b7BbdrAWMX3Un52zVfiusIYFX96vsmZ9X6E9b7xDxR5G11S-C2NRfFwU1qrMLvB8-FFYjD1qExT3brI55LakQSyrYC_JSGvLz3rSU0OJegCm2Gl-do6CzkHwJrwxXCmtbmZq1IN5ymzvCdi52dQr2NK7m76lnWv5_UVC1K-0hghIcwxj5lA7nauBLX2gFa-ZiRBLh8fuGZFXvVXfmFZ7nmt2ODj9SEqODC_T911HGZ5OGl9xR-8pZxXcE3ECatogUn3VL3Gg",
+            "q": "Quantitative Analyst (Quant) since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9oGLLJIhG6sNGEYpv6cjJfMAh359OcnS76b6kJUNDcVqYiWZevm8OQq4sPcvn9-b7BbdrAWMX3Un52zVfiusIYFX96vsmZ9X6E9b7xDxR5G11S-C2NRfFwU1qrMLvB8-FFYjD1qExT3brI55LakQSyrYC_JSGvLz3rSU0OJegCm2Gl-do6CzkHwJrwxXCmtbmZq1IN5ymzvCdi52dQr2NK7m76lnWv5_UVC1K-0hghIcwxj5lA7nauBLX2gFa-ZiRBLh8fuGZFXvVXfmFZ7nmt2ODj9SEqODC_T911HGZ5OGl9xR-8pZxXcE3ECatogUn3VL3Gg&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9oGLLJIhG6sNGEYpv6cjJfMAh359OcnS76b6kJUNDcVqYiWZevm8OQq4sPcvn9-b7BbdrAWMX3Un52zVfiusIYFX96vsmZ9X6E9b7xDxR5G11S-C2NRfFwU1qrMLvB8-FFYjD1qExT3brI55LakQSyrYC_JSGvLz3rSU0OJegCm2Gl-do6CzkHwJrwxXCmtbmZq1IN5ymzvCdi52dQr2NK7m76lnWv5_UVC1K-0hghIcwxj5lA7nauBLX2gFa-ZiRBLh8fuGZFXvVXfmFZ7nmt2ODj9SEqODC_T911HGZ5OGl9xR-8pZxXcE3ECatogUn3VL3Gg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDbI1Ph8EuzxhSKQrlkjZ-v_ywSQZvyLv93s_tLeLFLQ2dgKWRsCrOPHyNQQQqV6oWMOI6dWST-ljXcyeF-Nn7SKzV6s34IjQyh9KZnSLkVskkLZItnwS38KAiwilNprnPb5Z3nH2t82ahPcWWx5M8IP6dSsTa-3l0hCtP8xU28QmWvvSksyh50G1JUUIkYJP2_D1C3vZTi_jE-baEB5fNgEZ9B1aejoA3Yb7WDk1ziULi1A6xTalTS4IOI1y7wD79eZBLRtC1PeVergG6IwDgV08tmg6SAyVrMeFrGkI_RbW5e1ES8ymmGAqwdNg6LC-SjjScA",
+            "q": "Quantitative Analyst (Quant) in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDbI1Ph8EuzxhSKQrlkjZ-v_ywSQZvyLv93s_tLeLFLQ2dgKWRsCrOPHyNQQQqV6oWMOI6dWST-ljXcyeF-Nn7SKzV6s34IjQyh9KZnSLkVskkLZItnwS38KAiwilNprnPb5Z3nH2t82ahPcWWx5M8IP6dSsTa-3l0hCtP8xU28QmWvvSksyh50G1JUUIkYJP2_D1C3vZTi_jE-baEB5fNgEZ9B1aejoA3Yb7WDk1ziULi1A6xTalTS4IOI1y7wD79eZBLRtC1PeVergG6IwDgV08tmg6SAyVrMeFrGkI_RbW5e1ES8ymmGAqwdNg6LC-SjjScA&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDbI1Ph8EuzxhSKQrlkjZ-v_ywSQZvyLv93s_tLeLFLQ2dgKWRsCrOPHyNQQQqV6oWMOI6dWST-ljXcyeF-Nn7SKzV6s34IjQyh9KZnSLkVskkLZItnwS38KAiwilNprnPb5Z3nH2t82ahPcWWx5M8IP6dSsTa-3l0hCtP8xU28QmWvvSksyh50G1JUUIkYJP2_D1C3vZTi_jE-baEB5fNgEZ9B1aejoA3Yb7WDk1ziULi1A6xTalTS4IOI1y7wD79eZBLRtC1PeVergG6IwDgV08tmg6SAyVrMeFrGkI_RbW5e1ES8ymmGAqwdNg6LC-SjjScA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqFRtCpv50_Z2feqXsBPh7k-f9Xqrslla5saKGSGrtHAwQIKt0pMJYo53Iw9exvb8Qa9wWUOQlwZRsOqBnozqoEMSrx2GWosl4NbMuimqhEXxF8N3NIWAnSuJhL70sTBpuoUb2RQ6fQOuujvPHZp7YngakGUikAwttKyAhwNJP2Ek8RB0fHdLfUi_kbcTXueX7QfWULZMR51CPiwBuvARu3UWPgApAsPeebgvC5GIfmWsWf6koj9KtPCzVLFoyO892AZd4K8ZdfGIyKG22y2t8G3fNMVdRvCSdD38RnWMu1tJLwC_e-mGCX6KRhzkqmZOR7XNQZg",
+            "q": "Quantitative Analyst (Quant) in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqFRtCpv50_Z2feqXsBPh7k-f9Xqrslla5saKGSGrtHAwQIKt0pMJYo53Iw9exvb8Qa9wWUOQlwZRsOqBnozqoEMSrx2GWosl4NbMuimqhEXxF8N3NIWAnSuJhL70sTBpuoUb2RQ6fQOuujvPHZp7YngakGUikAwttKyAhwNJP2Ek8RB0fHdLfUi_kbcTXueX7QfWULZMR51CPiwBuvARu3UWPgApAsPeebgvC5GIfmWsWf6koj9KtPCzVLFoyO892AZd4K8ZdfGIyKG22y2t8G3fNMVdRvCSdD38RnWMu1tJLwC_e-mGCX6KRhzkqmZOR7XNQZg&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqFRtCpv50_Z2feqXsBPh7k-f9Xqrslla5saKGSGrtHAwQIKt0pMJYo53Iw9exvb8Qa9wWUOQlwZRsOqBnozqoEMSrx2GWosl4NbMuimqhEXxF8N3NIWAnSuJhL70sTBpuoUb2RQ6fQOuujvPHZp7YngakGUikAwttKyAhwNJP2Ek8RB0fHdLfUi_kbcTXueX7QfWULZMR51CPiwBuvARu3UWPgApAsPeebgvC5GIfmWsWf6koj9KtPCzVLFoyO892AZd4K8ZdfGIyKG22y2t8G3fNMVdRvCSdD38RnWMu1tJLwC_e-mGCX6KRhzkqmZOR7XNQZg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTe0pCZjlH4EDz1A2B65cgDg4-FNGMB2LitaCH9xbupJ206z56iZiEJkktqF2o7wmByU4SFhx7keBXoOPrjw9GNDOCae8z0wwG01uxCHtYgW05fMdQlCxhZyThJ22E48R8u0vRJ8_llcztIHOedreJXskDIpYpm0IjdZOhLyhNki4xHrPNwHvEhdkoneCvXxpohXfmXSEik3Ws9VeO1zW07Dme0fBcdOEuu15kuilGEWu6CngERtSooYnDpeCHoqccts1WQDk3NNeguPfzlB5lsWOb-fll-4FE9Y_ii8Hlu7TeKJmEE0peFVUHRSFsBexuh771zw",
+            "q": "Quantitative Analyst (Quant) in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTe0pCZjlH4EDz1A2B65cgDg4-FNGMB2LitaCH9xbupJ206z56iZiEJkktqF2o7wmByU4SFhx7keBXoOPrjw9GNDOCae8z0wwG01uxCHtYgW05fMdQlCxhZyThJ22E48R8u0vRJ8_llcztIHOedreJXskDIpYpm0IjdZOhLyhNki4xHrPNwHvEhdkoneCvXxpohXfmXSEik3Ws9VeO1zW07Dme0fBcdOEuu15kuilGEWu6CngERtSooYnDpeCHoqccts1WQDk3NNeguPfzlB5lsWOb-fll-4FE9Y_ii8Hlu7TeKJmEE0peFVUHRSFsBexuh771zw&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTe0pCZjlH4EDz1A2B65cgDg4-FNGMB2LitaCH9xbupJ206z56iZiEJkktqF2o7wmByU4SFhx7keBXoOPrjw9GNDOCae8z0wwG01uxCHtYgW05fMdQlCxhZyThJ22E48R8u0vRJ8_llcztIHOedreJXskDIpYpm0IjdZOhLyhNki4xHrPNwHvEhdkoneCvXxpohXfmXSEik3Ws9VeO1zW07Dme0fBcdOEuu15kuilGEWu6CngERtSooYnDpeCHoqccts1WQDk3NNeguPfzlB5lsWOb-fll-4FE9Y_ii8Hlu7TeKJmEE0peFVUHRSFsBexuh771zw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9oGLLJIhG6sNGEYpv6cjJfMAh359OcnS76b6kJUNDcVqYiWZevm8OQq4sPcvn9-b7BbdrAWMX3Un52zVfiusIYFX96vsmZ9X6E9b7xDxR5G11S-C2NRfFwU1qrMLvB8-FFYjD1qExT3brI55LakQSyrYC_JSGvLz3rSU0OJegCm2Gl-do6CzkHwJrwxXCmtbmZq1IN5ymzvCdi52dQr2NK7m76lnWv5_UVC1K-0hghIcwxj5lA7nauBLX2gFa-ZiRBLh8fuGZFXvVXfmFZ7nmt2ODj9SEqODC_T911HGZ5OGl9xR-8pZxXcE3ECatogUn3VL3Gg",
+            "q": "Quantitative Analyst (Quant) since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9oGLLJIhG6sNGEYpv6cjJfMAh359OcnS76b6kJUNDcVqYiWZevm8OQq4sPcvn9-b7BbdrAWMX3Un52zVfiusIYFX96vsmZ9X6E9b7xDxR5G11S-C2NRfFwU1qrMLvB8-FFYjD1qExT3brI55LakQSyrYC_JSGvLz3rSU0OJegCm2Gl-do6CzkHwJrwxXCmtbmZq1IN5ymzvCdi52dQr2NK7m76lnWv5_UVC1K-0hghIcwxj5lA7nauBLX2gFa-ZiRBLh8fuGZFXvVXfmFZ7nmt2ODj9SEqODC_T911HGZ5OGl9xR-8pZxXcE3ECatogUn3VL3Gg&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9oGLLJIhG6sNGEYpv6cjJfMAh359OcnS76b6kJUNDcVqYiWZevm8OQq4sPcvn9-b7BbdrAWMX3Un52zVfiusIYFX96vsmZ9X6E9b7xDxR5G11S-C2NRfFwU1qrMLvB8-FFYjD1qExT3brI55LakQSyrYC_JSGvLz3rSU0OJegCm2Gl-do6CzkHwJrwxXCmtbmZq1IN5ymzvCdi52dQr2NK7m76lnWv5_UVC1K-0hghIcwxj5lA7nauBLX2gFa-ZiRBLh8fuGZFXvVXfmFZ7nmt2ODj9SEqODC_T911HGZ5OGl9xR-8pZxXcE3ECatogUn3VL3Gg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDbI1Ph8EuzxhSKQrlkjZ-v_ywSQZvyLv93s_tLeLFLQ2dgKWRsCrOPHyNQQQqV6oWMOI6dWST-ljXcyeF-Nn7SKzV6s34IjQyh9KZnSLkVskkLZItnwS38KAiwilNprnPb5Z3nH2t82ahPcWWx5M8IP6dSsTa-3l0hCtP8xU28QmWvvSksyh50G1JUUIkYJP2_D1C3vZTi_jE-baEB5fNgEZ9B1aejoA3Yb7WDk1ziULi1A6xTalTS4IOI1y7wD79eZBLRtC1PeVergG6IwDgV08tmg6SAyVrMeFrGkI_RbW5e1ES8ymmGAqwdNg6LC-SjjScA",
+            "q": "Quantitative Analyst (Quant) in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDbI1Ph8EuzxhSKQrlkjZ-v_ywSQZvyLv93s_tLeLFLQ2dgKWRsCrOPHyNQQQqV6oWMOI6dWST-ljXcyeF-Nn7SKzV6s34IjQyh9KZnSLkVskkLZItnwS38KAiwilNprnPb5Z3nH2t82ahPcWWx5M8IP6dSsTa-3l0hCtP8xU28QmWvvSksyh50G1JUUIkYJP2_D1C3vZTi_jE-baEB5fNgEZ9B1aejoA3Yb7WDk1ziULi1A6xTalTS4IOI1y7wD79eZBLRtC1PeVergG6IwDgV08tmg6SAyVrMeFrGkI_RbW5e1ES8ymmGAqwdNg6LC-SjjScA&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDbI1Ph8EuzxhSKQrlkjZ-v_ywSQZvyLv93s_tLeLFLQ2dgKWRsCrOPHyNQQQqV6oWMOI6dWST-ljXcyeF-Nn7SKzV6s34IjQyh9KZnSLkVskkLZItnwS38KAiwilNprnPb5Z3nH2t82ahPcWWx5M8IP6dSsTa-3l0hCtP8xU28QmWvvSksyh50G1JUUIkYJP2_D1C3vZTi_jE-baEB5fNgEZ9B1aejoA3Yb7WDk1ziULi1A6xTalTS4IOI1y7wD79eZBLRtC1PeVergG6IwDgV08tmg6SAyVrMeFrGkI_RbW5e1ES8ymmGAqwdNg6LC-SjjScA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqFRtCpv50_Z2feqXsBPh7k-f9Xqrslla5saKGSGrtHAwQIKt0pMJYo53Iw9exvb8Qa9wWUOQlwZRsOqBnozqoEMSrx2GWosl4NbMuimqhEXxF8N3NIWAnSuJhL70sTBpuoUb2RQ6fQOuujvPHZp7YngakGUikAwttKyAhwNJP2Ek8RB0fHdLfUi_kbcTXueX7QfWULZMR51CPiwBuvARu3UWPgApAsPeebgvC5GIfmWsWf6koj9KtPCzVLFoyO892AZd4K8ZdfGIyKG22y2t8G3fNMVdRvCSdD38RnWMu1tJLwC_e-mGCX6KRhzkqmZOR7XNQZg",
+            "q": "Quantitative Analyst (Quant) in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqFRtCpv50_Z2feqXsBPh7k-f9Xqrslla5saKGSGrtHAwQIKt0pMJYo53Iw9exvb8Qa9wWUOQlwZRsOqBnozqoEMSrx2GWosl4NbMuimqhEXxF8N3NIWAnSuJhL70sTBpuoUb2RQ6fQOuujvPHZp7YngakGUikAwttKyAhwNJP2Ek8RB0fHdLfUi_kbcTXueX7QfWULZMR51CPiwBuvARu3UWPgApAsPeebgvC5GIfmWsWf6koj9KtPCzVLFoyO892AZd4K8ZdfGIyKG22y2t8G3fNMVdRvCSdD38RnWMu1tJLwC_e-mGCX6KRhzkqmZOR7XNQZg&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqFRtCpv50_Z2feqXsBPh7k-f9Xqrslla5saKGSGrtHAwQIKt0pMJYo53Iw9exvb8Qa9wWUOQlwZRsOqBnozqoEMSrx2GWosl4NbMuimqhEXxF8N3NIWAnSuJhL70sTBpuoUb2RQ6fQOuujvPHZp7YngakGUikAwttKyAhwNJP2Ek8RB0fHdLfUi_kbcTXueX7QfWULZMR51CPiwBuvARu3UWPgApAsPeebgvC5GIfmWsWf6koj9KtPCzVLFoyO892AZd4K8ZdfGIyKG22y2t8G3fNMVdRvCSdD38RnWMu1tJLwC_e-mGCX6KRhzkqmZOR7XNQZg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTe0pCZjlH4EDz1A2B65cgDg4-FNGMB2LitaCH9xbupJ206z56iZiEJkktqF2o7wmByU4SFhx7keBXoOPrjw9GNDOCae8z0wwG01uxCHtYgW05fMdQlCxhZyThJ22E48R8u0vRJ8_llcztIHOedreJXskDIpYpm0IjdZOhLyhNki4xHrPNwHvEhdkoneCvXxpohXfmXSEik3Ws9VeO1zW07Dme0fBcdOEuu15kuilGEWu6CngERtSooYnDpeCHoqccts1WQDk3NNeguPfzlB5lsWOb-fll-4FE9Y_ii8Hlu7TeKJmEE0peFVUHRSFsBexuh771zw",
+            "q": "Quantitative Analyst (Quant) in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhWWviDZWrfU0-mpX5tcPpAhc9T4w:1793395121733&q=Quantitative+Analyst+(Quant)+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTe0pCZjlH4EDz1A2B65cgDg4-FNGMB2LitaCH9xbupJ206z56iZiEJkktqF2o7wmByU4SFhx7keBXoOPrjw9GNDOCae8z0wwG01uxCHtYgW05fMdQlCxhZyThJ22E48R8u0vRJ8_llcztIHOedreJXskDIpYpm0IjdZOhLyhNki4xHrPNwHvEhdkoneCvXxpohXfmXSEik3Ws9VeO1zW07Dme0fBcdOEuu15kuilGEWu6CngERtSooYnDpeCHoqccts1WQDk3NNeguPfzlB5lsWOb-fll-4FE9Y_ii8Hlu7TeKJmEE0peFVUHRSFsBexuh771zw&udm=8&sa=X&ved=2ahUKEwi9yLC51eKXAxXInCsGHZ7ICBsQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Quantitative+Analyst+%28Quant%29+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTe0pCZjlH4EDz1A2B65cgDg4-FNGMB2LitaCH9xbupJ206z56iZiEJkktqF2o7wmByU4SFhx7keBXoOPrjw9GNDOCae8z0wwG01uxCHtYgW05fMdQlCxhZyThJ22E48R8u0vRJ8_llcztIHOedreJXskDIpYpm0IjdZOhLyhNki4xHrPNwHvEhdkoneCvXxpohXfmXSEik3Ws9VeO1zW07Dme0fBcdOEuu15kuilGEWu6CngERtSooYnDpeCHoqccts1WQDk3NNeguPfzlB5lsWOb-fll-4FE9Y_ii8Hlu7TeKJmEE0peFVUHRSFsBexuh771zw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Quantitative Analyst",
+      "company_name": "The D. E. Shaw Group",
+      "location": "New York, NY",
+      "via": "The D. E. Shaw Group",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=rI8z_HoRsG9Q23pZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLvQrCMBAAYFz7CE43OPmTiOCik6AUHAqiS6dyLUdTjbmQu9r6Fj6ydPm2L_vNstWtx6CdonYfglNA_xWFDVy5BiFMjQMOkDO3nuZHpxrlYK2IN61MqTENvy0Hqnm0T65lohKHiaJHpWq3344mhna5eDiCs4GLgbvDAfLEfYQuQEEDlJxeayjKP7_HIvCTAAAA&shmds=v1_Ac3VAoxuF0TIb6NHTHCWNhHlw6GRXAhobnT5_gTPs39rTr-92A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=rI8z_HoRsG9Q23pZAAAAAA%3D%3D",
+      "extensions": [
+        "7 hours ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.deshaw.com/careers/quantitative-analyst-2636",
+      "job_title": "Quantitative Analyst",
+      "description": "Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading strategies. They utilize their creativity and innovation to create novel approaches to trade profitably in markets around the globe with a firm that offers a collegial, collaborative, and engaging working environment.",
+      "apply_options": [
+        {
+          "title": "The D. E. Shaw Group",
+          "link": "https://www.deshaw.com/careers/quantitative-analyst-2636?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlRoZSBELiBFLiBTaGF3IEdyb3VwIiwiaHRpZG9jaWQiOiJySTh6X0hvUnNHOVEyM3BaQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1ZvM1lrWnFXbFpqUXkwd1FUazBTamRIVG1aMVdXZFJjWFJpTkVkdWFraHFWSGt6TFdjNFpUWnJNR2hLVmpOV05VSmpSMGxqUkZCNmJXUTVTak5wZDJkV01IcDVTalZNUzI0d1gwZFpZbFZ2UjNSTVNHOVFUVUZEV2pOaE1HUlhhWHA2TkRSRVUxRjNhVFUyVGtVeVRFWlBObTVNTTJvNFoyNWlXRlJrWkZwMlZHVnJURmdTRjNOUmJteGhkakp5VEUxcE5YSjFSVkJ1Y0VkcU1rRkZHaUpCU0U0d1JUZElVazl1UWtrd2NsTm9hRTFHUVRONE1IbHBWamRpWkZGRlFtcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJySTh6X0hvUnNHOVEyM3BaQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Quantitative Analyst - Global Finance",
+      "company_name": "Capital One",
+      "location": "McLean, VA",
+      "via": "Capital One Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Deep understanding of quantitative modeling in relation to finance, capital markets, derivatives and investment portfolio modeling principles",
+            "Extensive experience in Python or other object-oriented language",
+            "Ability to clearly communicate modeling results to a wide range of audiences",
+            "Drive to develop and maintain high quality and transparent model documentation",
+            "Strong written and verbal communication skills",
+            "Strong presentation skills",
+            "Ability to fully own the model development process: from conceptualization through data exploration, model selection, validation, deployment, business user training, and monitoring",
+            "Currently has, or is in the process of obtaining one of the following with an exception that the required degree will be obtained on or before the scheduled start date:",
+            "A Master’s degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 1 year of experience in quantitative analytics",
+            "At least 1 year of experience in each of the following skills through education or experience:",
+            "Statistical or econometric modeling",
+            "Linear and logistic regression",
+            "Programming in R, Python or SQL",
+            "Presenting statistical concepts and research results to non-statistical audience",
+            "At least 1 year of experience in at least 3 of the following skills:",
+            "Survival analysis modeling",
+            "Time-series analysis",
+            "Panel data (longitudinal data or cross-sectional time-series data) analysis",
+            "Cross-sectional data analysis",
+            "Machine learning",
+            "Analysis and management of large datasets (>1M records)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "McLean, VA: $135,600 - $154,800 for Sr Assoc,Quantitative Analysis",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Partner with the various lines of business to develop and enhance Capital Markets modeling and analytical framework, such as derivatives models and fixed income models",
+            "Work across Capital One entities to create novel analytical solutions to challenging business problems",
+            "Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies",
+            "Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data",
+            "Identify opportunities to apply quantitative methods or machine learning to improve business performance",
+            "Apply deep expertise in mathematics, statistical and machine learning methods to generate critical insights and decision frameworks for our business and customers",
+            "Providing technical guidance to business leadership",
+            "Communicate technical subject matter clearly and concisely to individuals from various backgrounds",
+            "Understand and navigate Risk Management Software to enable business analysis"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=HulA-K-bB9m0MxobAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0f6HSzaCOCi06lYEEUEcG1XMLRROJd6EWpH-O_2i5veMN7xW9W1HfiID3c3sg5ZMzhQ1Axxq9mWEMTxWKEY2BkR6M4iQUl7J0HYWhEukiLg8856d4Y1Vh2OlVc6eRlhMnKYJ5idUKrHntKETO1291mKBN3y3mNaRxHuDJBYLi4MyGv4FH9AYGup5-gAAAA&shmds=v1_Ac3VAoxADimV2WMPG3IS-Kx3ezgp9zOyLwAZoF3Njtbx1yhLHQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=HulA-K-bB9m0MxobAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAulBMVEX____QMCeBl60APHIARnQAOm_6___MAADPLSPOJxzWfnqUpriltMMANm2Hm7AAOGzW3eBsh6Hr5uXkz83kurjiqKbgl5TQZF7JSULIGwjMNi3MWVPbiYbiravy8fDjyMbmpKLplZPZb2rEAADOPTXUFADOIRXPravQop_hv77o3dzRVE7URT7PSEFhf5vN1N2xv8kALWgXVHw3ZYgAHWJIb5KvydcsXYW_y9MARnoAEGBRdpT77usAKWsSXyrgAAABtElEQVRIie2TbXeaMBSALxCkmhcSKbW4Le1WcRVbCSAlLPP__60FnD21053Zr-M5HA653Ce5uQGAgYGBgbOMptF1fDOZ3TpJEATJ_NPnL9O_G_Lu_uu3-UPizBcL5yFI0-WVY7kaL9NFdkaJVt8f7-NVJkdvg_E67VUrByekaRadLSV7-m2O_2WTbxklvZdeXyrCpFtyObnYg-duvQ94Ueo4QXwYSeJu3Pw4g2B7OzSJu91IcaJvluMkOuTgoijdCh-LDAPeHmKECpC1fRAv69nrCSnqkf5tWRSIyIaxsuJ5zdwWUWLaglaShQSQ7JK2r1UCNKjZ1wOg_Ur7jSReTSgD6skuuAlV5Wld90k7XYJqJWBbQIvQfh9NZXxMqILcN3YN6VFQGySQJ-0UbF_2DxAaaqjAXrrwkCtUSJWsQ5tZElTkjc9VaPQuBB1SSQtw--3oigsAoxjvhpyZquZaCIIFb1ti7KQbAVoosN22cS7YT2U6EXHMQRN7A3ncTLnbwgniNRgC0uRQAriYGE7eizn_U8tm3dHZU9x3k3PI1anp3_N4-RfdEa0-pMGZX31gYOA_5xf6NykxV_fD-gAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.capitalonecareers.com/job/mclean/senior-quantitative-analyst-global-finance/1732/101043340432",
+      "job_title": "Senior Quantitative Analyst - Global Finance",
+      "description": "Senior Quantitative Analyst - Global Finance\n\n\n\n\n\nAt Capital One data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.\n\n\nAs a Quantitative Analyst at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in cloud computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.\n\n\nThis position offers a unique opportunity to be a part of the modeling and quantitative analytics team in the dynamic Capital Markets & Analytics (CMA) organization at Capital One. The CMA organization has been on a technology journey seeking to find ways to leverage technology to drive deeper market insights, manage financial risks and make the complex simple.  We are looking for candidates to help in our journey with modeling, analytical and model implementation skills.\n\n\nResponsibilities and Skills:\n\n- Partner with the various lines of business to develop and enhance Capital Markets modeling and analytical framework, such as  derivatives models and fixed income models.\n\n- Work across Capital One entities to create novel analytical solutions to challenging business problems.\n\n- Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies.\n\n- Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data.\n\n- Identify opportunities to apply quantitative methods or machine learning to improve business performance.\n\n- Apply deep expertise in mathematics, statistical and machine learning methods to generate critical insights and decision frameworks for our business and customers.\n\n- Providing technical guidance to business leadership.\n\n- Communicate technical subject matter clearly and concisely to individuals from various backgrounds.\n\n- Understand and navigate Risk Management Software to enable business analysis.\n \n\nExpertise in quantitative analysis is central to our success in all markets. Our modelers thrive in a culture of mutual respect, excellence and innovation. \n\n\nSuccessful candidates would possess: \n\n- Deep understanding of quantitative modeling in relation to finance, capital markets, derivatives and investment portfolio modeling principles.\n\n- Extensive experience in Python or other object-oriented language.\n\n- Ability to clearly communicate modeling results to a wide range of audiences.\n\n- Drive to develop and maintain high quality and transparent model documentation. \n\n- Strong written and verbal communication skills.\n\n- Strong presentation skills. \n\n- Ability to fully own the model development process: from conceptualization through data exploration, model selection, validation, deployment, business user training, and monitoring.\n \n\nBasic Qualifications:\n\nCurrently has, or is in the process of obtaining one of the following with an exception that the required degree will be obtained on or before the scheduled start date:A Master’s degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 1 year of experience in quantitative analyticsAt least 1 year of experience in each of the following skills through education or experience:Statistical or econometric modelingLinear and logistic regressionProgramming in R, Python or SQLPresenting statistical concepts and research results to non-statistical audienceAt least 1 year of experience in at least 3 of the following skills:Survival analysis modelingTime-series analysisPanel data (longitudinal data or cross-sectional time-series data) analysisCross-sectional data analysisMachine learningAnalysis and management of large datasets (>1M records)\nPreferred Qualifications:\n\n2 years of experience with Python, R or other statistical analyst software\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\n\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n\n\nMcLean, VA: $135,600 - $154,800 for Sr Assoc,Quantitative Analysis\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\n\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\n\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\n\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\n\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\n\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\n\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\n\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "apply_options": [
+        {
+          "title": "Capital One Careers",
+          "link": "https://www.capitalonecareers.com/job/mclean/senior-quantitative-analyst-global-finance/1732/101043340432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=196333b7e84ce797&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Capital-One/Job/Senior-Quantitative-Analyst-Global-Finance/-in-Mclean,VA?jid=b506a6f73cc99056&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-quantitative-analyst-global-finance-mclean-va--1ea46d24-f9a1-4ec6-8f8f-c45202f2a64b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-quantitative-analyst-global-finance_7ea1accf7e0df2fab6434f29e42a5cee4796c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Muse",
+          "link": "https://www.themuse.com/jobs/capitalone/senior-quantitative-analyst-global-finance-1e6743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EQuest Jobs",
+          "link": "https://jobs.equest.com/jobs/VA/capital-one/senior-quantitative-analyst-global-finance-489099512.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/senior-quantitative-analyst-global-finance--mclean--ec245dfc9fdb0e7dab7a1adcf0fd837c1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUXVhbnRpdGF0aXZlIEFuYWx5c3QgLSBHbG9iYWwgRmluYW5jZSIsImNvbXBhbnlfbmFtZSI6IkNhcGl0YWwgT25lIiwiaHRpZG9jaWQiOiJIdWxBLUstYkI5bTBNeG9iQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtKeWVEQnZSR1pqU1hwbmVEa3diMVJzVGxrd2RXUlFkVFpmWVhkclNtTlFUV3RyWWpSb2JYTmZOVk50TmpSWmFISm1VVEJGWTFKTWQwNDVjMDF6WkZOck4ybzJiamRzZERGVmExaGtVRXRvZDBsa1RISjZOVzlyVUVsRFoxOHhMVzR4UVdKR1pIbHRlVzlwYWs4NE9XUmpTMGhEY0U5TWRIcExXRkZYUXpsSlh6SkxXWE1TRjNOUmJteGhkakp5VEUxcE5YSjFSVkJ1Y0VkcU1rRkZHaUpCU0U0d1JUZEdiRk5HUzI1RlZGVjNlbmhKV1ZVMVIxODRRa1pTZWtWeFNGcG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJIdWxBLUstYkI5bTBNeG9iQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Modeling Quantitative Analyst, Cross-Asset Trading Analytics",
+      "company_name": "ExxonMobil",
+      "location": "Spring, TX",
+      "via": "Careers At ExxonMobil",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Master's, or PhD degree in Applied Mathematics, Statistics, Financial Engineering, Physics, Computer Science, Operations Research or a related quantitative discipline",
+            "Strong quantitative and analytical problem-solving skills with the ability to develop practical solutions to complex commercial challenges",
+            "Experience developing quantitative models in commodities or other asset classes either in energy companies, hedge funds or banks",
+            "Strong understanding of probability, stochastic calculus, statistics, optimization techniques and machine learning methodologies",
+            "Experience working with large and complex datasets to generate actionable business insights",
+            "Proficiency in Python ideally or other programming languages such as C++, C#, C or Java",
+            "Experience with quantitative analytics libraries and data science toolsets",
+            "Knowledge of market risk concepts, valuation methodologies, portfolio analytics, and trading performance measurement",
+            "Experience with model validation, back-testing, and analytical governance frameworks",
+            "Ability to communicate technical concepts effectively to both quantitative and non-quantitative stakeholders",
+            "Demonstrated ability to work collaboratively in a fast-paced commercial environment while managing multiple priorities"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Our commitment to you runs deep: our employees grow personally and professionally, with benefits built on our core categories of health, security, finance, and life",
+            "Pension Plan: Enrollment is automatic and at no cost to you",
+            "The basic benefit is a monthly annuity to be paid to you in retirement for the rest of your life",
+            "Savings Plan: You can contribute between 6% and 20% of your pay and are encouraged to enroll right away",
+            "If you contribute at least 6% to your savings plan, the Company will contribute a 7% match",
+            "Workplace Flexibility: We have several programs such as “Flex your Day”, providing ad-hoc flexibility around when and where you work, as well as longer-term programs such as leaves of absence and part-time work",
+            "Comprehensive medical, dental, and vision plans",
+            "Culture of Health: Programs and resources to support your wellbeing",
+            "Employee Health Advisory Program: Provides confidential professional counseling for you and your family, including tools and resources promoting mental health and resiliency at no additional cost to you",
+            "Disability Plan: Income replacement for when you cannot work due to illness or injury occurring on or off the job",
+            "Enrollment is automatic and at no cost to you"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "If successful, you will be an integral part of our Global Trading Analytics organization, supporting commercial and trading activities across energy, environmental, and commodity markets",
+            "We are seeking a highly motivated quantitative analyst with strong modeling and analytical capabilities to develop and enhance quantitative models, models calibration, analytical frameworks, and decision-support tools that enable trading, risk management, and commercial optimization",
+            "In this role, you will work closely with quants, traders, originators, technologists and risk professionals to help the Global Trading organization and business grow",
+            "You will contribute to the development of scalable state-of-the-art quantitative solutions that support commercial decisions in a fast-paced and evolving market environment",
+            "Develop, implement and maintain quantitative models supporting trading, risk management, valuation, and portfolio optimization across multiple energy commodities (Crude Oil, Natural Gas, Power, LNG, Freight etc …)",
+            "Build analytical frameworks to evaluate market fundamentals, price formation, asset relationships, and cross-commodity trading opportunities",
+            "Conduct statistical analysis, time-series modeling, scenario analysis, and forecasting to support commercial decision-making",
+            "Develop and enhance pricing, volatility, correlation, and risk models used by trading, origination and risk management teams",
+            "Partner closely with traders and commercial teams to translate business challenges into quantitative solutions and actionable market insights",
+            "Create and maintain analytical tools, dashboards, and model infrastructure to improve trading efficiency and decision support",
+            "Analyze market behavior and emerging trends across energy, environmental products, freight, foreign exchange, and related financial markets",
+            "Evaluate model performance, conduct back-testing, and implement model enhancements to improve predictive accuracy and commercial value",
+            "Collaborate with technology teams to deploy robust, scalable, and production-ready quantitative solutions",
+            "Communicate complex analytical findings and model outputs to commercial stakeholders in a clear and concise manner",
+            "Contribute to the development of quantitative best practices, analytical methodologies, and model governance standards across the organization"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=_nfGuSzNJJOsHFJiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NsQrCMBRFce0XiNObpW1EcNGpiAhCB2kHt5KkIY3EvJD3lPhPfqTW5S7ncG7xWRRdi6PxLli4PmVgx5Ldy0ATpH8Tl3BMSFQ1RIahT3KczT9kpwkquKACMjLpCTDAGdF6szpMzJH2QhD52tLc1LXGh8BgFGZxR0XzDDTJZKKXbIbtbpPrGOx6ecoZQ4vKeXABuph-nyX0ty_5d9pWrwAAAA&shmds=v1_Ac3VAozqGkzcrc3jOaxbySOS2sAlVIrB5B-A0_6dQdaMFxUCeg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=_nfGuSzNJJOsHFJiAAAAAA%3D%3D",
+      "extensions": [
+        "15 days ago",
+        "Part-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.exxonmobil.com/job/Spring-Modeling-Quantitative-Analyst%2C-Cross-Asset-Trading-Analytics-TX-77389/1411047400/",
+      "job_title": "Modeling Quantitative Analyst, Cross-Asset Trading Analytics",
+      "description": "About us   At ExxonMobil, our vision is to lead in energy innovations that advance modern living while reducing emissions. As one of the world’s largest publicly traded energy and chemical companies, we are powered by a unique and diverse workforce fueled by the pride in what we do and what we stand for.   The success of our Upstream, Product Solutions and Low Carbon Solutions businesses is the result of the talent, curiosity and drive of our people. They bring solutions every day to optimize our strategy in energy, chemicals, lubricants and lower-emissions technologies.    We invite you to bring your ideas to ExxonMobil to help create sustainable solutions that improve quality of life and meet society’s evolving needs. Learn more about our What and our Why and how we can work together.What role you will play in our team   If successful, you will be an integral part of our Global Trading Analytics organization, supporting commercial and trading activities across energy, environmental, and commodity markets. We are seeking a highly motivated quantitative analyst with strong modeling and analytical capabilities to develop and enhance quantitative models, models calibration, analytical frameworks, and decision-support tools that enable trading, risk management, and commercial optimization.   In this role, you will work closely with quants, traders, originators, technologists and risk professionals to help the Global Trading organization and business grow. You will contribute to the development of scalable state-of-the-art quantitative solutions that support commercial decisions in a fast-paced and evolving market environment.  What you will do    Develop, implement and maintain quantitative models supporting trading, risk management, valuation, and portfolio optimization across multiple energy commodities (Crude Oil, Natural Gas, Power, LNG, Freight etc …) Build analytical frameworks to evaluate market fundamentals, price formation, asset relationships, and cross-commodity trading opportunities. Conduct statistical analysis, time-series modeling, scenario analysis, and forecasting to support commercial decision-making. Develop and enhance pricing, volatility, correlation, and risk models used by trading, origination and risk management teams. Partner closely with traders and commercial teams to translate business challenges into quantitative solutions and actionable market insights. Create and maintain analytical tools, dashboards, and model infrastructure to improve trading efficiency and decision support. Analyze market behavior and emerging trends across energy, environmental products, freight, foreign exchange, and related financial markets. Evaluate model performance, conduct back-testing, and implement model enhancements to improve predictive accuracy and commercial value. Collaborate with technology teams to deploy robust, scalable, and production-ready quantitative solutions. Communicate complex analytical findings and model outputs to commercial stakeholders in a clear and concise manner. Contribute to the development of quantitative best practices, analytical methodologies, and model governance standards across the organization.   What you bring    Master's, or PhD degree in Applied Mathematics, Statistics, Financial Engineering, Physics, Computer Science, Operations Research or a related quantitative discipline. Strong quantitative and analytical problem-solving skills with the ability to develop practical solutions to complex commercial challenges. Experience developing quantitative models in commodities or other asset classes either in energy companies, hedge funds or banks. Strong understanding of probability, stochastic calculus, statistics, optimization techniques and machine learning methodologies. Experience working with large and complex datasets to generate actionable business insights. Proficiency in Python ideally or other programming languages such as C++, C#, C or Java. Experience with quantitative analytics libraries and data science toolsets. Knowledge of market risk concepts, valuation methodologies, portfolio analytics, and trading performance measurement. Experience with model validation, back-testing, and analytical governance frameworks. Ability to communicate technical concepts effectively to both quantitative and non-quantitative stakeholders. Demonstrated ability to work collaboratively in a fast-paced commercial environment while managing multiple priorities.    Preferred Qualifications    Advanced degree in a quantitative field. Experience supporting commodity trading, energy markets, environmental products, or financial trading organizations. Experience with derivative pricing, stochastic calculus, Monte Carlo simulation, PDEs, stochastic optimal control and optimization techniques. Knowledge of power, natural gas, crude oil, refined products, LNG, biofuels, carbon markets, freight, or foreign exchange markets. Experience with cloud-based analytics platforms, distributed computing environments, and modern data architectures. Familiarity with software engineering best practices including version control, testing, and model deployment.   Your benefits   An ExxonMobil career is one designed to last. Our commitment to you runs deep: our employees grow personally and professionally, with benefits built on our core categories of health, security, finance, and life.   We offer you:     Pension Plan: Enrollment is automatic and at no cost to you. The basic benefit is a monthly annuity to be paid to you in retirement for the rest of your life  Savings Plan: You can contribute between 6% and 20% of your pay and are encouraged to enroll right away. If you contribute at least 6% to your savings plan, the Company will contribute a 7% match Workplace Flexibility: We have several programs such as “Flex your Day”, providing ad-hoc flexibility around when and where you work, as well as longer-term programs such as leaves of absence and part-time work Comprehensive medical, dental, and vision plans Culture of Health: Programs and resources to support your wellbeing Employee Health Advisory Program: Provides confidential professional counseling for you and your family, including tools and resources promoting mental health and resiliency at no additional cost to you Disability Plan: Income replacement for when you cannot work due to illness or injury occurring on or off the job. Enrollment is automatic and at no cost to you    More information on our Company’s benefits can be found at www.exxonmobilfamily.com.    Please note benefits may be changed from time to time without notice, subject to applicable law.  Stay connected with us   Learn more at our website Follow us on LinkedIN and Instagram Like us on Facebook  Subscribe our channel at YouTube  Alternate Location:     Nothing herein is intended to override the corporate separateness of local entities. Working relationships discussed herein do not necessarily represent a reporting connection, but may reflect a functional guidance, stewardship, or service relationship.    Exxon Mobil Corporation has numerous affiliates, many with names that include ExxonMobil, Exxon, Esso and Mobil. For convenience and simplicity, those terms and terms like corporation, company, our, we and its are sometimes used as abbreviated references to specific affiliates or affiliate groups. Abbreviated references describing global or regional operational organizations and global or regional business lines are also sometimes used for convenience and simplicity. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words like venture, joint venture, partnership, co-venturer, and partner are used to indicate business relationships involving common activities and interests, and those words may not indicate precise legal relationships.",
+      "apply_options": [
+        {
+          "title": "Careers At ExxonMobil",
+          "link": "https://jobs.exxonmobil.com/job/Spring-Modeling-Quantitative-Analyst%2C-Cross-Asset-Trading-Analytics-TX-77389/1411047400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/modeling-quantitative-analyst-cross-asset-trading-analytics-spring-tx--b686d914-7f03-427b-b0ca-be0916bfad38?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/modeling-quantitative-analyst-cross-asset-trading-analytics-spring-tx--8a184823-dd98-4128-9f42-f5108b382503?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/modeling-quantitative-analyst-cross-asset-trading-analytics-at-exxonmobil-4443522199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Exxon-Mobil/Job/Modeling-Quantitative-Analyst,-Cross-Asset-Trading-Analytics/-in-Spring,TX?jid=08e410ebf2792b9e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=8feefdf52b0970f6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-1126373055973666029?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=054ycsmdr1wuq&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNb2RlbGluZyBRdWFudGl0YXRpdmUgQW5hbHlzdCwgQ3Jvc3MtQXNzZXQgVHJhZGluZyBBbmFseXRpY3MiLCJjb21wYW55X25hbWUiOiJFeHhvbk1vYmlsIiwiaHRpZG9jaWQiOiJfbmZHdVN6TkpKT3NIRkppQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtaRVp6VTFiVWh0WDA1Q2RERTNZV0p0VkdkSU56RnNOMlJLVXpaYVRGaExVR2hqVERSbWVHZEVSa2htTmxkS09HVk9SMDQyVUhKc1JuTTNUMGhTYjFOTGJuaDVhWE5HVkVSTGFuSTNPV3hxTlVFM2RFbFZiV05EUTBrNVltTkRNRlF3VFVOdGJWcHFla3RHU25GdVdHVnRkVVZMWDNFelIwaDNTRFZmVmxkUk4wa3RXV29TRjNOUmJteGhkakp5VEUxcE5YSjFSVkJ1Y0VkcU1rRkZHaUpCU0U0d1JUZElkVzlmZFZBemNEazNhMk5IUTNSMk5qVnpUaTFmWjJGSWNqTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJfbmZHdVN6TkpKT3NIRkppQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Intermediate Quantitative Analyst",
+      "company_name": "Columbia Threadneedle Investments",
+      "location": "Boston, MA",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience and Technical Skills",
+            "Bachelor's degree in Mathematics, Statistics, Finance, Economics, or a related field",
+            "Minimum 3 years of direct experience in quantitative investment research, including hands-on development and testing of stock selection signals or alpha models",
+            "Solid grasp of equity markets, factor investing, and portfolio construction, coupled with strong intellectual curiosity",
+            "Deep knowledge of statistical modeling, econometric analysis, and machine learning, with demonstrated ability to apply these techniques to investment problems",
+            "Strong programming proficiency in Python, R, or similar languages, including experience working with large financial datasets",
+            "Advanced problem-solving and critical thinking skills, with the ability to frame research questions, challenge assumptions, and separate robust signals from noise",
+            "Excellent written and verbal communication skills, with the ability to explain technical concepts clearly to both quantitative and fundamental audiences",
+            "Self-directed, with a track record of owning research projects from initial idea through production",
+            "High standards of professionalism and reliability, with keen attention to detail and consistent delivery of accurate work on schedule",
+            "Collaborative working style and strong interest in building a long-term career in quantitative investing",
+            "Applicants must have a valid work authorization that does not now, or in the future, require visa sponsorship for employment in the United States (e.g., H-1B, F-1 CPT, F-1 OPT, TN"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Base Pay Salary",
+            "The estimated base salary for this role is $140,000- $160,000 / year",
+            "We have a pay-for-performance compensation philosophy",
+            "Your initial total compensation may vary based on job-related knowledge, skills, experience, and geographical work location",
+            "In addition, most of our roles are eligible for variable pay in the form of bonus, commissions, and/or long-term incentives depending on the role",
+            "We also have a competitive and comprehensive benefits program that supports all aspects of your health and well-being, including but not limited to vacation time, sick time, 401(k), and health, dental and life insurances"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will research new signals, develop alpha models, and refine our portfolio construction methods",
+            "You will also play a hands-on part in shaping the research and analytics platforms we rely on every day and share ownership of the models we run in production",
+            "Working closely with fundamental analysts and portfolio managers across the globe, you will exchange ideas and insights while broadening your expertise across a wide range of investment approaches",
+            "Research and Model Development",
+            "Contribute to research projects spanning idea generation, data preparation, statistical analysis, and actionable recommendations",
+            "Evaluate innovative techniques for extracting tradable signals from large datasets",
+            "Develop alpha models and refine portfolio construction methodologies",
+            "Production and Monitoring",
+            "Share ownership of implementing and maintaining the team's models in production",
+            "Enhance the team's research infrastructure and analytics platforms",
+            "Monitor and analyze factor and model performance, and conduct due diligence on model output",
+            "Communication and Collaboration",
+            "Collaborate with portfolio managers and fundamental analysts across the firm, exchanging ideas, sharing regular performance insights, and responding to their inquiries",
+            "Present research findings to key stakeholders and develop thought leadership content",
+            "Our employees work in the office at least four (4) days per week, with flexibility to work from home one (1) day per week"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=iERA3PC9hVap7LyOAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE43izYiCKJTdZAKDoJ7SdqjiSR3JXct-kY-pnb5t-8vvoviUJNiTtgFqwiP0ZIGtRomhIps_IjCBm7sQNDm1gMTXJn7iMuTVx3kaIxILHuZUVu2nAwTOn6bFzuZ04i3GYf4_ze7_fZdDtSvzIXjmFyw8PQZbUeIXUSoaULRhKQCgeDMokxruFc_kQR08KsAAAA&shmds=v1_Ac3VAoykcOV38PMphAaIozK6nqyoDVYmDvWynv_Op4rW-23Wew&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=iERA3PC9hVap7LyOAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae509b0e85e6e71ac676b11/images/tUXYddG21tYN_9POLNsznsbARSrXk1Al1YTR_LyYw8k.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/intermediate-quantitative-analyst-at-columbia-threadneedle-investments-4480503991",
+      "job_title": "Intermediate Quantitative Analyst",
+      "description": "About Our Company\n\nWorking at Columbia Threadneedle Investments you'll find growth and career opportunities across all of our businesses.\n\nWe're intentionally built to help you succeed. Our reach is expansive with a Columbia Threadneedle Investments global team of 2,300 people working together. Our capability is diverse with more than 550 investment professionals sharing global perspectives across all major asset classes and markets. Our clients have access to a broad array of investment strategies, and we have the capability to create bespoke solutions matched to clients' specific requirements. Our unwavering focus on our clients and strong financial foundation connects each of our enterprise businesses — Ameriprise Financial, Columbia Threadneedle Investments and RiverSource Insurance and Annuities.\n\nJob Description\n\nColumbia Threadneedle Investments is a global investment firm with teams across North America, Europe, and Asia Pacific. Our Quantitative Equity Research team is looking for a curious, driven Quantitative Analyst to join us. We build and maintain a suite of stock selection models that power both systematic and fundamental strategies throughout the firm. In this role, you will research new signals, develop alpha models, and refine our portfolio construction methods. You will also play a hands-on part in shaping the research and analytics platforms we rely on every day and share ownership of the models we run in production. Working closely with fundamental analysts and portfolio managers across the globe, you will exchange ideas and insights while broadening your expertise across a wide range of investment approaches. If you enjoy solving investment problems with data and want to grow alongside a collaborative team, we would love to hear from you.\n\nResponsibilities\n\nResearch and Model Development\n\nContribute to research projects spanning idea generation, data preparation, statistical analysis, and actionable recommendations\n\nEvaluate innovative techniques for extracting tradable signals from large datasets\n\nDevelop alpha models and refine portfolio construction methodologies\n\nProduction and Monitoring\n\nShare ownership of implementing and maintaining the team's models in production\n\nEnhance the team's research infrastructure and analytics platforms\n\nMonitor and analyze factor and model performance, and conduct due diligence on model output\n\nCommunication and Collaboration\n\nCollaborate with portfolio managers and fundamental analysts across the firm, exchanging ideas, sharing regular performance insights, and responding to their inquiries\n\nPresent research findings to key stakeholders and develop thought leadership content\n\nQualifications\n\nExperience and Technical Skills\n\nBachelor's degree in Mathematics, Statistics, Finance, Economics, or a related field\n\nMinimum 3 years of direct experience in quantitative investment research, including hands-on development and testing of stock selection signals or alpha models\n\nSolid grasp of equity markets, factor investing, and portfolio construction, coupled with strong intellectual curiosity\n\nDeep knowledge of statistical modeling, econometric analysis, and machine learning, with demonstrated ability to apply these techniques to investment problems\n\nStrong programming proficiency in Python, R, or similar languages, including experience working with large financial datasets\n\nAdvanced problem-solving and critical thinking skills, with the ability to frame research questions, challenge assumptions, and separate robust signals from noise\n\nProfessional Attributes\n\nExcellent written and verbal communication skills, with the ability to explain technical concepts clearly to both quantitative and fundamental audiences\n\nSelf-directed, with a track record of owning research projects from initial idea through production\n\nHigh standards of professionalism and reliability, with keen attention to detail and consistent delivery of accurate work on schedule\n\nCollaborative working style and strong interest in building a long-term career in quantitative investing\n\nCFA charterholder or candidate preferred\n\nVisa Sponsorship\n\nApplicants must have a valid work authorization that does not now, or in the future, require visa sponsorship for employment in the United States (e.g., H-1B, F-1 CPT, F-1 OPT, TN\n\nIn-Office Collaboration\n\nWe are a client-centric, relationship-based business. Working together, in-person, is foundational to how we achieve results. By fostering a culture of face-to-face collaboration, idea sharing, productivity and personal connection, we deliver for our stakeholders — clients, advisors, employees and shareholders. Our employees work in the office at least four (4) days per week, with flexibility to work from home one (1) day per week. Some roles may require additional in-office time or different in-office expectations, and specific requirements will be discussed during the hiring process.\n\nBase Pay Salary\n\nThe estimated base salary for this role is $140,000- $160,000 / year. We have a pay-for-performance compensation philosophy. Your initial total compensation may vary based on job-related knowledge, skills, experience, and geographical work location. In addition, most of our roles are eligible for variable pay in the form of bonus, commissions, and/or long-term incentives depending on the role. We also have a competitive and comprehensive benefits program that supports all aspects of your health and well-being, including but not limited to vacation time, sick time, 401(k), and health, dental and life insurances.\n\nFull-Time/Part-Time\n\nFull time\n\nExempt/Non-Exempt\n\nExempt\n\nJob Family Group\n\nInvestment Management\n\nLine of Business\n\nAMINV US Asset Management\n\nColumbia Threadneedle is a people business, and we recognise that our success is due to our talented people, who bring diversity of thought, complementary skills and capabilities. We are committed to fostering an inclusive and performance-based culture where everyone can belong, grow, contribute and realise their potential.\n\nColumbia Threadneedle is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, ancestry, age, physical or mental disability, medical condition, pregnancy, military status, veteran status, genetic information, citizenship, disability status, marital status, family status or any other basis prohibited by law.\n\nWe are committed to fostering an inclusive and accessible recruitment process for individuals with disabilities. If you require a reasonable accommodation to participate in the application or interview process, speak to your recruiter to discuss how we can support you.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/intermediate-quantitative-analyst-at-columbia-threadneedle-investments-4480503991?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/intermediate-quantitative-analyst/11720291?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/intermediate-quantitative-analyst-boston-ameriprise-c5c6154de0dc94f1f9515237a9c0e59c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/intermediate-quantitative-analyst-ameriprise-boston-ma_89405672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/quantitative-analyst_7ea1af14c379fc7397266a1d70b553af0d2d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/intermediate-quantitative-analyst--boston--e4a58d59e640b38c22f5b83c89152060e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/ameriprise/Job/Intermediate-Quantitative-Analyst/-in-Boston,MA?jid=84426035128bc71e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-3110147336325535326?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlcm1lZGlhdGUgUXVhbnRpdGF0aXZlIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJDb2x1bWJpYSBUaHJlYWRuZWVkbGUgSW52ZXN0bWVudHMiLCJodGlkb2NpZCI6ImlFUkEzUEM5aFZhcDdMeU9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbkUyYW5OdU1rZHJiMTl5VTJ3dGIyY3laMFJ5UnpsT01ITTRhRk40TUc5MmJFZG1RVTUwZUVaV0xXZzFTMDkzYkRkNVNHOVZOV054TlVKSFlsVXpkVVppYkUxc05tTlpUM3BOYTA1aWExSm1WM2xtUlVWR1JtUlpUbVZFZVdWTk0yUTVjMFJtY2swd2RHTk1OelpLWVVwYVgwcGhVM0JRZDE5cGNqbHRUVmt3WnpWblJVUVNGM05SYm14aGRqSnlURTFwTlhKMVJWQnVjRWRxTWtGRkdpSkJTRTR3UlRkSFEwWnZOVkpEVUMxaVJrbEJUV2N3T1hwa1ZWaDJiV2hMWlRKUiIsImZjdiI6IjMiLCJmY19pZCI6ImlFUkEzUEM5aFZhcDdMeU9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Quantitative Research Analyst - Intern (US)",
+      "company_name": "Citadel",
+      "location": "New York, NY (+2 others)",
+      "via": "Citadel",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's or master's degree in mathematics, statistics, physics, computer science, or another highly quantitative field",
+            "Strong knowledge of probability and statistics (e.g., machine learning, time-series analysis, pattern recognition, NLP)",
+            "Prior experience working in a data driven research environment",
+            "Experience with translating mathematical models and algorithms into code (Python, R or C++)",
+            "Independent research experience",
+            "Ability to manage multiple tasks and thrive in a fast-paced team environment",
+            "Excellent analytical skills, with strong attention to detail",
+            "Strong written and verbal communication skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In addition to weekly pay, interns may be eligible for a highly competitive sign-on bonus, housing stipend or covered living accommodations, company-sponsored travel, and a variety of on-site benefits, including access to on-site fitness and wellness amenities, catered meals, and social and networking events",
+            "In accordance with applicable law, the base salary range for this role is $4,500 to $5,800 per week"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You’ll get to challenge the impossible in quantitative research by applying sophisticated and complex statistical techniques to financial markets, some of the most complex data sets in the world",
+            "As an intern, you’ll dive into research through an 11-week program that will allow you to collaborate and connect with senior team members",
+            "In addition, you’ll get the opportunity to network and socialize with peers throughout the internship",
+            "Conceptualize valuation strategies, develop, and continuously improve upon mathematical models and help translate algorithms into code",
+            "Back test and implement trading models and signals in a live trading environment",
+            "Use unconventional data sources to drive innovation",
+            "Conduct research and statistical analysis to build and refine monetization systems for trading signals"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=b7p3eGPdWcBN8--6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBBFsc0FBKspVTQrgo1WaiFaBFQsUoVNHJLVdSbsjBqv4mlNwObDg8f70bcXbY5PS-rUqnshnFDQhqKCNVn_EYUp7EkxEAwv51FLB87hrzDBjrn0OFhVqrUsjRHxcSldq4gLfhgmzLkxN86lm0wqG7D2VjGbL2ZNXFM57m_b8yt6cAQJviHlcJ9Akv4AXXGgip0AAAA&shmds=v1_Ac3VAozRMTGEaIjFp5KJiZf61YPoDxysDXTVzyRDv49sDKnLDA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=b7p3eGPdWcBN8--6AAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Internship",
+        "Health insurance"
+      ],
+      "source_link": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+      "job_title": "Quantitative Research Analyst - Intern (US)",
+      "description": "Our mission is to be the most successful investment team in the world. Quantitative Researcher Analysts play a key role in this mission by developing next-generation models and trading approaches for a range of investment strategies. You’ll get to challenge the impossible in quantitative research by applying sophisticated and complex statistical techniques to financial markets, some of the most complex data sets in the world.\n\nAs an intern, you’ll dive into research through an 11-week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.\n\nOur signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your timing preference in the application. \n\nYour Objectives\n\nConceptualize valuation strategies, develop, and continuously improve upon mathematical models and help translate algorithms into code\nBack test and implement trading models and signals in a live trading environment\nUse unconventional data sources to drive innovation\nConduct research and statistical analysis to build and refine monetization systems for trading signals\n\n\nYour Skills & Talents\n\nBachelor's or master's degree in mathematics, statistics, physics, computer science, or another highly quantitative field \nStrong knowledge of probability and statistics (e.g., machine learning, time-series analysis, pattern recognition, NLP)\nPrior experience working in a data driven research environment\n\n\nExperience with translating mathematical models and algorithms into code (Python, R or C++)\nIndependent research experience\nAbility to manage multiple tasks and thrive in a fast-paced team environment\nExcellent analytical skills, with strong attention to detail\nStrong written and verbal communication skills\n\n\nOpportunities available in New York, Greenwich, and Miami.\n\nIn addition to weekly pay, interns may be eligible for a highly competitive sign-on bonus, housing stipend or covered living accommodations, company-sponsored travel, and a variety of on-site benefits, including access to on-site fitness and wellness amenities, catered meals, and social and networking events.\n\n     In accordance with applicable law, the base salary range for this role is $4,500 to $5,800 per week.",
+      "apply_options": [
+        {
+          "title": "Citadel",
+          "link": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/8293324354549186560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/quantitative-research-analyst-intern-us-citadel-greenwich--lifeworq-ee8cd484-837a-42ce-86fd-b2d26fc1a884?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgUmVzZWFyY2ggQW5hbHlzdCAtIEludGVybiAoVVMpIiwiY29tcGFueV9uYW1lIjoiQ2l0YWRlbCIsImh0aWRvY2lkIjoiYjdwM2VHUGRXY0JOOC0tNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdrZFNPV00zY1c1VGNEUldSMm81U2xneWRqWjVPRXBUYVhOTWNUSnZXSEY2T0VkblMzZ3hXRzQxZW1oWk0wTjVlRVZRTTFoM1pWSnJZMlIxYTFkaVExVk9TWEJIZEVOQ1ZtNTVZemRPYWpKbFgwVmlTbWR5TmpaWVdVTlFZM0JzZFV4eFZVeEdkREZhYVU1SU0wbGxURUpMTTI5MWVrSmpTbWsxYTFwSVVXNTZkVFUzT1hBU0YzTlJibXhoZGpKeVRFMXBOWEoxUlZCdWNFZHFNa0ZGR2lKQlNFNHdSVGRIZG1aYWRXOTRVVFJxTW1WbFVqZFRhMVJVY1daelkxbzBSa3AzIiwiZmN2IjoiMyIsImZjX2lkIjoiYjdwM2VHUGRXY0JOOC0tNkFBQUFBQT09In0="
+    },
+    {
+      "title": "Principal Quantitative Analyst - Model Risk Office",
+      "company_name": "Capital One",
+      "location": "McLean, VA",
+      "via": "Capital One Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Deep understanding of quantitative modeling in finance include but not limited to, financial time series model, interest rate term structure, Mortgage Prepayment Model, Market Risk Model, capital markets and investment portfolio modeling principles",
+            "Extensive experience in Python or other object-oriented languages such as C++",
+            "Ability to clearly communicate modeling results to a wide range of audiences",
+            "Drive to develop and maintain high quality and transparent model documentation",
+            "Strong written and verbal communication skills",
+            "Strong presentation skills",
+            "Ability to fully own the model validation process: from conceptualization through data exploration, model selection, benchmarking, deployment, replication, independent testing, effective challenging, and performance monitoring",
+            "Currently has, or is in the process of obtaining one of the following with an exception that the required degree will be obtained on or before the scheduled start date:",
+            "A Master’s degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 3 years of experience in quantitative analytics",
+            "A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)",
+            "At least 3 years of experience in each of the following skills through education or experience:",
+            "Statistical or econometric modeling",
+            "Linear and logistic regression",
+            "Programming in R, Python or SQL",
+            "Presenting statistical concepts and research results to non-statistical audience",
+            "At least 3 years of experience in at least 3 of the following skills:",
+            "Survival analysis modeling",
+            "Time-series analysis",
+            "Panel data (longitudinal data or cross-sectional time-series data) analysis",
+            "Cross-sectional data analysis",
+            "Machine learning",
+            "Analysis and management of large datasets (>1M records)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "McLean, VA: $161,800 - $184,600 for Prin Assoc, Quant Analysis",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Quantitative Analyst within the Model Risk Office, you will be part of the validation team responsible for balance sheet forecasting and economic stress test models used to determine capital requirements for Capital One's balance sheet items, including commercial and consumer loans",
+            "Validations cover all aspects of model development and performance and include forward-looking advancements in modeling capabilities and quality",
+            "Partner with the various lines of business to develop and enhance Capital Markets modeling and analytical framework, such as deposit predictions, derivatives models and fixed income models",
+            "Work across Capital One entities to create novel analytical solutions to challenging business problems",
+            "Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies",
+            "Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data",
+            "Identify opportunities to apply quantitative methods or machine learning to improve business performance",
+            "Apply deep expertise in mathematics, statistical and machine learning methods to generate critical insights and decision frameworks for our business and customers",
+            "Providing technical guidance to business leadership",
+            "Communicate technical subject matter clearly and concisely to individuals from various backgrounds",
+            "Understand and navigate Risk Management Software to enable business analysis",
+            "Able to communicate and socialize with various audience stakeholders about potential findings such as model user, model owner, and model developers"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=wwGrN7A0g_kYiV0XAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ6CQBAAY8sPtNraKGdMbLQiFkYjQS1syXIucHruXtjT4Hv8qNJMMcVM8h0l-1Pn2LqAHs4v5OgiRvcmyBj9RyPMIZcbebg4fUBR187S3x2kAiXsbAvCsBNpPE02bYxB18ao-rTRIWRTK08jTJX05i6VDii1xY6Cx0jlcrXo08DNdLzF8H97KJjAMeT2SMgzuGY_FoQhcKYAAAA&shmds=v1_Ac3VAowXgu6bL5JZv8rxaeF-rB_fvc90fvyvH6TzLgprp68wxQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=wwGrN7A0g_kYiV0XAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAulBMVEX____QMCeBl60APHIARnQAOm_6___MAADPLSPOJxzWfnqUpriltMMANm2Hm7AAOGzW3eBsh6Hr5uXkz83kurjiqKbgl5TQZF7JSULIGwjMNi3MWVPbiYbiravy8fDjyMbmpKLplZPZb2rEAADOPTXUFADOIRXPravQop_hv77o3dzRVE7URT7PSEFhf5vN1N2xv8kALWgXVHw3ZYgAHWJIb5KvydcsXYW_y9MARnoAEGBRdpT77usAKWsSXyrgAAABtElEQVRIie2TbXeaMBSALxCkmhcSKbW4Le1WcRVbCSAlLPP__60FnD21053Zr-M5HA653Ce5uQGAgYGBgbOMptF1fDOZ3TpJEATJ_NPnL9O_G_Lu_uu3-UPizBcL5yFI0-WVY7kaL9NFdkaJVt8f7-NVJkdvg_E67VUrByekaRadLSV7-m2O_2WTbxklvZdeXyrCpFtyObnYg-duvQ94Ueo4QXwYSeJu3Pw4g2B7OzSJu91IcaJvluMkOuTgoijdCh-LDAPeHmKECpC1fRAv69nrCSnqkf5tWRSIyIaxsuJ5zdwWUWLaglaShQSQ7JK2r1UCNKjZ1wOg_Ur7jSReTSgD6skuuAlV5Wld90k7XYJqJWBbQIvQfh9NZXxMqILcN3YN6VFQGySQJ-0UbF_2DxAaaqjAXrrwkCtUSJWsQ5tZElTkjc9VaPQuBB1SSQtw--3oigsAoxjvhpyZquZaCIIFb1ti7KQbAVoosN22cS7YT2U6EXHMQRN7A3ncTLnbwgniNRgC0uRQAriYGE7eizn_U8tm3dHZU9x3k3PI1anp3_N4-RfdEa0-pMGZX31gYOA_5xf6NykxV_fD-gAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "18 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.capitalonecareers.com/job/mclean/principal-quantitative-analyst-model-risk-office/1732/101923347856",
+      "job_title": "Principal Quantitative Analyst - Model Risk Office",
+      "description": "Principal Quantitative Analyst - Model Risk Office\n\n\n\n\n\nAt Capital One data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.\n\n\nAs a Quantitative Analyst at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in cloud computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.\n\n\nAs a Quantitative Analyst within the Model Risk Office, you will be part of the validation team responsible for balance sheet forecasting and economic stress test models used to determine capital requirements for Capital One's balance sheet items, including commercial and consumer loans.  Validations cover all aspects of model development and performance and include forward-looking advancements in modeling capabilities and quality. With a network of over 500 quantitative analysts, data scientists and statisticians, we’ve created a dynamic environment with ample opportunities for learning and growth. \n\n\nResponsibilities and Skills:\n\n- Partner with the various lines of business to develop and enhance Capital Markets modeling and analytical framework, such as deposit predictions, derivatives models and fixed income models.\n\n- Work across Capital One entities to create novel analytical solutions to challenging business problems.\n\n- Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies.\n\n- Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data.\n\n- Identify opportunities to apply quantitative methods or machine learning to improve business performance.\n\n- Apply deep expertise in mathematics, statistical and machine learning methods to generate critical insights and decision frameworks for our business and customers.\n\n- Providing technical guidance to business leadership.\n\n- Communicate technical subject matter clearly and concisely to individuals from various backgrounds.\n\n- Understand and navigate Risk Management Software to enable business analysis.\n  \n\nExpertise in quantitative analysis is central to our success in all markets. Our modelers thrive in a culture of mutual respect, excellence and innovation. \n\n\nSuccessful candidates would possess: \n\n- Deep understanding of quantitative modeling in finance include but not limited to, financial time series model, interest rate term structure, Mortgage Prepayment Model,  Market Risk Model, capital markets and investment portfolio modeling principles.\n\n- Extensive experience in Python or other object-oriented languages such as C++.\n\n- Ability to clearly communicate modeling results to a wide range of audiences.\n\n- Drive to develop and maintain high quality and transparent model documentation. \n\n- Strong written and verbal communication skills.\n\n- Strong presentation skills. \n\n- Ability to fully own the model validation process: from conceptualization through data exploration, model selection, benchmarking, deployment, replication, independent testing, effective challenging, and performance monitoring. Able to communicate and socialize with various audience stakeholders about potential findings such as model user, model owner, and model developers\n \n\nBasic Qualifications:\n\nCurrently has, or is in the process of obtaining one of the following with an exception that the required degree will be obtained on or before the scheduled start date:A Master’s degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 3 years of experience in quantitative analyticsA PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)At least 3 years of experience in each of the following skills through education or experience:Statistical or econometric modelingLinear and logistic regressionProgramming in R, Python or SQLPresenting statistical concepts and research results to non-statistical audienceAt least 3 years of experience in at least 3 of the following skills:Survival analysis modelingTime-series analysisPanel data (longitudinal data or cross-sectional time-series data) analysisCross-sectional data analysisMachine learningAnalysis and management of large datasets (>1M records)\nPreferred Qualifications:\n\n4 years of experience with Python, R or other statistical analyst software4 years of experience manipulating and analyzing large data sets\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\n\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n\n\nMcLean, VA: $161,800 - $184,600 for Prin Assoc, Quant Analysis\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\n\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\n\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\n\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\n\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\n\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\n\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\n\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "apply_options": [
+        {
+          "title": "Capital One Careers",
+          "link": "https://www.capitalonecareers.com/job/mclean/principal-quantitative-analyst-model-risk-office/1732/101923347856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=20f38a0fb4f52fbe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Capital-One/Job/Principal-Quantitative-Analyst-Model-Risk-Office/-in-Mclean,VA?jid=f9eb4d884feb0e14&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/principal-quantitative-analyst-model-risk-mclean-capital-one-06e71b06d386e8891936d594c8543190?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/principal-quantitative-analyst-model-risk-office-mclean-va--b01ffe9b-fe08-4575-865d-b612e13bf5f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/principal-quantitative-analyst-model-risk-office--mclean--ecfd89d5cb3f07325d2b74f35a81bbc07?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/principal-quantitative-analyst-model-risk-office-mclean-va--b01ffe9b-fe08-4575-865d-b612e13bf5f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/principal-quantitative-analyst-model-risk-office/11704686?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgUXVhbnRpdGF0aXZlIEFuYWx5c3QgLSBNb2RlbCBSaXNrIE9mZmljZSIsImNvbXBhbnlfbmFtZSI6IkNhcGl0YWwgT25lIiwiaHRpZG9jaWQiOiJ3d0dyTjdBMGdfa1lpVjBYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtWblZWOXBVM0YxTjNFNWNIbHVkRjlmVlV0UGRUbGpjM2t6YzBvMVZtRmhVbGt5VTJodFZIcEVOelJaYkdSdWMzUlJSMlJEVmpnNGNreHpWamhQV1RBMVdFVktibFJhZWkxbGVGOUpiMjlEUkhkRFdITm5aamxWVUdrMWMyeEZNRWRwUm14Sk1EaEhla1ZETFdaVWVGOHRWbVZYVmtaR1ZIRTVMVEprVGxwV1NGSXhWM01TRjNOUmJteGhkakp5VEUxcE5YSjFSVkJ1Y0VkcU1rRkZHaUpCU0U0d1JUZEdkbmRLUkZoaVdERnhjREZqWjBOUFpscFNhMDlPZWpCNFgwWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ3d0dyTjdBMGdfa1lpVjBYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Quantitative Analyst (Full Time, Hybrid)",
+      "company_name": "City of Austin Employees Retirement System",
+      "location": "Austin, TX",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Work with large datasets for the purpose of data analysis and interpretation",
+            "Conduct research into data analytics and reporting",
+            "Knowledge of statistical analysis, quantitative methods, data modeling, and data visualization techniques",
+            "Ability to use analytical tools and software to evaluate data, identify trends, assess risk, and provide data-driven recommendations that support business decision-making",
+            "Effectively prioritize and execute tasks in a high-pressure environment",
+            "Well organized, with keen attention to detail",
+            "Advanced written and verbal communication skills, including an ability to communicate in both technical and non-technical language",
+            "Contribute to positive work relationships in a team-oriented and collaborative environment",
+            "Bachelor’s degree from an accredited four-year college or university in finance, economics, mathematics, statistics, data science, computer science, or a related quantitative field",
+            "At least three years of experience in investment analysis, quantitative research, asset management, or a related field",
+            "Knowledge of financial markets, securities, portfolio theory, and investment risk management",
+            "Advanced analytical, statistical, and forecasting modeling capabilities",
+            "Proficiency with Python, Excel, SQL, MATLAB, or similar quantitative analysis tools",
+            "Experience working with large datasets and financial databases",
+            "Experience in pension funds, endowments, other institutional LP or public sector environments",
+            "Advanced degree in statistics, data analytics, or similar",
+            "Certificates, Licenses, Registrations",
+            "Valid Texas driver’s license or available alternate means of transportation",
+            "Relevant certifications in data and/or quantitative analysis"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "May require limited travel for training or conferences, as required",
+            "The starting salary will be between $110,000 to $125,000 annually with the actual compensation corresponding to the experience level and credentials of the candidate within the parameters of public sector compensation",
+            "An excellent benefits package is available, including medical, dental, vision, sick and vacation leave as well as a defined benefit retirement plan, which guarantees an income for life once vested",
+            "Parking is provided"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Reporting to the Deputy Chief Investment Officer, the Quantitative Analyst is responsible for applying analytical techniques, financial modeling, and data science methodologies to support COAERS objectives and strategic decision-making",
+            "This role combines data analysis, research, forecasting, and risk assessment to evaluate performance, identify trends, and support optimization initiatives",
+            "You will collaborate with cross-functional teams, leadership, and external partners to provide insights, develop models, and facilitate data-driven recommendations that enhance operational and investment outcomes",
+            "Analyze large and complex financial datasets, including market, economic, fundamental, and alternative data sources",
+            "Conduct statistical analysis of historical information including market performance and investment strategies",
+            "Perform factor analysis and predictive modeling to evaluate investment hypotheses",
+            "Create dashboards, reports, and visualizations that communicate key investment insights and recommendations",
+            "Utilize analytical tools to automate data collection, analysis, and reporting processes",
+            "Risk Management",
+            "Measure portfolio risks using quantitative metrics such as volatility, Value-at-Risk (VaR), tracking error, beta, drawdown, and stress-testing methodologies",
+            "Evaluate the risk-versus-reward profile of existing and proposed investments",
+            "Develop risk models and scenario analyses to assess portfolio resilience under varying market conditions",
+            "Collaborate on portfolio adjustments to improve risk-adjusted returns and align with investment objectives",
+            "Monitor compliance with risk limits and investment guidelines",
+            "Portfolio Analytics and Research",
+            "Support portfolio construction and optimization through quantitative research and modeling",
+            "Conduct performance attribution analysis to identify drivers of investment returns",
+            "Identify portfolio concentrations, correlations, and other exposures that may impact portfolio performance",
+            "Research emerging quantitative techniques, investment factors, and market developments",
+            "Evaluate new data sources and analytical tools that may enhance investment decision-making",
+            "Operational Data Management and Insights",
+            "Design, build, and maintain centralized databases and data warehouses by integrating business applications, cloud platforms, internal databases, and third-party software to support organizational reporting, analytics, and decision-making",
+            "Develop data architecture that integrates information from multiple internal and external systems",
+            "Perform advanced data analysis to identify trends, opportunities, and risks",
+            "Develop dashboards, reports, and interactive visualizations for management and executive leadership",
+            "Translate complex data and collaborate with leadership on action items",
+            "Establish procedures for data validation, cleansing, and quality assurance",
+            "Establish standards for data collection, storage, security, and governance",
+            "Develop, extract, transform, and load processes to consolidate data from disparate systems",
+            "Monitor and troubleshoot data synchronization and integration issues",
+            "Create key performance indicators (KPIs) and performance measurement frameworks",
+            "Develop documentation for databases, data processes, and reporting systems",
+            "Perform work as assigned with executive leadership"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=FNtNs6YbcZg4wuulAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOuwrCQBBFsc0nWE2pEhMRBNFCgvjATk1hF3bjmKzs7oTMRJI_8_NMsLnNORxu8B0Fu2ujvBhRYj4IiVe2Y4HJsbEWUuMwhHOna_OcwhwupIFR1XkJ5OFEVFgcb0uRijdxzGyjgodQHuXkYvKoqY3fpHmYjEtVY2WVYLZcLdqo8sVsvTfSAb0gaViMh4OrLHWIDDcUU6NDL3DvH6GDHv-tENLHD15r9GW7AAAA&shmds=v1_Ac3VAow6syhqwo11koPUznyNcphEO6-dUir9vDN7uRa6a6Rjag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=FNtNs6YbcZg4wuulAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae509b0e85e6e71ac676b11/images/eEqLZM4eDu0sYD0H_3Gfgd7Fb4kdTYFqP0e1X0bI5Bg.jpeg",
+      "extensions": [
+        "7 days ago",
+        "110K–125K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/city-of-austin-employees-retirement-system/Job/Quantitative-Analyst-(Full-Time,-Hybrid)/-in-Austin,TX?jid=5ca863bed0340bc7",
+      "job_title": "Quantitative Analyst (Full Time, Hybrid)",
+      "description": "The City of Austin Employees’ Retirement System (COAERS) mission is to provide our members with their promised benefits. We are driven to be best-in-class, passionate about service excellence, and committed to creating a welcoming environment where everyone can excel by leveraging our skillset, experiences, and backgrounds.\n\n\n\n\nYour Opportunity \n\nReporting to the Deputy Chief Investment Officer, the Quantitative Analyst is responsible for applying analytical techniques, financial modeling, and data science methodologies to support COAERS objectives and strategic decision-making. This role combines data analysis, research, forecasting, and risk assessment to evaluate performance, identify trends, and support optimization initiatives. You will collaborate with cross-functional teams, leadership, and external partners to provide insights, develop models, and facilitate data-driven recommendations that enhance operational and investment outcomes.\n\n\n\n\nYour Main Responsibilities\n\n\n\n\nInvestment Data Analysis \n\n• Analyze large and complex financial datasets, including market, economic, fundamental, and alternative data sources.\n\n• Conduct statistical analysis of historical information including market performance and investment strategies.\n\n• Perform factor analysis and predictive modeling to evaluate investment hypotheses.\n\n• Create dashboards, reports, and visualizations that communicate key investment insights and recommendations.\n\n• Utilize analytical tools to automate data collection, analysis, and reporting processes.\n\n\n\n\nRisk Management\n\n• Measure portfolio risks using quantitative metrics such as volatility, Value-at-Risk (VaR), tracking error, beta, drawdown, and stress-testing methodologies.\n\n• Evaluate the risk-versus-reward profile of existing and proposed investments.\n\n• Develop risk models and scenario analyses to assess portfolio resilience under varying market conditions.\n\n• Collaborate on portfolio adjustments to improve risk-adjusted returns and align with investment objectives.\n\n• Monitor compliance with risk limits and investment guidelines.\n\n\n\n\nPortfolio Analytics and Research\n\n• Support portfolio construction and optimization through quantitative research and modeling.\n\n• Conduct performance attribution analysis to identify drivers of investment returns.\n\n• Identify portfolio concentrations, correlations, and other exposures that may impact portfolio performance.\n\n• Research emerging quantitative techniques, investment factors, and market developments.\n\n• Evaluate new data sources and analytical tools that may enhance investment decision-making.\n\n\n\n\nOperational Data Management and Insights\n\n• Design, build, and maintain centralized databases and data warehouses by integrating business applications, cloud platforms, internal databases, and third-party software to support organizational reporting, analytics, and decision-making.\n\n• Develop data architecture that integrates information from multiple internal and external systems.\n\n• Perform advanced data analysis to identify trends, opportunities, and risks. \n\n• Develop dashboards, reports, and interactive visualizations for management and executive leadership.\n\n• Translate complex data and collaborate with leadership on action items. \n\n• Establish procedures for data validation, cleansing, and quality assurance.\n\n• Establish standards for data collection, storage, security, and governance.\n\n• Develop, extract, transform, and load processes to consolidate data from disparate systems.\n\n• Monitor and troubleshoot data synchronization and integration issues.\n\n• Create key performance indicators (KPIs) and performance measurement frameworks.\n\n• Develop documentation for databases, data processes, and reporting systems.\n\n• Perform work as assigned with executive leadership. \n\n\n\n\nYour Capabilities and Credentials\n\n• Work with large datasets for the purpose of data analysis and interpretation. \n\n• Conduct research into data analytics and reporting.\n\n• Knowledge of statistical analysis, quantitative methods, data modeling, and data visualization techniques.\n\n• Ability to use analytical tools and software to evaluate data, identify trends, assess risk, and provide data-driven recommendations that support business decision-making.\n\n• Effectively prioritize and execute tasks in a high-pressure environment.\n\n• Well organized, with keen attention to detail.\n\n• Advanced written and verbal communication skills, including an ability to communicate in both technical and non-technical language.\n\n• Contribute to positive work relationships in a team-oriented and collaborative environment.\n\n\n\n\nEducation and/or Experience \n\nBachelor’s degree from an accredited four-year college or university in finance, economics, mathematics, statistics, data science, computer science, or a related quantitative field. At least three years of experience in investment analysis, quantitative research, asset management, or a related field. Knowledge of financial markets, securities, portfolio theory, and investment risk management. Advanced analytical, statistical, and forecasting modeling capabilities. Proficiency with Python, Excel, SQL, MATLAB, or similar quantitative analysis tools. Experience working with large datasets and financial databases. \n\n\n\n\nPreferred Qualifications\n\nExperience in pension funds, endowments, other institutional LP or public sector environments. Advanced degree in statistics, data analytics, or similar.\n\n\n\n\nCertificates, Licenses, Registrations \n\nValid Texas driver’s license or available alternate means of transportation. Relevant certifications in data and/or quantitative analysis. Chartered Financial Analyst (CFA) and/or Chartered Alternative Investments Analyst (CAIA) designation, or progress toward obtaining such designation, is preferred.\n\n\n\n\nTravel\n\nMay require limited travel for training or conferences, as required.\n\n\n\n\nCompensation and Benefits\n\nThe starting salary will be between $110,000 to $125,000 annually with the actual compensation corresponding to the experience level and credentials of the candidate within the parameters of public sector compensation. An excellent benefits package is available, including medical, dental, vision, sick and vacation leave as well as a defined benefit retirement plan, which guarantees an income for life once vested. Parking is provided.\n\n\n\n\nWork Location\n\nCOAERS offers a hybrid work schedule, meaning this position will work in an office environment with opportunities to work remotely. During the initial training period (usually 3 months), the work location is in-person Monday through Friday at 4700 Mueller Blvd, Austin TX. After the training period is successfully completed, work is hybrid with three days in-person at 4700 Mueller Blvd, Austin TX and two days per week remote. Work location is subject to change at the supervisor's discretion. \n\n\n\n\nCOAERS is an equal opportunity employer and does not discriminate in employment opportunities or practices on the basis of any characteristic protected by federal law. We are committed to a recruitment process that is accessible. If you require reasonable accommodation during the recruitment process, please indicate this in your application.\n\n\n\n\n\n\n\n\nCompany DescriptionThe City of Austin Employees’ Retirement System (COAERS) mission is to provide our members with their promised benefits. We are driven to be best-in-class, passionate about service excellence, and committed to creating a welcoming environment where everyone can excel by leveraging our skillset, experiences, and backgrounds.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/city-of-austin-employees-retirement-system/Job/Quantitative-Analyst-(Full-Time,-Hybrid)/-in-Austin,TX?jid=5ca863bed0340bc7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/quantitative-analyst-full-time-hybrid--austin--e12072c9daabdfbba9a067b8c92df0b09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/8386345790259331072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgQW5hbHlzdCAoRnVsbCBUaW1lLCBIeWJyaWQpIiwiY29tcGFueV9uYW1lIjoiQ2l0eSBvZiBBdXN0aW4gRW1wbG95ZWVzIFJldGlyZW1lbnQgU3lzdGVtIiwiaHRpZG9jaWQiOiJGTnROczZZYmNaZzR3dXVsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VOMlQwVktPVEZpUjBOUmJHVndkM2hTWlZVdGNqVnRaMWRmU2tOQllXTTVRWFZHVkVWbllURm5PVGxoUWtVdGQxVmFVR2h0U0ZaSFJuZHJXSFJUYkhwRlVuaHVaMGhSYW10b2MwbGlMV1pwWkdwNE9XUjZZMkZ0T1RCcU1tNWFSRXR3YjNsemFrbDBkRVZFVW5GWmQzWkVkVEp6WVRKRFNrWm5ORmhMTlRoVGJGSlNhWGtTRjNOUmJteGhkakp5VEUxcE5YSjFSVkJ1Y0VkcU1rRkZHaUpCU0U0d1JUZEhiVlJJTkVScWRYbExOMmxTVWpWeE9Ib3lZelUyUTFsb2VsOTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJGTnROczZZYmNaZzR3dXVsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Trader/Quant Analyst",
+      "company_name": "Point72",
+      "location": "New York, NY (+1 other)",
+      "via": "Point72 Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are seeking a highly motivated and detail-oriented Trader/Quant Analyst with a strong background in trading and data analysis to join our investment team",
+            "The ideal candidate will have at least 3 years of experience in convertible securities (or equity/FX/rates derivatives), relative value trading strategies, and quant data analysis",
+            "3+ years of experience in convertible bond trading with a quant/programming skillset",
+            "Strong understanding of credit markets, bond math, equity derivatives, and volatility analysis",
+            "Proficiency in modeling convertible securities and scenario analysis",
+            "Familiarity with risk management systems and trading platforms (e.g., Bloomberg, Tradeweb)",
+            "Strong analytical and quantitative data skills; proficiency in Excel and at least one programming language (Python, R, VBA) is required",
+            "Excellent communication skills and ability to work in a fast-paced, team-oriented environment",
+            "Commitment to the highest ethical standards"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The annual base salary for this role is $150,000 (USD) , which does not include discretionary bonus compensation or our comprehensive benefits package",
+            "Actual compensation offered to the successful candidate may vary from posted hiring based upon geographic location, work experience, education, and/or skill level, among other things"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role will combine active trading and risk management and quantitative analysis to identify and execute profitable opportunities in the convertible space",
+            "Identify relative value opportunities between convertible bonds, the underlying equity, and credit derivatives",
+            "Execute trades in convertible securities, related equities, and hedges in alignment with investment theses and risk parameters",
+            "Manage existing positions proactively, assessing changes in valuation, liquidity, and market sentiment",
+            "Conduct in-depth quant data analysis on the convertible bond universe, including historical pricing and valuation",
+            "Model and evaluate convertible securities across multiple scenarios, analyzing risks related to credit, interest rates, volatility, and equity sensitivity",
+            "Build front-office tools to analyze convert universe data for idea generation, trade optimization, and risk management",
+            "Coordinate with the portfolio manager and risk team to size positions appropriately and adhere to pre-defined risk limits",
+            "Track and analyze P&L drivers on a daily basis and provide attribution reports",
+            "Hedge exposures dynamically using equity, credit, and derivative instruments",
+            "Work closely with other analysts, traders, and portfolio managers across strategies to share insights and generate synergies",
+            "Maintain strong relationships with sell-side counterparties and market participants to source information and enhance trade execution"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=3DVlQ5uVgY340ABVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCQAwAYFz7AoJTZn96UhBBJyfBoSi4dCppDXenZ1IuEevsi4vf8BXfSbG4ZrxRdpcXssGBMX3UYAUn6UAJcx9AGI4iPtFsH8wG3Tmnmkqvhhb7spenE6ZORneXTv-1GjDTkNCorTbrsRzYz6dniWzbCiJDTW9oJD-WUDc_YIWDqYYAAAA&shmds=v1_Ac3VAozagBsrhrJHn0OdEab38NUQ5_A8-YtSbN9VkyjSDUNZhA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=3DVlQ5uVgY340ABVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX___8AAADt7e339_e4uLjf39_7-_vy8vLm5ubq6uq-vr7R0dHX19fOzs7i4uLb29s3Nzh6entfX2DGxsasrK2mpqacnJxubm8UFBZWVldnZ2hLS0uKioqAgICysrKQkJFBQUIhISKyz4JRAAACMUlEQVRIib1WaZODIAxNPBDxqvdZ2_3_f3IjWtttoYIf9s04ZJCQkDwSAL7A79pvv_WoEd1TiuxWnrMIWSCHMLbU8xCXwUW0tCx2xcTSZMrk4HIbpWoCNnmQ5XwRzREiCkoHXLAPEGcLzbFzUhwolx70XWjjqy18LFaLSBYLsjiTaGKxWXlmf0Y2CTnONyn6V76IRr6SQUp4wFeR6BakJnoLzwrMATESu2jCHBtFQRyuQ0grKcaBdNXJQIqRFL0EWO286UWI_IodbXyLEX3V1iWik-PlbZYizypK2YiCIh-oFDk5XeNHIWHbdwDllv7oQd1zaHOlDhuumt1a8gVxShCVZUJozk7V5T5DPXIY1AWRFZ-emBfAZeUzFIUMJZvp6vVHUc3h_ixbHTaxeR4Rm8dUWhPLSmDVzhwlRAIuMcevPv7MDoQecU3DypKCPQfAaYkgElb7gVZXm-zQ1ZoIGuQ4Pv7U2BPlPEcTnJSC01D8LliGUnxmx9m-L9jS4SpXthpqtRNkvSBWajYv9ZTjA_4sGVMrsmJQz_ctRJcZbndlGzG4Wkr0WAaa5r1QrqJQjphQ4N8NrJTLVIpLHtuVcnTz3t3NFvYJdbGaS3AbDjEtmTWs_Je6-hePus__dINjvHSal_5jgGbvbaLeO55n4unWv2VjXXlk1lhP4_Fi2B4P5vg8oyH2VxFF9WoSlKevZ95h8PpktHz5nVaEaK1zgaY9HVtujteoYMgzBfqfrzz7BZRKGzvN79yzAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.point72.com/CSJobDetail?jobName=trader-quant-analyst&jobCode=CSS-0014266",
+      "job_title": "Trader/Quant Analyst",
+      "description": "Summary:\nWe are seeking a highly motivated and detail-oriented Trader/Quant Analyst with a strong background in trading and data analysis to join our investment team. The ideal candidate will have at least 3 years of experience in convertible securities (or equity/FX/rates derivatives), relative value trading strategies, and quant data analysis. The role will combine active trading and risk management and quantitative analysis to identify and execute profitable opportunities in the convertible space.\n\n\nRole/Responsibilities:\nIdentify relative value opportunities between convertible bonds, the underlying equity, and credit derivatives.Execute trades in convertible securities, related equities, and hedges in alignment with investment theses and risk parameters.Manage existing positions proactively, assessing changes in valuation, liquidity, and market sentiment.Conduct in-depth quant data analysis on the convertible bond universe, including historical pricing and valuation.Model and evaluate convertible securities across multiple scenarios, analyzing risks related to credit, interest rates, volatility, and equity sensitivity.Build front-office tools to analyze convert universe data for idea generation, trade optimization, and risk management.Coordinate with the portfolio manager and risk team to size positions appropriately and adhere to pre-defined risk limits.Track and analyze P&L drivers on a daily basis and provide attribution reports.Hedge exposures dynamically using equity, credit, and derivative instruments.Work closely with other analysts, traders, and portfolio managers across strategies to share insights and generate synergies.Maintain strong relationships with sell-side counterparties and market participants to source information and enhance trade execution.\nRequirements:\nBachelor’s degree in finance, economics, mathematics, engineering, or related field; advanced degree or CFA preferred.3+ years of experience in convertible bond trading with a quant/programming skillset.Strong understanding of credit markets, bond math, equity derivatives, and volatility analysis.Proficiency in modeling convertible securities and scenario analysis.Familiarity with risk management systems and trading platforms (e.g., Bloomberg, Tradeweb).Strong analytical and quantitative data skills; proficiency in Excel and at least one programming language (Python, R, VBA) is required.Excellent communication skills and ability to work in a fast-paced, team-oriented environment.Commitment to the highest ethical standards. \nAbout Point72:\nPoint72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth.\n\n\nThe annual base salary  for this role is $150,000 (USD)  , which does not include discretionary bonus compensation or our comprehensive benefits package. Actual compensation offered to the successful candidate may vary from posted hiring  based upon geographic location, work experience, education, and/or skill level, among other things.",
+      "apply_options": [
+        {
+          "title": "Point72 Careers",
+          "link": "https://careers.point72.com/CSJobDetail?jobName=trader-quant-analyst&jobCode=CSS-0014266&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Intone Networks",
+          "link": "https://intone.com/careers/jobs/?job=REQ-00052146&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=565389252a103abf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Crox-Consulting-Inc/Job/IGA-Analyst/-in-New-York,NY?jid=ab76413fb9106bb0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/vulnerability-analyst_7ea1aa970c72f135bf7cb7572fd5018160e91?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/strat-quant-analyst-new-york-ny--1a9419a9-6606-46cb-ba81-110e31f69712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/trader-quant-analyst-point72-JV_IC1131609_KO0,20_KE21,28.htm?jl=1009998192667&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/marketingbusiness-analyst-new-york-collabera-91ca2d40d1f54792c7af60404ea6d9a6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUcmFkZXIvUXVhbnQgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlBvaW50NzIiLCJodGlkb2NpZCI6IjNEVmxRNXVWZ1kzNDBBQlZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZa290VlhaTVExcHVTMkZDVFROTlJpMVdXVTV6YkVZMlZtcHhXVzFLUlRKTlgyaGFibEJWTVZSSWN6aHZOamRvWW14emMwRmFUVW8wY25WR1pXNUJNbnB3ZWtGU2JHeGtRVjlGZDA1RmF6UklabWxZZDNKS1lqRmlUVjlhUlVreFMwMWtlbFZyYmtWMU5HWkJkbU53T0ROdU0wOWhkV0ZGWkhSVWRFMDVhME40VVcxSGEyb1NGM05SYm14aGRqSnlURTFwTlhKMVJWQnVjRWRxTWtGRkdpSkJTRTR3UlRkRk5qVkxWblZzV1RGTFJFeHROMlpCY1V4Vk1rdDVSRmhyV25sMyIsImZjdiI6IjMiLCJmY19pZCI6IjNEVmxRNXVWZ1kzNDBBQlZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AVP, Quantitative Risk Analyst",
+      "company_name": "Aflac, Incorporated",
+      "location": "New York, NY",
+      "via": "Aflac Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Acting with Integrity",
+            "Communicating Effectively",
+            "Pursuing Self-Development",
+            "Supporting Organizational Goals",
+            "Knowledge of statistics and its application to the financial services industry",
+            "Strong analytical and critical thinking skills",
+            "Strong verbal and written communication skills",
+            "Highly organized with the ability to work on multiple projects with different deadlines",
+            "Team player",
+            "Education & Experience Required",
+            "Bachelor's degree in Financial Engineering, Mathematical Finance, Mathematics or a related major",
+            "5+ years of relevant work experience in financial services risk management (preferably life insurance), either in industry, or as a consultant",
+            "Strong model development experience in programming languages such as C#, Python, and VBA required",
+            "Or an equivalent combination of education and experience"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary Range: $140,000 to $185,000",
+            "You will work from your home (within the continental US) for the remaining portion of the work week",
+            "Serving Customers",
+            "Supporting Change",
+            "Working with Diverse Populations",
+            "The salary range for this job is $140,000 to $185,000 This range is specific to the job and salary offers consider a wide range of factors that are considered in making compensation decisions, including, but not limited to: education, experience, licensure, certifications, geographic location, and peer compensation",
+            "This salary range does not include any potential incentive pay or benefits, however, such information will be provided separately when appropriate",
+            "In addition to the base salary, we offer an array of benefits to meet your needs including medical, dental, and vision coverage, prescription drug coverage, health care flexible spending, dependent care flexible spending, Aflac supplemental policies (Accident, Cancer, Critical Illness and Hospital Indemnity offered at no costs to employee), 401(k) plans, annual bonuses, and an opportunity to purchase company stock",
+            "On an annual basis, you’ll also be offered 11 paid holidays, up to 20 days PTO to be used for any reason, and, if eligible, state-mandated sick leave (Washington employees accrue 1-hour sick leave for every 40 hours worked) and other leaves of absence, if eligible, when needed to support your physical, financial, and emotional well-being",
+            "Aflac complies with all applicable leave laws, including, but not limited to, sick and safe leave, and adoption and parental leave, in all states and localities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Works with GIRM team members to advance the development of the company’s risk analysis system; in particular, leads the technical development and/or maintenance of the investment risk system production environment (in Python/C#), including but not limited to risk simulation tool, regulatory capital ratio methods, extreme tail event stress testing and economic scenario generator (ESG)",
+            "Leads efforts to automate the data flow, calculation and production of regular investment risk reports for senior management and business partners",
+            "Provides quantitative support and business insight to senior management for different investment and risk management decisions, through analyses of financial impacts due to exposures in market risk, credit risk etc",
+            "Works closely with front office teams for different types of asset classes portfolio monitoring, including credit, derivatives and alternative assets and performs relevant risk analysis",
+            "Collaborates with GIRM team members to perform second line comprehensive risk analyses across investment risks to ensure compliance with the firm’s risk appetites, tolerances, and investment risk limits",
+            "Works closely with the Quantitative Analytic Solutions team to validate and calibrate models to support implementation",
+            "Provides documentation and validation of models and calibration techniques",
+            "Collaborates with GIRM’s technologists to ensure models are efficient and robust as deployed into production",
+            "Provides support for market and credit risk analysis",
+            "Participates in the production and presentation of oral and written analyses and concepts, including management recommendations, to senior management; assists in the preparation of management and committee reports"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=2NH1lTHu5pAK-tG2AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ6CMBCA4bjyCE6XuBmkxoRFJyajA1EHEyZSaoFKvWt6p-Kj-LbK8i9f_uQ7S_Liekrh_NQoTrS4l4WL4wEK1P7DAis4UgNsdTQ9EMKeqPN2vutFAm-VYvZZx9NpMkMPRWgbGtWdGp5Sc6-jDV6LrTf5eswCdstF0XptUjigoRgo_vEGDqG0b6goDimU1Q8NjkyknAAAAA&shmds=v1_Ac3VAoyKfeQQ0LcULi8SC5eTx3ih0kbNHxptjrLI9uh4VSy_xw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=2NH1lTHu5pAK-tG2AAAAAA%3D%3D",
+      "extensions": [
+        "21 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://careers.aflac.com/job/New-York-City-AVP%2C-Quantitative-Risk-Analyst-NY-10005/1399369600/",
+      "job_title": "AVP, Quantitative Risk Analyst",
+      "description": "Opportunity: AVP Quantitative Risk Analyst Salary Range: $140,000 to $185,000 Job Posting End Date: November 13, 2026   We’ve Got You Under Our Wing We are the duck. We develop and empower our people, cultivate relationships, give back to our community, and celebrate every success along the way. We do it all…The Aflac Way.   Aflac, a Fortune 500 company, is an industry leader in voluntary insurance products that pay cash directly to policyholders and one of America's best-known brands. Aflac has been recognized as Fortune’s 50 Best Workplaces for Diversity and as one of World’s Most Ethical Companies by Ethisphere.com.   Our business is about being there for people in need. So, ask yourself, are you the duck? If so, there’s a home, and a flourishing career for you at Aflac.   Worker Designation – This role is hybrid. This means you will be expected to report to one of our Aflac offices located in New York, NY for at least 60% of the work week. You will work from your home (within the continental US) for the remaining portion of the work week. Details of this schedule will be discussed with your leadership.      What does it take to be successful at Aflac?      Acting with Integrity Communicating Effectively Pursuing Self-Development Serving Customers Supporting Change Supporting Organizational Goals Working with Diverse Populations          What does it take to be successful in this role? • Knowledge of statistics and its application to the financial services industry.  • Familiarity with life insurance company financial statements preferred.  • Strong analytical and critical thinking skills.  • Strong verbal and written communication skills.  • Highly organized with the ability to work on multiple projects with different deadlines.  • Team player.   Education & Experience Required  Bachelor's degree in Financial Engineering, Mathematical Finance, Mathematics or a related major 5+ years of relevant work experience in financial services risk management (preferably life insurance), either in industry, or as a consultant. Strong model development experience in programming languages such as C#, Python, and VBA required.  Or an equivalent combination of education and experience   Education & Experience Preferred  Master's degree in Financial Engineering, Mathematical Finance, Mathematics or a related major Certification in CFA, FRM, Actuarial credentials or similar investment risk management credentials preferred Experience modeling public and private fixed income asset classes, public and private equity, derivatives and alternatives is preferred. Life insurance actuarial modeling and implementation experience is preferred.    Principal Duties & Responsibilities • Works with GIRM team members to advance the development of the company’s risk analysis system; in particular, leads the technical development and/or maintenance of the investment risk system production environment (in Python/C#), including but not limited to risk simulation tool, regulatory capital ratio methods, extreme tail event stress testing and economic scenario generator (ESG).  • Leads efforts to automate the data flow, calculation and production of regular investment risk reports for senior management and business partners.  • Provides quantitative support and business insight to senior management for different investment and risk management decisions, through analyses of financial impacts due to exposures in market risk, credit risk etc.  • Works closely with front office teams for different types of asset classes portfolio monitoring, including credit, derivatives and alternative assets and performs relevant risk analysis.  • Collaborates with GIRM team members to perform second line comprehensive risk analyses across investment risks to ensure compliance with the firm’s risk appetites, tolerances, and investment risk limits.  • Works closely with the Quantitative Analytic Solutions team to validate and calibrate models to support implementation.  • Provides documentation and validation of models and calibration techniques.  • Collaborates with GIRM’s technologists to ensure models are efficient and robust as deployed into production • Provides support for market and credit risk analysis.  • Participates in the production and presentation of oral and written analyses and concepts, including management recommendations, to senior management; assists in the preparation of management and committee reports.   Total Rewards The salary range for this job is $140,000 to $185,000 This range is specific to the job and salary offers consider a wide range of factors that are considered in making compensation decisions, including, but not limited to: education, experience, licensure, certifications, geographic location, and peer compensation. The range has been created in good faith based on information known to Aflac at the time of the posting.    At Aflac, it is not typical for an individual to be hired at or near the top of the range for the role to allow for future and continued salary growth, and compensation decisions are dependent on the circumstances of each case. This salary range does not include any potential incentive pay or benefits, however, such information will be provided separately when appropriate.    In addition to the base salary, we offer an array of benefits to meet your needs including medical, dental, and vision coverage, prescription drug coverage, health care flexible spending, dependent care flexible spending, Aflac supplemental policies (Accident, Cancer, Critical Illness and Hospital Indemnity offered at no costs to employee), 401(k) plans, annual bonuses, and an opportunity to purchase company stock.  On an annual basis, you’ll also be offered 11 paid holidays, up to 20 days PTO to be used for any reason, and, if eligible, state-mandated sick leave (Washington employees accrue 1-hour sick leave for every 40 hours worked) and other leaves of absence, if eligible, when needed to support your physical, financial, and emotional well-being. Aflac complies with all applicable leave laws, including, but not limited to, sick and safe leave, and adoption and parental leave, in all states and localities.",
+      "apply_options": [
+        {
+          "title": "Aflac Careers",
+          "link": "https://careers.aflac.com/job/New-York-City-AVP%2C-Quantitative-Risk-Analyst-NY-10005/1399369600/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=c0bc600fc0b631dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/avp-quantitative-risk-analyst-at-aflac-4430021273?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Aflac/Job/AVP,-Quantitative-Risk-Analyst/-in-New-York,NY?jid=cff55d6067ad9766&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/avp-quantitative-risk-analyst-aflac-JV_IC1132348_KO0,29_KE30,35.htm?jl=1010167990217&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/massachusetts-mutual-life-insurance/job/quantitative-risk-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/avp-quantitative-risk-analyst-new-york-ny--27986f47-91ed-44f9-9a3f-95979d49cb69?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IHireInsurance",
+          "link": "https://www.ihireinsurance.com/jobs/view/545066734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBVlAsIFF1YW50aXRhdGl2ZSBSaXNrIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJBZmxhYywgSW5jb3Jwb3JhdGVkIiwiaHRpZG9jaWQiOiIyTkgxbFRIdTVwQUstdEcyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VaQ1UzTklTMU14ZURKVlRHbHdYMkZtVkVKYVlXcFdibmxxUmtkMWIyNUtTMjVxYVVabGJteDZhR3QxYTBoalZIRjRVVTl5TjBaNGNEazRlR3BVV2paek4zVkJXbTFqU0ZKQmJuRnBZMEpSUjBkRFpHZHJZV1poY0hsWVdVbEVURGRWVjIxS1RHOXZkM0pDZEZkNE5HdFVXbWRUVFhReU0zVTFObXN3YW1SVmMzbFBkVWNTRjNOUmJteGhkakp5VEUxcE5YSjFSVkJ1Y0VkcU1rRkZHaUpCU0U0d1JUZEdUV1JOWW1nNE0wWTJlRVZMY2pRelZXRldXVWcxT0VwcWJrdG4iLCJmY3YiOiIzIiwiZmNfaWQiOiIyTkgxbFRIdTVwQUstdEcyQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Quantitative Analyst",
+      "company_name": "Base Power Company",
+      "location": "Austin, TX",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Energy markets and domain knowledge: you understand wholesale energy market operations like ERCOT, including real-time arbitrage, ancillary services, and capacity, along with unit commitment, economic dispatch, and production cost modeling",
+            "Coding and SQL: you build models in Python (or another language) and pull your own data with SQL, and you can work through a model independently",
+            "Statistics and machine learning: You understand the bias-variance tradeoff, train/validation/test evaluation, and loss functions for categorical and continuous targets, and you're deeply familiar with at least one statistical subfield, like extreme value theory, information theory, or stochastic processes",
+            "You've deployed models to production with versioning and maintenance, scaled training beyond a single machine, and know Python, pandas, and visualization libraries well"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You'll own the price models that tell Base where value exists in wholesale markets like ERCOT and PJM, and the hedging strategy that turns that analysis into a plan for managing Base's risk",
+            "This is a mid-to-senior role that combines quantitative analysis, software engineering, and energy market expertise",
+            "Base has a price model for ERCOT that provides the foundation for future improvements",
+            "You'll extend that work to PJM, sharpen how Base captures grid congestion, and use what you build to shape Base's hedging strategy there",
+            "Improve Base's price distributions by capturing grid congestion effects, like midday price excursions regularly seen, that our current models miss",
+            "Build a price model for PJM, so Base can track risk and make hedging decisions there as well as it already does in ERCOT",
+            "Build a hedging strategy for PJM, using the models you build to decide what that strategy should be",
+            "That means building and defending the models that decide which markets and products Base participates in, from real-time arbitrage to multi-year distribution deals",
+            "The team's calls carry real weight - a mis-modeled coincident peak or an unvetted market opinion shows up directly in Base's book",
+            "You'll work alongside traders, market operations engineers, and policy leads who bring the same rigor to distribution-scale energy that a trading desk brings to wholesale power",
+            "Operate at Base Pace: Focus on what matters, act quickly, and learn by doing",
+            "Give & Get Feedback: Be direct, be humble, and maintain a growth mindset",
+            "Everyone's an Owner: Follow through on commitments and own results",
+            "Strong Opinions, Loosely Held: Drive clarity and make calls with imperfect information",
+            "Committed to the Mission: Rebuilding the grid is a big challenge"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Quantitative+Analyst+(Quant)&htidocid=oxkK6KOegqs_jzTFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLvQrCQAwAYFz7CE6Z_emJ4KJTdRCcFBzcSu4I7ck1OZpU23fwoaXLt33Fb1GsHwOyRUOLH4KKMU1qsIWbeFDCPrQgDFeRJtHy1JplPTqnmspG5xTKIJ0TJi-je4vXmVpb7CknNKr3h91YZm5WcEYluMuXerhIl5EniAzVoBZ5A8_XH2KrEpOPAAAA&shmds=v1_Ac3VAoxpaGyYVBa8sB29mI1cDT_kgCgiqlq70sYa5LJ6QpfZFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Quantitative+Analyst+(Quant)&htidocid=oxkK6KOegqs_jzTFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX___8pKCbq6uocGxgJBQCFhYQZGBWXl5bW1tYREAwVExAiIR8bGRdaWVmOjo4lJCKsq6sAAABFREM-PDz4-Pjx8fHBwcBkY2LOzs03NjVNTEvf39-mpqW3trVpaWh1dXMvLy0NCArKHjTgAAABuklEQVRIieWW2baDIAxFQZwALc5DW7X9_58sRO1yLvB473lScJMEAwlC_0-Fc6biiur61nePFeVDdcYlL8oFPpMgND9Eizo9pyY29Q642IdJTo7FYZb2O7BXnHB57x2rZhTIrc3ElaMEn8Yv9eTKatqsR9VyJL7acoScTJI8W411EhRZeclJkihnVyZjuRa98nPyVq4fLaMsXwKL9ieHEJOO3RfvD-kDGVcqg426cBF5rfZnEVEoXWBPeOxTfy3q5rcv6kUY-84GTL7RbhOG8XD68CZBpg2qxHhoguJ7KhgkMI_1QHFvwmZU18JK9KEFzgaUnDG7E2NwHPEDczBTUU4_ywQMIuXqWy9GjPNZDDhS6-2q3NdZ49vL0QXXIgGys4hdTxfMZmEKbNpp7moxq2xaRU6n1eg_OimYDI1BBCZpZw5C0OO0EVi5kOWVDrg4VtXwHn9IqQMuDjIlwPmD1q7uxKecMwQ5za5y9eR6ZC67J_OHHllfj1cX8rNafLi9kK1LgEnRIavSCmUutyhzygerwooSdQRsSjnqGf7RPDBI2V3DotmuDHtPbBskZN2SIfsmEFirtvOP6gPfgifRHYUrdQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "15 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.ziprecruiter.com/c/base-power/Job/Quantitative-Analyst/-in-Austin,TX?jid=b68fc3d68cc4e9f2",
+      "job_title": "Quantitative Analyst",
+      "description": "About Base\n\n\n\n\nBase is America's next-generation power company. We're rebuilding the foundation of modern civilization-electricity-by deploying a vast network of distributed batteries that is transforming today's fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.\n\n\n\nAbout the Role\n\nAbout the Role\n\n\n\n\nQuant Analysts build and improve the models that drive Base's Trading & Risk platform - the system that spans our distributed fleet of batteries and the households we serve. You'll own the price models that tell Base where value exists in wholesale markets like ERCOT and PJM, and the hedging strategy that turns that analysis into a plan for managing Base's risk.\n\n\n\n\nThis is a mid-to-senior role that combines quantitative analysis, software engineering, and energy market expertise. Base has a price model for ERCOT that provides the foundation for future improvements. You'll extend that work to PJM, sharpen how Base captures grid congestion, and use what you build to shape Base's hedging strategy there.\n\n\n\nWhat You'll Do\n\n\n\n Improve Base's price distributions by capturing grid congestion effects, like midday price excursions regularly seen, that our current models miss\n Build a price model for PJM, so Base can track risk and make hedging decisions there as well as it already does in ERCOT\n Build a hedging strategy for PJM, using the models you build to decide what that strategy should be\n\n\n\n\nWhat You'll Bring\n\n\n\n Energy markets and domain knowledge: you understand wholesale energy market operations like ERCOT, including real-time arbitrage, ancillary services, and capacity, along with unit commitment, economic dispatch, and production cost modeling\n Coding and SQL: you build models in Python (or another language) and pull your own data with SQL, and you can work through a model independently\n Statistics and machine learning: You understand the bias-variance tradeoff, train/validation/test evaluation, and loss functions for categorical and continuous targets, and you're deeply familiar with at least one statistical subfield, like extreme value theory, information theory, or stochastic processes. You've deployed models to production with versioning and maintenance, scaled training beyond a single machine, and know Python, pandas, and visualization libraries well.\n\n\n\n\nAbout the Team\n\n\n\n\nBase's Risk & Trading team turns the grid-service capability of our distributed battery fleet into revenue. That means building and defending the models that decide which markets and products Base participates in, from real-time arbitrage to multi-year distribution deals. The team's calls carry real weight - a mis-modeled coincident peak or an unvetted market opinion shows up directly in Base's book. You'll work alongside traders, market operations engineers, and policy leads who bring the same rigor to distribution-scale energy that a trading desk brings to wholesale power.\n\n\n\n\nPlease note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.\n\n\n\nOur Values\n\n\n\n First Principles Thinking: Question assumptions. Principles > rules.\n Operate at Base Pace: Focus on what matters, act quickly, and learn by doing.\n Give & Get Feedback: Be direct, be humble, and maintain a growth mindset.\n Everyone's an Owner: Follow through on commitments and own results.\n Strong Opinions, Loosely Held: Drive clarity and make calls with imperfect information.\n Committed to the Mission: Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we're creating. We work in-person. It's not a 9-to-5. We are all-in.\n Fun & Optimism Coexist with Grit: Collaboration and celebration coincide with the intensity of building real things.\nDo the best work of your life at Base.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/base-power/Job/Quantitative-Analyst/-in-Austin,TX?jid=b68fc3d68cc4e9f2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/engie/austin-tx/quantitative-analyst/408426cb2dab875f93652e2a7bda2a3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HiredNow AI",
+          "link": "https://www.hirednowai.com/jobs/base-power/quantitative-analyst-5604878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "GetUSAJob",
+          "link": "https://www.getusajob.com/jobs/view/quantitative-analyst-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextChapter",
+          "link": "https://launchyournextchapter.com/jobs/cmv9sxdxo05dli3061h1gd55i?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-tx-austin-quantitative-analyst-ii_trqa1h-engie-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkJhc2UgUG93ZXIgQ29tcGFueSIsImh0aWRvY2lkIjoib3hrSzZLT2VncXNfanpURkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlVZExSVll0UzJwUU5uVnJMWGhOVEV4Vk4zRjRiVVZyYTBKaU9XaGxhMUJ1VWxwaGQwSXhNWEZaYUhWemRETm1lSFpPYUdwQlVWQkRlbEYxTkRGSmRETmFPVEJYTFVsaGQyRlpkSFZhZUdaaWNEZHZWRmRKUkVZdFdIUTVkWGhYU1RSYU9XMXBWVEpEYWxKYU0yMW5lV2xmVlRSeWVFRkxPRVZGVEUwMk9VRnRSQzFHVVRrU0YzTlJibXhoZGpKeVRFMXBOWEoxUlZCdWNFZHFNa0ZGR2lKQlNFNHdSVGRHTFRoRmJHVnROV2w2WmtOSlZESjRVWEE1UWtaVVRWbEtkRXhCIiwiZmN2IjoiMyIsImZjX2lkIjoib3hrSzZLT2VncXNfanpURkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SUVDcUlFUVVSRVlsZGxZa1prU1VWcmMyVldhMk56Tm0xa1ZXZFpZMU5IYWtwdGRqTXdjelEwZVdOa05HWnFVMkpRVW1sNlJWWlVVbWh4WTNoaVIzWTJkbHA1VHpKRldIaHZiVzFHVjJkR0xYYzRUMVp5VlZveUxUQjJUamRuWVZKMU1YWTJNRWd6U2taTVJraFpRMFl0V2s1Zk5WZDBOa3hSVmxoUE0wRjJha0pqVVRrMlZrb3pja0ppZEhoNE5IRnRTeTF0TTBOblkxbExOMUpLVjFWb2NFNUJWV3BFY2xoS1ZtZG9OelJoVkhoM05WaEZhMlZMUjJoeGNuTXlVMWd6VDAxeFMyOU5YMkYxVkRaUGRubFBSMFptWlRkUU1IRmFWRWhYTkZORWRrRkJaekJ4WTFWblMwWlViRGxYVDBwM1pXUmlRMEV0WlVSQ1lqSkpORVpCY2pSRVZFVm9PVTFZTkVKbFdXTnBXRFkwVlVkbGNESlhUMjVHTWxNNVdsRjFSRk56UWxSeFlWZ3RTV2xwWjBsWVRGVmhkbXBpVlhCeWRucDFhbDkzYjAxTE9HWkNkMGQzTkhNMWNUY3lUM00zYjBJNGREQkJWV3B1UWpaRFdIWmtSUzFHY0U5aVNtc3hhRU5zTFRWcmJHZHdWMTkyTjFWbGVuVkZiRGR2U2s5YVptVm5UVTg1T1hCSmFITnZkakpUU1ZSWWNuSm1jVzFIY0U5UWMzQTRlRWRsU0hsVFJrTnJWRVJ5UTJKTGIzbDZhbEo2ZVhZM0xXWjViemRpZERaMlVXOVNZMmxQTFVsak9HaE1jek5MY1ZKQlQzbFZlVmxTU21kTU9GcG1XbTkzYldscVkyMXJWVE5sUWpOd1VqUk1kRFpsTFRoeFpHUjZlVll3ZFhKT2NYRlVka3gwZDFka2NYZDBMV05oVVRGYVgzZEZlVzFPVUdrMlIzWmxTa0UxWmt0MU4zaDNFaGR6VVc1c1lYWXlja3hOYVRWeWRVVlFibkJIYWpKQlJSb2lRVWhPTUVVM1JXNUZSbGREUkZocGJuazNkbVJXWjFaM2JFOVFVVUkxYUdwc1FRIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV1SUVDcUlFUVVSRVlsZGxZa1prU1VWcmMyVldhMk56Tm0xa1ZXZFpZMU5IYWtwdGRqTXdjelEwZVdOa05HWnFVMkpRVW1sNlJWWlVVbWh4WTNoaVIzWTJkbHA1VHpKRldIaHZiVzFHVjJkR0xYYzRUMVp5VlZveUxUQjJUamRuWVZKMU1YWTJNRWd6U2taTVJraFpRMFl0V2s1Zk5WZDBOa3hSVmxoUE0wRjJha0pqVVRrMlZrb3pja0ppZEhoNE5IRnRTeTF0TTBOblkxbExOMUpLVjFWb2NFNUJWV3BFY2xoS1ZtZG9OelJoVkhoM05WaEZhMlZMUjJoeGNuTXlVMWd6VDAxeFMyOU5YMkYxVkRaUGRubFBSMFptWlRkUU1IRmFWRWhYTkZORWRrRkJaekJ4WTFWblMwWlViRGxYVDBwM1pXUmlRMEV0WlVSQ1lqSkpORVpCY2pSRVZFVm9PVTFZTkVKbFdXTnBXRFkwVlVkbGNESlhUMjVHTWxNNVdsRjFSRk56UWxSeFlWZ3RTV2xwWjBsWVRGVmhkbXBpVlhCeWRucDFhbDkzYjAxTE9HWkNkMGQzTkhNMWNUY3lUM00zYjBJNGREQkJWV3B1UWpaRFdIWmtSUzFHY0U5aVNtc3hhRU5zTFRWcmJHZHdWMTkyTjFWbGVuVkZiRGR2U2s5YVptVm5UVTg1T1hCSmFITnZkakpUU1ZSWWNuSm1jVzFIY0U5UWMzQTRlRWRsU0hsVFJrTnJWRVJ5UTJKTGIzbDZhbEo2ZVhZM0xXWjViemRpZERaMlVXOVNZMmxQTFVsak9HaE1jek5MY1ZKQlQzbFZlVmxTU21kTU9GcG1XbTkzYldscVkyMXJWVE5sUWpOd1VqUk1kRFpsTFRoeFpHUjZlVll3ZFhKT2NYRlVka3gwZDFka2NYZDBMV05oVVRGYVgzZEZlVzFPVUdrMlIzWmxTa0UxWmt0MU4zaDNFaGR6VVc1c1lYWXlja3hOYVRWeWRVVlFibkJIYWpKQlJSb2lRVWhPTUVVM1JXNUZSbGREUkZocGJuazNkbVJXWjFaM2JFOVFVVUkxYUdwc1FRIiwiZmN2IjoiMyJ9&q=Quantitative+Analyst+%28Quant%29&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Quantitative Analyst (Quant)",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:18:40.360198+00:00",
+    "request_fingerprint": "591510251b009797bd74358ea8190bce43dada445c093984b14714c31dd1d7ac",
+    "job_count": 10
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "search_metadata": {
+    "id": "6ae5095b27e2c175e6e3d9de",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CG1MlJyt2b2uvIqZCqYMSMXmYPYn8vBYfHiWDCCVTfE/6ae5095b27e2c175e6e3d9de.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CG1MlJyt2b2uvIqZCqYMSMXmYPYn8vBYfHiWDCCVTfE/6ae5095b27e2c175e6e3d9de.md",
+    "created_at": "2026-10-30 21:17:15 UTC",
+    "processed_at": "2026-10-30 21:17:15 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/CG1MlJyt2b2uvIqZCqYMSMXmYPYn8vBYfHiWDCCVTfE/6ae5095b27e2c175e6e3d9de.html",
+    "prettify_html_file": "https://serpapi.com/searches/CG1MlJyt2b2uvIqZCqYMSMXmYPYn8vBYfHiWDCCVTfE/6ae5095b27e2c175e6e3d9de.prettify",
+    "total_time_taken": 0.64
+  },
+  "search_parameters": {
+    "q": "Data Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZbGxhZVRJemNsVjVlalpuZEVJM2NYcDZZbUZOT0ZGUGVFNXlZMDVwZGtWV04ycEphR1ZGZWs1R2JtWk9VVU55U25NMFZsTmFkazlPZGxsRlpYbDFWazlUWm5rd2RHbzNaVGhwUW5OS1VtbzJXa2syVG00NWFtUlNORXhoTUhwR2RITmxVV1p6VUVoRmVVWTRXRjlmZVhWbmQyZFlWR0UwVjJselZYaDBOR2hMVjFsUVFXTmhNa3R3VWpoRFNVNUVVMHB6WDNOVWVIZzBjM0pRYlVnNWNVZ3pWVWd3ZWs5QkxYRlVkazlKTTNaV1UxaGZkbVJtU0Y5MFdYUldWbkJyUzFkTGQzVXhWMVpLUzFWM1psZHdWalpWTm0xTU5VVTRUbnB2ZFRWVlVYbzFiazVQVEUwMFVUYzJYMDFNU214T2VFTmxMVWhUY1dKWGVsQkVVbk5GWTNwM05tZEZTRGRsWkRGbVZVSmxOM2RxT1ZWU1kxVXpOVk41WjFWb2JHWm5XSGhWTjNnNVRYZEdlbk14YTJzMVRtWnpaM0Y1YTJOcE4wRXRSR2MwVkdSaWJHeE5OVkZ5ZHkxZk9IVmFTbE00Um01R05rNUdRMmRVV1doR1ltRnlhMUF4VmxKeloyNXFjbU5RTW1WQ1RVSk5YMG90VGpWQmVUUlFjalo2U3pBMVgzaDBVRXN0TFhKNmNraEhVWGh2WDBGVVdWaFFabFZFUm05RVRVZGpaM1JyZFdVMFJFcHFlRzFLZDJaTWJ6WkxTM1pUTFdoS2JUaDJMVW8xUmpCSGVtOUlZVTlXVEhaaFpubDVaMGw1TVROeFpVSndXbmhaTmtjdGNqTnJjakJyV2poRlpXOURSa3R2YkhWcU9FMTJXSEV3WlcwNExXZDZZV05QZFRsd1NGSjNVbUZOYW5CSFVXbGZWR3QyWDFGcFRqVkVhbXhwYlZGNU1WOUpPVFJNWkU5UFpXUTRaRzlrT1hwSVdtUmlkMWswRWhkVGQyNXNZVzloYkVnMmVrdDJUV05RY0hGeE5tZEJSUm9pUVVoT01FVTNTR0pTY1ZWc1IyOVZTV2hRTVdwaWRHNVVUMjVGUkVWdWFVMVFkdyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Data Engineer 4 (Cloud Operations Resilience Engineering) (MEG)",
+      "company_name": "Capital One",
+      "location": "New York, NY",
+      "via": "Adzuna",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=DGT39U9IHWntVkRiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3MsQrCMBCAYVz7CLrc2Iq2IrroWEtBsAUHoVNJ65FG413IRexz-YTq4vJPH3_0nkSXgwoKCtKGED1sIM4tP69QO_QqGCaBM4qxBqnHvzOkE4hPRZnAEo7cgaDy_QBMUDJri9P9EIKTXZaJ2FRL-L76tOdHxoQdj9mNO_mllUF5dFYFbNfb1Zg60vNZrpwJykJNCIagwhc07O8LqJoPkRbBoLUAAAA&shmds=v1_Ac3VAox6nA57VM7GrfAfjBF5pIBLeBZJXNmjo1s8vkM7kqcKBw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=DGT39U9IHWntVkRiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAqCAMAAADRRmi8AAAAw1BMVEX____Z3eD--_vJz9P89vXLAADq8fX7_f70-PrQLSQAOGrj6_CoucgAGVrS4OjP2uKgu8zBz9o4YIb54uDwvrzppaLjmZbceXbXXlrSOzTPJRvPGQbXVU_hiYb00tDxxcPgcmvddHDssK3OHxP77eyyyNXs3uAAIF47WoBphqFBcpWdscI6Z4zYRz8YS3cAMmeOm65teZNSaId3kalXdpSJqr9YgJ-5ws5_nrRejKkAKWMYV4GAi6EAP24sUnvgz9MABFUhdtLBAAABwUlEQVRIie2WbXOiMBDHYyoJEkoID9rTQzkEAcPJM2ftSe_7f6oLtnboddAZZ-6d_9mBTdjf7Ca7LwAPo5v0AEbgJo3u4B38fyCE43fBayCEIkSYadnT2dO3-ULqtJh8d5YXQAFBc2U5rvvDmdq253m2406k9URoLTmDIDSXK89a-r5_Kuy9Orh0FyfyCQ6C_vgt66nenlyRcy55F84Iv251WomU50qHbxV_Xc7mc2l23vgAMVM57UUyBgA5uxhoQbCR1gsb_AvSKIyiGMgEASxjGYBtTJMtwIhgpESAc5kkzs-uFxj3QbJLVYxRlhct50lpxMgoq7St8zwyaNqQQsRk2QYTAhDFPfDXo9G9NLpPm1xBPHw-1HXIsBYUBz3lmSo-8rgJ6ozqutoD6SHdMxY_Zvu0bl-0rdKEQaOwsFBfdllKc03E_NYroqqF9kz6Z2TV8VjytioNriSRwbIdqirSRmUSl8lrLpKQI6sFXIpb-HyrCMlAFqb-UfGbJwyJp2y5G4PSknIqG3qiBwN9JBR9WpszDwLEqNx1h2JNOBcH4CxvOga9cfhwroCm5Q8M4BVwYGqvg8O6g3fwVvDWH6S_iHUn_58GIuoAAAAASUVORK5CYII.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.adzuna.com/details/5946900969",
+      "job_title": "Data Engineer 4 (Cloud Operations Resilience Engineering) (MEG)",
+      "description": "Data Engineer 4 (Cloud Operations Resilience Engineering) (MEG) Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors who solve real problems and meet real customer needs. We are seeking **Data Engineers** who are passionate about marrying data with emerging technologies. In this role, you'll be at the forefront of driving a major transformation across Capital One. **What You'll Do:** + Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies + Influence a team of developers, data analysts and data scientists with deep experience in machine learning, distributed microservices, lakehouse architecture, and full-stack systems + Utilize programming languages such as Python and Spark, along with open-source relational and NoSQL databases, and cloud-based data warehousing platforms including Databricks and Snowflake + Share your passion for staying on top of trends in data, experimenting with and learning new technologies, participating in internal and external technology communities, and mentoring other members of the data community + Collaborate with product managers and software engineers to deliver robust cloud-first data solutions that drive powerful experiences to help millions of Americans achieve financial empowerment + Independently design, build and deliver world-class cloud data solutions and applications with little or no support from supervisors or managers + Architect and enforce common data engineering design patterns to ensure code quality, maintainability, and reusability across data platforms and pipelines + Serve as an ambassador for the data engineering team, communicating technical concepts and data outcomes clearly to both internal and external stakeholders to drive alignment and shared understanding + Design and build data pipelines and platforms with a focus on scalability, resilience, and operational efficiency, ensuring robust performance under increasing data volume and business demands + Implement data security standards, including encryption at rest/transit and fine-grained access control, ensuring compliance with data privacy regulations **Basic Qualifications:** + Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering) + At least 4 years of experience in application development (Internship experience does not apply) + At least 2 years of experience in distributed data + At least 2 years of experience with SQL + At least 2 years of experience with one programming language (Python, Java, or Scala) + At least 2 years of experience in data pipeline design and development + At least 1 year of experience in data modeling and designing end-to-end data solutions using both relational and non-relational database systems **Preferred Qualifications:** + 7+ years of experience in application development with demonstrated proficiency in Python, SQL, Scala, or Java + 4+ years of hands-on experience designing, deploying and operating data workloads in at least one public cloud environment (AWS, Microsoft Azure, or Google Cloud) + 4+ years of experience building or supporting distributed data or compute workloads using tools such as EMR, Spark, Glue, or Databricks + 4+ years of experience designing, implementing, and operating real-time or streaming data pipelines + 2+ years of experience working on data observability (e.g., Monte Carlo, Splunk) or data orchestration tools (e.g., Airflow, Dagster) + 4+ years of experience working with unstructured or semistructured data using NoSQL databases (e.g., MongoDB, Cassandra, DynamoDB) + 4+ years of experience designing and supporting data warehousing solutions (e.g., Snowflake, Redshift) + 2+ years of experience working in an Agile development environment + 2+ years of experience developing user-centric reusable data products **_At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.g. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-3, and O-1, or any other forms of work authorization that require immigration support from an employer)._** The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. McLean, VA: $197,300 - $225,100 for Data Engineer 4 New York, NY: $215,200 - $245,600 for Data Engineer 4 Plano, TX: $179,400 - $204,700 for Data Engineer 4 Richmond, VA: $179,400 - $204,700 for Data Engineer 4 Riverwoods, IL: $179,400 - $204,700 for Data Engineer 4 Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter. This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan. Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website (https://www.capitalonecareers.com/benefits) . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level. This role is expected to accept applications for a minimum of 5 business days. No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City's Fair Chance Act; Philadelphia's Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site. Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "apply_options": [
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5946900969?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-engineer-4-cloud-operations-resilience-engineering-meg-new-york-ny--0b0496e8-d07c-4a59-af83-25dc130d488a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/a66a89a7-33b6-4dd3-a14a-685a854206f1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Muse",
+          "link": "https://themuse-renderer.vercel.app/jobs/capitalone/data-engineer-4-cloud-operations-resilience-engineering-meg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-engineer-4-cloud-operations-resilience-engineering-meg-capital-one-new-york--techmap_us_4484475944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIDQgKENsb3VkIE9wZXJhdGlvbnMgUmVzaWxpZW5jZSBFbmdpbmVlcmluZykgKE1FRykiLCJjb21wYW55X25hbWUiOiJDYXBpdGFsIE9uZSIsImh0aWRvY2lkIjoiREdUMzlVOUlIV250VmtSaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWQTVkRlp3UkZJMlFXSnhiV2hWYTJ3MmQwOTRNbEZ0V1V0VlRGQlhVM0JqTFRoNWFIbHVaRzF3YW1keVFuTnZaakpHUVV4UmVGZFNUVGRrY0ZnelJtdHVkRWRGU201YVQwa3hiazFWVEc0MlVGUnFkalU1WkcxcFIwaFpZbU42YkcxTk0ydExNbFUzT0RWTGVuWk5aMXBOU1RWemFUVlhSMjkyTVZSWGNXMDRaWGxLUnpJU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRGZW1KemExbEpiblZ5U0VwbFpIVk1SVEV3VkhSaFoyRTFURGRuIiwiZmN2IjoiMyIsImZjX2lkIjoiREdUMzlVOUlIV250VmtSaUFBQUFBQT09In0="
+    },
+    {
+      "title": "Lead Data Engineer, AI & Modernization",
+      "company_name": "Accenture Plc",
+      "location": "Milwaukee, WI",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A data engineer who doesn't trust the documentation either - you'd rather mine the git history and trace the lineage than take a schema diagram at its word",
+            "Much of what makes a great practitioner in this work was learned somewhere adjacent - strong credentials in the neighboring discipline plus a year or two of serious hands-on work with LLM-based systems is exactly the profile we grow",
+            "Analysis Skills, Archaeology, Artificial Intelligence (AI), Cloud Computing, Customer Relations, Data Management, Documentation, Ecosystems, Finance, Git, Internet Security, Supply Chain"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You lead the data-engineering work on a migration engagement: pipelines and data products feeding AI systems (Data Pipelines and Data Products), with evidence-extraction techniques - dependency analysis, git-history mining - applied to the source estate before a single mapping is trusted",
+            "Travel may be required for this role",
+            "The amount of travel will vary from 0 to 100% depending on business need and client requirements"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=utA7NFsQ70V5oMauAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7CA5yk4PURgQXi0NBkYoFN8dyTY80Gu9KkmLxWXxY6_LDB3_ynSWHK2ELR4wIJzaWiXwKRQlLqKQlz_aD0QrDGi7SQCD0uoPJZxHjaJ53MfZhr1QILjMhTrPOtLyUMDUyqoc04Z86dOipdxip3u42Y9azWS0KrYnj4AluToNlqKx74_AkSuFe_gBTcbbDnwAAAA&shmds=v1_Ac3VAozSR0DwD338LQi1kMvWh_GpPc2vovSYnyYY0pmfiWI0Lw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=utA7NFsQ70V5oMauAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.monster.com/job-openings/lead-data-engineer-ai-modernization-milwaukee-wi--19bdf9cb-24c1-4cdf-b2e6-0fb6b694ad56",
+      "job_title": "Lead Data Engineer, AI & Modernization",
+      "description": "About Accenture:\n\nAccenture helps the world's leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client-focused, AI-enabled, great place to work in the world. We bring together the talent of our approximately 814,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology. We serve approximately 9,000 clients and generated approximately $74 billion in FY26 revenue. Visit us at accenture.com.\n\nWe Are:\n\nAccenture is recognized as a global leader in AI and cloud transformation, helping businesses across industries reimagine the digital core for an AI-native operating model. Through partnerships with frontier AI labs such as Anthropic and OpenAI, and the leading cloud providers, Accenture delivers end-to-end services that drive innovation and business agility.\n\nThe Digital Core Reinvention practice builds the data foundations AI systems depend on - with a discovery edge. This seat anchors our archaeology techniques inside the data family: the foundation gets engineered from what is actually in the estate, not what the documentation claims.\n\nYou Are:\n\nA data engineer who doesn't trust the documentation either - you'd rather mine the git history and trace the lineage than take a schema diagram at its word.\n\nYou belong here even if you haven't spent years in AI. Much of what makes a great practitioner in this work was learned somewhere adjacent - strong credentials in the neighboring discipline plus a year or two of serious hands-on work with LLM-based systems is exactly the profile we grow.\n\nThe Work:\n\nYou lead the data-engineering work on a migration engagement: pipelines and data products feeding AI systems (Data Pipelines and Data Products), with evidence-extraction techniques - dependency analysis, git-history mining - applied to the source estate before a single mapping is trusted.\n\nTravel may be required for this role. The amount of travel will vary from 0 to 100% depending on business need and client requirements.\n\n\nSkills:\nAnalysis Skills, Archaeology, Artificial Intelligence (AI), Cloud Computing, Customer Relations, Data Management, Documentation, Ecosystems, Finance, Git, Internet Security, Supply Chain\n\n\nAccenture Plc",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/lead-data-engineer-ai-modernization-milwaukee-wi--19bdf9cb-24c1-4cdf-b2e6-0fb6b694ad56?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/lead-data-engineer-ai-modernization-accenture-milwaukee-wi_89565332?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/lead-full-stack-software-engineer-ai-matchmaking-tawkify-milwaukee--lifeworq-6dd8a267-df95-46e1-aef2-1ce4ff56eb27?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgRW5naW5lZXIsIEFJIFx1MDAyNiBNb2Rlcm5pemF0aW9uIiwiY29tcGFueV9uYW1lIjoiQWNjZW50dXJlIFBsYyIsImh0aWRvY2lkIjoidXRBN05Gc1E3MFY1b01hdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdTMTRlV1YxYW1sMlNWWndXSFZEUVdjM1NUTnVWMnRuVjJSUFRreERVbmRWVG1aMWJFRXdORWhLZDNKdFVqRllVSGR4V2tRNGNsTmZVbWh4VkhZdGFtRTBkRjl2TWpkclpYUkRVRjh3WjNWU1JEWjZiRWxPZW5wS1J6ZGljMVJZY0c1aWJqTkNNR3h1Vmswd2NGVk9XVGRzV1hOS016aHZNa3BtWjFkeFEydFVjek5PT0ZZU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRHT0hkTVVWOW9SR1p1TjJGSllua3dkRVV5VURoUmVWWnBNbk5uIiwiZmN2IjoiMyIsImZjX2lkIjoidXRBN05Gc1E3MFY1b01hdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Sensor Data Engineer",
+      "company_name": "WindBorne",
+      "location": "California",
+      "via": "WindBorne Systems",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You do not need to arrive as an expert in production software systems, but you do need to be willing and able to learn what is needed to manage them",
+            "The ideal candidate for this role thinks like a scientist and wants to own our growing sensor processing software stack",
+            "Have strong intuition for sensors, physics, and/or statistics and can reason from first principles",
+            "Can communicate clearly about complex technical systems across hardware and software teams",
+            "Have strong Python and data-analysis skills and are willing to learn how to manage databases, Linux systems, production services, and 24/7 data pipelines",
+            "Have high agency and are comfortable owning systems end-to-end with minimal oversight",
+            "Background in physics, atmospheric science, computer science, or another quantitative engineering field",
+            "Experience with instrumentation, calibration, meteorological sensors, or scientific measurement systems",
+            "Experience with statistics, filtering, or production data-processing systems",
+            "Experience working in a fast-moving R&D environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "401(k), health, dental and vision insurance, unlimited PTO, stock options, and office food and beverages",
+            "Base pay: $100,000–$200,000 / year"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Own the software that turns raw weather-balloon measurements into trusted observations",
+            "Build sensor-processing pipelines, improve quality control, and investigate data issues",
+            "You'll be responsible for a pipeline that continuously processes temperature, humidity, pressure, position, and wind data from hundreds of balloons around the globe, supporting rapidly changing hardware while maintaining absolute trust in data quality",
+            "Sensor data can fail silently: a 1 °C temperature bias can creep into the data and impact live weather forecasts without raising any alarm bells",
+            "We are a small team working in a fast-paced, constantly changing environment, and while the core job function involves software systems, you’ll have the opportunity to do wide-ranging work across all aspects of our atmospheric sensors, from hardware R&D to collaborating with academic partners",
+            "Production software that converts raw balloon measurements into weather observations in customer-facing databases",
+            "Sensor processing and quality control algorithms for temperature, pressure, humidity, wind, and other measurements",
+            "Investigating pipeline failures, including data loss and quality issues",
+            "Improving the architecture and scalability of sensor-processing systems as the constellation grows"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=1CRuTEilNthdV940AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXHsQoCMQwAUFzvBwSnzIqtCC66nYrg6uB4pGdsKzUpTYbb_XF1efC6z6xb3YhVGpzQEM4cMxM1WMNVAihhGxMIw0UkFlocklnVvfeqxUU1tDy6Ud5emIJM_iVB_wyasFEtaDRsd5vJVY7L-T3zo5fGBJnhiCU_f8n4BbDSgyiGAAAA&shmds=v1_Ac3VAowhPScsUUqwAYYvcWnhkAiKBgltb7O1jpsUMAN_upfO4g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=1CRuTEilNthdV940AAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAAYFBMVEX///8AAADm5ua+vr7v7+/s7Oz8/Py3t7d8fHyzs7P29vapqamLi4vY2NiZmZmhoaFra2tlZWV0dHSSkpLHx8fPz88WFhYfHx/e3t4PDw9KSkolJSVAQEAxMTFeXl5WVlaOCZxdAAABNUlEQVQ4je2R2W4DIQxFr9mHPQwkk5ks//+XhWnzlqpqHqNcIUDGx7YuwEdvI8a5fAET2WWTsv0vJ4lLb8REnRyw6odSj1elrP2l5MHpUp13UwYuFf4IRWl+vBZNpxOJJ1zQS5zjnIxIDM7jSrbdljDVnIDZ3DkBLiLmirRMPeygfA7AZLxzPUUbw8GuavM8Timtt0b1YMK5no0/yVwate0errlRuDjWZ/gBIzeFAzT5ZlbZwYCYaMRJ87um0WGTODH4mUw5agS+RO9SNMIxwFADHbGDKfW6fozKS79Fv4kBzpGsqvLbHJ5mp7s5GGlrQYyX3nF2Z0Oc1pXaRIUsSVDvmOKWxxcw4swbqXfrVO8qLIRgqm9YmrWMLSOrKrB9jXDdfWU3Xbw7PLP8LwWtlxewj95AX6JgD3yV1aoPAAAAAElFTkSuQmCC26",
+      "extensions": [
+        "29 days ago",
+        "100K–200K a year",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://windbornesystems.com/careers/sensor-data-engineer",
+      "job_title": "Sensor Data Engineer",
+      "description": "Own the software that turns raw weather-balloon measurements into trusted observations. Build sensor-processing pipelines, improve quality control, and investigate data issues.\n\n\nAbout this role\n\nWindBorne Systems is supercharging weather forecasts with a unique proprietary data source: a global constellation of next-generation smart weather balloons targeting the most critical atmospheric data. We design, manufacture, and operate our own balloons, using the data they collect to generate otherwise unattainable weather intelligence.\n\nWe're hiring a Sensor Data Engineer to own the software that turns raw measurements into weather data. You'll be responsible for a pipeline that continuously processes temperature, humidity, pressure, position, and wind data from hundreds of balloons around the globe, supporting rapidly changing hardware while maintaining absolute trust in data quality. \n\nSensor data can fail silently: a 1 °C temperature bias can creep into the data and impact live weather forecasts without raising any alarm bells. You should care how each of our sensors works and be paranoid about the dozens of ways a measurement can become biased or noisy. You do not need to arrive as an expert in production software systems, but you do need to be willing and able to learn what is needed to manage them.\n\nThe ideal candidate for this role thinks like a scientist and wants to own our growing sensor processing software stack. We are a small team working in a fast-paced, constantly changing environment, and while the core job function involves software systems, you’ll have the opportunity to do wide-ranging work across all aspects of our atmospheric sensors, from hardware R&D to collaborating with academic partners.\n\n\nResponsibilities\n\nProduction software that converts raw balloon measurements into weather observations in customer-facing databases\n\nSensor processing and quality control algorithms for temperature, pressure, humidity, wind, and other measurements\n\nInvestigating pipeline failures, including data loss and quality issues\n\nImproving the architecture and scalability of sensor-processing systems as the constellation grows\n\n\nSkills and qualifications\n\nHave strong intuition for sensors, physics, and/or statistics and can reason from first principles\n\nCan communicate clearly about complex technical systems across hardware and software teams\n\nHave strong Python and data-analysis skills and are willing to learn how to manage databases, Linux systems, production services, and 24/7 data pipelines\n\nHave high agency and are comfortable owning systems end-to-end with minimal oversight\n\nBonus\n\nBackground in physics, atmospheric science, computer science, or another quantitative engineering field\n\nExperience with instrumentation, calibration, meteorological sensors, or scientific measurement systems\n\nExperience with statistics, filtering, or production data-processing systems\n\nExperience working in a fast-moving R&D environment\n\n\nBenefits\n\n401(k), health, dental and vision insurance, unlimited PTO, stock options, and office food and beverages.\n\n\nLocation\n\nIn person at 1600 Bridge Parkway, Redwood City, CA.\n\n\nBase pay: $100,000–$200,000 / year\n\n\nDepending on experience and scope.\n\n\nEmployment type: Full time\n\n\nWork arrangement: On-site",
+      "apply_options": [
+        {
+          "title": "WindBorne Systems",
+          "link": "https://windbornesystems.com/careers/sensor-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Greenhouse",
+          "link": "https://boards.greenhouse.io/crexi/jobs/4537148005?t=027774ca5us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/staff-senior-data-engineer-simbe-robotics-2-10087956?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/jr-data-engineer--california--ece78e5d7de0a07cfb7c2c12c22b68642?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-base-engineer-ca--581da127-7bee-47b6-a3a7-6d5c4a5ee579?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Useparallel",
+          "link": "https://www.useparallel.com/app/candidate/job/6a5040eb5bac6edef0ba6b54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dev Engineer Jobs",
+          "link": "https://www.devengineerjobs.com/job/CJDvoM3IF/westwood-park/annotation-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-base-engineer-infowaysolutions-bay-area--ss-us-1hfw6z7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5zb3IgRGF0YSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IldpbmRCb3JuZSIsImh0aWRvY2lkIjoiMUNSdVRFaWxOdGhkVjk0MEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduRXphWE5QY0hCQlozaG1OMVZTZUhZdGRFbzJXblZrYURJMFF6WnZTV0p2T0Vab1pHeE1WVGh2ZUZCRExVOVdiMDVWZW5WMFNFNWFPVTFaY210QlZsWXpjM1pVVTFwSVRsWndha2sxVTE4d1FWWmxYMGN5VW1ZMldrTkZTVE5uYm5OaFoxUllTekoyUzNKbVRqRnhSVkl4Ym5Wb1dGOVZNakEyU0RaWVgzQTJlRE5zWW1VU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRHYzFoalJqRklkazFYTVhWYVJtZHllazlVYTBZdFUxUk9NRkZuIiwiZmN2IjoiMyIsImZjX2lkIjoiMUNSdVRFaWxOdGhkVjk0MEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer III - (Visualizations, Applications, Operations)",
+      "company_name": "MUSC",
+      "location": "Charleston, SC",
+      "via": "MUSC Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This role requires high adaptability, as you will pivot between foundational data engineering, ad-hoc financial analysis, and sophisticated modeling projects depending on business needs",
+            "Must be able to work and collaborate effectively with teams across the MUSC Health System",
+            "Bachelor’s Degree Required with 8-10 years’ experience in healthcare analytics or analytics in healthcare adjacent industry",
+            "Certification and/or expressed proficiency or master of SQL language",
+            "Certification and/or expressed proficiency or master of DAX language",
+            "History of mastery in PowerBI Visualization"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Grade",
+            "Scheduled Weekly Hours",
+            "Health, dental, vision, and life insurance",
+            "Employer Sponsored Retirement Plan",
+            "Paid time off and extended sick leave",
+            "Paid Parental Leave",
+            "Disability insurance plan options",
+            "Continuous professional and clinical training",
+            "Competitive pay",
+            "Annual Merit Increase",
+            "Wellbeing resources",
+            "Tuition Reimbursement",
+            "Employee perks and discounts",
+            "Employee referral program",
+            "Flexible schedule options",
+            "Certification incentive program"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will function as the Subject Matter Expert (SME) on data architecture, bridging the gap between complex backend systems and actionable business intelligence",
+            "This is a dynamic, high-impact position designed for a problem-solver who is eager to move beyond simple reporting and into predictive analytics and statistical modeling",
+            "You will navigate the full data lifecycle from engineering robust data pipelines in Microsoft Fabric to designing executive-level dashboards that drive decision-making across the enterprise",
+            "Under general supervision, this individual performs advanced data engineering, analytics, and reporting functions",
+            "The Healthcare Data Engineer is responsible for the integrity, accessibility, and usability of data within the MCP network",
+            "Reporting to the Director of Operational Performance, you will collaborate with leadership to transform raw data into meaningful insights",
+            "You will be responsible for understanding where data lives, the native capabilities of source systems (such as Epic), and how to leverage external tools to build scalable solutions",
+            "Data Architecture & Management: Oversee the design, maintenance, and security of the organization's data estate, including SQL databases and Microsoft Fabric capacities",
+            "Ensure data models are scalable, efficient, and accurate",
+            "Statistical Analysis & Predictive Modeling: Go beyond historical reporting by designing predictive models and statistical forecasts",
+            "You will identify correlations in clinical and financial data to anticipate operational bottlenecks, validate strategic initiatives, and support complex proformas",
+            "Advanced Analytics & Reporting: Develop and manage a comprehensive suite of automated reports and dashboards",
+            "Utilize advanced DAX and visualization best practices to render complex datasets into clear, actionable metrics for diverse stakeholders",
+            "Operational & Financial Strategy: Partner with the finance and operations teams to validate data integrity and identify opportunities for performance improvement",
+            "Strategic Growth Support: Collaborate with business development and leadership to analyze data regarding new opportunities, partnerships, and network expansion",
+            "Process Innovation: Identify manual or inefficient processes within the reporting infrastructure and implement automated solutions using tools like Azure Data Factory and Power Automate"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=d9X5JxjnGrOHjKIfAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWKsQrCMBRFce0HODi9UaU2IrjoJFWkgjhIXUsaHmkkvhfyIhS_yY-0Ii6He7gne4-yeq-ThgNZR4gRqqqCBUxvTp7au5dOjkly2IXgnfnbJWD87dkQn7gFQR1NB0xwZLYeJ9supSAbpUR8YSUNuSkMPxQTttyrO7fyRSOdjhi8Ttis1su-CGTn43N9LcERlMPpURJTDtfyA0GAdzivAAAA&shmds=v1_Ac3VAowbA29I6wNl-4OTd7ygxMFoh-HrOT8PgWzYiOZ3L0kjJg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=d9X5JxjnGrOHjKIfAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5095b27e2c175e6e3d9de/images/1GrCwD-NBoM811Po-_M86j4gLh1icOzULDocP1PKyEU.png",
+      "extensions": [
+        "16 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://musc.career-pages.com/jobs/data-engineer-iii-visualizations-applications-operations-charleston-south-carolina-united-states",
+      "job_title": "Data Engineer III - (Visualizations, Applications, Operations)",
+      "description": "Job Description Summary\n\nMUSC Community Physicians (MCP) is an entity within the Medical University of South Carolina that provides healthcare to patients within the rural health network throughout the state of South Carolina. \n\nThe Healthcare Data Engineer III serves as a primary technical architect and strategic partner to the Director of Operational Performance. In this role, you will function as the Subject Matter Expert (SME) on data architecture, bridging the gap between complex backend systems and actionable business intelligence. This is a dynamic, high-impact position designed for a problem-solver who is eager to move beyond simple reporting and into predictive analytics and statistical modeling. You will navigate the full data lifecycle from engineering robust data pipelines in Microsoft Fabric to designing executive-level dashboards that drive decision-making across the enterprise.\n\nEntity\n\nMUSC Community Physicians (MCP)\n\nWorker Type\n\nEmployee\n\nWorker Sub-Type​\n\nRegular\n\nCost Center\n\nCC004512 MCP - Administration\n\nPay Rate Type\n\nSalary\n\nPay Grade\n\nHealth-31\n\nScheduled Weekly Hours\n\n40\n\nWork Shift\n\n\n\nJob Description\n\nUnder general supervision, this individual performs advanced data engineering, analytics, and reporting functions. The Healthcare Data Engineer is responsible for the integrity, accessibility, and usability of data within the MCP network.\n\n \n\nReporting to the Director of Operational Performance, you will collaborate with leadership to transform raw data into meaningful insights. You will be responsible for understanding where data lives, the native capabilities of source systems (such as Epic), and how to leverage external tools to build scalable solutions. This role requires high adaptability, as you will pivot between foundational data engineering, ad-hoc financial analysis, and sophisticated modeling projects depending on business needs.\n\n \n\nData Architecture & Management: Oversee the design, maintenance, and security of the organization's data estate, including SQL databases and Microsoft Fabric capacities. Ensure data models are scalable, efficient, and accurate.\n\n \n\nStatistical Analysis & Predictive Modeling: Go beyond historical reporting by designing predictive models and statistical forecasts. You will identify correlations in clinical and financial data to anticipate operational bottlenecks, validate strategic initiatives, and support complex proformas.\n\n \n\nAdvanced Analytics & Reporting: Develop and manage a comprehensive suite of automated reports and dashboards. Utilize advanced DAX and visualization best practices to render complex datasets into clear, actionable metrics for diverse stakeholders.\n\n \n\nOperational & Financial Strategy: Partner with the finance and operations teams to validate data integrity and identify opportunities for performance improvement.\n\n \n\nStrategic Growth Support: Collaborate with business development and leadership to analyze data regarding new opportunities, partnerships, and network expansion.\n\n \n\nProcess Innovation: Identify manual or inefficient processes within the reporting infrastructure and implement automated solutions using tools like Azure Data Factory and Power Automate.\n\n \n\nMust be able to work and collaborate effectively with teams across the MUSC Health System.\n\n \n\nMinimum Education and Experience:\n\n \n\nBachelor’s Degree Required with 8-10 years’ experience in healthcare analytics or analytics in healthcare adjacent industry. Experience with EHR-based reporting preferred, Epic experience preferred.\n\nRequired Licensure, Certifications, Registrations:\n\n            Required:\n\n\nCertification and/or expressed proficiency or master of SQL language\n\n\nCertification and/or expressed proficiency or master of DAX language\n\n\nHistory of mastery in PowerBI Visualization\n\n\nPreferred Skills / Certifications:\n\n\nMicrosoft Fabric\n\n\nPower Automate\n\n\nStatistical Modeling\n\n\nEpic Certification or Proficiency in: Clarity, Caboodle, Cogito and Resolute PB - Preferred\n\n\nAzure Data Factory (ADF)\n\n\n\n\nAdditional Job Description\n\nBenefits:\n\n\nHealth, dental, vision, and life insurance\nEmployer Sponsored Retirement Plan\nPaid time off and extended sick leave.\nPaid Parental Leave\nDisability insurance plan options\nContinuous professional and clinical training\nCompetitive pay\nAnnual Merit Increase\nWellbeing resources\nTuition Reimbursement\nEmployee perks and discounts\nEmployee referral program\nFlexible schedule options\nCertification incentive program\n\n\nIf you like working with energetic enthusiastic individuals, you will enjoy your career with us!\n\n\n\nThe Medical University of South Carolina is an Equal Opportunity Employer. MUSC does not discriminate on the basis of race, color, religion or belief, age, sex, national origin, gender identity, sexual orientation, disability, protected veteran status, family or parental status, or any other status protected by state laws and/or federal regulations. All qualified applicants are encouraged to apply and will receive consideration for employment based upon applicable qualifications, merit and business need. \n\n\n\nMedical University of South Carolina participates in the federal E-Verify program to confirm the identity and employment authorization of all newly hired employees. For further information about the E-Verify program, please click here:  http://www.uscis.gov/e-verify/employees",
+      "apply_options": [
+        {
+          "title": "MUSC Careers",
+          "link": "https://musc.career-pages.com/jobs/data-engineer-iii-visualizations-applications-operations-charleston-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/48c0943d-82df-4039-81b0-b69288357df1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/musc-health/Job/Data-Engineer-III-(Visualizations,-Applications,-Operations)/-in-Charleston,SC?jid=e2588084ad2516d9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-engineer-iii_7ea1a52b25995b5da5b64385159482d95cd26?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-engineer-iii-visualizations-applications-operations-charleston-sc--76ff7916-023a-4afd-9551-78636b5f9026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/data-engineer-iii-visualizations-applications-operations-muschealthmedicaluniversityofsc-charleston-sc_89365659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Data-Engineer-III----Visualizations--Applications--Operations-_R-0000068140?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/data-engineer-iii-visualizations-applications-operations-charleston-sc--c74bbfb8-ea94-4320-a846-ad9cee94cbd4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIElJSSAtIChWaXN1YWxpemF0aW9ucywgQXBwbGljYXRpb25zLCBPcGVyYXRpb25zKSIsImNvbXBhbnlfbmFtZSI6Ik1VU0MiLCJodGlkb2NpZCI6ImQ5WDVKeGpuR3JPSGpLSWZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZblJzTFhaaFJFRlNkVll4Y0c1aVVXZHFPR3hWT0hWWFRFVmtjME5ZWkdWMmFXVnFlRkJuUlV0ZldVOU1RVEZWVEZCb0xVdEdaMVZxVkhGaFdYUmtXVFI2UjJSVlpYUlNkVkJOYzE4eWNYWk1WRFEyZVdOck1tZENlVTFWVEhWNWRHUndhRUpVVUZJMmQyYzBNVTk0Ym10Vk5VVlNRMTlmVlhZNWExVnVkakV6VTFONGEyY1NGMWQzYm14aGIzRjBTblJEZFdsTVRWQm9ZVTk2YlVGTkdpSkJTRTR3UlRkSVZ6TjZiRkpWVDFBM1lrRXpkamRGVmt0TVRqTmZTMmQzWjJoUiIsImZjdiI6IjMiLCJmY19pZCI6ImQ5WDVKeGpuR3JPSGpLSWZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Hadoop Data engineer",
+      "company_name": "eTeam Inc.",
+      "location": "Maryland Heights, MO",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "AWS, Hadoop",
+            "Strong programming experience in Scala/Python (Spark) and Core Java",
+            "Hands-on experience with Apache Kafka for streaming data pipelines",
+            "Working knowledge of AWS services (S3) and Cloudera platform tools (Hive, Iceberg)",
+            "Strong SQL skills, including CDC concepts, across Oracle and SQL Server",
+            "Experience with dimensional data warehouse modeling",
+            "Proficiency in Unix shell scripting and Python for automation",
+            "Experience migrating on-prem Hadoop workloads to cloud platforms",
+            "Understanding of JVM internals and Spark performance tuning techniques",
+            "Prior experience in the Communications/Telecom domain (CDRs, network telemetry data)",
+            "Familiarity with data governance and regulatory compliance frameworks",
+            "Bachelor s degree in computer science, Engineering, or a related field, or equivalent practical experience",
+            "Manage and maintain enterprise data lakehouse architectures spanning AWS and Cloudera environments, leveraging S3, Apache Iceberg, and Hive for scalable storage and querying",
+            "Implement Change Data Capture CDC and write complex SQL to integrate data from relational databases Oracle, SQL Server into dimensional data warehouses",
+            "Automate and orchestrate pipeline workflows using Unix shell scripting and Python",
+            "Lead and support migration of legacy Hadoop workloads to AWS cloudnative architectures"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design, build, and optimize scalable batch and real-time data pipelines using Apache Spark (Scala/Python), Core Java, and Apache Kafka to process high-volume data",
+            "Manage and maintain enterprise data Lakehouse architectures spanning AWS and Cloudera environments, leveraging S3, Apache Iceberg, and Hive for scalable storage and querying",
+            "Implement Change Data Capture (CDC) and write complex SQL to integrate data from relational databases (Oracle, SQL Server) into dimensional data warehouses",
+            "Automate and orchestrate pipeline workflows using Unix shell scripting and Python",
+            "Lead and support migration of legacy Hadoop workloads to AWS cloud-native architectures",
+            "Monitor, troubleshoot, and tune JVM and Spark job performance to ensure reliability and efficiency at scale",
+            "Ensure all data pipelines and storage practices adhere to regulatory compliance and data governance standards",
+            "Collaborate with cross-functional teams (data architects, analysts, platform engineers) to translate business requirements into robust data solutions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=damgy273SFfzHregAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7CE6Hoz-JCC52FaxCcXEv1_RIIuldyGWoL-Ezi9_wNd9Vs-twEslwxYpA7CMTFTjAQ0ZQwuICCMNNxCdat6HWrBdrVZPxWrFGZ5zMVphGWexbRv03aMBCOWGl4XQ-Liaz327oRTjDnZ2ByNBj-STkCTqKPlTdQ__8ASwvdEqRAAAA&shmds=v1_Ac3VAoz7sP9-d1Noj0-fOYD8Ygj-Jg8jqFiIlkSenR8Hii1Odw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=damgy273SFfzHregAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5095b27e2c175e6e3d9de/images/fH7vEbbqzHLT0l82-DOmSD1gaChnlraA0zT9o1nAoFM.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Contractor"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/eteam/Job/Hadoop-Data-engineer/-in-Maryland-Heights,MO?jid=cacc8b6c9fce6100",
+      "job_title": "Hadoop Data engineer",
+      "description": "Job Title: Hadoop Data engineer\n Work Location: Maryland Heights MO 63043 (hybrid )\n Contract duration: 12\n F2F interview - Yes\n\nJob Details:\n Must Have skills:\n AWS, Hadoop\n\nKey Responsibilities\n\n Design, build, and optimize scalable batch and real-time data pipelines using Apache Spark (Scala/Python), Core Java, and Apache Kafka to process high-volume data.\n Manage and maintain enterprise data Lakehouse architectures spanning AWS and Cloudera environments, leveraging S3, Apache Iceberg, and Hive for scalable storage and querying.\n Implement Change Data Capture (CDC) and write complex SQL to integrate data from relational databases (Oracle, SQL Server) into dimensional data warehouses.\n Automate and orchestrate pipeline workflows using Unix shell scripting and Python.\n Lead and support migration of legacy Hadoop workloads to AWS cloud-native architectures.\n Monitor, troubleshoot, and tune JVM and Spark job performance to ensure reliability and efficiency at scale.\n Ensure all data pipelines and storage practices adhere to regulatory compliance and data governance standards.\n Collaborate with cross-functional teams (data architects, analysts, platform engineers) to translate business requirements into robust data solutions.\n\nRequired Skills & Technology:\n Strong programming experience in Scala/Python (Spark) and Core Java\n Hands-on experience with Apache Kafka for streaming data pipelines\n Working knowledge of AWS services (S3) and Cloudera platform tools (Hive, Iceberg)\n Strong SQL skills, including CDC concepts, across Oracle and SQL Server\n Experience with dimensional data warehouse modeling\n Proficiency in Unix shell scripting and Python for automation\n Experience migrating on-prem Hadoop workloads to cloud platforms\n Understanding of JVM internals and Spark performance tuning techniques\n\nPreferred Qualifications:\n Prior experience in the Communications/Telecom domain (CDRs, network telemetry data)\n Familiarity with data governance and regulatory compliance frameworks\n Bachelor s degree in computer science, Engineering, or a related field, or equivalent practical experience\n\nTop 3 responsibilities \n Manage and maintain enterprise data lakehouse architectures spanning AWS and Cloudera environments, leveraging S3, Apache Iceberg, and Hive for scalable storage and querying. Implement Change Data Capture CDC and write complex SQL to integrate data from relational databases Oracle, SQL Server into dimensional data warehouses.\n Automate and orchestrate pipeline workflows using Unix shell scripting and Python. Lead and support migration of legacy Hadoop workloads to AWS cloudnative architectures.\n M",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/eteam/Job/Hadoop-Data-engineer/-in-Maryland-Heights,MO?jid=cacc8b6c9fce6100&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/hadoop-data-engineer-maryland-heights-mo--0c6ec48f-5cfe-4d1b-a99d-8f2d6119469d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The BIG Jobsite",
+          "link": "https://id.thebigjobsite.com/details/E3D0AB6FB93A07C1A0A4C4F8256B04D4/hadoop-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/65bf8ce0-4684-470a-b668-0c77f1ff2034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/hadoop-data-engineer-eteam-maryland-heights--ss-us-s69rbn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-mo-maryland-heights-hadoop-data-engineer-eteam-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28646-2d1bd56bce3e06d6d9aaac719c68f34b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIYWRvb3AgRGF0YSBlbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6ImVUZWFtIEluYy4iLCJodGlkb2NpZCI6ImRhbWd5MjczU0ZmekhyZWdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZa1ZrWTNSSU1rY3pWM2t6YzNWMlNEQk5NMk5SUWtoclVsUllZV2d6WDJzM1REZFBRM0ZSUlZvNGNGUmtaVVpaWkVnMVNVSlJTeTFQWkUwMVNWaDVTWGRPUWxVdFJsQmhjMXBRTTAxNU9WaGlSVkprZDFaelJEVkRkVmhrVkdoNlRETndORTEzTnpOVFdFSTNPRXBuZUU1MVowRmZSVzh3TTFNNFpYYzNkMWRXTlVkQmNVTVNGMWQzYm14aGIzRjBTblJEZFdsTVRWQm9ZVTk2YlVGTkdpSkJTRTR3UlRkR1IxVTBVVzVEZDJsUWVXSnhVa2xMWDJwWmRrTm9iMkprYVhObiIsImZjdiI6IjMiLCJmY19pZCI6ImRhbWd5MjczU0ZmekhyZWdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Engineer, Finance",
+      "company_name": "Superhuman",
+      "location": "Anywhere",
+      "via": "Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You have 3+ years of experience building and operating production data pipelines and data platforms, ideally supporting finance, revenue, billing, or other business-critical analytical use cases",
+            "You’re highly proficient in SQL and have strong data engineering foundations, with hands-on experience in Spark and a modern lakehouse or cloud data warehouse (Databricks, Delta Lake, dbt, Snowflake, or similar)",
+            "You have strong data modeling and data warehouse design skills, with the ability to transform complex business processes and source-system data into clear, reliable, and reusable datasets",
+            "You bring a rigorous approach to data quality, precision, observability, and reconciliation, especially for datasets used in revenue reporting and business decisions",
+            "You have experience with workflow orchestration and CI/CD for data (for example, Databricks Workflows or Airflow, with Git-based deployment)",
+            "You’re comfortable using AI-assisted development tools like Codex or Claude Code to move faster, and you have the judgment to validate and supervise their output",
+            "You communicate clearly and collaborate effectively with business partners, analysts, engineers, and leadership, translating smoothly between technical and business audiences",
+            "You care about business impact and enjoy turning ambiguous finance and revenue questions into reliable, scalable data products and trustworthy metrics",
+            "You’re a self-starting problem-solver who thinks from first principles, manages priorities across multiple projects, and thrives in a fast-paced, results-driven environment",
+            "Direct experience supporting Finance, Revenue Operations, or revenue analytics, including metrics such as ARR, NRR, bookings, billing, or revenue attribution",
+            "Experience ingesting or modeling data from Stripe or similar billing, payments, ERP, or subscription-management systems",
+            "Experience working with product-usage data, usage-based billing, or attribution models",
+            "A track record of building well-documented, self-serve data products that business and analytics teams rely on"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Superhuman offers all team members competitive pay along with a benefits package encompassing the following and more:",
+            "Excellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)",
+            "Disability and life insurance options",
+            "401(k) and RRSP matching",
+            "Paid parental leave",
+            "20 days of paid time off per year, 12 days of paid holidays per year, two floating holidays per year, and flexible sick time",
+            "Generous stipends (including those for caregiving, pet care, wellness, your home office, and more)",
+            "Annual professional development budget and opportunities",
+            "Superhuman takes a market-based approach to compensation, so base pay may vary by location",
+            "The expected salary ranges for this position are outlined by compensation zone and may be modified in the future"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Engineer on the Finance & Revenue team, you’ll own the pipelines, models, and datasets that power revenue reporting across Superhuman’s AI-native productivity platform: Grammarly’s writing assistance, Mail, Docs, Databases, and Go",
+            "You’ll partner closely with Finance, Revenue Operations, Analytics, and Engineering to turn billing, bookings, customer, and product-usage signals into reliable, decision-grade data",
+            "The data you model connects those surfaces to create a unified view of ARR, NRR, bookings, and revenue performance across the Superhuman Suite",
+            "You’ll own revenue-critical systems end-to-end and contribute to the revenue attribution model, ensuring the company’s most visible financial datasets are precise, accessible, and trusted",
+            "Your work will directly shape how leadership understands business performance and makes investment decisions",
+            "Design, build, and own scalable data pipelines (Spark/Databricks) that ingest and model billing, subscription, payment, and bookings data across the Superhuman Suite",
+            "Build and maintain the foundational datasets for ARR, NRR, bookings, and other revenue metrics, ensuring the company has a consistent, trusted view of financial performance",
+            "Contribute to the revenue attribution model by building and maintaining the underlying datasets that connect product usage, customer lifecycle, and commercial signals into an explainable view of business performance",
+            "Model revenue data into clean, well-documented, reusable tables that Finance, Revenue Operations, analysts, and business partners can self-serve from",
+            "Own data quality, freshness, and reliability for revenue-critical datasets, with automated checks, monitoring, alerting, and reconciliation processes",
+            "Partner with Finance, Revenue Operations, Analytics Engineering, Product, and Engineering to translate business questions into robust data models and trustworthy metrics",
+            "Continuously improve the performance, cost efficiency, and developer experience of our finance and revenue data platform",
+            "You’ll do this alongside partners across Finance, Revenue Operations, Analytics Engineering, Product, and Engineering",
+            "You’ll have the freedom to own your systems and directly influence the roadmap, and the complexity of what you build will grow quickly as we scale"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=4XTPRYKEwn9T41fAAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CC7eLG0igotOolZw7QOUaziSlPYu5FLoS_jO1uX_xr_67qrmiQXhxT4yUa6hjYzsCBr4yABKmF0AYXiL-In2t1BK0qu1qpPxWrBEZ5zMVpgGWe0og_7Ta8BMacJC_flyWk1ifzx0S6IclhkZIkO30ebtFtVJDY_7DzR-lQOQAAAA&shmds=v1_Ac3VAozVoeeQBXzUcvflb4NYicsHGw7MoaO7M9n2BQMtDkXmMw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=4XTPRYKEwn9T41fAAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5095b27e2c175e6e3d9de/images/M5c1hSGaHXrVnOn0WXOZQdLbULYJdbCnfeD5_Iv1DK8.png",
+      "extensions": [
+        "157K–245K a year",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/4c9e87f9-6fa1-4969-90bf-1cab630a0275",
+      "job_title": "Data Engineer, Finance",
+      "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture.\n\nPreferred locations for team members for our Data Platform roles are our San Francisco or Seattle hubs.\n\n\n\nAbout SuperhumanGrammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company's products include Grammarly's writing assistance, Docs’ collaborative workspace, Mail's inbox management, and Go, the proactive AI assistant that understands context and delivers help automatically. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com and about our values here.\n\n\n\nThe OpportunityWant to build the data foundations behind how Superhuman measures and grows its business? As a Data Engineer on the Finance & Revenue team, you’ll own the pipelines, models, and datasets that power revenue reporting across Superhuman’s AI-native productivity platform: Grammarly’s writing assistance, Mail, Docs, Databases, and Go. You’ll partner closely with Finance, Revenue Operations, Analytics, and Engineering to turn billing, bookings, customer, and product-usage signals into reliable, decision-grade data.\n\nSuperhuman is a compound startup: we build many products as one integrated suite rather than standalone tools. That model creates an unusually rich and complex revenue data opportunity, with signals spanning billing systems, self-serve and enterprise motions, and cross-product customer usage. The data you model connects those surfaces to create a unified view of ARR, NRR, bookings, and revenue performance across the Superhuman Suite.\n\nThis is a high-ownership, high-impact role at the intersection of data engineering, finance, and business strategy. You’ll own revenue-critical systems end-to-end and contribute to the revenue attribution model, ensuring the company’s most visible financial datasets are precise, accessible, and trusted. Your work will directly shape how leadership understands business performance and makes investment decisions.\n\n What you’ll do\n\nDesign, build, and own scalable data pipelines (Spark/Databricks) that ingest and model billing, subscription, payment, and bookings data across the Superhuman Suite.\n\nBuild and maintain the foundational datasets for ARR, NRR, bookings, and other revenue metrics, ensuring the company has a consistent, trusted view of financial performance.\n\nContribute to the revenue attribution model by building and maintaining the underlying datasets that connect product usage, customer lifecycle, and commercial signals into an explainable view of business performance.\n\nModel revenue data into clean, well-documented, reusable tables that Finance, Revenue Operations, analysts, and business partners can self-serve from.\n\nOwn data quality, freshness, and reliability for revenue-critical datasets, with automated checks, monitoring, alerting, and reconciliation processes.\n\nPartner with Finance, Revenue Operations, Analytics Engineering, Product, and Engineering to translate business questions into robust data models and trustworthy metrics.\n\nContinuously improve the performance, cost efficiency, and developer experience of our finance and revenue data platform.\n\nYou’ll do this alongside partners across Finance, Revenue Operations, Analytics Engineering, Product, and Engineering. We think from first principles, challenging the familiar to reframe problems and reach sharper solutions, and win with grit, staying with the hardest problems through the messy middle. You’ll have the freedom to own your systems and directly influence the roadmap, and the complexity of what you build will grow quickly as we scale.\n\n\n\nQualificationsYou have 3+ years of experience building and operating production data pipelines and data platforms, ideally supporting finance, revenue, billing, or other business-critical analytical use cases.\n\nYou’re highly proficient in SQL and have strong data engineering foundations, with hands-on experience in Spark and a modern lakehouse or cloud data warehouse (Databricks, Delta Lake, dbt, Snowflake, or similar).\n\nYou have strong data modeling and data warehouse design skills, with the ability to transform complex business processes and source-system data into clear, reliable, and reusable datasets.\n\nYou bring a rigorous approach to data quality, precision, observability, and reconciliation, especially for datasets used in revenue reporting and business decisions.\n\nYou have experience with workflow orchestration and CI/CD for data (for example, Databricks Workflows or Airflow, with Git-based deployment).\n\nYou’re comfortable using AI-assisted development tools like Codex or Claude Code to move faster, and you have the judgment to validate and supervise their output.\n\nYou communicate clearly and collaborate effectively with business partners, analysts, engineers, and leadership, translating smoothly between technical and business audiences.\n\nYou care about business impact and enjoy turning ambiguous finance and revenue questions into reliable, scalable data products and trustworthy metrics.\n\nYou’re a self-starting problem-solver who thinks from first principles, manages priorities across multiple projects, and thrives in a fast-paced, results-driven environment.\n\nNice to have\n\nDirect experience supporting Finance, Revenue Operations, or revenue analytics, including metrics such as ARR, NRR, bookings, billing, or revenue attribution.\n\nExperience ingesting or modeling data from Stripe or similar billing, payments, ERP, or subscription-management systems.\n\nExperience working with product-usage data, usage-based billing, or attribution models.\n\nA track record of building well-documented, self-serve data products that business and analytics teams rely on.\n\n\n\nCompensation and BenefitsSuperhuman offers all team members competitive pay along with a benefits package encompassing the following and more:\n\nExcellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)\n\nDisability and life insurance options\n\n401(k) and RRSP matching\n\nPaid parental leave\n\n20 days of paid time off per year, 12 days of paid holidays per year, two floating holidays per year, and flexible sick time\n\nGenerous stipends (including those for caregiving, pet care, wellness, your home office, and more)\n\nAnnual professional development budget and opportunities\n\nSuperhuman takes a market-based approach to compensation, so base pay may vary by location. Our US locations are categorized into two compensation zones based on proximity to our hub locations.\n\nFor more information about our compensation zones and locations where we currently support employment, please refer to this page. If a location of interest is not listed, please speak with a recruiter for additional information.\n\nBase pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined by compensation zone and may be modified in the future.\n\n\n\nWe encourage you to applyAt Superhuman, we value our differences, and we encourage all to apply—especially those whose identities are traditionally underrepresented in tech organizations. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Superhuman is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).",
+      "apply_options": [
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/4c9e87f9-6fa1-4969-90bf-1cab630a0275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/senior-data-engineer-finance-genesys-JV_KO0,28_KE29,36.htm?jl=1010213380289&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-engineer-finance_7ea1aef8578221a107cf93ce2f81fbb0191d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://genesys.wd1.myworkdayjobs.com/en-US/genesys/job/North-Carolina-USA/Senior-Data-Engineer_JR111860/apply/applyManually?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/senior-data-engineer-finance-5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/data-engineer-finance-4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Jobzeno",
+          "link": "https://jobzeno.liveblog365.com/remote-jobs/senior-data-engineer-finance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/ascot-group/data-engineer-finance-130231641/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyLCBGaW5hbmNlIiwiY29tcGFueV9uYW1lIjoiU3VwZXJodW1hbiIsImh0aWRvY2lkIjoiNFhUUFJZS0V3bjlUNDFmQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdVUjVZbDlFZHpaallqZEtSM2x6UzA5bGNEWnZUa1JVVVZsdlkxSlJhMDVFVFhoblVuQlhiMlJyWTFGS1RtdHNPRVZ0TmpGSlozSm9OekZ6V1ZaT2VteEVhak5XY1UweU1sOTBha2RtZWtaUFNFMWFhbVZQVEUxalZrUmZZVGRLVm5vMU1sSTVPRGhIUjAxclpsUlFNMjlzWVdaQmJWaDRhVXB1Tm5rNFZ6aHdSMEpUTFVjU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRGV2xsVWIwODViV3hsWWtaMGFUaHBXa0ZsUkZsNldIQm5OMlYzIiwiZmN2IjoiMyIsImZjX2lkIjoiNFhUUFJZS0V3bjlUNDFmQUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer",
+      "company_name": "Maas Energy Works, Inc",
+      "location": "Redding, CA",
+      "via": "Dayforcehcm.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We want someone who learns new tools on their own initiative, takes ownership of production systems, and wants to grow with the platform",
+            "3+ years of professional experience with SQL Server and T-SQL, including set-based query design, stored procedures, execution-plan tuning, and indexing",
+            "Hands-on database administration in production: backup and recovery, SQL Agent, maintenance jobs, logins and role-based security, and capacity monitoring",
+            "Experience building and operating production ETL/ELT pipelines (Azure Data Factory, Synapse pipelines, Fabric Data Factory, or SSIS), including incremental loads, failure handling, and reruns",
+            "Working knowledge of dimensional modeling: facts, dimensions, grain, and slowly changing dimensions",
+            "Hands-on Microsoft Fabric experience: Warehouse and Lakehouse, Data Factory pipelines, Dataflow Gen2, notebooks, and capacity monitoring",
+            "Familiarity with Azure fundamentals: resource organization, networking basics, managed identities, and Key Vault",
+            "Experience implementing data quality checks, monitoring, or alerting production data",
+            "Proficiency with Git",
+            "A track record of learning new tools and platforms independently and applying them to real work",
+            "Python, and C# programming languages",
+            "Spark framework",
+            "This is largely a sedentary role requiring extended computer work, regular communication, and the ability to manage multiple technical priorities",
+            "The position may occasionally require travel in vehicles or airplanes and access to company operating locations"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $100,000 - $130,000",
+            "Hours: Full-time, Monday - Friday, 8:30am - 5:00pm, with flexibility as business and project needs require",
+            "Three weeks of paid vacation",
+            "Paid sick time",
+            "Eight and a half paid holidays per year",
+            "Two paid flexible holidays per year",
+            "ICHRA Health Insurance Reimbursement",
+            "100% Employer Paid Dental and Vision Insurance",
+            "100% Employer Paid Life Insurance",
+            "100% Employer Paid Medical Clinic Membership or Cash Equivalent for employees and dependents",
+            "Other benefits accrue over the first 3-24 months, including additional paid vacation, 401(k) with company matching, and quarterly profit share"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Reports to: Data Team Manager",
+            "Administer the SQL Server environment in Azure: backups and restore testing, SQL Agent jobs, index and statistics maintenance, security and access, storage growth, and performance tuning",
+            "Monitor continuous data ingestion from 100+ projects and resolve gaps, delays, duplicates, and out-of-range values before they reach downstream reporting",
+            "Build, maintain, and troubleshoot pipelines that move data from staging and external REST APIs into the Fabric data warehouse",
+            "Maintain and extend the warehouse's dimensional models, data quality rules, and load performance",
+            "Build alerting for pipeline failures, data freshness, and completeness, and own the response when they fire",
+            "Contribute to the migration of remaining workloads from Azure Synapse to Microsoft Fabric",
+            "Support analysts and application developers who consume warehouse data through Power BI semantic models and internal applications",
+            "Write and maintain runbooks and technical documentation, and work in Git with code review and CI/CD deployment",
+            "Limited travel to company offices or project locations may be required"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=lEkjM0k105KqxI8tAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU436CK1EcHFTqIiCi4ujuWSHkk03pVchvoLfrW6vPVVn0k1O2BBOLKPTJRhCRexoITZBRCGk4hPNG1DKYNujVFNjdeCJbrGycsIk5XRPMTqn04DZhoSFurWm9XYDOwX8yui_grK_g13yU-t4cwOIsON-j6yr2G_-wI5j5kEjQAAAA&shmds=v1_Ac3VAoxKU3DRG7qlsRISdlVb1vGI4pYNBo3V7dEF4y6Nw7L-EQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=lEkjM0k105KqxI8tAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAflBMVEX___8AAACUlJTd3d3l5eXOzs7y8vKkpKSrq6vW1tbq6uri4uLu7u6NjY1FRUW4uLhtbW2_v7-rwazH28hycnJUVFR6enqEhIQoKChaWlqenp5kZGQ2Mzb5-fnO4s-juqQcHBxMTEzV5NZAPkArJyvI18m3zbkPDw-xwrLf7uAOf5emAAABi0lEQVRIie1TXXeDIAxNQD4UEVmtVFFbu822__8PLrg9zL115-zsxftgCHKTmwQAduzYseOfIMdf0TTr-mMun6Vl2OEF6fPlpghFXgDwfN1YjRFC_FDFWmRSQ2mxcsmPWAEgWgqIPlGSERjrATe80mEORwxAP11GG3VEoU8Vg67R6eixUTfwaJnttwmxh6qDIaRlylAHdUIxM451QAV5MloG5wKWm8agrOqWFDKQyJLUBkjswF477y2ObzEZj_M84Pcix-rkSZDJ4NLDjdLC-zIth2lZXg7TNL18mcNyPp8P3xOOzQ3YhRphAP1lppjvhOv9en-kxeOxeo_7ldb3TY2kBlikUuYo1xrD2AauTSOC1iS9t8rZIvSqF-1m0o6aA-EVhrj2CaDN7Gxs1nFmBPm6U9pltdJ9EbbjdyiIiQ2Nw6eQFljg3jSltSUN1hFHGesUK1m2YaoOrQQnLbYq-YJzLp00BV0VOlnwQjrg6yb8AEakOxfx6csqRbSN9c_SPvG7Z7Vjx44df44PCbUYpf0gyc4AAAAASUVORK5CYII.png",
+      "extensions": [
+        "25 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://jobs.dayforcehcm.com/en-US/mew/CANDIDATEPORTAL/jobs/1936",
+      "job_title": "Data Engineer",
+      "description": "Position Title: Data Engineer\n\nDepartment: Information Technology\n\nReports to: Data Team Manager \n\nCompensation: $100,000 - $130,000\n\nHours: Full-time, Monday - Friday, 8:30am - 5:00pm, with flexibility as business and project needs require.\n\nBenefits\n•    Three weeks of paid vacation\n•    Paid sick time\n•    Eight and a half paid holidays per year\n•    Two paid flexible holidays per year\n•    ICHRA Health Insurance Reimbursement\n•    100% Employer Paid Dental and Vision Insurance\n•    100% Employer Paid Life Insurance\n•    100% Employer Paid Medical Clinic Membership or Cash Equivalent for employees and dependents\n•    Other benefits accrue over the first 3-24 months, including additional paid vacation, 401(k) with company matching, and quarterly profit share.\n\n\nPlace of Work: Corporate Headquarters - 1730 South Street, Redding CA, 96001\n\n\nCompany Overview\n\n\nMaas Energy Works is the leading developer and operator of agricultural waste-to-energy systems in the United States. The Company designs, develops, constructs, and operates biogas renewable energy generation systems, primarily on dairy farms. Our projects include anaerobic digesters, biogas-powered electric generation, and renewable natural gas upgrading.\n\n\n\nPosition Description\nWe are hiring a Data Engineer to own the operational backbone of our data platform: SQL Servers, the pipelines that move data out of it, and the Microsoft Fabric data warehouse that feeds reporting, regulatory work, and internal applications. The data is high-frequency time-series and operational data from more than 100 projects, so reliability, completeness, and monitoring matter as much as building new things.\nThis is a hands-on role on a small team that is actively modernizing its platform. We want someone who learns new tools on their own initiative, takes ownership of production systems, and wants to grow with the platform.\n\n\nEssential Responsibilities\n \n\n\n•    Administer the SQL Server environment in Azure: backups and restore testing, SQL Agent jobs, index and statistics maintenance, security and access, storage growth, and performance tuning.\n•    Monitor continuous data ingestion from 100+ projects and resolve gaps, delays, duplicates, and out-of-range values before they reach downstream reporting.\n•    Build, maintain, and troubleshoot pipelines that move data from staging and external REST APIs into the Fabric data warehouse.\n•    Maintain and extend the warehouse's dimensional models, data quality rules, and load performance.\n•    Build alerting for pipeline failures, data freshness, and completeness, and own the response when they fire.\n•    Contribute to the migration of remaining workloads from Azure Synapse to Microsoft Fabric.\n•    Support analysts and application developers who consume warehouse data through Power BI semantic models and internal applications.\n•    Write and maintain runbooks and technical documentation, and work in Git with code review and CI/CD deployment.\n\n\nRequired Qualifications\n•    3+ years of professional experience with SQL Server and T-SQL, including set-based query design, stored procedures, execution-plan tuning, and indexing.\n•    Hands-on database administration in production: backup and recovery, SQL Agent, maintenance jobs, logins and role-based security, and capacity monitoring.\n•    Experience building and operating production ETL/ELT pipelines (Azure Data Factory, Synapse pipelines, Fabric Data Factory, or SSIS), including incremental loads, failure handling, and reruns.\n•    Working knowledge of dimensional modeling: facts, dimensions, grain, and slowly changing dimensions.\n•    Hands-on Microsoft Fabric experience: Warehouse and Lakehouse, Data Factory pipelines, Dataflow Gen2, notebooks, and capacity monitoring.\n•    Familiarity with Azure fundamentals: resource organization, networking basics, managed identities, and Key Vault.\n•    Experience implementing data quality checks, monitoring, or alerting production data.\n•    Proficiency with Git.\n•    A track record of learning new tools and platforms independently and applying them to real work.\n•    Python, and C# programming languages\n•    Spark framework\n\n\nPreferred Qualifications\n•    Experience with Power BI semantic models\n•    Experience with high-volume time-series, IoT, or industrial operations data.\n•    Microsoft certification DP-600 (Fabric Analytics Engineer) or DP-700 (Fabric Data Engineer).\n \n\n\nOther Duties\nPlease note this job description is not designed to cover or contain a comprehensive list of activities, duties, or responsibilities required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.\n\n\nPhysical Demand Requirements\n\nWork Environment - Office Staff\nThis role operates primarily in a professional office environment and uses computers, cloud platforms, databases, development tools, and communication systems. Limited travel to company offices or project locations may be required.\nPhysical Demands - Office Staff\nThis is largely a sedentary role requiring extended computer work, regular communication, and the ability to manage multiple technical priorities. The position may occasionally require travel in vehicles or airplanes and access to company operating locations.",
+      "apply_options": [
+        {
+          "title": "Dayforcehcm.com",
+          "link": "https://jobs.dayforcehcm.com/en-US/mew/CANDIDATEPORTAL/jobs/1936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=6b2ee3c7d577f0ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/maas-energy-works/Job/Data-Engineer/-in-Redding,CA?jid=7093e92414439742&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/QLw1awZa_qQ4VLTpc0te4d4URkSn8owO6lJmEjG99B-r_5Oi6sAj0g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-engineer_7ea1adf6036512719efa5c5e779a0e5208f6f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/maas-energy-works-inc/redding-ca/data-engineer/27c006f60e3aed18315e884b9e4cd3bb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/03943555-c329-11f1-87ec-4201ac122412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-engineer-maas-energy-works-inc-redding--fj-2398876630?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTWFhcyBFbmVyZ3kgV29ya3MsIEluYyIsImh0aWRvY2lkIjoibEVrak0wazEwNUtxeEk4dEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqbElkbHAzY1dwamNFMXJhV2M0VW1aVFowdHBjV015WlVWM2EwZGFPVGRqYm5sd1RUaEhhelZ6TVRWSlkwVlpkVGRCYzNkTk1ucFdVemhMTTB4d2NEZHNORTEwVmpoa1dIZDZkVTV3Y25wQmFrdHNaR3czUlVsd01uTjRWVXRHT1ZSWk1rWTJZMVJTYW1WbE1WTTRVVEpQVVZkMGFYaERUVFo2VW1oSWJEaHViM1E1WHpNU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRGVVhkc1FTMDJVMVJ5UjBWblNGZ3dUa0ppU2xSUVlqbFRNRkpCIiwiZmN2IjoiMyIsImZjX2lkIjoibEVrak0wazEwNUtxeEk4dEFBQUFBQT09In0="
+    },
+    {
+      "title": "Engineer I, Data Engineering",
+      "company_name": "Samsung",
+      "location": "Plano, TX",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s degree in Computer Science, Applied Computer Science, Computer Applications, Computer Engineering, Information Technology, a related field, or a foreign equivalent plus 3 years post-baccalaureate experience in job offered or any engineering/IT related job titles",
+            "Applicants must have 3 years of experience in the following: (1) statistical analysis and predictive modeling using Python; (2) ETL development using python and SQL; (3) GitHub, development IDEs including VS code.; (4) data manipulation using SQL; (5) design, execution, and measurement of A/B and multivariate tests; (6) GCP services including Bigquery, Kubernetes and Composer and Apache Airflow; (7) performing data analysis on data visualization dashboards Superset, Jupyterlab, Tableau or PowerBI; (8) software tools including Jira and Confluence; and (9) working in the big data domain including providing production support, job scheduling/monitoring, ETL data quality, and data quality reporting"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Please visit Samsung membership to see Privacy Policy, which defaults according to your location"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Understand and document scope and requirements through interactions with analysts and stakeholders",
+            "Design and develop scalable code based custom ETL pipelines using big data technologies on Cloud platform",
+            "Design and develop code to ingest data from a variety of data sources such as Relational databases, APIs and files",
+            "Develop Complex SQL transformations on Bigquery",
+            "Code and query Optimization",
+            "Follow and contribute to engineering best practices for source control using Github, release management, deployment etc",
+            "Provide production support, job scheduling/monitoring, ETL data quality, data quality reporting",
+            "Contribute to software development and business management by effectively solving business-related software problems through data modeling/analysis/prediction",
+            "Establish/support software and infrastructure that continuously grows to strategically analyze big data",
+            "Understand and implement software data analysis strategies that meet business strategy",
+            "Establish and operate software and infrastructure that can collect/analyze/predict big data (structured/unstructured)",
+            "Design and operate software structure that can maintain data integrity",
+            "Proceed with software data model for business-related decision-making and evaluate data model's consistency",
+            "Establish a software security system for data and protect from unauthorized users"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=w_v3xbXrKYBa9GkVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zXMsQrCMBCAYVw7OzndLDURxcWuiugk6OBWLuVIIuldyEXoI_jY6uDyD9_wN-9Zsz2yj0xU4NzCASvCHyJ7WMFFHChhGQIIw0nEJ1p0odase2tVk_FascbBDDJaYXIy2ac4_aXXgIVywkr9ZreeTGa_nN9w1Nd3HhmuCVlauD8-ttFxwIsAAAA&shmds=v1_Ac3VAowx3X128lDT_3sqGrX_6cV2Y29t7NYpsoG5xECQ2lwbDw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=w_v3xbXrKYBa9GkVAAAAAA%3D%3D",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAaAAEAAwADAAAAAAAAAAAAAAAAAQYHAgME/8QAKhAAAQMCBAQGAwAAAAAAAAAAAQACEQMEBRIhMQYTUXEHIkFCgZEUUqH/xAAaAQEBAAMBAQAAAAAAAAAAAAAAAQIEBQMG/8QAKhEBAAEDAQUHBQAAAAAAAAAAAAECESEDBBIxkfEFMnGhscHREyJBQlH/2gAMAwEAAhEDEQA/AMzX2zmiAgICAgICAgICAgICAXAbkBFRmbMSJ6SqGduvmbpvqgZhMSJ7qIZm/sPtFA5p2cD8qiQ4HYg9lBpPhM4mzxGk11vSD6zM1wHs5tIZTq5j9HUt51mZ+OR2n3qZ6dXvo8Jd1i2yp8C1cG51m+teWN/d52loBqMqs5UdJaDA6LGqap2mNXNommPLLKLbtlnw67wlj8KuH1rPm2lvQtQ0ubqKwoST2yP7LSrp1PujNpmZ5XZxMYV7DIqcD4vQ5tlb0muvTzg5jw/z6NqsMEOPsc0nT+7epjaKJzPd9Px7sP1lzxs2g4e/La+15NzQwmnQcHsl72VCagiZEAiZWOlvfU3c3jfvyws2tfwe3iq6wa5scQuXVrHXE7WhWYHN1ZTrkl0eoNN7Z7FYbPTq01xFp4TPOPlappV/xVcx9taOqXNCpWN7cmixnLJbbz5CCz2xlgHVbXZuKqrRi0f3i8tbgzktDtwD3C67xTA6BAyjoPpREZWyDAkesKqZWyTAk7mFBMDoEQAA2AHZVRRBAQEBAQEBAQEBAQEBB//Z24",
+      "extensions": [
+        "1 month ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=995670ae7da973ef",
+      "job_title": "Engineer I, Data Engineering",
+      "description": "Position Summary \n\n\n \n\n\n Role and Responsibilities \n\n\n \n\n\n Understand and document scope and requirements through interactions with analysts and stakeholders. Design and develop scalable code based custom ETL pipelines using big data technologies on Cloud platform. Design and develop code to ingest data from a variety of data sources such as Relational databases, APIs and files. Develop Complex SQL transformations on Bigquery. Code and query Optimization. Follow and contribute to engineering best practices for source control using Github, release management, deployment etc. Provide production support, job scheduling/monitoring, ETL data quality, data quality reporting. Contribute to software development and business management by effectively solving business-related software problems through data modeling/analysis/prediction. Establish/support software and infrastructure that continuously grows to strategically analyze big data. Understand and implement software data analysis strategies that meet business strategy. Establish and operate software and infrastructure that can collect/analyze/predict big data (structured/unstructured). Design and operate software structure that can maintain data integrity. Proceed with software data model for business-related decision-making and evaluate data model's consistency. Establish a software security system for data and protect from unauthorized users.\n\n\n \n\n\n Skills and Qualifications \n\n\n \n\n\n Bachelor’s degree in Computer Science, Applied Computer Science, Computer Applications, Computer Engineering, Information Technology, a related field, or a foreign equivalent plus 3 years post-baccalaureate experience in job offered or any engineering/IT related job titles.\n\n\n\n \n\n\n Applicants must have 3 years of experience in the following: (1) statistical analysis and predictive modeling using Python; (2) ETL development using python and SQL; (3) GitHub, development IDEs including VS code.; (4) data manipulation using SQL; (5) design, execution, and measurement of A/B and multivariate tests; (6) GCP services including Bigquery, Kubernetes and Composer and Apache Airflow; (7) performing data analysis on data visualization dashboards Superset, Jupyterlab, Tableau or PowerBI; (8) software tools including Jira and Confluence; and (9) working in the big data domain including providing production support, job scheduling/monitoring, ETL data quality, and data quality reporting.\n\n\n\n \n\n\n No sponsorship available for this position. \n\n\n \n\n\n * Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page.\n\n\n \n\n\n At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities.\n\n\n \n\n\n \n  Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.\n \n \n\n\n Reasonable Accommodations for Qualified Individuals with Disabilities During the Application Process \n\n\n Samsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general employment inquiries.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=995670ae7da973ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/engineer-i-data-engineering-plano-tx--f1b3cddc-9db1-4104-810f-256aee7ccce9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/75aaac82-bbfa-4922-b81c-95a90de330b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/engineer-i-data-engineering-samsung-electronics-JV_IC1140045_KO0,27_KE28,47.htm?jl=1010279352765&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-engineering-i_7ea1a5bf33db2b724a8ece4fa84b2bef5eb68?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/axAmCg6_Xn-sHbfafySHqxdbmR-zONoZLFzB7wrlRhtAl9sNjNJLFw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/engineer-i-data-engineering-samsungelectronicscoltd-plano-tx_89131978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/engineer-i-data-engineering-at-samsung-electronics-america-4473920276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbmdpbmVlciBJLCBEYXRhIEVuZ2luZWVyaW5nIiwiY29tcGFueV9uYW1lIjoiU2Ftc3VuZyIsImh0aWRvY2lkIjoid192M3hiWHJLWUJhOUdrVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlWSnJVME5wUTBWT2NYWkxRbHB0VEdKaE1EVjFTamxhUTNWMGRGQnZhR3hCU1dwUmRGQnVRbnB0VkdWdWRqQTFlRk5QWkVab1ZreGhTWHBRV2tZMk1uZDNYM2RsYkcxSGEyZG5hVW90ZWs1aExUQlRhRTUxZGw5NmNrSldTMmhMV0doV2FEbHhSMWh5YlRCbE5sRjFSbnBzZUV0bWF5MUVNM1YzVmxoMVUwOTZURXRYZFVjU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRIWkU1M1J6ZDRhRkZ4VjNwYU0zcGZSbkV6VFVFM2RsSTBkRFZuIiwiZmN2IjoiMyIsImZjX2lkIjoid192M3hiWHJLWUJhOUdrVkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer I - Data Platform",
+      "company_name": "First Citizens Bank",
+      "location": "Anywhere",
+      "via": "Hiring Cafe",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are seeking a motivated Data Engineer to join our Data Platform Engineering Organization and help build scalable cloud-based data solutions that enable analytics and data-driven decision-making across the organization",
+            "The ideal candidate is a hands-on data engineer with experience in cloud-based data platforms, data warehousing, ETL/ELT development, and modern data engineering practices",
+            "Bachelor's Degree and 1 year experience",
+            "High School Diploma or GED/Equivalent and 5 years' experience",
+            "Experience with cloud-based data platforms and big data technologies"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Benefits are an integral part of total rewards and First Citizens Bank is committed to providing a competitive, thoughtfully designed and quality benefits program to meet the needs of our associates"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This individual will contribute to the development and support of scalable data pipelines, integrations, and data products utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies",
+            "This is an opportunity to work with modern technologies, solve complex data challenges, and contribute to the bank's data and AI transformation journey",
+            "The successful candidate will thrive in a collaborative environment, possess problem-solving skills, and be passionate about building reliable, scalable, and high-quality data solutions",
+            "Design, build, and support scalable data pipelines and cloud-based data solutions utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies",
+            "Implement data warehouse solutions, dimensional data models, and ETL/ELT processes that support reporting, analytics, and business intelligence capabilities",
+            "Implement data quality validations, test cases, and controls to ensure accurate, consistent, and reliable data assets",
+            "Develop and maintain data tests, including dbt tests, to support data quality and reliability requirements",
+            "Support workflow orchestration, monitoring, troubleshooting, log analysis, and production operations using Airflow and cloud-native technologies",
+            "Collaborate with business users, product partners, analysts, and technology teams to deliver data solutions that support business objectives",
+            "Follow established engineering standards, development practices, documentation requirements, and testing procedures to support high-quality solution delivery",
+            "Participate in pipeline deployments, environment promotion activities, operational support, and performance optimization efforts using established CI/CD processes",
+            "Leverage AI-powered development and productivity tools to improve engineering efficiency, code quality, and delivery outcomes"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=kS_kDDr10KZzM53mAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MOwrCUBAAsc0RLGRrwTwRtNDKP1p5g7AJ68tqshvebhFyD-9rtBmYKSb7TLLNCR3hLJGFKMENFvAvjwb9qakd_a4lGGGqalCBq2psaLqr3TvbhmDW5NEcnau80jaoUKl9eGlpPxRWY6JuvFGxWi_7vJM4n104mcORnQcSgwPKG1hgn3hQwS_9MlT7mAAAAA&shmds=v1_Ac3VAox41tgzPum0PYeOQx-wYQAKr_vrcI91MpYY44vI17v3lA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=kS_kDDr10KZzM53mAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://hiringcafe.com/job/data-engineer-i-data-platform-first-citizens-bank-north-carolina-hz6aqzv8k4sdlga9",
+      "job_title": "Data Engineer I - Data Platform",
+      "description": "Overview\n\nThis is a remote role that may only be hired in the following location(s): North Carolina, Arizona, Florida and Texas.\n\n \n\nWe are seeking a motivated Data Engineer to join our Data Platform Engineering Organization and help build scalable cloud-based data solutions that enable analytics and data-driven decision-making across the organization.\n\nThe ideal candidate is a hands-on data engineer with experience in cloud-based data platforms, data warehousing, ETL/ELT development, and modern data engineering practices. This individual will contribute to the development and support of scalable data pipelines, integrations, and data products utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies.\n\nAs part of our growing Cloud Data & AI Platform organization, you will collaborate with a talented team of engineers, product partners, and business stakeholders to modernize enterprise data platforms and deliver cloud-based data solutions that support critical business initiatives. This is an opportunity to work with modern technologies, solve complex data challenges, and contribute to the bank's data and AI transformation journey.\n\n \nResponsibilities & Qualifications\n\nDuties and Responsibilities:\n\n \n\nThe successful candidate will thrive in a collaborative environment, possess problem-solving skills, and be passionate about building reliable, scalable, and high-quality data solutions.\n\n \n\nDesign, build, and support scalable data pipelines and cloud-based data solutions utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies.Implement data warehouse solutions, dimensional data models, and ETL/ELT processes that support reporting, analytics, and business intelligence capabilities.Implement data quality validations, test cases, and controls to ensure accurate, consistent, and reliable data assets.Develop and maintain data tests, including dbt tests, to support data quality and reliability requirements.Support workflow orchestration, monitoring, troubleshooting, log analysis, and production operations using Airflow and cloud-native technologies.Collaborate with business users, product partners, analysts, and technology teams to deliver data solutions that support business objectives.Follow established engineering standards, development practices, documentation requirements, and testing procedures to support high-quality solution delivery.Participate in pipeline deployments, environment promotion activities, operational support, and performance optimization efforts using established CI/CD processes.Leverage AI-powered development and productivity tools to improve engineering efficiency, code quality, and delivery outcomes. \n\nQualifications:\n\n\nBachelor's Degree and 1 year experience \n\nOR \n\nHigh School Diploma or GED/Equivalent and 5 years' experience\n\n \n\nPreferred Area of Study: Computer Science, Information Systems, Data Science, or related field\n\n\n\nPreferred Area of Experience: Data engineering, database management, or related field. Experience with cloud-based data platforms and big data technologies\n\n\n\nPreferred Qualifications:\n\nExperience with enterprise ETL/ELT tools such as DataStage, SAP BODS, SSIS, Informatica, or equivalent technologies.Experience with Operational Data Stores (ODS), analytics platforms, and data products.Experience working with cloud-based and on-premises data environments.Exposure to Data Vault modeling and modern data warehousing methodologies.Understanding of data governance, security, compliance, and data quality management practices. Experience within Financial Services, Banking, or other highly regulated industries.Familiarity with Tableau, Power BI, or other analytics and visualization platforms.Experience using AI-powered development and productivity tools to improve engineering efficiency and delivery outcomes.AWS Certified Cloud Practitioner, AWS Certified Developer – Associate, AWS Certified Data Engineer – Associate, SnowPro Core Certification, or equivalent cloud and data platform certifications.#LI-DNI\n\n \nAdditional Information\n\nBenefits are an integral part of total rewards and First Citizens Bank is committed to providing a competitive, thoughtfully designed and quality benefits program to meet the needs of our associates. More information can be found at https://jobs.firstcitizens.com/benefits.",
+      "apply_options": [
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/data-engineer-i-data-platform-first-citizens-bank-north-carolina-hz6aqzv8k4sdlga9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIEkgLSBEYXRhIFBsYXRmb3JtIiwiY29tcGFueV9uYW1lIjoiRmlyc3QgQ2l0aXplbnMgQmFuayIsImh0aWRvY2lkIjoia1Nfa0REcjEwS1p6TTUzbUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdYbDFZbXQ0TUdFeFoxWXhhalZ6TnpWeFpWbDRSakl4TlZCYVQyMU9XVXhFVDBkNVVHbHVTa1oxVkVOaGFrZEVOWFZoUWtWM2NURnpRblp6Ym5GVVptWjNhVUZWUkU5VlZVWk1iSFJVVXpGRFZXUndWVEJSZGpSVlIydDRiamxpYkdWd2JrNXpjazlyTWtGdVRsVktiVk41YVdabk5ETlJNbGhCVnkxeWNqVjZkR2RKYUZZU0YxZDNibXhoYjNGMFNuUkRkV2xNVFZCb1lVOTZiVUZOR2lKQlNFNHdSVGRGYmtoNWIwRlJYMkZPZFVwalRWaHhTRGRGTTA5UVIzQmlkVWxSIiwiZmN2IjoiMyIsImZjX2lkIjoia1Nfa0REcjEwS1p6TTUzbUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Platform Engineer (Python)",
+      "company_name": "Alignerr",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Native or fluent English speaker with clear written and verbal communication skills",
+            "Full-stack developer with a strong systems programming background",
+            "5+ years of professional experience writing production Python for data engineering",
+            "Proficient with workflow orchestration tools for managing complex dependency graphs",
+            "Experienced with dataframe processing libraries and cloud data warehouse integrations via Python SDKs",
+            "Able to commit 20–40 hours per week with reliability and consistency",
+            "Prior experience with data annotation, data quality pipelines, or evaluation systems",
+            "Familiarity with AI/ML workflows, model training, or benchmarking infrastructure",
+            "Experience with distributed systems or developer tooling"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Type: Hourly Contract",
+            "Commitment: 20–40 hours/week",
+            "Work directly with leading AI labs on systems that influence how next-generation models are built",
+            "Fully remote and flexible — work from anywhere, on a schedule that suits you",
+            "Tackle genuinely hard, high-impact engineering problems — not maintenance tickets",
+            "Collaborate with a sharp, distributed team of engineers and researchers",
+            "Potential for ongoing work and contract extension as new projects launch"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This is a fully remote, flexible contract role for experienced engineers who want to work on real production systems — not toy projects — at the cutting edge of AI development",
+            "Design, build, and optimize high-performance Python systems supporting AI data pipelines and evaluation workflows",
+            "Develop full-stack tooling and backend services for large-scale data annotation, validation, and quality control",
+            "Improve reliability, performance, and safety across existing Python codebases",
+            "Collaborate with data, research, and engineering teams to support model training and evaluation workflows",
+            "Identify bottlenecks and edge cases in data and system behavior, and implement scalable, production-grade fixes",
+            "Participate in synchronous design reviews to iterate on architecture and implementation decisions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=v3N-sWRkGX3cdDH5AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7AQ5OGVW0J4IOOokVwcX-QbmWeHdyTUoSpH6E_6wub3zFZ1LsK28e6uztwdLDhUIiRIF5_bbItIA13LgFRS9dBCa4MoeMs2M0G_TgnGoug5q31JUd944JWx7dk1v902j0gsPvx2a724zlQGE5PeUUCEUgEVRIL5QVnO9fx2sCgZAAAAA&shmds=v1_Ac3VAox1XJTAgROZwO6yufs7sThElwsn3EPZ3Y9r7tQvbAOxBQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=v3N-sWRkGX3cdDH5AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5095b27e2c175e6e3d9de/images/rGcoq5Arbxs0fFTUYW4lwSnDycxDXJfI5hK0Q0pR1_M.jpeg",
+      "extensions": [
+        "8 days ago",
+        "50–75 an hour",
+        "Work from home",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.linkedin.com/jobs/view/data-platform-engineer-python-at-alignerr-4482814126",
+      "job_title": "Data Platform Engineer (Python)",
+      "description": "About The Role\n\nWhat if your Python expertise could directly shape the infrastructure powering the world's most advanced AI systems? We're looking for a Senior Python Full-Stack Engineer to design and build the data pipelines, annotation tooling, and evaluation infrastructure that leading AI labs depend on to train and improve next-generation models.\n\nThis is a fully remote, flexible contract role for experienced engineers who want to work on real production systems — not toy projects — at the cutting edge of AI development.\n\nOrganization: AlignerrType: Hourly ContractLocation: RemoteCommitment: 20–40 hours/week\n\nWhat You'll Do\n\nDesign, build, and optimize high-performance Python systems supporting AI data pipelines and evaluation workflowsDevelop full-stack tooling and backend services for large-scale data annotation, validation, and quality controlImprove reliability, performance, and safety across existing Python codebasesCollaborate with data, research, and engineering teams to support model training and evaluation workflowsIdentify bottlenecks and edge cases in data and system behavior, and implement scalable, production-grade fixesParticipate in synchronous design reviews to iterate on architecture and implementation decisions\n\nWho You Are\n\nNative or fluent English speaker with clear written and verbal communication skillsFull-stack developer with a strong systems programming background5+ years of professional experience writing production Python for data engineeringProficient with workflow orchestration tools for managing complex dependency graphsExperienced with dataframe processing libraries and cloud data warehouse integrations via Python SDKsAble to commit 20–40 hours per week with reliability and consistency\n\nNice to Have\n\nPrior experience with data annotation, data quality pipelines, or evaluation systemsFamiliarity with AI/ML workflows, model training, or benchmarking infrastructureExperience with distributed systems or developer tooling\n\nWhy Join Us\n\nWork directly with leading AI labs on systems that influence how next-generation models are builtFully remote and flexible — work from anywhere, on a schedule that suits youTackle genuinely hard, high-impact engineering problems — not maintenance ticketsCollaborate with a sharp, distributed team of engineers and researchersPotential for ongoing work and contract extension as new projects launch",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-platform-engineer-python-at-alignerr-4482814126?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/alignerr/denver/data-platform-engineer-python-66094941/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFBsYXRmb3JtIEVuZ2luZWVyIChQeXRob24pIiwiY29tcGFueV9uYW1lIjoiQWxpZ25lcnIiLCJodGlkb2NpZCI6InYzTi1zV1JrR1gzY2RESDVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVlEzVURoaWRYRlNXR1JpUVVkaWMxWmZUMDl6ZVVkMVFVZHhhQzFZUVd3d2NuUlRaM0JyVFRGSVFrazNUVmRGUjJSUWQyUnVXR2MyTjFWWFgyWjFRbU5EYnpoU1RUVm5Sell4WDJGQ1ZXeDJZMDVxWVU1MFUwY3RTR1ZzTTAxNFMySnBMV1J0TkV0WlpYY3lSbTlCWmpCNUxUUklVaTB0ZEhWb1ptOVpVSEZFTTBGRWVWZ1NGMWQzYm14aGIzRjBTblJEZFdsTVRWQm9ZVTk2YlVGTkdpSkJTRTR3UlRkRk9Vd3pXWFJYTVZKYVZrUk1abE4xZW5Cak1HVmtORmR5VXpoMyIsImZjdiI6IjMiLCJmY19pZCI6InYzTi1zV1JrR1gzY2RESDVBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXVE5ZWW1GVE1DMDBNVkJtTlZaaFlWbDJXREJDUTJOM1NHbHdYMFE1T0MwNE1rNXhXVWRJTjBkcloxSnhaWEZYZVdGb01HUXRTMUl6T0daWFRIWllZVVJWUTJjeWRVOTBhRms1TkhwMlZWcFZUVmR0UlZZNWNIZDJWelZ5UTFaNlZ6bDJUMlppVFdaR01GTjZlRzltU25CMU5tdHpSM2s1TjFoYWVqSXlWMXAxVm5SMVJETlNPRWRhZUhsQ00xTjNVVGx2YUdaZmJ6WkphSFU0TkZWTVRtTkdlbGRDTjJ0UlUwbzBlVEkwYTBrNWEwVjBSa2h6Tmt4RFRFdFBTMmxtTjBsNlYwdEtlSGhpYldSbE1rUmZZbGxPWVZwbFlqbEtSVlpxZEY5eGR6bEtaR2xMU2sxTFFtc3hWbVEwYURodGVIRkdNVlJ0YldWTFEyWXlZbXMwYlVVM2JucG5MVTVNWmtsTmJVeE1URlZuWDBaNWRHVnRYMEpQTVZSamNVTmZRMUZUYkVNMWRGQmZVMEptUzNNeE1USnRVRUZrU3pCc1FtRmxZbDlYVTJVMlpsUldTRVpSTWxnemNIRm5iRGx6YmtkcU9EbGxUVzEyZVROc1JFYzBYMFZETTJwS01rY3RSMXBqUkZBMWIwSTRRbDgwZEhSVmNHWnFSbTV2UVZGTFpuaE9jamMyWlZsWFlrcDRZVE5aY2poQlRFcGtNSFJ2VWtWdFZFRXpPVGh6ZWxjNU1sVXpTMWRGVmxveFZFdEJkRlJSZDB0WGJVOUZjV1J2UTE4MmNFcDZYMFE1WDNsQldFRm1ka1oxT0c5UlYwMXRUVjlXVHpSV1RsaHFkRGt4TWtNeVRYbEtWVUV6T1c1eU9TMWhSbmd0Um5aYU4yVnJORUZzY0doclR6ZGlZVFpCVVZreGNsTlhUbE5mV0U5SVpETnBSRXhaUmsxeVFqWlBjVVoxYTJ4QlFrNDNVREIxVUVOTk5rMXVaVEJGRWhkWGQyNXNZVzl4ZEVwMFEzVnBURTFRYUdGUGVtMUJUUm9pUVVoT01FVTNSMnhKWDJ0Rk5rNWljRlJsZDNsR2QydHFUMlJJUlZJM056WktkdyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXVE5ZWW1GVE1DMDBNVkJtTlZaaFlWbDJXREJDUTJOM1NHbHdYMFE1T0MwNE1rNXhXVWRJTjBkcloxSnhaWEZYZVdGb01HUXRTMUl6T0daWFRIWllZVVJWUTJjeWRVOTBhRms1TkhwMlZWcFZUVmR0UlZZNWNIZDJWelZ5UTFaNlZ6bDJUMlppVFdaR01GTjZlRzltU25CMU5tdHpSM2s1TjFoYWVqSXlWMXAxVm5SMVJETlNPRWRhZUhsQ00xTjNVVGx2YUdaZmJ6WkphSFU0TkZWTVRtTkdlbGRDTjJ0UlUwbzBlVEkwYTBrNWEwVjBSa2h6Tmt4RFRFdFBTMmxtTjBsNlYwdEtlSGhpYldSbE1rUmZZbGxPWVZwbFlqbEtSVlpxZEY5eGR6bEtaR2xMU2sxTFFtc3hWbVEwYURodGVIRkdNVlJ0YldWTFEyWXlZbXMwYlVVM2JucG5MVTVNWmtsTmJVeE1URlZuWDBaNWRHVnRYMEpQTVZSamNVTmZRMUZUYkVNMWRGQmZVMEptUzNNeE1USnRVRUZrU3pCc1FtRmxZbDlYVTJVMlpsUldTRVpSTWxnemNIRm5iRGx6YmtkcU9EbGxUVzEyZVROc1JFYzBYMFZETTJwS01rY3RSMXBqUkZBMWIwSTRRbDgwZEhSVmNHWnFSbTV2UVZGTFpuaE9jamMyWlZsWFlrcDRZVE5aY2poQlRFcGtNSFJ2VWtWdFZFRXpPVGh6ZWxjNU1sVXpTMWRGVmxveFZFdEJkRlJSZDB0WGJVOUZjV1J2UTE4MmNFcDZYMFE1WDNsQldFRm1ka1oxT0c5UlYwMXRUVjlXVHpSV1RsaHFkRGt4TWtNeVRYbEtWVUV6T1c1eU9TMWhSbmd0Um5aYU4yVnJORUZzY0doclR6ZGlZVFpCVVZreGNsTlhUbE5mV0U5SVpETnBSRXhaUmsxeVFqWlBjVVoxYTJ4QlFrNDNVREIxVUVOTk5rMXVaVEJGRWhkWGQyNXNZVzl4ZEVwMFEzVnBURTFRYUdGUGVtMUJUUm9pUVVoT01FVTNSMnhKWDJ0Rk5rNWljRlJsZDNsR2QydHFUMlJJUlZJM056WktkdyIsImZjdiI6IjMifQ%3D%3D&q=Data+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Engineer",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:17:15.332018+00:00",
+    "request_fingerprint": "e20bbd702baecf219227abb98be1375bcad20114d6656765dc0cab16db751b07",
+    "job_count": 10
+  }
+}

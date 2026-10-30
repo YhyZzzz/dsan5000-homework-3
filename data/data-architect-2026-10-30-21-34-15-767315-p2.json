@@ -1,0 +1,777 @@
+{
+  "search_metadata": {
+    "id": "6ae50d57b2707d4b463b917d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YDPwLnJp6Cd7xh0apT3JeU_OG_SIEHrj6i75zSU7ATU/6ae50d57b2707d4b463b917d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YDPwLnJp6Cd7xh0apT3JeU_OG_SIEHrj6i75zSU7ATU/6ae50d57b2707d4b463b917d.md",
+    "created_at": "2026-10-30 21:34:15 UTC",
+    "processed_at": "2026-10-30 21:34:15 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Architect&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/YDPwLnJp6Cd7xh0apT3JeU_OG_SIEHrj6i75zSU7ATU/6ae50d57b2707d4b463b917d.html",
+    "prettify_html_file": "https://serpapi.com/searches/YDPwLnJp6Cd7xh0apT3JeU_OG_SIEHrj6i75zSU7ATU/6ae50d57b2707d4b463b917d.prettify",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "q": "Data Architect",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVzd0VDb3dFUVVSRVlsZGxZVTFvWlVOM2FFSjBMWHBwY0dwMU5tVlZRM05rYWxZd1lYTk5jRFpDZUdVdGFsY3dWMmN6UkRkek4yazFUVmh4ZHpsbU1IbGhUVGRQYVdGZlRqUldORFpZZUY5MlpsQlBWbGxHTTI1b1VtUmtZMUZvVGpGamNYcEhiVmRHWHpObFZ6UjRiMDlUWXpCMFZtRlJkRTFSU1VadGJtSXdObkpsU25SSGJETm9NRVYyTWpKT0xXSmhTblE0ZDBneE5WOVhOVmh3YkZObVNVaE9kVE13UVROZllrVlNSREF6VTJaamFWRmxUMEZ6TkVkV2NrMDJPVzQ1T0VGaVNVUlBXamM0YjB0b1IyUmZUakJIVjNaMGFHc3dkVlJ2TnpCU2EzbDJORFp2VkZreWIwRktVbXd6ZWt0UWRsaEhOM0prVmtKbU0yOXljRkZ1UTA0NFZFcE5XVVptTFZCQk1UUm5lRlYxUTJkVmMwUk9RWE42YW5SeFFWQkhOWFZLWTNSeGNWY3hNR3RUYWtSd0xYVndNMkpSTm5oWFJVWkNTRGQyU1ZnNU5tWXdSRlZQVmxjd1JFVkVjSFpUYTFCSFdsRm5UbE0wVGpsT1preHBjazQyV2xSUWNXOVhSV0o0ZGpWWWIyVjRXV0kwVkY5aVNEQlpUMlIyVEVwM01VbG5VR2hETVhSbFJtNVVTa0ZLZGpaT1JWRkNlRmN4WW1aUFNqbGFiRkZoWTE5RE5rSlFjRGsyTWpKQ1MwMVdPVEpmWDNoQ09WVkhXRE5DY1dOSGVuVlNObTlJV0hGTVIwVTRjV0l0TW5Gc00wUjNjVzFUTlRWM1dVRkVkV3AwU213elkxRmFSbFYyVWxOc1ZraHVSbkJ5UkVjNVpVaHVkVTlJUjFwdVpEY3pRelpVVTFvNFpEQm9aa2cyYUVNU0YxSjNNMnhoY1daQ1MzRkhXWGRpYTFCNVNYcE1NRkZGR2lKQlNFNHdSVGRJZDNjME9XNXNPRUpMZGtGbFlsOHpSVE00TVZBMVVWbGZjV1ozIiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Enterprise Data Architect",
+      "company_name": "Technosoft",
+      "location": "Houston, TX",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Core Technology: Extensive, hands-on architectural experience with Microsoft Fabric (mandatory)",
+            "Strategic Mindset: Proven ability to act as a bridge between business stakeholders and technical execution teams",
+            "Experience Level: Strong background in data modernization, migration, and standardizing existing architectures",
+            "Technical Knowledge: Foundational understanding of SQL and scripting (sufficient for troubleshooting and architectural oversight, not production development)",
+            "Expert-level Azure knowledge is highly beneficial, though not strictly required",
+            "This is a strategic oversight and architecture role",
+            "We need someone with hands on Microsoft Fabric architecture experience",
+            "Microsoft Fabric: 3 years (Required)",
+            "SQL Server architecture expertise: 4 years (Required)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay: From $85.00 per hour"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We are seeking a strategic Data Architect with deep expertise in Microsoft Fabric to lead and unify our data modernization initiatives",
+            "In this role, you will act as an architectural integrator, bridging the gap between business requirements and technical execution across multiple data teams",
+            "You will not be expected to be a hands-on software developer writing production code; rather, your focus will be on providing cross-team leadership, architectural governance, and strategic oversight to ensure cohesion as we modernize and rationalize our existing data platforms",
+            "Architectural Integration & Governance: Provide overarching leadership and architectural direction to connect disparate data modernization components and teams, ensuring consistency and cross-team alignment",
+            "Fabric-Centric Design: Lead the design and implementation strategies utilizing Microsoft Fabric (including OneLake and modern data movement patterns), which will comprise approximately 50% of the role's focus",
+            "Platform Modernization: Focus on rationalizing current architecture and migrating/standardizing data flows, rather than purely greenfield, net-new design",
+            "Deliverable Creation: Produce critical architectural documentation, including Architecture Review Artifacts (current/target states, technology recommendations) and Low-Level Solution Designs (detailed diagrams and component-level designs)",
+            "Troubleshooting & Guidance: Provide high-level troubleshooting and technical guidance to execution teams without getting bogged down in building the production solutions yourself"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=KMkJvCT9Bz3pSEjLAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7BzrdLJoUwUUnQVGcO7iVJJxJSrwLuRP6DX61urzhdZ9F119IsdWWBeHs1MGphZQVg8IW7uxB0P0GmODKHAuujkm1ysFakWKiqNMcTOCXZULPs53Yy59RkmtYi1Mcd_t-NpXiejlgSMTCT4VMcOO3KNMGhscXCJjPZI0AAAA&shmds=v1_Ac3VAoy-J8eByjkJ-4vyGiSSOinSB4n6l3EdoWoCtvBn_PE-Zg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=KMkJvCT9Bz3pSEjLAAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "85 an hour",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=71cd48fb567bfb82",
+      "job_title": "Enterprise Data Architect",
+      "description": "Job Title: Data Solutions Architect - Fabric Modernization\n\n\nLocation: Houston, TX / Chicago, IL\nDuration: Contract\n\n\nOverview:\n\n\nWe are seeking a strategic Data Architect with deep expertise in Microsoft Fabric to lead and unify our data modernization initiatives. In this role, you will act as an architectural integrator, bridging the gap between business requirements and technical execution across multiple data teams. You will not be expected to be a hands-on software developer writing production code; rather, your focus will be on providing cross-team leadership, architectural governance, and strategic oversight to ensure cohesion as we modernize and rationalize our existing data platforms.\n\n\nKey Responsibilities:\n\n\n\n Architectural Integration & Governance: Provide overarching leadership and architectural direction to connect disparate data modernization components and teams, ensuring consistency and cross-team alignment.\n Fabric-Centric Design: Lead the design and implementation strategies utilizing Microsoft Fabric (including OneLake and modern data movement patterns), which will comprise approximately 50% of the role's focus.\n Platform Modernization: Focus on rationalizing current architecture and migrating/standardizing data flows, rather than purely greenfield, net-new design.\n Deliverable Creation: Produce critical architectural documentation, including Architecture Review Artifacts (current/target states, technology recommendations) and Low-Level Solution Designs (detailed diagrams and component-level designs).\n Troubleshooting & Guidance: Provide high-level troubleshooting and technical guidance to execution teams without getting bogged down in building the production solutions yourself.\n\nRequired Qualifications & Profile:\n\n\n\n Core Technology: Extensive, hands-on architectural experience with Microsoft Fabric (mandatory).\n Strategic Mindset: Proven ability to act as a bridge between business stakeholders and technical execution teams.\n Experience Level: Strong background in data modernization, migration, and standardizing existing architectures.\n Technical Knowledge: Foundational understanding of SQL and scripting (sufficient for troubleshooting and architectural oversight, not production development). Expert-level Azure knowledge is highly beneficial, though not strictly required.\n\nThis is a strategic oversight and architecture role. We need someone with hands on Microsoft Fabric architecture experience\n\n\nPay: From $85.00 per hour\n\n\nExperience:\n\n\n\n Microsoft Fabric: 3 years (Required)\n SQL Server architecture expertise: 4 years (Required)\n\nAbility to Commute:\n\n\n\n Houston, TX 77003 (Preferred)\n\nAbility to Relocate:\n\n\n\n Houston, TX 77003: Relocate before starting work (Preferred)\n\nWork Location: Hybrid remote in Houston, TX 77003",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=71cd48fb567bfb82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/East-West-Bank/Job/Enterprise-Data-Architect/-in-Houston,TX?jid=9286c16fe090ed4a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/honorvet-technologies/houston/enterprise-data-architect-98962243/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/unavailable/houston-tx/enterprise-data-architect/4741efbb908ebb42bf7c3b50d2d8351c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-6369_54460545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/e2dc73c1-11f5-47dc-9ef6-b96372ff6f3b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/9257b31f-212f-409e-9b94-1fd159464527?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28652-f894f2009931249b497c7f07c7617758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRlcnByaXNlIERhdGEgQXJjaGl0ZWN0IiwiY29tcGFueV9uYW1lIjoiVGVjaG5vc29mdCIsImh0aWRvY2lkIjoiS01rSnZDVDlCejNwU0VqTEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlsbExTRWw2TUdSbVFuSk1hV0ZUWlRaNVlUUk5XVU41WmtSaldWUk1XSFJHTFRsVmNtVmZOM0ZyTjJaWVkwYzJUMUJDWVVJdE9HRlBWRFZvZEdKa1RIUlBOWEk0WWkxM2VrTTBTRmRITlVvMVQwUm1hbFl6WW5kNk5WQk9jRGxNV0ZaUGMwUTNNRk01YnpBemMybzFUbWMxTFRkNVZWVk1Uemw1UWsxNFYzZHpVemt5T1d3U0YxZEJNMnhoY0ZkaVEyOW1WelZPYjFCNFVHMUtiVUYzR2lKQlNFNHdSVGRHVWxoaVJGVmtTRkZwUm1WbE1FUkZZbVJWTlZWS1h5MHpUVVZuIiwiZmN2IjoiMyIsImZjX2lkIjoiS01rSnZDVDlCejNwU0VqTEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Architect - Investment Data & Analytics | Nashville, TN, USA",
+      "company_name": "AllianceBernstein Holding L.P.",
+      "location": "Nashville, TN",
+      "via": "EFinancialCareers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Information Systems, Engineering, Data Science, or related discipline",
+            "10+ years of experience in data architecture, data modeling, or enterprise data management",
+            "Significant experience designing analytical data platforms and data warehouses",
+            "Strong experience with Snowflake and cloud-based data ecosystems",
+            "Enterprise data architecture frameworks and best practices",
+            "Logical, conceptual, and physical data modeling",
+            "Domain-driven design and data product architecture",
+            "Snowflake & Modern Data Platforms",
+            "Experience with cloud data platforms and modern analytics ecosystems",
+            "Analytics & Semantic Modeling",
+            "Dimensional modeling (star and snowflake schemas)",
+            "Data lineage, metadata management, and business glossaries",
+            "Microsoft Purview or equivalent governance platforms",
+            "Data quality frameworks and validation methodologies",
+            "Access controls and governed data consumption patterns",
+            "Understanding of AI-enabled analytics and natural language data access",
+            "Knowledge of semantic modeling and retrieval architectures",
+            "Experience supporting AI-ready data ecosystems and knowledge management strategies",
+            "Familiarity with GenAI, agent-based solutions, and data discoverability concepts",
+            "Investment Domain Knowledge",
+            "Fixed Income"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Architect will lead the design, governance, and evolution of the firm's investment data architecture, enabling scalable analytics, reporting, AI-driven insights, and self-service data consumption",
+            "This role serves as the bridge between business, investment stakeholders, and technology teams, ensuring that data is modeled, governed, documented, and structured to support modern investment processes and future AI-enabled capabilities",
+            "The role combines deep expertise in data architecture, Snowflake modeling, semantic layer design, metadata management, governance, and investment data domains",
+            "Define and maintain target-state architecture for investment data platforms and analytical ecosystems",
+            "Design logical, physical, and conceptual data models that support portfolio management, research, trading, risk, performance, and attribution analytics",
+            "Establish architecture standards, design patterns, and best practices across investment technology",
+            "Drive domain-based architecture and data product strategies aligned with enterprise objectives",
+            "Data Modeling & Snowflake Architecture",
+            "Architect and maintain scalable Snowflake data structures optimized for analytics and AI consumption",
+            "Design dimensional, domain-oriented, and consumption-focused data models",
+            "Develop and govern semantic layers, curated views, and reusable analytical data products",
+            "Ensure data models support reporting platforms, self-service analytics, and downstream applications",
+            "Data Governance & Quality",
+            "Define enterprise standards for metadata, lineage, data definitions, and business glossaries",
+            "Establish data quality frameworks, reconciliation controls, and validation processes",
+            "Partner with governance, security, and compliance teams to ensure controlled and governed data access",
+            "Promote adoption of enterprise data catalogs and metadata management practices",
+            "Architect data structures that support natural language querying, AI-assisted analytics, and generative AI solutions",
+            "Define semantic frameworks that make business and technical context discoverable and reusable",
+            "Ensure data and metadata are structured for AI, agent-based access, and future intelligent applications",
+            "Partner with AI and analytics teams to enable contextual, cross-domain data experiences",
+            "Documentation & Knowledge Management",
+            "Establish standards for documenting data architecture, models, lineage, business definitions, and usage patterns",
+            "Create and maintain architecture diagrams, data flow documentation, data dictionaries, and technical specifications",
+            "Ensure architecture artifacts remain accurate, discoverable, and aligned with evolving business processes",
+            "Champion documentation practices that support both human users and AI-enabled knowledge retrieval",
+            "Stakeholder & Business Partnership",
+            "Collaborate with portfolio managers, researchers, risk teams, operations, and technology partners to understand data requirements",
+            "Translate business objectives into scalable architectural solutions",
+            "Lead architecture reviews and provide guidance on technology and data strategy decisions",
+            "Communicate complex architectural concepts effectively to both technical and non-technical audiences",
+            "Data lifecycle and information management practices",
+            "Snowflake architecture and performance optimization",
+            "Advanced SQL and analytical modeling techniques",
+            "Data warehouse and lakehouse architecture patterns",
+            "Semantic layer design and business-friendly data abstractions",
+            "Power BI and analytics platform integration",
+            "Self-service analytics enablement"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=YdF4L_llxkXwRqYCAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1WOwWrCUBBFcesnuJpVF0XfE6GbuooUtEWC0Ba6C5PnkLwyzoTMEFLoB_azGt25uXC5nMOd_83mXy_oCEWf2uyUHFbwKgOZX0gcbtsDFIL84zkZ_EKJ1g6ZmZbwUS7h872YkDetwQgnCajAXrVhWmxb986eYzTj0JjjZAhJL1GFah3jt9Z2jcpa7KljdKo2T-sxdNI8xoI5oyTaUS_mlAUOyucsDRzDKcDU7578A3z9DkfLAAAA&shmds=v1_Ac3VAoxUdrSsxOv9NRh7IhWI2JxBN_LeiEtWqyJLT-X3kZcJyg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=YdF4L_llxkXwRqYCAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEUAAAD___8BAQG1tbXb29ve3t7x8fG6urocHBzm5uaqqqr39_fLy8utra3IyMikpKSUlJSbm5s7Oztzc3OBgYFNTU0nJyfBwcEyMjJ7e3tmZmZAQEBfX1-KiorS0tJra2sPDw_G6y_hAAABY0lEQVRIidWXi7KCIBCG4VSm4pXylpd8_6c8LFRASbrMmanzz8ToD5-yLOpGfjxF4OeQs4Mo0Nn9Rv8R7NI4jtOz2QdWWpjORQ4qLPBIQZk5LJCWOZ9SOgcL3EmvMUb10qHdC7hfALOXUda1XKAdfqRAZrv7VbAWRpSJZrDswyo4CiOFZocEJ2FcuWgCJAjxzYSJtkeBJ7V8kN4cBTbiPBmL5p7wzSCjWjUCHAyOjggwNcEJAcIGl49K9bTRV8BehwbBnjaDuU487Lpk-x2rquLqsBWH1fYYnfoi8OhW074DA7cY_64YPwaGlN0UxUhQK_IF6RkJJmSeZ_BjNCjU-oL86f24BZxqzjk8xxUSvImZLzkMGAyeIKUcvTgiHfDxKNEgUav6J3lc_JRnSWmCU9i2fWNOtUsytlJ1WIvzyOOGcsUE9UyXCqQ8Aj0KhTC6K7voAEflWCBWHwK9a3L_fwFe-gVCJRRQWX7PTQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "30 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.efinancialcareers.com/jobs-United_States-TN-Nashville-Data_Architect_-_Investment_Data__Analytics.id24840106",
+      "job_title": "Data Architect - Investment Data & Analytics | Nashville, TN, USA",
+      "description": "Data Architect - Investment Data & Analytics\r\n\r\n\r\n\r\nWho You'll Work With: \r\n\r\n \r\n\r\n The Data Architect will lead the design, governance, and evolution of the firm's investment data architecture, enabling scalable analytics, reporting, AI-driven insights, and self-service data consumption. This role serves as the bridge between business, investment stakeholders, and technology teams, ensuring that data is modeled, governed, documented, and structured to support modern investment processes and future AI-enabled capabilities. The role combines deep expertise in data architecture, Snowflake modeling, semantic layer design, metadata management, governance, and investment data domains.\r\n\r\n \r\n\r\n \r\nWhat You'll Do: \r\n\r\n \r\n\r\n \r\nEnterprise Data Architecture \r\n\r\n \r\n  \r\n \r\n• Define and maintain target-state architecture for investment data platforms and analytical ecosystems. \r\n \r\n• Design logical, physical, and conceptual data models that support portfolio management, research, trading, risk, performance, and attribution analytics. \r\n \r\n• Establish architecture standards, design patterns, and best practices across investment technology. \r\n \r\n• Drive domain-based architecture and data product strategies aligned with enterprise objectives. \r\n  \r\n \r\n \r\n Data Modeling & Snowflake Architecture \r\n \r\n \r\n  \r\n \r\n• Architect and maintain scalable Snowflake data structures optimized for analytics and AI consumption. \r\n \r\n• Design dimensional, domain-oriented, and consumption-focused data models. \r\n \r\n• Develop and govern semantic layers, curated views, and reusable analytical data products. \r\n \r\n• Ensure data models support reporting platforms, self-service analytics, and downstream applications. \r\n  \r\n \r\n \r\n Data Governance & Quality \r\n \r\n \r\n  \r\n \r\n• Define enterprise standards for metadata, lineage, data definitions, and business glossaries. \r\n \r\n• Establish data quality frameworks, reconciliation controls, and validation processes. \r\n \r\n• Partner with governance, security, and compliance teams to ensure controlled and governed data access. \r\n \r\n• Promote adoption of enterprise data catalogs and metadata management practices. \r\n  \r\n \r\n \r\n AI-Ready Data Foundations \r\n \r\n \r\n  \r\n \r\n• Architect data structures that support natural language querying, AI-assisted analytics, and generative AI solutions. \r\n \r\n• Define semantic frameworks that make business and technical context discoverable and reusable. \r\n \r\n• Ensure data and metadata are structured for AI, agent-based access, and future intelligent applications. \r\n \r\n• Partner with AI and analytics teams to enable contextual, cross-domain data experiences. \r\n  \r\n \r\n \r\n Documentation & Knowledge Management \r\n \r\n \r\n  \r\n \r\n• Establish standards for documenting data architecture, models, lineage, business definitions, and usage patterns. \r\n \r\n• Create and maintain architecture diagrams, data flow documentation, data dictionaries, and technical specifications. \r\n \r\n• Ensure architecture artifacts remain accurate, discoverable, and aligned with evolving business processes. \r\n \r\n• Champion documentation practices that support both human users and AI-enabled knowledge retrieval. \r\n  \r\n \r\n \r\n Stakeholder & Business Partnership \r\n \r\n \r\n  \r\n \r\n• Collaborate with portfolio managers, researchers, risk teams, operations, and technology partners to understand data requirements. \r\n \r\n• Translate business objectives into scalable architectural solutions. \r\n \r\n• Lead architecture reviews and provide guidance on technology and data strategy decisions. \r\n \r\n• Communicate complex architectural concepts effectively to both technical and non-technical audiences. \r\n  \r\n \r\n \r\n What We're Looking For: \r\n \r\n \r\n \r\n \r\n Education \r\n \r\n \r\n  \r\n \r\n• Bachelor's degree in Computer Science, Information Systems, Engineering, Data Science, or related discipline. \r\n \r\n• Master's degree preferred. \r\n  \r\n \r\n \r\n Experience \r\n \r\n \r\n  \r\n \r\n• 10+ years of experience in data architecture, data modeling, or enterprise data management. \r\n \r\n• Significant experience designing analytical data platforms and data warehouses. \r\n \r\n• Strong experience with Snowflake and cloud-based data ecosystems. \r\n \r\n• Experience within financial services, asset management, or investment technology preferred. \r\n  \r\n \r\n \r\n Technical Skills \r\n \r\n \r\n \r\n \r\n Data Architecture \r\n \r\n \r\n  \r\n \r\n• Enterprise data architecture frameworks and best practices. \r\n \r\n• Logical, conceptual, and physical data modeling. \r\n \r\n• Domain-driven design and data product architecture. \r\n \r\n• Data lifecycle and information management practices. \r\n  \r\n \r\n \r\n Snowflake & Modern Data Platforms \r\n \r\n \r\n  \r\n \r\n• Snowflake architecture and performance optimization. \r\n \r\n• Advanced SQL and analytical modeling techniques. \r\n \r\n• Data warehouse and lakehouse architecture patterns. \r\n \r\n• Experience with cloud data platforms and modern analytics ecosystems. \r\n  \r\n \r\n \r\n Analytics & Semantic Modeling \r\n \r\n \r\n  \r\n \r\n• Dimensional modeling (star and snowflake schemas). \r\n \r\n• Semantic layer design and business-friendly data abstractions. \r\n \r\n• Power BI and analytics platform integration. \r\n \r\n• Self-service analytics enablement. \r\n  \r\n \r\n \r\n Governance & Metadata \r\n \r\n \r\n  \r\n \r\n• Data lineage, metadata management, and business glossaries. \r\n \r\n• Microsoft Purview or equivalent governance platforms. \r\n \r\n• Data quality frameworks and validation methodologies. \r\n \r\n• Access controls and governed data consumption patterns. \r\n  \r\n \r\n \r\n AI & Emerging Technologies \r\n \r\n \r\n  \r\n \r\n• Understanding of AI-enabled analytics and natural language data access. \r\n \r\n• Knowledge of semantic modeling and retrieval architectures. \r\n \r\n• Experience supporting AI-ready data ecosystems and knowledge management strategies. \r\n \r\n• Familiarity with GenAI, agent-based solutions, and data discoverability concepts. \r\n  \r\n \r\n \r\n Investment Domain Knowledge \r\n \r\n \r\n \r\n Strong understanding of one or more of the following domains: \r\n \r\n \r\n  \r\n \r\n• Fixed Income \r\n \r\n• Equities \r\n  \r\n \r\n \r\n About AB \r\n \r\n \r\n \r\n We are a leading global investment management firm offering high-quality research and diversified investment services to institutional clients, retail investors, and private-wealth clients in major markets around the globe. With over 4,000 employees across 57 locations operating in 26 countries and jurisdictions, our ambition is simple: to be the most trusted investment firm in the world. We realize that it's our people who give us a competitive advantage and drive success in the market, and our goal is to create an inclusive culture that rewards hard work. \r\n \r\n \r\n \r\n Our culture of intellectual curiosity and collaboration creates an environment where you can thrive and do your best work. Whether you're producing thought-provoking research, identifying compelling investment opportunities, infusing new technologies into our business or providing thoughtful advice to our clients, we are fully invested in you. If you're ready to challenge your limits and empower your career, join us! \r\n \r\n \r\n \r\n All are encouraged to apply. AB does not discriminate against any employee or applicant for employment on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability, marital status, citizenship status, sexual orientation, gender identity, military or veteran status or any other basis that is prohibited by applicable law. AB's policies and practices seek to ensure that employment opportunities are available to all employees and applicants based solely on job-related criteria. \r\n \r\n \r\n \r\n Nashville, Tennessee",
+      "apply_options": [
+        {
+          "title": "EFinancialCareers",
+          "link": "https://www.efinancialcareers.com/jobs-United_States-TN-Nashville-Data_Architect_-_Investment_Data__Analytics.id24840106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFyY2hpdGVjdCAtIEludmVzdG1lbnQgRGF0YSBcdTAwMjYgQW5hbHl0aWNzIHwgTmFzaHZpbGxlLCBUTiwgVVNBIiwiY29tcGFueV9uYW1lIjoiQWxsaWFuY2VCZXJuc3RlaW4gSG9sZGluZyBMLlAuIiwiaHRpZG9jaWQiOiJZZEY0TF9sbHhrWHdScVlDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW1WS1MweE5kbFZxTVdWck5ERndNMUU1TTJwSlZra3labWhRZGxaUWRISldMWE56Wm1sM2NXVnVlR0ZrUTJ4aWVGWjNXakZ2ZDJGRU5XaElkMHhxUW1weFFqRnZWSEIzVmxZelluY3dUVGxaT0V0RGVXZDZhM1pTYkZSbllYVmtRVVp0ZW1SUldTMWZNa0ZZVm5CRU9YaG5ia2R5ZUVocGJHTkZOVkJ2Y0RkTmQwTXlaV0VTRjFkQk0yeGhjRmRpUTI5bVZ6Vk9iMUI0VUcxS2JVRjNHaUpCU0U0d1JUZEdhamhvY1ZoTlQyMXFSVWd3VjFkMVFtNXJRekZzZW1ocVp6SlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJZZEY0TF9sbHhrWHdScVlDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Enterprise Data Architect (Data-Mesh)",
+      "company_name": "Synechron",
+      "location": "Mundelein, IL",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Target-state conceptual architecture (C4 and/or ArchiMate diagram + narrative)",
+            "10+ years in data architecture, 5+ at enterprise or principal level in financial services",
+            "Genuine data mesh / data-product architecture delivery, not familiarity with the literature",
+            "Candidates must be able to describe a specific domain decomposition they authored, the contested boundaries within it, and how the platform-versus-domain responsibility split was enforced",
+            "Deep lakehouse and medallion architecture: Databricks with Unity Catalog, Delta, Snowflake, Kafka, Airflow, Azure Data Lake Storage Gen2",
+            "Must be able to reason about equivalents on AWS (Lake Formation, Glue Data Catalog, Amazon DataZone) when comparing options",
+            "Reference and master data architecture: vendor onboarding, identifier crosswalks across FIGI, LEI/GLEIF, CUSIP/ISIN, SEDOL and MIC, mastering and distribution to consuming domains",
+            "SQL Server and T-SQL depth sufficient to reason about stored-procedure decomposition — the ownership boundaries in MCDB are inside the procedures, not the schema names",
+            "TOGAF 9 or 10 certified, with demonstrable use of TOGAF to define and govern patterns; ArchiMate or C4 modelling in production use"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary for this position will vary based on geography and other factors",
+            "In accordance with law, the base salary for this role if filled within New York, NY is $130k - $145k/year & benefits (see below)",
+            "A highly competitive compensation and benefits package",
+            "A multinational organization with 58 offices in 22 countries and the possibility to work abroad",
+            "10 days of paid annual leave (plus sick leave and national holidays)",
+            "Maternity & paternity leave plans",
+            "A comprehensive insurance plan including medical, dental, vision, life insurance, and long-/short-term disability (plans vary by region)",
+            "Retirement savings plans",
+            "A higher education certification policy",
+            "Commuter benefits (varies by region)",
+            "Extensive training opportunities, focused on skills, substantive knowledge, and personal development",
+            "On-demand Udemy for Business for all Synechron employees with free access to more than 5000 curated courses",
+            "Coaching opportunities with experienced colleagues from our Financial Innovation Labs (FinLabs) and Center of Excellences (CoE) groups",
+            "Cutting edge projects at the world’s leading tier-one banks, financial institutions and insurance firms",
+            "A flat and approachable organization",
+            "A truly diverse, fun-loving, and global work culture"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role will focus on interpreting stored-procedure landscapes, establishing clear ownership boundaries across domains and medallion layers, and designing a scalable data-product architecture",
+            "Candidate will define reusable patterns for operational applications, ingestion, market and reference data, extracts, enterprise models, master data management, sub-ledger and risk assets",
+            "The successful candidate will combine deep expertise in data mesh, data-product architecture, lakehouse platforms and financial-services data with the ability to produce practical architecture artefacts that can guide implementation",
+            "Candidate will work across business, data, platform and engineering teams to ensure that the platform enables domain ownership without owning the underlying domain data",
+            "Interpret the stored-procedure landscape analysis architecturally: where a single procedure conflates responsibilities belonging to different domains or different medallion layers, define how it is split",
+            "Define one reusable target pattern per MCDB feature class: operational UI / applications (app), raw ingestion from systems of record (stage), third-party market and reference data (refdata), consumer extracts (extract), enterprise model, and the cross-cutting MDM, sub-ledger and risk assets",
+            "Map every inventory item to a pattern and produce the pattern-assignment matrix",
+            "Compose the target-state conceptual architecture on DEAL: source-aligned data products, aggregate and consumer-aligned data products, the federated governance plane, the self-serve platform and the catalogue of catalogues — with the platform provisioning capability but never owning domain data",
+            "Define the medallion mapping for each pattern",
+            "Specify output-port design so that contract-governed subscriptions replace point-to-point extracts, and define the change-feedback loop from consumer to producer",
+            "Produce the complexity, risk and dependency assessment and sequence the roadmap against it.",
+            "Deliverables owned",
+            "Architecture pattern catalogue, one per feature class (Word; TOGAF pattern cards)",
+            "Pattern-assignment matrix covering every inventory item (Excel)",
+            "Complexity, risk and dependency assessment with sequenced roadmap (Word + diagram)"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=qIpIloQJ-CghZ3flAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBAA8don9LRHFduI4EW9CIoo9uQDShqXJhJ3Q3aF-hK_a3sZGAam-M2Kw5kUc8pBEE5WLRyz80HRKcwnrxoUv4AKbtyBoB0rMMGFuY9Y7r1qkp0xIrHuRa0GVzt-GybseDAv7mRCK95mTNEqtpvteqgT9cvy8SV0Po-7QNB86IkRA63gev8Di7I1tpoAAAA&shmds=v1_Ac3VAowLVVwnpBJ5IqMvzRRnf7x0ohjStkqXItb3_jF2peKwJg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=qIpIloQJ-CghZ3flAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50d57b2707d4b463b917d/images/UpKfSvfbMNpKeh8fgoI6n_nG5DygumtIqiROmv67TUE.jpeg",
+      "extensions": [
+        "8 days ago",
+        "130K–145K a year",
+        "Full-time",
+        "No degree mentioned",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.ziprecruiter.com/c/synechron/Job/Enterprise-Data-Architect-(Data-Mesh)/-in-Mundelein,IL?jid=97ec6a60c117aece",
+      "job_title": "Enterprise Data Architect (Data-Mesh)",
+      "description": "We are\n\n\nAt Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization strategies span end-to-end Artificial Intelligence, Consulting, Digital, Cloud & DevOps, Data, and Software Engineering, servicing an array of noteworthy financial services and technology firms. Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years, our company has been honored with multiple employer awards, recognizing our commitment to our talented teams. With top clients to boast about, Synechron has a global workforce of 17,000+, and has 58 offices in 22 countries within key global markets.\n\n\n\n\n\n\nOur challenge\n\n\nSynechron is seeking an experienced Enterprise Data Architect to define target-state architecture, reusable architecture patterns and migration roadmaps for a complex financial-services data environment. The role will focus on interpreting stored-procedure landscapes, establishing clear ownership boundaries across domains and medallion layers, and designing a scalable data-product architecture. Candidate will define reusable patterns for operational applications, ingestion, market and reference data, extracts, enterprise models, master data management, sub-ledger and risk assets. The successful candidate will combine deep expertise in data mesh, data-product architecture, lakehouse platforms and financial-services data with the ability to produce practical architecture artefacts that can guide implementation. Candidate will work across business, data, platform and engineering teams to ensure that the platform enables domain ownership without owning the underlying domain data.\n\n\n\n\n\n\nAdditional Information*\n\n\nThe base salary for this position will vary based on geography and other factors. In accordance with law, the base salary for this role if filled within New York, NY is $130k - $145k/year & benefits (see below).\n\n\n\n\n\n\nThe Role\n\n\nResponsibilities:\n\n\n\n Interpret the stored-procedure landscape analysis architecturally: where a single procedure conflates responsibilities belonging to different domains or different medallion layers, define how it is split.\n Define one reusable target pattern per MCDB feature class: operational UI / applications (app), raw ingestion from systems of record (stage), third-party market and reference data (refdata), consumer extracts (extract), enterprise model, and the cross-cutting MDM, sub-ledger and risk assets.\n Map every inventory item to a pattern and produce the pattern-assignment matrix.\n Compose the target-state conceptual architecture on DEAL: source-aligned data products, aggregate and consumer-aligned data products, the federated governance plane, the self-serve platform and the catalogue of catalogues — with the platform provisioning capability but never owning domain data.\n Define the medallion mapping for each pattern\n Specify output-port design so that contract-governed subscriptions replace point-to-point extracts, and define the change-feedback loop from consumer to producer.\n Produce the complexity, risk and dependency assessment and sequence the roadmap against it..\n\n\n\n\n\nDeliverables owned\n\n\n\n Architecture pattern catalogue, one per feature class (Word; TOGAF pattern cards)\n Pattern-assignment matrix covering every inventory item (Excel)\n Target-state conceptual architecture (C4 and/or ArchiMate diagram + narrative)\n Complexity, risk and dependency assessment with sequenced roadmap (Word + diagram)\n\n\n\n\n\nRequirements:\n\n\n\n 10+ years in data architecture, 5+ at enterprise or principal level in financial services.\n Genuine data mesh / data-product architecture delivery, not familiarity with the literature. Candidates must be able to describe a specific domain decomposition they authored, the contested boundaries within it, and how the platform-versus-domain responsibility split was enforced.\n Deep lakehouse and medallion architecture: Databricks with Unity Catalog, Delta, Snowflake, Kafka, Airflow, Azure Data Lake Storage Gen2. Must be able to reason about equivalents on AWS (Lake Formation, Glue Data Catalog, Amazon DataZone) when comparing options.\n Reference and master data architecture: vendor onboarding, identifier crosswalks across FIGI, LEI/GLEIF, CUSIP/ISIN, SEDOL and MIC, mastering and distribution to consuming domains.\n SQL Server and T-SQL depth sufficient to reason about stored-procedure decomposition — the ownership boundaries in MCDB are inside the procedures, not the schema names.\n TOGAF 9 or 10 certified, with demonstrable use of TOGAF to define and govern patterns; ArchiMate or C4 modelling in production use.\n\n\n\n\n\nPreferred, but not required:\n\n\n\n FIBO applied to a taxonomy or ontology exercise; ODCS or comparable data-contract specification.\n Lineage and catalogue tooling in anger: Solidatus, Unity Catalog, Microsoft Purview, Collibra, Alation, Securiti.ai, Anomalo.\n Experience with automated code-intelligence accelerators for SQL/SAS estate analysis.\n\n\n\n\n\nWe offer:\n\n\n\n A highly competitive compensation and benefits package.\n A multinational organization with 58 offices in 22 countries and the possibility to work abroad.\n 10 days of paid annual leave (plus sick leave and national holidays).\n Maternity & paternity leave plans.\n A comprehensive insurance plan including medical, dental, vision, life insurance, and long-/short-term disability (plans vary by region).\n Retirement savings plans.\n A higher education certification policy.\n Commuter benefits (varies by region).\n Extensive training opportunities, focused on skills, substantive knowledge, and personal development.\n On-demand Udemy for Business for all Synechron employees with free access to more than 5000 curated courses.\n Coaching opportunities with experienced colleagues from our Financial Innovation Labs (FinLabs) and Center of Excellences (CoE) groups.\n Cutting edge projects at the world’s leading tier-one banks, financial institutions and insurance firms.\n A flat and approachable organization.\n A truly diverse, fun-loving, and global work culture.\n\n\n\n\n\nS YNECHRON’S DIVERSITY & INCLUSION STATEMENT\n\n\nDiversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.\n\n\n\n\n\n\nAll employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/synechron/Job/Enterprise-Data-Architect-(Data-Mesh)/-in-Mundelein,IL?jid=97ec6a60c117aece&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRlcnByaXNlIERhdGEgQXJjaGl0ZWN0IChEYXRhLU1lc2gpIiwiY29tcGFueV9uYW1lIjoiU3luZWNocm9uIiwiaHRpZG9jaWQiOiJxSXBJbG9RSi1DZ2haM2ZsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWpNMk1tSXhlbE00YW1vdE9XazRVbWhGZW5OeVZXeHhTVlprTWtselowaG9WRVJXUzI5R1FURnROVGt0U2xCdE0weDBSRXBHU2tZNGFuVlhSVjk0T0ZweFlqUXljbWRLZVVGTVMyTTJUazloYkUxM1FXSnZTWGxpTnpCR1ltaERNMFF0YUVkbFRIZE9TRVJ2Y2pSVVJVUk9ZMmRqVVdJMlZXNUdhMXBWWDJ4RVRsVllNak1TRjFkQk0yeGhjRmRpUTI5bVZ6Vk9iMUI0VUcxS2JVRjNHaUpCU0U0d1JUZElXazlRY1RGbldVOUROVTgyYjBOc2RrcHpXRzlIVFRsT1QwMUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJxSXBJbG9RSi1DZ2haM2ZsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Lead Data Architect (Palantir Lead Architect)",
+      "company_name": "Capgemini America, Inc.",
+      "location": "Illinois",
+      "via": "Dice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "*8+ years** of experience in data engineering or related roles.- Strong proficiency in **PySpark**, **Spark SQL**, and **Python**",
+            "Proven ability to troubleshoot complex data issues and optimize performance",
+            "Excellent communication and collaboration skills",
+            "Required Skills and Experience",
+            "Experience with **cloud platforms** (e.g., Azure)",
+            "Familiarity with **Snowflake** and its integration with Foundry",
+            "Exposure to **Generative AI (GenAI)** and its application in data workflows",
+            "Knowledge of **data security**, **compliance**, and **metadata management*"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base compensation range for this role in the posted location is $109,180 to $197,175",
+            "Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws",
+            "The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting",
+            "The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction",
+            "These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity",
+            "It is not typical for candidates to be hired at or near the top of the posted compensation range",
+            "In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws",
+            "Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees",
+            "In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:",
+            "Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave",
+            "Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)",
+            "Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)",
+            "Life and disability insurance",
+            "Employee assistance programs",
+            "Other benefits as provided by local policy and eligibility",
+            "Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini's discretion, consistent with applicable laws",
+            "The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Contour",
+            "Code Repositories",
+            "Ontology Management",
+            "Workshop and Quiver",
+            "Solid understanding of **data modeling**, **data governance**, and **access control**"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=NpZV6A1cpGP1lCVOAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3JvwrCMBCAcVz7CE4HLiqaiOCiU7EgFQffoFzjkZ6kuZDc0EfyMf0zuHzD96tes6q5ET6gQUWosxtYySks7xgwKmf46R9WsIWr9FAIPwskwkXEB5qfBtVUjtaWEowvisrOOBmtROplsk_pyzddGTBTCqjU7Q-7yaTo14szJk8jR4Z6pMwON9BGZ4AjtCFwFC5vKlSP3qsAAAA&shmds=v1_Ac3VAozpTq3bXtw-L8eH6WWrfl9kn7mclRpEjen5WsYW6eKVPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=NpZV6A1cpGP1lCVOAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAe1BMVEX____x9voAcKyivteevNb4-_wAbquvyd6zy9-ZudTD1eXk7fSSttOJr86CqcvP3-sherHY5e_K2ugada8AZKwAZ6kAYqUAXJ8zgrdsnsVclcA-hbcAaqkKgLQAotN1tNVNjrwAqtpRud8ems5kw-Qyst2HxOCEy-d4o8g_cAfIAAAA9UlEQVRIie2R23KEIAyGEwU5BESwXUVtF3vk_Z-wzF5atzu957uAGf58mUwAqFQqlcqftO3jGoW_34Zg7Fmt72-XJYAwPj2HY84MoIeAnCQHbzkXEKgHAk7gnQFf3EvXdRMdxNmVIzKNk4i0CFykUnGlTXsLMc7Qo740TfPyej2IqczgMo98hXGg6BPzy9IaYYXliSmfUW1N1-z720GUCSj1apW5ZyKuojNyzXrkqV_E5JydNU3b9v7xeRwVzJCB6WCiAhCLRSvRYwRJQcqSEgPPvvbvuwunXBaZW3caIr_rAa6lvYsn__WI0hSz_r9XqVQqlRs_KtUNDSXR-HMAAAAASUVORK5CYII.png",
+      "extensions": [
+        "8 days ago",
+        "Full-time",
+        "No degree mentioned",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.dice.com/job-detail/ac7d8435-eae7-4d78-bbf9-711fcded88f2",
+      "job_title": "Lead Data Architect (Palantir Lead Architect)",
+      "description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you'd like, where you'll be supported and inspired by a collaborative community of colleagues around the world, and where you'll be able to reimagine what's possible. Join us and help the world's leading organizations unlock the value of technology and build a more sustainable, more inclusive world.\n\nLocation\n\nChicago IL\n\nYour Role\n\n**8+ years** of experience in data engineering or related roles.- Strong proficiency in **PySpark**, **Spark SQL**, and **Python**.\n- Deep hands-on experience with **Palantir Foundry**, including:\n- Data Connections\n- Pipeline Builder\n- Contour\n- Code Repositories\n- Ontology Management\n- Workshop and Quiver\n- Solid understanding of **data modeling**, **data governance**, and **access control**.\n- Proven ability to troubleshoot complex data issues and optimize performance.\n- Excellent communication and collaboration skills.\n\nRequired Skills and Experience \n\n- Experience with **cloud platforms** (e.g., Azure).\n- Familiarity with **Snowflake** and its integration with Foundry.\n- Exposure to **Generative AI (GenAI)** and its application in data workflows.\n- Knowledge of **data security**, **compliance**, and **metadata management*\n\nThe base compensation range for this role in the posted location is $109,180 to $197,175 \n\nCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.\n\nThe actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.\n\nThese may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.\n\nIt is not typical for candidates to be hired at or near the top of the posted compensation range.\n\nIn addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.\n\nCapgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:\n\n\n\nPaid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick LeaveMedical, dental, and vision coverage (or provincial healthcare coordination in Canada)Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)Life and disability insuranceEmployee assistance programsOther benefits as provided by local policy and eligibility\nImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini's discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.\n\nDisclaimers\n\nCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect.  We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.\n\nThis is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.\n\nPlease be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.\n\nClick the following link for more information on your rights as an Applicant in the United States.  ;br>\nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
+      "apply_options": [
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/ac7d8435-eae7-4d78-bbf9-711fcded88f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Haystack",
+          "link": "https://haystackapp.io/jobs/77e32f4f-4ed5-48ed-9099-a716cdfbc6a9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgQXJjaGl0ZWN0IChQYWxhbnRpciBMZWFkIEFyY2hpdGVjdCkiLCJjb21wYW55X25hbWUiOiJDYXBnZW1pbmkgQW1lcmljYSwgSW5jLiIsImh0aWRvY2lkIjoiTnBaVjZBMWNwR1AxbENWT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlWZFVSVm8wTVZkc1IxRktPR2hYYmxSWVduaEZiREZJVWpVelYwSnBiMUU0WVRkaVVWaHVVMjFvV0d4V2QxaDRWME5mUVRWc1VVNU9lRzFxTm1oSFZXdEpURkpGVFRCb0xYSnhiR2xyZVU5NVpWWkRRMFExWlZweFlXbHJUMnB0VnkwMk5XOWZRV05xY0ZSbldVcG9XRGhzTlU5YWRrbHZURnBLU0RZNGJubzFhVk0yZFdRU0YxZEJNMnhoY0ZkaVEyOW1WelZPYjFCNFVHMUtiVUYzR2lKQlNFNHdSVGRIYW1SR2NXaE5jRWxvTkhVNVJXVlpkRmw1WkVSa2VrYzBTM0JSIiwiZmN2IjoiMyIsImZjX2lkIjoiTnBaVjZBMWNwR1AxbENWT0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Architect, Google Cloud Platform GCP",
+      "company_name": "West Monroe Partners, LLC",
+      "location": "San Francisco, CA",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "7+ years of experience in data engineering, data architecture, cloud architecture, or related technology roles, including experience delivering enterprise data solutions",
+            "Deep hands-on expertise with Google Cloud Platform and BigQuery, including data modeling, performance optimization, security, and cost management",
+            "Experience with relevant GCP data services such as Cloud Storage, Dataflow, Dataproc, Pub/Sub, Cloud Composer, or Dataform",
+            "Experience designing batch and/or streaming data pipelines and modern cloud data architectures",
+            "Strong knowledge of SQL, data modeling, ETL/ELT patterns, data governance, and data quality practices",
+            "Ability to communicate architecture decisions and tradeoffs to both technical teams and business stakeholders",
+            "Experience integrating AI tools (e.g., ChatGPT) into day-to-day workflows to enhance productivity and insight generation, coupled with strong critical thinking to assess accuracy, mitigate bias, and ensure high-quality outputs",
+            "Frequent travel to New York City for client work (every other week)",
+            "Ability to work permanently in the United States without sponsorship",
+            "Analysis Skills, Artificial Intelligence (AI), Automation, Business Development, Cloud Architecture, Cloud Computing, Cloud Storage, Communication Skills, Consulting, Cost Control, Customer Relations, Data Analysis, Data Management, Data Migration, Data Modeling, Data Modeling Tools, Data Quality, Data Warehousing, DataArchitect Data Modeling Tool, Database Extract Transform and Load (ETL), GCP (Good Clinical Practices), Geography, Insurance, International Business, Mentoring, Performance Modeling, Performance Tuning/Optimization, Productivity Management, Quality Management, SQL (Structured Query Language), Software Engineering, Technical Delivery, Technical Leadership, Technical/Engineering Design, Test Design, Willing to Travel"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Based on pay transparency guidelines, the salary range for this role can vary based on your proximity to one of our West Monroe offices (see table below)",
+            "Information on our competitive total rewards package, including our bonus structure and benefits is here",
+            "Individual salaries are determined by evaluating a variety of factors including geography, experience, skills, education, and internal equity",
+            "Employees (and their families) are covered by medical, dental, vision, and basic life insurance",
+            "Employees are able to enroll in our company's 401k plan, purchase shares from our employee stock ownership program and be eligible to receive annual bonuses",
+            "Employees will also receive unlimited flexible time off and ten paid holidays throughout the calendar year",
+            "Eligibility for ten weeks of paid parental leave will also be available upon hire date",
+            "$159,800-$188,000 USD",
+            "$167,400-$196,900 USD",
+            "$175,000-$205,900 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a technical delivery leader, you will guide engineering teams, advise client stakeholders, and help shape data modernization solutions that deliver measurable business value",
+            "Client Delivery",
+            "Architect scalable, secure, and high-performing data platforms on GCP, with BigQuery as a core analytics and data warehousing technology",
+            "Lead technical design across data ingestion, transformation, storage, modeling, governance, orchestration, and consumption",
+            "Design BigQuery data models, optimization strategies, and architectures that balance performance, scalability, security, and cost",
+            "Guide engineering teams through technical specifications, design execution, testing, and implementation while maintaining delivery quality",
+            "Advise clients on modernizing legacy data platforms and migrating data workloads to GCP",
+            "Leverage AI tools to accelerate analysis, synthesize complex information, and support data-driven recommendations for clients, exercising sound judgment in evaluating outputs",
+            "Apply AI technologies (e.g., generative AI, automation tools, data models) to enhance insights, improve delivery efficiency, and elevate the quality of client outcomes",
+            "Serve as a technical subject matter expert in pursuits involving GCP, BigQuery, cloud data modernization, analytics, and AI",
+            "Translate client challenges into solution architectures, estimates, technical approaches, and proposal content",
+            "Identify opportunities to expand data and cloud solutions within existing client relationships",
+            "Practice Development",
+            "Develop reusable reference architectures, accelerators, standards, and delivery methodologies for GCP and BigQuery",
+            "Share technical expertise and mentor colleagues to strengthen cloud data architecture and engineering capabilities",
+            "Stay current on Google Cloud capabilities and emerging data, analytics, and AI technologies",
+            "Hybrid role: 2x per week in office"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=knC-T1h8YkbAdSUeAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MwQqCQBCAYbr6CJ3mHLZG0KUuyUZCGAgdOsq4TbqhO7IzgW_VK2bQ5T99_MlnkRxPqAh5dJ1XcppCwdz2BLbn9wOqHvXJcYDCVrCGCzcghDMGDn-5PHSqo-yzTKQ3rSiqd8bxkHGghqfsxY38UkuHkcb5SPV2t5nMGNqVuZMoXDlEJqgwaqAoKZSlBR_ghgHOEYPz4jgFm38B_aymerIAAAA&shmds=v1_Ac3VAozfpxaNyNn8zY0KEAc74o1_8u55L_CTCXyJZh3O4da48Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=knC-T1h8YkbAdSUeAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV+pAAAAflBMVEX////y8vP4+PiAf5jV1dzj4+cAAFPNzdXm5urs7O6cnK07OmoZF1dxcYy/v8pjYoOUk6aIiJ0AACAAAEsAADF6epLc3OAAACQAABhaWnwtLGATEVQAAEI1NGc+PmsAAFBGRW8TEFizsr5paIZRUHaqqrgAADcAACkAABELCFRpXPUfAAAA+UlEQVQ4je1Sa0/DMAy8PEqSPpKGtRntuq5NlwH//w/igkCaECD6DbSTrMSOT/bFBm74P+AbeaysNrAyYdmdQ+1/S1T3AgzYNZ8bYd8SudTrIeV6N9BrvgKMRCs4DAuglyxQWIKT6UB5lMDeW+SCnD1/sJ3t84MehCyOCuN0muaYysLH3eTssMR5rEzvHc5NeiOemxxwru1KeWqnrCtCToExiJjqMeBiW9bbCoXEYzq203VFqCc+eJR1xZcipWeFXlYx91RRxEXPdsFrxYNP1xpBEg0NVXEEkiIZeYyTaNK46if70Ai1/+pXf8DmOWLr5qzYuqs3/Hm8AD7vDW2+OJT7AAAAAElFTkSuQmCC24",
+      "extensions": [
+        "11 days ago",
+        "160K–188K a year",
+        "Full-time",
+        "No degree mentioned",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.monster.com/job-openings/data-architect-google-cloud-platform-gcp-san-francisco-ca--364bc92e-a011-4c1e-a155-058942af62f7",
+      "job_title": "Data Architect, Google Cloud Platform GCP",
+      "description": "Are you ready to make an impact?\n\nWest Monroe is seeking a Data Architect, Google Cloud Platform (GCP) to design and deliver scalable, cloud-based data solutions for our clients. As a technical delivery leader, you will guide engineering teams, advise client stakeholders, and help shape data modernization solutions that deliver measurable business value.\n\nWhat You Will Do\n\nClient Delivery\n\nArchitect scalable, secure, and high-performing data platforms on GCP, with BigQuery as a core analytics and data warehousing technology.Lead technical design across data ingestion, transformation, storage, modeling, governance, orchestration, and consumption.Design BigQuery data models, optimization strategies, and architectures that balance performance, scalability, security, and cost.Guide engineering teams through technical specifications, design execution, testing, and implementation while maintaining delivery quality.Advise clients on modernizing legacy data platforms and migrating data workloads to GCP.Leverage AI tools to accelerate analysis, synthesize complex information, and support data-driven recommendations for clients, exercising sound judgment in evaluating outputs.Apply AI technologies (e.g., generative AI, automation tools, data models) to enhance insights, improve delivery efficiency, and elevate the quality of client outcomes.Business Development\n\nServe as a technical subject matter expert in pursuits involving GCP, BigQuery, cloud data modernization, analytics, and AI.Translate client challenges into solution architectures, estimates, technical approaches, and proposal content.Identify opportunities to expand data and cloud solutions within existing client relationships.Practice Development\n\nDevelop reusable reference architectures, accelerators, standards, and delivery methodologies for GCP and BigQuery.Share technical expertise and mentor colleagues to strengthen cloud data architecture and engineering capabilities.Stay current on Google Cloud capabilities and emerging data, analytics, and AI technologies.What You Will Bring\n\n7+ years of experience in data engineering, data architecture, cloud architecture, or related technology roles, including experience delivering enterprise data solutions.Deep hands-on expertise with Google Cloud Platform and BigQuery, including data modeling, performance optimization, security, and cost management.Experience with relevant GCP data services such as Cloud Storage, Dataflow, Dataproc, Pub/Sub, Cloud Composer, or Dataform.Experience designing batch and/or streaming data pipelines and modern cloud data architectures.Strong knowledge of SQL, data modeling, ETL/ELT patterns, data governance, and data quality practices.Ability to communicate architecture decisions and tradeoffs to both technical teams and business stakeholders.Google Cloud Professional Data Engineer or Professional Cloud Architect certification preferred.Experience integrating AI tools (e.g., ChatGPT) into day-to-day workflows to enhance productivity and insight generation, coupled with strong critical thinking to assess accuracy, mitigate bias, and ensure high-quality outputs.Hybrid role: 2x per week in officeFrequent travel to New York City for client work (every other week)Ability to work permanently in the United States without sponsorship.Based on pay transparency guidelines, the salary range for this role can vary based on your proximity to one of our West Monroe offices (see table below). Information on our competitive total rewards package, including our bonus structure and benefits is here. Individual salaries are determined by evaluating a variety of factors including geography, experience, skills, education, and internal equity.\n\nEmployees (and their families) are covered by medical, dental, vision, and basic life insurance. Employees are able to enroll in our company's 401k plan, purchase shares from our employee stock ownership program and be eligible to receive annual bonuses. Employees will also receive unlimited flexible time off and ten paid holidays throughout the calendar year. Eligibility for ten weeks of paid parental leave will also be available upon hire date.\n\nSeattle or Washington, D.C.\n\n$159,800-$188,000 USD\n\nLos Angeles\n\n$167,400-$196,900 USD\n\nNew York City or San Francisco\n\n$175,000-$205,900 USD\n\nA location not listed above\n\n$152,200-$179,000 USD\n\nOther consultancies talk at you.\n\nAt West Monroe, we work with you.\n\nWe're a global business and technology consulting firm passionate about creating measurable value for our clients, delivering real-world solutions.\n\nThe combination of business and technology is not new, but how we bring them together is unique. We're fluent in both. We know that technology alone is not the answer, but how we apply it is. We rely on data to constantly adapt and solve new challenges. Actions that work today with outcomes that generate value for years to come.\n\nAt West Monroe, we zero in on the heart of the opportunity, getting to results faster and preparing people for what's next.\n\nYou'll feel the difference in how we work. We show up personally. We're right there in the room with you, co-creating through the challenges. With West Monroe, collaboration isn't a lofty promise, but a daily action. We work together with you to turn vision into clear action with lasting impact.\n\nWest Monroe is an Equal Employment Opportunity Employer\n\nWe believe in treating each employee and applicant for employment fairly and with dignity. We base our employment decisions on merit, experience, and potential, without regard to race, color, national origin, sex, sexual orientation, gender identity, marital status, age, religion, disability, veteran status, or any other characteristic prohibited by federal, state or local law. To learn more about diversity, equity and inclusion at West Monroe, visit www.westmonroe.com/inclusion. If you require a reasonable accommodation to participate in our recruiting process, please inquire by sending an email to recruiting@westmonroe.com.\n\nPlease review our current policy regarding use of generative artificial intelligence during the application process. Additionally, West Monroe uses the BrightHire platform to record live interviews so our team can capture notes more accurately, stay focused on the conversation, and continually improve our interview process. You can review our privacy notice for more information about this process and how recordings are used. If you have any questions, reach out to recruiting@westmonroe.com.\n\nIf you are based in California, we encourage you to read West Monroe's Notice at Collection for California residents, provided pursuant to the California Consumer Privacy Act (CCPA) and linked here.\n\n\nSkills:\nAnalysis Skills, Artificial Intelligence (AI), Automation, Business Development, Cloud Architecture, Cloud Computing, Cloud Storage, Communication Skills, Consulting, Cost Control, Customer Relations, Data Analysis, Data Management, Data Migration, Data Modeling, Data Modeling Tools, Data Quality, Data Warehousing, DataArchitect Data Modeling Tool, Database Extract Transform and Load (ETL), GCP (Good Clinical Practices), Geography, Insurance, International Business, Mentoring, Performance Modeling, Performance Tuning/Optimization, Productivity Management, Quality Management, SQL (Structured Query Language), Software Engineering, Technical Delivery, Technical Leadership, Technical/Engineering Design, Test Design, Willing to Travel\n\n\nWest Monroe Partners, LLC",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-architect-google-cloud-platform-gcp-san-francisco-ca--364bc92e-a011-4c1e-a155-058942af62f7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/data-architect-google-cloud-platform-gcp-san-francisco-ca--364bc92e-a011-4c1e-a155-058942af62f7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/amp/job/us-ca-san-francisco-data-architect-google-cloud-platform-gcp-west?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFyY2hpdGVjdCwgR29vZ2xlIENsb3VkIFBsYXRmb3JtIEdDUCIsImNvbXBhbnlfbmFtZSI6Ildlc3QgTW9ucm9lIFBhcnRuZXJzLCBMTEMiLCJodGlkb2NpZCI6ImtuQy1UMWg4WWtiQWRTVWVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbnBwZGt4U1pHeHRNelpYT1dOV2NTMTJXbFJhT1hKUlVIWXlMV3h5TFZCdFQwTkNSMWRFZUVzNVFXWlZjMHcxUlZFemFUUnpUbVpxYUZOblkxWlliMDAyWkU5MVNtcGxSVWgwWmtkMFptRXRkRXRTYjE5VGVITnJSM3BvZWtKeVRtbE9YMG80TFROVk1GbHVYMmxZTmxCUWFIQjVMV3BCU1hKamFEZzNPVGhyY2tGNUxXSVNGMWRCTTJ4aGNGZGlRMjltVnpWT2IxQjRVRzFLYlVGM0dpSkJTRTR3UlRkSVJEZHlNbTh5UW1Kd1pFaDJRbWxRT0ZSd1FsRkxSMmhmWTBkMyIsImZjdiI6IjMiLCJmY19pZCI6ImtuQy1UMWg4WWtiQWRTVWVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Databricks Solution Architect",
+      "company_name": "IBM",
+      "location": "Denver, CO",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This job can be performed from anywhere in the US",
+            "Required Technical And Professional Expertise",
+            "Must be able to travel 4 days per week (mandatory)",
+            "Databricks Certified Data Engineer or Machine Learning Professional, with proven expertise architecting enterprise-scale data, AI/ML, and Generative AI solutions",
+            "Advanced expertise in data/solution architecture, enterprise data migration, data modelling, lakehouse/data-product architecture, reporting, and cloud-based data engineering using Databricks and AWS",
+            "Hands-on experience with Spark (PySpark and/or Scala, Spark SQL), Delta Lake, MLflow, Unity Catalog, and large-scale batch and streaming workloads",
+            "Experience with open table formats, including Delta Lake and Apache Iceberg, and modern data-sharing patterns such as Delta Sharing and Lakehouse Federation",
+            "Experience architecting enterprise AI/GenAI solutions, including RAG, agents, MLOps/LLMOps, observability, guardrails, privacy, and responsible AI, with working knowledge of AWS, Azure, and GCP",
+            "Strong expertise in integration, security, and architecture leadership, including APIs, microservices, event-driven patterns, Kafka, and Amazon EventBridge/SQS, with strong technical and executive-level communication"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Databricks Solution Architect to define and lead the end-to-end architecture for a large data modernization program",
+            "You will bring deep expertise across cloud-based engineering, Databricks platform, data migration, data modeling, data architecture, data engineering, and reporting, and connect governed data products to ML, GenAI, and advanced AI solutions across hyperscalers",
+            "Define the target data and AI architecture across the AWS/Databricks data platform and GCP-based ML/GenAI services, and the integration patterns between them",
+            "Lead the data migration architecture: re-engineering approach, migration patterns, Integration & Ingestion patterns, sequencing, cutover, reconciliation, and risk management",
+            "Own data architecture and data modeling standards, covering conceptual, logical, and physical models, lakehouse/medallion layers, and data product design",
+            "Define data engineering patterns and standards for ingestion (Fivetran), transformation, orchestration, CI/CD, observability, and cost control on cloud-based platforms",
+            "Architect the reporting and analytics layer, including semantic models, governed metrics, and self-service access on top of data products",
+            "Design the ML/GenAI lifecycle: feature engineering, model training and serving, RAG and agentic patterns, MLOps/LLMOps, monitoring, and evaluation",
+            "Architect secure, scalable cross-cloud data movement and integration across hyperscalers (AWS, Microsoft Azure, GCP), selecting services based on fit, cost, and performance",
+            "Ensure the architecture uses data products from the Databricks lakehouse, including SAP-sourced data via SAP BTP / BDC Connect",
+            "Define security, data privacy, responsible AI, and governance guardrails for AI use cases",
+            "Provide architectural oversight on related initiatives, such as the Tier-1 application migration from MySQL to Databricks Lakebase",
+            "Evaluate and shape the roadmap for advanced AI capabilities (agentic AI, frontier models, and emerging superintelligence-class technologies) as they apply to the client",
+            "Lead architecture reviews and communicate design decisions to executive and technical stakeholders",
+            "Design end-to-end architectures that embed AI capabilities into enterprise applications and workflows, defining reference patterns for AI services, models, and orchestration layers that integrate with existing systems, APIs, and data platforms",
+            "Collaborate with stakeholders to translate business objectives into scalable, resilient, and policy-compliant designs, balancing vendor-managed services with custom development and meeting performance, security, compliance, and cost objectives",
+            "Drive governance for AI integration: prompts, guardrails, and lifecycle management, with observability, privacy, and responsible AI principles embedded from design through operations"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=1wKe_aTh8OGQDcWrAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJMQoCMRBAUWy3s7WaWjQR0cat1AVREAsPsCRhSKIxEzKj7Ak8t2vzi_eb76TZdEaMrdE9Ge6U3hIpw766EAWdwBIuZIHRjALjORH5hLM2iBTeac2clGcxEp1y9NKU0dKgH2T5n56DqViSEezX29WgSvbz6flwhZihw_zBuoDj7QeC7qEviQAAAA&shmds=v1_Ac3VAoz8Z1OATZ_cMz47peC5QoNXOu1QJ8V9GQteavNOXlSD_w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=1wKe_aTh8OGQDcWrAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50d57b2707d4b463b917d/images/_cwHfd5NU9pHyq8WNlHIf3xer45Kmyy2KUrutKjjm_w.jpeg",
+      "extensions": [
+        "3 days ago",
+        "144K–268K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.linkedin.com/jobs/view/databricks-solution-architect-at-ibm-4482248540",
+      "job_title": "Databricks Solution Architect",
+      "description": "Introduction\n\nA career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences.\n\nYour Role And Responsibilities\n\nDatabricks Solution Architect to define and lead the end-to-end architecture for a large data modernization program. You will bring deep expertise across cloud-based engineering, Databricks platform, data migration, data modeling, data architecture, data engineering, and reporting, and connect governed data products to ML, GenAI, and advanced AI solutions across hyperscalers.\n\nResponsibilities\n\n Define the target data and AI architecture across the AWS/Databricks data platform and GCP-based ML/GenAI services, and the integration patterns between them. Lead the data migration architecture: re-engineering approach, migration patterns, Integration & Ingestion patterns, sequencing, cutover, reconciliation, and risk management. Own data architecture and data modeling standards, covering conceptual, logical, and physical models, lakehouse/medallion layers, and data product design. Define data engineering patterns and standards for ingestion (Fivetran), transformation, orchestration, CI/CD, observability, and cost control on cloud-based platforms. Architect the reporting and analytics layer, including semantic models, governed metrics, and self-service access on top of data products. Design the ML/GenAI lifecycle: feature engineering, model training and serving, RAG and agentic patterns, MLOps/LLMOps, monitoring, and evaluation. Architect secure, scalable cross-cloud data movement and integration across hyperscalers (AWS, Microsoft Azure, GCP), selecting services based on fit, cost, and performance. Ensure the architecture uses data products from the Databricks lakehouse, including SAP-sourced data via SAP BTP / BDC Connect. Define security, data privacy, responsible AI, and governance guardrails for AI use cases. Provide architectural oversight on related initiatives, such as the Tier-1 application migration from MySQL to Databricks Lakebase. Evaluate and shape the roadmap for advanced AI capabilities (agentic AI, frontier models, and emerging superintelligence-class technologies) as they apply to the client. Lead architecture reviews and communicate design decisions to executive and technical stakeholders. Design end-to-end architectures that embed AI capabilities into enterprise applications and workflows, defining reference patterns for AI services, models, and orchestration layers that integrate with existing systems, APIs, and data platforms. Collaborate with stakeholders to translate business objectives into scalable, resilient, and policy-compliant designs, balancing vendor-managed services with custom development and meeting performance, security, compliance, and cost objectives. Drive governance for AI integration: prompts, guardrails, and lifecycle management, with observability, privacy, and responsible AI principles embedded from design through operations.\n\nThis job can be performed from anywhere in the US\n\nRequired Technical And Professional Expertise\n\n Must be able to travel 4 days per week (mandatory). Databricks Certified Data Engineer or Machine Learning Professional, with proven expertise architecting enterprise-scale data, AI/ML, and Generative AI solutions. Advanced expertise in data/solution architecture, enterprise data migration, data modelling, lakehouse/data-product architecture, reporting, and cloud-based data engineering using Databricks and AWS. Hands-on experience with Spark (PySpark and/or Scala, Spark SQL), Delta Lake, MLflow, Unity Catalog, and large-scale batch and streaming workloads. Experience with open table formats, including Delta Lake and Apache Iceberg, and modern data-sharing patterns such as Delta Sharing and Lakehouse Federation. Experience architecting enterprise AI/GenAI solutions, including RAG, agents, MLOps/LLMOps, observability, guardrails, privacy, and responsible AI, with working knowledge of AWS, Azure, and GCP. Strong expertise in integration, security, and architecture leadership, including APIs, microservices, event-driven patterns, Kafka, and Amazon EventBridge/SQS, with strong technical and executive-level communication.\n\nPreferred Technical And Professional Experience\n\n Knowledge of SAP BTP, SAP Business Data Cloud, SAP-native data products, and SAP IS-U. Experience with Fivetran, Databricks Lakebase, OLTP-to-lakehouse patterns, Collibra, Erwin, or ER Studio. Advanced knowledge of AI orchestration, RAG/hybrid reasoning, microservices, and AI governance tooling. Experience with reporting and analytics architecture, including semantic layers and BI delivery on a lakehouse. Experience in the utilities or energy industry, with relevant cloud or Databricks architecture certifications.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/databricks-solution-architect-at-ibm-4482248540?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/bits-in-glass/denver/databricks-solution-architect-169867954/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=635758348861638535&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3991-9c54230d80ebcbcbb4479da8a5bb5cc0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/databricks-solution-architect-ibm-denver--techmap_us_4482248540?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-co-denver-databricks-solution-architect-cloudtech-innovations-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhYnJpY2tzIFNvbHV0aW9uIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IklCTSIsImh0aWRvY2lkIjoiMXdLZV9hVGg4T0dRRGNXckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrWXRWazlaVFhOT01sRndNR3RPWkVoeVVVUk1kSFZNYmpkUFZUYzJNa0ZuWkhGMmJHRTBUVkZhVm14RU9ESmlNamRZY0VkMFVraGZPR0ptVWs5VFlYQTRRMWxZVGxCVFFYQmlaVzV6VnpVeVl6Wm5aRTEyUWxNeGMzUlpRa0YxT1dKa1ZtNTVhakl3WWxOd1kzcHNNa3QxTUMxMmJUTlRVbUUwYnpKak0waFdWalYxYUdZU0YxZEJNMnhoY0ZkaVEyOW1WelZPYjFCNFVHMUtiVUYzR2lKQlNFNHdSVGRIU2pOaFltNDBXVXAwUW5GbWVHaHpZMmM0UTJwMFVYZEtUVGxCIiwiZmN2IjoiMyIsImZjX2lkIjoiMXdLZV9hVGg4T0dRRGNXckFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data Architect",
+      "company_name": "EchoStar",
+      "location": "Arvada, CO",
+      "via": "EchoStar",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates must be willing to participate in at least one in-person interview",
+            "Advanced AI Application expertise; leveraging unstructured data frameworks, vector databases, and Retrieval-Augmented Generation (RAG) within modern data architectures",
+            "Critical experience in designing multi-tier enterprise data structures, Medallion patterns, and high-performance data lakehouse architectures",
+            "Strong skills in data modeling, schema design, and versioning within multi-modeler repository environments",
+            "Critical experience in cloud warehouse cost optimization, cluster compute tuning, and query performance enhancement",
+            "Expertise in data governance, fine-grained access control (ABAC), data lineage, and compliance standards such as CPNI, CCPA, and SOC2",
+            "Exceptional problem solving, collaboration, and cross-functional decision-making capabilities across technical and business stakeholders",
+            "Bachelor's degree in a technical discipline, preferably in Computer Science or Software Engineering, or equivalent combination of education and experience",
+            "Minimum Experience:",
+            "10 years of continuous data architecture and data modeling experience; with at least 3 recent years leading primary data architecture design and implementation in a VLDB / MPP environment",
+            "Required Technical Skills:",
+            "2 years of experience with Azure, AWS, or GCP cloud environments",
+            "1 year of experience with Databricks & Genie and/or Snowflake & Cortex",
+            "1 year of experience with orchestration tools such as Apache Airflow or Control-M",
+            "Visa sponsorship not available for this position",
+            "Candidates need to successfully complete a pre-employment screen, which may include a drug test and DMV check",
+            "You may redact any information that identifies age, date of birth, or dates of school/graduation from your application documents before submission and throughout our application process"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer versatile health perks, including flexible spending accounts, HSA, a 401(k) Plan with company match, ESPP, career opportunities, and a flexible time away plan; all benefits can be viewed here: EchoStar Benefits",
+            "The base pay range shown is a guideline",
+            "Individual total compensation will vary based on factors such as qualifications, skill level, and competencies; compensation is based on the role's location and is subject to change based on work location"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Modernizing and scaling enterprise data infrastructure requires sophisticated architecture that bridges traditional data modeling with contemporary lakehouse frameworks",
+            "This role resolves complex data fragmentation, storage tiering inefficiencies, and compute cost overruns across cloud environments to establish performant, enterprise-grade data assets",
+            "Crucially, this work unlocks advanced AI capabilities by designing architectures for unstructured data, vector databases, Retrieval-Augmented Generation (RAG), and semantic layers",
+            "Through cross-functional governance and technical leadership, enterprise data assets become securely managed, highly scalable, and fully aligned with strategic goals",
+            "Establish and maintain corporate data model design principles; integrating Kimball and Inmon methodologies with Medallion Lakehouse patterns to deliver performant data assets",
+            "Architect scalable frameworks and storage tiering to support AI initiatives; including vector databases, Retrieval-Augmented Generation (RAG), and enterprise semantic layers",
+            "Lead efforts in optimizing query execution, cluster compute, and cloud warehouse costs across enterprise platforms",
+            "Partner with enterprise architects, data engineering, and business analysis teams to enforce data governance standards and execute data SDLC phases",
+            "Define data integration solutions and mitigate infrastructure risks to deliver scalable, highly available enterprise data architecture",
+            "The posting will be active for a minimum of 3 days"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=ED77jpP8K6qjugakAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWz3ABZWU8uaiGCjlagINhZ7gGUShyQSMyEzyPZe3LX5xWt-9110_UAlcYMLKsKp-ZiUvMIG7uxACGcBLnBjDplWx6ha5WCtSDZBFDV54_ltuZDjyb7YyT-jRGxUMyqNu_12MrWE9fLqIw-KDVKZVx98Yg_nxw_tzrvrhgAAAA&shmds=v1_Ac3VAozsVHUfjzCnVgw2i4PFDxVfFuHtPlkJWGwzMVNY6smJNg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=ED77jpP8K6qjugakAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50d57b2707d4b463b917d/images/CtaIm3SVkmzeDnRL3nkYSn7ZleaT36mQ7AZakj9rk1Q.jpeg",
+      "extensions": [
+        "15 days ago",
+        "127,050–181,500 a year",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.echostar.com/gfj/senior-data-architect-arvada-co-6ad218e5c30f66047894bed3",
+      "job_title": "Senior Data Architect",
+      "description": "Company Summary\n\nEchoStar is reimagining the future of connectivity. Our business reach spans satellite television service, live-streaming and on-demand programming, smart home installation services, mobile plans and products.\n\nToday, our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV.\n\nOur Wireless Technology team is pioneering the future of connectivity. We're developing and enhancing a unique hybrid network model—combining our advanced, cloud-native 5G core with the nationwide reach of our partners. This approach ensures our network is flexible and powerful, designed to satisfy the social, economic, and transformative needs of the changing world.\n\nJob Duties and Responsibilities\n\nCandidates must be willing to participate in at least one in-person interview.\n\nModernizing and scaling enterprise data infrastructure requires sophisticated architecture that bridges traditional data modeling with contemporary lakehouse frameworks. This role resolves complex data fragmentation, storage tiering inefficiencies, and compute cost overruns across cloud environments to establish performant, enterprise-grade data assets. Crucially, this work unlocks advanced AI capabilities by designing architectures for unstructured data, vector databases, Retrieval-Augmented Generation (RAG), and semantic layers. Through cross-functional governance and technical leadership, enterprise data assets become securely managed, highly scalable, and fully aligned with strategic goals.\n\nWhat Success Looks Like (Objectives):\n\nEstablish and maintain corporate data model design principles; integrating Kimball and Inmon methodologies with Medallion Lakehouse patterns to deliver performant data assetsArchitect scalable frameworks and storage tiering to support AI initiatives; including vector databases, Retrieval-Augmented Generation (RAG), and enterprise semantic layersLead efforts in optimizing query execution, cluster compute, and cloud warehouse costs across enterprise platformsPartner with enterprise architects, data engineering, and business analysis teams to enforce data governance standards and execute data SDLC phasesDefine data integration solutions and mitigate infrastructure risks to deliver scalable, highly available enterprise data architectureSkills, Experience and Requirements\n\nCore Skills and Competencies (What you'll bring):\n\nAdvanced AI Application expertise; leveraging unstructured data frameworks, vector databases, and Retrieval-Augmented Generation (RAG) within modern data architecturesCritical experience in designing multi-tier enterprise data structures, Medallion patterns, and high-performance data lakehouse architecturesStrong skills in data modeling, schema design, and versioning within multi-modeler repository environmentsCritical experience in cloud warehouse cost optimization, cluster compute tuning, and query performance enhancementExpertise in data governance, fine-grained access control (ABAC), data lineage, and compliance standards such as CPNI, CCPA, and SOC2Exceptional problem solving, collaboration, and cross-functional decision-making capabilities across technical and business stakeholdersAdditional Qualifications:\n\nPreferred industry certifications including Snowflake Certified Architect, Databricks Professional, or AWS Data EngineerMinimum Requirements:\n\nMinimum Education: \n\nBachelor's degree in a technical discipline, preferably in Computer Science or Software Engineering, or equivalent combination of education and experienceMinimum Experience: \n\n10 years of continuous data architecture and data modeling experience; with at least 3 recent years leading primary data architecture design and implementation in a VLDB / MPP environmentRequired Technical Skills:\n\n 2 years of experience with Azure, AWS, or GCP cloud environments1 year of experience with Databricks & Genie and/or Snowflake & Cortex1 year of experience with orchestration tools such as Apache Airflow or Control-MVisa sponsorship not available for this position\n\nBenefits\n\nWe offer versatile health perks, including flexible spending accounts, HSA, a 401(k) Plan with company match, ESPP, career opportunities, and a flexible time away plan; all benefits can be viewed here: EchoStar Benefits.\n\nThe base pay range shown is a guideline. Individual total compensation will vary based on factors such as qualifications, skill level, and competencies; compensation is based on the role's location and is subject to change based on work location. \n\nCandidates need to successfully complete a pre-employment screen, which may include a drug test and DMV check. Our company is committed to fostering an inclusive and equitable workplace where every individual has the opportunity to succeed. We are dedicated to providing individuals with criminal or arrest records a fair chance of employment in accordance with local, state, and federal laws.\n\nThe posting will be active for a minimum of 3 days. The active posting will continue to extend by 3 days until the position is filled.\n\nWe pride ourselves on developing and promoting talent as an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. EchoStar will accommodate the sincerely held religious beliefs of employees if such accommodations are not undue hardships and are otherwise within the bounds of applicable law. All qualified applicants with arrest or conviction records will be considered for employment in accordance with local, state, and federal law. You may redact any information that identifies age, date of birth, or dates of school/graduation from your application documents before submission and throughout our application process.\n\nEchoStar will provide reasonable accommodation to otherwise qualified job applicants and employees with known physical or mental disabilities, unless doing so poses an undue hardship on the Company, poses a direct threat of substantial harm to others, or is otherwise not required by law. EchoStar has a more detailed Accommodation Policy that applies to employees. EchoStar endeavors to make echostar.com and jobs.echostar.com accessible to users. Please contact leaves@dish.com if you would like to discuss the accessibility of our website or need assistance completing the application process. This contact information is for accommodation requests only; do not use this contact information to inquire about the status of applications.\n\nClick the links to access the following statements: EEO Policy Statement, Pay Transparency, EEOC Know Your Rights (English/Spanish)",
+      "apply_options": [
+        {
+          "title": "EchoStar",
+          "link": "https://www.echostar.com/gfj/senior-data-architect-arvada-co-6ad218e5c30f66047894bed3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJFY2hvU3RhciIsImh0aWRvY2lkIjoiRUQ3N2pwUDhLNnFqdWdha0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdVdFBZa05QVmtsc1JUYzRRMUZaVW1SalVGSktWRkZyVkdKUlZsZFdWV3BUY1hWSU9FWmlNVUU1YlVGaE1GQXlVMk5WUzA1Q1MyOWthMXBvVFVoWlRqQmpZV3RtTTE5MGVIRnJXVjlDU2tkalIxWmxXREo1YlZKeU1tUTJRbFJWU2pCVU0wdEZXVmcwWTFSS2N6SlRRVVUxYTJST1dHcHpVemxWVVZOeE1IRnZNRkpzVFdRU0YxZEJNMnhoY0ZkaVEyOW1WelZPYjFCNFVHMUtiVUYzR2lKQlNFNHdSVGRHUm1NeVZHSmhaekJxWTNoVVYzcGZYemRNV0RSTE4waG5hemxCIiwiZmN2IjoiMyIsImZjX2lkIjoiRUQ3N2pwUDhLNnFqdWdha0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data Architect - Data Architecture",
+      "company_name": "Empower",
+      "location": "New York, NY",
+      "via": "Jooble",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience defining and managing interfaces or data exchange patterns across systems",
+            "Proficiency in backend or service-based development using languages such as Java, Python, or similar",
+            "Experience with API management platforms or gateways (e.g., Apigee, Kong, AWS API Gateway, Azure API Management)",
+            "Hands-on experience with messaging or streaming platforms (e.g., Experience designing or working with contract-first APIs or schema-driven development approaches",
+            "Exposure to cloud-native architectures and distributed system patterns in AWS, Azure, or GCP",
+            "Experience participating in architecture governance processes (e.g., design reviews, reference architectures, ADRs)",
+            "Certifications such as AWS Certified Solutions Architect (Associate or Professional)",
+            "Bachelor's and/or master's degree in computer science or related field (information systems, mathematics, software engineering, etc.)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Integration Architect (Data & APIs) at Empower, you will be both a strategic leader and hands-on technical expert responsible for designing and evolving enterprise integration architecture",
+            "Partnering with enterprise architects, application teams, and business leaders, you will define API-first and event-driven architectures that enable real-time, reliable, and scalable system communication",
+            "You will drive standardized integration patterns such as RESTful/gRPC APIs, asynchronous messaging, and data contracts to ensure consistency, security, and resilience across the enterprise, while leading modernization efforts to reduce point-to-point integrations and enable loosely coupled systems across legacy and modern platforms",
+            "Design and implement API-first and event-driven architectures that enable scalable, real-time system communication",
+            "Define and enforce data contracts, schemas, and interface standards to ensure consistent, reliable data exchange across domains",
+            "Lead modernization of legacy integrations by reducing point-to-point dependencies and enabling loosely coupled architectures",
+            "Familiarity with event-driven architectures and messaging concepts in real-world applications"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=etkmnucPKSZRx-Y9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_13IsQrCMBAAUFz7A4LTzaKJCC66KCiCQxenTiUJR5qa5kLupP0UP9e6urzhVZ9FdX5iClTgasTApbguCDqB7V-8C873IAuMZk6gBHciH3F16kQyH7VmjsqzGAlOORo0JbQ06Z4s_2i5MwVzNILt_rCbVE5-vbwNmUYsEBLUOEJD5bWBuvkCK5l8u5sAAAA&shmds=v1_Ac3VAoz_SiI4-J3BVnfX2opAuTBSi4mzb6yvyFU3sPPO1CfdnQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=etkmnucPKSZRx-Y9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50d57b2707d4b463b917d/images/4hVaKesKVUeRUzDKd-hzsAJxLd0ardRdWArMjZWQzjw.png",
+      "extensions": [
+        "6 days ago",
+        "Contractor"
+      ],
+      "source_link": "https://jooble.org/rjdp/1853491529706428336",
+      "job_title": "Senior Data Architect - Data Architecture",
+      "description": "Senior Integration Architect (Data & APIs) Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.\n\n\r\nChart your own path and grow your career while helping more customers achieve financial freedom. As a Senior Integration Architect (Data & APIs) at Empower, you will be both a strategic leader and hands-on technical expert responsible for designing and evolving enterprise integration architecture. Partnering with enterprise architects, application teams, and business leaders, you will define API-first and event-driven architectures that enable real-time, reliable, and scalable system communication.\n\n\r\nYou will drive standardized integration patterns such as RESTful/gRPC APIs, asynchronous messaging, and data contracts to ensure consistency, security, and resilience across the enterprise, while leading modernization efforts to reduce point-to-point integrations and enable loosely coupled systems across legacy and modern platforms. Design and implement API-first and event-driven architectures that enable scalable, real-time system communication\n\n\r\nDefine and enforce data contracts, schemas, and interface standards to ensure consistent, reliable data exchange across domains\n\n\r\nLead modernization of legacy integrations by reducing point-to-point dependencies and enabling loosely coupled architectures\n\n\r\nFamiliarity with event-driven architectures and messaging concepts in real-world applications\n\n\r\nExperience defining and managing interfaces or data exchange patterns across systems\n\n\r\nProficiency in backend or service-based development using languages such as Java, Python, or similar\n\n\r\nExperience with API management platforms or gateways (e.g., Apigee, Kong, AWS API Gateway, Azure API Management)\n\n\r\nHands-on experience with messaging or streaming platforms (e.g., Experience designing or working with contract-first APIs or schema-driven development approaches\n\n\r\nExposure to cloud-native architectures and distributed system patterns in AWS, Azure, or GCP\n\n\r\nExperience participating in architecture governance processes (e.g., design reviews, reference architectures, ADRs)\n\n\r\nCertifications such as AWS Certified Solutions Architect (Associate or Professional)\n\n\r\nBachelor's and/or master's degree in computer science or related field (information systems, mathematics, software engineering, etc.)\n\n\r\nNormal Office Working Conditions\n\n\r\nWe are an equal opportunity employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to age, race, color, national origin, ancestry, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, religion, physical or mental disability, military or veteran status, genetic information, or any other status protected by applicable state or local law.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/rjdp/1853491529706428336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/online_remote/info_technology/5561210922/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBcmNoaXRlY3QgLSBEYXRhIEFyY2hpdGVjdHVyZSIsImNvbXBhbnlfbmFtZSI6IkVtcG93ZXIiLCJodGlkb2NpZCI6ImV0a21udWNQS1NaUngtWTlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZV3gyVFhkME0wWk1iRnAyWTBSa1NVbEJVR28zTkZoNlUwWjFTM0ZhTjJsVmRFOUNWM05wZVdKVlVYWlBVMll3Y0dzMVUwRjBZbTFhYlZGYVRsOVdUVEpTYzJZNWJUSkljVU5pTmpWblEzRjVSbEZLTTJnMFNXTjFaakEyWWtWb2JYUlhNelE1TFhWYU1pMXNWbEpEVXpWeGFtTXlaVmRMTm5aa2NrbzVVVE5sVTJ4NVJHTVNGMWRCTTJ4aGNGZGlRMjltVnpWT2IxQjRVRzFLYlVGM0dpSkJTRTR3UlRkR1FrUnFWV0pqUkdjMVVVRkNOa2w2UldkT2IyazRVbTlhYmxSUiIsImZjdiI6IjMiLCJmY19pZCI6ImV0a21udWNQS1NaUngtWTlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Enterprise Data Architect",
+      "company_name": "Deloitte",
+      "location": "San Antonio, TX",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Required Skills & Experience",
+            "8+ years of experience in data architecture, enterprise information architecture, logical data modeling, or domain-driven design",
+            "Experience defining enterprise canonical models, semantic standards, and data governance frameworks",
+            "Enterprise and cross-domain data modeling expertise",
+            "Experience with metadata management, business glossaries, data lineage, and data governance practices",
+            "Experience with Azure and/or AWS cloud platforms",
+            "Strong stakeholder management, facilitation, and influencing skills",
+            "Experience operating within large, complex, multi-domain organizations",
+            "SAP S/4HANA Finance (General Ledger, Planning & Forecasting, Financial Reporting, Enterprise Structures, and Master Data)",
+            "Salesforce (Account, Opportunity, Customer 360, Customer Master Data, and Relationship Management)",
+            "Enterprise data architecture spanning ERP, CRM, MDM, and analytics platforms",
+            "Experience with Databricks or modern cloud data platforms",
+            "Experience in Data Architecture, Solution Architecture, Data Platform Architecture, Data Governance Architecture, or Senior Data Engineering roles",
+            "Knowledge of data product operating models and domain-oriented architecture principles",
+            "Limited immigration sponsorship may be available"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role will establish and govern enterprise semantic standards, canonical data models, and domain architecture to enable consistent, trusted, and scalable data across the organization",
+            "The successful candidate will partner with business stakeholders, Data Product Pods, and technology teams to align enterprise data strategy, governance, and architecture across key platforms and domains",
+            "Lead enterprise data architecture, domain modeling, and governance initiatives across strategic business domains",
+            "Define and maintain enterprise semantic standards, canonical data models, and information architecture standards",
+            "Establish business terminology, domain boundaries, entity definitions, and data relationships",
+            "Develop logical and business domain models supporting enterprise processes and data products",
+            "Define governance, metadata, lineage, stewardship, and data quality standards",
+            "Partner with business stakeholders, Data Product Pods, and architecture teams to ensure enterprise alignment",
+            "Resolve data inconsistencies across ERP, CRM, MDM, and analytics platforms",
+            "Maintain architecture documentation, business glossaries, and data dictionaries",
+            "Support the evolution of modern cloud data platforms and enterprise data management capabilities"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Architect&htidocid=aJh78vWCjeQobOkxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CbrcLJoUwUWnQkVw1cGtXMKRRuJdyN3Qj_Cj1eUNr_usuv7CRq22rAQjGsLQ4pyNosEebhJACX8DwnAVSYXW59ms6sl71eKSGlqOLsrbC1OQxb8k6J9JZ2xUCxpNh2O_uMppuxmpSDYjyAx3ZBjYhLPs4PH8AkKYHW2PAAAA&shmds=v1_Ac3VAowWp9fJb90Y2PfGK-Aco08rnnEc3wYmH_giHNmXYq22uQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Architect&htidocid=aJh78vWCjeQobOkxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABAUCBwgD_8QAORAAAQMDAQMHBw0AAAAAAAAAAQACAwQFEQYSIXEHExYxNnSzMkFRkZTB0QgUFRciIzdVVmFygeH_xAAWAQEBAQAAAAAAAAAAAAAAAAAABAL_xAAZEQEAAwEBAAAAAAAAAAAAAAAAAgMRAQT_2gAMAwEAAhEDEQA_ANGoiyjjfLI2OJjnyPIa1rRkuJ6gAgxRW3RjUH5FdPY5PgolbbK-34-f0NTTZ6ufhczPrCCIiIgIiICttI9q7L3-DxGqpVtpHtXZe_weI1B1xqi-U-m7FVXesjllgpgC9kQBccuA3ZIHnVLpPWundf01TS00bnOY3M1HWRDOyd2cbwQvLlk_Da9fwZ4jVpr5Pwk-sAc3nZFHLznD7Pvwg8-WjRFPpO8wVNrYWW6vDiyPrETx5TR-28Ef2tcroT5SRZ0btTTjbNaSOGwc-5c9oCIiArbSPauy9_g8RqqVnDLJBKyWF7o5I3BzHtOC0jqIPpQdl6psUGpbDVWiqllihqQ0OfFjaGHA7s7vMqTSejNO8n1HU1MExaXt-_rKyUZ2RvxncAFzR0x1P-obr7ZJ8VAuF2uVzx9I3Crq8HI5-Zz8esoNk641db9ccoFspGuDrLSPMcZfuEzzvLuBIaB_qma8t1u6M1MksEMT4QOYc1oaQ7IwBx9C071KRU11ZVMYyqqp5ms8kSSFwHDKku80rLYz5LMY7He6joiKtsREQEREBERAREQf_9k.jpeg",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=012b253ae8b6b575",
+      "job_title": "Enterprise Data Architect",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. \n \n\n \nWork you'll do\n \nRole Overview \n \n\n  We are seeking an experienced Enterprise Data Architect to lead enterprise-wide data architecture, business domain modeling, and information architecture across Deloitte's Global Data Platform. This role will establish and govern enterprise semantic standards, canonical data models, and domain architecture to enable consistent, trusted, and scalable data across the organization. \n \n\n \n\n  The successful candidate will partner with business stakeholders, Data Product Pods, and technology teams to align enterprise data strategy, governance, and architecture across key platforms and domains. Experience with SAP S/4HANA Finance and/or Salesforce ecosystems is highly desirable. \n \n\n \nKey Responsibilities: \n \n\n \n  Lead enterprise data architecture, domain modeling, and governance initiatives across strategic business domains.\n  Define and maintain enterprise semantic standards, canonical data models, and information architecture standards.\n  Establish business terminology, domain boundaries, entity definitions, and data relationships.\n  Develop logical and business domain models supporting enterprise processes and data products.\n  Define governance, metadata, lineage, stewardship, and data quality standards.\n  Partner with business stakeholders, Data Product Pods, and architecture teams to ensure enterprise alignment.\n  Resolve data inconsistencies across ERP, CRM, MDM, and analytics platforms.\n  Maintain architecture documentation, business glossaries, and data dictionaries.Support the evolution of modern cloud data platforms and enterprise data management capabilities.\n \n \n\n \nThe team\n \n\n \n\n  Deloitte Technology works at the forefront of technology development and processes to support and protect Deloitte around the world. In this truly global environment, we operate not in \"what is\" but rather \"what can be\" to help Deloitte deliver and connect with its clients, its communities, and one another in ways not previously conceived. \n \n\n \nQualifications\n \n\n \nRequired Skills & Experience\n \n\n \n  8+ years of experience in data architecture, enterprise information architecture, logical data modeling, or domain-driven design.\n  Experience defining enterprise canonical models, semantic standards, and data governance frameworks.\n  Enterprise and cross-domain data modeling expertise.\n  Experience with metadata management, business glossaries, data lineage, and data governance practices.\n  Experience with Azure and/or AWS cloud platforms.\n  Strong stakeholder management, facilitation, and influencing skills.Experience operating within large, complex, multi-domain organizations.\n \n \n\n \nPreferred Domain Expertise \n \n\n \n\n  Experience in one or more of the following areas: \n \n\n \n  SAP S/4HANA Finance (General Ledger, Planning & Forecasting, Financial Reporting, Enterprise Structures, and Master Data).\n  Salesforce (Account, Opportunity, Customer 360, Customer Master Data, and Relationship Management).Enterprise data architecture spanning ERP, CRM, MDM, and analytics platforms.\n \n \n\n \nNice to Have \n \n\n \n  Experience with Databricks or modern cloud data platforms.\n  Experience in Data Architecture, Solution Architecture, Data Platform Architecture, Data Governance Architecture, or Senior Data Engineering roles.Knowledge of data product operating models and domain-oriented architecture principles.\n \n \n\n \n\n  Limited immigration sponsorship may be available.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=012b253ae8b6b575&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/deloitte/Job/Enterprise-Data-Architect/-in-San-Antonio,TX?jid=d504172bf2870c24&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/enterprise-data-architect-deloitte-san-antonio-tx_89180927?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ab1ceea191d8c340dbdceb2?visit=srdot-manager,-enterprise-data-(r6103)-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5941302922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010275012442&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://static.glassdoor.be/partner/jobListing.htm?pos=107&ao=1136043&s=351&guid=000001a1720f35e0ad9c33c1c0293c42&src=GD_JOB_AD&t=FJ&vt=w&cs=1_728b636b&cb=1792914962074&jobListingId=1010275012442&jrtk=5-yul1-0-1k5p0udg8gef4800-012b253ae8b6b575&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "San Antonio Jobs Expertini",
+          "link": "https://sanantonio.us.expertini.com/job/enterprise-data-architect-san-antonio-deloitte-ee56f71addc142f589efaa9dc92b06b0105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRlcnByaXNlIERhdGEgQXJjaGl0ZWN0IiwiY29tcGFueV9uYW1lIjoiRGVsb2l0dGUiLCJodGlkb2NpZCI6ImFKaDc4dldDamVRb2JPa3hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa1pDYkRaamNXRkNhM0JMYTJ4dmRGRjRjbk5MU0VsNFoyeDBXbDl1U0RWSGEyOTFOVGRhUkRKMVZHTk1iMEpmZUdoWE1VWnVOREpEUkdKYVNrc3dTbWN6TkdVdGRsSlZSa295TVhoRlRsSllVVFJhT0hCelkzYzJNRkZhYzFaaGVUVjBhR2RoUTFaVFlWbE9kbTFKUW5aQlgxVm1iRVZ6V25oWWNucEtabkpXWDJwVlNEVVNGMWRCTTJ4aGNGZGlRMjltVnpWT2IxQjRVRzFLYlVGM0dpSkJTRTR3UlRkSWVHTnRPV3RSTmxWMVNXZDRTazVsZVZjMlRXaDRSMjE0Y1d4QiIsImZjdiI6IjMiLCJmY19pZCI6ImFKaDc4dldDamVRb2JPa3hBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVyY0VDdmNEUVVSRVlsZGxZWG8xWlhadVgyUTJUazEyUkRSS1dHcFhjbnBXT0hWWU9YRnZaMGhvUVVsNlkzQnJWR00yV1ZKcVUwSnBlbmg1U1VOWVMwZGlkRmhRWTIxRFZteDFjbE13YjJWcU5FbFJSVVYwTUcxb1JraGFTbFpmYVZOa2RFWnRjeTFZTVZCTE5WTnJTMlJ2ZWpGT1dVWkJaak0xU25ReWFrVTNSVkpNUlRoM1RIQkRhbVpDWjBrMllVSTFaRFF5TFZZNFYxUkhOVGR1Wm1kdlpXSlhYMXBRT1UxMk1GTm5SamQwTVZWbFlWVmlaVGxHY1RaSWJIVkdSMnhtTFdseU5qWTVWaTF6TjFSME5saFVlbUZsVVV4Sk5FOUJVMUJYTmpoRmRWRkVTVUYyZW5Fd2IwdFRaRFpxYkd4RlZVWkVlRmN0UWt0UFNtWkhOMmxqVUVOelRWaExibGxOWmpCTFdsSmZVbmhaZDNkYVUwdGhWV0ptT0V4bE56QmZURlU1VFRoRFZqQnZSak54V1MxUlpUSkhXVlk0TjNaWWFGVnRPVkZYV21WalN6aFhRVWRHWmtOMk5GOURiMUZhV2paUGR6QlNiR0ZZVmt4YVUwWmtZalV6UVdGblkzcDFMVkpPUmxCTWRqVmxXamRFV2pKRVpscGlNa0pPZW1sbVVteFJXVE53UzJzd1FUbG1RbmxCY0doNlZGQkNkM1ZIZVU5dFoyMWZNa1EwTUdNeU1ITnJiRWxWVjJwVE1IRllUREZFWVRkcFJqYzVaMmN0U1hvMVVFTkxNWGN3WjE4eE5VazVORUZEU1VaSU5uaElRVFJJWVRVNWVGQnlhblF6YTFCbGRITm9OWE4yUm1sd2JscEJWVXROVFRCb05USmlRa0VTRjFkQk0yeGhjRmRpUTI5bVZ6Vk9iMUI0VUcxS2JVRjNHaUpCU0U0d1JUZEhTalF6ZVVoM1gyWk1hVWN3VjFSWE5EQXliWE55TlRWT1NYZG4iLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVyY0VDdmNEUVVSRVlsZGxZWG8xWlhadVgyUTJUazEyUkRSS1dHcFhjbnBXT0hWWU9YRnZaMGhvUVVsNlkzQnJWR00yV1ZKcVUwSnBlbmg1U1VOWVMwZGlkRmhRWTIxRFZteDFjbE13YjJWcU5FbFJSVVYwTUcxb1JraGFTbFpmYVZOa2RFWnRjeTFZTVZCTE5WTnJTMlJ2ZWpGT1dVWkJaak0xU25ReWFrVTNSVkpNUlRoM1RIQkRhbVpDWjBrMllVSTFaRFF5TFZZNFYxUkhOVGR1Wm1kdlpXSlhYMXBRT1UxMk1GTm5SamQwTVZWbFlWVmlaVGxHY1RaSWJIVkdSMnhtTFdseU5qWTVWaTF6TjFSME5saFVlbUZsVVV4Sk5FOUJVMUJYTmpoRmRWRkVTVUYyZW5Fd2IwdFRaRFpxYkd4RlZVWkVlRmN0UWt0UFNtWkhOMmxqVUVOelRWaExibGxOWmpCTFdsSmZVbmhaZDNkYVUwdGhWV0ptT0V4bE56QmZURlU1VFRoRFZqQnZSak54V1MxUlpUSkhXVlk0TjNaWWFGVnRPVkZYV21WalN6aFhRVWRHWmtOMk5GOURiMUZhV2paUGR6QlNiR0ZZVmt4YVUwWmtZalV6UVdGblkzcDFMVkpPUmxCTWRqVmxXamRFV2pKRVpscGlNa0pPZW1sbVVteFJXVE53UzJzd1FUbG1RbmxCY0doNlZGQkNkM1ZIZVU5dFoyMWZNa1EwTUdNeU1ITnJiRWxWVjJwVE1IRllUREZFWVRkcFJqYzVaMmN0U1hvMVVFTkxNWGN3WjE4eE5VazVORUZEU1VaSU5uaElRVFJJWVRVNWVGQnlhblF6YTFCbGRITm9OWE4yUm1sd2JscEJWVXROVFRCb05USmlRa0VTRjFkQk0yeGhjRmRpUTI5bVZ6Vk9iMUI0VUcxS2JVRjNHaUpCU0U0d1JUZEhTalF6ZVVoM1gyWk1hVWN3VjFSWE5EQXliWE55TlRWT1NYZG4iLCJmY3YiOiIzIn0%3D&q=Data+Architect&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Architect",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:34:15.767315+00:00",
+    "request_fingerprint": "323aa7ebe6daeacbfb4cd3de7eb8a4c8cc47ec9bde1edf07e8c92a210ff3a42b",
+    "job_count": 9
+  }
+}

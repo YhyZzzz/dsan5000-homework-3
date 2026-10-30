@@ -1,0 +1,1069 @@
+{
+  "search_metadata": {
+    "id": "6ae5077f5e878b4913a8ed3c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZDUivCW8tpxJZbcdp8JcTwERQ4hjrgeeMnXgUdStBOQ/6ae5077f5e878b4913a8ed3c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZDUivCW8tpxJZbcdp8JcTwERQ4hjrgeeMnXgUdStBOQ/6ae5077f5e878b4913a8ed3c.md",
+    "created_at": "2026-10-30 21:09:19 UTC",
+    "processed_at": "2026-10-30 21:09:19 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Scientist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/ZDUivCW8tpxJZbcdp8JcTwERQ4hjrgeeMnXgUdStBOQ/6ae5077f5e878b4913a8ed3c.html",
+    "total_time_taken": 3.16
+  },
+  "search_parameters": {
+    "q": "Data Scientist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXkxFBeQVhqLVEloAX80oGyydDULWPUBYu-SV2WSr33QJiyuwP1ryLnRxcvSSZAHaIaJ3ofHIiUe4iBeHdL9DgL09rtQspiT5xdyxG8ahmqsnOey74EjHdV4aXQh5ojMxe5ujhqgMSaxQyjdBukdDZqC6z-Vk",
+        "q": "Data Scientist no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXkxFBeQVhqLVEloAX80oGyydDULWPUBYu-SV2WSr33QJiyuwP1ryLnRxcvSSZAHaIaJ3ofHIiUe4iBeHdL9DgL09rtQspiT5xdyxG8ahmqsnOey74EjHdV4aXQh5ojMxe5ujhqgMSaxQyjdBukdDZqC6z-Vk&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXkxFBeQVhqLVEloAX80oGyydDULWPUBYu-SV2WSr33QJiyuwP1ryLnRxcvSSZAHaIaJ3ofHIiUe4iBeHdL9DgL09rtQspiT5xdyxG8ahmqsnOey74EjHdV4aXQh5ojMxe5ujhqgMSaxQyjdBukdDZqC6z-Vk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbyT2W-ZyUIdqv7s2sE-FvBz_FctxZyLoA95h5SW_mg4ah9K7xjnqmHSrfhB_eqtkFLxl9sGQFlaUXvJHiNjKiKZmkVg6q2q0dpgDVjLsBmLoAtBSlE0dJd9EMn5F9HkPzDCFhDngkpgoPTRlzVpxlhr6-YM",
+        "q": "Data Scientist remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbyT2W-ZyUIdqv7s2sE-FvBz_FctxZyLoA95h5SW_mg4ah9K7xjnqmHSrfhB_eqtkFLxl9sGQFlaUXvJHiNjKiKZmkVg6q2q0dpgDVjLsBmLoAtBSlE0dJd9EMn5F9HkPzDCFhDngkpgoPTRlzVpxlhr6-YM&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbyT2W-ZyUIdqv7s2sE-FvBz_FctxZyLoA95h5SW_mg4ah9K7xjnqmHSrfhB_eqtkFLxl9sGQFlaUXvJHiNjKiKZmkVg6q2q0dpgDVjLsBmLoAtBSlE0dJd9EMn5F9HkPzDCFhDngkpgoPTRlzVpxlhr6-YM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5UtfLJNgIVUEubRjd59H39ozRecYxnOFAdTo8VhYVqZ5a7w9W1EowMbMBf5kEKJrt16_3BKmP1Q0NKmXwg7nKqCWkLRHwD4TAoROe0frfKK6UV7sHshxS4L6_ZkE5JIuqF8SK8GnTanVrS-j7_b6AMs6aYEC1aT9VUvI9tLx8We5D40pmBbmRwkd8ikAytX9VCnslmkorqk6F5Tvn1FQ9mH9UVAzZFu2g5oJensxyOwZ2ZhV1dIaPsQ9f5bP7Q7cjGhP1o5AiIesRbM_kK4zEuiyj44rw",
+            "q": "Data Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5UtfLJNgIVUEubRjd59H39ozRecYxnOFAdTo8VhYVqZ5a7w9W1EowMbMBf5kEKJrt16_3BKmP1Q0NKmXwg7nKqCWkLRHwD4TAoROe0frfKK6UV7sHshxS4L6_ZkE5JIuqF8SK8GnTanVrS-j7_b6AMs6aYEC1aT9VUvI9tLx8We5D40pmBbmRwkd8ikAytX9VCnslmkorqk6F5Tvn1FQ9mH9UVAzZFu2g5oJensxyOwZ2ZhV1dIaPsQ9f5bP7Q7cjGhP1o5AiIesRbM_kK4zEuiyj44rw&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5UtfLJNgIVUEubRjd59H39ozRecYxnOFAdTo8VhYVqZ5a7w9W1EowMbMBf5kEKJrt16_3BKmP1Q0NKmXwg7nKqCWkLRHwD4TAoROe0frfKK6UV7sHshxS4L6_ZkE5JIuqF8SK8GnTanVrS-j7_b6AMs6aYEC1aT9VUvI9tLx8We5D40pmBbmRwkd8ikAytX9VCnslmkorqk6F5Tvn1FQ9mH9UVAzZFu2g5oJensxyOwZ2ZhV1dIaPsQ9f5bP7Q7cjGhP1o5AiIesRbM_kK4zEuiyj44rw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5WoIc6Bf4Vuld3zHVVi2yGHOndxynZUlvOtW3EyHi6IzQ8ZtsUn4PDOvnRROAZ5XkTXQnGtGS0g3Tsn9GYnWKzdQ8UTH3yHpAUgMnQnL4O1ym8849WrILtsug7GX4c3XfxjDY9EP4yZeAxZFB6Mfp4zDNFbrlTKMIBageWdEV4qSCcDUuM8byBDU98SoM959HQPn9QEz60HSHafFiUiTqgqbpmh_uvB3XtBxzRvh4p-CuGYpIu6VNcFv05TU8YIP2pyrhzwfTKk9q2rDhZ-QwDO_UuGYA",
+            "q": "Data Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5WoIc6Bf4Vuld3zHVVi2yGHOndxynZUlvOtW3EyHi6IzQ8ZtsUn4PDOvnRROAZ5XkTXQnGtGS0g3Tsn9GYnWKzdQ8UTH3yHpAUgMnQnL4O1ym8849WrILtsug7GX4c3XfxjDY9EP4yZeAxZFB6Mfp4zDNFbrlTKMIBageWdEV4qSCcDUuM8byBDU98SoM959HQPn9QEz60HSHafFiUiTqgqbpmh_uvB3XtBxzRvh4p-CuGYpIu6VNcFv05TU8YIP2pyrhzwfTKk9q2rDhZ-QwDO_UuGYA&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5WoIc6Bf4Vuld3zHVVi2yGHOndxynZUlvOtW3EyHi6IzQ8ZtsUn4PDOvnRROAZ5XkTXQnGtGS0g3Tsn9GYnWKzdQ8UTH3yHpAUgMnQnL4O1ym8849WrILtsug7GX4c3XfxjDY9EP4yZeAxZFB6Mfp4zDNFbrlTKMIBageWdEV4qSCcDUuM8byBDU98SoM959HQPn9QEz60HSHafFiUiTqgqbpmh_uvB3XtBxzRvh4p-CuGYpIu6VNcFv05TU8YIP2pyrhzwfTKk9q2rDhZ-QwDO_UuGYA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXuYMy1M9lf56zrgdC3jKx-cXj1bE7iJebD0KXg68VyV5d-4tEo7MIB4V6KIA4yywWYzJKb3EKEtGVfj191EyJBBlJ26p8jpbamSHYW8EYk4_64GA-ld6DdN3l_DDENgGyHh1bmPgM9nAxgDqSeVld-yLU--Ziw9PzuYUzXbnDZJSg0dC46nuVbGXKylT3udBgpCKeJ9KY-z-Q_8yF3UyWEF6x-zvkP_uprBBPUPn0QFLw3gySZ08vgMhbKL5W2Wo7clmhaWFv5wMxgYs7BvmVgWKrA2lyK6y2f8inzdQ3HH0hE0KL",
+            "q": "Data Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXuYMy1M9lf56zrgdC3jKx-cXj1bE7iJebD0KXg68VyV5d-4tEo7MIB4V6KIA4yywWYzJKb3EKEtGVfj191EyJBBlJ26p8jpbamSHYW8EYk4_64GA-ld6DdN3l_DDENgGyHh1bmPgM9nAxgDqSeVld-yLU--Ziw9PzuYUzXbnDZJSg0dC46nuVbGXKylT3udBgpCKeJ9KY-z-Q_8yF3UyWEF6x-zvkP_uprBBPUPn0QFLw3gySZ08vgMhbKL5W2Wo7clmhaWFv5wMxgYs7BvmVgWKrA2lyK6y2f8inzdQ3HH0hE0KL&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXuYMy1M9lf56zrgdC3jKx-cXj1bE7iJebD0KXg68VyV5d-4tEo7MIB4V6KIA4yywWYzJKb3EKEtGVfj191EyJBBlJ26p8jpbamSHYW8EYk4_64GA-ld6DdN3l_DDENgGyHh1bmPgM9nAxgDqSeVld-yLU--Ziw9PzuYUzXbnDZJSg0dC46nuVbGXKylT3udBgpCKeJ9KY-z-Q_8yF3UyWEF6x-zvkP_uprBBPUPn0QFLw3gySZ08vgMhbKL5W2Wo7clmhaWFv5wMxgYs7BvmVgWKrA2lyK6y2f8inzdQ3HH0hE0KL&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCBUnuwzDra6pxDjDbDj-QWh7AAc9RjA-4XtytvAXtOTecWn_DTDbVCNTKufL92GY04ASPsdy_Eko3VAfz6zZxI27WKTrcJrcYvmvNELc0iKAtAq5mG4H0catRaBEJPX-UviBLPLIK4ITjFaTqv__H_Jzph3g7xmgZ2_z8CDbDf-MtXfXuZdZSffQCkB9vlx3j7QB_yTlY6BTirjmIhVey7Op3kt4OAE7F-bB4xBD7iEUF9IWbhVCituUIRgrvthaj7UqZiWu5ZxqpTyybgQx_w1kOKvvA_-nGtaNk6vJfpjb0kBg_Bq7M5keODGwiSFlXfdo4Q",
+            "q": "Data Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCBUnuwzDra6pxDjDbDj-QWh7AAc9RjA-4XtytvAXtOTecWn_DTDbVCNTKufL92GY04ASPsdy_Eko3VAfz6zZxI27WKTrcJrcYvmvNELc0iKAtAq5mG4H0catRaBEJPX-UviBLPLIK4ITjFaTqv__H_Jzph3g7xmgZ2_z8CDbDf-MtXfXuZdZSffQCkB9vlx3j7QB_yTlY6BTirjmIhVey7Op3kt4OAE7F-bB4xBD7iEUF9IWbhVCituUIRgrvthaj7UqZiWu5ZxqpTyybgQx_w1kOKvvA_-nGtaNk6vJfpjb0kBg_Bq7M5keODGwiSFlXfdo4Q&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCBUnuwzDra6pxDjDbDj-QWh7AAc9RjA-4XtytvAXtOTecWn_DTDbVCNTKufL92GY04ASPsdy_Eko3VAfz6zZxI27WKTrcJrcYvmvNELc0iKAtAq5mG4H0catRaBEJPX-UviBLPLIK4ITjFaTqv__H_Jzph3g7xmgZ2_z8CDbDf-MtXfXuZdZSffQCkB9vlx3j7QB_yTlY6BTirjmIhVey7Op3kt4OAE7F-bB4xBD7iEUF9IWbhVCituUIRgrvthaj7UqZiWu5ZxqpTyybgQx_w1kOKvvA_-nGtaNk6vJfpjb0kBg_Bq7M5keODGwiSFlXfdo4Q&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5UtfLJNgIVUEubRjd59H39ozRecYxnOFAdTo8VhYVqZ5a7w9W1EowMbMBf5kEKJrt16_3BKmP1Q0NKmXwg7nKqCWkLRHwD4TAoROe0frfKK6UV7sHshxS4L6_ZkE5JIuqF8SK8GnTanVrS-j7_b6AMs6aYEC1aT9VUvI9tLx8We5D40pmBbmRwkd8ikAytX9VCnslmkorqk6F5Tvn1FQ9mH9UVAzZFu2g5oJensxyOwZ2ZhV1dIaPsQ9f5bP7Q7cjGhP1o5AiIesRbM_kK4zEuiyj44rw",
+            "q": "Data Scientist full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5UtfLJNgIVUEubRjd59H39ozRecYxnOFAdTo8VhYVqZ5a7w9W1EowMbMBf5kEKJrt16_3BKmP1Q0NKmXwg7nKqCWkLRHwD4TAoROe0frfKK6UV7sHshxS4L6_ZkE5JIuqF8SK8GnTanVrS-j7_b6AMs6aYEC1aT9VUvI9tLx8We5D40pmBbmRwkd8ikAytX9VCnslmkorqk6F5Tvn1FQ9mH9UVAzZFu2g5oJensxyOwZ2ZhV1dIaPsQ9f5bP7Q7cjGhP1o5AiIesRbM_kK4zEuiyj44rw&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5UtfLJNgIVUEubRjd59H39ozRecYxnOFAdTo8VhYVqZ5a7w9W1EowMbMBf5kEKJrt16_3BKmP1Q0NKmXwg7nKqCWkLRHwD4TAoROe0frfKK6UV7sHshxS4L6_ZkE5JIuqF8SK8GnTanVrS-j7_b6AMs6aYEC1aT9VUvI9tLx8We5D40pmBbmRwkd8ikAytX9VCnslmkorqk6F5Tvn1FQ9mH9UVAzZFu2g5oJensxyOwZ2ZhV1dIaPsQ9f5bP7Q7cjGhP1o5AiIesRbM_kK4zEuiyj44rw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5WoIc6Bf4Vuld3zHVVi2yGHOndxynZUlvOtW3EyHi6IzQ8ZtsUn4PDOvnRROAZ5XkTXQnGtGS0g3Tsn9GYnWKzdQ8UTH3yHpAUgMnQnL4O1ym8849WrILtsug7GX4c3XfxjDY9EP4yZeAxZFB6Mfp4zDNFbrlTKMIBageWdEV4qSCcDUuM8byBDU98SoM959HQPn9QEz60HSHafFiUiTqgqbpmh_uvB3XtBxzRvh4p-CuGYpIu6VNcFv05TU8YIP2pyrhzwfTKk9q2rDhZ-QwDO_UuGYA",
+            "q": "Data Scientist part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5WoIc6Bf4Vuld3zHVVi2yGHOndxynZUlvOtW3EyHi6IzQ8ZtsUn4PDOvnRROAZ5XkTXQnGtGS0g3Tsn9GYnWKzdQ8UTH3yHpAUgMnQnL4O1ym8849WrILtsug7GX4c3XfxjDY9EP4yZeAxZFB6Mfp4zDNFbrlTKMIBageWdEV4qSCcDUuM8byBDU98SoM959HQPn9QEz60HSHafFiUiTqgqbpmh_uvB3XtBxzRvh4p-CuGYpIu6VNcFv05TU8YIP2pyrhzwfTKk9q2rDhZ-QwDO_UuGYA&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbb6KNt_G7wH5SHNkj2MnKWupsqGiciGgVbN41uhrr5WoIc6Bf4Vuld3zHVVi2yGHOndxynZUlvOtW3EyHi6IzQ8ZtsUn4PDOvnRROAZ5XkTXQnGtGS0g3Tsn9GYnWKzdQ8UTH3yHpAUgMnQnL4O1ym8849WrILtsug7GX4c3XfxjDY9EP4yZeAxZFB6Mfp4zDNFbrlTKMIBageWdEV4qSCcDUuM8byBDU98SoM959HQPn9QEz60HSHafFiUiTqgqbpmh_uvB3XtBxzRvh4p-CuGYpIu6VNcFv05TU8YIP2pyrhzwfTKk9q2rDhZ-QwDO_UuGYA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXuYMy1M9lf56zrgdC3jKx-cXj1bE7iJebD0KXg68VyV5d-4tEo7MIB4V6KIA4yywWYzJKb3EKEtGVfj191EyJBBlJ26p8jpbamSHYW8EYk4_64GA-ld6DdN3l_DDENgGyHh1bmPgM9nAxgDqSeVld-yLU--Ziw9PzuYUzXbnDZJSg0dC46nuVbGXKylT3udBgpCKeJ9KY-z-Q_8yF3UyWEF6x-zvkP_uprBBPUPn0QFLw3gySZ08vgMhbKL5W2Wo7clmhaWFv5wMxgYs7BvmVgWKrA2lyK6y2f8inzdQ3HH0hE0KL",
+            "q": "Data Scientist contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXuYMy1M9lf56zrgdC3jKx-cXj1bE7iJebD0KXg68VyV5d-4tEo7MIB4V6KIA4yywWYzJKb3EKEtGVfj191EyJBBlJ26p8jpbamSHYW8EYk4_64GA-ld6DdN3l_DDENgGyHh1bmPgM9nAxgDqSeVld-yLU--Ziw9PzuYUzXbnDZJSg0dC46nuVbGXKylT3udBgpCKeJ9KY-z-Q_8yF3UyWEF6x-zvkP_uprBBPUPn0QFLw3gySZ08vgMhbKL5W2Wo7clmhaWFv5wMxgYs7BvmVgWKrA2lyK6y2f8inzdQ3HH0hE0KL&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXuYMy1M9lf56zrgdC3jKx-cXj1bE7iJebD0KXg68VyV5d-4tEo7MIB4V6KIA4yywWYzJKb3EKEtGVfj191EyJBBlJ26p8jpbamSHYW8EYk4_64GA-ld6DdN3l_DDENgGyHh1bmPgM9nAxgDqSeVld-yLU--Ziw9PzuYUzXbnDZJSg0dC46nuVbGXKylT3udBgpCKeJ9KY-z-Q_8yF3UyWEF6x-zvkP_uprBBPUPn0QFLw3gySZ08vgMhbKL5W2Wo7clmhaWFv5wMxgYs7BvmVgWKrA2lyK6y2f8inzdQ3HH0hE0KL&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCBUnuwzDra6pxDjDbDj-QWh7AAc9RjA-4XtytvAXtOTecWn_DTDbVCNTKufL92GY04ASPsdy_Eko3VAfz6zZxI27WKTrcJrcYvmvNELc0iKAtAq5mG4H0catRaBEJPX-UviBLPLIK4ITjFaTqv__H_Jzph3g7xmgZ2_z8CDbDf-MtXfXuZdZSffQCkB9vlx3j7QB_yTlY6BTirjmIhVey7Op3kt4OAE7F-bB4xBD7iEUF9IWbhVCituUIRgrvthaj7UqZiWu5ZxqpTyybgQx_w1kOKvvA_-nGtaNk6vJfpjb0kBg_Bq7M5keODGwiSFlXfdo4Q",
+            "q": "Data Scientist internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCBUnuwzDra6pxDjDbDj-QWh7AAc9RjA-4XtytvAXtOTecWn_DTDbVCNTKufL92GY04ASPsdy_Eko3VAfz6zZxI27WKTrcJrcYvmvNELc0iKAtAq5mG4H0catRaBEJPX-UviBLPLIK4ITjFaTqv__H_Jzph3g7xmgZ2_z8CDbDf-MtXfXuZdZSffQCkB9vlx3j7QB_yTlY6BTirjmIhVey7Op3kt4OAE7F-bB4xBD7iEUF9IWbhVCituUIRgrvthaj7UqZiWu5ZxqpTyybgQx_w1kOKvvA_-nGtaNk6vJfpjb0kBg_Bq7M5keODGwiSFlXfdo4Q&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCBUnuwzDra6pxDjDbDj-QWh7AAc9RjA-4XtytvAXtOTecWn_DTDbVCNTKufL92GY04ASPsdy_Eko3VAfz6zZxI27WKTrcJrcYvmvNELc0iKAtAq5mG4H0catRaBEJPX-UviBLPLIK4ITjFaTqv__H_Jzph3g7xmgZ2_z8CDbDf-MtXfXuZdZSffQCkB9vlx3j7QB_yTlY6BTirjmIhVey7Op3kt4OAE7F-bB4xBD7iEUF9IWbhVCituUIRgrvthaj7UqZiWu5ZxqpTyybgQx_w1kOKvvA_-nGtaNk6vJfpjb0kBg_Bq7M5keODGwiSFlXfdo4Q&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C_T9msokfqR1A85g05rLhv6k_HqCN89NRqQxvW2cLOVo9m0aTAnpt9X8dSCk_XZi7HBFe9TwdGvq46ofehCzZpkkbDnId5kwO-l01QDP6pBiWp_1RUHJzIhTytFiuN0cNaG93LqSC8JILwBOwBPKBYHooKZxfAzONyK2pXeD2NySqLw09ySXGrJdT9UFGhkEDkwvYddL2RWHn4gOndffFm_H-_uvpP7JmHGz_X2SHVL4ADygj_ojCz-roKZEtPHiTHIoxh_-dtzNq4mm9Cl50ZkaJdJyBerRgk8Y1LAYgF0nHJxbFEJ3xoG19QgMuLfv-QKVpk4",
+            "q": "Data Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C_T9msokfqR1A85g05rLhv6k_HqCN89NRqQxvW2cLOVo9m0aTAnpt9X8dSCk_XZi7HBFe9TwdGvq46ofehCzZpkkbDnId5kwO-l01QDP6pBiWp_1RUHJzIhTytFiuN0cNaG93LqSC8JILwBOwBPKBYHooKZxfAzONyK2pXeD2NySqLw09ySXGrJdT9UFGhkEDkwvYddL2RWHn4gOndffFm_H-_uvpP7JmHGz_X2SHVL4ADygj_ojCz-roKZEtPHiTHIoxh_-dtzNq4mm9Cl50ZkaJdJyBerRgk8Y1LAYgF0nHJxbFEJ3xoG19QgMuLfv-QKVpk4&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C_T9msokfqR1A85g05rLhv6k_HqCN89NRqQxvW2cLOVo9m0aTAnpt9X8dSCk_XZi7HBFe9TwdGvq46ofehCzZpkkbDnId5kwO-l01QDP6pBiWp_1RUHJzIhTytFiuN0cNaG93LqSC8JILwBOwBPKBYHooKZxfAzONyK2pXeD2NySqLw09ySXGrJdT9UFGhkEDkwvYddL2RWHn4gOndffFm_H-_uvpP7JmHGz_X2SHVL4ADygj_ojCz-roKZEtPHiTHIoxh_-dtzNq4mm9Cl50ZkaJdJyBerRgk8Y1LAYgF0nHJxbFEJ3xoG19QgMuLfv-QKVpk4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfBRaI2gQoAYnaCdGfwN84QgauyAwO8Icek6PgLC8gyCNtv93DDsg0OjqLbVMCaC-6lIHZS3mlvMC7aixIX2Py_SAQgSQqtrhUTgYufuJ0KUCzoltwD5DDui9mxOHnq_jTKgasIClxl81KpixdykSeIf6DzWGClt9APFWja-pbz6Ug11t3i22Md-LweAgoIZCP0wQibqpBKgtqGztB6zuoP3z4wFRFvL_Mtsh9okfKHSjucYffeSzjQ5BFwDaaO4atzTqdJCCC1NrfgkbbhZf7GejBP347RPkLTr8A4D_KyKVWppkExGzlI-Hw76d3VJncnHQ_ytrjFBAJELjhrs8al-SdUk",
+            "q": "Data Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfBRaI2gQoAYnaCdGfwN84QgauyAwO8Icek6PgLC8gyCNtv93DDsg0OjqLbVMCaC-6lIHZS3mlvMC7aixIX2Py_SAQgSQqtrhUTgYufuJ0KUCzoltwD5DDui9mxOHnq_jTKgasIClxl81KpixdykSeIf6DzWGClt9APFWja-pbz6Ug11t3i22Md-LweAgoIZCP0wQibqpBKgtqGztB6zuoP3z4wFRFvL_Mtsh9okfKHSjucYffeSzjQ5BFwDaaO4atzTqdJCCC1NrfgkbbhZf7GejBP347RPkLTr8A4D_KyKVWppkExGzlI-Hw76d3VJncnHQ_ytrjFBAJELjhrs8al-SdUk&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfBRaI2gQoAYnaCdGfwN84QgauyAwO8Icek6PgLC8gyCNtv93DDsg0OjqLbVMCaC-6lIHZS3mlvMC7aixIX2Py_SAQgSQqtrhUTgYufuJ0KUCzoltwD5DDui9mxOHnq_jTKgasIClxl81KpixdykSeIf6DzWGClt9APFWja-pbz6Ug11t3i22Md-LweAgoIZCP0wQibqpBKgtqGztB6zuoP3z4wFRFvL_Mtsh9okfKHSjucYffeSzjQ5BFwDaaO4atzTqdJCCC1NrfgkbbhZf7GejBP347RPkLTr8A4D_KyKVWppkExGzlI-Hw76d3VJncnHQ_ytrjFBAJELjhrs8al-SdUk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rDEeKFPdbLYtxuzGlJ2F8qLJlyjGSaU4EOuJNseJrL9HjnBJTbWyA9WfNzn_RzA4gJp1yXnaah4nHpWF_rUbdMkG6oEs8J0Hbf3PiYrlKLduwh1s_zwE7PIAj7_jgJXMaIAPx7yjqt7V0GpsZOrzkQ8RRymTp7prbGnmTfpVciP6OFYa9_C9m0KE74R5WaaUBSnjImJ5iq6TbQOh2J3uJdJ_dOP7it1Q4-XeFvkC0e676siGPt5pg3U46EaZnXyQDktHfHPzPXzEdECOBjYprQ4CwFdLm940Sg1GaDKBrbCbGsn8Z35dk4rg1vtmwxQHYGky1q4",
+            "q": "Data Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rDEeKFPdbLYtxuzGlJ2F8qLJlyjGSaU4EOuJNseJrL9HjnBJTbWyA9WfNzn_RzA4gJp1yXnaah4nHpWF_rUbdMkG6oEs8J0Hbf3PiYrlKLduwh1s_zwE7PIAj7_jgJXMaIAPx7yjqt7V0GpsZOrzkQ8RRymTp7prbGnmTfpVciP6OFYa9_C9m0KE74R5WaaUBSnjImJ5iq6TbQOh2J3uJdJ_dOP7it1Q4-XeFvkC0e676siGPt5pg3U46EaZnXyQDktHfHPzPXzEdECOBjYprQ4CwFdLm940Sg1GaDKBrbCbGsn8Z35dk4rg1vtmwxQHYGky1q4&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rDEeKFPdbLYtxuzGlJ2F8qLJlyjGSaU4EOuJNseJrL9HjnBJTbWyA9WfNzn_RzA4gJp1yXnaah4nHpWF_rUbdMkG6oEs8J0Hbf3PiYrlKLduwh1s_zwE7PIAj7_jgJXMaIAPx7yjqt7V0GpsZOrzkQ8RRymTp7prbGnmTfpVciP6OFYa9_C9m0KE74R5WaaUBSnjImJ5iq6TbQOh2J3uJdJ_dOP7it1Q4-XeFvkC0e676siGPt5pg3U46EaZnXyQDktHfHPzPXzEdECOBjYprQ4CwFdLm940Sg1GaDKBrbCbGsn8Z35dk4rg1vtmwxQHYGky1q4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbIEvcxnWqAX6eFrAu91-g2jLPYEJQi64yD-AAZ9kgzfOK4viHjCci7vBxX6vFpP1dyaTQGgAnx7iLBHdIKjN0llkLFLz6DEFynt03IPQvUyTdcts7Ml_cHHgbpSm9r8gyHHS7UzKTpwRyHfYHEaoTKvfl3QIVyELVgKS2pLnf1TbD7NvsGVxPSMIdiVIm1UGqtvvQOtOy1B0CR1qoZcT96scW1niz25KS499FBoQfxdsH_cydymo_wGP43Mo53WeLBwS6MlraLOPRNZYpbPCwv4dozJ3Q3nWsLrZOoGDrcJhevUZFA6MppB5O4q_1Y5VnBDOBHKFQ1Zb1a4FxVEaxHa1nxA",
+            "q": "Data Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbIEvcxnWqAX6eFrAu91-g2jLPYEJQi64yD-AAZ9kgzfOK4viHjCci7vBxX6vFpP1dyaTQGgAnx7iLBHdIKjN0llkLFLz6DEFynt03IPQvUyTdcts7Ml_cHHgbpSm9r8gyHHS7UzKTpwRyHfYHEaoTKvfl3QIVyELVgKS2pLnf1TbD7NvsGVxPSMIdiVIm1UGqtvvQOtOy1B0CR1qoZcT96scW1niz25KS499FBoQfxdsH_cydymo_wGP43Mo53WeLBwS6MlraLOPRNZYpbPCwv4dozJ3Q3nWsLrZOoGDrcJhevUZFA6MppB5O4q_1Y5VnBDOBHKFQ1Zb1a4FxVEaxHa1nxA&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbIEvcxnWqAX6eFrAu91-g2jLPYEJQi64yD-AAZ9kgzfOK4viHjCci7vBxX6vFpP1dyaTQGgAnx7iLBHdIKjN0llkLFLz6DEFynt03IPQvUyTdcts7Ml_cHHgbpSm9r8gyHHS7UzKTpwRyHfYHEaoTKvfl3QIVyELVgKS2pLnf1TbD7NvsGVxPSMIdiVIm1UGqtvvQOtOy1B0CR1qoZcT96scW1niz25KS499FBoQfxdsH_cydymo_wGP43Mo53WeLBwS6MlraLOPRNZYpbPCwv4dozJ3Q3nWsLrZOoGDrcJhevUZFA6MppB5O4q_1Y5VnBDOBHKFQ1Zb1a4FxVEaxHa1nxA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C_T9msokfqR1A85g05rLhv6k_HqCN89NRqQxvW2cLOVo9m0aTAnpt9X8dSCk_XZi7HBFe9TwdGvq46ofehCzZpkkbDnId5kwO-l01QDP6pBiWp_1RUHJzIhTytFiuN0cNaG93LqSC8JILwBOwBPKBYHooKZxfAzONyK2pXeD2NySqLw09ySXGrJdT9UFGhkEDkwvYddL2RWHn4gOndffFm_H-_uvpP7JmHGz_X2SHVL4ADygj_ojCz-roKZEtPHiTHIoxh_-dtzNq4mm9Cl50ZkaJdJyBerRgk8Y1LAYgF0nHJxbFEJ3xoG19QgMuLfv-QKVpk4",
+            "q": "Data Scientist since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C_T9msokfqR1A85g05rLhv6k_HqCN89NRqQxvW2cLOVo9m0aTAnpt9X8dSCk_XZi7HBFe9TwdGvq46ofehCzZpkkbDnId5kwO-l01QDP6pBiWp_1RUHJzIhTytFiuN0cNaG93LqSC8JILwBOwBPKBYHooKZxfAzONyK2pXeD2NySqLw09ySXGrJdT9UFGhkEDkwvYddL2RWHn4gOndffFm_H-_uvpP7JmHGz_X2SHVL4ADygj_ojCz-roKZEtPHiTHIoxh_-dtzNq4mm9Cl50ZkaJdJyBerRgk8Y1LAYgF0nHJxbFEJ3xoG19QgMuLfv-QKVpk4&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C_T9msokfqR1A85g05rLhv6k_HqCN89NRqQxvW2cLOVo9m0aTAnpt9X8dSCk_XZi7HBFe9TwdGvq46ofehCzZpkkbDnId5kwO-l01QDP6pBiWp_1RUHJzIhTytFiuN0cNaG93LqSC8JILwBOwBPKBYHooKZxfAzONyK2pXeD2NySqLw09ySXGrJdT9UFGhkEDkwvYddL2RWHn4gOndffFm_H-_uvpP7JmHGz_X2SHVL4ADygj_ojCz-roKZEtPHiTHIoxh_-dtzNq4mm9Cl50ZkaJdJyBerRgk8Y1LAYgF0nHJxbFEJ3xoG19QgMuLfv-QKVpk4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfBRaI2gQoAYnaCdGfwN84QgauyAwO8Icek6PgLC8gyCNtv93DDsg0OjqLbVMCaC-6lIHZS3mlvMC7aixIX2Py_SAQgSQqtrhUTgYufuJ0KUCzoltwD5DDui9mxOHnq_jTKgasIClxl81KpixdykSeIf6DzWGClt9APFWja-pbz6Ug11t3i22Md-LweAgoIZCP0wQibqpBKgtqGztB6zuoP3z4wFRFvL_Mtsh9okfKHSjucYffeSzjQ5BFwDaaO4atzTqdJCCC1NrfgkbbhZf7GejBP347RPkLTr8A4D_KyKVWppkExGzlI-Hw76d3VJncnHQ_ytrjFBAJELjhrs8al-SdUk",
+            "q": "Data Scientist in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfBRaI2gQoAYnaCdGfwN84QgauyAwO8Icek6PgLC8gyCNtv93DDsg0OjqLbVMCaC-6lIHZS3mlvMC7aixIX2Py_SAQgSQqtrhUTgYufuJ0KUCzoltwD5DDui9mxOHnq_jTKgasIClxl81KpixdykSeIf6DzWGClt9APFWja-pbz6Ug11t3i22Md-LweAgoIZCP0wQibqpBKgtqGztB6zuoP3z4wFRFvL_Mtsh9okfKHSjucYffeSzjQ5BFwDaaO4atzTqdJCCC1NrfgkbbhZf7GejBP347RPkLTr8A4D_KyKVWppkExGzlI-Hw76d3VJncnHQ_ytrjFBAJELjhrs8al-SdUk&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfBRaI2gQoAYnaCdGfwN84QgauyAwO8Icek6PgLC8gyCNtv93DDsg0OjqLbVMCaC-6lIHZS3mlvMC7aixIX2Py_SAQgSQqtrhUTgYufuJ0KUCzoltwD5DDui9mxOHnq_jTKgasIClxl81KpixdykSeIf6DzWGClt9APFWja-pbz6Ug11t3i22Md-LweAgoIZCP0wQibqpBKgtqGztB6zuoP3z4wFRFvL_Mtsh9okfKHSjucYffeSzjQ5BFwDaaO4atzTqdJCCC1NrfgkbbhZf7GejBP347RPkLTr8A4D_KyKVWppkExGzlI-Hw76d3VJncnHQ_ytrjFBAJELjhrs8al-SdUk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rDEeKFPdbLYtxuzGlJ2F8qLJlyjGSaU4EOuJNseJrL9HjnBJTbWyA9WfNzn_RzA4gJp1yXnaah4nHpWF_rUbdMkG6oEs8J0Hbf3PiYrlKLduwh1s_zwE7PIAj7_jgJXMaIAPx7yjqt7V0GpsZOrzkQ8RRymTp7prbGnmTfpVciP6OFYa9_C9m0KE74R5WaaUBSnjImJ5iq6TbQOh2J3uJdJ_dOP7it1Q4-XeFvkC0e676siGPt5pg3U46EaZnXyQDktHfHPzPXzEdECOBjYprQ4CwFdLm940Sg1GaDKBrbCbGsn8Z35dk4rg1vtmwxQHYGky1q4",
+            "q": "Data Scientist in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rDEeKFPdbLYtxuzGlJ2F8qLJlyjGSaU4EOuJNseJrL9HjnBJTbWyA9WfNzn_RzA4gJp1yXnaah4nHpWF_rUbdMkG6oEs8J0Hbf3PiYrlKLduwh1s_zwE7PIAj7_jgJXMaIAPx7yjqt7V0GpsZOrzkQ8RRymTp7prbGnmTfpVciP6OFYa9_C9m0KE74R5WaaUBSnjImJ5iq6TbQOh2J3uJdJ_dOP7it1Q4-XeFvkC0e676siGPt5pg3U46EaZnXyQDktHfHPzPXzEdECOBjYprQ4CwFdLm940Sg1GaDKBrbCbGsn8Z35dk4rg1vtmwxQHYGky1q4&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rDEeKFPdbLYtxuzGlJ2F8qLJlyjGSaU4EOuJNseJrL9HjnBJTbWyA9WfNzn_RzA4gJp1yXnaah4nHpWF_rUbdMkG6oEs8J0Hbf3PiYrlKLduwh1s_zwE7PIAj7_jgJXMaIAPx7yjqt7V0GpsZOrzkQ8RRymTp7prbGnmTfpVciP6OFYa9_C9m0KE74R5WaaUBSnjImJ5iq6TbQOh2J3uJdJ_dOP7it1Q4-XeFvkC0e676siGPt5pg3U46EaZnXyQDktHfHPzPXzEdECOBjYprQ4CwFdLm940Sg1GaDKBrbCbGsn8Z35dk4rg1vtmwxQHYGky1q4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbIEvcxnWqAX6eFrAu91-g2jLPYEJQi64yD-AAZ9kgzfOK4viHjCci7vBxX6vFpP1dyaTQGgAnx7iLBHdIKjN0llkLFLz6DEFynt03IPQvUyTdcts7Ml_cHHgbpSm9r8gyHHS7UzKTpwRyHfYHEaoTKvfl3QIVyELVgKS2pLnf1TbD7NvsGVxPSMIdiVIm1UGqtvvQOtOy1B0CR1qoZcT96scW1niz25KS499FBoQfxdsH_cydymo_wGP43Mo53WeLBwS6MlraLOPRNZYpbPCwv4dozJ3Q3nWsLrZOoGDrcJhevUZFA6MppB5O4q_1Y5VnBDOBHKFQ1Zb1a4FxVEaxHa1nxA",
+            "q": "Data Scientist in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjK1F_Ma_AIp_WU6EU3jIkw39S82w:1793394561696&q=Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbIEvcxnWqAX6eFrAu91-g2jLPYEJQi64yD-AAZ9kgzfOK4viHjCci7vBxX6vFpP1dyaTQGgAnx7iLBHdIKjN0llkLFLz6DEFynt03IPQvUyTdcts7Ml_cHHgbpSm9r8gyHHS7UzKTpwRyHfYHEaoTKvfl3QIVyELVgKS2pLnf1TbD7NvsGVxPSMIdiVIm1UGqtvvQOtOy1B0CR1qoZcT96scW1niz25KS499FBoQfxdsH_cydymo_wGP43Mo53WeLBwS6MlraLOPRNZYpbPCwv4dozJ3Q3nWsLrZOoGDrcJhevUZFA6MppB5O4q_1Y5VnBDOBHKFQ1Zb1a4FxVEaxHa1nxA&udm=8&sa=X&ved=2ahUKEwi50aqu0-KXAxXKkysGHdoDNpwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Scientist+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbIEvcxnWqAX6eFrAu91-g2jLPYEJQi64yD-AAZ9kgzfOK4viHjCci7vBxX6vFpP1dyaTQGgAnx7iLBHdIKjN0llkLFLz6DEFynt03IPQvUyTdcts7Ml_cHHgbpSm9r8gyHHS7UzKTpwRyHfYHEaoTKvfl3QIVyELVgKS2pLnf1TbD7NvsGVxPSMIdiVIm1UGqtvvQOtOy1B0CR1qoZcT96scW1niz25KS499FBoQfxdsH_cydymo_wGP43Mo53WeLBwS6MlraLOPRNZYpbPCwv4dozJ3Q3nWsLrZOoGDrcJhevUZFA6MppB5O4q_1Y5VnBDOBHKFQ1Zb1a4FxVEaxHa1nxA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Associate Data Scientist (College Grad 2027)",
+      "company_name": "Solace",
+      "location": "United States",
+      "via": "Duke Career Hub - Duke University",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You don't need years of experience, but you do need an innate ability to get things done",
+            "This role is for the ambitious, the curious, and those who don't shy away from feedback",
+            "Nobody hands you a clean CSV here",
+            "A bachelor's or master's degree in Statistics, Data Science, Computer Science, Applied Math, or a related quantitative field (or equivalent practical experience), graduating between December 2026 and June 2027",
+            "Strong fundamentals in statistics and probability: hypothesis testing, regression, and the judgment to know when your model is fooling you",
+            "Working Python skills, including the core data science ecosystem (pandas, scikit-learn, NumPy), plus working SQL",
+            "Projects that show you can do real quantitative work: research, internships, Kaggle competitions, hackathons, or personal modeling projects",
+            "A bias toward action",
+            "You have an exceptional craving for momentum, and you'd rather ship a simple model that works than polish a complex one that never launches",
+            "Curiosity for how systems work, comfort with ambiguity, and a refined palate for controlled chaos",
+            "Confident communication",
+            "You can explain a model to someone who has never heard of one, and take critique of your methodology without defensiveness",
+            "A sense of care",
+            "You take pride in the details, because in healthcare data, the details are the difference",
+            "A hunger to learn and an ego small enough to admit when you don't know something",
+            "Coursework or projects in causal inference or experimental design",
+            "Familiarity with dbt, Airflow, Docker, or cloud environments (AWS)",
+            "Experience with NLP or unstructured text data",
+            "Applicants must be based in the United States"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "You won't spend your first year re-deriving textbook exercises"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You'll contribute to real models with mentorship from senior data scientists, and you'll be expected to think independently, question your own results, and defend your methodology",
+            "If you're the kind of person who sees a problem and can't resist solving it, keep reading",
+            "Contribute to real predictive models in your first weeks: forecasting, matching, and scoring systems that the business runs on",
+            "Pull and wrangle your own data with SQL from Snowflake",
+            "Support the design and analysis of A/B tests and experiments, learning how to measure the true impact of product and operational changes",
+            "Work alongside data engineers to see how models get from a notebook into production, learning MLOps practices as you go",
+            "Apply statistics with rigor: knowing when a result is real, when it's noise, and how to tell the difference",
+            "Present your findings and defend your methodology to technical and non-technical audiences",
+            "Grow your craft: learn how to frame problems, validate models, design experiments, and make smart modeling decisions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=uXeYcxGADpy8fkjZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7AoLTjSrYlIAIOkmFgmtxLpf0SCMxV3I39F18Wevyj99ffTdVexdhH1EJHqgIvY-UNYrCvuWUKBB0BUewjb0c4ARPdiCExU_AGTrmkGh3m1RnuRojkuogihp97fljOJPjxbzZyT-DTFhoTuttsOdmqeccjtueE3qCmOGVo9II_QqQ_ACXfBuXngAAAA&shmds=v1_Ac3VAoyWgodvFUtlosdJDJc16L6dxwNpowbXMrn-cMTZbdcIhQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=uXeYcxGADpy8fkjZAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5077f5e878b4913a8ed3c/images/cN1UaAZj6Iw3Cv47BCV-AHBCFJ39tyfp-JLGrwEozc0.png",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://careerhub.students.duke.edu/jobs/solace-associate-data-scientist-college-grad-2027-2/",
+      "job_title": "Associate Data Scientist (College Grad 2027)",
+      "description": "About the Role\nThis is a rare chance to learn data science from the inside out at one of the fastest-growing healthcare startups in the country. As an Associate Data Scientist at Solace, you'll work on the forecasting and machine learning systems that operate our marketplace in real time: matching patients with advocates, predicting demand, and keeping the business ahead of its own growth.\n\n\nYou won't spend your first year re-deriving textbook exercises. You'll contribute to real models with mentorship from senior data scientists, and you'll be expected to think independently, question your own results, and defend your methodology. You don't need years of experience, but you do need an innate ability to get things done.\n\n\nThis role is for the ambitious, the curious, and those who don't shy away from feedback. If you're the kind of person who sees a problem and can't resist solving it, keep reading.\n\n\nThis is an in person role in our Redwood City office, 3 days a week.\n\n\nWhat You'll Do\nContribute to real predictive models in your first weeks: forecasting, matching, and scoring systems that the business runs on.\n\n\nPull and wrangle your own data with SQL from Snowflake. Nobody hands you a clean CSV here.\n\n\nSupport the design and analysis of A/B tests and experiments, learning how to measure the true impact of product and operational changes.\n\n\nWork alongside data engineers to see how models get from a notebook into production, learning MLOps practices as you go.\n\n\nApply statistics with rigor: knowing when a result is real, when it's noise, and how to tell the difference.\n\n\nPresent your findings and defend your methodology to technical and non-technical audiences. Your voice matters here, even on day one.\n\n\nGrow your craft: learn how to frame problems, validate models, design experiments, and make smart modeling decisions.\n\n\nWhat You Bring to the Table\nA bachelor's or master's degree in Statistics, Data Science, Computer Science, Applied Math, or a related quantitative field (or equivalent practical experience), graduating between December 2026 and June 2027.\n\n\nStrong fundamentals in statistics and probability: hypothesis testing, regression, and the judgment to know when your model is fooling you.\n\n\nWorking Python skills, including the core data science ecosystem (pandas, scikit-learn, NumPy), plus working SQL.\n\n\nProjects that show you can do real quantitative work: research, internships, Kaggle competitions, hackathons, or personal modeling projects. We care about what you've built and what you learned from it, not just what you studied.\n\n\nA bias toward action. You have an exceptional craving for momentum, and you'd rather ship a simple model that works than polish a complex one that never launches.\n\n\nCuriosity for how systems work, comfort with ambiguity, and a refined palate for controlled chaos.\n\n\nConfident communication. You can explain a model to someone who has never heard of one, and take critique of your methodology without defensiveness.\n\n\nA sense of care. You take pride in the details, because in healthcare data, the details are the difference.\n\n\nA hunger to learn and an ego small enough to admit when you don't know something.\n\n\nBonus Points\nExposure to time-series forecasting (ARIMA, Prophet, exponential smoothing).\n\n\nCoursework or projects in causal inference or experimental design.\n\n\nFamiliarity with dbt, Airflow, Docker, or cloud environments (AWS).\n\n\nExperience with NLP or unstructured text data.\n\n\nUp for the Challenge?\nWe look forward to meeting you.\n\n\nFraudulent Recruitment Advisory: Solace Health will NEVER request bank details or offer employment without an interview. All legitimate communications come from official solace.health emails or ashbyhq.com. Report suspicious activity to recruiting@solace.health.\n\n\nApplicants must be based in the United States.\n\n\nUp for the Challenge?\n\n\nWe look forward to meeting you.\n\n\nFraudulent Recruitment Advisory: Solace Health will NEVER request bank details or offer employment without an interview. All legitimate communications come from official solace.health emails only or ashbyhq.com. Report suspicious activity to recruiting@solace.health or advocate@solace.health.",
+      "apply_options": [
+        {
+          "title": "Duke Career Hub - Duke University",
+          "link": "https://careerhub.students.duke.edu/jobs/solace-associate-data-scientist-college-grad-2027-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgRGF0YSBTY2llbnRpc3QgKENvbGxlZ2UgR3JhZCAyMDI3KSIsImNvbXBhbnlfbmFtZSI6IlNvbGFjZSIsImh0aWRvY2lkIjoidVhlWWN4R0FEcHk4ZmtqWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWbHBiMTlITld3MFRFdFZZVUZPUzAxWVVuZGZVbXhmYzJ0bWRHTlNlbWN3YVRKU1dGUjJVRVE1VEdWVmVucDVla3hLZFVwWWJVdHNYMHRXVGxkRldXMXhWRGRHZWxsWlNETnZMWGxpU25wd1NYQnpUblZYUmxFNFQxWmxSM295U21SRmVHSjNPSGRNZW14RlZGOUNibU5vTURWaFpGVk5jVFZSU25GU00ycDBURGQyWjFBU0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRIWVd0ZlMzRllkbE5GYUVkaFlVRXdZV2d4ZEhRelNFcHhNbWhuIiwiZmN2IjoiMyIsImZjX2lkIjoidVhlWWN4R0FEcHk4ZmtqWkFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data Scientist – Cell-Free RNA Sequencing                    Read More",
+      "company_name": "Superfluid Dx, Inc.",
+      "location": "United States",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in a quantitative field with a strong focus on biological sciences (e.g., Applied Statistics, Biophysics, Computational Biology)",
+            "5+ years of biotech industry experience with a proven track record of leading successful projects",
+            "Expertise in gene expression data analysis, including count table filtering, normalization strategies, noise quantification, differential expression analysis, and dimensionality reduction",
+            "Strong foundation in statistical principles and rigorous application; including, but not limited to, hypothesis testing, P-value corrections, Bayesian approaches, bootstrapping, and permutation testing",
+            "Extensive experience in building, training, testing, and validating machine learning and deep learning models, including model selection based on comparative analysis and performance metrics",
+            "Proficient in feature set development (selection, engineering, etc.) and skilled in updating and performing inference with RNA-seq-specific large language models (LLMs)",
+            "Ability to innovate both in applying library methods and developing algorithms from scratch",
+            "Experience with common data science infrastructure, including pipelines, clusters, databases, and feature stores"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The estimated salary range for this role is $160,000- $190,000 and is based on a number of factors including experience and qualifications"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Lead innovation in secondary and tertiary analysis of cf-RNA sequencing data, focusing on delivering rigorous and reproducible results",
+            "Develop and implement advanced methods for differential gene expression analysis, pathway analysis, and enrichment analysis, optimizing for accuracy and biological insights",
+            "Build, train, test, and validate predictive models, including logistic regression, random forests, and neural networks, as well as leverage existing RNA-seq large language models (LLMs) for inference and analysis",
+            "Design and build scalable, efficient data analysis pipelines",
+            "Engage in hypothesis-driven research, rigorously testing and validating new methods and models",
+            "Critically evaluate results, ensuring robust models that are applicable in real-world clinical contexts beyond academic publications",
+            "Visualize complex datasets and create compelling narratives to communicate findings to both scientific and executive audiences",
+            "Collaborate with cross-functional teams, contributing to the company’s overall scientific and technical strategy"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=Mjviu_r4XGuQRcdSAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_23MMU7DQBCFYdHmCFSvoELERkg0UCEiIpCgyIo6Wq9f7EWbGbMzllxyB47FLTgJ0PMXX_mvvk5Wh0DJWrGJHhFSpng2x_fHJ-5Zyvqhkti93CHwfaakLAP-acfY41krscaTdjDGmkaoYKs6FJ7eju6T3bStWWkG8-g5NUmPrQo7Xdo37eyPvY2xcirRub-6vlyaSYbzszBPrIcy5x6b5QKPkhpkwatkZ4_we6P9ANqZprfOAAAA&shmds=v1_Ac3VAowTfU6P2dCqC-fqCEMU92W8mizDbJkwnNGBcn2ivZtqIA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=Mjviu_r4XGuQRcdSAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAATlBMVEX____h4eHNzc24uLj6-vrQ0NCysrLp6ent7e3W1ta-vr6jo6PCwsLIyMjz8_OpqamdnZ14eHiSkpKHh4eBgYFkZGQ5OTlsbGxaWlotLS39J8hwAAAA_klEQVRIie2SfWvEIAyHE6PGqNG-3Ha37_9Fl7aDdXBwo38N5kPVWHiK_UWAwWAw-C8kf82LtcsVT8zqV8TJRp_rsaHIAhqzaq5cYuuVFbB5cT3nnx4lSBN0XvYf7dLUbE_kEAWlBE8Qmnc5guDZ8x38YssKt23H4giouEbN41SAPBCgsJhI7Sz246wwIW-maRjBPo2UTW0MkKPXCqyRz8HkRd-qc8Hpuyx3DVbZI85mq3as2Gob-t02xhszYp55CthjeuCG-3D4lHO_E9k0H-HKmvZ3j191gxD6FlcrkOY9t3t7oXxRy3FvuFietaUVXwhPYaoXL-5gMBj8KT4BtTkHyVbO_5cAAAAASUVORK5CYII.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-cell-free-rna-sequencing-read-more-at-superfluid-dx-inc-4484908779",
+      "job_title": "Senior Data Scientist – Cell-Free RNA Sequencing                    Read More",
+      "description": "Key Responsibilities\n\nLead innovation in secondary and tertiary analysis of cf-RNA sequencing data, focusing on delivering rigorous and reproducible resultsDevelop and implement advanced methods for differential gene expression analysis, pathway analysis, and enrichment analysis, optimizing for accuracy and biological insightsBuild, train, test, and validate predictive models, including logistic regression, random forests, and neural networks, as well as leverage existing RNA-seq large language models (LLMs) for inference and analysisDesign and build scalable, efficient data analysis pipelinesEngage in hypothesis-driven research, rigorously testing and validating new methods and modelsCritically evaluate results, ensuring robust models that are applicable in real-world clinical contexts beyond academic publicationsVisualize complex datasets and create compelling narratives to communicate findings to both scientific and executive audiencesCollaborate with cross-functional teams, contributing to the company’s overall scientific and technical strategy\n\nQualifications\n\nPhD in a quantitative field with a strong focus on biological sciences (e.g., Applied Statistics, Biophysics, Computational Biology)Postdoctoral experience is highly desirable5+ years of biotech industry experience with a proven track record of leading successful projectsExpertise in gene expression data analysis, including count table filtering, normalization strategies, noise quantification, differential expression analysis, and dimensionality reductionStrong foundation in statistical principles and rigorous application; including, but not limited to, hypothesis testing, P-value corrections, Bayesian approaches, bootstrapping, and permutation testingExtensive experience in building, training, testing, and validating machine learning and deep learning models, including model selection based on comparative analysis and performance metrics. Proficient in feature set development (selection, engineering, etc.) and skilled in updating and performing inference with RNA-seq-specific large language models (LLMs)Ability to innovate both in applying library methods and developing algorithms from scratchExperience with common data science infrastructure, including pipelines, clusters, databases, and feature stores. Direct experience with cloud platforms (AWS preferred) for scaling, deploying, and managing data workflows is a strong advantageProficient in Python and Unix/Linux environments; additional proficiency in other languages (e.g. R, Julia, Rust) is a strong plusStrong coding skills across the software development lifecycleDeep scientific curiosity and a solid grasp of the scientific method, hypothesis testing, and model validationPassion for building predictive and prognostic models that perform effectively in real-world applicationsIndependent research capabilities, with the ability to drive projects with minimal supervisionExceptional data visualization skills and the ability to translate complex datasets into actionable insightsExcellent communication skills, with the ability to message both technical and executive-level audiences\n\nThe estimated salary range for this role is $160,000- $190,000 and is based on a number of factors including experience and qualifications. This role also includes meaningful pre-IPO equity and benefits. Please apply by emailing your resume and this position of interest to careers@superfluiddx.com",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-cell-free-rna-sequencing-read-more-at-superfluid-dx-inc-4484908779?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/3817844396682903552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-data-scientist-cell-free-rna-sequencing-read-more-superfluid-dx-inc-indiana--t7xk-879118614?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3Qg4oCTIENlbGwtRnJlZSBSTkEgU2VxdWVuY2luZyAgICAgICAgICAgICAgICAgICAgUmVhZCBNb3JlIiwiY29tcGFueV9uYW1lIjoiU3VwZXJmbHVpZCBEeCwgSW5jLiIsImh0aWRvY2lkIjoiTWp2aXVfcjRYR3VRUmNkU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlubFhORWRWVUVoU2JGUktjR2QxYWpOeWJWSlFWemRsWlRWblFrOXlOSFJ5YXpSRVdIcG1XVTh5Y0hkU1JrOVdkUzE1TnpOTVoyRnVRak5mVlhWV1NrNDRVMGxJTFd0cE1XTTRSbTkwUjJGdmVVUkNaMUpWV21WcFQwbEdZMnhHY3pKRWFUZDRTVXBZYUROek9VYzBSemgzTldaWlRFVnZOblpYWlVwWlJYSlRRa2cwUkRVU0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRJVmxabmQxVmxVMTlhYlRaS2VGSTRhWGR4T0RCbVpuWTVTRk5uIiwiZmN2IjoiMyIsImZjX2lkIjoiTWp2aXVfcjRYR3VRUmNkU0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Scientist  (Remote from Anywhere in Colorado)",
+      "company_name": "State of Colorado",
+      "location": "Colorado",
+      "via": "GovernmentJobs.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A minimum of five (5) years working experience as a Data Analyst in the public sector of either education or workforce development, with significant expertise in using Snowflake, Python, SQL, R, and Tableau",
+            "Deep understanding of applied research methods, specifically program evaluation and quantitative data analysis of longitudinal in the public sector data",
+            "At least five (5) years experience working with education and/or workforce data",
+            "Experience in conducting descriptive, diagnostic, and predictive data analysis in the public sector",
+            "Strong understanding of data modeling, database management, SQL, and ETL processes in the public sector",
+            "If the minimum qualifications include a degree requirement, additional appropriate paid or unpaid experience will substitute for the required education on a year-for-year basis",
+            "Domain knowledge of education to career data and analyses",
+            "Experience working for an SLDS",
+            "Experience working for a governmental organization",
+            "Experience designing, building, implementing, and maintaining data and system integrations and data transformations utilizing Snowflake",
+            "Familiarity with data governance frameworks and tools, including Informatica",
+            "Knowledge of other cloud platforms like AWS, GCP or Azure",
+            "Post-employment background checks will be required for specific agencies as business needs dictate, which may include a polygraph exam, fingerprint-based criminal history search, reference checks, and a drug test",
+            "A reasonable timeframe for relocation will be established on an individual basis, while considering business needs, and determining a start date"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will have the opportunity to employ advanced analytics techniques using modern data tools such as Snowflake, Python, SQL, R, and Tableau, as you conduct comprehensive data analysis spanning descriptive, diagnostic, and predictive methodologies",
+            "You will closely collaborate with the Data Architects, Data Engineers, Data Visualization Developers, Senior Management, OIT leadership, and agency stakeholders to develop sophisticated data visualizations, automated reporting processes, and actionable insights that inform and improve business outcomes",
+            "If using your creativity and innovation in the development and delivery of impactful data initiatives is what you love, apply today for the chance to also put your passion into the state you love!",
+            "Design useful education to career research questions and appropriate quantitative methods to inform policy and practice",
+            "Conduct quantitative research on administrative data sets",
+            "Write research reports, briefs, infographics and slides deck to convey results",
+            "Design, maintain and optimize visualization dashboards in Tableau",
+            "Combining data from multiple sources to produce meaningful metrics",
+            "Identify data patterns, trends and communicate those key insights as recommended actions to key audiences",
+            "Developing and maintaining complex dashboards and reports using Tableau, visualizing data sourced from Snowflake and other data repositories",
+            "Communicating complex data insights and analytical findings to technical and non-technical stakeholders effectively",
+            "Ensuring data quality and governance standards are met within the Snowflake environment",
+            "Utilizing Python and SQL to extract, transform, and load (ETL) within Snowflake for analysis",
+            "Working with resource managers and stakeholders to identify and integrate new data sources",
+            "Leading and participating in cross-functional teams to develop data-driven solutions",
+            "Present information and findings in a way that is accessible to both SLDS staff and the general public",
+            "Oversee the production, display, and development of data structures and analytics for the Colorado SLDS",
+            "Ensure data privacy and security in alignment with CISO guidelines",
+            "This position may require travel within the specified geographic area, and to locations across the state as needed"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=RfIlhbiNSb9yi5P_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_03NMQrCQBBGYWxzBEGYUgWzIthoJQqipTlA2KxjdmWzf9gZMJ7Ia6qN2LzqwVe8RsXpYNVS5QInDaJE0wt3UKZbRke79Hx4zkwh0R4R2V4xowWd0ZCwzc4TEh2BNvJ461V72RgjEstW1GpwpUNnkLjBYO5o5JtavM3cR6tcr9bLoexTO59Un58Jt5_zb74BxFyXraoAAAA&shmds=v1_Ac3VAoxM_qxwuZ2jxXPtlcOHlEIhKRZr9QGXgaL9UwXtkn_4ug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=RfIlhbiNSb9yi5P_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5077f5e878b4913a8ed3c/images/CYs_6DadUiVIn3tj0GRen02NmjkKr-25yOIOHx_fCb0.png",
+      "extensions": [
+        "12 days ago",
+        "95K–118K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.governmentjobs.com/careers/colorado/jobs/5522192/data-scientist-remote-from-anywhere-in-colorado",
+      "job_title": "Data Scientist  (Remote from Anywhere in Colorado)",
+      "description": "Together, we innovate for a stronger Colorado\nThe work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve. But our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of providing equitable access to services.\n\n\nWatch this video to learn more about how we're Serving People. Serving Colorado.\nIMPORTANT NOTE: Please review your application to ensure completion. For the most equitable applicant experience, OIT’s hiring team considers only the contents of your application to review your qualifications. Please do not include any attachments (such as resume or cover letter) with your application as these items are not used by OIT’s hiring team.  \n\n\n\n\nAre you looking for an opportunity to apply your domain knowledge in education and workforce development with your keen analytic skills? If so, join us in making a meaningful impact in Colorado through innovative data analytics. As our new Data Scientist, you will be a key contributor in leveraging data to drive strategic business decisions for Colorado’s Statewide Longitudinal Data System (SLDS), known as COdata. In this role, you will have the opportunity to employ advanced analytics techniques using modern data tools such as Snowflake, Python, SQL, R, and Tableau, as you conduct comprehensive data analysis spanning descriptive, diagnostic, and predictive methodologies. \n\n\nYou will closely collaborate with the Data Architects, Data Engineers, Data Visualization Developers, Senior Management, OIT leadership, and agency stakeholders to develop sophisticated data visualizations, automated reporting processes, and actionable insights that inform and improve business outcomes. If using your creativity and innovation in the development and delivery of impactful data initiatives is what you love, apply today for the chance to also put your passion into the state you love! \n\n\nSome of the key responsibilities include:\n\n\nDesign useful education to career research questions and appropriate quantitative methods to inform policy and practice.\n\n\nConduct quantitative research on administrative data sets. \n\n\nWrite research reports, briefs, infographics and slides deck to convey results. \n\n\nDesign, maintain and optimize visualization dashboards in Tableau.\n\n\nCombining data from multiple sources to produce meaningful metrics.\n\n\nIdentify data patterns, trends and communicate those key insights as recommended actions to key audiences .\n\n\nDeveloping and maintaining complex dashboards and reports using Tableau, visualizing data sourced from Snowflake and other data repositories.\n\n\nCommunicating complex data insights and analytical findings to technical and non-technical stakeholders effectively.\n\n\nEnsuring data quality and governance standards are met within the Snowflake environment.\n\n\nUtilizing Python and SQL to extract, transform, and load (ETL) within Snowflake for analysis.\n\n\nWorking with resource managers and stakeholders to identify and integrate new data sources.\n\n\nLeading and participating in cross-functional teams to develop data-driven solutions.\n\n\nPresent information and findings in a way that is accessible to both SLDS staff and the general public.\n\n\nOversee the production, display, and development of data structures and analytics for the Colorado SLDS.\n\n\nEnsure data privacy and security in alignment with CISO guidelines. \n\n\nA wide salary range is posted for this position and any job offer is based upon a salary analysis to comply with the Colorado Equal Pay for Equal Work Act. The salary analysis considers relevant experience, education, certifications, and state seniority as compared to others doing substantially similar work. While all offers are compliant with the Colorado Equal Pay for Equal Work Act, there is no guarantee an offer will be at the top of the posted range based on the salary analysis. \n\nThis is a skills-based job announcement. The required minimum qualifications and/or education (if substituting for the proven experience, knowledge, and skills), are as follows: \n\nMinimum Qualifications:\n\n\nA minimum of five (5) years working experience as a Data Analyst in the public sector of either education or workforce development, with significant expertise in using Snowflake, Python, SQL, R, and Tableau.\n\n\nA minimum of three (3) years of experience developing dashboards using data reporting tools (Tableau - preferred, Power BI, R Shiny or PyShiny).\n\nDeep understanding of applied research methods, specifically program evaluation and quantitative data analysis of longitudinal in the public sector data. \n\nAt least five (5) years experience working with education and/or workforce data. \n\nExperience in conducting descriptive, diagnostic, and predictive data analysis in the public sector.\n\n\nStrong understanding of data modeling, database management, SQL, and ETL processes in the public sector.\n\n\n\nSubstitutions:\n\nAdditional appropriate education will substitute for the required experience on a year-for-year basis, but cannot completely substitute for these qualifications. \n\nTraining or Certification related to the work assigned to the position will be assigned credit towards substitution for experience and/or education, but cannot completely substitute for these qualifications. \n\nIf the minimum qualifications include a degree requirement, additional appropriate paid or unpaid experience will substitute for the required education on a year-for-year basis.\n\n\nPreferred Qualifications:\n\n\nDomain knowledge of education to career data and analyses.\n\n\nExperience working for an SLDS.\n\n\nExperience working for a governmental organization. \n\n\nExperience designing, building, implementing, and maintaining data and system integrations and data transformations utilizing Snowflake.\n\n\nFamiliarity with data governance frameworks and tools, including Informatica.\n\n\nKnowledge of other cloud platforms like AWS, GCP  or Azure.\n\n\n\nConditions of Employment:\n\nOIT employees must comply with any screening procedures in place at state agency locations where they might perform work. \n\nA pre-employment background check will be conducted as part of the selection process. Post-employment background checks will be required for specific agencies as business needs dictate, which may include a polygraph exam, fingerprint-based criminal history search, reference checks, and a drug test.\n\nThis position may require travel within the specified geographic area, and to locations across the state as needed. \n\nIf this posting indicates “remote from anywhere in CO” in the title, periodic reporting to the primary state work location designated for the position is required. All remote work must be performed in Colorado. \n\n\nWhile candidates from out of state will be considered for this role, the candidate selected for the position must relocate and reside in Colorado on the first day of their new position.  A reasonable timeframe for relocation will be established on an individual basis, while considering business needs, and determining a start date.\n\n\n\nWe know it's important to support each other, and that means having a healthy balance of work and personal time. Visit our benefits to learn more about some of our great offerings that allow us all to have fulfilling lives. \n\n\nVisit our How to Apply webpage to learn more about our application process and what to expect after you apply.\n\n\nThe State of Colorado strives to create a Colorado for All by building and maintaining workplaces that value and respect all Coloradans through a commitment to equal opportunity and hiring based on merit and fitness.  The State is resolute in non-discriminatory practices in everything we do, including hiring, employment, and advancement opportunities.\n\n\n\n\nThe Governor's Office of Information Technology is committed to the full inclusion of all qualified individuals. As part of this commitment, our agency will assist individuals who have a disability with any reasonable accommodation requests related to employment, including completing the application process, interviewing, completing any pre-employment testing, participating in the employee selection process, and/or to perform essential job functions where the requested accommodation does not impose an undue hardship. If you have a disability and require reasonable accommodation to ensure you have a positive experience applying or interviewing for this position, please direct your inquiries to our ADA Coordinator at OIT_HR@state.co.us or call (303) 764-7900.\n\n\nThis posting may be used to fill multiple vacancies based upon business need. \n\nThe Governor's Office of Information Technology does NOT offer sponsored Visas for employment purposes.",
+      "apply_options": [
+        {
+          "title": "GovernmentJobs.com",
+          "link": "https://www.governmentjobs.com/careers/colorado/jobs/5522192/data-scientist-remote-from-anywhere-in-colorado?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAgKFJlbW90ZSBmcm9tIEFueXdoZXJlIGluIENvbG9yYWRvKSIsImNvbXBhbnlfbmFtZSI6IlN0YXRlIG9mIENvbG9yYWRvIiwiaHRpZG9jaWQiOiJSZklsaGJpTlNiOXlpNVBfQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VsTlUxQlJhVlo0T1hSTE1XSktlQzB0YTBvME1tOTFORXhrTFZwU2JtdDZXSEpOYTJGT1QyVXhWSE5zYjNCb1VFb3dSVzVFVVZWa1V6Tm9aME5oWW1oUk9VRnJibUpUTkZKdE9XZGlPRFI0YlMxcE1USmZVbFpGUTNsVFNYY3RNR05pTm1KQ09HeGpURWs1UjBWMk1sTXhPSFZ4VlhsZmFrOHdRWGMxVVRNelpFWkliV01TRjJkUlpteGhkbTFOUzNOeGJuSjFSVkF5YjJaWk5GRnJHaUpCU0U0d1JUZElTVmsyTms0MlVVdzBiMUV5Ym1sSGNrZDNlbEkzWVMxVVpqSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJSZklsaGJpTlNiOXlpNVBfQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist Jobs",
+      "company_name": "Radiance Technologies",
+      "location": "Colorado Springs, CO",
+      "via": "Security Clearance Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Data Science, Engineering, Mathematics, or another relevant STEM discipline (or equivalent experience)",
+            "Five (5) or more years of experience as a Data Scientist or in a closely related analytical role",
+            "Demonstrated knowledge of computer science concepts, data architecture, intelligence practices, and managing data within big-data environments",
+            "Experience performing complex data analysis and database queries",
+            "Active Top Secret/SCI security clearance"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$150,000 - $175,000"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The selected candidate will apply advanced data analytics techniques to research and analyze structured and unstructured data, develop complex database queries, and transform data into actionable insights",
+            "Working as part of a multidisciplinary team, the Data Scientist will collaborate with Government and contractor personnel to integrate diverse data sources, solve complex mission challenges, and communicate analytical findings and recommendations to stakeholders",
+            "Perform research on structured and unstructured data sources using quantitative and qualitative metadata and content analytics",
+            "Construct and execute complex database queries to support mission requirements",
+            "Collaborate across multidisciplinary teams to integrate data sources and solve mission challenges",
+            "Identify meaningful insights from large datasets and communicate findings and recommendations to Government stakeholders",
+            "Support data management activities within large-scale, enterprise data environments",
+            "This position supports an ongoing customer mission with funding anticipated on an annual basis",
+            "The current period of performance extends through July 31, 2027, with continued performance anticipated subject to future funding and customer requirements"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=FtYf8CMHxr7yuuEPAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLYOJieCjZYRBBvB2IfNZbmcnLvH7RZ5is81aWammeq3q-obGkLvI7FFNXjIqNBsAiUsfgZhuIuERPvrbJb14pxqaoMaWvStl68TplEW91nfDYPOWCgnNBpO5-PSZg5188IpInuCN_mZJUmIpBAZurULTgJ9LpGDHqB7_gGsekqHmwAAAA&shmds=v1_Ac3VAoza73G51d8yMzLATKLWJ9Tdztclw5Lnm10VPuiXHsY30A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=FtYf8CMHxr7yuuEPAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "150K–175K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.clearancejobs.com/jobs/9257637/data-scientist",
+      "job_title": "Data Scientist Jobs",
+      "description": "Radiance Technologies, a rapidly growing employee-owned company, is seeking an experienced Data Scientist to support the U.S. Army Space and Missile Defense Command (USASMDC) at Peterson Space Force Base in Colorado Springs, Colorado. This position supports an ongoing, mission-critical effort focused on advancing data analytics capabilities in support of national security missions. The effort is funded on an annual basis, with the current period of performance extending through July 31, 2027, and future work anticipated to be supported through subsequent annual funding. The selected candidate will apply advanced data analytics techniques to research and analyze structured and unstructured data, develop complex database queries, and transform data into actionable insights. Working as part of a multidisciplinary team, the Data Scientist will collaborate with Government and contractor personnel to integrate diverse data sources, solve complex mission challenges, and communicate analytical findings and recommendations to stakeholders.\n\nDuties and Responsibilities\n\n •   Perform research on structured and unstructured data sources using quantitative and qualitative metadata and content analytics.\n\n •   Construct and execute complex database queries to support mission requirements.\n\n •   Collaborate across multidisciplinary teams to integrate data sources and solve mission challenges.\n\n •   Identify meaningful insights from large datasets and communicate findings and recommendations to Government stakeholders.\n\n •   Support data management activities within large-scale, enterprise data environments.\n\nRequired Qualifications\n\n •   Bachelor's degree in Computer Science, Data Science, Engineering, Mathematics, or another relevant STEM discipline (or equivalent experience).\n\n •   Five (5) or more years of experience as a Data Scientist or in a closely related analytical role.\n\n •   Demonstrated knowledge of computer science concepts, data architecture, intelligence practices, and managing data within big-data environments.\n\n •   Experience performing complex data analysis and database queries.\n\n •   Active Top Secret/SCI security clearance.\n\nPosition Duration\n\nThis position supports an ongoing customer mission with funding anticipated on an annual basis. The current period of performance extends through July 31, 2027, with continued performance anticipated subject to future funding and customer requirements. While future funding cannot be guaranteed, Radiance intends to support the continuing mission as funding is made available. Employees may also pursue other opportunities within Radiance Technologies for which they are qualified.\n\nSalary Range\n\n$150,000 - $175,000\n\nRadiance Technologies is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.",
+      "apply_options": [
+        {
+          "title": "Security Clearance Jobs",
+          "link": "https://www.clearancejobs.com/jobs/9257637/data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-scientist-jobs-clearancejobs-colorado-springs--lifeworq-0231a6be-04ef-47da-b294-1b371fac2f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBKb2JzIiwiY29tcGFueV9uYW1lIjoiUmFkaWFuY2UgVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJGdFlmOENNSHhyN3l1dUVQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVd0dGMzZGtlalkzYm05R1VYVlVWemRmVFZGb1owZHNTVFZGYUU4MmMwMXhPRk5EU1hoMFVTMVljVkJWZDIxVk9GTlVTM0J0TkVsWGJrWTNXRFJxVVc5dGNqRXdhazVuTFVOZk1sOU5PQzFJWDNkUkxYUm9aVWR4VGpWRllXMTRkRmR4WkZrelRubFJhRzFLWDNSWU1VdG9TM1ZIZWtoRFVWaFFZMkpyWlhwbmJGcFBSWG9TRjJkUlpteGhkbTFOUzNOeGJuSjFSVkF5YjJaWk5GRnJHaUpCU0U0d1JUZEhObTl4V2xGRU5tOW9SV1owWkRsYVFYaEliR1JVTFVOVVJscFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJGdFlmOENNSHhyN3l1dUVQQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist SME",
+      "company_name": "Leidos",
+      "location": "Englewood, CO",
+      "via": "Leidos Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for an exceptional Data Scientist Subject Matter Expert (SME) to join the Chinook Program and help shape the future of an advanced application supporting an Intelligence Community (IC) customer",
+            "The position requires an individual who can operate at both the strategic and hands-on levels establishing data science strategy while remaining technically engaged in solving complex analytical and engineering challenges",
+            "Active Top Secret/SCI clearance with the ability to successfully pass a Polygraph examination",
+            "US citizenship is required per contract",
+            "Bachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience",
+            "May possess a Doctorate in technical domain",
+            "12+ years demonstrated experience working as a Data Scientist, Senior/Principal Data Scientist, Machine Learning Engineer, or equivalent senior technical role",
+            "Extensive experience applying statistical analysis, machine learning, and advanced analytics to complex problems",
+            "Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing",
+            "Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC",
+            "Expert proficiency in Python and/or R (or similar languages) and experience with data science libraries (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, or equivalent tecchnologies)",
+            "Strong experience with big data processing tools (e.g., Spark, PySpark, Kafka, Hadoop, AWS or Azure cloud platforms)",
+            "Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL)",
+            "Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics)",
+            "Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI)",
+            "Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams",
+            "Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range $131,300.00 - $237,350.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary",
+            "Pay and Benefits",
+            "Pay and benefits are fundamental to any career decision",
+            "That's why we craft compensation packages that reflect the importance of the work we do for our customers",
+            "Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This is an exciting opportunity for a highly accomplished data science leader who thrives on solving difficult problems, discovering patterns hidden within complex datasets, and transforming analytical insights into operational capabilities",
+            "You will work at the intersection of data science, software engineering, artificial intelligence, machine learning, analytics, and mission operations to develop innovative solutions that make a measurable difference",
+            "As a Data Scientist SME, you will lead the design, development, evaluation, and operationalization of sophisticated data science capabilities",
+            "The role requires a combination of deep technical expertise, analytical rigor, software engineering understanding, and the ability to translate complex mission requirements into actionable data-driven solutions",
+            "The successful candidate will work closely with software engineers, data engineers, system engineers, DevSecOps engineers, UI/UX professionals, product owners, test engineers, program leadership, and intel customer stakeholders",
+            "Serve as the senior technical authority for data science, advanced analytics, and AI/ML, translating mission needs into actionable analytical solutions",
+            "Lead the design, development, validation, and optimization of statistical, predictive, prescriptive, and machine learning models",
+            "Analyze complex, heterogeneous datasets to identify patterns, anomalies, trends, and insights that support mission objectives",
+            "Drive the development and operationalization of AI/ML capabilities, including classification, regression, clustering, anomaly detection, NLP, and predictive modeling",
+            "Establish standards and best practices for model performance, validation, explainability, bias, uncertainty, reproducibility, and operational effectiveness",
+            "Partner with data, software, and systems engineers to define data requirements, feature engineering, data quality, governance, and scalable integration approaches",
+            "Collaborate with engineering and DevSecOps teams to transition analytical solutions into secure, maintainable, scalable production capabilities and CI/CD pipelines",
+            "Support Agile and SAFe planning and execution by translating data science initiatives into capabilities, stories, technical enablers, dependencies, and risks",
+            "Lead technical reviews, trade studies, and working sessions, and establish methodologies, patterns, and practices across the program",
+            "Engage with customers, stakeholders, and leadership to communicate findings, recommendations, risks, and mission impact",
+            "Mentor data scientists, engineers, and other technical team members, and review analytical approaches, code, models, and documentation",
+            "Evaluate and recommend emerging data science and AI/ML technologies to improve application capabilities and mission outcomes"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=T7Zfh8zELOsBL8FrAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7A4LTrYomIrjoqEUQxaEfUJL0SCLxLvQO7Oqfq8sbX_OZNcuzUwddyEiaRaG7t7CBK3sQdGNIwAQX5lhwcUyqVQ7WihQTRZ3mYAK_LBN6nuyTvfzpJbkRa3GK_W6_nUyluJrfMA8skAla-m1v5mENp8cXqIN8l4QAAAA&shmds=v1_Ac3VAowpXILcdWBgDNCBJGAJOgFqJ_oQdM_JnjJtdl32uEl6Ow&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=T7Zfh8zELOsBL8FrAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX___-QFoiOBoXizuCJAICsaKaFAHyNAIWCAHmPD4f06vPMpsicQJX9-f2mW6CoYKL68_nRsM7q2umyc6yfR5i4gbPUttLw4u6lVJ7AkLzdw9uRIorIn8R6AHGWMo-0eK_Yw9YAtL_hAAABP0lEQVRIie2T23KDIBCGBdblpAGNBzRG8_5PWbSmU5OAae_a8buSGb9hd_k3SQ4ODv4dmpx1mf9CrDgHhKpu2p95CsmMnG3X9eptUQP5glLAixmYfUfMJNkgKQdx2W9bXeEVKIQYp6KMiCzC7dY89czcyRjjbJ3GMc6letOzypDy0SKNMHfbPZc7IAwFkBASMBta9arNElUlAxYXo1ZWn_rQTF-J_q6qsFZn1y4005wBf7B8Blxhla5QuHCMsiExsLVOjVXDKDiQQJVLpT7ceYP0boFp8rYbkUuKdVhbckqht5m_1Gc87VfLN1nFV2WZKaZJJ-Dc52VHZmu-uohqnxvlB4-2taxeLSLFtLfWvlKOZGL-M0_F-jAwRpK94kNXs_uhXx6G47CrJWpi34_WgcT0rR1-RF_Y_k8HBwd_mg-dahDH3-LbOQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "16 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.leidos.com/jobs/18363634-data-scientist-sme",
+      "job_title": "Data Scientist SME",
+      "description": "Description \n\n Turn Mission Data into Mission Advantage.\n\n \n\nAre you ready to turn complex data into insights that drive mission-critical decisions? We are looking for an exceptional Data Scientist Subject Matter Expert (SME) to join the Chinook Program and help shape the future of an advanced application supporting an Intelligence Community (IC) customer.\n\n \n\nThis is an exciting opportunity for a highly accomplished data science leader who thrives on solving difficult problems, discovering patterns hidden within complex datasets, and transforming analytical insights into operational capabilities. You will work at the intersection of data science, software engineering, artificial intelligence, machine learning, analytics, and mission operations to develop innovative solutions that make a measurable difference.\n\n \n\nAs a Data Scientist SME, you will lead the design, development, evaluation, and operationalization of sophisticated data science capabilities. The role requires a combination of deep technical expertise, analytical rigor, software engineering understanding, and the ability to translate complex mission requirements into actionable data-driven solutions.\n\n \n\nThe successful candidate will work closely with software engineers, data engineers, system engineers, DevSecOps engineers, UI/UX professionals, product owners, test engineers, program leadership, and intel customer stakeholders.\n\n \n\nThe position requires an individual who can operate at both the strategic and hands-on levels establishing data science strategy while remaining technically engaged in solving complex analytical and engineering challenges.\n\n \n\nPosition may be performed in the following locations below.\n\nTucson, AZGaithersburgAlexandria, VAChantilly, VA Englewood, COSt. Louis, MO \n\nClearance Level Required:\n\nActive Top Secret/SCI clearance with the ability to successfully pass a Polygraph examination.\n\n \n\nPrimary Responsibilities:\n\nServe as the senior technical authority for data science, advanced analytics, and AI/ML, translating mission needs into actionable analytical solutions.Lead the design, development, validation, and optimization of statistical, predictive, prescriptive, and machine learning models.Analyze complex, heterogeneous datasets to identify patterns, anomalies, trends, and insights that support mission objectives.Drive the development and operationalization of AI/ML capabilities, including classification, regression, clustering, anomaly detection, NLP, and predictive modeling.Establish standards and best practices for model performance, validation, explainability, bias, uncertainty, reproducibility, and operational effectiveness.Partner with data, software, and systems engineers to define data requirements, feature engineering, data quality, governance, and scalable integration approaches.Collaborate with engineering and DevSecOps teams to transition analytical solutions into secure, maintainable, scalable production capabilities and CI/CD pipelines.Support Agile and SAFe planning and execution by translating data science initiatives into capabilities, stories, technical enablers, dependencies, and risks.Lead technical reviews, trade studies, and working sessions, and establish methodologies, patterns, and practices across the program.Engage with customers, stakeholders, and leadership to communicate findings, recommendations, risks, and mission impact.Mentor data scientists, engineers, and other technical team members, and review analytical approaches, code, models, and documentation.Evaluate and recommend emerging data science and AI/ML technologies to improve application capabilities and mission outcomes. \n\nBasic Qualifications:\n\nUS citizenship is required per contractBachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience. May possess a Doctorate in technical domain.12+ years demonstrated experience working as a Data Scientist, Senior/Principal Data Scientist, Machine Learning Engineer, or equivalent senior technical role.Extensive experience applying statistical analysis, machine learning, and advanced analytics to complex problems.Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing.Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC.Expert proficiency in Python and/or R (or similar languages) and experience with data science libraries (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, or equivalent tecchnologies).Strong experience with big data processing tools (e.g., Spark, PySpark, Kafka, Hadoop, AWS or Azure cloud platforms).Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL).Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics).Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI).Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams.Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights. \n\nPreferred Qualifications:\n\nAdvanced certifications in data science or machine learning.Familiarity with the customer’s mission and specific geospatial intelligence challenges.Expertise in advanced deep learning techniques, particularly in computer vision and image analysis for geospatial applications.Experience with cloud-native applications and distributed computing in a geospatial context.Experience deploying models into production environments.Experience with Kubernetes and containerized applications.Experience developing REST APIs or other services for analytic capabilities.Experience with NLP and/or LLM.Experience with geospatial analytics and spatial data.Experience with streaming or near-real time analytics.Experience with developing analytical capabilities within secure or air-gapped environments.Published research or technical papers in geospatial intelligence, machine learning, or data science. \n\n#Chinook\n\n#NSBA\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.\n\nOriginal Posting:October 15, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\n\n\nPay Range:Pay Range $131,300.00 - $237,350.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\n\n\nAbout Leidos\n\n\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.\n\n\n\nPay and Benefits\n\n\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.\n\n\n\nSecuring Your Data\n\n\n\nBeware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.\n\n\n\nCommitment to Non-Discrimination\n\n\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+      "apply_options": [
+        {
+          "title": "Leidos Careers",
+          "link": "https://careers.leidos.com/jobs/18363634-data-scientist-sme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=bcd561eabfc65b4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/leidos/Job/Data-Scientist-SME/-in-Englewood,CO?jid=1998a23be337fc82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LocalJobs.com",
+          "link": "https://www.localjobs.com/job/englewood-co-data-scientist-sme-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-scientist-sme-englewood-co--70b74186-c27c-4519-ba7b-5795f626acc6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-scientist-sme-at-leidos-4477350500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-scientist-sme--englewood--ea305605bcbc993a5cb3803f876115ed1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Association Of Technology, Management, And Applied Engineering (ATMAE) Jobs",
+          "link": "https://careers.atmae.org/job/data-scientist-sme/86487959/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBTTUUiLCJjb21wYW55X25hbWUiOiJMZWlkb3MiLCJodGlkb2NpZCI6IlQ3WmZoOHpFTE9zQkw4RnJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVTVPUlRRM05YbHViREJDVUdGdE5uTlVWSFI0YkcxeFdtSXlRVGxNV21wVWJrWnNUMk5LT1V4SVduaFJSMUZZV1MxMlgyMVJaMm8xUzBKa1QwSmhSVGxhVTB0M01ubGlTWFJDUzJWWWNsWTJPVVJXTFhsUFVXcFZTMmxQVG1GVmFpMXBRbE5XTFRWek1tOVhNbmt3YW5SZmRYYzRXbFUwVjBkeE5XeGhkWE5qV2pGT1pXVVNGMmRSWm14aGRtMU5TM054Ym5KMVJWQXliMlpaTkZGckdpSkJTRTR3UlRkSWJGcFdjek5yYXpKcFQwaE1ZM1JtUTNKSFVXSXlOMGN3YjFoQiIsImZjdiI6IjMiLCJmY19pZCI6IlQ3WmZoOHpFTE9zQkw4RnJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "PhD Data Scientist, Intern",
+      "company_name": "Stripe",
+      "location": "Seattle, WA (+2 others)",
+      "via": "Stripe",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The most effective people become knowledgeable about many domains besides their own",
+            "Ambitious builder: You’re energized by building solutions without clear precedent and solving problems with far-reaching consequences",
+            "Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty",
+            "Rigorous thinker: You appreciate that things worth doing are rarely simple",
+            "You enjoy working on problems that have never been tackled before",
+            "Adaptable problem solver: You adapt quickly and treat obstacles as opportunities",
+            "Enrolled in a quantitative PhD program (e.g",
+            "Data Science, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028",
+            "Experience with SQL and a scientific computing language (such as Python, R, etc.)",
+            "Proficiency with AI tools to accelerate model development, analysis, and coding",
+            "Experience communicating and collaborating with multidisciplinary stakeholders in a team environment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We partner with Fraud Engineering, Financial Crimes Engineering, and Risk Operations to bring these systems into production and ensure they have measurable impact on Stripe's financial integrity and user trust",
+            "As an intern at Stripe you’ll work on projects across our stack that directly impact the way millions of businesses operate",
+            "You’ll own problems end to end with the support of your manager and teammates",
+            "It’s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry",
+            "You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly",
+            "You'll work closely with partners to extract insights from the rich and complex data at Stripe",
+            "You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business",
+            "You'll deliver actionable business recommendations through analyses and data storytelling",
+            "Applying probability distributions, statistical inference, and hypothesis testing to quantify uncertainty and evaluate business outcomes",
+            "Using Python or R for data analysis, data processing, visualizations, statistical modeling, machine learning, predictive analytics, automation, and implementing causal inference and experimental analyses",
+            "Building, training, and evaluating predictive models across regression and classification tasks for bias-variance trade-offs and model selection",
+            "Modeling temporal dependencies, seasonality, and trend decomposition to generate and evaluate time-series predictions",
+            "Identifying structural patterns, clusters, and outliers in unlabeled data",
+            "Deploying models in production and adjusting model thresholds to improve performance",
+            "Designing, running, and analyzing complex experiments and leveraging causal inference designs",
+            "Using SQL and Spark to create, transform, and analyze large datasets",
+            "Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly",
+            "Present your work to the Data Science team, partner teams, and fellow interns"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=p_WZLoZfgiywMW6MAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFy7uzjdLLVRwUUnoSA6CR0cyyUcSSTehdwN_QN_W3zD676r7vBMI4xoCFPIxJbVerizUWPYwUM8KGELCYThJhILbS7JrOrZOdUyRDW0HIYgHydMXhb3Fq__Zk3YqBY0mo-n_TJUjtv1ZC1XgswwEZoV6uF1_QEQVADwigAAAA&shmds=v1_Ac3VAoxjLRrW9euqo2TuXYXvWq_m-c2eiYOggzxAiXjqjsEDfg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=p_WZLoZfgiywMW6MAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAWCAMAAACi_q9qAAAAaVBMVEX___9ncuVfa-RmceVeauRkb-VcaORaZuPMz_Vveebv8Py6vvJWY-OHj-m9wfJqdeWTmuv09f3f4fnq6_tOXOL5-f51f-ewtPCfpe1SYOPR1PbCxvOrsO-Ql-uaoe2nrO-Ciul7hOjX2ves18xlAAABuElEQVQ4jZ2Ui5KrIAyGgRCCiuKl3qttff-HPAntme3sbHt6Ns4wSP5PkhBU6rU1x5i_cb-0YrZz95GyK2pqnkBnTp-BRcDwDF7H5V9In_c8VkbTz_6mf5J-LY8xUMBaQIgxU0MEX57OK0STe4zDEkMYjiT1WSDaH58pHWh-goAaIKoMAdGMqwXKvQOwwOuzZ-klAKA2kMiFtGaJmxPoglUZC004rxx57i3PiVAD9WoJGuPVadwEPBvtuHjtLqDrmkZAM7Zd9QDNqNTG-xRqACx5J6eDJDoajXvKWJQSRJb8qniAruUXq7Hsg7Yyj2Al7m4GjTSsd7B5AW4IWeu4FskkCKUOdJLC7S24I8SD88Vk7nKvqy-5QK5a34BXhEF2LGuxbZXDFbTjUtVvwIbYzzma6uv4q1i0OUeBO4M4dcd3ELe2HUDbVd2Qx6bP_STg6owjjp58GzgHMt9BjU5aBPnIZj5yInK3BAYE7odQc-m4TRBUNPYqIOF8bwAWILVJa0Rrh9S1a51hVqeLUAw4XNS071LuZZ_qhkHrdx2n-7XJzzeM5Sf3-29V_9t-D5I9_QpcpvXn38cfwMkZM469IRIAAAAASUVORK5CYII.png",
+      "extensions": [
+        "29 days ago",
+        "164K a year",
+        "Internship"
+      ],
+      "source_link": "https://stripe.com/careers/listing/phd-data-scientist-intern/8194283",
+      "job_title": "PhD Data Scientist, Intern",
+      "description": "Who we areAbout StripeStripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible.\n\nThough people at Stripe don’t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works.\n\nAbout the teamOur Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We're looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our Fraud, Losses, and Financial Crime Data Science team builds the models and data products that protect Stripe and its users from fraud, account takeover, and financial crime. We own the full fraud and loss modeling stack - from account takeover detection and card fraud classification to merchant-level loss estimation, unsupervised anomaly detection, and financial crime risk modeling. We partner with Fraud Engineering, Financial Crimes Engineering, and Risk Operations to bring these systems into production and ensure they have measurable impact on Stripe's financial integrity and user trust.\n\nWhat you’ll doAs an intern at Stripe you’ll work on projects across our stack that directly impact the way millions of businesses operate. You’ll own problems end to end with the support of your manager and teammates. It’s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling.\n\nOur internship program is competitive and the expectations are high.\n\n\n\nResponsibilitiesApplying probability distributions, statistical inference, and hypothesis testing to quantify uncertainty and evaluate business outcomesUsing Python or R for data analysis, data processing, visualizations, statistical modeling, machine learning, predictive analytics, automation, and implementing causal inference and experimental analysesBuilding, training, and evaluating predictive models across regression and classification tasks for bias-variance trade-offs and model selectionModeling temporal dependencies, seasonality, and trend decomposition to generate and evaluate time-series predictionsIdentifying structural patterns, clusters, and outliers in unlabeled dataDeploying models in production and adjusting model thresholds to improve performanceDesigning, running, and analyzing complex experiments and leveraging causal inference designsUsing SQL and Spark to create, transform, and analyze large datasetsLearn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearlyPresent your work to the Data Science team, partner teams, and fellow interns.\n\nWho you areAmbitious builder: You’re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty.Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before.Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus.Minimum requirementsEnrolled in a quantitative PhD program (e.g. Data Science, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028Experience with SQL and a scientific computing language (such as Python, R, etc.)Proficiency with AI tools to accelerate model development, analysis, and codingExperience communicating and collaborating with multidisciplinary stakeholders in a team environmentPreferred qualificationsExperience writing and debugging data pipelinesDemonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projectsAbility to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
+      "apply_options": [
+        {
+          "title": "Stripe",
+          "link": "https://stripe.com/careers/listing/phd-data-scientist-intern/8194283?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/phd-data-scientist-intern-stripe-10265130?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/phd-data-scientist-intern_7ea1a006aac59316dd5d70e192623e274cba5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/B3v793q-cYSng8NPakxSAuxjvByJJjB4Iy_rDeS6uoO670wdl1-BTQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-scientist-core-experimentation-seattle-wa--b23a4db2-e5da-4cd2-9680-68ab4947b001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glynn Capital",
+          "link": "https://jobs.glynncapital.com/companies/openai/jobs/78766751-data-scientist-core-experimentation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/phd-data-scientist-intern-at-stripe-4474515660?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LandEarly",
+          "link": "https://www.landearly.com/companies/openai/jobs/data-scientist-core-experimentation-777cee2c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQaEQgRGF0YSBTY2llbnRpc3QsIEludGVybiIsImNvbXBhbnlfbmFtZSI6IlN0cmlwZSIsImh0aWRvY2lkIjoicF9XWkxvWmZnaXl3TVc2TUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrUlZRakZEYTJneWNubHZWQzFUT1daVWJVUlZVVmMzYURWNFgweHpTbUk0U1ROSVVIcHhTRmt5UjJ0bFpGbG1ZMlJOT1hkclozZExaR0ZxUldKVlRHbEdTWEJXWjFWM2RHWnZUM0J5ZVU1aE9GWnlMVGxmY3kxcmFERktSMUZGYzNSR09YcHRUblZpY21aemFHbG5UbXBKV0ZCVFVVNVdkRFpOVEVsek5WOUtNMU5RVVVJU0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRIWlhoQlVIb3pUbVpXY25sWlgwbDVhakZEVG1ac1ZVcHBXRTluIiwiZmN2IjoiMyIsImZjX2lkIjoicF9XWkxvWmZnaXl3TVc2TUFBQUFBQT09In0="
+    },
+    {
+      "title": "Lead Data Scientist, Innovation Lab",
+      "company_name": "PakEnergy, LLC",
+      "location": "United States",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "OnPing Plunger™ (OnPing)",
+            "Deep expertise around you",
+            "Design experiments, offline evaluations and pilot success metrics",
+            "Own the evidence on whether something works, and recommend when an idea should stop",
+            "8+ years in applied ML or data science, including multiple models you built and shipped to production, used by real customers",
+            "A track record of setting technical direction for data science work: choosing the approaches, tooling and standards that others adopted",
+            "Experience mentoring, coaching or leading other data scientists or engineers, formally or as a technical lead",
+            "Depth in at least one of time-series forecasting, anomaly detection or optimization on noisy, real-world data, with strong grounding in statistics, experimental design and model evaluation",
+            "Expert Python and SQL",
+            "Working knowledge of LLM and GenAI systems, especially how to evaluate them (test-set design, metrics, human labeling, error analysis), enough to be a strong technical partner to the Lab's Lead Applied AI Engineer",
+            "Experience working within lightweight, fast-moving software development practices that prioritize rapid experimentation, testing, customer validation and responsible production delivery",
+            "A track record of turning ambiguous problems into shipped products with domain experts, product and engineering, influencing executives and stakeholders along the way, and the candor to say when something won't work",
+            "The Lab's industry experts bring deep knowledge of every PakEnergy product, and you'll learn the domain working beside them",
+            "Experience with SCADA/IIoT or geospatial data, or with labeling and evaluating document-extraction systems",
+            "Databricks, Spark, Azure and/or AWS, and MLflow or similar MLOps tooling",
+            "Experience hiring data scientists or building a data science function from an early stage",
+            "Experience on cross-functional or innovation teams that take prototypes to customers",
+            "Education: A degree in a quantitative field or equivalent practical experience",
+            "An advanced degree is welcome but not required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "AI-powered lease provision analysis (PakEnergy Land)",
+            "PakCAPTURE™ (PakEnergy Transportation)",
+            "Benefits: A casual business work environment, generous PTO, employer-sponsored health benefits, and a retirement savings plan (401(k) in the US)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We're hiring a Lead Data Scientist to be the founding owner of data science and machine learning on the Lab's cross-functional team, reporting directly to our Chief Product Officer",
+            "This is a hands-on lead role: you'll build the models and write the code yourself while setting direction for the discipline",
+            "You'll have real autonomy",
+            "You own the data science approach on Lab projects, help shape the opportunity backlog with the Chief Product Officer and the industry experts, and make the call, backed by evidence, when an idea should stop",
+            "Embedded AI that flags key lease provisions in seconds instead of hours, so land teams can manage large portfolios and acquisitions faster",
+            "Drivers photograph tickets, receipts and paperwork in the mobile app",
+            "Pak AI extracts the key data, auto-populates pickup and drop-off forms, and files the documents with the right load",
+            "The Innovation Lab brings together everyone it takes to go from a customer problem to a working product:",
+            "Industry experts for every PakEnergy product: Land, Production, Accounting and Transportation",
+            "They know the workflows, the data and the customers firsthand",
+            "A Lead Applied AI Engineer, your peer, who designs and builds the Lab's generative AI, LLM and agentic systems and gets them into production",
+            "Solution engineers who take prototypes to customers and into production",
+            "You, the Lab's founding owner of data science and machine learning",
+            "For a strong data scientist, this means you won't get requirements secondhand, you won't build in a vacuum, and there's a clear path from your model to a customer",
+            "Domain experts frame problems with you, your peer lead in applied AI builds the generative AI side, and solution engineers put the results in customers' hands",
+            "Founding owner of your discipline",
+            "You'll set the technical direction, standards and practices for data science in the Lab from day one, and help shape what the Lab works on",
+            "Real operational energy data",
+            "You'll work with SCADA and IIoT time series from OnPing, lease and contract documents, revenue and joint-interest accounting, and the tickets and paperwork behind every load hauled, across a customer base of more than 2,300 companies",
+            "You'll work next to industry experts for every product, a peer lead in applied AI and solution engineers, so you can focus on the data science while the team brings domain depth and a route to customers",
+            "Ownership from prototype to production",
+            "You own the data science from problem framing through modeling and evaluation, and see it through customer pilots into production",
+            "A direct line to leadership",
+            "You report to the Chief Product Officer, and your work shapes the Pak AI roadmap",
+            "A path to leading a team",
+            "As Innovation Lab initiatives mature and demonstrate value, this role is set up to help build and lead the Lab's data science team",
+            "Frame problems with the industry experts",
+            "Partner with the Lab's Land, Production, Accounting and Transportation experts to turn customer pain points into well-defined, measurable data science problems, and size the opportunity",
+            "Own the modeling",
+            "Build forecasting, anomaly detection, optimization and predictive models on production, SCADA/IIoT, accounting, transportation and geospatial data, from exploratory analysis through working prototype",
+            "Experiment and evaluate rigorously",
+            "Partner with the Lead Applied AI Engineer on GenAI and agentic work",
+            "They design and build the Lab's LLM, document AI and agentic systems",
+            "You bring the data, lead evaluation design, and contribute ML and statistical models those systems can use",
+            "Take it to customers and production with solution engineers",
+            "Partner on customer pilots, and for the ML models you own, define the data, monitoring and MLOps requirements for a clean handoff to product and engineering teams",
+            "Stay accountable after deployment",
+            "Partner with engineering teams on production monitoring, model performance, drift detection and continuous improvement for the models you own after handoff",
+            "Set the technical direction for data science",
+            "Define the Lab's data science approach, tooling and standards for data quality, experimentation, reproducibility and responsible ML, and raise data fluency across a cross-functional team",
+            "Build the foundation for a future team",
+            "Document how data science works in the Lab, mentor and coach teammates, and shape the roles and hiring plan for when the Lab expands",
+            "You're still hands-on and build the models yourself"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=j4k2tP_gOBWI_GhFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TbNxaNCeCTSxVRLlCCNZhL1kup3E3ZBeJX_G1xmaKgZnsO8sKT9jAEQ2hrBOxJbUVXJjljZaEwWOANVwlgBIOdQuTO4vEjub71qzXwjnVLo9qU1DntbycMAUZ3UOC_lFpiwP1HRpV291mzHuOy8UNnyemIX5W4P0BEsOdk1ED5TQi_QGYOoOVnQAAAA&shmds=v1_Ac3VAoyRPLHMlWxOU6XHxEMCIsIeXV1-WliACpo9RUoNPb4wjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=j4k2tP_gOBWI_GhFAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=50bc1a162561f447",
+      "job_title": "Lead Data Scientist, Innovation Lab",
+      "description": "PakEnergy is accelerating its innovation. Help us lead it.\n \n \n  More than 2,300 oil and gas companies run their land, production, accounting and transportation on PakEnergy. We've started putting AI to work across that platform. Now we're accelerating our pace of innovation, and we're building the PakEnergy Innovation Lab to do it.\n \n \n \n  The Lab's mandate is simple: find the highest-value problems our customers face, prove solutions quickly with working prototypes built on real operational energy data, and take what works into production. We're hiring a Lead Data Scientist to be the founding owner of data science and machine learning on the Lab's cross-functional team, reporting directly to our Chief Product Officer. This is a hands-on lead role: you'll build the models and write the code yourself while setting direction for the discipline. You'll have real autonomy. You own the data science approach on Lab projects, help shape the opportunity backlog with the Chief Product Officer and the industry experts, and make the call, backed by evidence, when an idea should stop. We value candor over polish: a fast, well-reasoned \"this won't work\" is a good outcome. Our data spans several product platforms, and part of the job is spotting the data gaps that limit what we can ship and helping close them.\n \n \n \n  \n   What we've already shipped with Pak AI\n  \n  \n   AI-powered lease provision analysis (PakEnergy Land). Embedded AI that flags key lease provisions in seconds instead of hours, so land teams can manage large portfolios and acquisitions faster.\n   PakCAPTURE™ (PakEnergy Transportation). Drivers photograph tickets, receipts and paperwork in the mobile app. Pak AI extracts the key data, auto-populates pickup and drop-off forms, and files the documents with the right load.\n   OnPing Plunger™ (OnPing). Optimization for plunger-lift wells. Pak AI learns each well's best historical runs, compares actual against expected performance, and tunes setpoints within the operator's automation and safety limits, or flags the well for human review. It has delivered up to 30% more production on conservatively set wells and 3.5–7% on wells that were already well optimized.\n  \n  \n   These are the first steps. The Innovation Lab is where the next ones get found, proven and shipped.\n  \n  \n  \n   \n    The team\n   \n   \n    The Innovation Lab brings together everyone it takes to go from a customer problem to a working product:\n    Industry experts for every PakEnergy product: Land, Production, Accounting and Transportation. They know the workflows, the data and the customers firsthand.\n    A Lead Applied AI Engineer, your peer, who designs and builds the Lab's generative AI, LLM and agentic systems and gets them into production.\n    Solution engineers who take prototypes to customers and into production.\n    You, the Lab's founding owner of data science and machine learning.\n    For a strong data scientist, this means you won't get requirements secondhand, you won't build in a vacuum, and there's a clear path from your model to a customer. Domain experts frame problems with you, your peer lead in applied AI builds the generative AI side, and solution engineers put the results in customers' hands.\n   \n   \n   \n    Why this role\n   \n   \n    Founding owner of your discipline. You'll set the technical direction, standards and practices for data science in the Lab from day one, and help shape what the Lab works on.\n    Real operational energy data. You'll work with SCADA and IIoT time series from OnPing, lease and contract documents, revenue and joint-interest accounting, and the tickets and paperwork behind every load hauled, across a customer base of more than 2,300 companies.\n    Deep expertise around you. You'll work next to industry experts for every product, a peer lead in applied AI and solution engineers, so you can focus on the data science while the team brings domain depth and a route to customers.\n    Ownership from prototype to production. You own the data science from problem framing through modeling and evaluation, and see it through customer pilots into production.\n    A direct line to leadership. You report to the Chief Product Officer, and your work shapes the Pak AI roadmap.\n    A path to leading a team. There are no direct reports today. As Innovation Lab initiatives mature and demonstrate value, this role is set up to help build and lead the Lab's data science team.\n   \n   \n   \n    What you'll do\n   \n   \n    Frame problems with the industry experts. Partner with the Lab's Land, Production, Accounting and Transportation experts to turn customer pain points into well-defined, measurable data science problems, and size the opportunity.\n    Own the modeling. Build forecasting, anomaly detection, optimization and predictive models on production, SCADA/IIoT, accounting, transportation and geospatial data, from exploratory analysis through working prototype.\n    Experiment and evaluate rigorously. Design experiments, offline evaluations and pilot success metrics. Own the evidence on whether something works, and recommend when an idea should stop.\n    Partner with the Lead Applied AI Engineer on GenAI and agentic work. They design and build the Lab's LLM, document AI and agentic systems. You bring the data, lead evaluation design, and contribute ML and statistical models those systems can use.\n    Take it to customers and production with solution engineers. Partner on customer pilots, and for the ML models you own, define the data, monitoring and MLOps requirements for a clean handoff to product and engineering teams.\n    Stay accountable after deployment. Partner with engineering teams on production monitoring, model performance, drift detection and continuous improvement for the models you own after handoff.\n    Set the technical direction for data science. Define the Lab's data science approach, tooling and standards for data quality, experimentation, reproducibility and responsible ML, and raise data fluency across a cross-functional team.\n    Build the foundation for a future team. Document how data science works in the Lab, mentor and coach teammates, and shape the roles and hiring plan for when the Lab expands.\n   \n   \n   \n    \n     What you bring\n    \n    \n     8+ years in applied ML or data science, including multiple models you built and shipped to production, used by real customers.\n     A track record of setting technical direction for data science work: choosing the approaches, tooling and standards that others adopted.\n     Experience mentoring, coaching or leading other data scientists or engineers, formally or as a technical lead.\n     Depth in at least one of time-series forecasting, anomaly detection or optimization on noisy, real-world data, with strong grounding in statistics, experimental design and model evaluation.\n     Expert Python and SQL. You're still hands-on and build the models yourself.\n     Working knowledge of LLM and GenAI systems, especially how to evaluate them (test-set design, metrics, human labeling, error analysis), enough to be a strong technical partner to the Lab's Lead Applied AI Engineer.\n     Experience working within lightweight, fast-moving software development practices that prioritize rapid experimentation, testing, customer validation and responsible production delivery.\n     A track record of turning ambiguous problems into shipped products with domain experts, product and engineering, influencing executives and stakeholders along the way, and the candor to say when something won't work.\n    \n    \n     Nice to have\n    \n    \n     Oil and gas, energy or industrial domain experience is a plus, not a requirement. The Lab's industry experts bring deep knowledge of every PakEnergy product, and you'll learn the domain working beside them.\n     Experience with SCADA/IIoT or geospatial data, or with labeling and evaluating document-extraction systems.\n     Databricks, Spark, Azure and/or AWS, and MLflow or similar MLOps tooling.\n     Experience hiring data scientists or building a data science function from an early stage.\n     Experience on cross-functional or innovation teams that take prototypes to customers.\n    \n    \n     Education: A degree in a quantitative field or equivalent practical experience. An advanced degree is welcome but not required.\n    \n    \n     \n      Location: In office, Frisco, Texas or Calgary, Alberta.\n     \n     \n      FLSA Status: Exempt (US/Frisco location only).\n     \n     \n      Canadian Employment Classification: Applicable employment classification will be determined in accordance with Alberta employment standards.\n     \n     \n      \nBenefits: A casual business work environment, generous PTO, employer-sponsored health benefits, and a retirement savings plan (401(k) in the US).\n     \n     \n     \n      Equal opportunity\n      \n\n       PakEnergy is an equal opportunity employer. We welcome applicants of all backgrounds and are committed to an inclusive hiring process.\n     \n    \n    \n     \n\n      If you're excited about this role but don't check every box, we'd still like to hear from you.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=50bc1a162561f447&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6a50f29678e364789ca5770d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/lead-data-scientist-innovation-lab--4b0b31ac-be97-44c0-868f-dad5f1e30523?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/pakenergy/Job/Lead-Data-Scientist,-Innovation-Lab/-in-Remote,US?jid=edc8d91b82000f3e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/data-analyst-technical-product-owner-contract?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010301737324&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SkillSync",
+          "link": "https://skillsync.c9a.fast-page.org/remote-jobs/data-analyst-technical-product-owner-contract?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Jobzeno",
+          "link": "https://jobzeno.liveblog365.com/remote-jobs/remote-lead-data-scientist-telematics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgU2NpZW50aXN0LCBJbm5vdmF0aW9uIExhYiIsImNvbXBhbnlfbmFtZSI6IlBha0VuZXJneSwgTExDIiwiaHRpZG9jaWQiOiJqNGsydFBfZ09CV0lfR2hGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVcxdFNtRmZWMVk0YzBaeFdIQnRhbDlPVDNselJWTk1kMnRYWTBneGEwUjVlRmhoUzB0TGJIQm9kbkpoYzJkdlNsVnpSV2RDYlVkSVRtWkZaVGh4UmxGdGQxaFlRbkZCWDFwVlF5MVhSRkZ6UVRWWlVHUlRTbmMwWmtkSlZHbEZNMGxJV2pWRFZtNVRRVGxTT0cxVll6ZHVVMHgyUzJ0dWEycG9ObE14U2pkVlZtWlBabVVTRjJkUlpteGhkbTFOUzNOeGJuSjFSVkF5YjJaWk5GRnJHaUpCU0U0d1JUZEZMV0ZOYzE5WWRVTnhjblJ6U1RoalRTMTJOREpxTUcxbVFtVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJqNGsydFBfZ09CV0lfR2hGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist - Remote",
+      "company_name": "City of Hope",
+      "location": "Anywhere",
+      "via": "Nursing Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Master’s degree with 0+ years of experience; or Bachelor’s degree with 3+ years of experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Scientist will design and implement AI and Advanced Analytics solutions in an evolving cancer care delivery environment",
+            "Individuals in this role will use statistics, machine learning, deep learning, LLM frameworks, and domain knowledge to understand relationships and patterns in data; train predictive models; design AI agents, tools, and skills; and support automation efforts in business, research and clinical domains",
+            "The Data Scientist will also design experiments and pipelines for AI system validation and partner with engineering teams to move solutions into production",
+            "Collaborate with administrative leaders, clinicians, researchers and engineering teams",
+            "Query and interpret large clinical and operational data sets",
+            "Develop machine learning pipelines, AI/LLM tools and agents, and statistical analyses",
+            "Design and implement AI and ML validation frameworks (experiments, pilots, metrics)",
+            "Partner with engineering teams to move solutions into production platforms and environments",
+            "Produce technical documentation and presentations",
+            "Project management; independently decompose requests into project tasks and manage time",
+            "Independently research business and clinical problems and associated data sets",
+            "Performs other related duties as assigned or requested"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=81aBIlThuVBu51bYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CIJws2AigouOCoqjxbkk8UxP0rvQu6G-gw9tXX6-6W--i8adgwVoEyEbqcEG7jiI4YybRFAMY-pBGC4iueDy2JtVPXivWlxWC0bJJRm8MEaZ_Fui_tNpH0asJRh2u_12cpXzenUi-4C84CoVgRgeTIZPaOcN6g_BVYT9jwAAAA&shmds=v1_Ac3VAow4_RDs5noy4OjdcWgut1sZpcWprNNLg3HgWl9LQg9iSw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=81aBIlThuVBu51bYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5077f5e878b4913a8ed3c/images/TzEsp7x1h3A2yYh5wBQHgZ7l_qUptwo5o1WEOWgkIeQ.png",
+      "extensions": [
+        "53.29–85.26 an hour",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.cityofhopejobs.org/job/11518/data-scientist-remote-information-technology-us/",
+      "job_title": "Data Scientist - Remote",
+      "description": "Join the transformative team at City of Hope, where we're changing lives and making a real difference in the fight against cancer, diabetes, and other life-threatening illnesses. City of Hope’s growing national system includes its Los Angeles campus, a network of clinical care locations across Southern California, a new cancer center in Orange County, California, and treatment facilities in Atlanta, Chicago and Phoenix. Our dedicated and compassionate employees are driven by a common mission: To deliver the cures of tomorrow to the people who need them today. \n\n** This is a Fully Remote Opportunity within the United States**\n\nThe Data Scientist will design and implement AI and Advanced Analytics solutions in an evolving cancer care delivery environment. Individuals in this role will use statistics, machine learning, deep learning, LLM frameworks, and domain knowledge to understand relationships and patterns in data; train predictive models; design AI agents, tools, and skills; and support automation efforts in business, research and clinical domains. The Data Scientist will also design experiments and pipelines for AI system validation and partner with engineering teams to move solutions into production.\n\nAs a successful candidate, you will:\n\nCollaborate with administrative leaders, clinicians, researchers and engineering teams\n\nQuery and interpret large clinical and operational data sets\n\nDevelop machine learning pipelines, AI/LLM tools and agents, and statistical analyses\n\nDesign and implement AI and ML validation frameworks (experiments, pilots, metrics)\n\nPartner with engineering teams to move solutions into production platforms and environments\n\nProduce technical documentation and presentations\n\nProject management; independently decompose requests into project tasks and manage time\n\nIndependently research business and clinical problems and associated data sets\n\nPerforms other related duties as assigned or requested\n\nYour qualifications should include: \n\nMaster’s degree with 0+ years of experience; or Bachelor’s degree with 3+ years of experience\n\nPreferred:\n\nMaster’s or Bachelor’s degree with 3+ years of experience\n\nFamiliarity with a health care environment and EHR data\n\nExpertise with one or more data science domains (time series, deep learning, LLM architectures, Natural Language Processing (NLP), causal inference, etc.)\n\nFamiliarity with cloud services like Microsoft Azure and version control systems (Git)\n\nExperience with Generative AI and Large Language Models (LLMs), RAG, fine-tuning, embeddings, prompt engineering, and agentic workflows\n\nExperience with data science/AI product lifecycle and understanding model training, testing, deploying, and monitoring.\n\nAwareness of the most recent trends and developments in Artificial Intelligence\n\nProficient developing machine learning models for classification, regression and clustering\n\nExperience with relational databases and SQL queries.\n\nProficient in Python and its machine learning libraries like pandas, scikit-learn, PyTorch, etc.\n\nExperience designing AI solutions, applying python LLM frameworks like LangChain and LangGraph, and designing tools, skills, and/or subagents for AI frameworks\n\nKnowledge of probability, statistics, and scientific computing\n\nAbility to work independently and use creative approaches to problem- solving\n\nCapable of turning questions into testable hypotheses, extracting data from complex databases, creating and evaluating statistical models\n\nExperience in data visualization and ability to communicate results to a non-technical audience\n\nExperience completing independent research and development with limited supervision\n\nExperience being part or large, cross-functional teams with many internal and external teams involved\n\nExperience with Agile project management frameworks and Jira is a plus\n\nProgramming Languages: Python, SQL\n\nML frameworks: sklearn, tensorflow, pytorch, etc.\n\nLLM & Generative AI Frameworks: LangChain, LangGraph, etc.\n\nCity of Hope employees pay is based on the following criteria: work experience, qualifications, and work location.\n\nCity of Hope is an equal opportunity employer.\n\nTo learn more about our Comprehensive Benefits, please CLICK HERE.",
+      "apply_options": [
+        {
+          "title": "Nursing Jobs",
+          "link": "https://www.cityofhopejobs.org/job/11518/data-scientist-remote-information-technology-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=3dacefce2d1cb069&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/yo-ai-labs/Job/Competitive-Data-Scientist-Remote/-in-New-York,NY?jid=9dce7bc1c663641e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-scientist-expert-remote-houston-tx--927d8a2f-589e-4bc4-a4ec-fe7f17374f87?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-scientist_7ea1ae18862ec609945789ebc478fe256b3cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/data-scientist-remote-city-of-hope-JV_KO0,21_KE22,34.htm?jl=1010196963297&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ae1333805a39c3e2c710f7f?visit=machine-learning-engineer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIFJlbW90ZSIsImNvbXBhbnlfbmFtZSI6IkNpdHkgb2YgSG9wZSIsImh0aWRvY2lkIjoiODFhQklsVGh1VkJ1NTFiWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrWkphbGx2WkdkR05rZzVXSGt4VmpsUmFFNU5kek5XT1hodFFVZEhibTE0V0hVell6bFRUV05LZG5Wak9HUnlVWEZKTVRCbllURnlhMUJvZUcxbloydDFZbk5CYzBWWldFSlFWazlhVkY5Q2F6Qm1WR2RZVldGUE1GWXpaMUppTTJWMldrbFJPVWxxTmtwWk9WaExkVUZKUmxkaldtbE5lVGc0YUV4SFNVbEhURUYzVjFrU0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRHYWxsdFZtWXdkVFZJZG5STVVUWmFOUzFCUWtwdmQySm9SM0ZuIiwiZmN2IjoiMyIsImZjX2lkIjoiODFhQklsVGh1VkJ1NTFiWUFBQUFBQT09In0="
+    },
+    {
+      "title": "Staff Data Scientist, Trust and Safety",
+      "company_name": "Pinterest",
+      "location": "Anywhere",
+      "via": "Pinterest Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Minimum 10 years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data",
+            "Extensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields",
+            "A scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output",
+            "Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)",
+            "Excellent communication skills and ability to explain learnings to both technical and non-technical partners",
+            "A team player who’s able to partner with cross-functional leadership to quickly turn insights into actions",
+            "Excellent communication and influencing skills",
+            "Bachelor’s degree in Computer Science, a related field or equivalent experience"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In an effort to provide greater transparency, we are sharing the base salary range for this position",
+            "The position is also eligible for equity",
+            "Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise",
+            "$164,695—$339,078 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company",
+            "You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others",
+            "Develop a deep, nuanced understanding of the Pinterest trust and safety platform, quantifying full funnel opportunities and risks",
+            "Lead projects on: Trust and Safety opportunities across different funnel stages",
+            "Design and productionize robust, scalable ML and evaluation frameworks—spanning statistical measurement, product recommendation, and forecasting",
+            "Develop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love",
+            "Bring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners",
+            "Build and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development",
+            "Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest",
+            "We recognize that the ideal environment for work is situational and may differ across departments",
+            "This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=ytgmFIn_tZ7rMifoAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAwAUFz7CQ6SWWpPBBelgygKTkLdS3qm15OalEuE-i9-rHV568u-s6ysDNsWTmgIlY_EFtVyuKe3GiA_oMKW7AMruEoDSph8B8JwEQk9zfed2aA751T7IqihRV94eTlhamR0T2n0T60dJhp6NKo32_VYDByWi1tko0TTFHmKGM4J2Uf1ksPx8AMz_Mw4nwAAAA&shmds=v1_Ac3VAozpx6hu5eTWLnNoIADCrLNFDETRxhrja_5cnZ5eNhfqeA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=ytgmFIn_tZ7rMifoAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.pinterestcareers.com/jobs/7987856/staff-data-scientist-trust-and-safety/",
+      "job_title": "Staff Data Scientist, Trust and Safety",
+      "description": "About Pinterest:\n\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\n As a Data Scientist in our Core organization - Trust and Safety + Content Quality, you will shape the future of people-facing and business-facing products we build at Pinterest. Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company. You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others. The results of your work will influence and uplevel our product development teams while introducing greater scientific rigor into the real world products serving hundreds of millions of pinners, creators, advertisers and merchants around the world. The core mandate is to evolve the organization from reactive moderation and lagging harm reporting into a proactive, metrics-driven operating system—where we manage leading indicators that predict risk, improve understanding quality, and keep Pinterest safe, inspiring, and useful.\n\n What you’ll do:\n\n  Develop a deep, nuanced understanding of the Pinterest trust and safety platform, quantifying full funnel opportunities and risks Lead projects on: Trust and Safety opportunities across different funnel stages Design and productionize robust, scalable ML and evaluation frameworks—spanning statistical measurement, product recommendation, and forecasting Develop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love Bring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners Build and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest  What we’re looking for:\n\n  Minimum 10 years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data Extensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields A scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R) Excellent communication skills and ability to explain learnings to both technical and non-technical partners A team player who’s able to partner with cross-functional leadership to quickly turn insights into actions Excellent communication and influencing skills Bachelor’s degree in Computer Science, a related field or equivalent experience  Relocation Statement:\n\n  We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.  Relocation Statement:\n\n  This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.  #LI-NM4\n\n #LI-REMOTE\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\n Information regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only$164,695—$339,078 USDOur Commitment to Inclusion:\n\n Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.   By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.",
+      "apply_options": [
+        {
+          "title": "Pinterest Careers",
+          "link": "https://www.pinterestcareers.com/jobs/7987856/staff-data-scientist-trust-and-safety/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/8a94d323-0239-46fd-a860-f25daff216dc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/staff-data-scientist-trust-and-safety-san-francisco-ca--c3a4e431-1e7f-4b92-a321-3e254c516b38?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Gravity",
+          "link": "https://www.gravityer.com/jobs/trust-and-safety-data-scientist-staffprincipal-databricks?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-trust-and-safety-at-pinterest-4475172579?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Diversity Jobs",
+          "link": "https://diversityjobs.com/career/18567911/Staff-Data-Scientist-Trust-Safety?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/sr-data-scientist-trust-and-safety-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Wanderly",
+          "link": "https://wanderly.l1d.synergize.co/remote-jobs/sr-data-scientist-trust-and-safety-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBEYXRhIFNjaWVudGlzdCwgVHJ1c3QgYW5kIFNhZmV0eSIsImNvbXBhbnlfbmFtZSI6IlBpbnRlcmVzdCIsImh0aWRvY2lkIjoieXRnbUZJbl90WjdyTWlmb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdUaFlOMkZqYzBkb1RTMW9PRWhoZUd4UFdUQnRWbTlqVTB0TUxXeE1hVFV0VkhSTGMzbHhTWEZpT0VKcFIwODJiREpoYmtGNk1UQmFlbWd0YVVGVVpEaHJOekZ4VlRkYWEyOUZUbXQwWm5rMlVGZ3dlSEpwWDE4MmFXNUJOVlpMWXpJemNWSnFRVjlJYTNOeVltVkZRbXRKVFdOSFdWOVRNMng0Y0dGQldFOHdPVzB0Tm00U0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRJYmt4dFJVWm1la3gyWDJWT1JYRXRTV00yVWpWaWFrOXpka2gzIiwiZmN2IjoiMyIsImZjX2lkIjoieXRnbUZJbl90WjdyTWlmb0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Scientist 5 - Media Science DSE",
+      "company_name": "Netflix",
+      "location": "Anywhere",
+      "via": "Netflix Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Advanced degree in Statistics, Applied Mathematics, Economics, Operations Research, or a related quantitative field (or equivalent practical experience)",
+            "8+ years of experience as a data scientist, with a track record of developing and executing measurement frameworks, models, and visualization products that directly inform business decisions",
+            "Experience building scenario planning, forecasting, or optimization models in operationally complex, resource-constrained environments",
+            "Strong quantitative and statistical intuition, comfortable moving fluidly between exploratory analysis, new metric construction, model development, and applied problem solving",
+            "Proven ability to translate ambiguous business questions into structured analytical workstreams",
+            "Skilled at building dashboards and visualizations that make complex data intuitive and actionable for a business leadership audience",
+            "Excellent verbal and written communicator who is adept at distilling complex analysis into clear, digestible narratives that broad audiences can understand and act on - influencing data-informed thinking across the organization",
+            "Comfortable operating with minimal oversight in a fast-paced, evolving environment",
+            "Energized by the opportunity to work within a film studio and build a new data science capability from the ground up"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Generally, our compensation structure consists solely of an annual salary; we do not have bonuses",
+            "You choose each year how much of your compensation you want in salary versus stock options",
+            "To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range",
+            "The range for this role is $372,000.00 - $600,000.00",
+            "This compensation range will vary based on location",
+            "Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits",
+            "We also offer paid leave of absence programs",
+            "Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off",
+            "Full-time salaried employees are immediately entitled to flexible time off"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Scientist, you'll construct and execute the roadmap for analysis, models, and data products that connect finance, production, and people data into a single system empowering slate planning, operational forecasting, and strategic decision-making for the Studio",
+            "You'll work directly with NAS leadership across Studio Operations and Production to architect the robust data foundations NAS needs to scale its slate with confidence",
+            "Serve as NAS's founding data scientist, partnering with leadership to define and prioritize the studio's metrics & science agenda",
+            "Strategically thought partner to scope ambiguous, greenfield questions - proposing and delivering analysis and science that introduce and influence data-informed ways of thinking",
+            "Own the end-to-end measurement agenda in partnership with data engineering - spanning data model design; new metric development, analysis, and forecasting; and the interpretation and dissemination of results",
+            "Conduct slate analysis that surfaces drivers of show efficiency as a means to preserve creative optionality across shows",
+            "Develop scenario planning models that quantify how schedule changes ripple across the production slate - giving leadership the visibility they need to proactively manage production timelines and workforce allocation",
+            "Build dashboards and scorecards that allow leadership to continuously monitor show statuses and potential risks",
+            "Present your metrics, models, and analytical insights clearly to a leadership audience, translating complex analysis into decisions NAS can act on",
+            "Collaborate with data scientists, analytics engineers, and data engineers across Media Science DSE to apply existing metric and viz approaches to NAS, where appropriate"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=oU4Jrgz1MZeiA4DyAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MsQrCMBCAYVz7BOJ0s2AjQhe7VgRBl-BckvRMr8Rc6d2QB_GBreDyD9_wV59N1XZOHdhAmJVEoYED3HGgvwWEzl5Wu7EHQbeEETjDlTkm3LWj6ixnY0RSHUWdUqgDvw1n9FzMxF5-6WV0C87JKfan5ljqOcf99oH6SlSAMjwzKQ5g1wPKF3wOE6mXAAAA&shmds=v1_Ac3VAoyhZTMCZatw5x8iYFEzEncXXex9IhufLzUaXkF5EbQlSg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=oU4Jrgz1MZeiA4DyAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://explore.jobs.netflix.net/careers/job/790318623518-data-scientist-5-media-science-dse-remote-united-states?domain=netflix.com&microsite=netflix.com",
+      "job_title": "Data Scientist 5 - Media Science DSE",
+      "description": "At Netflix, our mission is to entertain the world. Together, we are writing the next episode - pushing the boundaries of storytelling, global fandom and making the unimaginable a reality. We are a dream team obsessed with the uncomfortable excitement of discovering what happens when you merge creativity, intuition and cutting-edge technology. Come be a part of what’s next.\n\n  \n\n\nNetflix Animation Studios (NAS) is Netflix's in-house feature animation studio, delivering the exceptional artistry behind big hits like Leo, KPop Demon Hunters, and The Sea Beast. \n\n  \n\n\nMedia Science DSE is hiring for an embedded role to stand up our data science capability within NAS. How well NAS plans for and manages its growing slate and workforce has a direct impact on the creative and financial success of its films. As a Data Scientist, you'll construct and execute the roadmap for analysis, models, and data products that connect finance, production, and people data into a single system empowering slate planning, operational forecasting, and strategic decision-making for the Studio. You'll work directly with NAS leadership across Studio Operations and Production to architect the robust data foundations NAS needs to scale its slate with confidence.\n\n  \n\n\nAs a Senior Data Scientist in this space, you will…\n\n  * Serve as NAS's founding data scientist, partnering with leadership to define and prioritize the studio's metrics & science agenda\n  * Strategically thought partner to scope ambiguous, greenfield questions - proposing and delivering analysis and science that introduce and influence data-informed ways of thinking\n  * Own the end-to-end measurement agenda in partnership with data engineering - spanning data model design; new metric development, analysis, and forecasting; and the interpretation and dissemination of results\n  * Conduct slate analysis that surfaces drivers of show efficiency as a means to preserve creative optionality across shows\n  * Develop scenario planning models that quantify how schedule changes ripple across the production slate - giving leadership the visibility they need to proactively manage production timelines and workforce allocation\n  * Build dashboards and scorecards that allow leadership to continuously monitor show statuses and potential risks\n  * Present your metrics, models, and analytical insights clearly to a leadership audience, translating complex analysis into decisions NAS can act on\n  * Collaborate with data scientists, analytics engineers, and data engineers across Media Science DSE to apply existing metric and viz approaches to NAS, where appropriate\n\n  \n\n\nAbout you…\n\n  * Advanced degree in Statistics, Applied Mathematics, Economics, Operations Research, or a related quantitative field (or equivalent practical experience)\n  * 8+ years of experience as a data scientist, with a track record of developing and executing measurement frameworks, models, and visualization products that directly inform business decisions\n  * Experience building scenario planning, forecasting, or optimization models in operationally complex, resource-constrained environments\n  * Strong quantitative and statistical intuition, comfortable moving fluidly between exploratory analysis, new metric construction, model development, and applied problem solving\n  * Proven ability to translate ambiguous business questions into structured analytical workstreams\n  * Skilled at building dashboards and visualizations that make complex data intuitive and actionable for a business leadership audience\n  * Excellent verbal and written communicator who is adept at distilling complex analysis into clear, digestible narratives that broad audiences can understand and act on - influencing data-informed thinking across the organization\n  * Comfortable operating with minimal oversight in a fast-paced, evolving environment\n  * Energized by the opportunity to work within a film studio and build a new data science capability from the ground up\n  * Netflix culture resonates with you  \n\n\n\n\nGenerally, our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $372,000.00 - $600,000.00. This compensation range will vary based on location.\n\nNetflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more details about our Benefits here.\n\nNetflix is a unique culture and environment. Learn more here.\n\nInclusion is a Netflix value and we strive to host a meaningful interview experience for all candidates. If you want an accommodation/adjustment for a disability or any other reason during the hiring process, please send a request to your recruiting partner.\n\nWe are an equal-opportunity employer and celebrate diversity, recognizing that diversity builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.\n\nJob is open for no less than 7 days and will be removed when the position is filled.",
+      "apply_options": [
+        {
+          "title": "Netflix Careers",
+          "link": "https://explore.jobs.netflix.net/careers/job/790318623518-data-scientist-5-media-science-dse-remote-united-states?domain=netflix.com&microsite=netflix.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=f6a8a13264b66a01&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-scientist-customer-banking-analytics-at-analytic-recruiting-inc-4473542359?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In Los Angeles",
+          "link": "https://www.builtinla.com/job/data-scientist-5-media-science-dse/11353650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/7a3d2ce7-43b7-4f46-8f9a-14116cf49d60?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/data-scientist-5-media-science-dse/11353650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ShowbizJobs",
+          "link": "https://www.showbizjobs.com/jobs/netflix-data-scientist-5-media-science-dse-remote/jid-r79vm8d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/netflix/Job/Data-Scientist-5-Media-Science-DSE/-in-Remote,US?jid=b91034cb1c1dded8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCA1IC0gTWVkaWEgU2NpZW5jZSBEU0UiLCJjb21wYW55X25hbWUiOiJOZXRmbGl4IiwiaHRpZG9jaWQiOiJvVTRKcmd6MU1aZWlBNER5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWxOQk1UTlJRM2xqZG1nNVVsOU5ZM2huZEZrME9TMVZTMHRvYkhsa05YaFBSMHhvTms5NVZtOU5RM0ZUZFdFMk1qUklhV1JyZG1oeFJGbEVhSEJSV2todlduSlBkRTFFVTJaTWNIcGFVamsyWmxCUlRWOUtZMFJZUzFoME1teHFNbDlRVEhJMldFWkphSGhQY2xZNVpIRnhkRWQ1UWxoYVJYaE5iVkZ1TkROWVNHeGlRVk1TRjJkUlpteGhkbTFOUzNOeGJuSjFSVkF5YjJaWk5GRnJHaUpCU0U0d1JUZEZjMFp3WWtOcFJEWk5NVXBSY25FMlVFWm1RbFZtVlVaeGMzbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJvVTRKcmd6MU1aZWlBNER5QUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0VDb3dFUVVSRVlsZGxXVnA1ZFZJelNsSm5jbUpLYWxaeWVIVk9SR1JqVEdRd09YVkxZbXRSVUV0cVN6WkpPRXR6V20xMlNXUk5WbFZXVG5JMFkyWldkalJwT0VaQ1pESlpkelYyWXpBNVgwaFBVMUpJTm1oclFVTmZWMWg1UjIxd05GVkpUSEpNTVdNNWRtdFRMVW95VkVzeVRTMHRaV0ZtZW1GWU5HWTFiVTR5UVdwUVQwZEJkbWszU1hOTlZrRmhOMkZQYm5GQ1ZUUnJNMEZ2WkVKWmJUVllZbW90U3pkelMwRlRTVVZDWDBGUFltWlRSVmhRVXpaWGQydEdVbTlzU0VaWGRVRkxUVTVCTTI1eWNHTkVia05KTUhwVlVXeHVha05PY205M2VIUnRaVVowWlROWVoyWTJYMnM0UVVsaGVubFBTblJLU1dsb1gyNWZVMUZ4VmxZeFlYaG1NRlU1WVZOMU16VnJNRVpNVXpOaVdHdEVlV2hUV2pkeVZqVTNaRlpzY1ZwT2EzRnFjRkZPYWtWMlIxUlRkV1ZpYjJWUGVHNHROMDgxUWtNeVZIWmxlR0p5U0d4UmEzZzJWV3RUZFhrM1VXcFJSWFk1Y3paamJ6RTFjalJpZFhSNlR6ZFZTVVoxUm1oMlRuWkhlRk4zWHpGRmIyaHdTa1UwYmxCVFducERNMGRZVkVnNVpVcDBOVmg1WmpVeWJraG9hbXBXYWtVNVIya3dTMUF0WkRSSmJHNXBjR1JNWlMxU2NqUnBUbU5LWDNRMFRXWmZNV1ZwTVVvelNVUldTekZDVkZaSFFXNXVkVlp4UmtJMlRIbDNlR3h5VjAxRGJsazNWRTFUVERaR1V6SlNhRVpNWW5Kc1kwVlhRbm80WWpsTGNEVlNjalZTY3paNWNHVm1UMmx0V2s5amNGTTFZbTFxTW13U0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRGVlVoVU1XVm5VSFZmY3pWelZqaG9NSFZhV0RGUmFUaGhOMFZuIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVzd0VDb3dFUVVSRVlsZGxXVnA1ZFZJelNsSm5jbUpLYWxaeWVIVk9SR1JqVEdRd09YVkxZbXRSVUV0cVN6WkpPRXR6V20xMlNXUk5WbFZXVG5JMFkyWldkalJwT0VaQ1pESlpkelYyWXpBNVgwaFBVMUpJTm1oclFVTmZWMWg1UjIxd05GVkpUSEpNTVdNNWRtdFRMVW95VkVzeVRTMHRaV0ZtZW1GWU5HWTFiVTR5UVdwUVQwZEJkbWszU1hOTlZrRmhOMkZQYm5GQ1ZUUnJNMEZ2WkVKWmJUVllZbW90U3pkelMwRlRTVVZDWDBGUFltWlRSVmhRVXpaWGQydEdVbTlzU0VaWGRVRkxUVTVCTTI1eWNHTkVia05KTUhwVlVXeHVha05PY205M2VIUnRaVVowWlROWVoyWTJYMnM0UVVsaGVubFBTblJLU1dsb1gyNWZVMUZ4VmxZeFlYaG1NRlU1WVZOMU16VnJNRVpNVXpOaVdHdEVlV2hUV2pkeVZqVTNaRlpzY1ZwT2EzRnFjRkZPYWtWMlIxUlRkV1ZpYjJWUGVHNHROMDgxUWtNeVZIWmxlR0p5U0d4UmEzZzJWV3RUZFhrM1VXcFJSWFk1Y3paamJ6RTFjalJpZFhSNlR6ZFZTVVoxUm1oMlRuWkhlRk4zWHpGRmIyaHdTa1UwYmxCVFducERNMGRZVkVnNVpVcDBOVmg1WmpVeWJraG9hbXBXYWtVNVIya3dTMUF0WkRSSmJHNXBjR1JNWlMxU2NqUnBUbU5LWDNRMFRXWmZNV1ZwTVVvelNVUldTekZDVkZaSFFXNXVkVlp4UmtJMlRIbDNlR3h5VjAxRGJsazNWRTFUVERaR1V6SlNhRVpNWW5Kc1kwVlhRbm80WWpsTGNEVlNjalZTY3paNWNHVm1UMmx0V2s5amNGTTFZbTFxTW13U0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRGVlVoVU1XVm5VSFZmY3pWelZqaG9NSFZhV0RGUmFUaGhOMFZuIiwiZmN2IjoiMyJ9&q=Data+Scientist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Scientist",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:09:19.175143+00:00",
+    "request_fingerprint": "a2cee19fb8bb27da01a1f7581dfa40e6e7e36ce387a4f061e7b9ef688451319f",
+    "job_count": 10
+  }
+}

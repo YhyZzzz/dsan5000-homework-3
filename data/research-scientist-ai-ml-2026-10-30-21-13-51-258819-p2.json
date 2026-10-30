@@ -1,0 +1,798 @@
+{
+  "search_metadata": {
+    "id": "6ae5088f28b111366c455a70",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6Z-i2d2Viedr6lDjZs6Bk8FAFLmYD5XQd6JP9HKJG6o/6ae5088f28b111366c455a70.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6Z-i2d2Viedr6lDjZs6Bk8FAFLmYD5XQd6JP9HKJG6o/6ae5088f28b111366c455a70.md",
+    "created_at": "2026-10-30 21:13:51 UTC",
+    "processed_at": "2026-10-30 21:13:51 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Research+Scientist+%28AI-ML%29&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/6Z-i2d2Viedr6lDjZs6Bk8FAFLmYD5XQd6JP9HKJG6o/6ae5088f28b111366c455a70.html",
+    "prettify_html_file": "https://serpapi.com/searches/6Z-i2d2Viedr6lDjZs6Bk8FAFLmYD5XQd6JP9HKJG6o/6ae5088f28b111366c455a70.prettify",
+    "total_time_taken": 0.52
+  },
+  "search_parameters": {
+    "q": "Research Scientist (AI-ML)",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXa1ZhZFVReFpYVTBPRFJZU1VaYWFFY3hWWFE0YUVGWU9GVlRjWFprVmtWc2VrNVRhMlJhYW14Uk1WOTFNR1ZJZGtaRlRUQTJjVWhIU1VOS1ZIRjVVQzAwVG1oUVgwZ3hha1JWY0RCaWFVeE5kekZZUzNaTVREWldiMWhLY1hkdllVMVhWbXB0YlRreVdGbE5ibHAxVEVaSmNUZHBTRXAzY1ZNd1Ztb3RYeTFNY0VsMFdUZExURloyYlRkcGVVTnpkbUZOWlVsbU5FaGFjVW8wZGxWUk56SktSRTQ0V205cWJEZE5SRjh0TUZSNlZFTkZPRUpuV21sS01HeHNjRkEyY21RMGJEbFFiek01VW5CSGFXMWxWVlZXVm14S1RHbEZTM0ZSU1ZSWVl6ZGllV2hPZVhreFEzVlhkalk0VDNGUlkwMVJUbGw1VjFWcE1rUklVME51ZERkUGIzUjRiM1J2UW5SdFlrRk5SVlpUU1hWT1ZVTTRSemd6UlZkd2JsOXNVRTFmT0VSU2EwOVNiREpNTTNweGVUQkRNMkZsZG5oZk4xVXhNRE0yVkRNNWNHZHBkVFpMWWxsR00zWkxPVzVDVjBrNGIwbEJZMHBaV0VGNFNWQnhYMVl5ZFhWMFNIRm1kWFJaVjFSUmVXOVpibnA1ZDBocFJHRkVVVUZ3WVY5aE1EaHJVV000YWtGeVozRmhSMDEzZDBkRFRHNHliVUY1TUU0M01VWTFZMDEyVFhwWmJpMXJaR0l0VFV4clkwNXZYMDlwWDJkUmIzRnBXR2RGWjFkaFMwUXdTR0UyVEVWVWFpMDJaMEZTUmxwUGFHTnVlbUZuZFRKQ1VFMVBZV3AzVkRKaVoxY3dXbTFSUld3NFZVY3haWFZaY2xwa2NWQm9NRk56ZGxCemFVVkRaSEpUTjBKUlkydGZRMEpxVmxWWlQwMTJWbFIzY1RGek1qVjJOeTFsWkZSR00yZEtVRE5vYUVoMlpUTlJRMmx6RWhkbVoycHNZWEZVU2taMFYyRnlkVVZRYW5KWWRqQlJaeG9pUVVoT01FVTNSMWRyVUc5bk9YaFlRbWxtZUZOUVh6VndSSEIxWkRCTlozTlpVUSIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Principal AI Research Scientist (HPE Labs)",
+      "company_name": "HPE",
+      "location": "Milpitas, CA (+3 others)",
+      "via": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in Computer Science, Artificial Intelligence, Machine Learning, Physics, Mathematics, or other related fields",
+            "Typically, 5+ years' experience Post PhD graduate studies",
+            "Strong and sustained record of original research in modern artificial intelligence or machine learning",
+            "Broad and current command of the AI and machine-learning literature, extending beyond a single model family, technique, or application area",
+            "Advanced proficiency in Python and PyTorch, with experience using common AI/ML packages, libraries, and research tooling",
+            "Experience working with research codebases, open-source libraries, HPC and distributed systems, and collaborative software-development practices",
+            "Strong software-engineering and algorithm implementation skills for research, including code design, version control, testing, debugging, profiling, performance optimization, and reproducible experimentation",
+            "Strong knowledge of state-of-the-art AI/ML algorithms and the engineering skills to adapt, implement, and apply them to real-world problems when needed",
+            "Strong written and verbal communication skills, with the ability to explain complex technical ideas, present research findings, and write high-quality scientific papers",
+            "Demonstrated ability to work autonomously and collaborate effectively in an interdisciplinary research environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Health & Wellbeing",
+            "We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing",
+            "Personal & Professional Development",
+            "We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division",
+            "– United States of America: Annual Salary USD 172,000 - 328,000 in Massachusetts // 172,000 - 349,000 in California // 152,000 - 349,000 in Texas",
+            "The listed salary range reflects base salary",
+            "Variable incentives may also be offered.\""
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Independently lead research projects from initial brainstorming and problem formulation through mathematical development, implementation, experimentation, analysis, and publication",
+            "Translate early-stage ideas into concrete hypotheses and design rapid, decisive experiments to determine whether a direction should be expanded, revised, or discontinued",
+            "Produce original research suitable for publication at leading venues such as NeurIPS, ICML, ICLR, and comparable conferences and journals",
+            "Maintain broad and current knowledge of modern AI research and use that knowledge to identify emerging opportunities, relevant prior work, and meaningful open problems",
+            "Collaborate with researchers, engineers, interns, and external partners across AI, physics, quantum computing, and advanced computing systems",
+            "Develop and release reusable research assets, including open-source software, models, experimental infrastructure, benchmarks, or datasets, when appropriate",
+            "Demonstrated ability to convert research ideas into rigorous, complete, and publishable outcomes, with a strong publication record at leading machine-learning venues such as NeurIPS, ICML, and ICLR, or comparable peer-reviewed venues",
+            "Deep mathematical understanding of modern machine-learning methods, including their objectives, assumptions, optimization behavior, learning dynamics, and limitations",
+            "Excellent experimental skills, including hypothesis formulation, rapid prototyping, controlled evaluation, analysis of failure modes, and interpretation of results"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=7WPJu5lbDLAjoOGTAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MPQrCQBBAYWzT2llNqaJZEWy0CiL-oBD0AGF2GZKRdWfJTJGLeF8J2Lzq4xXfSVHVPafAGSNUV3iSEvahg1dgSsZqML_UJ7ij1wWs4SYe_kISnEXaSLNDZ5Z175xqLFs1NA5lkI-TRF4G9xavYxrtsKcc0ajZ7jZDmVO7nI57TvDgmNlQV3Csftsl3p-YAAAA&shmds=v1_Ac3VAoz___etXW8ioT96iaxuzpvw4EHVNIG3wFfz9PjpoJpoHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=7WPJu5lbDLAjoOGTAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEX///8AAADU1NTX19cApoBZWVn6+vppaWkAonpBup3Y8uzl+PRawaeNjY0Lr420tLRfX1/d3d1MTEzNzc3j4+N9g4ElJSVGRkbHx8d5eXkvLy+VlZULCwutrq5Jv6UvtpYAm288PDy8vb2fn5/u8vF8mx8GAAAA5ElEQVRIie2T2Q6CMBBFO1PBBRdERJRFRf//G520dii0IeFBn3oeCNzMadJbKkQgEAj8lRhlzh9HifTMpeHIuQXGKkOAjEUAoDSFnrPJLdCI0Uhc2lNFPEu8RIoLBanOIybLJ0T8BiUlNFcAOOWgXnMknkxyBTj4WyXxVu00Ve2IFUAjRLu2uG+MOGAkFup9v7BYTYmNREKWGajdkbhiHiw+u4Omq93jgE6LSc9UOT2N0KKvHM9xZKli+XqLeSIOh0jcMm0yIZ4c0deq5ycvh6LVKbfqvVbfm8NsBjjbDQQCgd/yAS7VDKnY6qSAAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.hpe.com/us/en/job/1210921/Principal-AI-Research-Scientist-HPE-Labs",
+      "job_title": "Principal AI Research Scientist (HPE Labs)",
+      "description": "Principal AI Research Scientist (HPE Labs)\n\n  \n\n\n\n\n\n\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n\n\nWho We Are:\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n\n\n\n\nJob Description:\n\n   \n\nHPE Labs is seeking a Principal AI Research Scientist for the HPE Quantum team within Emergent Machine Intelligence, a senior individual-contributor role focused on original, publication-driven research in areas including foundation model reasoning, representation learning, physics-inspired machine learning, mechanistic interpretability, and interdisciplinary work at the intersection of AI, quantum computing, and physical science. The ideal candidate is intellectually broad, experimentally strong, and highly autonomous, with strong research judgment, a track record of publishing at leading AI venues, and the ability to identify impactful problems, develop original ideas collaboratively, and mentor junior researchers. .\n\n\n\nKey Responsibilities:\n\nIndependently lead research projects from initial brainstorming and problem formulation through mathematical development, implementation, experimentation, analysis, and publication.\n\nTranslate early-stage ideas into concrete hypotheses and design rapid, decisive experiments to determine whether a direction should be expanded, revised, or discontinued.\n\nProduce original research suitable for publication at leading venues such as NeurIPS, ICML, ICLR, and comparable conferences and journals.\n\nMaintain broad and current knowledge of modern AI research and use that knowledge to identify emerging opportunities, relevant prior work, and meaningful open problems.\n\nCollaborate with researchers, engineers, interns, and external partners across AI, physics, quantum computing, and advanced computing systems.\n\nDevelop and release reusable research assets, including open-source software, models, experimental infrastructure, benchmarks, or datasets, when appropriate.\n\n\n\nRequirements:\n\nPhD in Computer Science, Artificial Intelligence, Machine Learning, Physics, Mathematics, or other related fields.\n\nTypically, 5+ years' experience Post PhD graduate studies.  Strong and sustained record of original research in modern artificial intelligence or machine learning. Or equivalent. \n\nDemonstrated ability to convert research ideas into rigorous, complete, and publishable outcomes, with a strong publication record at leading machine-learning venues such as NeurIPS, ICML, and ICLR, or comparable peer-reviewed venues.\n\nBroad and current command of the AI and machine-learning literature, extending beyond a single model family, technique, or application area.\n\nDeep mathematical understanding of modern machine-learning methods, including their objectives, assumptions, optimization behavior, learning dynamics, and limitations.\n\nExcellent experimental skills, including hypothesis formulation, rapid prototyping, controlled evaluation, analysis of failure modes, and interpretation of results.\n\nAdvanced proficiency in Python and PyTorch, with experience using common AI/ML packages, libraries, and research tooling.\n\nExperience working with research codebases, open-source libraries, HPC and distributed systems, and collaborative software-development practices.\n\nStrong software-engineering and algorithm implementation skills for research, including code design, version control, testing, debugging, profiling, performance optimization, and reproducible experimentation.\n\nStrong knowledge of state-of-the-art AI/ML algorithms and the engineering skills to adapt, implement, and apply them to real-world problems when needed.\n\nStrong written and verbal communication skills, with the ability to explain complex technical ideas, present research findings, and write high-quality scientific papers.\n\nDemonstrated ability to work autonomously and collaborate effectively in an interdisciplinary research environment.\n\n \n\nDesired Knowledge and Skills:\n\nSubstantial research background in theoretical physics, statistical physics, quantum physics, condensed-matter physics, or another mathematically intensive area of physics, together with a proven research record in AI and machine learning.\n\nResearch experience combining machine learning with physics, applied mathematics, dynamical systems, optimization, or scientific computing.\n\nExperience moving fluidly between mathematical formulation, algorithm development, implementation, and empirical validation.\n\nWorking proficiency in C++.\n\nRecord of releasing high-quality open-source research software, models, benchmarks, datasets, or evaluation frameworks.\n\nExperience developing reusable experimental infrastructure or tools that accelerate research across multiple projects.\n\nFamiliarity with neural quantum states, quantum many-body systems, quantum simulation, scientific machine learning, or other applications of AI to quantum science.\n\nExperience with advanced computational physics or chemistry methods, such as Monte Carlo simulations, density functional theory (DFT), molecular dynamics (MD), or related numerical methods.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat We Can Offer You:\n\nHealth & Wellbeing\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n\n\nPersonal & Professional Development\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n\n\nUnconditional Inclusion\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n\n\n\n\nLet's Stay Connected:\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. \n\n\n\n\n\n#unitedstates#Hplabs\n\n\n\nJob:\n\nEngineeringJob Level:\n\nTCP_05    \n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.\n – United States of America: Annual Salary USD 172,000 - 328,000 in Massachusetts // 172,000 - 349,000 in California // 152,000 - 349,000 in Texas\nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\n\n\nInformation about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html\n\n\n\n\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\nHewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.\n\n   \n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n   \n\nRecruitment Fraud Alert\n\n\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\n\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
+      "apply_options": [
+        {
+          "title": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+          "link": "https://careers.hpe.com/us/en/job/1210921/Principal-AI-Research-Scientist-HPE-Labs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/principal-ai-research-scientist-hpe-labs-milpitas-ca--8b673df0-907f-4713-a808-256017ea6978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/f605cfe4-5712-46ef-9e2c-6d6e3884682b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/principal-ai-research-scientist_7ea1a2ae4a8b77481c435905486e79f15ad94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bots N' Beans",
+          "link": "https://botsnbeans.com/job/lead-ai-research-engineer-embodied-systems-roboforce/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/principal-ai-research-scientist-hpe-labs-at-hewlett-packard-enterprise-4453646425?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/principal-ai-research-scientist-hpe-labs-milpitas-ca--a6deaee1-b1b2-4834-83a0-147d19edc9ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruiterflow",
+          "link": "https://recruiterflow.com/db_68acb5b9e6496d42198ba31678f07a92/jobs/30?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQUkgUmVzZWFyY2ggU2NpZW50aXN0IChIUEUgTGFicykiLCJjb21wYW55X25hbWUiOiJIUEUiLCJodGlkb2NpZCI6IjdXUEp1NWxiRExBam9PR1RBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXakYxU0VwMmVWWXlTMnh4U1Roc2VuWllaVEZQU0RnNVpXVlhVM1pNVEd4TGNIUlZaMmRMVW5WWk1rbzRURlpUUTNSVmRqRkNXRWxqUW5GUFRVOHRSbVp6VFhjNFFrOWplV3BXVVdkV1pDMUVWemREYW5WUlJXRkJPSEpMUW04ek9XUnVRWFl0TlZWNVNIZzRTbXhDWDFWNVNIbG5ObFZ1YzE5cmNWcFVTVzAyY2xoMFpXY1NGMnAzYW14aGNsOVZSemhoY1hjNFkxQXdPVVJrTmxGckdpSkJTRTR3UlRkSVZXa3lPVXBZVEVORU5IWm1lV3RpTkU1dlJuWlVSRFV6Y1ZWUiIsImZjdiI6IjMiLCJmY19pZCI6IjdXUEp1NWxiRExBam9PR1RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI Research Scientist - Fully Remote | Up to $200/hr",
+      "company_name": "Mercor",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Current or recent role as an ML research engineer, research scientist, or applied scientist",
+            "Experience with training, fine-tuning, or optimizing models in PyTorch or JAX",
+            "Deep knowledge in at least one area: LLMs, GPU inference and performance, Reinforcement learning (RL), or Scientific ML",
+            "Ability to explain why a problem is hard for a frontier model"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $150–$200/hour",
+            "Location: Remote"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop challenging machine learning engineering tasks for a long-horizon AI research project",
+            "Design tasks that challenge frontier models, ensuring they are solved in no more than 2 out of 8 attempts",
+            "Focus on inference, evaluation, and systems work rather than heavy model training",
+            "Tasks run on both GPU and CPU",
+            "Clearly explain why each problem is difficult for a frontier model",
+            "Contribute ideas without needing to build or review the tasks yourself"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=TdDaOH7objy9G1xOAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LsQrCMBCAYVz7CLrc4CTalIKLTkWoqLhYnEsajiaS5kLuhAq-j69pBZd_-fizzyy7VCe4IaNOxkJjHAZxLLCB-un9a6KBBOEN9whCsCyLQtk08Zk6-F8U4EjUe5zvrUjknVLMPu9ZtDiTGxoUBexoVA_q-JeWrU4YvRZsy20x5jH0q8UVk6EELkCjA9RJB-PY0BoO1RcxdjLyqgAAAA&shmds=v1_Ac3VAoyLQ9STY4e8i0dhb1e9gvZvTzBRB30-oz8yDWItpMyqeQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=TdDaOH7objy9G1xOAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5088f28b111366c455a70/images/fSuk_T5R8AauE0gD2NU82ZPsIy_kVUNxWLmIWA6ybz4.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Work from home",
+        "Part-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/ai-research-scientist-fully-remote-up-to-%24200-hr-at-mercor-4481172878",
+      "job_title": "AI Research Scientist - Fully Remote | Up to $200/hr",
+      "description": "About The Job\n\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\n\nPosition: Machine Learning Expert\n\nType: Contract\n\nCompensation: $150–$200/hour\n\nLocation: Remote\n\nRole Responsibilities\n\nDevelop challenging machine learning engineering tasks for a long-horizon AI research project.Design tasks that challenge frontier models, ensuring they are solved in no more than 2 out of 8 attempts.Focus on inference, evaluation, and systems work rather than heavy model training. Tasks run on both GPU and CPU.Clearly explain why each problem is difficult for a frontier model.Contribute ideas without needing to build or review the tasks yourself.\n\n\nQualifications\n\nMust-Have\n\nCurrent or recent role as an ML research engineer, research scientist, or applied scientist.Experience with training, fine-tuning, or optimizing models in PyTorch or JAX.Deep knowledge in at least one area: LLMs, GPU inference and performance, Reinforcement learning (RL), or Scientific ML.Ability to explain why a problem is hard for a frontier model.\n\n\nPreferred\n\nExperience writing benchmark or evaluation questions.PhD in ML, CS, or physics, or an MSc with strong research output.Publications.Prior Mercor contracts with strong performance.\n\n\nApplication Process (Takes 20–30 mins to complete)\n\nUpload resumeAI interview based on your resumeSubmit form\n\n\nResources & Support\n\nFor details about the interview process and platform information, please check: https://talent.docs.mercor.com/welcomeFor any help or support, reach out to: support@mercor.com\n\n\nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-fully-remote-up-to-%24200-hr-at-mercor-4481172878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Mercor/Job/AI-Research-Scientist/-in-San-Francisco,CA?jid=ad354f98d6e51615&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Metaintro",
+          "link": "https://www.metaintro.com/job/ai-research-scientist-fully-remote-up-to-200-hr-at-mercor-b71de6d6-e54e-50c3-9682-48ccef7b3121?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ab45409d2f5fbd604be2eb7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/graphen-inc/ai-research-scientist-finance-healthcare-innovator-133515911/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643146463982331600&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HiLOKER",
+          "link": "https://us.hiloker.com/jobs/ai-research-scientist-fully-remote-up-to-200-hr-ai-research-scientist-fully-remote-up-to-200-hr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/1947996917984133120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBSZXNlYXJjaCBTY2llbnRpc3QgLSBGdWxseSBSZW1vdGUgfCBVcCB0byAkMjAwL2hyIiwiY29tcGFueV9uYW1lIjoiTWVyY29yIiwiaHRpZG9jaWQiOiJUZERhT0g3b2JqeTlHMXhPQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtadFNtdDNVMmhyYVdneFJVMXZPSEYzZDJOWmRUVXdWbUZNZWpSd1dtSkxXRGhCYVU5bU1XRTFTa0p5ZG1kM1FVaHBiamM1WWtSb1VsZGlhVmRzYTNoT1VrcExSbXhzTFUxRldqSlNRa3B0VDJwRFVXOXlVMDlsYzJ4eGVUWkxURVV0YkVSMVJ6RnRZazFpUW1SNGRVcGZaV1JvTFRSTlpERllObW81VkVkcVkyZEhYM1FTRjJwM2FteGhjbDlWUnpoaGNYYzRZMUF3T1VSa05sRnJHaUpCU0U0d1JUZEdTSEF4ZEdWUWFuVklaMnRpTnpneGRWQTVTMkpJUkMxR2NtWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJUZERhT0g3b2JqeTlHMXhPQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Research Scientist, AI / ML Biologics",
+      "company_name": "Real Staffing",
+      "location": "Anywhere",
+      "via": "Real Staffing",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates should hold a PhD in Computational Chemistry, Computational Biology, Machine Learning, Biomedical or Chemical Engineering, with at least three years of relevant industry experience",
+            "A strong background in oligonucleotide chemistry, antibody design, and computational modeling of antibody-antigen interactions is required",
+            "Expertise in probabilistic and deep learning models, programming in Python, R, and SQL, and experience with modern deep learning frameworks are essential",
+            "Familiarity with large-scale computing, cloud infrastructure, and collaborative tools is expected",
+            "Strong communication skills and a commitment to teamwork and continuous learning are vital for success in this role",
+            "Must-Have Skills: Python, R, SQL, PyTorch, Tensorflow, skikit-learn, JAX, Recurrent Neural Networks",
+            "Nice-to-Have Skills: AWS, database technologies, GitHub, GitLab, Docker, oligonucleotide chemistry, antibody design, structure prediction, design, large-scale computing, cloud infrastructures, data development, collaboration, continuous learning, Graph Neural Networks, Transformers, Natural Language Processing, Generative AI, computational modeling, machine learning"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "In addition to base pay, employees may be eligible for benefits such as health insurance, health savings accounts, retirement savings plans, life and disability insurance, and paid leave where required by applicable law"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The position focuses on integrating advanced ML and AI techniques to accelerate discovery and optimization across multiple biologic modalities",
+            "The successful candidate will develop sequence-aware predictive models to prioritize oligonucleotide therapeutics based on exon-skipping response, extending these approaches across diverse ASO modalities",
+            "Responsibilities include designing and implementing AI/ML methods for de novo antibody discovery, fine-tuning protein language models, and developing generative protein design workflows",
+            "The role also involves deploying machine learning methods to support multi-objective optimization of antibodies, antigens, ADCs, and other biologic modalities",
+            "Additional duties include building reproducible computational frameworks for biologics, curating and harmonizing datasets, defining robust sequence and structure features, and establishing benchmarks to assess model performance",
+            "The scientist will collaborate closely with experimental teams to validate predictions and adopt both proprietary and open-source tools to enhance modeling workflows",
+            "Maintaining a well-documented codebase and providing user guidance for cross-functional teams is essential"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=-ljf8lvvob9V_wo0AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3KsQ6CQAwA0LjyCbp0NsgZExdlgcVoZIEPIMelHDVnS2gHPsXPNSYub3rZZ5OVLSr6JUzQBUI2UsuhuoOD5gk1SZJIQeEADxngP4XhJhITbq-T2awX51RTEdW8USiCvJ0wDrK6lwz6o9fJLzgnb9ifzse1mDnudy36BJ35cSSOQAy1qAnn0FRfQTB5P5sAAAA&shmds=v1_Ac3VAoybMh4pG3ulhXMkEp9LDRR2YIcBnuXoWKJil3QnTuwY5A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=-ljf8lvvob9V_wo0AAAAAA%3D%3D",
+      "extensions": [
+        "30 days ago",
+        "Work from home",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.realstaffing.com/en-us/job/research-scientist-ai---ml-biologics/4075884/",
+      "job_title": "Research Scientist, AI / ML Biologics",
+      "description": "An exciting opportunity is available for a Research Scientist specializing in AI and Machine Learning for biologics. This fully remote contract role requires working Eastern Standard business hours and offers the chance to contribute to cutting-edge advancements in antisense oligonucleotide (ASO) therapeutics and antibody discovery. The position focuses on integrating advanced ML and AI techniques to accelerate discovery and optimization across multiple biologic modalities.\n\n\n\nThe successful candidate will develop sequence-aware predictive models to prioritize oligonucleotide therapeutics based on exon-skipping response, extending these approaches across diverse ASO modalities. Responsibilities include designing and implementing AI/ML methods for de novo antibody discovery, fine-tuning protein language models, and developing generative protein design workflows. The role also involves deploying machine learning methods to support multi-objective optimization of antibodies, antigens, ADCs, and other biologic modalities.\n\n\n\nAdditional duties include building reproducible computational frameworks for biologics, curating and harmonizing datasets, defining robust sequence and structure features, and establishing benchmarks to assess model performance. The scientist will collaborate closely with experimental teams to validate predictions and adopt both proprietary and open-source tools to enhance modeling workflows. Maintaining a well-documented codebase and providing user guidance for cross-functional teams is essential.\n\n\n\nCandidates should hold a PhD in Computational Chemistry, Computational Biology, Machine Learning, Biomedical or Chemical Engineering, with at least three years of relevant industry experience. A strong background in oligonucleotide chemistry, antibody design, and computational modeling of antibody-antigen interactions is required. Expertise in probabilistic and deep learning models, programming in Python, R, and SQL, and experience with modern deep learning frameworks are essential. Familiarity with large-scale computing, cloud infrastructure, and collaborative tools is expected. Strong communication skills and a commitment to teamwork and continuous learning are vital for success in this role.\n\n\n\nMust-Have Skills: Python, R, SQL, PyTorch, Tensorflow, skikit-learn, JAX, Recurrent Neural Networks\n\n\n\nNice-to-Have Skills: AWS, database technologies, GitHub, GitLab, Docker, oligonucleotide chemistry, antibody design, structure prediction, design, large-scale computing, cloud infrastructures, data development, collaboration, continuous learning, Graph Neural Networks, Transformers, Natural Language Processing, Generative AI, computational modeling, machine learning\n\n\n\nEOE Statement: Specialist Staffing Group is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.\n\n\n\nIn addition to base pay, employees may be eligible for benefits such as health insurance, health savings accounts, retirement savings plans, life and disability insurance, and paid leave where required by applicable law. Eligibility may vary based on factors such as location and hire date and is subject to change.\n\n\n\nTo find out more about Real, please visit www.realstaffing.com",
+      "apply_options": [
+        {
+          "title": "Real Staffing",
+          "link": "https://www.realstaffing.com/en-us/job/research-scientist-ai---ml-biologics/4075884/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Y Combinator",
+          "link": "https://www.ycombinator.com/companies/nextera-robotics-didgeai/jobs/U3xCWig-ai-ml-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/research-scientist-ai-ml-biologics--boston--ed7d4104eee41d3343eb12827e4e9d275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://www.experteer.it/career/view-jobs/research-scientist-ai-ml-biologics-02108-boston-ma-usa-59712145?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-6717371079587966387?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/research-scientist-ai-ml-biologics-at-real-4474315897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/prudentia-sciences/boston/senior-ai-ml-engineer-61494989/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=635758323098585595&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QsIEFJIC8gTUwgQmlvbG9naWNzIiwiY29tcGFueV9uYW1lIjoiUmVhbCBTdGFmZmluZyIsImh0aWRvY2lkIjoiLWxqZjhsdnZvYjlWX3dvMEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrZFpTV0p3WnpFMFpteFBTMmxRTldOVGJYTnVNRlZOV0V0MGVtOWhlV3BFU0c1bGRsSXphakZhTkZSVk5EWkZTVU4yY214b1dITjFaSGRSZDI4NVJEQlhhbVp5Y0ZscE4ybGZYMnhmVTNob2NWUnJaMUp0ZUMxVFVVeHBTbUpQYlZBeVEzZFNWV2xxWWpWSlFqZHZZaTFHTkdJMWQxOTBNVmhmT1ZSclRHWnlkVEpzY2tJU0YycDNhbXhoY2w5VlJ6aGhjWGM0WTFBd09VUmtObEZyR2lKQlNFNHdSVGRIV1VWa1VGSkpaa1ZCV2tKQlJYZEdlV3RIT1VNMExYUlBVekpSIiwiZmN2IjoiMyIsImZjX2lkIjoiLWxqZjhsdnZvYjlWX3dvMEFBQUFBQT09In0="
+    },
+    {
+      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
+      "company_name": "Snowflake",
+      "location": "Bellevue, WA",
+      "via": "Snowflake Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in Computer Science, Machine Learning, Artificial Intelligence, or a closely related field (completing or recently completed; or equivalent research experience)",
+            "Foundational expertise in reinforcement learning algorithms, including RLHF, DPO, PPO, or multi-agent systems",
+            "Research experience in LLM post-training, fine-tuning, or reasoning model development",
+            "Demonstrated ability to implement and experiment with agentic architectures — including tool-use, planning, and self-correction loops",
+            "Strong mathematical and analytical foundation — comfortable working at the intersection of theory and empirical research",
+            "At least one first-author or co-authored publication or preprint in a relevant AI/ML area",
+            "Hands-on experience building or evaluating coding agents or auto research agents",
+            "Familiarity with recursive self-improvement frameworks or automated AI scientist paradigms",
+            "Experience with large-scale distributed training or efficient training paradigms",
+            "Background in mathematical reasoning, structured decision-making, or program synthesis",
+            "Exposure to domain-specific AI applications in healthcare, finance, or enterprise workflows"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The estimated base salary range for this role is $176,000 - $230,000",
+            "Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan",
+            "The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location",
+            "This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design and develop agentic frameworks powered by recursive self-improvement loops, enabling AI systems that iteratively refine their own capabilities and strategies",
+            "Build and evaluate auto research agents — systems capable of autonomously formulating hypotheses, executing experiments, and synthesizing findings",
+            "Develop coding agents that understand, generate, and debug code across complex, multi-step programming tasks",
+            "Conduct research in reinforcement learning with a focus on RLHF, DPO, and PPO as mechanisms for aligning and improving agentic behaviors",
+            "Contribute to multi-agent systems where specialized agents collaborate, negotiate, and self-organize to solve enterprise-scale problems",
+            "Develop and curate training data pipelines — both synthetic and human-annotated — to support novel agentic and RL research domains",
+            "Publish research findings at top-tier venues such as NeurIPS, ICML, ICLR, and ACL"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=XfdcxMbEOx4WF4FMAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2MMQ6CQBBFY8sNtJrKwiAYExutsCEaYyGFiY1Z1mFZXWYIswqld_AqnsiTiInNK17e_8F7EJySDRxQUDW6hExbJG_Fh7DHFtJGXeDzfEFiei0w7ktLBTcaq17Arl-RJQNT2HIO_xMmSJmNw9Gq9L6WZRyLuMiIV97qSHMVM2HOXXzlXH44S6karJ3yeJ4vZl1Uk5kMM-K2cOqGYAnW6Bw-7hjCMfkCIfe5kbcAAAA&shmds=v1_Ac3VAozsaCGn--v7qTLztfAEDaqa-uUGMJMouZuwSKlOJGM0nQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=XfdcxMbEOx4WF4FMAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5088f28b111366c455a70/images/FCeKoCX-KlmLDuNg4v6Mo_QN3AiCiGjYAcS04rMbN9I.png",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://careers.snowflake.com/us/en/job/SNCOUSCBB9E570D9304DD1A91D14EE0C952429EXTERNALENUS1BAD12DFF443426F9D09E96FC780D698/AI-Research-Scientist-New-Grad-Agents-Reinforcement-Learning",
+      "job_title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
+      "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don't just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset, rapidly testing emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.\n\nWe are hiring an AI Research Scientist (New Grad) for our AI Research team. Our team is pushing the frontier of autonomous, self-improving AI systems — building agents that reason, code, and learn at scale inside the Snowflake Data Cloud. This role sits at the intersection of agentic AI and reinforcement learning, where your research will directly shape how enterprises leverage intelligent automation.\n\n\n\nAS AN AI RESEARCH SCIENTIST AT SNOWFLAKE, YOU WILL:Design and develop agentic frameworks powered by recursive self-improvement loops, enabling AI systems that iteratively refine their own capabilities and strategies\n\nBuild and evaluate auto research agents — systems capable of autonomously formulating hypotheses, executing experiments, and synthesizing findings\n\nDevelop coding agents that understand, generate, and debug code across complex, multi-step programming tasks\n\nConduct research in reinforcement learning with a focus on RLHF, DPO, and PPO as mechanisms for aligning and improving agentic behaviors\n\nContribute to multi-agent systems where specialized agents collaborate, negotiate, and self-organize to solve enterprise-scale problems\n\nDevelop and curate training data pipelines — both synthetic and human-annotated — to support novel agentic and RL research domains\n\nPublish research findings at top-tier venues such as NeurIPS, ICML, ICLR, and ACL\n\n\n\nOUR IDEAL AI RESEARCH SCIENTIST WILL HAVE:PhD in Computer Science, Machine Learning, Artificial Intelligence, or a closely related field (completing or recently completed; or equivalent research experience)\n\nFoundational expertise in reinforcement learning algorithms, including RLHF, DPO, PPO, or multi-agent systems\n\nResearch experience in LLM post-training, fine-tuning, or reasoning model development\n\nDemonstrated ability to implement and experiment with agentic architectures — including tool-use, planning, and self-correction loops\n\nProficiency in Python and at least one deep learning framework (PyTorch or JAX strongly preferred)\n\nStrong mathematical and analytical foundation — comfortable working at the intersection of theory and empirical research\n\nAt least one first-author or co-authored publication or preprint in a relevant AI/ML area\n\n\n\nBONUS POINTS FOR THE FOLLOWING:Hands-on experience building or evaluating coding agents or auto research agents\n\nFamiliarity with recursive self-improvement frameworks or automated AI scientist paradigms\n\nExperience with large-scale distributed training or efficient training paradigms\n\nBackground in mathematical reasoning, structured decision-making, or program synthesis\n\nExposure to domain-specific AI applications in healthcare, finance, or enterprise workflows\n\n\n\nWHY JOIN OUR AI RESEARCH TEAM AT SNOWFLAKE?Snowflake's AI Research team operates at the frontier of what autonomous AI systems can do — not as a research lab disconnected from practice, but as a team where your work ships into a platform used by thousands of enterprises. You'll be working alongside researchers and engineers who are building the next generation of agentic infrastructure, with access to large-scale compute, real-world data challenges, and the shortest possible path from research idea to product impact.\n\nFor a new grad role, this is a rare opportunity to grow your research career while contributing to systems that actually run in production — shaping how AI agents reason, learn, and improve themselves inside the world's leading data cloud.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com\n\nThe following represents the expected range of compensation for this role:\n\n The estimated base salary range for this role is $176,000 - $230,000.Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.\n\nTo comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.",
+      "apply_options": [
+        {
+          "title": "Snowflake Careers",
+          "link": "https://careers.snowflake.com/us/en/job/SNCOUSCBB9E570D9304DD1A91D14EE0C952429EXTERNALENUS1BAD12DFF443426F9D09E96FC780D698/AI-Research-Scientist-New-Grad-Agents-Reinforcement-Learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/ai-research-scientist-new-grad-agents-reinforcement-learning-snowflake-com-8303402?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/ai-research-scientist-new-grad-agents-reinforcement-learning-bellevue-wa--4375f0bb-c31c-41ab-b497-abb5c00783a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/ai-research-scientist-new-grad-agents-and-reinforcement-learning-sdj2fun0k88ypn2d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-new-grad-%E2%80%93-agents-reinforcement-learning-at-snowflake-4432031923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/ai-research-scientist-new-grad-agents-reinforcement-learning-bellevue-wa--4375f0bb-c31c-41ab-b497-abb5c00783a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/ai-research-scientist-new-grad-agents-reinforcement-learning_7ea1a733f1f92059603f114049a0b21ca0867?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ab67a04634ec6aa7c0d2bea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBSZXNlYXJjaCBTY2llbnRpc3QsIE5ldyBHcmFkIOKAkyBBZ2VudHMgXHUwMDI2IFJlaW5mb3JjZW1lbnQgTGVhcm5pbmciLCJjb21wYW55X25hbWUiOiJTbm93Zmxha2UiLCJodGlkb2NpZCI6IlhmZGN4TWJFT3g0V0Y0Rk1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV2haVUdoQlF6aDNTREJrWHpSS1FYTjRZMjF3TlhCcmRGZERhMlZ4Y2t4UloyaEhOV2RFY1dwNFQybDFhelJTYzB0SFlsUlZZeTAzWTFsTmRuSXplbE5STVZkNGNFNVBNMHhaVG5wZlkwVmlOMFYxU2sxRmMxZE9UM0JMTVhvM1dWZzNWVU5xUWt4ME1USktWamwzTWs4eExWUlRVVGhvVUVOQlFrRXllbXh0ZG0xd2RGb1NGMnAzYW14aGNsOVZSemhoY1hjNFkxQXdPVVJrTmxGckdpSkJTRTR3UlRkSVNqbDJNMXBxTlROdlRHcDVRV3hLY2tscFRWZGxZbEJXUmxwMyIsImZjdiI6IjMiLCJmY19pZCI6IlhmZGN4TWJFT3g0V0Y0Rk1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI Machine Learning Research Scientist BDVA 1672",
+      "company_name": "Global InfoTek Inc",
+      "location": "Reston, VA",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "US Citizenship: Required",
+            "Years of Experience: 7+ Years",
+            "Education Level: Master's Degree or Ph.D. in Computer Science, Artificial Intelligence, Data Science, or Machine Learning",
+            "Deep theoretical and practical expertise in Machine Learning, Deep Learning, Transformer architectures, and LLMs",
+            "Proficiency with AI/ML frameworks (PyTorch, TensorFlow, Hugging Face, LangChain, Ray)",
+            "Demonstrated experience designing Agentic AI architectures for autonomous decision-making and multi-agent coordination",
+            "Strong programming fluency in Python, C++, and GPU acceleration libraries (CUDA)",
+            "Experience developing AI models capable of operating on edge hardware or constrained defense networks",
+            "Relevant Certifications",
+            "AWS Certified Machine Learning Specialist, TensorFlow Developer Certificate, or equivalent advanced AI credentials",
+            "Algorithms, Amazon Web Services (AWS), Applications Security, Artificial Intelligence (AI), Best Practices, Business Practices, C++ Programming Language, CUDA (Compute Unified Device Architecture), Computer Programming, Computer Science, Computer Vision, Data Science, Decision Support, Deep Learning, Defense Intelligence, GPU (Graphics Processing Unit), Machine Learning, Modeling Languages, Operations Processes, Predictive Modeling, Prototyping, Python Programming/Scripting Language, Scientific Research, United States Citizen, United States Department of Defense (DoD)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will research, design, and deploy advanced AI algorithms, agentic AI frameworks, Large Language Models (LLMs), and computer vision models tailored for defense applications, predictive analytics, and autonomous decision-support systems"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=9ZAlCZbl0zhnravZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OsQrCMBRFce0nOL1ZtNGCCjpVhFLRRaVrScIzicb3SvOGfpKfqQWXe85whpt9JllV1nDR1gdCOKPuKZCDK6afWg83G5AkJIHDsSlhtdkWsIATG_gHTFAxu4jTvRfp0k6plGLukmgJNrf8VkxoeFBPNmmcNnndYxe1YFusl0PekZtBFdnoCDU9-I6vHy0EGn8I0xya8gu_boMyqwAAAA&shmds=v1_Ac3VAoxR6EW1fY0Q7BorlV_tdqWtfZTvczSYW3benTWv2M5VJA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=9ZAlCZbl0zhnravZAAAAAA%3D%3D",
+      "extensions": [
+        "23 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.monster.com/job-openings/ai-machine-learning-research-scientist-bdva-1672-reston-va--5d32d676-b000-4fd0-aa69-3072d9626c51",
+      "job_title": "AI Machine Learning Research Scientist BDVA 1672",
+      "description": "Clearance Level: Active Top Secret / SCI\n\nUS Citizenship: Required\n\nJob Classification: Regular, Full-Time\n\nLocation: Reston, VA / Arlington, VA / Hybrid Support Options\n\nYears of Experience: 7+ Years\n\nEducation Level: Master's Degree or Ph.D. in Computer Science, Artificial Intelligence, Data Science, or Machine Learning\n\nBriefly Describe the Work\n\nGlobal InfoTek, Inc. is hiring an AI / Machine Learning Research Scientist to lead applied AI research and prototyping initiatives. You will research, design, and deploy advanced AI algorithms, agentic AI frameworks, Large Language Models (LLMs), and computer vision models tailored for defense applications, predictive analytics, and autonomous decision-support systems.\n\nRequired Skills\n\nDeep theoretical and practical expertise in Machine Learning, Deep Learning, Transformer architectures, and LLMs.Proficiency with AI/ML frameworks (PyTorch, TensorFlow, Hugging Face, LangChain, Ray).Demonstrated experience designing Agentic AI architectures for autonomous decision-making and multi-agent coordination.Strong programming fluency in Python, C++, and GPU acceleration libraries (CUDA).Experience developing AI models capable of operating on edge hardware or constrained defense networks.Desired Skills\n\nExperience with AI safety, explainability (XAI), adversarial ML defense, and model robustness testing.Published research or patented innovations in applied AI for defense/intelligence problems.Familiarity with CDAO (Chief Digital and AI Office) tools, Tradewind, or DoD AI governance frameworks.Relevant Certifications\n\nAWS Certified Machine Learning Specialist, TensorFlow Developer Certificate, or equivalent advanced AI credentials\n\nGlobal InfoTek, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or based on disability.\n\nAbout Global InfoTek, Inc.: Global InfoTek Inc. has an award-winning track record of designing, developing, and deploying best-of-breed technologies that address the nation's pressing cyber and advanced technology needs. GITI has rapidly merged pioneering technologies, operational effectiveness, and best business practices for over two decades.\n\n\nSkills:\nAlgorithms, Amazon Web Services (AWS), Applications Security, Artificial Intelligence (AI), Best Practices, Business Practices, C++ Programming Language, CUDA (Compute Unified Device Architecture), Computer Programming, Computer Science, Computer Vision, Data Science, Decision Support, Deep Learning, Defense Intelligence, GPU (Graphics Processing Unit), Machine Learning, Modeling Languages, Operations Processes, Predictive Modeling, Prototyping, Python Programming/Scripting Language, Scientific Research, United States Citizen, United States Department of Defense (DoD)\n\n\nGlobal InfoTek Inc",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/ai-machine-learning-research-scientist-bdva-1672-reston-va--5d32d676-b000-4fd0-aa69-3072d9626c51?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-machine-learning-research-scientist-bdva-global-infotek-reston--lensa-2365_662d45aa817ed65c0fb4ca51a5b1f0c6bc4cf6586e7e04ffa9b104ace02a2aef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-va-reston-ai-machine-learning-research-scientist-bdva-global-infotek?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/reston/virginia/info_technology/5537974321/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBNYWNoaW5lIExlYXJuaW5nIFJlc2VhcmNoIFNjaWVudGlzdCBCRFZBIDE2NzIiLCJjb21wYW55X25hbWUiOiJHbG9iYWwgSW5mb1RlayBJbmMiLCJodGlkb2NpZCI6IjlaQWxDWmJsMHpobnJhdlpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbTVNYVVRMWNFeHJVRWRQU0hGdFZubDBObFJuWmxwVFJHOVZlVlJsWVhCclNHSllWbk5OZEdWbGNGcG5SSE40ZVdaWlFWZEpPVUpUTkRONE1GaE9hMHQxVTI4NFV5MDVhVXRMWTJwSGRrb3lUWHB1VUVONVRrNTZjMmd5TVZSUFREQlFSalo1UlU5blFqVTRVamRhVURkMGVWaHVOazVvYVRaUVJITmhOVGgyT0hWSVVYWVNGMnAzYW14aGNsOVZSemhoY1hjNFkxQXdPVVJrTmxGckdpSkJTRTR3UlRkR1FVZ3lWMVJ3YzBwMWNrTlZOa2R5YTNFNVpUZHNXbWxMUkc5QiIsImZjdiI6IjMiLCJmY19pZCI6IjlaQWxDWmJsMHpobnJhdlpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Research Scientist: AI & Memory-Driven Systems",
+      "company_name": "International Business Machines Corporation",
+      "location": "Cambridge, MA",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will design rigorous experiments, publish results, and work with a team of world-class scientists to push the boundaries of AI"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=sBHIvmzYwK6E1zQlAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2LQQqCUBBAaesRWs2qRaRG0MbamEUYuKkDyPc36A-dkT9T6PU6WRltHg8eL3jPgtMVBY23DdysQ1InmkCawwIK7NiP4dG7FxLcRlHsBEK4cAX_hQnOzHWL812j2ksSxyJtVIsadTay3MVMWPEQP7iSCaU0xmPfGsVys10PUU_1cp-Toqfvw2RaODzFEYpAYWwzGWTse_a_Do4gM13l3b3GFRTpB-R4SkbFAAAA&shmds=v1_Ac3VAoxqrDkUEXyFQc2z7AWzQ9ddcjKV-62-jMrdteGlnkO49g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=sBHIvmzYwK6E1zQlAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAUVBMVEX___97e3ve3t6UlJTOzs7V1dWNjY2Dg4Pr6-s9PT3w8PB2dnbKysrh4eHHx8eXl5e8vLxpaWlCQkL39_ezs7Otra1XV1empqaenp44ODhLS0sXijQ6AAAA3UlEQVRIie2S3Q7CIAyFO2CUn8HYppv6_g9qO_TChLF4pwkfCadAGko5AI1Go_FvGMG4LMIBLKyGTtw7KJN813V-uLAQEQJH-nXi02Fi1FJKrRILR1ezbwhYdo2HiSEqpaIRLMOgVL9wpAwsLDFUXjlZz7Jaqm-dZ4DNziRI81Rtj-gFS5-hbphdeRLVxBFvLBp3qK8JUdLAG45fJ4YOMW4niaVSeeXCSamF5txB2wd4W2tO-TsABgN99TuKBqC7McCmawb4tJzPlqPa6dKxarmyyfMrqiZvNBqNX-UJ2fMKjrSwzHkAAAAASUVORK5CYII.png",
+      "extensions": [
+        "4 days ago",
+        "150K–190K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/research-scientist-ai-memory-driven-systems--cambridge--ef3b15323b5fc5e7c5b270d772a522966",
+      "job_title": "Research Scientist: AI & Memory-Driven Systems",
+      "description": "IBM Research in Cambridge, MA is seeking a Research Scientist specializing in Artificial Intelligence to lead cutting-edge projects in AI and ML, exploring long-horizon memory, language and multimodal models, and contributing to IBM's enterprise solutions and quantum computing explorations.\n\nYou will design rigorous experiments, publish results, and work with a team of world-class scientists to push the boundaries of AI.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/research-scientist-ai-memory-driven-systems--cambridge--ef3b15323b5fc5e7c5b270d772a522966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3Q6IEFJIFx1MDAyNiBNZW1vcnktRHJpdmVuIFN5c3RlbXMiLCJjb21wYW55X25hbWUiOiJJbnRlcm5hdGlvbmFsIEJ1c2luZXNzIE1hY2hpbmVzIENvcnBvcmF0aW9uIiwiaHRpZG9jaWQiOiJzQkhJdm16WXdLNkUxelFsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2xkd1oyUXdlREJyTFZWNk0wZFNPVUZXYTE5VVEybHNWVkEzU2psMFpYVkJMV1YxUmpOb1puRlpiR2hRUkRCU1NEUkVTVEJ1UlhwdFkwcG9NVVpvV0ZFM09WWXRNSG8zVURWT1pGVjRiMGhvYkVaU09YRjFhMWhOTWxCalJISXhTakkyVFV4S1RqaFVOa05oU2xGbGMwZE5SM04wV1ZwaVZrVnNkV2sxVjFSclRXaGZPSFFTRjJwM2FteGhjbDlWUnpoaGNYYzRZMUF3T1VSa05sRnJHaUpCU0U0d1JUZEZWa2xpUzNGSWFXSkNNbmxLWVVWNlFUUlpWM0pwWTBkc04yUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJzQkhJdm16WXdLNkUxelFsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "HPE Labs – AI/ML Research Scientist III",
+      "company_name": "HPE",
+      "location": "Milpitas, CA",
+      "via": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "PhD in Computer Science, Electrical Engineering, or a related field, with a dissertation focus on Machine Learning",
+            "Extensive research experience with Large Language Models and Reinforcement Learning",
+            "Experience developing applications with deep learning frameworks such as PyTorch, with a high level of software proficiency",
+            "Strong programming skills in Python, including proficiency with data structures and algorithms"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Health & Wellbeing",
+            "We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing",
+            "Personal & Professional Development",
+            "We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division",
+            "The listed salary range reflects base salary",
+            "Variable incentives may also be offered"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will work alongside world-class researchers and collaborators, publish at premier venues, and directly influence HPE's research direction and product strategy",
+            "The position demands both scientific rigor and engineering excellence: you will move from theory to prototype at a rapid pace",
+            "Original Research and Technical Innovation",
+            "Conduct original research in areas including LLM reasoning and agents, reinforcement learning, agentic and multi-agent systems, generative diffusion models, inverse models, digital twins, trustworthy AI, tokenomics, optimization, and uncertainty quantification",
+            "Conceive, design, and develop novel technologies addressing some of the most consequential challenges of our time, such as holistic data center co-optimization (computation, energy, water resources, power systems, waste heat recovery), nuclear fusion energy, AI-driven acceleration of AI workloads and quantum computing simulation on HPC systems, and trustworthiness of AI/LLM-based systems",
+            "Develop novel methods for high-assurance multi-agent and multi-objective real-time control of complex cyber-physical systems, LLM-enabled explainable decision-making , agentic frameworks, and diffusion-model and inverse-model approaches for design and optimization",
+            "Publish at leading venues (e.g., NeurIPS, ICML, ICLR, AAAI) and develop patent disclosures that strengthen HPE's intellectual property portfolio",
+            "Applied Impact and Prototyping",
+            "Bridge the gap between research and deployment by building robust software prototypes and engineering solutions that address use cases across domains such as data center and private cloud optimization, clean energy systems, and large-scale scientific computing",
+            "Architect and implement systems involving GPU acceleration, heterogeneous computation, model optimization, and real-time data and streaming workflows to deliver AI capabilities at scale and under operational constraints",
+            "Leadership, Strategy and Collaboration",
+            "Provide technical thought leadership within the core ML research team and across HPE by identifying, evaluating, and shaping emerging technology opportunities in AI and machine learning",
+            "Contribute to HPE's research and product strategy by translating research insights into actionable technical roadmaps and by articulating the significance and potential of new directions to both technical and executive audiences",
+            "Collaborate closely with internal research teams, engineering organizations, and business units across HPE to ensure research outcomes align with strategic priorities and create measurable value",
+            "Engage with external partners, including academic institutions, national laboratories, and industry collaborators, to amplify research impact and maintain visibility within the broader research community",
+            "Mentor junior researchers and contribute to the growth and development of the team's collective expertise"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=ZRFO4Mawegh-mlAoAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBCAYVy7ujndLNqI4KKLRUQjLYg-QEnC0URiLvRu6Og76BP6JFJw-Zdv-IvPpNifr0eojWX4vt5QadXUcENG0zsPdxcwSWABrTUs4UIW_kQJTkRdxNnOi2TeKsUcy47FSHClo6eihJYG9SDLY1r2psccjWC73qyGMqduPh33IUETYg5ieAGH6gdf7eEzlwAAAA&shmds=v1_Ac3VAowcIh1iuwYUKw9b9c5Y2AOQ9UpBb-9Fk0ifvoOXHS4O2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=ZRFO4Mawegh-mlAoAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEX///8AAADU1NTX19cApoBZWVn6+vppaWkAonpBup3Y8uzl+PRawaeNjY0Lr420tLRfX1/d3d1MTEzNzc3j4+N9g4ElJSVGRkbHx8d5eXkvLy+VlZULCwutrq5Jv6UvtpYAm288PDy8vb2fn5/u8vF8mx8GAAAA5ElEQVRIie2T2Q6CMBBFO1PBBRdERJRFRf//G520dii0IeFBn3oeCNzMadJbKkQgEAj8lRhlzh9HifTMpeHIuQXGKkOAjEUAoDSFnrPJLdCI0Uhc2lNFPEu8RIoLBanOIybLJ0T8BiUlNFcAOOWgXnMknkxyBTj4WyXxVu00Ve2IFUAjRLu2uG+MOGAkFup9v7BYTYmNREKWGajdkbhiHiw+u4Omq93jgE6LSc9UOT2N0KKvHM9xZKli+XqLeSIOh0jcMm0yIZ4c0deq5ycvh6LVKbfqvVbfm8NsBjjbDQQCgd/yAS7VDKnY6qSAAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.hpe.com/us/en/job/1209875/HPE-Labs-AI-ML-Research-Scientist-III",
+      "job_title": "HPE Labs – AI/ML Research Scientist III",
+      "description": "HPE Labs – AI/ML Research Scientist III\n\n  \n\n\n\n\n\n\n\nThis role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.\n\n\n\nWho We Are:\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n\n\n\n\nJob Description:\n\n   \n\nHewlett Packard Labs, the central research organization of Hewlett Packard Enterprise, is seeking an AI/ML Research Scientist to join its core Machine Learning research team based in the San Francisco Bay Area. This team has an established track record of foundational contributions spanning reinforcement learning for complex systems, large language models and reasoning, agentic AI, digital twins, trustworthy AI, generative models, optimization, and tokenomics, with award-winning top-tier publications.\n\n\n\nThis role offers a rare opportunity to operate at the intersection of frontier AI research and high-impact, real-world applications such as sustainability of data centers, fusion energy,  wave energy, and optimization of AI inference workloads and quantum computing. You will work alongside world-class researchers and collaborators, publish at premier venues, and directly influence HPE's research direction and product strategy. The position demands both scientific rigor and engineering excellence: you will move from theory to prototype at a rapid pace.\n\n\n\nRole and Responsibilities:\n\n\n\nOriginal Research and Technical Innovation\n\nConduct original research in areas including LLM reasoning and agents, reinforcement learning, agentic and multi-agent systems, generative diffusion models, inverse models, digital twins, trustworthy AI, tokenomics, optimization, and uncertainty quantification.Conceive, design, and develop novel technologies addressing some of the most consequential challenges of our time, such as holistic data center co-optimization (computation, energy, water resources, power systems, waste heat recovery), nuclear fusion energy, AI-driven acceleration of AI workloads and quantum computing simulation on HPC systems, and trustworthiness of AI/LLM-based systems.Develop novel methods for high-assurance multi-agent and multi-objective real-time control of complex cyber-physical systems, LLM-enabled explainable decision-making , agentic frameworks, and diffusion-model and inverse-model approaches for design and optimization.Publish at leading venues (e.g., NeurIPS, ICML, ICLR, AAAI) and develop patent disclosures that strengthen HPE's intellectual property portfolio.\n\nApplied Impact and Prototyping\n\nBridge the gap between research and deployment by building robust software prototypes and engineering solutions that address use cases across domains such as data center and private cloud optimization, clean energy systems, and large-scale scientific computing.Architect and implement systems involving GPU acceleration, heterogeneous computation, model optimization, and real-time data and streaming workflows to deliver AI capabilities at scale and under operational constraints.Leadership, Strategy and Collaboration\n\nProvide technical thought leadership within the core ML research team and across HPE by identifying, evaluating, and shaping emerging technology opportunities in AI and machine learning.Contribute to HPE's research and product strategy by translating research insights into actionable technical roadmaps and by articulating the significance and potential of new directions to both technical and executive audiences.Collaborate closely with internal research teams, engineering organizations, and business units across HPE to ensure research outcomes align with strategic priorities and create measurable value.Engage with external partners, including academic institutions, national laboratories, and industry collaborators, to amplify research impact and maintain visibility within the broader research community.Mentor junior researchers and contribute to the growth and development of the team's collective expertise.\n\nQualifications and Education Requirements\n\nPhD in Computer Science, Electrical Engineering, or a related field, with a dissertation focus on Machine Learning.Extensive research experience with Large Language Models and Reinforcement Learning.Experience developing applications with deep learning frameworks such as PyTorch, with a high level of software proficiency.Strong programming skills in Python, including proficiency with data structures and algorithms.\n\nPreferred Skills\n\n1-3 years of post-PhD research or industry experience preferred, but not required.Experience in research and development involving LLMs, and agentic AI platforms.Experience in research and development involving Reinforcement Learning and/or Digital Twins.Deep knowledge of different deep learning model architectures, uncertainty quantification, optimization, and control.Experience with generative models, including diffusion models and inverse models.Experience with ML model optimization, GPU acceleration, heterogeneous computation, system software, and performance optimization.\n\n\n\n\n\n\n\nWhat We Can Offer You:\n\nHealth & Wellbeing\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n\n\nPersonal & Professional Development\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n\n\nUnconditional Inclusion\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n\n\n\n\nLet's Stay Connected:\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. \n\n\n\n\n\n#unitedstates\n\n\n\nJob:\n\nEngineeringJob Level:\n\nTCP_03    \n\nThe expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.\n\n – United States of America: Annual Salary USD 136,500 - 276,500 in California\nThe listed salary range reflects base salary. Variable incentives may also be offered.\n\n\n\nInformation about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html\n\n\n\n\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\nHewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.\n\n   \n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n   \n\nRecruitment Fraud Alert\n\n\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\n\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
+      "apply_options": [
+        {
+          "title": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+          "link": "https://careers.hpe.com/us/en/job/1209875/HPE-Labs-AI-ML-Research-Scientist-III?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=25d8ff2aa6f0e745&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/hpe-labs-ai-ml-research-scientist-iii-milpitas-ca--b3de1a92-6897-4ed8-aa2a-690333d52cb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/hpe-labs-ai-ml-research-scientist-iii-hewlett-packard-enterprise-hpe-JV_IC1147428_KO0,37_KE38,68.htm?jl=1010195851659&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/ai-ml-research-scientist-iii_7ea1afbfcd47f2697cd66bc3b5ad33177155d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/EAgQCIC_yAGeZl1R__2BXerrth7KqxvOQJfLk5PnPtFKMHweFHpvRw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/hpe-labs-ai-ml-research-scientist-iii--milpitas--e74dc92134d83e2cad28b9e09fc94e5a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/hpe-labs-%E2%80%93-ai-ml-research-scientist-iii-at-hewlett-packard-enterprise-4438890407?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIUEUgTGFicyDigJMgQUkvTUwgUmVzZWFyY2ggU2NpZW50aXN0IElJSSIsImNvbXBhbnlfbmFtZSI6IkhQRSIsImh0aWRvY2lkIjoiWlJGTzRNYXdlZ2gtbWxBb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlWZHFhbnBoWWxsTWNFOHpaR2syVFU5QmRtWnFkRE56TTFnellqSkJURzVLVmpCRGVqWXhOMWRrT1RBMVVrRlZRa3RyUjFobGVtWkdZbFUzYUdONVkyeHZha1kzVGsxUWMyazVRamMzVkd4UmJFTk1TVmQxWWtSU1pUSkZYMnQwU1daU1pGUXRRVGhIVkVjMWQyMWpZek5oYTFwcmJubGFaMjlxVFU1ZlFXVXdSRTFuTUVjU0YycDNhbXhoY2w5VlJ6aGhjWGM0WTFBd09VUmtObEZyR2lKQlNFNHdSVGRGUjNWR2IxVmhTbkl0ZVc1eGMySmphbVprY3kxMlYwaERiR1ZSIiwiZmN2IjoiMyIsImZjX2lkIjoiWlJGTzRNYXdlZ2gtbWxBb0FBQUFBQT09In0="
+    },
+    {
+      "title": "Research Scientist, AI",
+      "company_name": "Substrate",
+      "location": "San Francisco, CA",
+      "via": "Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years professional or academic research experience in physical sciences, engineering, or related field",
+            "2-3+ years hands-on experience applying machine learning to scientific or technical problems",
+            "Strong programming skills in Python and ML frameworks (PyTorch, TensorFlow, JAX, or similar)",
+            "Deep understanding of scientific computing, numerical methods, and computational modeling",
+            "Proven ability to translate scientific problems into machine learning approaches",
+            "Experience building tools, infrastructure, or capabilities used by technical teams",
+            "Applicants must be legally authorized to work in the United States"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$150,000-$275,000 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Research Scientist working with AI, you will accelerate and augment R&D workflows by applying machine learning to scientific simulations and modeling while simultaneously building internal AI capabilities across the organization",
+            "Integrate machine learning techniques to accelerate scientific simulations, modeling, and computational workflows",
+            "Develop AI-augmented tools for materials science, device physics, or accelerator physics applications",
+            "Build internal AI infrastructure and capabilities to enable research teams across the organization",
+            "Train and mentor scientists and engineers on integrating AI/ML into their research workflows",
+            "Implement surrogate models, physics-informed neural networks, or generative approaches for scientific problems",
+            "Develop data pipelines and frameworks for scientific machine learning across distributed teams",
+            "Collaborate with computational physicists and experimentalists to identify high-impact AI applications",
+            "Set AI best practices and establish standards for ML-augmented R&D"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=yWwHI51MCL8MClLcAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3JsQrCMBCAYVz7CA5ys7SJCC46FUHR0T5AScKRpsS7kDuhD-FDq-DyD9_fvFdN90BBV8MEQ0hImkRb6G_QwZ09_BcTXJljxvVpUi1ytFYkmyjqNAUT-GmZ0PNiZ_byyyiTq1iyUxz3h91iCsXtZnh50fo1SASDI7hURyFJ4BbO_Qd-PqROjwAAAA&shmds=v1_Ac3VAoyYeZBlty2c213A9Qcs9s2G-CLZ51bv2H-5KWJScggY8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=yWwHI51MCL8MClLcAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://jobs.ashbyhq.com/substrate/6e8771ea-e475-493c-921c-1448520bddd5",
+      "job_title": "Research Scientist, AI",
+      "description": "Research Scientist, AISubstrate is addressing one of the most important technological problems facing the United States. At the intersection of advanced manufacturing and cutting-edge physics, we are developing technologies that will reshape the semiconductor industry and strengthen America's technological leadership. We are a team of world-class scientists, engineers, and technical experts building technology for the United States.\n\n\n\nSummaryAs a Research Scientist working with AI, you will accelerate and augment R&D workflows by applying machine learning to scientific simulations and modeling while simultaneously building internal AI capabilities across the organization. This role sits at the intersection of cutting-edge physics and artificial intelligence, and you'll work hands-on to develop AI-augmented tools that enable breakthrough research, and build the infrastructure and expertise that empowers our technical teams to leverage AI in their own work. Whether you are a physicist who has embraced machine learning or an AI expert with deep scientific domain knowledge, you will play a pivotal role in defining how we utilize AI to accelerate our own internal R&D.\n\n\n\nResponsibilitiesIntegrate machine learning techniques to accelerate scientific simulations, modeling, and computational workflows\n\nDevelop AI-augmented tools for materials science, device physics, or accelerator physics applications\n\nBuild internal AI infrastructure and capabilities to enable research teams across the organization\n\nTrain and mentor scientists and engineers on integrating AI/ML into their research workflows\n\nImplement surrogate models, physics-informed neural networks, or generative approaches for scientific problems\n\nDevelop data pipelines and frameworks for scientific machine learning across distributed teams\n\nCollaborate with computational physicists and experimentalists to identify high-impact AI applications\n\nSet AI best practices and establish standards for ML-augmented R&D\n\n\n\nRequired Qualifications5+ years professional or academic research experience in physical sciences, engineering, or related field\n\n2-3+ years hands-on experience applying machine learning to scientific or technical problems\n\nStrong programming skills in Python and ML frameworks (PyTorch, TensorFlow, JAX, or similar)\n\nDeep understanding of scientific computing, numerical methods, and computational modeling\n\nProven ability to translate scientific problems into machine learning approaches\n\nExperience building tools, infrastructure, or capabilities used by technical teams\n\n\n\nPreferred QualificationsPhD in Physics, Materials Science, Computer Science, Applied Mathematics, or related field\n\nPublications applying ML to scientific computing, simulation, or experimental data analysis\n\nExperience with physics-informed machine learning or scientific foundation models\n\nBackground in accelerator physics, semiconductor devices, materials modeling, or related domains\n\nTrack record of enabling technical teams through tool development or mentorship\n\n\n\nSalary Range\n\n$150,000-$275,000 USD\n\n\n\nSubstrate is an equal opportunity employer. It provides equal employment opportunity to all applicants without regard to race, color, religion, national origin, disability, medical condition, marital status, sex, gender, age, military or veteran status, or any other characteristic protected by applicable federal, state, or local laws.\n\nSubstrate will provide reasonable accommodations to applicants with disabilities. If you need an accommodation during the hiring process, please let your recruiter know.\n\nApplicants must be legally authorized to work in the United States. This position is not eligible for visa sponsorship.",
+      "apply_options": [
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/substrate/6e8771ea-e475-493c-921c-1448520bddd5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/research-scientist-ai-san-francisco-ca--9d2240f1-55d1-4571-9fe0-cce600296b9b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Substrate/Job/Research-Scientist,-AI/-in-San-Francisco,CA?jid=59104fcbf64aeaf9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/research-scientist-ai-substrate-10446328?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Redpoint - Redpoint Ventures",
+          "link": "https://careers.redpoint.com/companies/descript/jobs/91110607-applied-research-scientist-ai-research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/applied-research-scientist-ai-research_7ea1a5e035202d26bf2ae0e24c95e2ad15edd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/research-scientist-ai-san-francisco-ca--9d2240f1-55d1-4571-9fe0-cce600296b9b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/applied-research-scientist-ai-research-san-francisco-descript-14a5861dd325c1d07b6f9b26b5ec9adb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QsIEFJIiwiY29tcGFueV9uYW1lIjoiU3Vic3RyYXRlIiwiaHRpZG9jaWQiOiJ5V3dISTUxTUNMOE1DbExjQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW5WcFRHWnpNVWcyTlRoU1RsVjNUVkpJYldkVWJVSTFUak5sWmtaRVkwdFJPR1prUWpkRlVtZDBXV0phYW1Od1QwNW9PVmRmUWxSMVoyWXdTVXBGVFZCRFNYVnRiRFZCU2xkdU9Vc3pVRGQ1U2pkMldWSjJZMVpxTUd4UWVrNHlXVFpTWmpWSVQxTkNXWEEzVmxaWWJWSmxja05KVTJjeGF6RXdURlZ2Vm1OR2VGUnNZbklTRjJwM2FteGhjbDlWUnpoaGNYYzRZMUF3T1VSa05sRnJHaUpCU0U0d1JUZEhXUzF0ZVVkTGEyVklObE00TVdKcVNubzJUbVJpTTNKVFVtaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ5V3dISTUxTUNMOE1DbExjQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Research Scientist, Systems ML - HW/SW Co-Design",
+      "company_name": "Meta",
+      "location": "Menlo Park, CA",
+      "via": "Meta Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The candidate will have industry experience driving next-generation AI accelerator architecture through hardware/software co-design"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a member of the Meta Training and Inference Accelerator (MTIA) Co-Design team, you will leverage this expertise to influence accelerator development from workload characterization and performance modeling through micro-architecture definition to pre-silicon validation",
+            "Your work will directly shape MTIA's hardware roadmap by translating insights from production ML workloads (large language models, recommendation systems, generative AI) into architectural decisions that improve performance, power efficiency, and cost at hyperscale",
+            "You will collaborate closely with silicon design, ML infrastructure, and product teams to ensure that the hardware we build is purpose-fit for the AI workloads of tomorrow"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=0_AImZcJjdH4Hz2lAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LMQrCQBBAUWxzAAurqSXJimCjlUSIiAExRcqwWYbN6mYmZKaIl_GsKtj84sFP3oukvKOgnVwPtQtIGkRTqF-iOAhUV8jg3Ji6gYKzE0rw9JULd_CfmKBk9hFXh151lL0xIjH3olaDyx0Phgk7ns2DO_mlld5OOEar2G53mzkfya-XFaqFQFAhRYabnZ4pFMcPPH0SrKEAAAA&shmds=v1_Ac3VAow-pTVp0yLd1aqt0yzZaqc8i8YbzOYNTQ-Q2SFM1NmTZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=0_AImZcJjdH4Hz2lAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5088f28b111366c455a70/images/KEsY1sY0eq8i0GqOfeKNvO5w8IdfqelzJw43xSLPVJw.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.metacareers.com/profile/job_details/2561197087738216/",
+      "job_title": "Research Scientist, Systems ML - HW/SW Co-Design",
+      "description": "Meta is seeking a Research Scientist for the AI & Systems Co-Design team. The candidate will have industry experience driving next-generation AI accelerator architecture through hardware/software co-design. As a member of the Meta Training and Inference Accelerator (MTIA) Co-Design team, you will leverage this expertise to influence accelerator development from workload characterization and performance modeling through micro-architecture definition to pre-silicon validation.\n\nYour work will directly shape MTIA's hardware roadmap by translating insights from production ML workloads (large language models, recommendation systems, generative AI) into architectural decisions that improve performance, power efficiency, and cost at hyperscale. You will collaborate closely with silicon design, ML infrastructure, and product teams to ensure that the hardware we build is purpose-fit for the AI workloads of tomorrow.",
+      "apply_options": [
+        {
+          "title": "Meta Careers",
+          "link": "https://www.metacareers.com/profile/job_details/2561197087738216/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/meta/Job/Research-Scientist,-Systems-ML-HW-SW-Co-Design/-in-Menlo-Park,CA?jid=77a8fae03ead1d27&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=a05436d8eba7dd7b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/research-scientist-systems-ml-hw-sw-co-design-menlo-park-ca--175f16fb-f1bd-4737-8c28-b4ef99c28b52?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/research-scientist-systems-ml-hw-sw-co-design-meta-menlo-park-ca_88784107?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/research-scientist-systems-ml-hw-sw-co-design-at-meta-4463092144?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/research-scientist-systems-ml-hw-sw-co-design_7ea1a5c1e528215f0ac5cd930d2a08c1a37d5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010257667303&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QsIFN5c3RlbXMgTUwgLSBIVy9TVyBDby1EZXNpZ24iLCJjb21wYW55X25hbWUiOiJNZXRhIiwiaHRpZG9jaWQiOiIwX0FJbVpjSmpkSDRIejJsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVc5ZlJHWlZYMk5XU3kxUFRsOWFjRmcyTlc1VGVFdENjbEk0UlZSWGJHSkpZVVZVTVdGSU5VaG9kRkV6ZFd4Rk1rTlFaemhQYTNkNFpGbDNVRzVxYURCU1YwaHVjakZpVVU1VlkxSnVUMDU0V21wZlVGUlZZWFZyYmxoQk1tTkdOR1IwYjNOVWJITk5NMEk1TlZSVFZqRnFXbUl4VTJFeE1FZEtkRmxJZUdrMlVsQk5Sak1TRjJwM2FteGhjbDlWUnpoaGNYYzRZMUF3T1VSa05sRnJHaUpCU0U0d1JUZEhhM1ZMUVcxRUxWTXdhV0l3YjBwU1IybG5abkkwYUV0UmJYWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiIwX0FJbVpjSmpkSDRIejJsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI and ML Research Scientist",
+      "company_name": "Booz Allen Hamilton",
+      "location": "Adelphi, MD",
+      "via": "CareerBuilder",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We’re looking for someone like you to steer complex data exploration and analytics projects through your experience with programming languages such as Python and Embedded C, operationalizing models, containerization, data architecture, and cloud computing platforms for Army applications",
+            "Experience driving end-to-end computer vision research and development, moving prototypes toward operational applications",
+            "Experience partnering across engineering and research groups to mature algorithms, define interfaces, and harden training or inference pipelines for deployment",
+            "Experience formulating agentic AI as new fundamental research, including surveying, scoping the problem space, and defining research questions with evaluation criteria",
+            "Knowledge of hierarchical classification, 2D-3D representation, deep learning, Agentic AI, multi-view geometry, and synthetic data generation",
+            "Ability to obtain a Secret clearance",
+            "Doctorate degree in Electrical Engineering",
+            "Experience establishing evaluation protocols such as benchmarks, ablations, and error analyses",
+            "Knowledge of domain adaptation, multi-modal models, and robust pose estimation",
+            "Secret clearance",
+            "You are expected to be on camera during interviews and assessments",
+            "Algorithms, Analysis Skills, Artificial Intelligence (AI), Benchmarking, Biometrics, C Programming Language, Cloud Architecture, Communication Skills, Compensation and Benefits, Computer Systems, Computer Vision, Consulting, Customer Support/Service, Data Analysis, Data Science, Data Sets, Deep Learning, Electrical Engineering, Embedded Systems, Geometry, Industry/Trade Press, Internet of Things, Leadership, Machine Learning, Online Courses, Patents, Predictive Modeling, Programming Languages, Prototyping, Python Programming/Scripting Language, Research & Development (R&D), Scientific Research, Secret Clearance, Surveying, Work From Home"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+            "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+            "Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs",
+            "Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits",
+            "We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page",
+            "Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements",
+            "The projected compensation range for this position is $69,400.00 to $158,000.00 (annualized USD)",
+            "The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees",
+            "Stock Options, Employee Referral Program, Flexible Spending Accounts, Employee Events, Retirement / Pension Plans, Tuition Reimbursement, Life Insurance, Merchandise Discounts, Military Leave, On Site Cafeteria, Parking, Prescription Drug Coverage, Professional Development, 401K, Childcare"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your AI and machine learning knowledge and consulting expertise, coupled with an original approach to your work, will help clients and stakeholders make sense of their data and encourage actionable results",
+            "As an advanced data scientist or researcher on our Maritime and Ground Market team, you’ll learn and apply innovative AI and machine learning methodologies to make a real-world impact on how these projects “change the world”, including making time-sensitive policy decisions",
+            "You’ll grow your skills in data science, AI, machine learning, operationalization, and predictive modeling, and shape the future of analytics through a variety of means like patents, peer-reviewed papers, major conference presentations, and code submissions",
+            "We’ll keep you sharp and moving forward in your career, with access to online courses and the latest tools and methods, and opportunities to develop industry-facing publications and presentations",
+            "You’ll collaborate with a team that serves critical missions from end-to-end",
+            "To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings",
+            "Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility",
+            "Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role",
+            "You may also be required to work from or visit a customer facility",
+            "Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Research+Scientist+(AI-ML)&htidocid=FcsEamn0S_fPFLQ9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MPQrCQBBAYWxzBKvBUjQrio1WK4I_mEYPEDabIbuymVkyUwQP4nlVsHnFV7ziPSk29gKOWqhucEdBN_gADx-RNIrCEq7cwJ-Z4MTcJZzug2qWnTEiqexEnUZfeu4NEzY8mic38kstwQ2Yk1Os19vVWGbq5rMD8wtsSkhwdn1M-h1HAttiyiEuoDp-AE59wxSZAAAA&shmds=v1_Ac3VAozxNhTj7QdmpNxIixxsh_OaOLr4CTvZae4ixGhGznJdaw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Research+Scientist+(AI-ML)&htidocid=FcsEamn0S_fPFLQ9AAAAAA%3D%3D",
+      "extensions": [
+        "69.4K–158K a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.careerbuilder.com/job-details/ai-and-ml-research-scientist-adelphi-md--26cf2c87-63a0-40b6-8a86-b80c4bc770ed",
+      "job_title": "AI and ML Research Scientist",
+      "description": "AI and ML Research ScientistThe Opportunity:\n\nAs an analytics professional, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence (AI). If you care about moving a mission forward as much as advancing the field of data science, this is the opportunity for you. Your AI and machine learning knowledge and consulting expertise, coupled with an original approach to your work, will help clients and stakeholders make sense of their data and encourage actionable results. We’re looking for someone like you to steer complex data exploration and analytics projects through your experience with programming languages such as Python and Embedded C, operationalizing models, containerization, data architecture, and cloud computing platforms for Army applications.\n\nAs an advanced data scientist or researcher on our Maritime and Ground Market team, you’ll learn and apply innovative AI and machine learning methodologies to make a real-world impact on how these projects “change the world”, including making time-sensitive policy decisions. You’ll grow your skills in data science, AI, machine learning, operationalization, and predictive modeling, and shape the future of analytics through a variety of means like patents, peer-reviewed papers, major conference presentations, and code submissions. \n\nWe’ll keep you sharp and moving forward in your career, with access to online courses and the latest tools and methods, and opportunities to develop industry-facing publications and presentations. You’ll collaborate with a team that serves critical missions from end-to-end.\n\nJoin us. The world can’t wait.\n\nYou Have:\n\nExperience driving end-to-end computer vision research and development, moving prototypes toward operational applicationsExperience partnering across engineering and research groups to mature algorithms, define interfaces, and harden training or inference pipelines for deploymentExperience formulating agentic AI as new fundamental research, including surveying, scoping the problem space, and defining research questions with evaluation criteriaKnowledge of hierarchical classification, 2D-3D representation, deep learning, Agentic AI, multi-view geometry, and synthetic data generationAbility to obtain a Secret clearanceDoctorate degree in Electrical EngineeringNice If You Have:\n\nExperience establishing evaluation protocols such as benchmarks, ablations, and error analysesKnowledge of domain adaptation, multi-modal models, and robust pose estimationSecret clearance  Clearance: \n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $69,400.00 to $158,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.Identity Statement\n\nAs part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.\n\nCandidate AI Usage Policy\n\nAI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided. \n\nWork ModelOur people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.\n\nRemote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.\n\nHybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.\n\nOnsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.\n\n\nBenefits:\nStock Options, Employee Referral Program, Flexible Spending Accounts, Employee Events, Retirement / Pension Plans, Tuition Reimbursement, Life Insurance, Merchandise Discounts, Military Leave, On Site Cafeteria, Parking, Prescription Drug Coverage, Professional Development, 401K, Childcare\n\n\nSkills:\nAlgorithms, Analysis Skills, Artificial Intelligence (AI), Benchmarking, Biometrics, C Programming Language, Cloud Architecture, Communication Skills, Compensation and Benefits, Computer Systems, Computer Vision, Consulting, Customer Support/Service, Data Analysis, Data Science, Data Sets, Deep Learning, Electrical Engineering, Embedded Systems, Geometry, Industry/Trade Press, Internet of Things, Leadership, Machine Learning, Online Courses, Patents, Predictive Modeling, Programming Languages, Prototyping, Python Programming/Scripting Language, Research & Development (R&D), Scientific Research, Secret Clearance, Surveying, Work From Home\n\n\nBooz Allen Hamilton\n\n\nBooz Allen is an advanced technology company. We build commercial-grade products and solutions for America’s most critical defense, civil, and national security priorities.\n\n\n\nCompany Size:\n10,000 employees or more\n\n\nIndustry:\nComputer/IT Services\n\n\n1920\n\n\nWebsite:\nhttps://careers.boozallen.com/?source=JB-3666&utm_medium=Web&utm_source=Monster&utm_campaign=Online%20Profile",
+      "apply_options": [
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/ai-and-ml-research-scientist-adelphi-md--26cf2c87-63a0-40b6-8a86-b80c4bc770ed?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Build Submarines",
+          "link": "https://jobs.buildsubmarines.com/jobs/632668916-ai-and-ml-research-scientist-at-booz-allen-hamilton-inc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-and-ml-research-scientist-booz-allen-hamilton-adelphi--fj-2329481171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Euspert",
+          "link": "https://us.euspert.com/job-offers/prince-georges/ai-and-ml-research-scientist-81222478.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4111-bbe45eec9e874fd3b088d47f27c70e0a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBhbmQgTUwgUmVzZWFyY2ggU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiQm9veiBBbGxlbiBIYW1pbHRvbiIsImh0aWRvY2lkIjoiRmNzRWFtbjBTX2ZQRkxROUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXdEpaVnB5T0d3d2FDMTFieTB6UzJGU0xUWmlZVjl4UlRaRVdXVmxkWEJsU3pOdlZsZzJjbGh3TURscmNGUnlhV0ZGZVhwS2FYSm9abVpxYjNCUVZrMDNOblEzYld4aU5XWnZSSHB4WjAxRVh6WlljbXQ2VWxoaWQydEJNemhtWVhGM2RYWk9NMFJqUmtrelZrWTVWa2R5T1d0b1FUaDZiVzVYWlU5aFptcEJNbmg0ZDJjU0YycDNhbXhoY2w5VlJ6aGhjWGM0WTFBd09VUmtObEZyR2lKQlNFNHdSVGRITlRKU1kwRTFUM1ZQVTFSRFZGTlhXbFZ3YTJVeFZWZDBhbWRSIiwiZmN2IjoiMyIsImZjX2lkIjoiRmNzRWFtbjBTX2ZQRkxROUFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXa1pTVFZacWQwa3pSMDU0TWxObGJsQjJTRmhPVGpCUWJWTjJibk5UZGtaSFVscFVlRkpyYVdWdWEzTndZbGREWlZsa1EwRjBaa1YwYW5wM1dEaDNia2xhTkdvdFJuaENUWE5STjNBM2NXeGZPWGxWV21sRVZHWlpkR3B1U1dwcllrWnRWMkpHV210V1ptYzVkRWRaTVV3NVJrNTFVbWszTmxZeVQwOVRhMEpEZG1ocFMweHdlbWcxVVVWRFRVaDFjemhpV1cxc1RGOTBjRzVCVm5wbWRrZ3RibWh6YkZrME5sRmZVbmx2Y2tzdFVtNXRkWHA1TlVvM2VrUmhVVzlyV2w5WlYyRldVRjh6V1Y5cFMyeEJSRVJzZWsxTldFUkdXQzFoUTFFMFZXaFlhRWh6VlV4SE1uRkhhM0JxTlc1WWNEUjRPVXRpWlZkNWFtMHhVbVpzZWw5bWVtcHlRVkZVYVZZelgzSllPR0UxUm5veVREZHpNV1YwV25kVFExQXpVbFEyUjNObGVtdFFOM1pzVEVKbFRGSTNkRFo0WmxaUGRXODVjall5WDFndFdXb3diMjFUVWs1Mk4zRk5lVGh0V2xaUFQybGxUM0pzVWtONk0wZGhNelp4VldONmIxUklWWEZXVDNWc1RVSlRVWFJSWWxkNFptWnlTV3RLTW5jeE9VazVNR3hGVmxacFgzRlFXa1ozTTJocVFTMTVUbTV1TlhkU1ZrcHNjREJSTTNjd2JIcDFXWGhKZEhObWVsOXlVVEZyV1VORVkzQnpXRTFUZURSNWFVc3dSMmxEUm1aNWQxQjRWVlpoY25sRFpHdG5jRUV4U1d0Q1dXVXRTbnBrWjBSeFZrMUJYMWs1ZUd0eFlqQkpiMEZEUVZSSWRtZ3dPREl6Wm5WS1dXWkNkRGRSTVVwWmJFVjZORjlrTkhodllXTlVTV1ExUVU1UWFsSTRlazVHY0ZSNVpuZDVTMUZzWTNOTlVVNUxkRGhqRWhkcWQycHNZWEpmVlVjNFlYRjNPR05RTURsRVpEWlJheG9pUVVoT01FVTNSMlpUYWpSNWJUTkNVRXBRYTJGTFdUTXlkRkJHZDBkTmJHcEZadyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXa1pTVFZacWQwa3pSMDU0TWxObGJsQjJTRmhPVGpCUWJWTjJibk5UZGtaSFVscFVlRkpyYVdWdWEzTndZbGREWlZsa1EwRjBaa1YwYW5wM1dEaDNia2xhTkdvdFJuaENUWE5STjNBM2NXeGZPWGxWV21sRVZHWlpkR3B1U1dwcllrWnRWMkpHV210V1ptYzVkRWRaTVV3NVJrNTFVbWszTmxZeVQwOVRhMEpEZG1ocFMweHdlbWcxVVVWRFRVaDFjemhpV1cxc1RGOTBjRzVCVm5wbWRrZ3RibWh6YkZrME5sRmZVbmx2Y2tzdFVtNXRkWHA1TlVvM2VrUmhVVzlyV2w5WlYyRldVRjh6V1Y5cFMyeEJSRVJzZWsxTldFUkdXQzFoUTFFMFZXaFlhRWh6VlV4SE1uRkhhM0JxTlc1WWNEUjRPVXRpWlZkNWFtMHhVbVpzZWw5bWVtcHlRVkZVYVZZelgzSllPR0UxUm5veVREZHpNV1YwV25kVFExQXpVbFEyUjNObGVtdFFOM1pzVEVKbFRGSTNkRFo0WmxaUGRXODVjall5WDFndFdXb3diMjFUVWs1Mk4zRk5lVGh0V2xaUFQybGxUM0pzVWtONk0wZGhNelp4VldONmIxUklWWEZXVDNWc1RVSlRVWFJSWWxkNFptWnlTV3RLTW5jeE9VazVNR3hGVmxacFgzRlFXa1ozTTJocVFTMTVUbTV1TlhkU1ZrcHNjREJSTTNjd2JIcDFXWGhKZEhObWVsOXlVVEZyV1VORVkzQnpXRTFUZURSNWFVc3dSMmxEUm1aNWQxQjRWVlpoY25sRFpHdG5jRUV4U1d0Q1dXVXRTbnBrWjBSeFZrMUJYMWs1ZUd0eFlqQkpiMEZEUVZSSWRtZ3dPREl6Wm5WS1dXWkNkRGRSTVVwWmJFVjZORjlrTkhodllXTlVTV1ExUVU1UWFsSTRlazVHY0ZSNVpuZDVTMUZzWTNOTlVVNUxkRGhqRWhkcWQycHNZWEpmVlVjNFlYRjNPR05RTURsRVpEWlJheG9pUVVoT01FVTNSMlpUYWpSNWJUTkNVRXBRYTJGTFdUTXlkRkJHZDBkTmJHcEZadyIsImZjdiI6IjMifQ%3D%3D&q=Research+Scientist+%28AI-ML%29&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Research Scientist (AI-ML)",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:13:51.258819+00:00",
+    "request_fingerprint": "83641b596bf887952dc0a1630d94e0dea1534d52215e29be70971eac7058092d",
+    "job_count": 10
+  }
+}

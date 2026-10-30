@@ -1,0 +1,778 @@
+{
+  "search_metadata": {
+    "id": "6ae508c2f29655a7b2568f90",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s5FpxP3VmCoxSnX-Qwwe543lq40vjRB8RYkVzUgMg3k/6ae508c2f29655a7b2568f90.json",
+    "markdown_endpoint": "https://serpapi.com/searches/s5FpxP3VmCoxSnX-Qwwe543lq40vjRB8RYkVzUgMg3k/6ae508c2f29655a7b2568f90.md",
+    "created_at": "2026-10-30 21:14:42 UTC",
+    "processed_at": "2026-10-30 21:14:42 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Deep+Learning+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/s5FpxP3VmCoxSnX-Qwwe543lq40vjRB8RYkVzUgMg3k/6ae508c2f29655a7b2568f90.html",
+    "prettify_html_file": "https://serpapi.com/searches/s5FpxP3VmCoxSnX-Qwwe543lq40vjRB8RYkVzUgMg3k/6ae508c2f29655a7b2568f90.prettify",
+    "total_time_taken": 0.91
+  },
+  "search_parameters": {
+    "q": "Deep Learning Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxXbGxYUm1OT1gyZ3pOMlJtTjNaRFRHbE1ZVWQwV0RWd1JUWlBZWGd0YTNsSFJIVnJVVkJFZUdsWU0wTTVSSGx5TjJwc05tUldNM1ZFTnpWRmVHWklUSFpZY1V0UFRqRkRZbUp6TUZsS1JqbEdha2swVG5KNVIwb3pYMFZJUVdOemEzTTVjV2x6V1ZsYVdrUXRNa3AxV1d0Q09FMWlibGMwZVdnNFVYVm1ZekZwTlRjMk1rNUpRakpaWTE5TldUbFpNM1JtWkU4eWNreG5UbnBsWVVoYU1saG5kSEF4WkZOZmQyaENZbVV4UXpkcWQzVndNRmxzTjJWbWVWQTNVWHBrY2psVloydFZhVlpoVTBkc01HSTFVazFrU1VZd1FYUnljRTlqTjJkWk5WQXlXbVZHVVVwcU5YZzNkbWMxT1RKaldHdzRTVTUwVUhaeE9WODJhM0E0VERoYVUxSmFVMlJzU1dsdmFWZHZObEoxWDNoeWNETm5TRkJSWDNSSU5HeFhPVU0wT0ROS01XbFNhMnN4YUMxWFJEUk1XbUZNVVVWM1YydG9UamwyYkV4RFlVbHBlbFV0Y0RSclVrZENlWEZLT0hWalREY3lVVVZGWTJOd09VNTJWeTEyZDJabFR6ZHRRMVpPY1djd2FIcHpFaGR6VVdwc1lYVTJPRTA0YlZBM1RsbFFkSEZVV2kxQk1Cb2lRVWhPTUVVM1IwUjJTVjk1ZW01WlNFZFhOamRzWkhWeE16Vm5TM3AxZVdSTWR3IiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Algorithm Engineer, Deep Learning & Vision (New Grad)",
+      "company_name": "Bot Auto",
+      "location": "San Francisco, CA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Education: A Bachelor's, Master's, or Ph.D",
+            "(including upcoming graduates) in Computer Science, Robotics, Electrical Engineering, Applied Mathematics, Physics, or a related quantitative field",
+            "Coursework, research, personal projects, open-source work, and internships all count",
+            "We care that you have actually run the loop: built a model, trained it, found out why it was not working, and fixed it",
+            "Core Knowledge: Strong theoretical foundation in machine learning and deep learning, with a solid understanding of modern architectures (e.g., Transformers, CNNs, Graphs)",
+            "Technical Stack: Proficiency in Python and deep learning frameworks such as PyTorch, along with strong software engineering fundamentals (data structures, algorithms, and clean coding practices)",
+            "Attributes: High self-motivation, strong analytical and problem-solving skills, a fast learner in a high-velocity startup environment, and a strong team-player mindset",
+            "Research or projects in computer vision, and particularly in 3D",
+            "Specific Research Directions: Academic thesis or deeply focused research experience in one or more of the following domains:",
+            "Computer Vision (2D or 3D)",
+            "Online Mapping, Vectorization, or Visual SLAM",
+            "Academic Achievements: A track record of research publications in machine learning, computer vision, or robotics conferences/journals (e.g., CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA, IROS)",
+            "Engineering Plus: Hands-on experience with model deployment, quantization, distillation, or inference acceleration tools (e.g., TensorRT, ONNX, CUDA, C++)",
+            "Industry Exposure: Prior internship experience within the autonomous driving industry or advanced robotics labs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "You get a real mentor"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Model Implementation & Iteration: Participate in the development, training, and optimization of state-of-the-art deep learning models for autonomous driving, with a focus on end-to-end architectures, including perception, online mapping, and end-to-end planning",
+            "Full Lifecycle Execution: Engage in the entire machine learning workflow under the guidance of domain experts, spanning from data curation and data analysis to model experimentation, hyperparameter tuning, and rigorous performance metric verification",
+            "Cross-Functional Collaboration: Partner with simulation, infrastructure, and downstream planning/control teams to deploy, evaluate, and integrate machine learning components into our production pipeline for autonomous trucks",
+            "Literature Tracking: Stay abreast of the latest research breakthroughs in computer vision and generative AI, and actively bench-test promising SOTA methods to solve real-world corner cases",
+            "We promote fast",
+            "Managers are expected to push engineers to attempt work above their current level, and to promote in the next cycle when they deliver it",
+            "You have trained neural networks",
+            "Prediction and Behavioral Modeling"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=KrqXOhHAVz3zTHhsAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKvwrCMBCAcVz7CIJwk6jURgQXneq_ghQXwVXSeCSR9i7kIvaZfErr8i2_L_uOsrpsLUefXAcnsp4QYw5HxAA16kieLEzh7sUzweyKH6iifs5hCRduQIbFOBioYrYtjncupSBbpUTawkrSyZvCcKeYsOFevbiRfx7idMTQ6oSP9WbVF4HsYrLnBOU7MXiCmyY4R03Gi-EcDuUPk2wyR60AAAA&shmds=v1_Ac3VAox9xzpC3Gw7QcIvRvsrZe3Qe1do7Xq40QYKhPCTj35R5Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=KrqXOhHAVz3zTHhsAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=2210b29a424ec222",
+      "job_title": "Algorithm Engineer, Deep Learning & Vision (New Grad)",
+      "description": "Company Introduction\n   At Bot Auto, we are revolutionizing the transportation of goods with our cutting-edge autonomous trucks, enhancing the quality of life for communities around the globe. With the agility of a start-up and the wisdom of seasoned experts, Bot Auto boasts a team that has achieved numerous world-firsts and unparalleled innovations. United by a shared vision, we create miracles and propel the future of transportation. Join us and transform your dreams into reality.\n\n\n    Key Responsibilities\n   \n    Model Implementation & Iteration: Participate in the development, training, and optimization of state-of-the-art deep learning models for autonomous driving, with a focus on end-to-end architectures, including perception, online mapping, and end-to-end planning.\n    Full Lifecycle Execution: Engage in the entire machine learning workflow under the guidance of domain experts, spanning from data curation and data analysis to model experimentation, hyperparameter tuning, and rigorous performance metric verification.\n    Cross-Functional Collaboration: Partner with simulation, infrastructure, and downstream planning/control teams to deploy, evaluate, and integrate machine learning components into our production pipeline for autonomous trucks.\n    Literature Tracking: Stay abreast of the latest research breakthroughs in computer vision and generative AI, and actively bench-test promising SOTA methods to solve real-world corner cases.\n   \n   How You'll Grow\n   This matters as much to us as what you'll ship.\n\n\n   \n    You get a real mentor. Every engineer is paired with senior-level engineers developing you. Mentorship here is weighted toward design and judgment: how to frame a problem, what to build and why, how to tell whether a solution is actually right.\n    We promote fast. Managers are expected to push engineers to attempt work above their current level, and to promote in the next cycle when they deliver it.\n   \n   Qualifications\n   Required:\n   \n    Education: A Bachelor's, Master's, or Ph.D. (including upcoming graduates) in Computer Science, Robotics, Electrical Engineering, Applied Mathematics, Physics, or a related quantitative field.\n    You have trained neural networks. Coursework, research, personal projects, open-source work, and internships all count. We care that you have actually run the loop: built a model, trained it, found out why it was not working, and fixed it.\n    Core Knowledge: Strong theoretical foundation in machine learning and deep learning, with a solid understanding of modern architectures (e.g., Transformers, CNNs, Graphs).\n    Technical Stack: Proficiency in Python and deep learning frameworks such as PyTorch, along with strong software engineering fundamentals (data structures, algorithms, and clean coding practices).\n    Attributes: High self-motivation, strong analytical and problem-solving skills, a fast learner in a high-velocity startup environment, and a strong team-player mindset.\n   \n   Preferred:\n   \n    Computer vision. Research or projects in computer vision, and particularly in 3D.\n    Specific Research Directions: Academic thesis or deeply focused research experience in one or more of the following domains:\n    \n     \n      Computer Vision (2D or 3D)\n      Online Mapping, Vectorization, or Visual SLAM\n      Prediction and Behavioral Modeling\n     \n    Academic Achievements: A track record of research publications in machine learning, computer vision, or robotics conferences/journals (e.g., CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA, IROS).\n    Engineering Plus: Hands-on experience with model deployment, quantization, distillation, or inference acceleration tools (e.g., TensorRT, ONNX, CUDA, C++).\n    Industry Exposure: Prior internship experience within the autonomous driving industry or advanced robotics labs.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=2210b29a424ec222&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/bot-auto/san-francisco/algorithm-engineer-deep-learning-vision-new-grad-150648334/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/algorithm-engineer-deep-learning-vision-new-grad-bot-auto-san-francisco-bay-area--t7xk-834356116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643574405641407779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2868439333281464320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbGdvcml0aG0gRW5naW5lZXIsIERlZXAgTGVhcm5pbmcgXHUwMDI2IFZpc2lvbiAoTmV3IEdyYWQpIiwiY29tcGFueV9uYW1lIjoiQm90IEF1dG8iLCJodGlkb2NpZCI6IktycVhPaEhBVnozelRIaHNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZa2RqUTFwQloyd3lia0pIYVZVeVpIVXhSM0JsT0ZsdmFHUnJSMU5oUVRoMWNEVmhhQzF1ZDJaRlpFcERSMjh6YVVKdGVXTnlUR0Z6Y1ZoaVdVVk5NRzV5VjFsQ1RYcHpSMk55TFZvdFIzUlNMVVl4V0ZoMk1GSlphMmxPZUdKMU1UZzJYekZSWm1aT1ZsWTNVa3BxUVhSZlVVOURVakpxT1d0WWQySnJXbVkyZUdWU1MzRVNGM2RuYW14aGMybzRUSEY1UjNCMFVWQnZUemRHYjBGdkdpSkJTRTR3UlRkRlZESTRjSGxITlRWT1lrVnpURTVsUkVWalVrZDZhRzExWVZsUiIsImZjdiI6IjMiLCJmY19pZCI6IktycVhPaEhBVnozelRIaHNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Computer Vision Engineer Deep Learning & AI",
+      "company_name": "AIToolboard",
+      "location": "Palo Alto, CA",
+      "via": "Jooble",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate should have over 4 years of coding experience and a Master's degree in Computer Science, with skills in C/C++, Python, and Deep Learning"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The position offers a competitive salary from $180,000 to $260,000 annually along with excellent benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will develop innovative Computer Vision algorithms in a collaborative environment that values hard work and impact"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=VunFJb5_5_JxMfNZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWKsQrCMBBAce0niMNNDqKNCC46xSpScXAQ15K0RxpJ70IuQv_GX7UuD97jFd9Zcap4iJ-MCV5ePBNcyHnCyc-IEe5oEnlysARdwwZubEGm1vYwvVdmF3B-7HOOclBKJJROssm-LVseFBNaHtWbrfzRSG8SxmAyNrv9diwjudVC10_mYNmkDjzBwwQGHTKvodI_ngptCaIAAAA&shmds=v1_Ac3VAozTP71cM0yiX8sOFKIhmRkPiTklOYKZNwewJgD74sRH1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=VunFJb5_5_JxMfNZAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "180K–260K a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jooble.org/jdp/-6105970370310794107",
+      "job_title": "Computer Vision Engineer Deep Learning & AI",
+      "description": "Jobs / Computer Vision Engineer Deep Learning & AI \n\n Computer Vision Engineer Deep Learning & AI  Full-time \n\n About the Role  Mashgin is seeking a passionate Computer Vision Engineer in Palo Alto, CA. You will develop innovative Computer Vision algorithms in a collaborative environment that values hard work and impact.The ideal candidate should have over 4 years of coding experience and a Master's degree in Computer Science, with skills in C/C++, Python, and Deep Learning. The position offers a competitive salary from $180,000 to $260,000 annually along with excellent benefits. \n\n#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-6105970370310794107?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/30248bd4-5e86-41b0-96cb-aa1438bb2369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/8476656720427352064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/computer-vision-engineer-deep-learning-ai-aitoolboard-palo-alto--pureheal-28528_25197_80b2ad7d8c4ac759cd9afdb04a70a42a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-palo-alto-computer-vision-engineer-deep-learning-ai-aitoolboard?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBWaXNpb24gRW5naW5lZXIgRGVlcCBMZWFybmluZyBcdTAwMjYgQUkiLCJjb21wYW55X25hbWUiOiJBSVRvb2xib2FyZCIsImh0aWRvY2lkIjoiVnVuRkpiNV81X0p4TWZOWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdYWktVM0J3YUhSbVdVNUJOMnhhUzI5UVdFNXNWamxKVURGd2FFdGZXbDh4UzBGSVREbEJkRmg2ZW1kRU1tRmtkVmN3Y0U1cWMxOHRka2wyYUdsa1pEZHZTMlprU0RWRmJHVnVNM1IxU0Zrd2IzRk1RVEowZVVjM1JEQk9Ua3RNZUU5aWJGaGlheTFaY3pGU2VsZzBOVWRQTTBONFgzRklaM0I0YjNoRFVYRlBhVFppTjBJU0YzZG5hbXhoYzJvNFRIRjVSM0IwVVZCdlR6ZEdiMEZ2R2lKQlNFNHdSVGRGWkZadFdtWjRUemRUWTFBM04wOUtkSFJ1YXpNNVVWRjNUSEIzIiwiZmN2IjoiMyIsImZjX2lkIjoiVnVuRkpiNV81X0p4TWZOWkFBQUFBQT09In0="
+    },
+    {
+      "title": "Artificial Intelligence/Machine Learning (AI/ML) Engineer (2026-0238)",
+      "company_name": "Acclaim Technical Services",
+      "location": "Chantilly, VA",
+      "via": "Built In",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Data Science, Mathematics, Engineering, or a related field, plus 5 years of relevant experience",
+            "Additional years of experience may be accepted in place of a degree",
+            "Demonstrated professional experience with Python or R for AI/ML development",
+            "Experience with deep learning frameworks such as PyTorch, TensorFlow, or Keras",
+            "Experience developing and deploying AI/ML models, including model tuning, experimentation, validation, and benchmarking",
+            "Experience with cloud computing services from major providers, including cloud-based AI/ML development and deployment",
+            "Experience with version control systems such as GitHub"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will design, develop, test, evaluate, and deploy AI/ML models and ensembles across generative AI, classification, prediction, computer vision, natural language processing (NLP), and reinforcement learning",
+            "You will draw on your expertise in AI/ML algorithms, software development, and cloud computing to take models from experimentation to secure, scalable production",
+            "Design and develop AI/ML models and ensembles using the customer's data and requirements",
+            "Preprocess, clean, and analyze large volumes of structured and unstructured data to assess its usefulness for AI model training and testing",
+            "Work with staff officers to conceptualize, design, develop, and run experiments that verify model performance and system soundness",
+            "Deploy and maintain AI/ML models and ensembles in cloud-based environments, ensuring scalability, reliability, and security",
+            "Develop and maintain extract, transform, and load (ETL) pipelines, SQL configurations, and performance metrics that support AI/ML applications",
+            "Document and communicate methods and findings using the customer's formats and templates",
+            "This may include authoring analytic publications, producing ad-hoc reports, creating data visualizations, delivering presentations or briefings, and documenting methods in GitHub repositories",
+            "Provide technical education to staff on AI/ML topics on an ad-hoc basis",
+            "Serve as an AI/ML subject matter expert supporting the customer's initiatives"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=FqYRU2RSqtvOCSqeAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsWrDMBBA6epP6HSj0zaWcWkJ7WRCKA72lNKpEOTjIl05n4wkSvKH-aw4yxseb3jF9aH4bWPmEyNbgU4zibAjRTKDRc9K0JONyuqgbDsz9CvYqVs8RSibunlf183rZgVr2IcR0tKih6DwFYITevz0Oc_pw5iUpHIp28xYYZhMUBrD2fyFMd1xTN5GmsVmOjZv9bma1T09t4hieYJvQq-My-GB4j8jJWCFrbeaWeTyAj_tDRMOdrrLAAAA&shmds=v1_Ac3VAox9OZbd2pyz0eqoBGST1-OxyGuBHzXqDqeZBx2x-vcz3w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=FqYRU2RSqtvOCSqeAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAk1BMVEX___8AAADc3Nz09PTt7e3f39_6-vpPT09lZWX39_fcUwDKZDfy7erBwcFdX2H___vQ0NAUFBRvb2_Zy76ysrIoKCj6__3k2Mzl2NPg2NHl5eXk6urURwDQVADWUADXVQC_WjSVlpXp7OXJXSjWXSbUZSXfYB05OTlHR0eFhYUxMTHOv7ALCwshISGmqKbAcE16enrNQSipAAABY0lEQVRIie2S20KDMAxAE1ICneMy7C4ynU6dGxPn_v_rTLhMYXvxvecB2tJD0jQAHo_HA5BlkLWjRbb4j8jL1ephJSxZVAjDAKAMOwICCPM8pxvi-nHzNNlsnicvUw2IiAlE2JNAoa96ey2-vr0ru4-7KTAksmsPKc5mMpBHckAsqiPi-dqkhs-JiAAHrBHJEoWIEROVGhRgjziWGNhaC3DfiLJvi-jkixERmgWduaoaeCZNE3CS1KkTxeIID78iScpfRT7O0sTxQORadssxg4sIwbEpUmRui64VxcmBaqx-RWBXzFUdiZLqqY24-zZ6DWmU1njkXmTL8ij3-sex2NA0j71cn-vFtA1lrsTYlUIYsk4l0yQQUMrTibJUGDJnxHIgFkWcNqy13SKcW2hvjfszxhJfzxiNi9OhRZNIbWdJubbU73XaQ3M3vA4OejRVaZRunchoQ3UzS7d63OPxeDx_-QE18hN7jfOBOQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "22 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://builtin.com/job/artificial-intelligence-machine-learning-ai-ml-engineer-2026-0238/11602222",
+      "job_title": "Artificial Intelligence/Machine Learning (AI/ML) Engineer (2026-0238)",
+      "description": "Acclaim Technical Services (ATS), founded in 2000, is a premier provider of tech-enabled solutions and operational services to a broad range of U.S. Federal agencies. As an Employee Stock Ownership Plan (ESOP) company—an uncommon advantage in our sector—we foster a culture of ownership, accountability, and shared success. This commitment to our people shows: ATS is consistently recognized as a top workplace in the DC area and continues to experience strong, strategic growth\nWe are actively hiring an Artificial Intelligence/ Machine Learning with TS/SCI w/ Poly to join our team working in Chantilly, VA. You will design, develop, test, evaluate, and deploy AI/ML models and ensembles across generative AI, classification, prediction, computer vision, natural language processing (NLP), and reinforcement learning. You will draw on your expertise in AI/ML algorithms, software development, and cloud computing to take models from experimentation to secure, scalable production.\nKey Responsibilities:\n\nDesign and develop AI/ML models and ensembles using the customer's data and requirements.Preprocess, clean, and analyze large volumes of structured and unstructured data to assess its usefulness for AI model training and testing.Work with staff officers to conceptualize, design, develop, and run experiments that verify model performance and system soundness.Deploy and maintain AI/ML models and ensembles in cloud-based environments, ensuring scalability, reliability, and security.Develop and maintain extract, transform, and load (ETL) pipelines, SQL configurations, and performance metrics that support AI/ML applications.Document and communicate methods and findings using the customer's formats and templates. This may include authoring analytic publications, producing ad-hoc reports, creating data visualizations, delivering presentations or briefings, and documenting methods in GitHub repositories.Provide technical education to staff on AI/ML topics on an ad-hoc basis.Serve as an AI/ML subject matter expert supporting the customer's initiatives.Required Qualifications: Bachelor's degree in Computer Science, Data Science, Mathematics, Engineering, or a related field, plus 5 years of relevant experience. Additional years of experience may be accepted in place of a degree.Demonstrated professional experience with Python or R for AI/ML development.Experience with deep learning frameworks such as PyTorch, TensorFlow, or Keras.Experience developing and deploying AI/ML models, including model tuning, experimentation, validation, and benchmarking.Experience with cloud computing services from major providers, including cloud-based AI/ML development and deployment.Experience with version control systems such as GitHub.Preferred Qualifications:Experience with AI/ML model explainability and interpretability techniques.Experience with verification and validation test benches.Experience with web development frameworks such as Flask.Experience using Tableau to produce visualizations and dashboards.Familiarity with the customer's enterprise services, security controls, and data management practices.Prior experience supporting the Intelligence Community.",
+      "apply_options": [
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/artificial-intelligence-machine-learning-ai-ml-engineer-2026-0238/11602222?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-ai-ml-engineer-2026-0238-at-acclaim-technical-services-4477849897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/artificial-intelligence-machine-learning-engineer_7ea1a7659e1b8c2a8b31bd6c487ccbec68151?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=d1e724e5a755d3c0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/artificial-intelligence-machine-learning-ai-ml-engineer-2026-0238--chantilly--northern--e11e58f75cee552509aa650c4800797d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/acclaim-technical-services/Job/Artificial-Intelligence-Machine-Learning-(AI-ML)-Engineer-(2026-0238)/-in-Chantilly,VA?jid=90454b71f1270c3d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Security Clearance Jobs",
+          "link": "https://www.clearancejobs.com/jobs/9268305/senior-artificial-intelligence-engineer?source=job_search&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/artificial-intelligence-machine-learning-ai-ml-engineer-2026-0238-chantilly-va--e010d3fa-e6ab-4237-a9a3-c4dacbd2207d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZS9NYWNoaW5lIExlYXJuaW5nIChBSS9NTCkgRW5naW5lZXIgKDIwMjYtMDIzOCkiLCJjb21wYW55X25hbWUiOiJBY2NsYWltIFRlY2huaWNhbCBTZXJ2aWNlcyIsImh0aWRvY2lkIjoiRnFZUlUyUlNxdHZPQ1NxZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrMTRiR0pZWkVObE1XOTZORVZrU0Y5TFVrUm5SWFZRYm1GMU1HWnRVVXg2ZGtaNVFsUkRiVmhqZFhOaVdtVmxOR1JPV25VMkxVRm5PV1ZPTXpOUGRuRTBVWGw2T1RnME1UTXhWMUo0WWxOT1YzcDRjbUpOZEVwbVVHVkliR0pHWDJab01FUlhRWG95UjJSeldFOVdTM2hITFhkcGVucDVjeTF3YjBSWFV6WktaRE42TmpVU0YzZG5hbXhoYzJvNFRIRjVSM0IwVVZCdlR6ZEdiMEZ2R2lKQlNFNHdSVGRJWTFBNU5sazRNbkZvVWw5TlZrWlBSbkp1ZG1kd0xUY3lkMnhCIiwiZmN2IjoiMyIsImZjX2lkIjoiRnFZUlUyUlNxdHZPQ1NxZUFBQUFBQT09In0="
+    },
+    {
+      "title": "Deep Learning Engineer: AI Solutions & Production",
+      "company_name": "dontwt.ai",
+      "location": "United States",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will design, train, and optimize deep neural networks using frameworks like TensorFlow or PyTorch, ensuring successful deployment of AI solutions for our clients",
+            "The successful candidate will maintain robust data pipelines and collaborate with data scientists for efficient production integration"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=-74x6xSFfj3BXVEFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMuwrCQBAAsfUTUm1lIXgngk2sBMUHFkKwDpdkuZycu8ftBvM__qhJMzDFzPK3WF5PiAke6DIF8nAmHwgxl3C8QcVx0MAksIJn5m5oZ4MN3LkBmZK2h8kvzD5icehVk5TWikTjRZ2G1rT8sUzY8Gjf3MiMWnqXMUWnWO_229Ek8uuiY9KvGhcgELwoKHZQTQ-UP6kzezemAAAA&shmds=v1_Ac3VAozBH2DymEsjbQKn8DV-M5U9gqM1MjlW-fYni4QPgtO-gg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=-74x6xSFfj3BXVEFAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://talents.vaia.com/companies/dontwt-ai/deep-learning-engineer-ai-solutions-production-136732439/",
+      "job_title": "Deep Learning Engineer: AI Solutions & Production",
+      "description": "dontwt.ai is seeking a talented Deep Learning Engineer to join our team in Windham, Maine. In this role, you will design, train, and optimize deep neural networks using frameworks like TensorFlow or PyTorch, ensuring successful deployment of AI solutions for our clients. The successful candidate will maintain robust data pipelines and collaborate with data scientists for efficient production integration. We value a proactive approach and a strong commitment to delivering high-quality results.  #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/dontwt-ai/deep-learning-engineer-ai-solutions-production-136732439/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5373-b91ddd68b985463f0e43dee8d4b7383d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyOiBBSSBTb2x1dGlvbnMgXHUwMDI2IFByb2R1Y3Rpb24iLCJjb21wYW55X25hbWUiOiJkb250d3QuYWkiLCJodGlkb2NpZCI6Ii03NHg2eFNGZmozQlhWRUZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV1pUVEhrMGNXVnVOM2huT1RWSmJtMVpTR2RzTVdSVGFuTXljRlkwTlVkUk1IVlBWRGwxYVc5dWFXRjNNbGxwTURSWFFUSlFaVzF5ZDBGc2RXcFhNREV5WHpJNExTMTNZbU5qU0ZFNFJuSnRWbE5qZW5ZeVZGWXhPV3hqVG1rdFlYbFpkalkzUzBOWU5WYzJiVlJRUmkxQmFrZHJaamxYVUhWNFFsVlpYMlZaT1RWMVZVWVNGM2RuYW14aGMybzRUSEY1UjNCMFVWQnZUemRHYjBGdkdpSkJTRTR3UlRkR0xVVXhVeTFqYW5CVVNVbzJaSFpZYWxaa1ZrcENZbUkyYWxsbiIsImZjdiI6IjMiLCJmY19pZCI6Ii03NHg2eFNGZmozQlhWRUZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - AI Platform",
+      "company_name": "Workday",
+      "location": "Boulder, CO",
+      "via": "Jobright",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in engineering, data/computer science, physics, math or equivalent",
+            "6+ yrs experience as a member of a data science, machine learning engineering, or other relevant software development team building applied machine learning products at scale, including taking products through applied research, design, implementation, production, and production-based evaluation",
+            "5+ years of professional experience with Python and supporting numeric libraries, with experience in shipping production code and models",
+            "5+ years of professional experience with cloud computing platforms (e.g",
+            "AWS, GCP, etc.)",
+            "3+ years of experience in building information retrieval systems and/or graph-based recommendation systems",
+            "3+ years of hands-on professional experience in developing large language models (LLMs), text generation models, or graph-based machine learning models for production, including data processing, model fine-tuning, model deployment and model evaluation",
+            "3+ years of experience building services to host machine learning models in production at scale",
+            "3+ years of experience in machine learning and deep learning frameworks & toolkits such as PySpark, Pytorch, TensorFlow, and Sklearn",
+            "3+ years of professional experience with data engineering and data wrangling using e.g. Pandas and PySpark and other industry tools used to build scalable machine learning systems, such as Kubernetes and Docker",
+            "Deep understanding of statistical analysis, unsupervised and supervised machine learning algorithms, and natural language processing for information retrieval and/or recommendation system use cases",
+            "Professional experience in independently solving ambiguous, open-ended problems and technically leading teams",
+            "Ability to communicate clearly and effectively in a cross-functional setting with product managers, app teams, and leadership",
+            "Master's or PhD"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Flex Work: spend at least half (50%) of our time each quarter in the office or in the field with customers, prospects, and partners (depending on role), with a flexible schedule that caters to business, team, and personal needs"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role develops and operates machine-learning platforms, pipelines, services, and agentic AI experiences, applying LLMs and RAG to deliver solutions across Workday’s product ecosystem",
+            "Own exploration, design and implementation of features for our sophisticated ML platforms, pipelines and services",
+            "Be responsible for evaluation, scalability and observability of these features",
+            "Apply machine learning techniques including LLMs and natural language understanding to analyze large sets of HR and Finance-related text data, and design and launch pioneering cloud-based machine learning architectures",
+            "Stay up to date with advancements in AI, LLMs, RAG, autonomous agents and orchestration frameworks to drive innovation",
+            "Serve as a technical role model for more junior engineers"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=Um6_ktKXEFe3356iAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0HODjdLNqI4KKTShFFUXBwlDQ9k2h6Vy4R6r_4scblwYPHK76DoroieRY4aeM8IRxRC3myUJHNjgJTWO_hEnR6sLTZDlxDzJVxwAQ7ZhtwtHIpdXGpVIyhtDHp5E1puFVMWHOvnlzHP-7RacEu3_A-X8z6siM7Ht5YXo3-gCfY8Ds0KBPYnn_SeTKanwAAAA&shmds=v1_Ac3VAozhP_TBDbs-LkWGzCYToEyjCpxpgCW_HlfuGmoIB8mw2g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=Um6_ktKXEFe3356iAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae508c2f29655a7b2568f90/images/3dEAnOqrw5ptLSIWnFo4KYzIZlhGxBcXJqQG4WSPmVk.jpeg",
+      "extensions": [
+        "1 day ago",
+        "172K–257K a year",
+        "Full-time"
+      ],
+      "source_link": "https://jobright.ai/jobs/info/6ae372b4c3139b475b5ad135?visit=director%2C-ai-and-machine-learning-engineering-jobs-in-united-states",
+      "job_title": "Senior Machine Learning Engineer - AI Platform",
+      "description": "Workday is hiring a Senior Machine Learning Engineer for its AI Core team within the AI Platform organization. The role develops and operates machine-learning platforms, pipelines, services, and agentic AI experiences, applying LLMs and RAG to deliver solutions across Workday’s product ecosystem.\n\n\nResponsibilities\n\nOwn exploration, design and implementation of features for our sophisticated ML platforms, pipelines and servicesBe responsible for evaluation, scalability and observability of these featuresApply machine learning techniques including LLMs and natural language understanding to analyze large sets of HR and Finance-related text data, and design and launch pioneering cloud-based machine learning architecturesStay up to date with advancements in AI, LLMs, RAG, autonomous agents and orchestration frameworks to drive innovationServe as a technical role model for more junior engineers\nSkills\n\nBachelor's degree in engineering, data/computer science, physics, math or equivalent6+ yrs experience as a member of a data science, machine learning engineering, or other relevant software development team building applied machine learning products at scale, including taking products through applied research, design, implementation, production, and production-based evaluation5+ years of professional experience with Python and supporting numeric libraries, with experience in shipping production code and models5+ years of professional experience with cloud computing platforms (e.g. AWS, GCP, etc.)3+ years of experience in building information retrieval systems and/or graph-based recommendation systems3+ years of hands-on professional experience in developing large language models (LLMs), text generation models, or graph-based machine learning models for production, including data processing, model fine-tuning, model deployment and model evaluation3+ years of experience building services to host machine learning models in production at scale3+ years of experience in machine learning and deep learning frameworks & toolkits such as PySpark, Pytorch, TensorFlow, and Sklearn3+ years of professional experience with data engineering and data wrangling using e.g. Pandas and PySpark and other industry tools used to build scalable machine learning systems, such as Kubernetes and DockerDeep understanding of statistical analysis, unsupervised and supervised machine learning algorithms, and natural language processing for information retrieval and/or recommendation system use casesProfessional experience in independently solving ambiguous, open-ended problems and technically leading teamsAbility to communicate clearly and effectively in a cross-functional setting with product managers, app teams, and leadershipMaster's or PhD\nBenefits\n\nFlex Work: spend at least half (50%) of our time each quarter in the office or in the field with customers, prospects, and partners (depending on role), with a flexible schedule that caters to business, team, and personal needs.\nCompany Overview\n\nWorkday provides SaaS-based enterprise solutions for a company's human resources and financial management activities. It was founded in 2005, and is headquartered in Pleasanton, California, USA, with a workforce of 10001+ employees. Its website is http://www.workday.com.\nCompany H1B Sponsorship\n\nWorkday has a track record of offering H1B sponsorships, with 264 in 2026, 331 in 2025, 388 in 2024, 262 in 2023, 503 in 2022, 290 in 2021, 229 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "apply_options": [
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ae372b4c3139b475b5ad135?visit=director,-ai-and-machine-learning-engineering-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/senior-machine-learning-engineer-ai-platform-workday-8678335?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/machine-learning-engineer-iii-senior-machine-learning-engineer-ai-platform/9158771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/machine-learning-engineer-ai-platform-jobs/B74B6931F9B0AD2A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=626503809432422268&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-machine-learning-engineer-ai-platform-workday-boulder--techmap_us_4483049745?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Letscruit",
+          "link": "https://letscruit.com/jobs/senior-machine-learning-engineer-ai-platform-100251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAtIEFJIFBsYXRmb3JtIiwiY29tcGFueV9uYW1lIjoiV29ya2RheSIsImh0aWRvY2lkIjoiVW02X2t0S1hFRmUzMzU2aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWWmpla055ZVhKMVYyTXlYMGh1ZUhsUWFXRlhMWGhvY21NMVJIaFpWMmhIUlRsSVUwbE1XV3Q1YlRJMmNUSkRlVk0wY2pKS1IweGFlbWxyTjJWaFlqVXlTRXRDZUVsNWNHeGpUVWQ0UVhSdGJXVmFSWGcwUkdOU01VWk1UamRITkV0alFXcE9jRE5OTVc1UGFHeFVUa2hpWVdFeGExaHRVblZWWTNWbFFtSjFXVVZxWjNrU0YzZG5hbXhoYzJvNFRIRjVSM0IwVVZCdlR6ZEdiMEZ2R2lKQlNFNHdSVGRHVlRCRlduTkxOV1kxYTFNd1pUZGhjMWRYVTA1R2VYRmZZbVpCIiwiZmN2IjoiMyIsImZjX2lkIjoiVW02X2t0S1hFRmUzMzU2aUFBQUFBQT09In0="
+    },
+    {
+      "title": "Deep Learning at the Tactical Edge",
+      "company_name": "ORAU",
+      "location": "Aberdeen, MD",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Transcript verifying receipt of degree or current enrollment in an undergraduate or graduate program at an accredited university or technical institute",
+            "Student/unofficial copy is acceptable",
+            "Research topic should relate to a specific opportunity at ARL",
+            "The objective of the research topic should be clear and have a defined outcome",
+            "Areas of interest include edge-computing techniques, hardware–software co-design, neural architecture search, energy-efficient neuromorphic systems, and optimized embedded accelerators such as GPUs, NPUs, and FPGAs",
+            "Topics include edge-computing methods, hardware–software co-design, neural architecture search, neuromorphic systems, and optimized embedded accelerators such as GPUs, NPUs, and FPGAs",
+            "Scientists and Engineers at the CCDC Army Research Laboratory (ARL) help shape and execute the Army's program for meeting the challenge of developing technologies that will support Army forces in meeting future operational needs by pursuing scientific research and technological developments in diverse fields such as: applied mathematics, atmospheric characterization, simulation and human modeling, digital/optical signal processing, nanotechnology, material science and technology, multifunctional technology, combustion processes, propulsion and flight physics, communication and networking, and computational and information sciences",
+            "Citizenship: U.S. Citizen Only",
+            "Degree: Bachelor's Degree, Master's Degree, or Doctoral Degree",
+            "Academic Level(s): Bachelor’s Degree (Journeyman Fellow), Master’s Degree (Journeyman Fellow), Doctoral Degree (Postdoctoral Fellow), Doctoral Degree 5+ years (Senior Fellow), or Faculty",
+            "Chemistry and Materials Sciences (<a href=\"#\" data-bs-toggle=\"popover\" tabindex=\"0\" role=\"button\" data-bs-title=\"Chemistry and Materials Sciences\" data-bs-content=\"",
+            "Analytical Chemistry",
+            "Bio-inorganic Chemistry",
+            "Bio-organic Chemistry",
+            "Biophysical Chemistry",
+            "Chemistry (General)",
+            "Environmental Chemistry",
+            "Inorganic Chemistry",
+            "Materials Sciences",
+            "Organic Chemistry",
+            "Physical Chemistry",
+            "Polymer Chemistry",
+            "Theoretical Chemistry",
+            "Communications and Graphics Design (2 )",
+            "Computer, Information, and Data Sciences (17 )",
+            "Earth and Geosciences (21 )",
+            "Engineering (29 )",
+            "Environmental and Marine Sciences (14 )",
+            "Life Health and Medical Sciences (51 )",
+            "Mathematics and Statistics (11 )",
+            "Physics (16 )",
+            "Science & Engineering-related (2 )",
+            "Social and Behavioral Sciences (29 )"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "List relevant coursework and lab experience as well as all papers, presentations, or publications you may have authored or co-authored",
+            "Include any reprints or abstracts if they are available",
+            "References should be from persons familiar with your educational and professional qualifications (include your thesis or dissertation advisor, if applicable)",
+            "Include expected period for completing the study",
+            "Include a brief background such as preparation and motivation for the research",
+            "References of published efforts may be used to improve the proposal",
+            "This opportunity addresses the critical gap created when contemporary AI models exceed the computing power and memory capacity of edge platforms, limiting real-time scene understanding and situational awareness",
+            "It emphasizes bringing inference closer to the point of need to enable low-latency, on-device reasoning for mission-critical operations such as target detection, threat assessment, autonomous navigation, and human-machine teaming",
+            "This opportunity invites both theoretical and experimental proposals spanning edge computing methods, neuromorphic architecture, multi-modal sensor fusion, hardware co-design, and improvements to specific model types like CNNs and LLMs",
+            "Ultimately, proposed solutions must balance performance, efficiency, and scalability across diverse AI models to address problems of U.S. Army interest, with interdisciplinary submissions encouraged",
+            "Edge computing & hardware co-design: New edge computing methods, neural architecture search, energy-efficient neuromorphic architectures, and accelerators (embedded GPUs, NPUs, FPGAs) optimized for low-latency inference in austere environments",
+            "AI model optimization: Improved objective functions, optimization algorithms, and abstractions to manage diverse model types and inference engines while balancing performance, efficiency, and scalability",
+            "Multi-modal sensing & fusion: Unified transformer-based encoders for joint reasoning over vision, language, and other sensor modalities to enable sensor fusion and real-time scene understanding",
+            "Model-specific advances: Enhanced CNNs (feature extraction, transfer learning, reduced overfitting) and LLMs/small transformers for the tactical edge (prompt optimization, multi-modal and continual learning, domain adaptation, improved context and reasoning)",
+            "Mission applications: Target detection and classification, anomaly identification and threat assessment, autonomous navigation, and human-machine teaming",
+            "This opportunity seeks innovative theoretical and experimental approaches to enable efficient, reliable deployment of deep-learning models including CNNs, vision transformers, multimodal transformers, and large or small language models on resource constrained tactical-edge platforms",
+            "Proposed methods should improve model efficiency through advances in objective functions, training and optimization algorithms, compression, abstraction layers, and inference-engine management while preserving accuracy, robustness, scalability, and operational reliability across heterogeneous model architectures",
+            "The opportunity also emphasizes multimodal sensing and fusion, including unified transformer-based encoders that jointly reason over vision, language, and other sensor streams to support real-time scene understanding",
+            "Model-specific advances may include improved CNN feature extraction, transfer learning, and overfitting mitigation, as well as tactical-edge LLM and transformer capabilities such as prompt optimization, domain adaptation, continual learning, multimodal reasoning, contextual understanding, and efficient inference",
+            "Solutions should ultimately support U.S. Army-relevant missions—including target detection and classification, anomaly detection and threat assessment, autonomous navigation, and human–machine teaming—with interdisciplinary submissions encouraged to balance mission performance, energy efficiency, and deploy ability",
+            "This opportunity seeks methods to efficiently deploy CNNs, vision and multimodal transformers, and language models on resource-constrained tactical-edge platforms",
+            "The goal is to overcome the power, memory, thermal, and compute limits of deployed hardware, enabling low-latency, on-device inference and reasoning in austere or communications constrained environments",
+            "Proposed approaches should improve model efficiency, accuracy, robustness, scalability, and inference management through advances in optimization, compression, abstraction layers, and deployment frameworks",
+            "Priority areas also include multimodal sensor fusion using unified transformer encoders and model-specific improvements, such as CNN feature extraction and transfer learning, as well as LLM and small-transformer prompt optimization, domain adaptation, continual learning, contextual reasoning, and efficient inference",
+            "Solutions should support U.S. Army missions including target detection, anomaly and threat assessment, autonomous navigation, and human–machine teaming",
+            "Sciences to enable and ensure secure resilient communication networks for distributed analytics in Multi-Domain Operations"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=DClEMuab9TQ4Rkj4AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVw7OzndLNqI4KBOhYogiiA6l0t6JJGYC70b-hQ-s3X5p--vvrNq3xIVuBIOOWYPqKCB4IlOo8MEp94TrOHCFmQyLgBnODP7RItjUC1yMEYk1V4Up6V2_DGcyfJo3mzln04CDlQSKnXb3WasS_bL-f3RvCBmaCwNPVFewa39Abb4c-6RAAAA&shmds=v1_Ac3VAoxmuvlbNvfktLKZFI6fQURiUwdNpsKdvhtEhdDQ8OjxJA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=DClEMuab9TQ4Rkj4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae508c2f29655a7b2568f90/images/zID2OVbAF9xaEkpmFnNv-kEksBEinl60eJElJcFvvvY.jpeg",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/deep-learning-at-the-tactical-edge-at-orau-4471211449",
+      "job_title": "Deep Learning at the Tactical Edge",
+      "description": "Organization\n\nDEVCOM Army Research Laboratory\n\nReference Code\n\nARL-NCCS-20260928-F1\n\nHow To Apply\n\nApplications must be submitted in Zintellect.\n\nA complete application includes:    \n\nCurriculum Vitae or Resume List relevant coursework and lab experience as well as all papers, presentations, or publications you may have authored or co-authored. Include any reprints or abstracts if they are available.Three References FormsAn email with a link to the reference form will be available in Zintellect to the applicant upon completion of the on-line application. Please send this email to persons you have selected to complete a reference.References should be from persons familiar with your educational and professional qualifications (include your thesis or dissertation advisor, if applicable)TranscriptsTranscript verifying receipt of degree or current enrollment in an undergraduate or graduate program at an accredited university or technical institute. Student/unofficial copy is acceptableResearch ProposalResearch topic should relate to a specific opportunity at ARLThe objective of the research topic should be clear and have a defined outcomeExplain the direction you plan to pursueInclude expected period for completing the studyInclude a brief background such as preparation and motivation for the research\nReferences of published efforts may be used to improve the proposal\n\nDescription\n\nThis opportunity seeks innovative methods to optimize diverse AI model architectures, including Large Language Models (LLMs) and transformer models for efficient deployment on resource-constrained tactical edge hardware. This opportunity addresses the critical gap created when contemporary AI models exceed the computing power and memory capacity of edge platforms, limiting real-time scene understanding and situational awareness. It emphasizes bringing inference closer to the point of need to enable low-latency, on-device reasoning for mission-critical operations such as target detection, threat assessment, autonomous navigation, and human-machine teaming. This opportunity invites both theoretical and experimental proposals spanning edge computing methods, neuromorphic architecture, multi-modal sensor fusion, hardware co-design, and improvements to specific model types like CNNs and LLMs. Ultimately, proposed solutions must balance performance, efficiency, and scalability across diverse AI models to address problems of U.S. Army interest, with interdisciplinary submissions encouraged.\n\nKey Topics of Interest\n\nEdge computing & hardware co-design: New edge computing methods, neural architecture search, energy-efficient neuromorphic architectures, and accelerators (embedded GPUs, NPUs, FPGAs) optimized for low-latency inference in austere environments.AI model optimization: Improved objective functions, optimization algorithms, and abstractions to manage diverse model types and inference engines while balancing performance, efficiency, and scalability.Multi-modal sensing & fusion: Unified transformer-based encoders for joint reasoning over vision, language, and other sensor modalities to enable sensor fusion and real-time scene understanding.Model-specific advances: Enhanced CNNs (feature extraction, transfer learning, reduced overfitting) and LLMs/small transformers for the tactical edge (prompt optimization, multi-modal and continual learning, domain adaptation, improved context and reasoning).Mission applications: Target detection and classification, anomaly identification and threat assessment, autonomous navigation, and human-machine teaming\n\nThis opportunity seeks innovative theoretical and experimental approaches to enable efficient, reliable deployment of deep-learning models including CNNs, vision transformers, multimodal transformers, and large or small language models on resource constrained tactical-edge platforms. The objective is to close the gap between the computational and memory demands of modern AI and the limited power, size, weight, thermal, and processing capacity of deployed hardware, thereby enabling low-latency, on-device inference and reasoning in austere, communications-constrained environments. Areas of interest include edge-computing techniques, hardware–software co-design, neural architecture search, energy-efficient neuromorphic systems, and optimized embedded accelerators such as GPUs, NPUs, and FPGAs. Proposed methods should improve model efficiency through advances in objective functions, training and optimization algorithms, compression, abstraction layers, and inference-engine management while preserving accuracy, robustness, scalability, and operational reliability across heterogeneous model architectures. The opportunity also emphasizes multimodal sensing and fusion, including unified transformer-based encoders that jointly reason over vision, language, and other sensor streams to support real-time scene understanding. Model-specific advances may include improved CNN feature extraction, transfer learning, and overfitting mitigation, as well as tactical-edge LLM and transformer capabilities such as prompt optimization, domain adaptation, continual learning, multimodal reasoning, contextual understanding, and efficient inference. Solutions should ultimately support U.S. Army-relevant missions—including target detection and classification, anomaly detection and threat assessment, autonomous navigation, and human–machine teaming—with interdisciplinary submissions encouraged to balance mission performance, energy efficiency, and deploy ability. This opportunity seeks methods to efficiently deploy CNNs, vision and multimodal transformers, and language models on resource-constrained tactical-edge platforms. The goal is to overcome the power, memory, thermal, and compute limits of deployed hardware, enabling low-latency, on-device inference and reasoning in austere or communications constrained environments. Topics include edge-computing methods, hardware–software co-design, neural architecture search, neuromorphic systems, and optimized embedded accelerators such as GPUs, NPUs, and FPGAs. Proposed approaches should improve model efficiency, accuracy, robustness, scalability, and inference management through advances in optimization, compression, abstraction layers, and deployment frameworks. Priority areas also include multimodal sensor fusion using unified transformer encoders and model-specific improvements, such as CNN feature extraction and transfer learning, as well as LLM and small-transformer prompt optimization, domain adaptation, continual learning, contextual reasoning, and efficient inference. Solutions should support U.S. Army missions including target detection, anomaly and threat assessment, autonomous navigation, and human–machine teaming.\n\nARL Advisor: \n\nVenkateswara Dasari\n\nvenkateswara.r.dasari.civ@army.mil\n\nAbout Army Research Directorate (ARD)\n\nARL’s Army Research Directorate (ARD) focuses on exploiting concept development, discovery, technology development, and transition of the most promising disruptive science and technology to deliver to the Army fundamentally advantageous science-based capabilities through laboratory’s 11 research competencies. This intramural research directorate also manages the laboratory’s essential research programs, which are flagship research efforts focused on delivering defined outcomes.\n\nAbout Army Research Laboratory Research Associateship Program (ARL-RAP)\n\nThe Army Research Laboratory Research Associateship Program (ARL-RAP) is designed to significantly increase the involvement of creative and highly trained scientists and engineers from academia and industry in scientific and technical areas of interest and relevance to the Army. Scientists and Engineers at the CCDC Army Research Laboratory (ARL) help shape and execute the Army's program for meeting the challenge of developing technologies that will support Army forces in meeting future operational needs by pursuing scientific research and technological developments in diverse fields such as: applied mathematics, atmospheric characterization, simulation and human modeling, digital/optical signal processing, nanotechnology, material science and technology, multifunctional technology, combustion processes, propulsion and flight physics, communication and networking, and computational and information sciences.\n\nAbout Network Cyber & Computational Sciences (NC&CS)\n\nSciences to enable and ensure secure resilient communication networks for distributed analytics in Multi-Domain Operations.\n\nQuestions about this opportunity? Please email ARLFellowship@orau.org\n\nPoint of Contact\n\n ARL-RAP \n\nEligibility Requirements\">12 )\n\nCitizenship: U.S. Citizen Only Degree: Bachelor's Degree, Master's Degree, or Doctoral Degree.  Academic Level(s): Bachelor’s Degree (Journeyman Fellow), Master’s Degree (Journeyman Fellow), Doctoral Degree (Postdoctoral Fellow), Doctoral Degree 5+ years (Senior Fellow), or Faculty.  Discipline(s): Chemistry and Materials Sciences (",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/deep-learning-at-the-tactical-edge-at-orau-4471211449?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/deep-learning-at-the-tactical-edge-orau-aberdeen--fj-2386567762?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-md-aberdeen-deep-learning-tactical-edge-orau-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIGF0IHRoZSBUYWN0aWNhbCBFZGdlIiwiY29tcGFueV9uYW1lIjoiT1JBVSIsImh0aWRvY2lkIjoiRENsRU11YWI5VFE0UmtqNEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlUSTRhRWhIVkVWaVdETkJVbXBYWmtSamRIaEtXSFk1ZDNodVZUaEplSEZ0UkVzMmFuTjVjR0Z5Um5KamEyeEVVVlJPTlY5RU9VeFBSWGswTVVOWGExbGZXbkZIZFZWYWFXazFNRFZNZGs5RFJHWXdNVGR2WkVodFJqRXRWbEIyZUdRdFkxQnplR3ROVms1dmVEZENXV2h0UkZkdk5FZzVORUp3ZGpZNVZUVmFiWEV6UkRFU0YzZG5hbXhoYzJvNFRIRjVSM0IwVVZCdlR6ZEdiMEZ2R2lKQlNFNHdSVGRJVGxGVVNYVlRaM1JIVUhsalZHOHdhelIzV25kVE5tOTBUbkJCIiwiZmN2IjoiMyIsImZjX2lkIjoiRENsRU11YWI5VFE0UmtqNEFBQUFBQT09In0="
+    },
+    {
+      "title": "Principal Machine Learning Engineer, Foundation Models, AI for Drug Discovery",
+      "company_name": "Genentech",
+      "location": "South San Francisco, CA (+1 other)",
+      "via": "Careers At Genentech",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Education & Experience: BS, MS, or PhD in Computer Science, Machine Learning, Engineering, or a related quantitative field",
+            "You have a demonstrated track record of technical leadership with increasing levels of experience based on degree: PhD with 5+ years, MS with 8+ years, or BS with 10+ years of industry experience building, shipping, and owning large-scale ML systems and infrastructure end-to-end",
+            "Engineering Foundation: Exceptional Python programming skills and rigorous software engineering fundamentals (Git, automated testing, CI/CD, documentation, architecture design)",
+            "Deep Learning & Distributed Systems: Extensive hands-on experience with modern deep learning frameworks (PyTorch, JAX) and deploying ML infrastructure on AWS or HPC environments, including distributed training tools",
+            "Agentic Systems: Practical experience designing agent orchestration frameworks (e.g., LangGraph, MCP-based tool integration), managing persistent agent memory, and building self-improving loops",
+            "Domain Interest: Strong passion for applying frontier AI and agentic science to AI for Drug Discovery (AI4DD), biology, and chemistry"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The expected salary range for this position based on the primary location of New York is $192,500 - $357,500",
+            "Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law",
+            "A discretionary annual bonus may be available based on individual and Company performance",
+            "This position also qualifies for the benefits detailed at the link provided below"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will drive the engineering, scaling, and operationalization of our internal reasoning Large Language Models (LLMs) and agentic systems, enabling them to succeed at complex biomolecular design and autonomous scientific workflows",
+            "You will work at the intersection of engineering and research, spanning the full stack: from the agent orchestration logic that makes these systems scientifically useful, to the distributed infrastructure and MLOps/AgentOps that make them robust at scale",
+            "Own the MLOps/AgentOps Stack for Foundation Models: Establish rigorous evaluation harnesses that check agent output against scientific ground truth, and the experiment tracking, system observability and monitoring, CI/CD, and infrastructure those systems depend on",
+            "Agentic Systems Engineering: Architect and deploy autonomous agents that utilize tools, retrieve scientific evidence, and execute multi-step reasoning across drug discovery workflows",
+            "Design and implement advanced agent memory architectures and context management for long-horizon scientific tasks",
+            "Build reliable interfaces between agents and genomic, chemical, and clinical data sources",
+            "Scalable ML Systems & Productionization: Design, build, and optimize large-scale distributed training and inference systems for foundation models",
+            "Own the production Python/PyTorch codebases that turn fast-moving research into enterprise-grade software",
+            "Technical Strategy & Leadership: Define the long-term engineering roadmap for AI4DD’s agentic and foundation models",
+            "Serve as a technical authority on ML infra for Genentech leadership, architect cross-functional platforms, and elevate the engineering bar across gRED",
+            "Research-to-Production Translation: Partner closely with ML Scientists and domain experts to translate open-ended scientific problems and complex reasoning objectives into scoped, shippable, and highly efficient systems"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=27xizgPK6LuHS9SgAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOzWrDMBCE6TWP0NMcegquXQq5JCeTP1pqKPgBjCxvJBVl12jl4j5i36rqZeCD4ZvZ_D5sps8U2IbZRHTG-sCEDzKJAzuc2RWmVOEiC08mB2F0MlHUCu0bbpJwSovDKaiVb0o_eMa7jNBisB6lfRVxkR4PPudZ902jGmunuahsbeXeCNMoa_Mlo_7HoN4kmqPJNLzuXtZ6Zrd9uhITZyrGwOhlyR69YVySKc_LcoVj-we-rY5GzAAAAA&shmds=v1_Ac3VAozVWHREa8k8OmSAR1pjiZFDr89BizBF0dtNCcSIJiVvyg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=27xizgPK6LuHS9SgAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae508c2f29655a7b2568f90/images/sGUg0GKTfG1EVpp7LDYW3fXMpQ30anQC6xN6mqQTbxY.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://careers.gene.com/us/en/job/202609-122724/Principal-Machine-Learning-Engineer-Foundation-Models-AI-for-Drug-Discovery",
+      "job_title": "Principal Machine Learning Engineer, Foundation Models, AI for Drug Discovery",
+      "description": "The PositionA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche.\n\n\n\nAdvances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organizations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximizing these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide.\n\n\n\nThe Opportunity:\n\n\n\nAt Roche's AI for Drug Discovery (AIDD) group (Prescient Design), we are revolutionizing drug discovery with cutting-edge machine learning. We are seeking a Principal Machine Learning Engineer to join our Foundation Models team. In this role, you will drive the engineering, scaling, and operationalization of our internal reasoning Large Language Models (LLMs) and agentic systems, enabling them to succeed at complex biomolecular design and autonomous scientific workflows.\n\n\n\nYou will work at the intersection of engineering and research, spanning the full stack: from the agent orchestration logic that makes these systems scientifically useful, to the distributed infrastructure and MLOps/AgentOps that make them robust at scale.\n\n\n\nIn this role, you will:\n\nOwn the MLOps/AgentOps Stack for Foundation Models: Establish rigorous evaluation harnesses that check agent output against scientific ground truth, and the experiment tracking, system observability and monitoring, CI/CD, and infrastructure those systems depend on.\n\nAgentic Systems Engineering: Architect and deploy autonomous agents that utilize tools, retrieve scientific evidence, and execute multi-step reasoning across drug discovery workflows. Design and implement advanced agent memory architectures and context management for long-horizon scientific tasks. Build reliable interfaces between agents and genomic, chemical, and clinical data sources.\n\nScalable ML Systems & Productionization: Design, build, and optimize large-scale distributed training and inference systems for foundation models. Own the production Python/PyTorch codebases that turn fast-moving research into enterprise-grade software.\n\nTechnical Strategy & Leadership: Define the long-term engineering roadmap for AI4DD’s agentic and foundation models. Serve as a technical authority on ML infra for Genentech leadership, architect cross-functional platforms, and elevate the engineering bar across gRED.\n\nResearch-to-Production Translation: Partner closely with ML Scientists and domain experts to translate open-ended scientific problems and complex reasoning objectives into scoped, shippable, and highly efficient systems.\n\n\n\nWho You Are:\n\nEducation & Experience: BS, MS, or PhD in Computer Science, Machine Learning, Engineering, or a related quantitative field. You have a demonstrated track record of technical leadership with increasing levels of experience based on degree: PhD with 5+ years, MS with 8+ years, or BS with 10+ years of industry experience building, shipping, and owning large-scale ML systems and infrastructure end-to-end.\n\nEngineering Foundation: Exceptional Python programming skills and rigorous software engineering fundamentals (Git, automated testing, CI/CD, documentation, architecture design).\n\nDeep Learning & Distributed Systems: Extensive hands-on experience with modern deep learning frameworks (PyTorch, JAX) and deploying ML infrastructure on AWS or HPC environments, including distributed training tools.\n\nAgentic Systems: Practical experience designing agent orchestration frameworks (e.g., LangGraph, MCP-based tool integration), managing persistent agent memory, and building self-improving loops.\n\nDomain Interest: Strong passion for applying frontier AI and agentic science to AI for Drug Discovery (AI4DD), biology, and chemistry.\n\n\n\nPreferred Qualifications:\n\nInference-Time Optimization: Deep expertise in LLM serving, test-time compute, sampling/search strategies, model routing, batching, caching, and latency/cost/quality tradeoffs.\n\nScientific Context: Experience working with molecular modalities (e.g., protein sequences, chemical graphs, and structured molecular data).\n\nOpen Source: A public portfolio of significant technical contributions to open-source ML, systems, or MLOps libraries.\n\n\n\nOnsite presence on our campus is expected in compliance with Roche/Genentech policy.\n\n\n\nRelocation benefits are not available for this job posting.\n\n\n\nThe expected salary range for this position based on the primary location of New York is $192,500 - $357,500.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law.  A discretionary annual bonus may be available based on individual and Company performance.  This position also qualifies for the benefits detailed at the link provided below.\n\n\n\nBenefits\n\n\n\n#ComputationCoE\n\n\n\nGenentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.\n\n\n\nIf you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
+      "apply_options": [
+        {
+          "title": "Careers At Genentech",
+          "link": "https://careers.gene.com/us/en/job/202609-122724/Principal-Machine-Learning-Engineer-Foundation-Models-AI-for-Drug-Discovery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Senior-Machine-Learning-Scientist--Protein-ML--AI-for-Drug-Discovery--AIDD-_202608-121326?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Genentech/Job/Machine-Learning-Scientist,-Scientific-Reasoning-Models,-AI-for-Drug-Discovery/-in-South-San-Francisco,CA?jid=cf244c7efe46cf1e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Wiley Focus Life Science Careers",
+          "link": "https://lifescience.focus.wiley.com/job/34616/?utm_campaign=pat&utm_source=wileyonlinelibrary&utm_medium=jobs-widget&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-machine-learning-scientist-protein-ml-ai-for-drug-discovery-aidd-roche-south-san-francisco-ca_88392232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NLP People",
+          "link": "https://nlppeople.com/job/machine-learning-scientist-scientific-reasoning-models-ai-for-drug-discovery-28/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://www.experteer.it/career/view-jobs/machine-learning-scientist-scientific-reasoning-models-ai-for-drug-discovery-south-san-francisco-ca-usa-56120576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-principal-machine-learning-scientist-scientific-reasoning-models-ai-for-drug-discovery-at-genentech-4398021513?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciwgRm91bmRhdGlvbiBNb2RlbHMsIEFJIGZvciBEcnVnIERpc2NvdmVyeSIsImNvbXBhbnlfbmFtZSI6IkdlbmVudGVjaCIsImh0aWRvY2lkIjoiMjd4aXpnUEs2THVIUzlTZ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdqaHROMDVLWTJGSVRUQjJkRVEyYW1wR2JYSXpUMDVOTlRRMFFrUlVXSE00UmxFMlZVdG5PRTVpYkdrelJWUlBTMnBOV1V0YVltZFlWVlJhWXpkQllqZGZaMFU0U1RKcldFMTRTMGd5UnpSWU1HY3hlbEphZFZwdWFVZDFNR3BYTjJVNFRsOTJiVzk0Y1ZCc09WUnFNMnRpTkVsblFXZDZVbkI0WDFKWU5XczVXa1E0V1RBU0YzZG5hbXhoYzJvNFRIRjVSM0IwVVZCdlR6ZEdiMEZ2R2lKQlNFNHdSVGRIU0RJeFNGQk1kWGh6UWpkMGRtOVBPRXhXUVZKRGVYUnVSR2hCIiwiZmN2IjoiMyIsImZjX2lkIjoiMjd4aXpnUEs2THVIUzlTZ0FBQUFBQT09In0="
+    },
+    {
+      "title": "Machine Learning Engineer II - AV Labs",
+      "company_name": "Uber",
+      "location": "Sunnyvale, CA",
+      "via": "Jobs.uber.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2+ years of working experience in the ML/Robotics industry",
+            "Bachelor’s degree (or higher) in Computer Science, Computer Engineering, or related fields",
+            "Proficient in Python and Linux environments",
+            "Familiar with modern AI/ML frameworks (e.g., PyTorch)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "For Sunnyvale, CA-based roles: The base salary range for this role is USD $171,000 per year - USD $190,000 per year",
+            "You will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp",
+            "All full-time employees are eligible to participate in a 401(k) plan",
+            "You will also be eligible for various benefits",
+            "You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be responsible for the development and implementation of the latest machine learning techniques that enables better data mining, deep scene understanding, and causal modeling of ego vehicle behavior",
+            "The ideal candidate will be able to identify complex edge cases, provide robust algorithmic solutions, and set a high technical excellence bar",
+            "Algorithm Development: Develop algorithms and foundation models that extract high-fidelity semantic meaning from complex urban edge cases to enrich our L4 data lake",
+            "System Design: Implement scalable ML systems, including management of upstream sensor dependencies",
+            "Dataset Optimization: Deliver high-quality datasets to accelerate ML technologies through advanced sensor data collection, processing, and auto-labeling",
+            "Cross-Functional Collaboration: Partner with platform, product, and security engineering teams to enable the successful deployment of the latest machine learning techniques into production"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=No1bG-_oOPM5yi52AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQvCMBBGce3u4nSzaCOCi-JQRKRSJ9G1JOFIIvGu5KLU3-EfNi4f78GDr_pOqv1FWx8IoUOdKJCDI7nimKBtYQnNHTptpNCZDUiJrAcmODG7iLOdz3mQrVIisXaSdQ62tvxUTGh4VA828p9evE44RJ2xX29WYz2Qm09vptwEguuL6PPWERdwaH7HvlLGlgAAAA&shmds=v1_Ac3VAox4y7OzZGTzFM2KmT3TxG1xhyTVfA8VR8aEKuFrkcIVHw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=No1bG-_oOPM5yi52AAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.uber.com/en/jobs/301156",
+      "job_title": "Machine Learning Engineer II - AV Labs",
+      "description": "About the RoleUber is launching AV Labs to accelerate the autonomous technology ecosystem. We're building out a high-velocity team of multi-disciplinary experts to turn real-world operations into high-quality data for our autonomous partners. This team is focused on the hardest problem in AV today: unlocking real-world, long-tail driving data. Autonomy is now a data race—and Uber has an edge: We collect rare, real-world driving data at a scale and capital efficiency no one else can match.\n\nAs a ML Engineer, you will be at the forefront of Physical AI, building advanced autonomy algorithms and models to add rich semantics to our massive driving data. You will be responsible for the development and implementation of the latest machine learning techniques that enables better data mining, deep scene understanding, and causal modeling of ego vehicle behavior.The ideal candidate will be able to identify complex edge cases, provide robust algorithmic solutions, and set a high technical excellence bar.\n\nWhat You Will DoAlgorithm Development: Develop algorithms and foundation models that extract high-fidelity semantic meaning from complex urban edge cases to enrich our L4 data lake.System Design: Implement scalable ML systems, including management of upstream sensor dependencies.Dataset Optimization: Deliver high-quality datasets to accelerate ML technologies through advanced sensor data collection, processing, and auto-labeling.Cross-Functional Collaboration: Partner with platform, product, and security engineering teams to enable the successful deployment of the latest machine learning techniques into production.Basic Qualifications2+ years of working experience in the ML/Robotics industry.Bachelor’s degree (or higher) in Computer Science, Computer Engineering, or related fields.Proficient in Python and Linux environments.Familiar with modern AI/ML frameworks (e.g., PyTorch).Preferred QualificationsExperience in the Autonomous Driving domain.Proven track record of deploying ML models in safety-critical physical systems.Master’s or PhD degree in Computer Vision, Robotics, or Machine Learning.Familiarity with C++ and high-performance computing. For Sunnyvale, CA-based roles: The base salary range for this role is USD $171,000 per year - USD $190,000 per year.\n\nYou will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.\n\n Ready to Ride?\n\n This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you.\n\n You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits.\n\n Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.\n\n Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.",
+      "apply_options": [
+        {
+          "title": "Jobs.uber.com",
+          "link": "https://jobs.uber.com/en/jobs/301156?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Meta Careers",
+          "link": "https://www.metacareers.com/profile/job_details/1639485184196542/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=6a6de274d9cf4c29&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Wellfound",
+          "link": "https://wellfound.com/jobs/2967532-machine-learning-engineer-conversation-ai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/4f181c37-47d6-4973-8069-3dcfcb24c8b9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Apple/Job/Machine-Learning-Engineer-Agentic-AI/-in-Sunnyvale,CA?jid=6b1017e0919a02b5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/ip-validation-engineer-machine-learning-accelerators-meta-sunnyvale-ca_89211150?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/machine-learning-engineer-agentic-ai_7ea1aace01c9312f3054ec305e3b12a63a9b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIElJIC0gQVYgTGFicyIsImNvbXBhbnlfbmFtZSI6IlViZXIiLCJodGlkb2NpZCI6Ik5vMWJHLV9vT1BNNXlpNTJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV295YlVGM2NGbDVWRzk0U0UxV04waGZObFpWVXpZNGNsQTBVMTk1ZUZSUFdGTldaSFpEVVMxWVEzQTViSEpUZUdoaVVUUXRkRmx2WkdoWVJ6QkdiVVphTjJsMk5GRjBWekV3T0VWRWNUa3RVa2hsVlRSTGNVcEdOa0ZET0MxaWVGcHhTR3hNTjNaRWJVdHBiVkJrV0hReVpXUXhNVEZsU1ZwTUxXSkdUazlyVmpGZlV6a1NGM2RuYW14aGMybzRUSEY1UjNCMFVWQnZUemRHYjBGdkdpSkJTRTR3UlRkSGRIZFNOMjgxYkZSVWRHUjVhMmRzVWxaWk1XNUZiSGhSZVV0MyIsImZjdiI6IjMiLCJmY19pZCI6Ik5vMWJHLV9vT1BNNXlpNTJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Deep Learning Engineer - AI Services",
+      "company_name": "NVIDIA",
+      "location": "Anywhere",
+      "via": "JobzMall",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate should have a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, or other related fields",
+            "Expertise in Python, C/C++, and popular deep learning frameworks (such as TensorFlow, PyTorch, Keras, etc.) is also essential",
+            "You should have a strong passion for developing cutting-edge AI services and applications, excellent problem-solving skills, and the ability to work collaboratively in a team environment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Develop and maintain deep learning algorithms and AI services for NVIDIA’s GPU-accelerated computing platforms",
+            "Lead a team of engineers and scientists in developing new AI services and applications",
+            "Utilize Python, C/C++, and popular deep learning frameworks (TensorFlow, PyTorch, Keras, etc.)",
+            "Implement GPU programming and distributed computing architectures (CUDA, GPUs, etc.)",
+            "Research and develop cutting-edge AI services and applications",
+            "Utilize problem-solving skills to solve complex AI challenges",
+            "Work collaboratively with other members of the team to ensure successful development and deployment of AI services"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=2fR8BXRaCaH80b_BAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7BjrdLNqI4KJTbUUq4lJwLddwpJF4F3JB-jA-rHX54YO_-C6Kc0fsJUFDFOFOmNizgws7z0QJtlC10FH6eEs66yYD6HzZEYThKuICrU5jzlGPxqiG0mnG7G1p5W2EaZDJvGTQf3odMVEMmKnfH3ZTGdmtl49n27QVeIYOOSPUARNuoK5-D2Wi2J8AAAA&shmds=v1_Ac3VAoy355dUSd248Yr4C-hL_TIpL8uVkwQze6Otl5gqQ7hZPA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=2fR8BXRaCaH80b_BAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae508c2f29655a7b2568f90/images/qiKUPyQNDanNbtiPUXffKdKLWE8ra4z1-mq2tOZYu8w.jpeg",
+      "extensions": [
+        "100K–150K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobzmall.com/nvidia/job/senior-deep-learning-engineer-ai-services",
+      "job_title": "Senior Deep Learning Engineer - AI Services",
+      "description": "As a Senior Deep Learning Engineer - AI Services at NVIDIA, you will be part of a passionate team of engineers and scientists working to develop AI-driven systems for our industry-leading GPU-accelerated computing platforms. We are seeking a motivated individual with a strong background in deep learning and computer vision who can lead our team in developing new AI services and applications.The ideal candidate should have a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, or other related fields. Expertise in Python, C/C++, and popular deep learning frameworks (such as TensorFlow, PyTorch, Keras, etc.) is also essential. Proficiency in GPU programming and distributed computing architectures (such as CUDA, GPUs, etc.) is a plus.You should have a strong passion for developing cutting-edge AI services and applications, excellent problem-solving skills, and the ability to work collaboratively in a team environment. If you are an experienced deep learning engineer who is excited by the prospect of pushing the boundaries of AI technology, then this is the perfect opportunity for you!\\n\\nResponsibilities:\n• Develop and maintain deep learning algorithms and AI services for NVIDIA’s GPU-accelerated computing platforms\n• Lead a team of engineers and scientists in developing new AI services and applications\n• Utilize Python, C/C++, and popular deep learning frameworks (TensorFlow, PyTorch, Keras, etc.)\n• Implement GPU programming and distributed computing architectures (CUDA, GPUs, etc.)\n• Research and develop cutting-edge AI services and applications\n• Utilize problem-solving skills to solve complex AI challenges\n• Work collaboratively with other members of the team to ensure successful development and deployment of AI services\n\nNVIDIA is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+      "apply_options": [
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/nvidia/job/senior-deep-learning-engineer-ai-services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGVlcCBMZWFybmluZyBFbmdpbmVlciAtIEFJIFNlcnZpY2VzIiwiY29tcGFueV9uYW1lIjoiTlZJRElBIiwiaHRpZG9jaWQiOiIyZlI4QlhSYUNhSDgwYl9CQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhReVZHTkJOM1JFZG14dWNUVTJPWFZ6T0hsSFNrNWlaa3hNWm1OWU1WQjZlUzB5YkcxR05qWllNRkIxV1Y5M1REUmlNa1pZZDFsbVlYVmZNalUzWHpGU2FFdHlaMVJXYlZoZk1YRldjRGxHZDFaemIyMUhWWG96V1hoSlpFdGFUVWxsU21oVWJEVmhhR3ROZDBSU2RuQkdaRU00ZEd4bFlWTkxTRTB5WTE5emRWRjZkMlVTRjNkbmFteGhjMm80VEhGNVIzQjBVVkJ2VHpkR2IwRnZHaUpCU0U0d1JUZElaRTgzYzBGWmNHSlBVRUZ1T1Vwd2MyMXdZbEJUWTBsdmFsSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiIyZlI4QlhSYUNhSDgwYl9CQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Algorithm Engineer - Deep Learning",
+      "company_name": "KLA Tencor",
+      "location": "Milpitas, CA",
+      "via": "Ladders",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for a full-time Deep Learning Algorithm Engineer who is passionate about pioneering Deep Learning (DL), foundation models, and GenAI for image processing and computer vision applications in the semiconductor process control business",
+            "Qualified candidates are expected to have a strong background and in-depth experience in deep learning, especially in object detection, segmentation, vision foundation models, and multimodal models",
+            "Candidates should also have a deep understanding of relevant theory and hands-on experience grounding DL/GenAI models in real application domains, with strong emphasis on performance, efficiency, and deployment",
+            "The ideal candidate can work independently across the full deep learning project lifecycle, including conceptualizing, exploring, designing, implementing, optimizing, and deploying models",
+            "Doctorate (academic) degree with 0 years of related work experience; or Master's degree with 3 years of related work experience",
+            "Academic or industrial experience applying deep learning or GenAI to real-world problem(s), with impactful results",
+            "Required experience with DL model optimization/distillation for mixed or reduced precision (e.g., FP16, FP8) to improve throughput, latency, and deployment efficiency",
+            "Travel required: up to 10%"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Base Pay Range: $136,300.00 - $231,700.00 Annually",
+            "KLA's total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave",
+            "Interns are eligible for some of the benefits listed",
+            "Our pay ranges are determined by role, level, and location",
+            "The range displayed reflects the pay for this position in the primary location identified in this posting"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Understand state-of-the-art (SOTA) deep learning and GenAI models",
+            "Connect SOTA DL modeling approaches to domain problem statements",
+            "Analyze modeling requirements based on product feature requirements",
+            "Design deep learning and GenAI models to meet modeling requirements",
+            "Implement modeling prototypes and perform analysis",
+            "Perform model training and/or tuning on domain datasets",
+            "Evaluate and validate model performance against defined metrics",
+            "Analyze model performance bottlenecks",
+            "Design and optimize DL model architectures, including new modules, efficient backbones, and model compression techniques (e.g., distillation)",
+            "Optimize DL or GenAI model throughput and cost, including mixed-precision and low-precision inference and training (e.g., FP16, FP8)",
+            "Work and communicate collaboratively with peers",
+            "Present ideas, concepts, and results in professional technical settings"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=LslMoA7zkCfvnNl3AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CZ1uFm1EcFCnoCJo3dxLGo7kJL0LuQz9ED_Yujx4zXfVHG0KUqjGCW4ciBELbOGKmKFHV5g4LH_ICLrURxCGu0hI2J5jrVlPxqimLmh1lXznZTLCOMpsPjLqn0GjK5iTqzjsD7u5yxzW7bO38Eb2UoAYXpQyVacbuNgfjBVDTJcAAAA&shmds=v1_Ac3VAowypEwrR55XTxiLv-lS7nX9rNXNxf0AuHVj8oiQA2sREQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=LslMoA7zkCfvnNl3AAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAMAAAAgENppAAAAflBMVEX///8Ap+EAod+ekrhnUZX6+fud0e8An9/b7fnUzt/e7/kAnd4ApODd2OaTh7H29fhbuedKsuQ7AHzs6vHj4ers9vs+C35dQ45SMoi3rsqHyewkq+JDFYBKJINtVZjMxtnDvNKmmr6rocIAAGdrv+lPLIaIeKmAb6VYOot2YJ3PQwpxAAAA3klEQVRIie2SCQ6CMBBFPyCySAuyiKAoooLe/4K2tKAtxAMoP+n8ZiYv02WARYv+Q0koPQFSpUKku4MypUw9we1sILc/C/tCbDam6ZQHFtYKaAnwyBpi9QHaFWKxMw3D9KPACObA0xkaaNW4FCPoRsYs2FjQwaNcDHScjbtlYQqS61kHG96N9umbTGWlDoYxqlQD+2b2/XvHKuGsAhaX3lrvyx1JVzMjOQfHbCUsyTG86gQsHlRcqgW6lnI1qKmsPsn7H7WjjuPCB4X0SpEOZw7Z9/pMLg/q5Cxa9Lt6AYdwC3WqQvnwAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "136K–232K a year",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.theladders.com/job/algorithm-engineer-deep-learning-klatencor-milpitas-ca_87200778",
+      "job_title": "Algorithm Engineer - Deep Learning",
+      "description": "Job Description/Preferred Qualifications\n\nWe are looking for a full-time Deep Learning Algorithm Engineer who is passionate about pioneering Deep Learning (DL), foundation models, and GenAI for image processing and computer vision applications in the semiconductor process control business.\n\nQualified candidates are expected to have a strong background and in-depth experience in deep learning, especially in object detection, segmentation, vision foundation models, and multimodal models. Candidates should also have a deep understanding of relevant theory and hands-on experience grounding DL/GenAI models in real application domains, with strong emphasis on performance, efficiency, and deployment.\n\nThe ideal candidate can work independently across the full deep learning project lifecycle, including conceptualizing, exploring, designing, implementing, optimizing, and deploying models. Responsibilities for this position include, but are not limited to:\nUnderstand state-of-the-art (SOTA) deep learning and GenAI models.Connect SOTA DL modeling approaches to domain problem statements.Analyze modeling requirements based on product feature requirements.Design deep learning and GenAI models to meet modeling requirements.Implement modeling prototypes and perform analysis.Perform model training and/or tuning on domain datasets.Evaluate and validate model performance against defined metrics.Analyze model performance bottlenecks.Design and optimize DL model architectures, including new modules, efficient backbones, and model compression techniques (e.g., distillation).Optimize DL or GenAI model throughput and cost, including mixed-precision and low-precision inference and training (e.g., FP16, FP8).Work and communicate collaboratively with peers.Present ideas, concepts, and results in professional technical settings.\n\nQualifications/Education Desired\nPh.D. in Electrical Engineering, Computer Science, or related quantitative fields.Academic or industrial experience applying deep learning or GenAI to real-world problem(s), with impactful results.In-depth experience developing and optimizing deep learning, Vision Foundation Models (VFM), or Vision Language Models (VLM) in at least one of the following areas: computer vision, image processing, robotics, NLP, or equivalent, with strong emphasis on efficiency, scalability, and deployment performance.Required experience with DL model optimization/distillation for mixed or reduced precision (e.g., FP16, FP8) to improve throughput, latency, and deployment efficiency.Experience with GenAI coding tools, vibe coding, or vibe engineering.Proficiency in Python and one additional programming language from: C++, Java, Rust, Go.Proficiency in at least one deep learning framework (e.g., PyTorch, TensorFlow, JAX, or equivalent).Demonstrated deep learning expertise via technical publications in top conferences (e.g., NeurIPS, CVPR, ICML, ICLR, KDD, SIGGRAPH, etc.) and/or industrial patents and/or impactful open-source projects is required.Travel required: up to 10%.Experience in semiconductor process control is a plus.\n\nMinimum Qualifications\nDoctorate (academic) degree with 0 years of related work experience; or Master's degree with 3 years of related work experience.Academic or industrial experience applying deep learning or GenAI to real-world problem(s), with impactful results.Required experience with DL model optimization/distillation for mixed or reduced precision (e.g., FP16, FP8) to improve throughput, latency, and deployment efficiency.Travel required: up to 10%.\n\nBase Pay Range: $136,300.00 - $231,700.00 Annually\n\nPrimary Location: USA-CA-Milpitas-KLA\n\nKLA's total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave.\n\nInterns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process.",
+      "apply_options": [
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/algorithm-engineer-deep-learning-klatencor-milpitas-ca_87200778?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Orbotech/Job/Algorithm-Engineer-Deep-Learning/-in-Milpitas,CA?jid=83feb561c259326c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/f18f08d4-8f9e-4190-8eaa-670fb8ecffb2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/algorithm-engineer-deep-learning_7ea1a8f6e4e0e60b03ddae34f8b5bc9501539?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/algorithm-engineer-deep-learning-kla-JV_IC1147428_KO0,32_KE33,36.htm?jl=1010158484864&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/algorithm-engineer-deep-learning-milpitas-kla-57d98fc6836ed7b1e4529009c2225753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Snagajob",
+          "link": "https://www.snagajob.com/jobs/1267115302?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=1594b3a2e78e7995&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbGdvcml0aG0gRW5naW5lZXIgLSBEZWVwIExlYXJuaW5nIiwiY29tcGFueV9uYW1lIjoiS0xBIFRlbmNvciIsImh0aWRvY2lkIjoiTHNsTW9BN3prQ2Z2bk5sM0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdra3liR2xGY0Raa1QyWmljVzFHWlZGemRERmtORkZXZGxab2JUWTFkM2xvT0VOMlpFdFdVMlpNVlVkcGRscGpUVkpyY1hvd2QyWTJUVkJ2YzBSRmNFSnRNa0pLYVVWdlFqWk9Na05wWW13NFZEZ3pWamg2V21KUVlscGlaREk1VGxaeFYySm1SalZaTlhob1ExVmlWbE5pWWtwalNsSk1WV2RpUm0xdll6TjNiVVJLTFRFU0YzZG5hbXhoYzJvNFRIRjVSM0IwVVZCdlR6ZEdiMEZ2R2lKQlNFNHdSVGRJUVVZdFowZ3diVnBhVlZOellWSnFlblpOVjIxaFMzWndaUzFCIiwiZmN2IjoiMyIsImZjX2lkIjoiTHNsTW9BN3prQ2Z2bk5sM0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxZbEZ1VVhGWFFqbExORlJuYW5wTVdHOVZSSFJhVTJsRk9GRjNhM1UwWmtkYVJrOXNORnBOYjFwcE4yUmhlR2hoTkRKblkxTldiVTVhYVZVM1VHMXZlR1pyZURoTk0ydE5ObkZVVkdSWGVXSkVlbEp3TlVSUVZrOXBaV2c1ZFY4M01uRlhjMFJ0ZFZOMGRtSlZNV05vYkd0T1JVWTNaMmhWVEd4YVJYSlhNMlp3VVZKa1ZVOVpORzlUWWsxMFJXUkNhR3BVU0Zwb1QweDZXRzVFT1dsMlkyOVJObmR3TWpWbk16bDZORkZmTVZGQ1MxZGZiazE2VG5KT1lWOUZPVlpDZW5Kd2JrRmlORkZoVkZOS05WSnRTMnMzYlZVMExWcFFTRU5WVERsb1dEVkhkVFZHUW5WcFJFNUhSVE5aUmtaR1NuRlBPVzVNWTIxU1dUTk1RWEJPUzB0Mk1sZHZPR1Z1Y1VaWFdYRnNiRGhUYWxZeVRYaHFlRXRGZVdKcVZrMWtXVWh5ZGpaeldHZFhVekJoUTFObVltc3lWbWg0VkdGM2RIUkpOVUYxVGpOVVVIVnVPR2hVZEVnM01XRmZXalEyWjNGc0xVaHVkRXRXVG1KV1drbEVUWEJST0c5aGFHVnBRbmxmZUhNNGNIWlZFaGQzWjJwc1lYTnFPRXh4ZVVkd2RGRlFiMDgzUm05QmJ4b2lRVWhPTUVVM1IyTmZTRlU0YVVWVWJXWm5NWE5xWW5WUVZrRTJURmRZWlhoU2R3IiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxZbEZ1VVhGWFFqbExORlJuYW5wTVdHOVZSSFJhVTJsRk9GRjNhM1UwWmtkYVJrOXNORnBOYjFwcE4yUmhlR2hoTkRKblkxTldiVTVhYVZVM1VHMXZlR1pyZURoTk0ydE5ObkZVVkdSWGVXSkVlbEp3TlVSUVZrOXBaV2c1ZFY4M01uRlhjMFJ0ZFZOMGRtSlZNV05vYkd0T1JVWTNaMmhWVEd4YVJYSlhNMlp3VVZKa1ZVOVpORzlUWWsxMFJXUkNhR3BVU0Zwb1QweDZXRzVFT1dsMlkyOVJObmR3TWpWbk16bDZORkZmTVZGQ1MxZGZiazE2VG5KT1lWOUZPVlpDZW5Kd2JrRmlORkZoVkZOS05WSnRTMnMzYlZVMExWcFFTRU5WVERsb1dEVkhkVFZHUW5WcFJFNUhSVE5aUmtaR1NuRlBPVzVNWTIxU1dUTk1RWEJPUzB0Mk1sZHZPR1Z1Y1VaWFdYRnNiRGhUYWxZeVRYaHFlRXRGZVdKcVZrMWtXVWh5ZGpaeldHZFhVekJoUTFObVltc3lWbWg0VkdGM2RIUkpOVUYxVGpOVVVIVnVPR2hVZEVnM01XRmZXalEyWjNGc0xVaHVkRXRXVG1KV1drbEVUWEJST0c5aGFHVnBRbmxmZUhNNGNIWlZFaGQzWjJwc1lYTnFPRXh4ZVVkd2RGRlFiMDgzUm05QmJ4b2lRVWhPTUVVM1IyTmZTRlU0YVVWVWJXWm5NWE5xWW5WUVZrRTJURmRZWlhoU2R3IiwiZmN2IjoiMyJ9&q=Deep+Learning+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Deep Learning Engineer",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:14:42.275712+00:00",
+    "request_fingerprint": "905c36c7634c0ff3f2b85631093d25430105518b00d4179412dba8ddf884b4e0",
+    "job_count": 10
+  }
+}

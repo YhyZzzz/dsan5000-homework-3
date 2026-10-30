@@ -1,0 +1,958 @@
+{
+  "search_metadata": {
+    "id": "6ae507a147787444bd69040a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uyYc1O4hqq5nrdM9RHjQuwrqJ_aBbT6nbuefVayd56Q/6ae507a147787444bd69040a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/uyYc1O4hqq5nrdM9RHjQuwrqJ_aBbT6nbuefVayd56Q/6ae507a147787444bd69040a.md",
+    "created_at": "2026-10-30 21:09:53 UTC",
+    "processed_at": "2026-10-30 21:09:53 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Scientist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/uyYc1O4hqq5nrdM9RHjQuwrqJ_aBbT6nbuefVayd56Q/6ae507a147787444bd69040a.html",
+    "prettify_html_file": "https://serpapi.com/searches/uyYc1O4hqq5nrdM9RHjQuwrqJ_aBbT6nbuefVayd56Q/6ae507a147787444bd69040a.prettify",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "q": "Data Scientist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXWEptZGs1aWVsaEZZMDFyYkdKaGJGWmFZV2c0UTIxU2JsbGpUVlJsTW00eVoyNUpVV3hYY2xSSVdUVjRRbVY2WWtGd1FYUnhjSE56VjB3dFJFUklURlJhV1RWcVVpMXJaMUJ1TFZwa0xUUm1XRXR2VWtZNVZWRlRWMVp0T1d0ZlZFOUNZelp1YUZwWE9WcFpjazFQT1Vjd1ZYVmtSM1J3WTJoa1dTMXlRekJrYVVGTFNGSkRObUpVUjNWSFdWSTVPR1psWjJOb1RETlNSUzFvUkV0WVEweGpjVzE2ZUdsNGVFaFNkbFpPY1V3dGNsaHBaMUJzWTNKUWRTMWlTM2cyU21OaU5qUjRjVWc1VFVwQlgwTnliR1JJYUhoVFVWRjRUalp2WWpaNE5reGtSMjR3WlVKTVVFbHFNR1I2TUdoNFFXWXlNbU4wYjJJNVZGbHZXRmh2TTJWU1QzRjZWRlF5VVRWYVUwNXNXVko2V0RaTE9HOXFMVFpXTkdWMVpsZHpjbFJ0YUhwb1VqRkVWR0p2Y0daWGRYVjRhVlpJV1RCSlRVZEpRVzFXWTB0VVFrbEtkVWxCZWxseU1HMHRhVkZIUmxreFRsbFRkV3RITURWV2Nrb3hjMFZ4VUZWdFRucG5jWE0xVUdSblVteEpWamRoUXkxV1kwYzJNakpGU1ZGd1VqSmtTM1pKU2xOUVpWUjJNbVpaU2s1ZmJISldXR0ZPWjE5VVJWSm9WMDVYTkhVd0xVZElPR0l5WjFwWVRIaDBTelZ6ZUU1bWMwOWpPRk53ZGxWUlVtSnpaV05IWkcxdWRsVjVVa014YVRkaFYySXlNVkpHVVZCSlVIY1NGMnRCWm14aGMwOVhSVGhNWlRWT2IxQndMVWRmYTFGUkdpSkJTRTR3UlRkSFJWOHlaRU5JYmt4cVIxUnVWMVF6VVVObWQyNXlXVFpWYkdGUiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Sr. Data Scientist",
+      "company_name": "TEKsystems",
+      "location": "Fort Collins, CO",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience developing and deploying machine learning solutions in production environments",
+            "Strong Natural Language Processing (NLP) experience",
+            "Advanced Python development skills",
+            "Strong SQL and PostgreSQL experience",
+            "Experience building data science solutions in AWS cloud environments",
+            "Experience working with OCR, Document AI, Intelligent Document Processing (IDP), or document understanding technologies",
+            "Experience with predictive modeling, classification, information extraction, or related machine learning techniques",
+            "Experience evaluating model performance and improving accuracy through iterative testing and analysis",
+            "Ability to obtain a U.S. Government Position of Public Trust",
+            "Python",
+            "SQL / PostgreSQL",
+            "AWS Cloud Services",
+            "Machine Learning",
+            "Natural Language Processing",
+            "OCR",
+            "Intelligent Document Processing",
+            "Predictive Analytics",
+            "Must be able to pass a government background check and be in a Position of Public Trust"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay and Benefits",
+            "The pay range for this position is $50.00 - $60.00/hr",
+            "Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors",
+            "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+            "Benefits are subject to change and may be subject to specific elections, plan, or program terms",
+            "If eligible, the benefits available for this temporary role may include the following: Medical, dental & vision Critical Illness, Accident, and Hospital 401(k) Retirement Plan Pre-tax and Roth post-tax contributions available Life Insurance (Voluntary Life & AD&D for the employee and dependents) Short and long-term disability Health Spending Account (HSA) Transportation benefits Employee Assistance Program Time Off/Leave (PTO, Vacation or Sick Leave)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Join a federal wildlife conservation modernization initiative focused on transforming decades of permits, certificates, inspection records, and wildlife trade documentation into structured, searchable data assets",
+            "As a Senior Data Scientist, you will design and implement Document AI, OCR, machine learning, and natural language processing solutions that convert complex, unstructured records into valuable data used to support conservation, compliance, analytics, and regulatory decision-making",
+            "This role offers the opportunity to work on a high-impact modernization effort while building scalable AI-powered document intelligence capabilities in a cloud-based environment",
+            "Design and develop OCR and Document AI solutions for large collections of scanned records, permits, certificates, and legacy documents",
+            "Build machine learning and NLP models that extract, classify, validate, and transform unstructured information into structured data",
+            "Create document understanding workflows that support information extraction, taxonomy-based classification, and entity identification",
+            "Develop confidence scoring frameworks and exception-handling workflows for low-confidence outputs",
+            "Support human-in-the-loop review processes that improve data quality and model performance",
+            "Evaluate model performance using precision, recall, error analysis, and other machine learning metrics",
+            "Build reproducible and auditable machine learning pipelines with clear lineage and validation practices",
+            "Develop solutions that support reconciliation and relationship mapping across permits, applicants, species, countries, shipments, and related records",
+            "Collaborate closely with data architects, subject matter experts, business analysts, and platform engineers",
+            "Support cloud-based AI and data processing solutions using AWS services and modern machine learning frameworks",
+            "You'll work alongside data architects, platform engineers, business analysts, and domain subject matter experts supporting a mission-driven federal modernization initiative",
+            "The program is focused on improving accessibility, traceability, analytics, and reporting across critical wildlife trade data systems through the use of modern AI and machine learning technologies"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=QgtOpiC3-IIE0WlgAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7CA5yq6KJCC52rD-gg0PdyzUcSSTNhdwN9Q18bPEbvua7aNZ9NXBGRehdpKxRFHZw5xGEsLoAnOHG7BMt26Ba5GStSDJeFDU643iynGnk2b55lH-DBKxUEioNh-N-NiX7zep1echHlCaBmOHKVaHjlGKWLXTPH_wHtfKLAAAA&shmds=v1_Ac3VAoxTsZ0pnEj3mt5t1VAA7_Ah0C04KKX-NH-QML6GOEViTQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=QgtOpiC3-IIE0WlgAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAaCAMAAADVPG8RAAAAolBMVEXo6erp6uvg4eLk5ebr7O3d3t8AAADu7_CrrbHT1Nb4-fmPkpikpqu_wMOxs7bx8vPFxskAAAp7foa4ubzNztDn7PDr3tPyu4nZ3uLw5Nr6y6H-pkb6iwD6kQDymze-xcuHqcEAlNdvteL6xJOHYkVfY2wAAB9wcnoAABGcnqRDSFWexeIAiM-CuNwADi1XXGWwzeKGhYkAABrJ2-hKha6arb0UjSJOAAABTElEQVQ4je2SWVfCMBCFs0yztEkmkCK4i1rb4oKg_v-_ZlJ6UDziwb7qfUjykC8zd3IJH6aMDBP9Bw8A6WRCfw9G6mg6ncGOCMAPT3UgPT45PTu_uPQqqVu9KaU32X6yA-Fqfi1vbieVGN0JUTeNEGPRErGQny5-C94_POblEwIWgqEROs-1UMuGpY4jkfrm6bjxkLbeo3yer0YVElmITJr1sqrcetE4CdaFjNIQgjXMOe6d1U7Hk4d-qvDyKgrZg009HoemGhXIApZOBoPca4WoWtQGnUK5BQnM3qKNDdi32oqAPhZDlTmndWtjXSBBhlhRw8c_JjM9GFWLNq-FtahgxRUy5x2FEIBHUAEo2E0OlIqDdlE-PgqdI2kkdxYti5imREMWPcPXyKUhbgOwGSIr0xhJt9D0LenGIVmlsD8AQ_RHQDpMGWHDpN8BhN0Vqi23dj0AAAAASUVORK5CYII.png",
+      "extensions": [
+        "11 days ago",
+        "50–60 an hour",
+        "Contractor",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/teksystems/Job/Sr.-Data-Scientist/-in-Fort-Collins,CO?jid=6c9ac8af972d4f8d",
+      "job_title": "Sr. Data Scientist",
+      "description": "Description\n\n\nJoin a federal wildlife conservation modernization initiative focused on transforming decades of permits, certificates, inspection records, and wildlife trade documentation into structured, searchable data assets.\n\n\nAs a Senior Data Scientist, you will design and implement Document AI, OCR, machine learning, and natural language processing solutions that convert complex, unstructured records into valuable data used to support conservation, compliance, analytics, and regulatory decision-making.\n\n\nThis role offers the opportunity to work on a high-impact modernization effort while building scalable AI-powered document intelligence capabilities in a cloud-based environment.\n\n\n\n\nWhat You'll Do\n\n Design and develop OCR and Document AI solutions for large collections of scanned records, permits, certificates, and legacy documents\n Build machine learning and NLP models that extract, classify, validate, and transform unstructured information into structured data\n Create document understanding workflows that support information extraction, taxonomy-based classification, and entity identification\n Develop confidence scoring frameworks and exception-handling workflows for low-confidence outputs\n Support human-in-the-loop review processes that improve data quality and model performance\n Evaluate model performance using precision, recall, error analysis, and other machine learning metrics\n Build reproducible and auditable machine learning pipelines with clear lineage and validation practices\n Develop solutions that support reconciliation and relationship mapping across permits, applicants, species, countries, shipments, and related records\n Collaborate closely with data architects, subject matter experts, business analysts, and platform engineers\n Support cloud-based AI and data processing solutions using AWS services and modern machine learning frameworks\n\n\n\nRequired Qualifications\n\n Experience developing and deploying machine learning solutions in production environments\n Strong Natural Language Processing (NLP) experience\n Advanced Python development skills\n Strong SQL and PostgreSQL experience\n Experience building data science solutions in AWS cloud environments\n Experience working with OCR, Document AI, Intelligent Document Processing (IDP), or document understanding technologies\n Experience with predictive modeling, classification, information extraction, or related machine learning techniques\n Experience evaluating model performance and improving accuracy through iterative testing and analysis\n Ability to obtain a U.S. Government Position of Public Trust\n\n\n\nPreferred Qualifications\n\n AWS Textract\n AWS Bedrock\n AWS SageMaker\n AWS Lambda\n Document Intelligence platforms\n Intelligent Document Processing (IDP)\n Entity extraction and record reconciliation\n Layout-aware document models\n Experience operating within government, highly regulated, or compliance-focused environments\n Experience building human-in-the-loop AI workflows\n\n\n\nTechnologies You'll Use\n\n Python\n SQL / PostgreSQL\n AWS Cloud Services\n AWS Textract\n AWS Bedrock\n AWS SageMaker\n AWS Lambda\n Machine Learning\n Natural Language Processing\n OCR\n Document AI\n Intelligent Document Processing\n Predictive Analytics\n\n\n\nTeam & Environment\nYou'll work alongside data architects, platform engineers, business analysts, and domain subject matter experts supporting a mission-driven federal modernization initiative. The program is focused on improving accessibility, traceability, analytics, and reporting across critical wildlife trade data systems through the use of modern AI and machine learning technologies.\n\n\nAdditional Skills & Qualifications\n\n\nMust be able to pass a government background check and be in a Position of Public Trust.\n\n\nExperience Level\n\n\nIntermediate Level\n\nJob Type & Location\nThis is a Contract position based out of Fort Collins, CO.\n\nPay and Benefits\nThe pay range for this position is $50.00 - $60.00/hr.\n\n\nIndividual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors.\n\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to specific elections, plan, or program terms. If eligible, the benefits available for this temporary role may include the following: Medical, dental & vision Critical Illness, Accident, and Hospital 401(k) Retirement Plan Pre-tax and Roth post-tax contributions available Life Insurance (Voluntary Life & AD&D for the employee and dependents) Short and long-term disability Health Spending Account (HSA) Transportation benefits Employee Assistance Program Time Off/Leave (PTO, Vacation or Sick Leave)\n\nJob Type & Location\nThis is a Contract position based out of Fort Collins, CO.\n\nApplication Deadline\nThis position is anticipated to close on Oct 27, 2026.\n\nWorkplace Type\nThis is a fully remote position.\n\n\n\n\n\n\n\nAbout TEKsystems\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\n\n\n\n\n\nAbout TEKsystems and TEKsystems Global Services \nWere a leading provider of business and technology services. We accelerate business transformation for our customers. Our expertise in strategy, design, execution and operations unlocks business value through a range of solutions. Were a team of 80,000 strong, working with over 6,000 customers, including 80% of the Fortune 500 across North America, Europe and Asia, who partner with us for our scale, full-stack capabilities and speed. Were strategic thinkers, hands-on collaborators, helping customers capitalize on change and master the momentum of technology. Were building tomorrow by delivering business outcomes and making positive impacts in our global communities. TEKsystems and TEKsystems Global Services are Allegis Group companies. Learn more at TEKsystems.com.\n\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\nSan Francisco Fair Chance Ordinance: Pursuant to the San Francisco Fair Chance Ordinance, for all positions located in the city and county of San Francisco, we will consider for employment qualified applicants with arrest and conviction records.\n\n\nMassachusetts Lie Detector: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\n\nUse of Artificial Intelligence (AI): We may use Artificial Intelligence (AI) to support parts of our hiring process, including sourcing, screening, and evaluating candidates. AI helps assess applications and qualifications, but final decisions are made by our hiring team. By applying, you acknowledge and agree that your application may be reviewed using AI tools.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/teksystems/Job/Sr.-Data-Scientist/-in-Fort-Collins,CO?jid=6c9ac8af972d4f8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/sr-data-scientist-teksystems-fort-collins-co-united-states--appcast-7428_67862b7afbb16f8043105fdfb301414afcb4a368551ff1e00868cfb5f70039c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJURUtzeXN0ZW1zIiwiaHRpZG9jaWQiOiJRZ3RPcGlDMy1JSUUwV2xnQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV1haMFMxQmxNMnRzYUZCQ1lWZFlRWGxSUzBsQ05DMVVia2swT0V4c1owWnRZbUZ2VTFCMmQyUXpXWGxVY0hscmFVbExjR3d5Vlc1aFVXcE5UVmd6UzNaUGExWTBRMHhCUmpjNVUxaHhRMWw1VmpkclkxWnZlVU42U1Y5VGFpMW9lbmRGUVhoRE1XMU9MVzE0VjBWUWFHeG5SMFZxVUZKUVRUZFVVRkp0U2w4NU1HUlVNbklTRm05UlpteGhiMWR3U21GMU0zRjBjMUIyTkhGU1UxRWFJa0ZJVGpCRk4wWldWWGd5YlRkVldVdGpNVUZ1ZWsxRGVFcDNYMnQyYzBnM1EwRSIsImZjdiI6IjMiLCJmY19pZCI6IlFndE9waUMzLUlJRTBXbGdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Scientist/Quantitative Researcher",
+      "company_name": "Freestone Grove",
+      "location": "United States",
+      "via": "Mignone Center For Career Success - Harvard University",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Intellectual curiosity, particularly about how businesses operate and make money",
+            "Attention to detail, and the instinct to check a result before presenting it",
+            "Solid grounding in mathematics and statistics, and the discipline to represent uncertainty honestly rather than assume it away",
+            "Impeccable written and verbal communication, with the ability to communicate complex ideas to colleagues, both quantitative and non-quantitative",
+            "Ownership mentality, and comfort building process rather than inheriting it",
+            "Ability to work efficiently both independently and within a team, and to prioritize competing requests under tight deadlines",
+            "Bachelor's or advanced degree in a quantitative field such as statistics, mathematics, physics, astronomy, computer science, economics, or financial engineering",
+            "Strong working proficiency in Python, including pandas and the standard scientific stack",
+            "Proficiency of SQL, with familiarity with version control, testing, and writing code that colleagues will read and reuse",
+            "Comfortable collaborating through git and working with APIs",
+            "Recent or soon-to-be graduate through approximately four years of experience in quantitative research, data science, analytics, or software engineering",
+            "Clear evidence of unusual analytical ability: a rigorous thesis, research assistantship, publications, or distinction in mathematics, physics, or informatics olympiads or comparable competitions",
+            "We remain flexible on the specific path candidates have taken to develop quantitative research ability"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Working directly with portfolio managers and analysts, you will construct economically and statistically grounded forecasting models of firm-specific, industry, and macroeconomic fundamentals",
+            "You will be expected to reach conclusions, size your confidence in them, and defend them to the people who will act on the work",
+            "Working on research projects, independently and collaboratively, across the sectors our investment teams cover",
+            "Working closely with our Head of Data Science and Head of Quantitative Strategies, alongside highly talented sector-specific fundamental investment professionals",
+            "Sourcing, cleaning, and exploring new datasets including alternative, transactional, regulatory, and firm-disclosed",
+            "Building forecasting models of firm-specific, industry, and macroeconomic fundamentals, grounded in the economics of the business",
+            "Measuring the predictive content of a dataset for a specific single-name or sector question, and testing investment hypotheses against it",
+            "Investigating anomalies, reconciling conflicting sources, monitoring data pipelines, and documenting assumptions and limitations",
+            "Building and maintaining investor-facing trackers, dashboards, and recurring research workflows",
+            "Improving the quality, testing, documentation, and reusability of the shared Python and SQL tooling used across the team",
+            "Presenting research findings to portfolio managers, analysts, and quantitative researchers, and defending them"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=tP-VW6ZOZGzBu5SyAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCQBBEsc0nWG0tmBPBRrETA3YarMPmHJKTeBtuV8nX-K1esBlm4M1M8V0UxxMbU-0DogU1d31zNsYWPqAbFJx8j0RrukhL_0gSqRLpBiwPvdmoe-dUh7LTuedLLy8nEa1M7imtztJozwnjwIZmu9tM5Ri7FZ0ToJZRqpLkvxDpHoPhQXVegv4A4VKRvaEAAAA&shmds=v1_Ac3VAozoKF8i-RFtrbqPy8eaUBdgwd4Agf0SxbMd7DGFKKRYyA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=tP-VW6ZOZGzBu5SyAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://careerservices.fas.harvard.edu/jobs/freestone-grove-data-scientist-quantitative-researcher/",
+      "job_title": "Data Scientist/Quantitative Researcher",
+      "description": "About the Role  \n\n\nAt Freestone Grove, the fundamental research process is built on bottom-up, firm-specific analysis within deep sector specialization. We believe that specialization compounds, and that using alternative data and modern quantitative methods to produce actionable insight is a core component of the investment approach. Each sector has its own nuances and machinery, and we are building a team of researchers who will master them. \n\n\nEarly-career researchers join a central team that serves every sector we cover, which means unusually broad exposure in the first year: you will work across 1-2 sectors including but not limited to healthcare, financials, technology, and industrials on live questions posed by the investors covering them. As you build technical depth, sector knowledge, and commercial judgment, the path is toward dedicated coverage of a sector of your own. \n\n\nThe work is turning large, complex, and often unconventional datasets into differentiated single-name insight. Working directly with portfolio managers and analysts, you will construct economically and statistically grounded forecasting models of firm-specific, industry, and macroeconomic fundamentals. You will be expected to reach conclusions, size your confidence in them, and defend them to the people who will act on the work. The premium throughout is on process, robustness, interpretability, and economic significance. \n\n\nWe are looking for curious, rigorous thinkers with a genuine interest in markets and in how businesses actually make money, ready to challenge assumptions and push the boundaries of applied data science in a fast-paced, early-stage setting. \n\n\nThe day-to-day responsibilities will include: \n\n\n\nWorking on research projects, independently and collaboratively, across the sectors our investment teams cover \n\n\nWorking closely with our Head of Data Science and Head of Quantitative Strategies, alongside highly talented sector-specific fundamental investment professionals \n\n\nSourcing, cleaning, and exploring new datasets including alternative, transactional, regulatory, and firm-disclosed \n\n\nBuilding forecasting models of firm-specific, industry, and macroeconomic fundamentals, grounded in the economics of the business \n\n\nMeasuring the predictive content of a dataset for a specific single-name or sector question, and testing investment hypotheses against it \n\n\nInvestigating anomalies, reconciling conflicting sources, monitoring data pipelines, and documenting assumptions and limitations \n\n\nBuilding and maintaining investor-facing trackers, dashboards, and recurring research workflows \n\n\nImproving the quality, testing, documentation, and reusability of the shared Python and SQL tooling used across the team \n\n\nPresenting research findings to portfolio managers, analysts, and quantitative researchers, and defending them \n\nAttributes \n\n\n\nIntellectual curiosity, particularly about how businesses operate and make money \n\n\nAttention to detail, and the instinct to check a result before presenting it \n\n\nSolid grounding in mathematics and statistics, and the discipline to represent uncertainty honestly rather than assume it away \n\n\nImpeccable written and verbal communication, with the ability to communicate complex ideas to colleagues, both quantitative and non-quantitative \n\n\nOwnership mentality, and comfort building process rather than inheriting it \n\n\nAbility to work efficiently both independently and within a team, and to prioritize competing requests under tight deadlines \n\nQualifications \n\n\n\nBachelor's or advanced degree in a quantitative field such as statistics, mathematics, physics, astronomy, computer science, economics, or financial engineering \n\n\nStrong working proficiency in Python, including pandas and the standard scientific stack \n\n\nProficiency of SQL, with familiarity with version control, testing, and writing code that colleagues will read and reuse \n\n\nComfortable collaborating through git and working with APIs \n\n\nRecent or soon-to-be graduate through approximately four years of experience in quantitative research, data science, analytics, or software engineering \n\n\nClear evidence of unusual analytical ability: a rigorous thesis, research assistantship, publications, or distinction in mathematics, physics, or informatics olympiads or comparable competitions \n\n\nFamiliarity with company financial statements, industry KPIs, or alternative datasets is a plus \n\n \n\n\nThe above is an example of an ideal profile. We remain flexible on the specific path candidates have taken to develop quantitative research ability.",
+      "apply_options": [
+        {
+          "title": "Mignone Center For Career Success - Harvard University",
+          "link": "https://careerservices.fas.harvard.edu/jobs/freestone-grove-data-scientist-quantitative-researcher/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/innisfree-inc/data-researcher-133092888/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workcircuit.store",
+          "link": "https://workcircuit.store/remote-jobs/data-analystmarket-researcher?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tidewell",
+          "link": "https://tidewell.gilect.net/remote-jobs/data-researcher-c17d7269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Careerbyte",
+          "link": "https://careerbyte.fast-page.org/remote-jobs/data-researcher-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Anywhere Job",
+          "link": "https://www.remoteanywherejob.com/fr/job/data-contract-researcher-20762?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirly",
+          "link": "https://hirly.me/jobs/conflicts-data-researcher-at-troutman-4f5b9f36-9c17-4bed-b62e-151ee0181014?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-data-researcher-united-states-easy-hr-group-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdC9RdWFudGl0YXRpdmUgUmVzZWFyY2hlciIsImNvbXBhbnlfbmFtZSI6IkZyZWVzdG9uZSBHcm92ZSIsImh0aWRvY2lkIjoidFAtVlc2Wk9aR3pCdTVTeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlsaENiSGcxYkdaVU9HcDBXVVV5VlVkRmFrVmZaVWhaVm13eU9HdGxjMFpJZGs1R0xXWjFZMVpXYzIxeFowaGZTbk15WlhKR2FUTjRjRjlrVURCNmEyWnhUVGhtTlVSVlNIRjZaSFZ0TkZwT1dEWTJNVU5STmpreUxXZENTekp2WW5oc01WTnNjV1pGUXpsVk5uQlBaRzlDWjJVeE5VSkZlSEZZWTBKYUxWcFNPRUpRZDBJU0ZtOVJabXhoYjFkd1NtRjFNM0YwYzFCMk5IRlNVMUVhSWtGSVRqQkZOMFp6UzJ4b1JsTm1kRkZzVjBaQlozTXhWMVpVU0V3NE9GQnNVWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0UC1WVzZaT1pHekJ1NVN5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Scientist - Clearance Required",
+      "company_name": "LMI",
+      "location": "United States",
+      "via": "LMI - ICIMS",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in operations research, industrial engineering, applied mathematics, statistics, computer science, or related quantitative field; masters or PhD",
+            "7+ years of experience in advanced analytics, operations research, or data science, with direct responsibility for optimization model design and deployment",
+            "Demonstrated expertise in:",
+            "Linear and mixed-integer optimization, stochastic optimization, and/or robust optimization",
+            "Modeling tools and libraries (e.g., Pyomo, Gurobi, CPLEX, OR-Tools, or similar)",
+            "Integrating optimization models with predictive models (e.g., ML-driven demand forecasts)",
+            "Proven experience translating complex mission and business objectives into formal optimization formulations and delivering production-caliber solutions",
+            "Experience working with cross-functional teams (data engineers, logisticians, software developers, and mission owners) in an Agile environment",
+            "Excellent written and oral communication skills, including experience briefing senior leaders and explaining trade-offs to non-technical audiences",
+            "Active SECRET clearance; U.S. citizenship required"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Target salary range: $145,000-$180,000",
+            "Disclaimer: The salary range displayed represents the typical salary range for this position and is not a guarantee of compensation"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Scientist – SME will serve as the lead technical expert for optimization and advanced analytics within the portfolio",
+            "This role will own the design and implementation of prescriptive analytics solutions—especially optimization models—that set safety stock levels, recommend resupply quantities, and balance risk and cost across the supply chain",
+            "The SME will work closely with logisticians, ammunition SMEs, and data engineers to operationalize prescriptive decision support tools in Army Vantage and related environments",
+            "Continue to improve processes that:",
+            "Recommend ideal resupply quantities by installation and ammunition type",
+            "Align regional inventory to demand, reduce excess shipments and storage waste, and safeguard against stock-outs",
+            "Advance the Army along the analytics continuum from descriptive/diagnostic to predictive/prescriptive analytics, ensuring models are operationally actionable",
+            "Work closely with logistician and ammunition SMEs to formulate, implement, and tune linear, mixed-integer, stochastic, and multi-objective optimization models that consider:",
+            "Forecasted demand (unit forecasts and ML-based forecasts) and available depot stock",
+            "Transportation costs, storage constraints, and depot capacity",
+            "Additional optimization constraints, decision variables, and objectives that reflect real-world policies, doctrine, and operational constraints:",
+            "Readiness priorities and surge requirements",
+            "Collaborate with data engineers to ensure pipelines provide clean, timely input data and to embed optimization models into the application and Vantage workflows",
+            "Design and implement model performance metrics and KPIs and conduct near real-time monitoring of model impact",
+            "Lead experimentation, scenario analysis, and sensitivity studies",
+            "Provide technical leadership and mentorship to journeyman data scientists, guiding best practices in modeling and optimization",
+            "Support briefings to senior Army leadership and stakeholders, clearly explaining model design, trade-offs, and operational impact"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=HosNRh9UgA7keM0eAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce3s5HSzYCOCi06iIIouFueSxqM5iXc1d0K_xO81Lm948HjVd1LtGmSSDAdvHppAyEZqsIB9Qp89B4Qbvj-U8VHkWTrQ4kMEYTiK9Aln22g26MY51VT3at4o1EFeThg7Gd1TOv2j1egzDskbtqv1cqwH7ufTy_UExHBnsrJoSo36AzR82LOZAAAA&shmds=v1_Ac3VAoxFNzzEQgsyFDXrMs15q5LdDdHbRyTBoBxT4BOBbFgbJw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=HosNRh9UgA7keM0eAAAAAA%3D%3D",
+      "extensions": [
+        "26 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://careers-lmi.icims.com/jobs/14656/senior-data-scientist---clearance-required/job",
+      "job_title": "Senior Data Scientist - Clearance Required",
+      "description": "Overview\nThe Data Scientist – SME will serve as the lead technical expert for optimization and advanced analytics within the portfolio. This role will own the design and implementation of prescriptive analytics solutions—especially optimization models—that set safety stock levels, recommend resupply quantities, and balance risk and cost across the supply chain. The SME will work closely with logisticians, ammunition SMEs, and data engineers to operationalize prescriptive decision support tools in Army Vantage and related environments.\n\n\nLMI is a new breed of digital solutions provider dedicated to accelerating government impact with innovation and speed. Investing in technology and prototypes ahead of need, LMI brings commercial-grade platforms and mission-ready AI to federal agencies at commercial speed.\n\n\n \n\n\nLeveraging our mission-ready technology and solutions, proven expertise in federal deployment, and strategic relationships, we enhance outcomes for the government, efficiently and effectively. With a focus on agility and collaboration, LMI serves the defense, space, healthcare, and energy sectors—helping agencies navigate complexity and outpace change. Headquartered in Tysons, Virginia, LMI is committed to delivering impactful results that strengthen missions and drive lasting value.\n\n\nResponsibilities\nResponsibilities\n\n\n\n Continue to improve processes that: \n \n  Recommend ideal resupply quantities by installation and ammunition type\n  Align regional inventory to demand, reduce excess shipments and storage waste, and safeguard against stock-outs\n \n Advance the Army along the analytics continuum from descriptive/diagnostic to predictive/prescriptive analytics, ensuring models are operationally actionable.\n Work closely with logistician and ammunition SMEs to formulate, implement, and tune linear, mixed-integer, stochastic, and multi-objective optimization models that consider:\n \n  Forecasted demand (unit forecasts and ML-based forecasts) and available depot stock\n  Transportation costs, storage constraints, and depot capacity.\n  Additional optimization constraints, decision variables, and objectives that reflect real-world policies, doctrine, and operational constraints: \n  Readiness priorities and surge requirements.\n \n Collaborate with data engineers to ensure pipelines provide clean, timely input data and to embed optimization models into the application and Vantage workflows.\n Design and implement model performance metrics and KPIs and conduct near real-time monitoring of model impact.\n Lead experimentation, scenario analysis, and sensitivity studies.\n Provide technical leadership and mentorship to journeyman data scientists, guiding best practices in modeling and optimization.\n Support briefings to senior Army leadership and stakeholders, clearly explaining model design, trade-offs, and operational impact.\n\nQualifications\nMinimum Qualifications\n\n\n\n Bachelor's degree in operations research, industrial engineering, applied mathematics, statistics, computer science, or related quantitative field; masters or PhD.\n 7+ years of experience in advanced analytics, operations research, or data science, with direct responsibility for optimization model design and deployment.\n Demonstrated expertise in: \n \n  Linear and mixed-integer optimization, stochastic optimization, and/or robust optimization.\n  Modeling tools and libraries (e.g., Pyomo, Gurobi, CPLEX, OR-Tools, or similar).\n  Integrating optimization models with predictive models (e.g., ML-driven demand forecasts).\n \n Proven experience translating complex mission and business objectives into formal optimization formulations and delivering production-caliber solutions.\n Experience working with cross-functional teams (data engineers, logisticians, software developers, and mission owners) in an Agile environment.\n Excellent written and oral communication skills, including experience briefing senior leaders and explaining trade-offs to non-technical audiences.\n Active SECRET clearance; U.S. citizenship required.\n\n \n\n\nDesired Qualifications\n\n\n\n Experience in DoD logistics, supply chain, or munitions management; familiarity with Army ammunition systems and processes.\n Prior work with enterprise data platforms (e.g., Army Vantage, Army Data Platform) and AWS GovCloud or similar secure cloud environments.\n Familiarity with model lifecycle management, including validation, verification, and continuous improvement processes in operational environments.\n PMP and/or SAFe/Agile certifications\n\n \n\n\nTarget salary range: $145,000-$180,000\n\n\n \n\n\nDisclaimer: The salary range displayed represents the typical salary range for this position and is not a guarantee of compensation. Individual salaries are determined by various factors including, but not limited to location, internal equity, business considerations, client contract requirements, and candidate qualifications, such as education, experience, skills, and security clearances.\n\n\n \n\n\nJob LocationsUS-Remote",
+      "apply_options": [
+        {
+          "title": "LMI - ICIMS",
+          "link": "https://careers-lmi.icims.com/jobs/14656/senior-data-scientist---clearance-required/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=2de6bc59649ecc73&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/logistics-management-institute/Job/Data-Scientist-Clearance-Required/-in-Remote,US?jid=ef00ae1a19a214ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6a91efe70875ca77c4a743d2-senior-data-scientist---clearance-required?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-data-scientist_7ea1a179aad22a383c48798b373286649a1e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Diversity Jobs",
+          "link": "https://diversityjobs.com/career/18489770/Senior-Data-Scientist-Clearance-Required-Virginia-Tysons?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6abc8d07187b1378d873e6a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/data-scientist-clearance-required-lmi-64ddc2f4971433b71ceddb2e636d7c7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QgLSBDbGVhcmFuY2UgUmVxdWlyZWQiLCJjb21wYW55X25hbWUiOiJMTUkiLCJodGlkb2NpZCI6Ikhvc05SaDlVZ0E3a2VNMGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXa2QwWTB0NmVrZFVTM3AxV25kNFJtNXZUMUZhVmxKQ1NYSk9ORzF3Ym1kRmNXdDZhbE52Ums4M1ZuRnhVbkp4ZEdKamMxSkpkbGcyUTFOU1lVeE5jWFJtVWtwcVFWVmxkRkJXUkdkbWRGUnpZbVIwZG5KM1MweEpSVGRMVkhJNFRtaFBRMnRTZVdZNFVHdERUeTFxYjNneU0yTnpTVlZwTFZodFFtOXJValJoWkZFelpXTVNGbTlSWm14aGIxZHdTbUYxTTNGMGMxQjJOSEZTVTFFYUlrRklUakJGTjBocmNrOXJiM1JaVFVsa1pXSnNUbEJKVDJ3MGNsSjNUWFpFWkdjIiwiZmN2IjoiMyIsImZjX2lkIjoiSG9zTlJoOVVnQTdrZU0wZUFBQUFBQT09In0="
+    },
+    {
+      "title": "Associate Data Scientist, DIBI",
+      "company_name": "NU USA Northeastern University",
+      "location": "United States",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A close working relationship with the team, along with creative thinking on the application of the Navigator framework for government and industry contracts, will be required",
+            "MINIMUM QUALIFICATIONS Education & Experience Required Master’s degree in Data Science, Statistics, Computer Science Computer Science, Applied Mathematics, or a closely related field 2–4 years of professional experience in software engineering, data science, or applied R&D, with exposure to machine learning and AI system development in research, prototype, or production environments",
+            "Experience contributing to government, defense, or security‑related R&D programs (internships, fellowships, or full‑time roles)",
+            "Familiarity with simulation‑based models (e.g., physics‑based, network‑based, agent‑based, or stochastic simulations) for analysis, experimentation, or decision support",
+            "undefined Skills & Attributes Required Advanced proficiency in Python and/or R studio and familiarity with modern ML/AI development workflows",
+            "Exposure to C++ and/or Java for performance‑critical components Experience contributing to the design, implementation, testing, or evaluation of ML/AI-enabled or simulation-drive software systems",
+            "Demonstrated experience with data visualization and reporting tools (e.g., Tableau, Power BI, matplotlib, Plotly), including designing dashboards for executive or sponsor audiences",
+            "Proven experience independently building, validating, and interpreting statistical or machine learning models, and communicating tradeoffs to non-technical stakeholders",
+            "Strong command of data cleaning, ETL processes, and data quality assurance practices, including for messy or incomplete real-world datasets",
+            "Solid software engineering fundamentals, including version control (e.g., Git/GitHub), documentation, and reproducibility",
+            "Excellent written and verbal communication skills, with experience presenting analytical findings directly to leadership or sponsors",
+            "Familiarity with cloud computing environments (e.g., Azure, AWS or GovCloud equivalents)",
+            "Interest in UI or frontend development for technical or analyst‑facing tools (e.g., Svelte, React, or similar frameworks)",
+            "Exposure to dashboarding or BI tools for analyst-facing or leadership-facing reporting Familiarity with MLOps concepts, experiment tracking, or reproducible research pipelines",
+            "Experience working with multidisciplinary teams across research, engineering, and applied R&D environments",
+            "Director, Strategy and Communications to make recommendations on systems build out for internal operations (10%) Position Type Research Additional Information Northeastern University considers factors such as candidate work experience, education and skills when extending an offer"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The primary office for this position is located at NU’s Boston Campus Through NU, the institute offers an impressive benefits package, including multiple retirement plan options with extremely generous matching, as well as tuition waiver for classes and advanced degree programs",
+            "A full description of available benefits can be found on the NU website",
+            "This is a 1-year fixed term position, continuation and renewal are contingent on performance and availability of funding",
+            "Northeastern has a comprehensive benefits package for benefit eligible employees",
+            "This includes medical, vision, dental, paid time off, tuition assistance, wellness & life, retirement- as well as commuting & transportation",
+            "Compensation Grade/Pay Type: 110S Expected Hiring Range: $76,335.00 - $107,823.75 With the pay range(s) shown above, the starting salary will depend on several factors, which may include your education, experience, location, knowledge and expertise, and skills as well as a pay comparison to similarly-situated employees already in the role",
+            "Salary ranges are reviewed regularly and are subject to change"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Data Scientist will operate as part of a multi-disciplinary team (academia, industry and government) and will contribute directly to the successful execution of federally funded projects/activities, Responsibilities include providing technical expertise and analytical support to Principal investigators or co-principal investigators as a Jr",
+            "Data Scientist for a wide range of projects and activities involving machine learning (ML) and artificial intelligence (AI), including autonomy, sensing and communication, and decision support systems, among others",
+            "The Jr, Data Scientist will work collaboratively with and help guide, multi-disciplinary teams across the DIBI Higher Education Consortium — spanning academic, government, and industry partners — to design, validate, and maintain datasets and analytical products that inform institute leadership and sponsor decision-making",
+            "Data Scientist will take a role in building and maintaining the data pipelines and analytical components underlying the existing Navigator methodology, working closely with — and providing guidance to — data researchers, engineers, and leadership across the institute",
+            "Successful candidates will be responsible team players and passionate about machine learning technologies, as well as possess a deep understanding of machine learning technology and experience in turning machine learning systems into practical, state-of-the-art systems that can be enhanced for projects or activities as per federal agency",
+            "KEY RESPONSIBILITIES & ACCOUNTABILITIES Support Research and Development efforts to scale Navigator methodology applied to defense contracts (SIB), to include, development and implementation, prototype modeling & simulation, design, and experimentation",
+            "This supports the defense funding received that supports this role (40%) Test and validation of soAI/ML Tools for sprints, tasks, projects and deliverables; to include scaling of projects by suggesting tools and systems that enhance efficiency and support humans in their work (40%) Provide subject matter expertise across a diverse set of application areas and ad hoc requests that may come in from the sponsor",
+            "Present information and answer questions form government sponsors and stakeholders",
+            "Research and support PI or CO-PIs with scoping project budgets as appropriate (Systems, tools) (10%) Special Projects as assigned: Working closely with Managing Director, Founding Director and other core leadership members, help to scope proposals and opportunities",
+            "Working closely with DIBI Leadership Team and Sr"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=l1a5p9bc1MeoreAXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3MsQrCQAyAYVz7CE6ZRXsiuOhUKUgdupTOJT1DL1Iv5RKkPpDvaXX54V--7LPKjoWqeEYjKNEQGs8UjdW2UFaXCnZwkx6UMPkAEuEqMoy0PgezSU_OqY75oIbGPvfydBKpl9k9pNdfOg2YaBoXvzsc93M-xWHj6hbapoBakgVCNUoR2sgvSsr2Bv6f0R2aBSb9Asb8theoAAAA&shmds=v1_Ac3VAoxeafF0T5VHVoMZHMDVRdFtmHkoXGx0TNBFPdveOukSLw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=l1a5p9bc1MeoreAXAAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Associate-Data-Scientist--DIBI_R142889",
+      "job_title": "Associate Data Scientist, DIBI",
+      "description": "About the Opportunity JOB SUMMARY The Defense Industrial Base Institute at Northeastern University (NU) – a rapidly growing defense focused institute that conducts cutting-edge applied R&D – is seeking an experienced and highly capable Jr. Data Scientist with expertise in applying methods/frameworks/systems that apply ML&AI. The Jr. Data Scientist will operate as part of a multi-disciplinary team (academia, industry and government) and will contribute directly to the successful execution of federally funded projects/activities, Responsibilities include providing technical expertise and analytical support to Principal investigators or co-principal investigators as a Jr. Data Scientist for a wide range of projects and activities involving machine learning (ML) and artificial intelligence (AI), including autonomy, sensing and communication, and decision support systems, among others. The Jr, Data Scientist will work collaboratively with and help guide, multi-disciplinary teams across the DIBI Higher Education Consortium — spanning academic, government, and industry partners — to design, validate, and maintain datasets and analytical products that inform institute leadership and sponsor decision-making. Specifically, the Jr. Data Scientist will take a role in building and maintaining the data pipelines and analytical components underlying the existing Navigator methodology, working closely with — and providing guidance to — data researchers, engineers, and leadership across the institute. Successful candidates will be responsible team players and passionate about machine learning technologies, as well as possess a deep understanding of machine learning technology and experience in turning machine learning systems into practical, state-of-the-art systems that can be enhanced for projects or activities as per federal agency. A close working relationship with the team, along with creative thinking on the application of the Navigator framework for government and industry contracts, will be required. The primary office for this position is located at NU’s Boston Campus Through NU, the institute offers an impressive benefits package, including multiple retirement plan options with extremely generous matching, as well as tuition waiver for classes and advanced degree programs. A full description of available benefits can be found on the NU website. This is a 1-year fixed term position, continuation and renewal are contingent on performance and availability of funding. MINIMUM QUALIFICATIONS Education & Experience Required Master’s degree in Data Science, Statistics, Computer Science Computer Science, Applied Mathematics, or a closely related field 2–4 years of professional experience in software engineering, data science, or applied R&D, with exposure to machine learning and AI system development in research, prototype, or production environments. Preferred Master’s degree or Ph.D with a focus on data science, data‑intensive systems, network science, optimization, or related areas. Experience contributing to government, defense, or security‑related R&D programs (internships, fellowships, or full‑time roles). Familiarity with simulation‑based models (e.g., physics‑based, network‑based, agent‑based, or stochastic simulations) for analysis, experimentation, or decision support. undefined Skills & Attributes Required Advanced proficiency in Python and/or R studio and familiarity with modern ML/AI development workflows. Exposure to C++ and/or Java for performance‑critical components Experience contributing to the design, implementation, testing, or evaluation of ML/AI-enabled or simulation-drive software systems. Demonstrated experience with data visualization and reporting tools (e.g., Tableau, Power BI, matplotlib, Plotly), including designing dashboards for executive or sponsor audiences. Proven experience independently building, validating, and interpreting statistical or machine learning models, and communicating tradeoffs to non-technical stakeholders. Strong command of data cleaning, ETL processes, and data quality assurance practices, including for messy or incomplete real-world datasets. Solid software engineering fundamentals, including version control (e.g., Git/GitHub), documentation, and reproducibility. Excellent written and verbal communication skills, with experience presenting analytical findings directly to leadership or sponsors. U.S. Citizenship with the ability to obtain and maintain a security clearance Desired: Exposure to Retrieval‑Augmented Generation (RAG), vector databases, embedding pipelines, or LLM‑enabled systems. Familiarity with cloud computing environments (e.g., Azure, AWS or GovCloud equivalents). Introductory experience with graph‑based ML or GNNs is a plus Monte Carlo or stochastic simulation methods Synthetic data generation or simulation‑in‑the‑loop workflows Familiarity with geospatial data, spatiotemporal datasets, or PostgreSQL/PostGIS is a plus. Interest in UI or frontend development for technical or analyst‑facing tools (e.g., Svelte, React, or similar frameworks). Exposure to dashboarding or BI tools for analyst-facing or leadership-facing reporting Familiarity with MLOps concepts, experiment tracking, or reproducible research pipelines. Experience working with multidisciplinary teams across research, engineering, and applied R&D environments. KEY RESPONSIBILITIES & ACCOUNTABILITIES Support Research and Development efforts to scale Navigator methodology applied to defense contracts (SIB), to include, development and implementation, prototype modeling & simulation, design, and experimentation. This supports the defense funding received that supports this role (40%) Test and validation of soAI/ML Tools for sprints, tasks, projects and deliverables; to include scaling of projects by suggesting tools and systems that enhance efficiency and support humans in their work (40%) Provide subject matter expertise across a diverse set of application areas and ad hoc requests that may come in from the sponsor. Present information and answer questions form government sponsors and stakeholders.Research and support PI or CO-PIs with scoping project budgets as appropriate (Systems, tools) (10%) Special Projects as assigned: Working closely with Managing Director, Founding Director and other core leadership members, help to scope proposals and opportunities. Working closely with DIBI Leadership Team and Sr. Director, Strategy and Communications to make recommendations on systems build out for internal operations (10%) Position Type Research Additional Information Northeastern University considers factors such as candidate work experience, education and skills when extending an offer. Northeastern has a comprehensive benefits package for benefit eligible employees. This includes medical, vision, dental, paid time off, tuition assistance, wellness & life, retirement- as well as commuting & transportation. Visit https://hr.northeastern.edu/benefits/ for more information. All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, religion, color, national origin, age, sex, sexual orientation, disability status, or any other characteristic protected by applicable law. Compensation Grade/Pay Type: 110S Expected Hiring Range: $76,335.00 - $107,823.75 With the pay range(s) shown above, the starting salary will depend on several factors, which may include your education, experience, location, knowledge and expertise, and skills as well as a pay comparison to similarly-situated employees already in the role. Salary ranges are reviewed regularly and are subject to change. Founded in 1898, Northeastern is a global research university and the recognized leader in experiential lifelong learning. Our approach of integrating real-world experience with education, research, and innovation empowers our students, faculty, alumni, and partners to create worldwide impact.    Our global university system provides our community and academic, government, and industry partners with unique opportunities to think locally and act globally. The system—which includes 14 campuses across the U.S., U.K., and Canada, 300,000-plus alumni, and 3,000 partners worldwide—serves as a platform for scaling ideas, talent, and solutions. The university’s residential campuses for undergraduate and graduate degrees are located in Boston, London, and Oakland, California. Our research and graduate campuses are in the Massachusetts communities of Burlington and Nahant; Arlington, Virginia; Charlotte, North Carolina; Miami; Portland, Maine; Seattle; Silicon Valley, California; Toronto; and Vancouver. Northeastern’s personalized, experiential undergraduate and graduate programs lead to degrees through the doctorate in 10 colleges and schools across our campuses. Learning emphasizes the intersection of data, technology, and human literacies, uniquely preparing graduates for careers of the future and lives of fulfillment and accomplishment. Our research enterprise, with an R1 Carnegie classification, is solutions oriented and spans the world. Our faculty scholars and students work in teams that cross not just disciplines, but also sectors—aligned around solving today’s highly interconnected global challenges and focused on transformative impact for humankind.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Associate-Data-Scientist--DIBI_R142889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Upwork",
+          "link": "https://www.upwork.com/freelance-jobs/apply/Hotel-Market-Data_~022115236005812379485/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-associate_7ea1aa7c2132597027f0658d407ce23b2e445?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/intersources/market-data-developer-net-azure-capital-markets-109716363/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sokoni Kwetu",
+          "link": "https://sokonikwetu.com/jobs/detail/academy-data-360-associate-list-engage-10e278e648d81feb0858873f20a0263a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/academy-data-360-associate--united-states--e72fc3b1b9c718d39dffcb4e7e004872c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs | Careerflow",
+          "link": "https://careerflow.fast-page.org/remote-jobs/experienced-lockbox-data-entry-associate-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/associate-data-scientist-dibi-northeastern-boston-ma-main-campus--t7xk-872739126?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgRGF0YSBTY2llbnRpc3QsIERJQkkiLCJjb21wYW55X25hbWUiOiJOVSBVU0EgTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHkiLCJodGlkb2NpZCI6ImwxYTVwOWJjMU1lb3JlQVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZa2hZUVdwelJtVlZhbXgyUjNjMmFHcHhWR0Y0Vm1jMlJ6bFlNRll5VWxaMFRuRnFjVGhhVEZrek0wRXRWRnAxTTJ3elVTMXhTSGs1ZW1wbFFqSTVNbXgxVHpab05VTnRiRGhsZVVGbE1VSkZlR2htYXpCelVGWTRUMWxpTVRWclJrTjBMVll4TkdwQk1WQk1SMEYzZFVoNFVEZERkWGxRYjNaRVFVSXljR1pyV1hreFpFVVNGbTlSWm14aGIxZHdTbUYxTTNGMGMxQjJOSEZTVTFFYUlrRklUakJGTjBaQllubEJaSEJRUVUxbVRFeEViemhpZERrNWEyTmhPRGh1YjBFIiwiZmN2IjoiMyIsImZjX2lkIjoibDFhNXA5YmMxTWVvcmVBWEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company_name": "Garmin International, Inc.",
+      "location": "Louisville, CO",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Pursuing a degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math or relevant field",
+            "Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)",
+            "Familiarity using systems such as SQL, Python or R",
+            "Understanding of basic descriptive and inferential statistics",
+            "Knowledge in data analysis methods and tools",
+            "Demonstrated strong and effective verbal, written, and interpersonal communication skills",
+            "Must be team-oriented, possess a positive attitude and work well with others",
+            "Driven problem solver with proven success in solving difficult problems",
+            "Consistently demonstrates quality and effectiveness in work documentation and organization"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This position is eligible for Garmin's benefit program"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will be responsible for learning and training to develop complex data sets, machine learning models, and collaborate with cross-functional teams to provide actionable insights and AI products",
+            "Contribute to the collecting, cleaning, and preprocessing of large datasets from multiple sources",
+            "Contribute to exploratory data analysis (EDA) to identify trends, patterns, and anomalies",
+            "Learn to develop and implement predictive models using machine learning and statistical methods",
+            "Collaborate with cross-functional teams to translate data insights into actionable recommendations",
+            "Learn to build and deploy annotation, training, and evaluation pipelines and automate workflows to improve efficiency",
+            "Learn to develop processes and tools to monitor and analyze model performance and data accuracy",
+            "Learn to visualize and present data for stakeholders using basic graphics/technologies",
+            "Use predictive modeling to enhance user experiences, revenue generation, and business initiatives",
+            "Learn and adapt methods from senior team members",
+            "Participate in peer reviews and provide constructive feedback",
+            "Demonstrate a drive to learn and master new technologies and techniques"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=W5DT0XL1spNThwPsAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NQQrCQAxFcdsjuMpaxhkR3OjSQlEEFx6gpENoR6ZJmUTpVbytFdx8eA8ev_qsKlejITxiIrakBhc2KgxbuEoHSljiAMLQiPSZ1qfBbNJjCKrZ92poKfooYxCmTubwlE5_0-qAhaaMRu3-sJv9xP3GNVjGxP-LJRXG7BaMHhZ9k1fSd8qZHJzvX12UF9ycAAAA&shmds=v1_Ac3VAozR6NIjUZN9x3TK-sTPCsGiFjuv6zThuvoI6ghmcA12Sw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=W5DT0XL1spNThwPsAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEUAAAD____f3987Ozv4-Pi7u7tJSUkvLy8pKSmWlpa4uLgyMjLCwsLT09Pj4-M_Pz_s7Ox6enp0dHSHh4dbW1tOTk4aGhpUVFSenp7y8vIVFRWAgIBERERpaWnKysqOjo6oqKgiIiITDVzwAAAA7ElEQVRIie2RzXaEIAxGv0QUQUH8GRFnnHHe_yUbbTf1dNHuuuAuIORwkxMAMplMJvOvuLMKZSVB28tSMrMb8PDDkbHQXMOWEi_LxTM0Pia7ARMlOQZb3QzVkZSUJEZHDZieUqS8iGQAPa8Aj-ol4j7PA-mY_ALVMgoR_a6eP4gbBp8cooKRLiExpQ0xTWTd6D_FV0HWXkXmc044XnbpHgx60kcZR4X5Eg0qIov1m6i9cky2ovt4t4S0yzhBBkZssYRzRimGG9mpv_TstumNpjjCuHb1ua3HM6PuxJALR0438_vXP5XJZDKZP_ABFYcKqpWiyA8AAAAASUVORK5CYII.png",
+      "extensions": [
+        "17 days ago",
+        "30–36 an hour",
+        "Internship"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=5076a759e42a2f45",
+      "job_title": "Data Scientist Intern",
+      "description": "Overview: \n \n  We are seeking a full-time Data Scientist Intern at Garmin's Louisville, CO location. In this role, you will be responsible for learning and training to develop complex data sets, machine learning models, and collaborate with cross-functional teams to provide actionable insights and AI products.\n  Responsibilities: \n \n   Essential Functions\n \n \n  Contribute to the collecting, cleaning, and preprocessing of large datasets from multiple sources\n  Contribute to exploratory data analysis (EDA) to identify trends, patterns, and anomalies\n  Learn to develop and implement predictive models using machine learning and statistical methods\n  Collaborate with cross-functional teams to translate data insights into actionable recommendations\n  Learn to build and deploy annotation, training, and evaluation pipelines and automate workflows to improve efficiency\n  Learn to develop processes and tools to monitor and analyze model performance and data accuracy\n  Learn to visualize and present data for stakeholders using basic graphics/technologies\n  Use predictive modeling to enhance user experiences, revenue generation, and business initiatives\n  Learn and adapt methods from senior team members\n  Participate in peer reviews and provide constructive feedback\n  Demonstrate a drive to learn and master new technologies and techniques\n  Qualifications: \n \n   Basic Qualifications\n \n \n  Pursuing a degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math or relevant field\n  Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)\n  Familiarity using systems such as SQL, Python or R\n  Understanding of basic descriptive and inferential statistics\n  Knowledge in data analysis methods and tools\n  Demonstrated strong and effective verbal, written, and interpersonal communication skills\n  Must be team-oriented, possess a positive attitude and work well with others\n  Driven problem solver with proven success in solving difficult problems\n  Consistently demonstrates quality and effectiveness in work documentation and organization\n \n \n   Desired Qualifications\n \n \n  Previous experience working in a team environment\n \n \n  The deadline to apply to this role is November 13th, 2026.\n \n \n \n  \n\n    Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran's status, age or disability.\n \n \n \n  \n\n    This position is eligible for Garmin's benefit program. Details can be found here: Garmin Intern Benefits",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=5076a759e42a2f45&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/data-scientist-intern-louisville-co--18593efc-830b-497c-a034-8b9998a5c0c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-scientist-intern-louisville-co--18593efc-830b-497c-a034-8b9998a5c0c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010294104064&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EQuest Jobs",
+          "link": "https://jobs.equest.com/jobs/CO/garmin-international/data-scientist-intern-490609829.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/es/view?id=641258805735719718&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobby",
+          "link": "https://jobbys.vercel.app/job/275587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJHYXJtaW4gSW50ZXJuYXRpb25hbCwgSW5jLiIsImh0aWRvY2lkIjoiVzVEVDBYTDFzcE5UaHdQc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdqUjVNelJKTms4dGNWb3lVRXc0V0RSNVkybFVOREJRU2tsVE9YZEplRFk0VGxKZkxYZHRObVZYVURoNWNXWlRiblV4UlhVdGRuUlpORmRhY0dGTVoxbHhiMlp3ZURaSWMyVnFaV2xKVXpNemIxcElUalZ2Ums5UWJVRnhYM2hyT0haWmRUUTJUMmR1ZFMwNWIyMW5XRVYxVDJwbFlqTTRTRmRPWjNScmNHRkdiRk5OY1UwU0ZtOVJabXhoYjFkd1NtRjFNM0YwYzFCMk5IRlNVMUVhSWtGSVRqQkZOMGhXTjIwNE5sUkRlWGRSTVhSaU5ETkpSa2t6T0hGdVVWVTVZMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJXNURUMFhMMXNwTlRod1BzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Staff Data Scientist, Rewarded Apps",
+      "company_name": "Fetch",
+      "location": "Anywhere",
+      "via": "Gem",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "8+ years of experience in data science, analytics, quantitative strategy, or a related field, including ownership of complex product or business domains",
+            "Advanced proficiency in Python and SQL, with experience building reusable analytical and modeling workflows",
+            "Experience developing, evaluating, and operationalizing machine learning and predictive models, including feature engineering and translating model outputs into business decisions",
+            "Strong foundation in statistics, experimental design, power analysis, metric selection, segmentation, and causal inference",
+            "Experience applying causal inference techniques such as difference-in-differences, matching, synthetic controls, or related methodologies",
+            "Experience developing models related to personalization, propensity, recommendations, forecasting, retention, or lifetime value",
+            "Demonstrated ability to independently structure and solve ambiguous, high-impact problems while balancing analytical rigor with business urgency",
+            "A track record of using analytics to drive measurable improvements in areas such as revenue, engagement, retention, product performance, or operational efficiency",
+            "Proven ability to influence senior stakeholders across Product, Engineering, Marketing, and business teams without direct authority",
+            "Experience mentoring analysts or data scientists and improving the quality of work across a broader team",
+            "Exceptional communication and data storytelling skills, including the ability to explain sophisticated analytical concepts to non-technical audiences"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: At Fetch, we offer competitive compensation packages including base, equity, and benefits to the exceptional folks we hire",
+            "Discover our benefits and how our employees live rewarded at https://fetch.com/careers"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will collaborate closely with product, platform, and engineering partners, help shape standards and best practices, and ensure our AI and data capabilities scale reliably as Fetch grows",
+            "Fetch is looking for a Staff Data Scientist to serve as the senior analytical and scientific leader for our Play business and broader Rewarded Apps portfolio",
+            "Reporting to the Senior Director of User Analytics & Insights, you’ll partner with General Managers and leaders across Product, Marketing, Engineering, and other functions to shape how data, experimentation, and advanced analytics inform the future of Play",
+            "This is a strategic, hands-on individual contributor role",
+            "You’ll set the analytical direction for Play, identify the highest-value questions for the business, and lead complex analyses and modeling initiatives that influence product strategy, monetization, engagement, and long-term growth",
+            "While this role has no direct reports, you’ll mentor analysts and data scientists, establish best practices, and raise the bar for analytical rigor across the organization",
+            "This is a full-time role that can be held from one of our US offices or remotely in the United States",
+            "Set the analytical and scientific strategy for Play, identifying high-impact opportunities across revenue, margin, engagement, retention, user experience, and advertiser performance",
+            "Serve as a senior thought partner to business, Product, Marketing, and Engineering leaders, proactively defining the questions analytics should answer",
+            "Translate ambiguous business and product challenges into structured analytical approaches that clearly communicate trade-offs, uncertainty, and expected impact",
+            "Develop a deep understanding of the Play P&L and connect user behavior and product performance to revenue, margin, and marketplace outcomes",
+            "Lead advanced analytics and data science initiatives across engagement, retention, monetization, personalization, segmentation, and marketplace dynamics",
+            "Build predictive and machine learning models that identify behavioral patterns, forecast outcomes, prioritize opportunities, and inform product and business strategy",
+            "Shape Play’s experimentation and measurement strategy, applying A/B testing, causal inference, quasi-experimental methods, and observational analysis as appropriate",
+            "Develop scalable analytical assets, feature pipelines, modeling frameworks, and trusted measurement systems using Python and SQL",
+            "Partner with Product and Engineering to operationalize models, scoring frameworks, and analytical outputs that improve the user experience and business performance",
+            "Translate complex findings into clear recommendations for senior and executive audiences, framed around customer outcomes, financial impact, strategic risk, and opportunity cost",
+            "Mentor analysts and data scientists, review high-impact analyses, and establish best practices for modeling, experimentation, documentation, reusable code, and data storytelling"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=H607eUFXybrrbuPXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0HODjdLJqI4FKngig4WpzLJb02kZoLuQP7G_6xdXnje6_6rqq6VRwGuKAitD5S0ii6gwd9sPTUQ5OzwB7u7EAIiw_ACW7M40Sbc1DNUlsrMplRFDV64_ltOZHj2b7YyR-dBCyUJ1TqjqfDbHIat-sr6WKLCZ4p6lJaRpTkB2bX8CmUAAAA&shmds=v1_Ac3VAowycOp8N3V-qq2zIyosI48S7r0cCqD8jhcjZmLuf7UvBQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=H607eUFXybrrbuPXAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.gem.com/fetch/am9icG9zdDpADrqj1jDB8FFuUWBHmQ8T",
+      "job_title": "Staff Data Scientist, Rewarded Apps",
+      "description": "Meet Fetch AI & DataAI & Data at Fetch sit at the center of how we understand our business, make decisions, and build intelligent products. The organization operates as an integrated AI & data ecosystem, spanning multiple disciplines, including data engineering, analytics engineering, machine learning, experimentation, and data platforms, all working together to turn data into durable business and customer impact.\nTeams operate in complex problem spaces where requirements evolve, tradeoffs are constant, and the right answer is rarely obvious. Success depends on strong technical judgment, comfort with ambiguity, and the ability to gather context and make informed decisions while balancing quality, performance, scalability, and responsible use.\nPractitioners across this org contribute hands-on to production systems, analytical foundations, and intelligent features. You will collaborate closely with product, platform, and engineering partners, help shape standards and best practices, and ensure our AI and data capabilities scale reliably as Fetch grows.\n\nAbout the Role:Fetch is looking for a Staff Data Scientist to serve as the senior analytical and scientific leader for our Play business and broader Rewarded Apps portfolio. Reporting to the Senior Director of User Analytics & Insights, you’ll partner with General Managers and leaders across Product, Marketing, Engineering, and other functions to shape how data, experimentation, and advanced analytics inform the future of Play.\nThis is a strategic, hands-on individual contributor role. You’ll set the analytical direction for Play, identify the highest-value questions for the business, and lead complex analyses and modeling initiatives that influence product strategy, monetization, engagement, and long-term growth. While this role has no direct reports, you’ll mentor analysts and data scientists, establish best practices, and raise the bar for analytical rigor across the organization.\nThis is a full-time role that can be held from one of our US offices or remotely in the United States.\n\nRole Responsibilities:Set the analytical and scientific strategy for Play, identifying high-impact opportunities across revenue, margin, engagement, retention, user experience, and advertiser performance.Serve as a senior thought partner to business, Product, Marketing, and Engineering leaders, proactively defining the questions analytics should answer.Translate ambiguous business and product challenges into structured analytical approaches that clearly communicate trade-offs, uncertainty, and expected impact.Develop a deep understanding of the Play P&L and connect user behavior and product performance to revenue, margin, and marketplace outcomes.Lead advanced analytics and data science initiatives across engagement, retention, monetization, personalization, segmentation, and marketplace dynamics.Build predictive and machine learning models that identify behavioral patterns, forecast outcomes, prioritize opportunities, and inform product and business strategy.Shape Play’s experimentation and measurement strategy, applying A/B testing, causal inference, quasi-experimental methods, and observational analysis as appropriate.Develop scalable analytical assets, feature pipelines, modeling frameworks, and trusted measurement systems using Python and SQL.Partner with Product and Engineering to operationalize models, scoring frameworks, and analytical outputs that improve the user experience and business performance.Translate complex findings into clear recommendations for senior and executive audiences, framed around customer outcomes, financial impact, strategic risk, and opportunity cost.Mentor analysts and data scientists, review high-impact analyses, and establish best practices for modeling, experimentation, documentation, reusable code, and data storytelling.\n\nMinimum Requirements:8+ years of experience in data science, analytics, quantitative strategy, or a related field, including ownership of complex product or business domains.Advanced proficiency in Python and SQL, with experience building reusable analytical and modeling workflows.Experience developing, evaluating, and operationalizing machine learning and predictive models, including feature engineering and translating model outputs into business decisions.Strong foundation in statistics, experimental design, power analysis, metric selection, segmentation, and causal inference.Experience applying causal inference techniques such as difference-in-differences, matching, synthetic controls, or related methodologies.Experience developing models related to personalization, propensity, recommendations, forecasting, retention, or lifetime value.Demonstrated ability to independently structure and solve ambiguous, high-impact problems while balancing analytical rigor with business urgency.A track record of using analytics to drive measurable improvements in areas such as revenue, engagement, retention, product performance, or operational efficiency.Proven ability to influence senior stakeholders across Product, Engineering, Marketing, and business teams without direct authority.Experience mentoring analysts or data scientists and improving the quality of work across a broader team.Exceptional communication and data storytelling skills, including the ability to explain sophisticated analytical concepts to non-technical audiences.\n\nPreferred Requirements:Experience in consumer technology, gaming, marketplaces, rewards, loyalty, or another high-frequency digital product.Experience with modern analytics engineering tools and practices, including dbt, Git/GitHub, Spark, or similar technologies.Experience working with businesses where user engagement, monetization, incentives, and marketplace economics are closely connected.Experience combining advanced analytics with both product and commercial strategy.\n\nCompensation: At Fetch, we offer competitive compensation packages including base, equity, and benefits to the exceptional folks we hire. Discover our benefits and how our employees live rewarded at https://fetch.com/careers.",
+      "apply_options": [
+        {
+          "title": "Gem",
+          "link": "https://jobs.gem.com/fetch/am9icG9zdDpADrqj1jDB8FFuUWBHmQ8T?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/staff-data-scientist-conversation-intelligence-los-angeles-ca--39e810f3-2cf1-4643-8c75-52f8f3169933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Zocdoc/Job/Staff-Data-Scientist,-Marketplace-Analytics/-in-New-York,NY?jid=75115d6d461aae4f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/staff-data-scientist-marketing-open-positions-8665510?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/staff-data-scientist-rewarded-apps--northern--e69a6186b9e1c1a82da86102e89c3488f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Atomico Job Board",
+          "link": "https://careers.atomico.com/companies/zocdoc-3/jobs/67987577-staff-data-scientist-marketplace-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/staff-data-scientist-lead-generation-launch-potato-austin-texas-9l6kw204102aeph1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/staff-data-scientist_7ea1a0f5b9ccdfa3d6833e2049f160c91ee5c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBEYXRhIFNjaWVudGlzdCwgUmV3YXJkZWQgQXBwcyIsImNvbXBhbnlfbmFtZSI6IkZldGNoIiwiaHRpZG9jaWQiOiJINjA3ZVVGWHlicnJidVBYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVU5U2IzaFNNbEZyU0daMFpXSXdWalJpUzFOdmMzUk1NRFZTZVY5NVdEazRRV3cwYTJOTE5VZFJOR05DTVVSc016bFRiVGhvZVd0TWNHRnlhVUoxTUZrNFVIcE1hMWhGY1ZCV2RsOUtaMU5UTmpkU05UUjJTRVYyVVdoQlMwUjZhamhIUmpaVVZUUldiMWQzWkVsdU9GRklNbUpPYlhCalpqWmFUVVJmYWxnM2RIWjBRVUVTRm05UlpteGhiMWR3U21GMU0zRjBjMUIyTkhGU1UxRWFJa0ZJVGpCRk4waHBOV0pPZFZGc09HNHdRMHN3ZUZvd2NETlZZbEI0WVRreWJYYyIsImZjdiI6IjMiLCJmY19pZCI6Ikg2MDdlVUZYeWJycmJ1UFhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Scientist SME Jobs",
+      "company_name": "Leidos",
+      "location": "Englewood, CO",
+      "via": "Clearance Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are looking for an exceptional Data Scientist Subject Matter Expert (SME) to join the Chinook Program and help shape the future of an advanced application supporting an Intelligence Community (IC) customer",
+            "The successful candidate will work closely with software engineers, data engineers, system engineers, DevSecOps engineers, UI/UX professionals, product owners, test engineers, program leadership, and intel customer stakeholders",
+            "The position requires an individual who can operate at both the strategic and hands-on levels establishing data science strategy while remaining technically engaged in solving complex analytical and engineering challenges",
+            "Active Top Secret/SCI clearance with the ability to successfully pass a Polygraph examination",
+            "US citizenship is required per contract",
+            "Bachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience",
+            "May possess a Doctorate in technical domain",
+            "12+ years demonstrated experience working as a Data Scientist, Senior/Principal Data Scientist, Machine Learning Engineer, or equivalent senior technical role",
+            "Extensive experience applying statistical analysis, machine learning, and advanced analytics to complex problems",
+            "Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing",
+            "Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC",
+            "Expert proficiency in Python and/or R (or similar languages) and experience with data science libraries (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, or equivalent tecchnologies)",
+            "Strong experience with big data processing tools (e.g., Spark, PySpark, Kafka, Hadoop, AWS or Azure cloud platforms)",
+            "Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL)",
+            "Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics)",
+            "Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI)",
+            "Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams",
+            "Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range: Pay Range $131,300.00 - $237,350.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary",
+            "Pay and Benefits",
+            "Pay and benefits are fundamental to any career decision",
+            "That's why we craft compensation packages that reflect the importance of the work we do for our customers",
+            "Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This is an exciting opportunity for a highly accomplished data science leader who thrives on solving difficult problems, discovering patterns hidden within complex datasets, and transforming analytical insights into operational capabilities",
+            "You will work at the intersection of data science, software engineering, artificial intelligence, machine learning, analytics, and mission operations to develop innovative solutions that make a measurable difference",
+            "As a Data Scientist SME, you will lead the design, development, evaluation, and operationalization of sophisticated data science capabilities",
+            "The role requires a combination of deep technical expertise, analytical rigor, software engineering understanding, and the ability to translate complex mission requirements into actionable data-driven solutions",
+            "Serve as the senior technical authority for data science, advanced analytics, and AI/ML, translating mission needs into actionable analytical solutions",
+            "Lead the design, development, validation, and optimization of statistical, predictive, prescriptive, and machine learning models",
+            "Analyze complex, heterogeneous datasets to identify patterns, anomalies, trends, and insights that support mission objectives",
+            "Drive the development and operationalization of AI/ML capabilities, including classification, regression, clustering, anomaly detection, NLP, and predictive modeling",
+            "Establish standards and best practices for model performance, validation, explainability, bias, uncertainty, reproducibility, and operational effectiveness",
+            "Partner with data, software, and systems engineers to define data requirements, feature engineering, data quality, governance, and scalable integration approaches",
+            "Collaborate with engineering and DevSecOps teams to transition analytical solutions into secure, maintainable, scalable production capabilities and CI/CD pipelines",
+            "Support Agile and SAFe planning and execution by translating data science initiatives into capabilities, stories, technical enablers, dependencies, and risks",
+            "Lead technical reviews, trade studies, and working sessions, and establish methodologies, patterns, and practices across the program",
+            "Engage with customers, stakeholders, and leadership to communicate findings, recommendations, risks, and mission impact",
+            "Mentor data scientists, engineers, and other technical team members, and review analytical approaches, code, models, and documentation",
+            "Evaluate and recommend emerging data science and AI/ML technologies to improve application capabilities and mission outcomes"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=Q4SDifRP03JelcDMAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBAA8doPCJ72LJqI4EWPtQiieOgDSpouSSTuhu6CfYHvtr3MnGaq36oyV6cOWp-QNIlC-2zgzr3AfhEIutFHYIIbc8i4uUTVImdrRbIJok6TN54_lgl7nux7bhd0Et2IJTvF7ng6TKZQ2K4fmAYWSAQNzbcv87CD-vUHcVubNYkAAAA&shmds=v1_Ac3VAozhhEC3vJ-4wrpoM4xl1IvTuorUmvLKTsMnTLxChWkd8A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=Q4SDifRP03JelcDMAAAAAA%3D%3D",
+      "extensions": [
+        "15 days ago",
+        "131,300–237,350 a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.clearancejobs.com/jobs/9244744/data-scientist-sme",
+      "job_title": "Data Scientist SME Jobs",
+      "description": "R-00194638\n\nDescription \n\nTurn Mission Data into Mission Advantage. \n\n  \n\nAre you ready to turn complex data into insights that drive mission-critical decisions? We are looking for an exceptional Data Scientist Subject Matter Expert (SME) to join the Chinook Program and help shape the future of an advanced application supporting an Intelligence Community (IC) customer. \n\n  \n\nThis is an exciting opportunity for a highly accomplished data science leader who thrives on solving difficult problems, discovering patterns hidden within complex datasets, and transforming analytical insights into operational capabilities. You will work at the intersection of data science, software engineering, artificial intelligence, machine learning, analytics, and mission operations to develop innovative solutions that make a measurable difference. \n\n  \n\nAs a Data Scientist SME, you will lead the design, development, evaluation, and operationalization of sophisticated data science capabilities. The role requires a combination of deep technical expertise, analytical rigor, software engineering understanding, and the ability to translate complex mission requirements into actionable data-driven solutions. \n\n  \n\nThe successful candidate will work closely with software engineers, data engineers, system engineers, DevSecOps engineers, UI/UX professionals, product owners, test engineers, program leadership, and intel customer stakeholders. \n\n  \n\nThe position requires an individual who can operate at both the strategic and hands-on levels establishing data science strategy while remaining technically engaged in solving complex analytical and engineering challenges. \n\n  \n\nPosition may be performed in the following locations below. \n\n\n Tucson, AZ  Gaithersburg  Alexandria, VA  Chantilly, VA   Englewood, CO  St. Louis, MO \n   \n\nClearance Level Required: \n\nActive Top Secret/SCI clearance with the ability to successfully pass a Polygraph examination.\n\n \n\nPrimary Responsibilities:\nServe as the senior technical authority for data science, advanced analytics, and AI/ML, translating mission needs into actionable analytical solutions.Lead the design, development, validation, and optimization of statistical, predictive, prescriptive, and machine learning models.Analyze complex, heterogeneous datasets to identify patterns, anomalies, trends, and insights that support mission objectives.Drive the development and operationalization of AI/ML capabilities, including classification, regression, clustering, anomaly detection, NLP, and predictive modeling.Establish standards and best practices for model performance, validation, explainability, bias, uncertainty, reproducibility, and operational effectiveness.Partner with data, software, and systems engineers to define data requirements, feature engineering, data quality, governance, and scalable integration approaches.Collaborate with engineering and DevSecOps teams to transition analytical solutions into secure, maintainable, scalable production capabilities and CI/CD pipelines.Support Agile and SAFe planning and execution by translating data science initiatives into capabilities, stories, technical enablers, dependencies, and risks.Lead technical reviews, trade studies, and working sessions, and establish methodologies, patterns, and practices across the program.Engage with customers, stakeholders, and leadership to communicate findings, recommendations, risks, and mission impact.Mentor data scientists, engineers, and other technical team members, and review analytical approaches, code, models, and documentation.Evaluate and recommend emerging data science and AI/ML technologies to improve application capabilities and mission outcomes.\n \n\nBasic Qualifications:\n US citizenship is required per contract  Bachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience. May possess a Doctorate in technical domain.  12+ years demonstrated experience working as a Data Scientist, Senior/Principal Data Scientist, Machine Learning Engineer, or equivalent senior technical role.  Extensive experience applying statistical analysis, machine learning, and advanced analytics to complex problems. Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing.Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC.Expert proficiency in Python and/or R (or similar languages) and experience with data science libraries (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, or equivalent tecchnologies).Strong experience with big data processing tools (e.g., Spark, PySpark, Kafka, Hadoop, AWS or Azure cloud platforms).Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL).Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics).Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI).Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams.Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights.\n \n\nPreferred Qualifications:\nAdvanced certifications in data science or machine learning.Familiarity with the customer’s mission and specific geospatial intelligence challenges.Expertise in advanced deep learning techniques, particularly in computer vision and image analysis for geospatial applications.Experience with cloud-native applications and distributed computing in a geospatial context.Experience deploying models into production environments.Experience with Kubernetes and containerized applications.Experience developing REST APIs or other services for analytic capabilities.Experience with NLP and/or LLM.Experience with geospatial analytics and spatial data.Experience with streaming or near-real time analytics.Experience with developing analytical capabilities within secure or air-gapped environments.Published research or technical papers in geospatial intelligence, machine learning, or data science.\n \n\n#Chinook\n\n#NSBA\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.\n Original Posting: October 15, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\n Pay Range:  Pay Range $131,300.00 - $237,350.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law. \n\nAbout Leidos\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com .\n\nPay and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits .\n\nSecuring Your Data\n\nBeware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com .\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission .\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+      "apply_options": [
+        {
+          "title": "Clearance Jobs",
+          "link": "https://www.clearancejobs.com/jobs/9244744/data-scientist-sme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBTTUUgSm9icyIsImNvbXBhbnlfbmFtZSI6IkxlaWRvcyIsImh0aWRvY2lkIjoiUTRTRGlmUlAwM0plbGNETUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdXSjFXWEpOWTFGdmFtNDNjRWhGVjB4NExYRTVabU55TVU1a01tTk9Ta3hFTlZFd1RIVlRSSFF3Vm1KMGExbFplRGgzTWt4RE1rOWFaek54TjNGbWVrVm5aMWd5ZGkxTlFVaEVWMEkyZG1GV016UlZSVEpJU2tGaGJVZHFZMmxoTFRWclJpMXhjRGRGZFRoSmRVUkpVM0V6VTI1dlFteG9UV2xETFd4UFJIUk9iM0k1U2xJU0ZtOVJabXhoYjFkd1NtRjFNM0YwYzFCMk5IRlNVMUVhSWtGSVRqQkZOMGhGZG1SQlRVb3dVUzFrWWxWNmJUQjZSbWhQUjJGRk9FNUtaWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJRNFNEaWZSUDAzSmVsY0RNQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist (Remote)",
+      "company_name": "The Athletic",
+      "location": "Anywhere",
+      "via": "Built In NYC",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2-4 years of experience as a data scientist or data analyst with a proven ability to apply scientific methods to solve real-world problems on web scale data",
+            "A strong working knowledge of Python and how to use it to train machine learning models and put them into production",
+            "A solid understanding of SQL with an ability to efficiently pull and write to our data warehouses",
+            "An understanding of subscription media and recommendation engines, with the ability to turn it into insights and optimizations",
+            "Knowledge of statistical principles and how they apply to predictive modeling",
+            "Strong verbal and written communication skills with ability to build cross-functional relationships",
+            "Can explain sophisticated concepts to diverse audiences and craft compelling stories with data"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The annual base salary range for this role is $125,000.00 - $145,000.00 USD",
+            "The total compensation offered for this position may vary based on factors such as education, experience, skills, and location",
+            "It may also include non-cash rewards and benefits",
+            "The base salary range is subject to change and may be modified in the future",
+            "For roles in the U.S., dependent on your role, you may be eligible for variable pay, such as an annual bonus and restricted stock",
+            "Benefits may include medical, dental and vision benefits, Flexible Spending Accounts (F.S.A.s), a company-matching 401(k) plan, paid vacation, paid sick days, paid parental leave, tuition reimbursement and professional development programs",
+            "For roles outside of the U.S., information on benefits will be provided during the interview process"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will work closely with our data, product, growth, and engineering teams to develop advanced machine learning models",
+            "These models will help us understand our business, optimize and automate our workflows, and have our product make smarter recommendations",
+            "Design, build, and implement mathematical models to drive key long-term product goals, like training a model that predicts which of our free users are most likely to subscribe, or recommending the right articles to the right users at the right time",
+            "Lead projects with hands-on analysis and modeling, drawing from multiple analytical methods to choose the right tool and right level of complexity appropriate for the job",
+            "Use quantitative analysis to deeply understand what our users are saying, and to develop recommendations based on that analysis",
+            "Design and develop data science pipelines in production",
+            "Guide complex experiments",
+            "Cultivate an outstanding data science environment"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=QT1QraybttxgcfQ_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CIJwowomIrjoJAiCo9W5XOLRRNK70LuhD-FDW5d_-_7mu2jcFQ2hjZnYshqsHzSI0QZ2cJcASjjGBMJwE-kLLc_JrOrJe9XiejW0HF2UwQtTkMl_JOg_nSYcqRY06g7H_eQq99vVMxFcLBWaFWSGF2ejN7TzhvQH8p3SEY8AAAA&shmds=v1_Ac3VAowRuuNs7wjH0lZgvSbB4mq3zTiU848lDqdozSzRvYULfA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=QT1QraybttxgcfQ_AAAAAA%3D%3D",
+      "extensions": [
+        "25 days ago",
+        "125K–145K a year",
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.builtinnyc.com/job/data-scientist-remote/11517250",
+      "job_title": "Data Scientist (Remote)",
+      "description": "About Us\n\n \n\nPowered by one of the largest global newsrooms in sports media, The Athletic brings sports fans the most comprehensive stories about the teams, sports and athletes they love. The Athletic’s newsroom of 500+ full-time staff delivers in-depth coverage of hundreds of professional and college teams across more than 47 North American markets and all 20 football clubs in the English Premier League, as well as many Championship clubs.\n\n\n\n\nAbout the RoleWe are looking for a data scientist who will bring a deep understanding of our sportswriting, our in-game experience, and the way our subscribers use The Athletic to help us make our best-in-class product even better. In this role, you will work closely with our data, product, growth, and engineering teams to develop advanced machine learning models. These models will help us understand our business, optimize and automate our workflows, and have our product make smarter recommendations. As a member of our data science team, your work will have a significant impact at The Athletic.\n\nThis role is 100% remote for candidates currently based in the United States or Canada. \n\nResponsibilities\n\n\n\nDesign, build, and implement mathematical models to drive key long-term product goals, like training a model that predicts which of our free users are most likely to subscribe, or recommending the right articles to the right users at the right time.Lead projects with hands-on analysis and modeling, drawing from multiple analytical methods to choose the right tool and right level of complexity appropriate for the job.Use quantitative analysis to deeply understand what our users are saying, and to develop recommendations based on that analysis.Design and develop data science pipelines in production.Guide complex experiments.Cultivate an outstanding data science environment.\n\nRequirements \n\n\n\n2-4 years of experience as a data scientist or data analyst with a proven ability to apply scientific methods to solve real-world problems on web scale data.A strong working knowledge of Python and how to use it to train machine learning models and put them into production.A solid understanding of SQL with an ability to efficiently pull and write to our data warehouses.An understanding of subscription media and recommendation engines, with the ability to turn it into insights and optimizations.Knowledge of statistical principles and how they apply to predictive modeling.Strong verbal and written communication skills with ability to build cross-functional relationships.Can explain sophisticated concepts to diverse audiences and craft compelling stories with data.\n\n\n\n\n\nThe annual base salary range for this role is $125,000.00 - $145,000.00 USD. The total compensation offered for this position may vary based on factors such as education, experience, skills, and location. It may also include non-cash rewards and benefits. The base salary range is subject to change and may be modified in the future.\n\n\n\n\nFor roles in the U.S., dependent on your role, you may be eligible for variable pay, such as an annual bonus and restricted stock. Benefits may include medical, dental and vision benefits, Flexible Spending Accounts (F.S.A.s), a company-matching 401(k) plan, paid vacation, paid sick days, paid parental leave, tuition reimbursement and professional development programs.\n\n \n\nFor roles outside of the U.S., information on benefits will be provided during the interview process.\n\n\n\nWe are excited to learn more about you and your experience. To keep our hiring process as fair and authentic as possible, we ask that you submit your own work and not use GenAI tools to generate substantive content during the application and interview process. If you are a candidate for a technical role, we will let you know what specific tools you are permitted to use for your technical assessment.\n\nThe Athletic Media Company is an equal opportunity employer and enthusiastically encourages people from all backgrounds and experiences to apply. The Athletic will consider all applicants without regard to race, religion, color, national origin, ancestry, physical and/or mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, transgender status, age, sexual orientation, military or veteran status, or any other protected characteristic under applicable law.\n\n \n\nClick here to review our Applicant Privacy Notice, which describes how and when The Athletic Media Company collects, uses, and shares certain personal information of job applicants and prospective employees.\n\n \n\nBeware of fraudulent job recruiting schemes! Our recruiters use careers@theathletic.com exclusively, and our team members will use an email address with @theathletic.com domain. We do not conduct interviews via text or instant message and we do not ask candidates to download software, to purchase equipment through us, or to provide sensitive personally identifiable information, such as bank accounts or social security numbers. If you have been contacted by someone claiming to be a member of the recruiting/HR team at The Athletic but operating from a different email address about a job offer, please report it as potential job fraud to the law enforcement and to people@theathletic.com.",
+      "apply_options": [
+        {
+          "title": "Built In NYC",
+          "link": "https://www.builtinnyc.com/job/data-scientist-remote/11517250?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/2c3bd80d-1c18-4b40-be5a-d2d274d0abf2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-scientist-remote-atlanta-ga--ffe38acf-943e-4ca1-b302-ead27a77c62f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/data-scientist-remote/11517250?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-progressive-leasing-4436625532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/talon-hiring-solutions/Job/Data-Scientist-(Remote)/-in-Remote,US?jid=075ed73123c6b4e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/data-scientist-remote-the-athletic-media-company-10305633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ac495cb8a27695aea3019e1-data-scientist-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IlRoZSBBdGhsZXRpYyIsImh0aWRvY2lkIjoiUVQxUXJheWJ0dHhnY2ZRX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdXeG1ZbTFDWDBaTlRUbEVTMnR1TW1kUlNqTjFYemN3YUhoeVVFWlNiWEYxT0VGNk9EaHVWR0p5Y2twUWNWRTVTekpVYTBaM2JYRmhZVEoyUVVsQ09DMXpVV2R4VjJaTVVsOVVZbXB0Vlhoa1dYZHpPWGRCY0V4WFVFbE1hSGxITmxoUGJtaGZVaTFCWkhsc1lWWTNSMWRYZWpkT1NsbFVNa3RHTVU1dFRXNXVhazFhUTBNU0ZtOVJabXhoYjFkd1NtRjFNM0YwYzFCMk5IRlNVMUVhSWtGSVRqQkZOMFZmUTNwV04yMWFZalZ3TXpWVlNHOXdVMDU2Wkd4MFpHeHRla0UiLCJmY3YiOiIzIiwiZmNfaWQiOiJRVDFRcmF5YnR0eGdjZlFfQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist, Strategic Partner Analytics",
+      "company_name": "Ibotta",
+      "location": "Anywhere",
+      "via": "Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates must live in the United States",
+            "2+ years of progressive experience in a professional data science, machine learning, statistics, or data analysis role, or related experience",
+            "Deep Python (pandas, scikit-learn) and SQL skills",
+            "Spark or PySpark experience is a strong plus",
+            "Hands-on experience building and evaluating machine learning and statistical models, such as gradient boosting and neural networks (TensorFlow/Keras or PyTorch)",
+            "Working knowledge of experimentation and causal inference",
+            "Exposure to uplift or heterogeneous treatment effect modeling is a strong plus",
+            "Experience deploying or maintaining at least one model in production, using Git and an orchestration tool such as Airflow or Databricks Jobs",
+            "Experience building features from large, event-level datasets",
+            "Comfortable using AI coding assistants, and able to review, test, and debug the code they produce",
+            "A passion for driving important decisions using data and data storytelling, including explaining model results and trade-offs to non-technical partners",
+            "Applicants must be currently authorized to work in the United States on a full-time basis"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match",
+            "Denver office perks include paid parking, snacks, and occasional meals",
+            "Base compensation range: $110,000 - $130,000",
+            "Total compensation for this role also includes a variable component in addition to base salary",
+            "Equity is included in overall compensation package",
+            "This compensation range is specific to the United States labor market and may be adjusted based on actual experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Scientist, you’ll work on our Rewards Optimization models, which use uplift modeling to deliver personalized treatments in our weekly retention programs",
+            "You’ll own these models end to end, from working with stakeholders and preparing data through model development, production deployment, and ongoing monitoring",
+            "You’ll be able to advance not only your technical skills, but your organizational and leadership skills as well, by contributing to the creation of best practices for the team and company, and learning from the more senior scientists and managers on the team",
+            "Build, retrain, and tune the uplift models that decide which bonus each saver receives in our weekly retention programs, balancing incremental redemptions against cost",
+            "Own these models in production: maintain feature pipelines, deploy new model versions, and monitor performance and drift over time, following Ibotta’s model development standards",
+            "Manage weekly model operations: review results as they come in, adjust model parameters to stay on budget, and within performance thresholds",
+            "Help design and analyze the A/B tests and holdouts that measure bonus performance and produce training data for our models",
+            "Report model performance and business impact to Marketing stakeholders, and explain results clearly to non-technical audiences",
+            "Analyze large datasets on saver behavior to find insights that improve our models and marketing programs",
+            "Work with analytics engineers, data engineers, and Marketing partners to find, define, and prepare the data needed for analysis and modeling",
+            "Contribute to team best practices, including documentation, code review, and reusable modeling workflows",
+            "Embrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=ClirKLwyC9oABctWAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsU1tZbW1aE4EG63UgGijkAeEvWO5nJy74XaR-BK_a2ymGoapvrPq1KAhtCERW1JbQWsFjWIK8MBiTAWOjPljKSis4SYelLCEHoThIhIzLQ692aB751RzHdVwkusgLydMXkb3FK9_dNpjoSFP_W6724z1wHE5v3qxaSExNMRvKis433_t0nQZmgAAAA&shmds=v1_Ac3VAox6pBevwAswrc7H8T2Z6sPSkmwl3wHpODS9D8G2e4uIlA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=ClirKLwyC9oABctWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAllBMVEX___8AAAAAAAjCwsP39_f6-vrIyMkAAAP09PQAAAuen6Campvh4eLc3Nzs7OyAgYLS0tOMjI0YGyEMEBeqqqsACBJaW10cHyQuMDOysrJ4eXpERklMTU8mKS0VFxyRkpNoaWo6PD__9eX8y2P8zm791G3uSXz1SHiBpadFwLel2tb_-O792Zb-4JzziqarwMKI0cvB5eKc4YaXAAABfklEQVRIie1S226sMBCbSSBAAiHcAgG6C-f0ftm2__9znWGrSl2pD32tsNBImNhxHAB27Nix428jyALkOP1eWCGCwfqCjaNom_HPwnxG0OLqgpV4oHnE5YtJpb3wji20Ysil215tCLzA4UpTY7l5K5VC7KJcXkZtsxoRp4j3IBhwSzMcWzk3cyUhYU7T0ogsU96LB5hOkLCZ5qTz0GLivcAQsD-gr7DvsIKqVWWD5Fpo5asVwjIqFmY1BPRUr8D0IMj5mA2xEVOR2zJbCgtptege802oobTrOarJrs5CQJSIlCJHQeUwY_iMlg7R15_CAGVKQq7ciOEszBELes6Nhq1PQ0FpeIi7TdgqCUfr_MJRdTLRssG5tRlg6lYn66QkppeKTZVrcYa0Y8fv0DhRJw1iRt8oJdfL-Tpqu6A5RChqogPAv__XN7e3d_cPD48kVBX1oZZ1Lfn-bDn7dru7katz4-ggX2ajOd3T8_PL6XR6fXt7__mH2rFjx44_gQ9PjRY_2JPXtwAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "26 days ago",
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://jobs.ashbyhq.com/ibotta/b048fefb-c2f3-4ff2-b5e4-45245a309cce",
+      "job_title": "Data Scientist, Strategic Partner Analytics",
+      "description": "Ibotta is seeking a Data Scientist, Strategic Partner Analytics to join our Publisher Insights team and contribute to our mission to Make Every Purchase Rewarding. Our team leverages the latest developments and best practices in data analyses, testing methodologies, and statistics to provide actionable insights to the Marketing Team.\n\n As a Data Scientist, you’ll work on our Rewards Optimization models, which use uplift modeling to deliver personalized treatments in our weekly retention programs. You’ll own these models end to end, from working with stakeholders and preparing data through model development, production deployment, and ongoing monitoring. You’ll be able to advance not only your technical skills, but your organizational and leadership skills as well, by contributing to the creation of best practices for the team and company, and learning from the more senior scientists and managers on the team.\n\n This position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.\n\n\n\nNot based in Denver? We will offer a relocation bonus to help make your move to the Mile High City a smooth one.\n\n What you will be doing:\n\n Build, retrain, and tune the uplift models that decide which bonus each saver receives in our weekly retention programs, balancing incremental redemptions against cost.\n\nOwn these models in production: maintain feature pipelines, deploy new model versions, and monitor performance and drift over time, following Ibotta’s model development standards.\n\nManage weekly model operations: review results as they come in, adjust model parameters to stay on budget, and within performance thresholds.\n\nHelp design and analyze the A/B tests and holdouts that measure bonus performance and produce training data for our models.\n\nReport model performance and business impact to Marketing stakeholders, and explain results clearly to non-technical audiences.\n\nAnalyze large datasets on saver behavior to find insights that improve our models and marketing programs.\n\nWork with analytics engineers, data engineers, and Marketing partners to find, define, and prepare the data needed for analysis and modeling.\n\nContribute to team best practices, including documentation, code review, and reusable modeling workflows.\n\nEmbrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere.\n\n What we are looking for:\n\n2+ years of progressive experience in a professional data science, machine learning, statistics, or data analysis role, or related experience.\n\nBachelor’s degree in Computer Science, Mathematics, Statistics, Data Science, Economics or similar field required; Advanced degree preferred.\n\nDeep Python (pandas, scikit-learn) and SQL skills. Spark or PySpark experience is a strong plus.\n\nHands-on experience building and evaluating machine learning and statistical models, such as gradient boosting and neural networks (TensorFlow/Keras or PyTorch).\n\nWorking knowledge of experimentation and causal inference. Exposure to uplift or heterogeneous treatment effect modeling is a strong plus.\n\nExperience deploying or maintaining at least one model in production, using Git and an orchestration tool such as Airflow or Databricks Jobs. Experience with model monitoring and drift detection is a plus.\n\nExperience building features from large, event-level datasets.\n\nComfortable using AI coding assistants, and able to review, test, and debug the code they produce.\n\nA passion for driving important decisions using data and data storytelling, including explaining model results and trade-offs to non-technical partners.\n\nExperience with marketing incentives, promotions, loyalty, or retention programs, or with models that balance competing goals such as volume and cost, is a plus.\n\n\n\nAbout Ibotta (“I bought a…”)\n\n\n Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.\n\n To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com.\n\n Additional Details:\n\nThis position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match. Denver office perks include paid parking, snacks, and occasional meals.\n\nBase compensation range: $110,000 - $130,000. Total compensation for this role also includes a variable component in addition to base salary. Equity is included in overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.\n\nIbotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.\n\nApplicants must be currently authorized to work in the United States on a full-time basis.\n\nApplicants are accepted until the position is filled.\n\nFor the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper Channels.\n\n#LI-Hybrid\n\n#BI-Hybrid\n\n Recruiting Agency Notice\n\nIbotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.",
+      "apply_options": [
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/ibotta/b048fefb-c2f3-4ff2-b5e4-45245a309cce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/manager-data-analytics-consulting-epam-systems-new-york-city-new-york-2ysnz08itqc54ulz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/409037-data-and-analytics-consulting-claddagh-resources-c300c350367f5e8dc4ee41b65a169b74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/manager-data-analytics-consulting?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/clifyx/data-analytics-consulting-partner-38585396/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Karkidi",
+          "link": "https://www.karkidi.com/job-details/87911-data-scientist-analytics-consulting-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28643-3463cf143e1912bfbd0b26a791d12269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMatch",
+          "link": "https://jobmatch.m5v.nichesite.org/remote-jobs/remote-people-analytics-data-partner-3e3ee600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgU3RyYXRlZ2ljIFBhcnRuZXIgQW5hbHl0aWNzIiwiY29tcGFueV9uYW1lIjoiSWJvdHRhIiwiaHRpZG9jaWQiOiJDbGlyS0x3eUM5b0FCY3RXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWW0xelF6RkZaRmhQVGpBeFlUZHlaSEpCWjJOdWJXUXhMWEJNVmtoZlZXbGxRVWRWZVZoRVEzcFVjMWswTkRCRFFtRlFOMUZRVDBvMlEydE1SVE0xU2xkbFdEUkJPV0ZoWDI5V05WUXlVMDQxTlY5WmIzY3Rla2c0YldwSlJsZFlWbWhVWTBRMFJVaFFPWEk0Ynpsa01IQlVhRTVDTTBaUVJHZFRRVWxZYjBNd0xUZzRVRUVTRm05UlpteGhiMWR3U21GMU0zRjBjMUIyTkhGU1UxRWFJa0ZJVGpCRk4wVjRjMHcxUnpCWGRXMUhXSFpXTjNOSE1FOWxOVEZITURWb1JsRSIsImZjdiI6IjMiLCJmY19pZCI6IkNsaXJLTHd5QzlvQUJjdFdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Scientist II",
+      "company_name": "San Juan Regional Medical Center",
+      "location": "Farmington, NM",
+      "via": "San Juan Regional Medical Center Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Degree in Business, information technology, statistics, or healthcare related field",
+            "Experience, creating informational threads throughout quality meetings and committees",
+            "Deep knowledge in utilizing data to identify organizational progress, performance, and opportunities for improvement",
+            "Strong ability to use analytic findings and transform data into meaningful information",
+            "Basic understanding of healthcare reimbursement programs like value-based purchasing and Merit Based Incentive Payments Systems (MIPS)",
+            "Extensive experience in LEAN/Six Sigma performance improvement tools, achieving Black Belt within three (3) years of hire",
+            "Able to work independently, managing multiple high-priority, time sensitive projects"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Under the direct supervision of the Manager of Quality Systems the Data Scientist II will be responsible for the day-to-day supervision of the Quality Team and applying analytical techniques to high volume, high-dimensionality data from varying sources",
+            "Must be able to utilize healthcare data to identify progress, performance, and opportunities for improvement in quality, infection control, finance, and other metrics",
+            "The Data Scientist II will help the organization translate the data results of reimbursement programs like value-based purchasing, pay-for-performance or insurance incentives into meaningful information and facilitate maximum reimbursement",
+            "This position will align quality data with the organization’s strategic plan and centralize the consistent roll out of data and information throughout the organization",
+            "The Data Scientist II will present data and educate all levels in key quality committees including Quality Council, Medical Staff Quality and Performance Improvement Committee, QAPI, and others",
+            "This role defends quality data integrity, provides data governance, and serves as a subject matter expert",
+            "The position uses advanced data and performance improvement skills in LEAN/Six Sigma to lead, coach and guide the organization and Quality Department (data and performance improvement teams)",
+            "The Data Scientist II provides critical decision-support, evidence-based knowledge and technical guidance related to quality, patient safety, financial stability, and community health",
+            "As you go about fulfilling this mission, your work habits and work relationships should embody SJRMC’s values",
+            "Each employee is responsible for implementing SJRMC’s Service Standards into their daily work:",
+            "Safety, Courtesy, Effectiveness, and Stewardship",
+            "Supports the day-to-day operations of the Quality Team and applies analytical techniques to high volume, highdimensionality data from varying sources",
+            "Acts as point person for meeting the data reporting needs of San Juan Health Partners including identification of new regulatory requirements, metric validation, submission of current metrics and reporting of metric compliance",
+            "Acts as administrator of external benchmarking tool including data integrity, data uploads, report generation, interpretation of data, and physician scorecard development",
+            "Acts as administrator of organization Leapfrog data including data integrity, submission, report development, interpretation, and presentation of data analysis to organizational stakeholders",
+            "Acts as the key contact and coordinator for development of Quality Cerner Computer Language (CCL) reports",
+            "Utilize data from various internal and external sources to identify organizational opportunities for improvement",
+            "Utilizes performance excellence methodologies such as LEAM/Six Sigma to lead teams and implement improvements",
+            "Represents his or her work in presentations to all levels in key quality committees including Quality Council, Medical",
+            "Staff Quality and Performance Improvement Committees, Quality Assurance Performance Improvement (QAPI), and others",
+            "Other duties as assigned",
+            "Primarily office environment with daily inclusion in operational environments",
+            "Prolonged sitting, standing and/or walking",
+            "Frequent interruptions",
+            "Interpret an extensive variety of technical documents in mathematical, narrative or diagram form",
+            "Define problems, collect data, establish facts, draw valid conclusions, and translate data into information",
+            "Balance fast pace and competing priorities"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=gfNm3_h-CpHk7AXBAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKspRTSRgI2WipJALMwBwmQdNiubmbAzQu7iZY3N--XPvqtsc0VDaF0gtqAGVQV7qKUHJUxuAGG4i_hI6_NgNumpKFRj7tXQgsudjIUw9TIXb-n1T6cDJpoiGnXl8TDnE_tt2SJD_Vl4kg_CGKGhV3BLL8uZEgSGG6YxsDfhHTyaH7vMTJ6eAAAA&shmds=v1_Ac3VAozW6-hHJo2GLEQ0DCbRUWHUZkJEugUCimLEXfgrDRP7ag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=gfNm3_h-CpHk7AXBAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAflBMVEX____h6PLg6vDq8fX3-vvc5-69zOMATYbm7vTR3-jv9Pe6z93A0-DM2-bX5Ozt8ffZ4e9hh648cqBAeqaswdVsj7NUg6lQfKaYs9AAWY6jwdOvyNpeiKwARoIASYPk8fWKpL0FX5EAPHxqmLhzlbQAInEAN3mTt81_m7eUr8YSZ8HDAAAA_ElEQVRIie2Ry24CMQxFL07SxI6d6QAthWGAvtv__8FmqCoBEt20y5yFLdk6sm4CNBqNRuP_6WZHUpp18O57Fn6WqVwXb28m-jjvF8gdAolDDkgMTshiLCQmxVES4lNx2d_drx7muxjXwEY2XqtooEE0QzXlOrCMQZmynorbMcbd_rCI4yOoEAUUqFABSz0KNkeFU-m8pWDpTByfxvgMaIQA7iyHD7jK9uW4THleL-Zg7ENyQp7rE_kMbzPnOHBNeSGu8lTt9W1cV5E0V-XdalynEJ1iZwp-8ANfiMsPm5oMh08UJ2bCVGpGX9SjkCghpCngLz_TaDQajT_xBdQvC3XtAf77AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.sanjuanregional.com/us/en/job/R0009317/Data-Scientist-II",
+      "job_title": "Data Scientist II",
+      "description": "Creating Life Better Here starts with you. At San Juan Regional Medical Center, we're more than a healthcare provider—we're a values-driven organization dedicated to delivering exceptional care. As a team member, you help fulfill our mission to make life better here for our community.\n\n\n\nUnder the direct supervision of the Manager of Quality Systems the Data Scientist II will be responsible for the day-to-day supervision of the Quality Team and applying analytical techniques to high volume, high-dimensionality data from varying sources. Must be able to utilize healthcare data to identify progress, performance, and opportunities for improvement in quality, infection control, finance, and other metrics. The Data Scientist II will help the organization translate the data results of reimbursement programs like value-based purchasing, pay-for-performance or insurance incentives into meaningful information and facilitate maximum reimbursement. This position will align quality data with the organization’s strategic plan and centralize the consistent roll out of data and information throughout the organization. The Data Scientist II will present data and educate all levels in key quality committees including Quality Council, Medical Staff Quality and Performance Improvement Committee, QAPI, and others. This role defends quality data integrity, provides data governance, and serves as a subject matter expert. The position uses advanced data and performance improvement skills in LEAN/Six Sigma to lead, coach and guide the organization and Quality Department (data and performance improvement teams). The Data Scientist II provides critical decision-support, evidence-based knowledge and technical guidance related to quality, patient safety, financial stability, and community health.\n\n\n\nRequired Behaviors:\n\nAs you go about fulfilling this mission, your work habits and work relationships should embody SJRMC’s values. These values are our culture, our identity as an organization. Sacred Trust, Personal Reverence, Thoughtful Anticipation, Team Accountability and Creative Vitalityask more of us than merely completing some list of tasks. Our values ask for a deeper level of commitment, and what is asked of us we freely give because we believe in our mission\n\nRequired Qualifications:\n\nDegree in Business, information technology, statistics, or healthcare related field Experience, creating informational threads throughout quality meetings and committees Deep knowledge in utilizing data to identify organizational progress, performance, and opportunities for improvement Strong ability to use analytic findings and transform data into meaningful informationBasic understanding of healthcare reimbursement programs like value-based purchasing and Merit Based Incentive Payments Systems (MIPS). Extensive experience in LEAN/Six Sigma performance improvement tools, achieving Black Belt within three (3) years of hire.Able to work independently, managing multiple high-priority, time sensitive projects\n\nPreferred Qualifications:\n\nExperience in translating data results of reimbursement programs like value-based purchasing, pay-for-performance, or insurance incentives into meaningful information and facilitate maximum reimbursement. Experience in Cerner build or report writing\n\nDuties and Responsibilities:\n\nEach employee is responsible for implementing SJRMC’s Service Standards into their daily work:\n   Safety, Courtesy, Effectiveness, and StewardshipSupports the day-to-day operations of the Quality Team and applies analytical techniques to high volume, highdimensionality data from varying sources. Acts as point person for meeting the data reporting needs of San Juan Health Partners including identification of new regulatory requirements, metric validation, submission of current metrics and reporting of metric compliance. Acts as administrator of external benchmarking tool including data integrity, data uploads, report generation, interpretation of data, and physician scorecard development.Acts as administrator of organization Leapfrog data including data integrity, submission, report development, interpretation, and presentation of data analysis to organizational stakeholders. Acts as the key contact and coordinator for development of Quality Cerner Computer Language (CCL) reports. Utilize data from various internal and external sources to identify organizational opportunities for improvement. Utilizes performance excellence methodologies such as LEAM/Six Sigma to lead teams and implement improvements. Represents his or her work in presentations to all levels in key quality committees including Quality Council, Medical \nStaff Quality and Performance Improvement Committees, Quality Assurance Performance Improvement (QAPI), and others. Other duties as assigned\n\nPhysical Demands and Environmental Work Conditions:\n\nPrimarily office environment with daily inclusion in operational environments.Prolonged sitting, standing and/or walkingFrequent interruptionsModerate noise levelInterpret an extensive variety of technical documents in mathematical, narrative or diagram form.Define problems, collect data, establish facts, draw valid conclusions, and translate data into information.Balance fast pace and competing priorities.",
+      "apply_options": [
+        {
+          "title": "San Juan Regional Medical Center Jobs",
+          "link": "https://careers.sanjuanregional.com/us/en/job/R0009317/Data-Scientist-II?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-scientist-ii_7ea1a347cef4f16801f2288e7360f2ecf7355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Match Moth",
+          "link": "https://www.matchmoth.com/listing/13aa5fb7441f54e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-nm-farmington-data-scientist-ii-san-juan-regional-medical-center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Pilihehah — Jobs & Careers",
+          "link": "https://pilihehah.wtf/editor/TlKE9W9u?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ujivobes — Jobs & Careers",
+          "link": "https://ujivobes.garden/job/data-scientist-sony-pictures-farmington-556009946?amp1ojfdv&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Obytymo — Jobs & Careers",
+          "link": "https://obytymo.asia/logs/XBqbmU7y?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28652-81bde24cc34171793ef61700a6456d8c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBJSSIsImNvbXBhbnlfbmFtZSI6IlNhbiBKdWFuIFJlZ2lvbmFsIE1lZGljYWwgQ2VudGVyIiwiaHRpZG9jaWQiOiJnZk5tM19oLUNwSGs3QVhCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV1dOUVUydFdVMWRUZVc5cmFqSkpOa1ZOUzBzelVEVjNUVE5JYzNWbFpISkJRVGw1UW1wUVVtcE1lVk14UkRKR2RHeHhjWFJZVjNOaFVHWjNhVk00Y0c5TlRIWm5aVjl3ZG1OS2QwUmFSV3huYTJaeWVUQkJRbDlzUmtaZlh5MW1ZamcxUzJsSlluTjNNRkEwTUdreE1ETklibXMxUkhreVVGUlJOa1JtUzI5WmNXWnBlakFTRm05UlpteGhiMWR3U21GMU0zRjBjMUIyTkhGU1UxRWFJa0ZJVGpCRk4wVjZWbU5KWm01ak9HeHVUbFZmTWxKRFVDMDFjMkk0VWpFMFRVRSIsImZjdiI6IjMiLCJmY19pZCI6ImdmTm0zX2gtQ3BIazdBWEJBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzc0VDb3dFUVVSRVlsZGxXV3Q2Y1RJMFZrcGFSMGhHZEVWRU1EWkZWVTlhTmpaT1IwWmZXbXA0YjNwR1VFUjZTMnhCYjNaUVRtTkphSEJaUjBrellrZzNPVmxCYkdOeWIwSXhiakJzZHpsaVREWkpWV3RNZG1WWlVVTmljMHBqUTFGVGMxY3lVbkpXVUdoTWVrMXdjSEJZZEMwdGFVSnFjelJQVDNsd1RHMWlkVTFuV21aR2IzZDZjR05uTTNSNFkzaHBRMjlKT0RKYWMyOTVSVzg1TjNwVVVXbHhTMkkwVldKVVdVZFJTV1V5TFVsSVIwdEtSUzFLV0VOdFlqWlpVM00zT0dSbGJHdE5OSGQyVDNCQ1lVTm9kVXR6YjJGV2NWVkdUMk13VlRCRVkyNTVSVk5QTTFBeFgzQXhZM1pYUTA1clIyb3daVUpPTjJoWE1rdFRORzh0WXpKMFVFbGZkMGxoT0d0eFRqUmhkSFUxU0dkWFlYZzFNemc0UkRsZmJsbE5jMk5YVUVkc1FtbHZNazVZUzBRNVkySXhibDlRY1RCUVYwRkxVVEZzV1RscWJtOXFVbDlsYW1WWWVUVjZZMXB4Y1Uxbk1VdHBlVzlKZVhwbk1XWmpSbmhZZW5SSFZVRlpTWGgwVUZkelJsTjJNa05aWm01bmEwa3RPRkZLWVVGdlJYQTFWRlZ2UmpaNWVERk9VelF5Y3pWTldtUjJSMjlrY1MxaExVRTBTbVJyT1ZVelp6bGZRVmd3VFZwUU1tZFhOMGt6VEVsUUxXdDFTMjk2TkZkVWREbFFUM0l6VG0xek9IaFdXRlJHWWtseE9YTlNaM04zYURCdlUxVkZlak5PU1hwS1NtMXRSRUptTlhsemVrUnVWMjkxUzFKdVFXNXpVbTFCZFZGNFNVVktOa3hCVm1OWlRrMU5OR2RYVmtNU0ZtOVJabXhoYjFkd1NtRjFNM0YwYzFCMk5IRlNVMUVhSWtGSVRqQkZOMGRzZUhWRFZUZ3paVEZ2TmtoTWRHVlZjRk53ZVVOZloxOVdTa0UiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVzc0VDb3dFUVVSRVlsZGxXV3Q2Y1RJMFZrcGFSMGhHZEVWRU1EWkZWVTlhTmpaT1IwWmZXbXA0YjNwR1VFUjZTMnhCYjNaUVRtTkphSEJaUjBrellrZzNPVmxCYkdOeWIwSXhiakJzZHpsaVREWkpWV3RNZG1WWlVVTmljMHBqUTFGVGMxY3lVbkpXVUdoTWVrMXdjSEJZZEMwdGFVSnFjelJQVDNsd1RHMWlkVTFuV21aR2IzZDZjR05uTTNSNFkzaHBRMjlKT0RKYWMyOTVSVzg1TjNwVVVXbHhTMkkwVldKVVdVZFJTV1V5TFVsSVIwdEtSUzFLV0VOdFlqWlpVM00zT0dSbGJHdE5OSGQyVDNCQ1lVTm9kVXR6YjJGV2NWVkdUMk13VlRCRVkyNTVSVk5QTTFBeFgzQXhZM1pYUTA1clIyb3daVUpPTjJoWE1rdFRORzh0WXpKMFVFbGZkMGxoT0d0eFRqUmhkSFUxU0dkWFlYZzFNemc0UkRsZmJsbE5jMk5YVUVkc1FtbHZNazVZUzBRNVkySXhibDlRY1RCUVYwRkxVVEZzV1RscWJtOXFVbDlsYW1WWWVUVjZZMXB4Y1Uxbk1VdHBlVzlKZVhwbk1XWmpSbmhZZW5SSFZVRlpTWGgwVUZkelJsTjJNa05aWm01bmEwa3RPRkZLWVVGdlJYQTFWRlZ2UmpaNWVERk9VelF5Y3pWTldtUjJSMjlrY1MxaExVRTBTbVJyT1ZVelp6bGZRVmd3VFZwUU1tZFhOMGt6VEVsUUxXdDFTMjk2TkZkVWREbFFUM0l6VG0xek9IaFdXRlJHWWtseE9YTlNaM04zYURCdlUxVkZlak5PU1hwS1NtMXRSRUptTlhsemVrUnVWMjkxUzFKdVFXNXpVbTFCZFZGNFNVVktOa3hCVm1OWlRrMU5OR2RYVmtNU0ZtOVJabXhoYjFkd1NtRjFNM0YwYzFCMk5IRlNVMUVhSWtGSVRqQkZOMGRzZUhWRFZUZ3paVEZ2TmtoTWRHVlZjRk53ZVVOZloxOVdTa0UiLCJmY3YiOiIzIn0%3D&q=Data+Scientist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Scientist",
+    "page": 3,
+    "collected_at_utc": "2026-10-30T21:09:53.185408+00:00",
+    "request_fingerprint": "7da3ece52b87cb89e172d3158acad046f307e982fdf5b7bbe75776711fa30de2",
+    "job_count": 10
+  }
+}

@@ -1,0 +1,972 @@
+{
+  "search_metadata": {
+    "id": "6ae50c47dd17b113c9df1b77",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/t1ql_fVAxRa5xvoaYFtS_ZVi_hmqVyIjfuHgwpPpTjY/6ae50c47dd17b113c9df1b77.json",
+    "markdown_endpoint": "https://serpapi.com/searches/t1ql_fVAxRa5xvoaYFtS_ZVi_hmqVyIjfuHgwpPpTjY/6ae50c47dd17b113c9df1b77.md",
+    "created_at": "2026-10-30 21:29:43 UTC",
+    "processed_at": "2026-10-30 21:29:43 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Strategy+Manager&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/t1ql_fVAxRa5xvoaYFtS_ZVi_hmqVyIjfuHgwpPpTjY/6ae50c47dd17b113c9df1b77.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "q": "Data Strategy Manager",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXx4JxPWC24Qf0iyRFGf7yTeLc6AO5UjTweGp7BeGy3w_5mEjA1iFzml355OTpyUtOboJjdXjIQNrffYjDzt2Dj0T0rOyZow55MNlJ8FoTmxHaN8JyYiuoEL2wOkMIQJ3m7F0Z-h0azQuCVObe93JN_LIykI4",
+        "q": "Data Strategy Manager remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXx4JxPWC24Qf0iyRFGf7yTeLc6AO5UjTweGp7BeGy3w_5mEjA1iFzml355OTpyUtOboJjdXjIQNrffYjDzt2Dj0T0rOyZow55MNlJ8FoTmxHaN8JyYiuoEL2wOkMIQJ3m7F0Z-h0azQuCVObe93JN_LIykI4&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXx4JxPWC24Qf0iyRFGf7yTeLc6AO5UjTweGp7BeGy3w_5mEjA1iFzml355OTpyUtOboJjdXjIQNrffYjDzt2Dj0T0rOyZow55MNlJ8FoTmxHaN8JyYiuoEL2wOkMIQJ3m7F0Z-h0azQuCVObe93JN_LIykI4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKphwgX5bai_3uWDGKY5Cx6sYfltJQJMaRc3SdHzWjumawcmGBwXKCu172kuscXtUbTI-xqJVtr1F6q68I75ObCVqv5hnASPRsaN-4Ovqc4Z5R56a4x82p23eJVffy1cgOVv0g7h1s7CR1wSB_Tqkjs1f6Nj42M9dUBPYCTtvxBtxlWR1",
+        "q": "Data Strategy Manager no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKphwgX5bai_3uWDGKY5Cx6sYfltJQJMaRc3SdHzWjumawcmGBwXKCu172kuscXtUbTI-xqJVtr1F6q68I75ObCVqv5hnASPRsaN-4Ovqc4Z5R56a4x82p23eJVffy1cgOVv0g7h1s7CR1wSB_Tqkjs1f6Nj42M9dUBPYCTtvxBtxlWR1&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQxKsJKAF6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKphwgX5bai_3uWDGKY5Cx6sYfltJQJMaRc3SdHzWjumawcmGBwXKCu172kuscXtUbTI-xqJVtr1F6q68I75ObCVqv5hnASPRsaN-4Ovqc4Z5R56a4x82p23eJVffy1cgOVv0g7h1s7CR1wSB_Tqkjs1f6Nj42M9dUBPYCTtvxBtxlWR1&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbXe4CdckX6yfisLRiqEYDWG7BF26c4hQcVdaXm4fXDf-zR1ObKdroDYOQPO0tpwc_2RMq8fJ_T7J5Qzpw0KvLGZpVs2Wd3iaxU-z9rLK0Mw-dNbPkqAMwJ0gY0l7c4DAYO7xV_7iAiRNe9SoXGjQObT__E1mlo16_PHEUKL3rPllorqNJ7vb_EwLWDmgmj41nPmpPJbaVjwUaKYlxS5i4eQ3kS345t5Bv1BwXtXNzft2YSy1on9_1vP1123ZVdxzpg-Yoov35nyDkzFrg16vupRvU8MugNq0sxuFCy1MdLjkPjbrH-an1mBPVb-iRrbJWXJEYL4",
+            "q": "Data Strategy Manager since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbXe4CdckX6yfisLRiqEYDWG7BF26c4hQcVdaXm4fXDf-zR1ObKdroDYOQPO0tpwc_2RMq8fJ_T7J5Qzpw0KvLGZpVs2Wd3iaxU-z9rLK0Mw-dNbPkqAMwJ0gY0l7c4DAYO7xV_7iAiRNe9SoXGjQObT__E1mlo16_PHEUKL3rPllorqNJ7vb_EwLWDmgmj41nPmpPJbaVjwUaKYlxS5i4eQ3kS345t5Bv1BwXtXNzft2YSy1on9_1vP1123ZVdxzpg-Yoov35nyDkzFrg16vupRvU8MugNq0sxuFCy1MdLjkPjbrH-an1mBPVb-iRrbJWXJEYL4&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbXe4CdckX6yfisLRiqEYDWG7BF26c4hQcVdaXm4fXDf-zR1ObKdroDYOQPO0tpwc_2RMq8fJ_T7J5Qzpw0KvLGZpVs2Wd3iaxU-z9rLK0Mw-dNbPkqAMwJ0gY0l7c4DAYO7xV_7iAiRNe9SoXGjQObT__E1mlo16_PHEUKL3rPllorqNJ7vb_EwLWDmgmj41nPmpPJbaVjwUaKYlxS5i4eQ3kS345t5Bv1BwXtXNzft2YSy1on9_1vP1123ZVdxzpg-Yoov35nyDkzFrg16vupRvU8MugNq0sxuFCy1MdLjkPjbrH-an1mBPVb-iRrbJWXJEYL4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX2SU7vpbTCEtnjqIMbCNVmFQFoNgLBNHgkIk7XwXxAx0Rnu1bYx2VF2UWfEi1heBFXnrhfocgSa-lx2nlRjF-We5_jwHhGCMWLuLmeFaRSnljHbDLqJ1KGnfojDwQhAXLM0mvdNJ-bHonl9NvQop9tUSR7dzAoJ6dw1ZgyEJ_rDdKyFdscJ5S2QsB0dCt3u3T7Wz9RqY_GZoSKLyQvzKIG-lBHIM9m1JayI5CX-A2D1ou3-xD5EQsThZjiTluk_hUy8cDuBYXZ7EEIx2Ol150OLySdSx0vMmngfIsZIy19we-4Dzwi2tVyiB76BE1Aqqj7lriewLleyzHQkSFb66h4aVdoMY",
+            "q": "Data Strategy Manager in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2SU7vpbTCEtnjqIMbCNVmFQFoNgLBNHgkIk7XwXxAx0Rnu1bYx2VF2UWfEi1heBFXnrhfocgSa-lx2nlRjF-We5_jwHhGCMWLuLmeFaRSnljHbDLqJ1KGnfojDwQhAXLM0mvdNJ-bHonl9NvQop9tUSR7dzAoJ6dw1ZgyEJ_rDdKyFdscJ5S2QsB0dCt3u3T7Wz9RqY_GZoSKLyQvzKIG-lBHIM9m1JayI5CX-A2D1ou3-xD5EQsThZjiTluk_hUy8cDuBYXZ7EEIx2Ol150OLySdSx0vMmngfIsZIy19we-4Dzwi2tVyiB76BE1Aqqj7lriewLleyzHQkSFb66h4aVdoMY&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2SU7vpbTCEtnjqIMbCNVmFQFoNgLBNHgkIk7XwXxAx0Rnu1bYx2VF2UWfEi1heBFXnrhfocgSa-lx2nlRjF-We5_jwHhGCMWLuLmeFaRSnljHbDLqJ1KGnfojDwQhAXLM0mvdNJ-bHonl9NvQop9tUSR7dzAoJ6dw1ZgyEJ_rDdKyFdscJ5S2QsB0dCt3u3T7Wz9RqY_GZoSKLyQvzKIG-lBHIM9m1JayI5CX-A2D1ou3-xD5EQsThZjiTluk_hUy8cDuBYXZ7EEIx2Ol150OLySdSx0vMmngfIsZIy19we-4Dzwi2tVyiB76BE1Aqqj7lriewLleyzHQkSFb66h4aVdoMY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhYuY5l48KyiYphhkTCQ1o7p5Roj3ZwLE6fkbdurXG6w7RY6LGgxkJXfYCxriogSaH4IjZRTii3OCsAu1zSsgL6fsFx3-g739o-wvLoGvB-rXX0xpfuPt1maz9zQ-_ItZFdZRsz6C-miAZ4xzp4buxjL8_akL3SvNmHwKOGHEBfVMaY68Rt7d_wkNDWVIf0c_Hg9Mvrpfk-EpFHpJ9F7A4HvHyaBKexrrH-QgZC6XyLaoaF3IKwJWwTYlruYQ28QUhN21uJvUGaC6mJxYibf2nCg0t0Wf6b9jzW6GcxrU0Eb_5c3GmX1AmyxqdkTgWImuVuMYAKlbQhyRJD1NFTniU6Zwp8w",
+            "q": "Data Strategy Manager in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhYuY5l48KyiYphhkTCQ1o7p5Roj3ZwLE6fkbdurXG6w7RY6LGgxkJXfYCxriogSaH4IjZRTii3OCsAu1zSsgL6fsFx3-g739o-wvLoGvB-rXX0xpfuPt1maz9zQ-_ItZFdZRsz6C-miAZ4xzp4buxjL8_akL3SvNmHwKOGHEBfVMaY68Rt7d_wkNDWVIf0c_Hg9Mvrpfk-EpFHpJ9F7A4HvHyaBKexrrH-QgZC6XyLaoaF3IKwJWwTYlruYQ28QUhN21uJvUGaC6mJxYibf2nCg0t0Wf6b9jzW6GcxrU0Eb_5c3GmX1AmyxqdkTgWImuVuMYAKlbQhyRJD1NFTniU6Zwp8w&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhYuY5l48KyiYphhkTCQ1o7p5Roj3ZwLE6fkbdurXG6w7RY6LGgxkJXfYCxriogSaH4IjZRTii3OCsAu1zSsgL6fsFx3-g739o-wvLoGvB-rXX0xpfuPt1maz9zQ-_ItZFdZRsz6C-miAZ4xzp4buxjL8_akL3SvNmHwKOGHEBfVMaY68Rt7d_wkNDWVIf0c_Hg9Mvrpfk-EpFHpJ9F7A4HvHyaBKexrrH-QgZC6XyLaoaF3IKwJWwTYlruYQ28QUhN21uJvUGaC6mJxYibf2nCg0t0Wf6b9jzW6GcxrU0Eb_5c3GmX1AmyxqdkTgWImuVuMYAKlbQhyRJD1NFTniU6Zwp8w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXWeypXrM4_uSQzj68fPlJOqEhuLnkjGIU5llN6nCDi1o70xCtc6sYuoeEy3v60MXYrrkuSPtd2ham6PAxyTVW_1Cs_d9JkiL5qgvyrZvEW3m3aMas2HIxkQrNj1kF0v2zvWoYhVCd1gAA0mpZFT7q_colvIYeYN53s0AxShcjfXvXhKPxrfN393zD7WbunuVaBZfGxj5omo-CsesJnwz7yY3ky-IEjtFkjtGx1Buu8giwVc0fOAcRHB312tN7wTG-4pchF3Skr8pxpFsr3KiFvWh8AUm3ro7QOVa7tUWvB7HFiAZXgh_dr6h03dZUGlaw0fuPt3O-I__w1Ykt_31Dj0-lej0",
+            "q": "Data Strategy Manager in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWeypXrM4_uSQzj68fPlJOqEhuLnkjGIU5llN6nCDi1o70xCtc6sYuoeEy3v60MXYrrkuSPtd2ham6PAxyTVW_1Cs_d9JkiL5qgvyrZvEW3m3aMas2HIxkQrNj1kF0v2zvWoYhVCd1gAA0mpZFT7q_colvIYeYN53s0AxShcjfXvXhKPxrfN393zD7WbunuVaBZfGxj5omo-CsesJnwz7yY3ky-IEjtFkjtGx1Buu8giwVc0fOAcRHB312tN7wTG-4pchF3Skr8pxpFsr3KiFvWh8AUm3ro7QOVa7tUWvB7HFiAZXgh_dr6h03dZUGlaw0fuPt3O-I__w1Ykt_31Dj0-lej0&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWeypXrM4_uSQzj68fPlJOqEhuLnkjGIU5llN6nCDi1o70xCtc6sYuoeEy3v60MXYrrkuSPtd2ham6PAxyTVW_1Cs_d9JkiL5qgvyrZvEW3m3aMas2HIxkQrNj1kF0v2zvWoYhVCd1gAA0mpZFT7q_colvIYeYN53s0AxShcjfXvXhKPxrfN393zD7WbunuVaBZfGxj5omo-CsesJnwz7yY3ky-IEjtFkjtGx1Buu8giwVc0fOAcRHB312tN7wTG-4pchF3Skr8pxpFsr3KiFvWh8AUm3ro7QOVa7tUWvB7HFiAZXgh_dr6h03dZUGlaw0fuPt3O-I__w1Ykt_31Dj0-lej0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbXe4CdckX6yfisLRiqEYDWG7BF26c4hQcVdaXm4fXDf-zR1ObKdroDYOQPO0tpwc_2RMq8fJ_T7J5Qzpw0KvLGZpVs2Wd3iaxU-z9rLK0Mw-dNbPkqAMwJ0gY0l7c4DAYO7xV_7iAiRNe9SoXGjQObT__E1mlo16_PHEUKL3rPllorqNJ7vb_EwLWDmgmj41nPmpPJbaVjwUaKYlxS5i4eQ3kS345t5Bv1BwXtXNzft2YSy1on9_1vP1123ZVdxzpg-Yoov35nyDkzFrg16vupRvU8MugNq0sxuFCy1MdLjkPjbrH-an1mBPVb-iRrbJWXJEYL4",
+            "q": "Data Strategy Manager since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbXe4CdckX6yfisLRiqEYDWG7BF26c4hQcVdaXm4fXDf-zR1ObKdroDYOQPO0tpwc_2RMq8fJ_T7J5Qzpw0KvLGZpVs2Wd3iaxU-z9rLK0Mw-dNbPkqAMwJ0gY0l7c4DAYO7xV_7iAiRNe9SoXGjQObT__E1mlo16_PHEUKL3rPllorqNJ7vb_EwLWDmgmj41nPmpPJbaVjwUaKYlxS5i4eQ3kS345t5Bv1BwXtXNzft2YSy1on9_1vP1123ZVdxzpg-Yoov35nyDkzFrg16vupRvU8MugNq0sxuFCy1MdLjkPjbrH-an1mBPVb-iRrbJWXJEYL4&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbXe4CdckX6yfisLRiqEYDWG7BF26c4hQcVdaXm4fXDf-zR1ObKdroDYOQPO0tpwc_2RMq8fJ_T7J5Qzpw0KvLGZpVs2Wd3iaxU-z9rLK0Mw-dNbPkqAMwJ0gY0l7c4DAYO7xV_7iAiRNe9SoXGjQObT__E1mlo16_PHEUKL3rPllorqNJ7vb_EwLWDmgmj41nPmpPJbaVjwUaKYlxS5i4eQ3kS345t5Bv1BwXtXNzft2YSy1on9_1vP1123ZVdxzpg-Yoov35nyDkzFrg16vupRvU8MugNq0sxuFCy1MdLjkPjbrH-an1mBPVb-iRrbJWXJEYL4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX2SU7vpbTCEtnjqIMbCNVmFQFoNgLBNHgkIk7XwXxAx0Rnu1bYx2VF2UWfEi1heBFXnrhfocgSa-lx2nlRjF-We5_jwHhGCMWLuLmeFaRSnljHbDLqJ1KGnfojDwQhAXLM0mvdNJ-bHonl9NvQop9tUSR7dzAoJ6dw1ZgyEJ_rDdKyFdscJ5S2QsB0dCt3u3T7Wz9RqY_GZoSKLyQvzKIG-lBHIM9m1JayI5CX-A2D1ou3-xD5EQsThZjiTluk_hUy8cDuBYXZ7EEIx2Ol150OLySdSx0vMmngfIsZIy19we-4Dzwi2tVyiB76BE1Aqqj7lriewLleyzHQkSFb66h4aVdoMY",
+            "q": "Data Strategy Manager in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2SU7vpbTCEtnjqIMbCNVmFQFoNgLBNHgkIk7XwXxAx0Rnu1bYx2VF2UWfEi1heBFXnrhfocgSa-lx2nlRjF-We5_jwHhGCMWLuLmeFaRSnljHbDLqJ1KGnfojDwQhAXLM0mvdNJ-bHonl9NvQop9tUSR7dzAoJ6dw1ZgyEJ_rDdKyFdscJ5S2QsB0dCt3u3T7Wz9RqY_GZoSKLyQvzKIG-lBHIM9m1JayI5CX-A2D1ou3-xD5EQsThZjiTluk_hUy8cDuBYXZ7EEIx2Ol150OLySdSx0vMmngfIsZIy19we-4Dzwi2tVyiB76BE1Aqqj7lriewLleyzHQkSFb66h4aVdoMY&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX2SU7vpbTCEtnjqIMbCNVmFQFoNgLBNHgkIk7XwXxAx0Rnu1bYx2VF2UWfEi1heBFXnrhfocgSa-lx2nlRjF-We5_jwHhGCMWLuLmeFaRSnljHbDLqJ1KGnfojDwQhAXLM0mvdNJ-bHonl9NvQop9tUSR7dzAoJ6dw1ZgyEJ_rDdKyFdscJ5S2QsB0dCt3u3T7Wz9RqY_GZoSKLyQvzKIG-lBHIM9m1JayI5CX-A2D1ou3-xD5EQsThZjiTluk_hUy8cDuBYXZ7EEIx2Ol150OLySdSx0vMmngfIsZIy19we-4Dzwi2tVyiB76BE1Aqqj7lriewLleyzHQkSFb66h4aVdoMY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhYuY5l48KyiYphhkTCQ1o7p5Roj3ZwLE6fkbdurXG6w7RY6LGgxkJXfYCxriogSaH4IjZRTii3OCsAu1zSsgL6fsFx3-g739o-wvLoGvB-rXX0xpfuPt1maz9zQ-_ItZFdZRsz6C-miAZ4xzp4buxjL8_akL3SvNmHwKOGHEBfVMaY68Rt7d_wkNDWVIf0c_Hg9Mvrpfk-EpFHpJ9F7A4HvHyaBKexrrH-QgZC6XyLaoaF3IKwJWwTYlruYQ28QUhN21uJvUGaC6mJxYibf2nCg0t0Wf6b9jzW6GcxrU0Eb_5c3GmX1AmyxqdkTgWImuVuMYAKlbQhyRJD1NFTniU6Zwp8w",
+            "q": "Data Strategy Manager in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhYuY5l48KyiYphhkTCQ1o7p5Roj3ZwLE6fkbdurXG6w7RY6LGgxkJXfYCxriogSaH4IjZRTii3OCsAu1zSsgL6fsFx3-g739o-wvLoGvB-rXX0xpfuPt1maz9zQ-_ItZFdZRsz6C-miAZ4xzp4buxjL8_akL3SvNmHwKOGHEBfVMaY68Rt7d_wkNDWVIf0c_Hg9Mvrpfk-EpFHpJ9F7A4HvHyaBKexrrH-QgZC6XyLaoaF3IKwJWwTYlruYQ28QUhN21uJvUGaC6mJxYibf2nCg0t0Wf6b9jzW6GcxrU0Eb_5c3GmX1AmyxqdkTgWImuVuMYAKlbQhyRJD1NFTniU6Zwp8w&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhYuY5l48KyiYphhkTCQ1o7p5Roj3ZwLE6fkbdurXG6w7RY6LGgxkJXfYCxriogSaH4IjZRTii3OCsAu1zSsgL6fsFx3-g739o-wvLoGvB-rXX0xpfuPt1maz9zQ-_ItZFdZRsz6C-miAZ4xzp4buxjL8_akL3SvNmHwKOGHEBfVMaY68Rt7d_wkNDWVIf0c_Hg9Mvrpfk-EpFHpJ9F7A4HvHyaBKexrrH-QgZC6XyLaoaF3IKwJWwTYlruYQ28QUhN21uJvUGaC6mJxYibf2nCg0t0Wf6b9jzW6GcxrU0Eb_5c3GmX1AmyxqdkTgWImuVuMYAKlbQhyRJD1NFTniU6Zwp8w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXWeypXrM4_uSQzj68fPlJOqEhuLnkjGIU5llN6nCDi1o70xCtc6sYuoeEy3v60MXYrrkuSPtd2ham6PAxyTVW_1Cs_d9JkiL5qgvyrZvEW3m3aMas2HIxkQrNj1kF0v2zvWoYhVCd1gAA0mpZFT7q_colvIYeYN53s0AxShcjfXvXhKPxrfN393zD7WbunuVaBZfGxj5omo-CsesJnwz7yY3ky-IEjtFkjtGx1Buu8giwVc0fOAcRHB312tN7wTG-4pchF3Skr8pxpFsr3KiFvWh8AUm3ro7QOVa7tUWvB7HFiAZXgh_dr6h03dZUGlaw0fuPt3O-I__w1Ykt_31Dj0-lej0",
+            "q": "Data Strategy Manager in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWeypXrM4_uSQzj68fPlJOqEhuLnkjGIU5llN6nCDi1o70xCtc6sYuoeEy3v60MXYrrkuSPtd2ham6PAxyTVW_1Cs_d9JkiL5qgvyrZvEW3m3aMas2HIxkQrNj1kF0v2zvWoYhVCd1gAA0mpZFT7q_colvIYeYN53s0AxShcjfXvXhKPxrfN393zD7WbunuVaBZfGxj5omo-CsesJnwz7yY3ky-IEjtFkjtGx1Buu8giwVc0fOAcRHB312tN7wTG-4pchF3Skr8pxpFsr3KiFvWh8AUm3ro7QOVa7tUWvB7HFiAZXgh_dr6h03dZUGlaw0fuPt3O-I__w1Ykt_31Dj0-lej0&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWeypXrM4_uSQzj68fPlJOqEhuLnkjGIU5llN6nCDi1o70xCtc6sYuoeEy3v60MXYrrkuSPtd2ham6PAxyTVW_1Cs_d9JkiL5qgvyrZvEW3m3aMas2HIxkQrNj1kF0v2zvWoYhVCd1gAA0mpZFT7q_colvIYeYN53s0AxShcjfXvXhKPxrfN393zD7WbunuVaBZfGxj5omo-CsesJnwz7yY3ky-IEjtFkjtGx1Buu8giwVc0fOAcRHB312tN7wTG-4pchF3Skr8pxpFsr3KiFvWh8AUm3ro7QOVa7tUWvB7HFiAZXgh_dr6h03dZUGlaw0fuPt3O-I__w1Ykt_31Dj0-lej0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSKw5t_Xxr2DDf4QQi55IzvdiCjeu5SK4FNCu0n2OTQZChssb3bDFcsW0dYNjU4fLTHstH-82od-YIZk2Gxuz-YPfhF7qMrWsDemvBICBoN74sVy7mIhopPCoGqB4iHt6NL32pilYPkEAo_EDsJu1t-YCCkkBVE30fISs9SPdsVA1VTl8FDcibnhAjCt2pX6Re-SyZ9FtYR8Uad9LI_GEb9GjTWwHk8Ad4u_q9pbfmEkmQIXNnK-72fvwKSywNh3aXP9cVjBoUX497Xvlwy2MTKCKCOKQQ",
+            "q": "Data Strategy Manager full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSKw5t_Xxr2DDf4QQi55IzvdiCjeu5SK4FNCu0n2OTQZChssb3bDFcsW0dYNjU4fLTHstH-82od-YIZk2Gxuz-YPfhF7qMrWsDemvBICBoN74sVy7mIhopPCoGqB4iHt6NL32pilYPkEAo_EDsJu1t-YCCkkBVE30fISs9SPdsVA1VTl8FDcibnhAjCt2pX6Re-SyZ9FtYR8Uad9LI_GEb9GjTWwHk8Ad4u_q9pbfmEkmQIXNnK-72fvwKSywNh3aXP9cVjBoUX497Xvlwy2MTKCKCOKQQ&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSKw5t_Xxr2DDf4QQi55IzvdiCjeu5SK4FNCu0n2OTQZChssb3bDFcsW0dYNjU4fLTHstH-82od-YIZk2Gxuz-YPfhF7qMrWsDemvBICBoN74sVy7mIhopPCoGqB4iHt6NL32pilYPkEAo_EDsJu1t-YCCkkBVE30fISs9SPdsVA1VTl8FDcibnhAjCt2pX6Re-SyZ9FtYR8Uad9LI_GEb9GjTWwHk8Ad4u_q9pbfmEkmQIXNnK-72fvwKSywNh3aXP9cVjBoUX497Xvlwy2MTKCKCOKQQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSJ4Y5hqTY_KknczNAVVJ5Vstw2GmdGIgP7xb03KBaEBpz1lCwc0XIZ1NP8FW8jCaM4qxDN4fV2dc6W-4EGut_IdSs9RlhVMYD9ka21gs1r9KaYAxanMMg_Bh_asYHxrgakPPCFZFCRNjEWZqj76d8H-vbGoyhe6SgzYIihiY8poKBFz5H2BiXfuozlmhPTuY_iRBhayUGP1nckuPbwqd8j5WsKcZYBpYsukgLX-cMki03cy2YliLYD9B2P4XnpLJee1VVVunDqL24DEiahWcn-ahyyKuA",
+            "q": "Data Strategy Manager part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSJ4Y5hqTY_KknczNAVVJ5Vstw2GmdGIgP7xb03KBaEBpz1lCwc0XIZ1NP8FW8jCaM4qxDN4fV2dc6W-4EGut_IdSs9RlhVMYD9ka21gs1r9KaYAxanMMg_Bh_asYHxrgakPPCFZFCRNjEWZqj76d8H-vbGoyhe6SgzYIihiY8poKBFz5H2BiXfuozlmhPTuY_iRBhayUGP1nckuPbwqd8j5WsKcZYBpYsukgLX-cMki03cy2YliLYD9B2P4XnpLJee1VVVunDqL24DEiahWcn-ahyyKuA&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSJ4Y5hqTY_KknczNAVVJ5Vstw2GmdGIgP7xb03KBaEBpz1lCwc0XIZ1NP8FW8jCaM4qxDN4fV2dc6W-4EGut_IdSs9RlhVMYD9ka21gs1r9KaYAxanMMg_Bh_asYHxrgakPPCFZFCRNjEWZqj76d8H-vbGoyhe6SgzYIihiY8poKBFz5H2BiXfuozlmhPTuY_iRBhayUGP1nckuPbwqd8j5WsKcZYBpYsukgLX-cMki03cy2YliLYD9B2P4XnpLJee1VVVunDqL24DEiahWcn-ahyyKuA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXsQTp03AHPK8beTTLhWnemGR7yl9zl_BakTUE0ZKPCHFTp97M3jaShRwtD4RIroaN13rVl8QjY6iVnEVrzhe_XjC3sy10Crw2dbOaSS0e9fVe17YGk3QT69gKXaLioqq_DI_PHreZqMhmTBjC6-4EEii3KwEQArInbHdRvQM64En3eI8YI-SB7akAvK316qeDH0XXHVWB5sC87AuO8UgZ4bsHaabEJacky5Z6QuIuz3n_59x5S9830UoitzHD5lPY92WhCGaxPP2ZwulUJWdpw6vZI8cDqTHsoVU6bFLDhrfZnxJeLPZnAS6oCIZGx7rar245iw",
+            "q": "Data Strategy Manager contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsQTp03AHPK8beTTLhWnemGR7yl9zl_BakTUE0ZKPCHFTp97M3jaShRwtD4RIroaN13rVl8QjY6iVnEVrzhe_XjC3sy10Crw2dbOaSS0e9fVe17YGk3QT69gKXaLioqq_DI_PHreZqMhmTBjC6-4EEii3KwEQArInbHdRvQM64En3eI8YI-SB7akAvK316qeDH0XXHVWB5sC87AuO8UgZ4bsHaabEJacky5Z6QuIuz3n_59x5S9830UoitzHD5lPY92WhCGaxPP2ZwulUJWdpw6vZI8cDqTHsoVU6bFLDhrfZnxJeLPZnAS6oCIZGx7rar245iw&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsQTp03AHPK8beTTLhWnemGR7yl9zl_BakTUE0ZKPCHFTp97M3jaShRwtD4RIroaN13rVl8QjY6iVnEVrzhe_XjC3sy10Crw2dbOaSS0e9fVe17YGk3QT69gKXaLioqq_DI_PHreZqMhmTBjC6-4EEii3KwEQArInbHdRvQM64En3eI8YI-SB7akAvK316qeDH0XXHVWB5sC87AuO8UgZ4bsHaabEJacky5Z6QuIuz3n_59x5S9830UoitzHD5lPY92WhCGaxPP2ZwulUJWdpw6vZI8cDqTHsoVU6bFLDhrfZnxJeLPZnAS6oCIZGx7rar245iw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcR5YYcZkZIvqbFzwR9ozqHTvKqxHdKwSR0DTtkWmOcrgWHt4D1FwVJKUtKLGuxmDfZFJ__Txj_D58rrdndTIi0XT821IXmWbIHeCuQ_F4NdmK-6fzO_TjP6rajlr6bc1oQGzE0RJJpbgSkYwd75z1wjvJu6gOYWPp5LIR_aTt3-jEKE-3Ey9V3ExhqJHFTZfRjv2yqfC2fn-8khgkiRrmz2KlYONvY_3B3mK4WzBzfyXrkxHcvxbUARJvagD2sW7M52L_pRP2uBdW3_1lNSU9cBTztAILooPqt-W2yZCzkGwBFAbKRGeTwCea00hRSqiEoV0mA",
+            "q": "Data Strategy Manager internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcR5YYcZkZIvqbFzwR9ozqHTvKqxHdKwSR0DTtkWmOcrgWHt4D1FwVJKUtKLGuxmDfZFJ__Txj_D58rrdndTIi0XT821IXmWbIHeCuQ_F4NdmK-6fzO_TjP6rajlr6bc1oQGzE0RJJpbgSkYwd75z1wjvJu6gOYWPp5LIR_aTt3-jEKE-3Ey9V3ExhqJHFTZfRjv2yqfC2fn-8khgkiRrmz2KlYONvY_3B3mK4WzBzfyXrkxHcvxbUARJvagD2sW7M52L_pRP2uBdW3_1lNSU9cBTztAILooPqt-W2yZCzkGwBFAbKRGeTwCea00hRSqiEoV0mA&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcR5YYcZkZIvqbFzwR9ozqHTvKqxHdKwSR0DTtkWmOcrgWHt4D1FwVJKUtKLGuxmDfZFJ__Txj_D58rrdndTIi0XT821IXmWbIHeCuQ_F4NdmK-6fzO_TjP6rajlr6bc1oQGzE0RJJpbgSkYwd75z1wjvJu6gOYWPp5LIR_aTt3-jEKE-3Ey9V3ExhqJHFTZfRjv2yqfC2fn-8khgkiRrmz2KlYONvY_3B3mK4WzBzfyXrkxHcvxbUARJvagD2sW7M52L_pRP2uBdW3_1lNSU9cBTztAILooPqt-W2yZCzkGwBFAbKRGeTwCea00hRSqiEoV0mA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSKw5t_Xxr2DDf4QQi55IzvdiCjeu5SK4FNCu0n2OTQZChssb3bDFcsW0dYNjU4fLTHstH-82od-YIZk2Gxuz-YPfhF7qMrWsDemvBICBoN74sVy7mIhopPCoGqB4iHt6NL32pilYPkEAo_EDsJu1t-YCCkkBVE30fISs9SPdsVA1VTl8FDcibnhAjCt2pX6Re-SyZ9FtYR8Uad9LI_GEb9GjTWwHk8Ad4u_q9pbfmEkmQIXNnK-72fvwKSywNh3aXP9cVjBoUX497Xvlwy2MTKCKCOKQQ",
+            "q": "Data Strategy Manager full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSKw5t_Xxr2DDf4QQi55IzvdiCjeu5SK4FNCu0n2OTQZChssb3bDFcsW0dYNjU4fLTHstH-82od-YIZk2Gxuz-YPfhF7qMrWsDemvBICBoN74sVy7mIhopPCoGqB4iHt6NL32pilYPkEAo_EDsJu1t-YCCkkBVE30fISs9SPdsVA1VTl8FDcibnhAjCt2pX6Re-SyZ9FtYR8Uad9LI_GEb9GjTWwHk8Ad4u_q9pbfmEkmQIXNnK-72fvwKSywNh3aXP9cVjBoUX497Xvlwy2MTKCKCOKQQ&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSKw5t_Xxr2DDf4QQi55IzvdiCjeu5SK4FNCu0n2OTQZChssb3bDFcsW0dYNjU4fLTHstH-82od-YIZk2Gxuz-YPfhF7qMrWsDemvBICBoN74sVy7mIhopPCoGqB4iHt6NL32pilYPkEAo_EDsJu1t-YCCkkBVE30fISs9SPdsVA1VTl8FDcibnhAjCt2pX6Re-SyZ9FtYR8Uad9LI_GEb9GjTWwHk8Ad4u_q9pbfmEkmQIXNnK-72fvwKSywNh3aXP9cVjBoUX497Xvlwy2MTKCKCOKQQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSJ4Y5hqTY_KknczNAVVJ5Vstw2GmdGIgP7xb03KBaEBpz1lCwc0XIZ1NP8FW8jCaM4qxDN4fV2dc6W-4EGut_IdSs9RlhVMYD9ka21gs1r9KaYAxanMMg_Bh_asYHxrgakPPCFZFCRNjEWZqj76d8H-vbGoyhe6SgzYIihiY8poKBFz5H2BiXfuozlmhPTuY_iRBhayUGP1nckuPbwqd8j5WsKcZYBpYsukgLX-cMki03cy2YliLYD9B2P4XnpLJee1VVVunDqL24DEiahWcn-ahyyKuA",
+            "q": "Data Strategy Manager part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSJ4Y5hqTY_KknczNAVVJ5Vstw2GmdGIgP7xb03KBaEBpz1lCwc0XIZ1NP8FW8jCaM4qxDN4fV2dc6W-4EGut_IdSs9RlhVMYD9ka21gs1r9KaYAxanMMg_Bh_asYHxrgakPPCFZFCRNjEWZqj76d8H-vbGoyhe6SgzYIihiY8poKBFz5H2BiXfuozlmhPTuY_iRBhayUGP1nckuPbwqd8j5WsKcZYBpYsukgLX-cMki03cy2YliLYD9B2P4XnpLJee1VVVunDqL24DEiahWcn-ahyyKuA&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEmUutte_0JsnwH95UZJQ612pWbCMaaxUlxeRASWrRSJ4Y5hqTY_KknczNAVVJ5Vstw2GmdGIgP7xb03KBaEBpz1lCwc0XIZ1NP8FW8jCaM4qxDN4fV2dc6W-4EGut_IdSs9RlhVMYD9ka21gs1r9KaYAxanMMg_Bh_asYHxrgakPPCFZFCRNjEWZqj76d8H-vbGoyhe6SgzYIihiY8poKBFz5H2BiXfuozlmhPTuY_iRBhayUGP1nckuPbwqd8j5WsKcZYBpYsukgLX-cMki03cy2YliLYD9B2P4XnpLJee1VVVunDqL24DEiahWcn-ahyyKuA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXsQTp03AHPK8beTTLhWnemGR7yl9zl_BakTUE0ZKPCHFTp97M3jaShRwtD4RIroaN13rVl8QjY6iVnEVrzhe_XjC3sy10Crw2dbOaSS0e9fVe17YGk3QT69gKXaLioqq_DI_PHreZqMhmTBjC6-4EEii3KwEQArInbHdRvQM64En3eI8YI-SB7akAvK316qeDH0XXHVWB5sC87AuO8UgZ4bsHaabEJacky5Z6QuIuz3n_59x5S9830UoitzHD5lPY92WhCGaxPP2ZwulUJWdpw6vZI8cDqTHsoVU6bFLDhrfZnxJeLPZnAS6oCIZGx7rar245iw",
+            "q": "Data Strategy Manager contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsQTp03AHPK8beTTLhWnemGR7yl9zl_BakTUE0ZKPCHFTp97M3jaShRwtD4RIroaN13rVl8QjY6iVnEVrzhe_XjC3sy10Crw2dbOaSS0e9fVe17YGk3QT69gKXaLioqq_DI_PHreZqMhmTBjC6-4EEii3KwEQArInbHdRvQM64En3eI8YI-SB7akAvK316qeDH0XXHVWB5sC87AuO8UgZ4bsHaabEJacky5Z6QuIuz3n_59x5S9830UoitzHD5lPY92WhCGaxPP2ZwulUJWdpw6vZI8cDqTHsoVU6bFLDhrfZnxJeLPZnAS6oCIZGx7rar245iw&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsQTp03AHPK8beTTLhWnemGR7yl9zl_BakTUE0ZKPCHFTp97M3jaShRwtD4RIroaN13rVl8QjY6iVnEVrzhe_XjC3sy10Crw2dbOaSS0e9fVe17YGk3QT69gKXaLioqq_DI_PHreZqMhmTBjC6-4EEii3KwEQArInbHdRvQM64En3eI8YI-SB7akAvK316qeDH0XXHVWB5sC87AuO8UgZ4bsHaabEJacky5Z6QuIuz3n_59x5S9830UoitzHD5lPY92WhCGaxPP2ZwulUJWdpw6vZI8cDqTHsoVU6bFLDhrfZnxJeLPZnAS6oCIZGx7rar245iw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcR5YYcZkZIvqbFzwR9ozqHTvKqxHdKwSR0DTtkWmOcrgWHt4D1FwVJKUtKLGuxmDfZFJ__Txj_D58rrdndTIi0XT821IXmWbIHeCuQ_F4NdmK-6fzO_TjP6rajlr6bc1oQGzE0RJJpbgSkYwd75z1wjvJu6gOYWPp5LIR_aTt3-jEKE-3Ey9V3ExhqJHFTZfRjv2yqfC2fn-8khgkiRrmz2KlYONvY_3B3mK4WzBzfyXrkxHcvxbUARJvagD2sW7M52L_pRP2uBdW3_1lNSU9cBTztAILooPqt-W2yZCzkGwBFAbKRGeTwCea00hRSqiEoV0mA",
+            "q": "Data Strategy Manager internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDjIKDoDKyOcYDg8TtGWLP5dZoK0zQ:1793395783980&q=Data+Strategy+Manager+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcR5YYcZkZIvqbFzwR9ozqHTvKqxHdKwSR0DTtkWmOcrgWHt4D1FwVJKUtKLGuxmDfZFJ__Txj_D58rrdndTIi0XT821IXmWbIHeCuQ_F4NdmK-6fzO_TjP6rajlr6bc1oQGzE0RJJpbgSkYwd75z1wjvJu6gOYWPp5LIR_aTt3-jEKE-3Ey9V3ExhqJHFTZfRjv2yqfC2fn-8khgkiRrmz2KlYONvY_3B3mK4WzBzfyXrkxHcvxbUARJvagD2sW7M52L_pRP2uBdW3_1lNSU9cBTztAILooPqt-W2yZCzkGwBFAbKRGeTwCea00hRSqiEoV0mA&udm=8&sa=X&ved=2ahUKEwjg9pT11-KXAxUDD0QIHS5VDiAQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Strategy+Manager+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcR5YYcZkZIvqbFzwR9ozqHTvKqxHdKwSR0DTtkWmOcrgWHt4D1FwVJKUtKLGuxmDfZFJ__Txj_D58rrdndTIi0XT821IXmWbIHeCuQ_F4NdmK-6fzO_TjP6rajlr6bc1oQGzE0RJJpbgSkYwd75z1wjvJu6gOYWPp5LIR_aTt3-jEKE-3Ey9V3ExhqJHFTZfRjv2yqfC2fn-8khgkiRrmz2KlYONvY_3B3mK4WzBzfyXrkxHcvxbUARJvagD2sW7M52L_pRP2uBdW3_1lNSU9cBTztAILooPqt-W2yZCzkGwBFAbKRGeTwCea00hRSqiEoV0mA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Manager, Data Science - Bureau Data Strategy",
+      "company_name": "Capital One",
+      "location": "McLean, VA (+1 other)",
+      "via": "Capital One Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Customer first",
+            "You’re passionate about talent development for your own team and beyond",
+            "Technical",
+            "You’re comfortable with open-source languages and are passionate about developing further",
+            "You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms",
+            "A data guru",
+            "You have the skills to retrieve, combine, and analyze data from a variety of sources and structures",
+            "You know understanding the data is often the key to great data science",
+            "Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:",
+            "A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 7 years of experience performing data analytics",
+            "A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 5 years of experience performing data analytics",
+            "A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 2 years of experience performing data analytics",
+            "At least 2 years of experience leveraging open source programming languages for large scale data analysis",
+            "At least 2 years of experience working with machine learning",
+            "At least 2 years of experience utilizing relational databases"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love",
+            "Leverage a broad stack of technologies - Python, Conda, AWS, H2O, Spark, and more - to reveal the insights hidden within huge volumes of numeric and textual data",
+            "Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation",
+            "Flex your interpersonal skills to translate the complexity of your work into tangible business goals",
+            "You challenge conventional thinking and work with stakeholders to identify and improve the status quo"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=5qr2RDcOIgbeLziTAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MvwrCMBCAcVz7BjrdLNqI4KKTf0AoFoeCa7mGI43Eu5Bcob6PD2oFl2_4DV_xmRVVQ-wlQY2MjtIKLqgIjfXElmANpyERDn_VhEruPXElHWTCZHsQhquIC7Q49Kox743JOZQuK6q3pZWXEaZORvOULv_S5h4TxTDN2u1uM5aR3XJ-xugVA9yZwDPU9kbIK3gcv1F5MXWnAAAA&shmds=v1_Ac3VAozWabnxi7Q0PeC3zsRahrsO33sA64y4ty5IKyrHasrSuQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=5qr2RDcOIgbeLziTAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAulBMVEX____QMCeBl60APHIARnQAOm_6___MAADPLSPOJxzWfnqUpriltMMANm2Hm7AAOGzW3eBsh6Hr5uXkz83kurjiqKbgl5TQZF7JSULIGwjMNi3MWVPbiYbiravy8fDjyMbmpKLplZPZb2rEAADOPTXUFADOIRXPravQop_hv77o3dzRVE7URT7PSEFhf5vN1N2xv8kALWgXVHw3ZYgAHWJIb5KvydcsXYW_y9MARnoAEGBRdpT77usAKWsSXyrgAAABtElEQVRIie2TbXeaMBSALxCkmhcSKbW4Le1WcRVbCSAlLPP__60FnD21053Zr-M5HA653Ce5uQGAgYGBgbOMptF1fDOZ3TpJEATJ_NPnL9O_G_Lu_uu3-UPizBcL5yFI0-WVY7kaL9NFdkaJVt8f7-NVJkdvg_E67VUrByekaRadLSV7-m2O_2WTbxklvZdeXyrCpFtyObnYg-duvQ94Ueo4QXwYSeJu3Pw4g2B7OzSJu91IcaJvluMkOuTgoijdCh-LDAPeHmKECpC1fRAv69nrCSnqkf5tWRSIyIaxsuJ5zdwWUWLaglaShQSQ7JK2r1UCNKjZ1wOg_Ur7jSReTSgD6skuuAlV5Wld90k7XYJqJWBbQIvQfh9NZXxMqILcN3YN6VFQGySQJ-0UbF_2DxAaaqjAXrrwkCtUSJWsQ5tZElTkjc9VaPQuBB1SSQtw--3oigsAoxjvhpyZquZaCIIFb1ti7KQbAVoosN22cS7YT2U6EXHMQRN7A3ncTLnbwgniNRgC0uRQAriYGE7eizn_U8tm3dHZU9x3k3PI1anp3_N4-RfdEa0-pMGZX31gYOA_5xf6NykxV_fD-gAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "5 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.capitalonecareers.com/job/mclean/senior-manager-data-science-bureau-data-strategy/1732/102482505712",
+      "job_title": "Senior Manager, Data Science - Bureau Data Strategy",
+      "description": "Senior Manager, Data Science - Bureau Data Strategy\n\n\n\n\n\nData is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.\n\n\nAs a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.\n\n\nTeam Description\n\nCredit bureau data is at the heart of underwriting decisions at US Card. The Bureau Data Strategy team produces one of the most highly-used datasets in all of Capital One from raw credit bureau data. The team is responsible for generating insights, extracting value from Bureau Data and shaping the future of how credit bureau data is used in underwriting at Capital One.\n\n\nIn this role, you will:\n\nPartner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers loveLeverage a broad stack of technologies - Python, Conda, AWS, H2O, Spark, and more - to reveal the insights hidden within huge volumes of numeric and textual dataBuild machine learning models through all phases of development, from design through training, evaluation, validation, and implementationFlex your interpersonal skills to translate the complexity of your work into tangible business goals\nThe Ideal Candidate is:\n\nCustomer first. You love the process of analyzing and creating, but also share our passion to do the right thing. You know at the end of the day it’s about making the right decision for our customers.A leader. You challenge conventional thinking and work with stakeholders to identify and improve the status quo. You’re passionate about talent development for your own team and beyond.Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.A data guru. “Big data” doesn’t faze you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.\nBasic Qualifications:\n\nCurrently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 7 years of experience performing data analyticsA Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)  or an MBA with a quantitative concentration plus 5 years of experience performing data analyticsA PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 2 years of experience performing data analyticsAt least 2 years of experience leveraging open source programming languages for large scale data analysisAt least 2 years of experience working with machine learningAt least 2 years of experience utilizing relational databases\nPreferred Qualifications:\n\nPhD in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 4 years of experience in data analyticsAt least 1 year of experience working with AWSAt least 1 year of experience managing peopleAt least 5 years’ experience in Python, Scala, or R for large scale data analysisAt least 5 years’ experience with machine learning\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\n\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n\n\nMcLean, VA: $229,900 - $262,400 for Sr Mgr, Data Science\n \n\nNew York, NY: $250,800 - $286,200 for Sr Mgr, Data Science\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\n\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\n\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\n\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\n\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\n\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\n\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\n\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "apply_options": [
+        {
+          "title": "Capital One Careers",
+          "link": "https://www.capitalonecareers.com/job/mclean/senior-manager-data-science-bureau-data-strategy/1732/102482505712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "New York State Job Bank - National Labor Exchange",
+          "link": "https://myjobsny.usnlx.com/new-york-ny/manager-data-scientist-alternative-data-strategy/E2C4430202244D9690B6DEAC2BABEF63/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/manager-data-scientist-alternative-data-strategy/11817629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Capital-One/Job/Manager,-Data-Scientist-Bureau-Data-Strategy/-in-New-York,NY?jid=09bcd72cfcf6e9d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/manager-data-strategy_7ea1a45093bef3a3bb23190cfb3e90fa2197b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=05230e9f0d451361&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/manager-data-scientist-alternative-data-strategy-capitalonefinancialcorporation-new-york-ny_89473927?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/manager-data-scientist-bureau-data-strategy-new-york-ny--bf41ae72-bfcc-4aca-a2bf-8e864e8fea90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFuYWdlciwgRGF0YSBTY2llbmNlIC0gQnVyZWF1IERhdGEgU3RyYXRlZ3kiLCJjb21wYW55X25hbWUiOiJDYXBpdGFsIE9uZSIsImh0aWRvY2lkIjoiNXFyMlJEY09JZ2JlTHppVEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdrMVdNVFpCWDBscWVIcHllblZWVEY5c1RXOUdZbXMyYVcxbFdqRXhWMU5rVEROSE9HNHlaRTB3VHpSYVJUbGFkMTlRVGpKck1GVnhUMnR3VFZSU1UwaFdNekJyUlU5bWFHVktZakY1YTFCVVZFaHFRbk5RUjFsbk9GZDVjRkl3VDJ4NWFXY3lRMHMxUjBsT1UxWnBXakZGU205Q1EyVlZkMDg1VG5kZmVEZE9RblZGV25rU0YxSjNlbXhoY1VNelR6UlBaV3RRU1ZCeWNYRTFaMEZKR2lKQlNFNHdSVGRIVTB0clZ6WktUbGhaY2t0RVVUQTVibWszY0V4TFdIUktRbkZCIiwiZmN2IjoiMyIsImZjX2lkIjoiNXFyMlJEY09JZ2JlTHppVEFBQUFBQT09In0="
+    },
+    {
+      "title": "Finance AI Data Strategy Manager",
+      "company_name": "Accenture",
+      "location": "Detroit, MI",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You're a seasoned strategist who lives at the intersection of AI, data, and business transformation",
+            "You've spent at least five years turning ambiguous enterprise problems into clear-eyed strategies — and then seeing those strategies through to impact",
+            "Consulting sharpened you: you know how to read an organization, earn trust fast, and deliver under pressure on a global stage",
+            "5+ years of deep fluency in AI & Data Strategy — from enterprise-wide data architecture to function-specific plays across Finance, HR, and Operations",
+            "You've shaped the thinking, not just executed it",
+            "5+ years of focused Finance AI and Data work — you understand how CFO organizations operate, what keeps Finance leaders up at night, and how AI and data can change that calculus",
+            "5+ years developing value cases and ROI models — you can translate a bold vision into a business case that gets funded and a roadmap that gets built",
+            "5+ years of hands-on data management and analysis, paired with the strategic instinct to know which insights actually matter to the C-suite",
+            "5+ years conducting client assessments and requirements gathering — you know the right questions to ask, and you listen for what's not being said",
+            "2+ years applying Responsible AI principles in live engagements — you build trust into your work, not as an afterthought, but as a differentiator",
+            "5+ years of leading workstreams end-to-end across complex, multi-stakeholder environments — you're the person others look to when deadlines matter and the pressure is real",
+            "5+ years of large-scale global delivery — you've navigated time zones, cultures, and matrix organizations, and you know what it takes to keep distributed teams aligned",
+            "5+ years working directly with corporate and/or business unit Finance processes, functions, and systems — you can speak the language fluently, not just translate it",
+            "Bachelor's degree or equivalent (minimum 12 years) work experience",
+            "(If Associate’s Degree, must have minimum 6 years work experience)",
+            "You've led",
+            "You build effective teams, foster inclusive environments, and are known for strong client relationships that outlast the engagement",
+            "You've originated",
+            "You're entrepreneurial — you know how to spot an opportunity, shape a deal, and bring it across the finish line",
+            "You're a clear communicator",
+            "Strong written and verbal communication; you can adapt your message for a CFO, a data engineer, and a board room in the same week",
+            "You bring innovative thinking to every project and actively seek out new ideas, tools, and approaches",
+            "You have a Master's degree in a relevant field",
+            "Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Accenture offers a market competitive suite of benefits including medical, dental, vision, life, and long-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off",
+            "Employee Benefits | Accenture",
+            "Role Location Annual Salary Range",
+            "Illinois $87,400 to $253,800",
+            "New Jersey $100,500 to $293,800",
+            "Ohio $87,400 to $235,000",
+            "Virginia $87,400 to $270,300"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Use scaled agile disciplines to transform a client’s business and Finance function by sequencing the delivery of critical data elements, data products and feature functionality",
+            "You'll work at the cutting edge of Finance transformation — helping the world's largest organizations reimagine what's possible when AI and data are built into the core of how Finance operates",
+            "You'll shape strategy at the C-suite level, build lasting client relationships, and leave engagements knowing you moved something that mattered",
+            "You'll own the full arc — from vision to roadmap to delivery — working across some of the most complex Finance environments in the world",
+            "Shape the vision",
+            "Define compelling Finance AI strategies that connect to real business outcomes — revenue upside, cost takeout, and competitive advantage",
+            "Build trusted advisor relationships with CFOs and senior Finance leaders, becoming their go-to thought partner on AI and data transformation",
+            "Architect the path forward",
+            "Design AI and data strategies that cover technology platforms, data foundations, operating models, and talent — not just the technology layer",
+            "Develop the business case, investment profile, and ROI models that turn a bold vision into a funded, sequenced roadmap",
+            "Assess and diagnose",
+            "Evaluate an organization's AI and data maturity across strategy, talent, operating model, and data infrastructure — and know exactly what needs to change",
+            "Build for scale",
+            "Use scaled agile disciplines to sequence delivery of critical data elements, data products, and feature functionality that compound over time",
+            "Embed Responsible AI",
+            "Infuse ethical AI principles from the start — building client trust and making responsibility a competitive differentiator, not a compliance checkbox",
+            "Drive commercialization",
+            "Identify and develop AI-first product strategies and ecosystem partnerships that open new revenue streams for clients",
+            "Ability to travel up to 80%; travel as needed based on client expectations",
+            "You keep learning"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=tr4jaMVPa6ytv7ceAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMwQrCMAwAULzuC8RTzqKrCCLoaTCUCTv5ASMtoavMpDQR5l_4yerlHV_1WVTHS2LkQNB00KIh3K2gUXxDj4yRCmzhJh6UsIQRhOEqEidanUezrCfnVKc6qqGlUAd5OmHyMruHeP0z6IiF8vRLh_1hN9eZ43rZhEBsr0KQGFqyIsk20HdfVsZeqJMAAAA&shmds=v1_Ac3VAowFBlp51KCCx-U824R8KkciBpPgtwoz4q4AxaPHwav69A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=tr4jaMVPa6ytv7ceAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c47dd17b113c9df1b77/images/6L7XhDkXTty04netVppKxiQt2Kb3LgG2DTZolorSo-8.jpeg",
+      "extensions": [
+        "87.4K–294K a year",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=5c03b496ed758379",
+      "job_title": "Finance AI Data Strategy Manager",
+      "description": "We Are:\n\n\n \n\n\n Our Finance AI and Data Strategy practitioners work to create and execute an organization’s business strategy for Finance AI and Data transformation including: defining a compelling industry & Finance function vision, creating value & ROI models, architecting a client’s Finance AI talent strategy, ecosystem partnership approaches, creating scalable operating capabilities, and envisioning best-in-class business/technology architecture & roadmaps. Use scaled agile disciplines to transform a client’s business and Finance function by sequencing the delivery of critical data elements, data products and feature functionality.\n\n\n \n\n\n  Why This Role:\n\n\n \n\n\n This isn't a role where you maintain the status quo. You'll work at the cutting edge of Finance transformation — helping the world's largest organizations reimagine what's possible when AI and data are built into the core of how Finance operates. You'll shape strategy at the C-suite level, build lasting client relationships, and leave engagements knowing you moved something that mattered. If you want scope, influence, and the chance to define what AI-led Finance looks like for an entire industry, this is it.\n\n\n \n\n\n  Who You Are: \n\n\n \n\n\n You're a seasoned strategist who lives at the intersection of AI, data, and business transformation. You've spent at least five years turning ambiguous enterprise problems into clear-eyed strategies — and then seeing those strategies through to impact. Consulting sharpened you: you know how to read an organization, earn trust fast, and deliver under pressure on a global stage.\n\n\n \n\n\n  What You'll Do:\n\n\n \n\n\n Our Finance AI and Data Strategy practitioners build and execute transformational strategies for how organizations reinvent their Finance function through AI and data. You'll own the full arc — from vision to roadmap to delivery — working across some of the most complex Finance environments in the world.\n\n\n \n\n\n \n  \n    Shape the vision. Define compelling Finance AI strategies that connect to real business outcomes — revenue upside, cost takeout, and competitive advantage.\n\n\n  \n    Earn the room. Build trusted advisor relationships with CFOs and senior Finance leaders, becoming their go-to thought partner on AI and data transformation.\n\n\n  \n    Architect the path forward. Design AI and data strategies that cover technology platforms, data foundations, operating models, and talent — not just the technology layer.\n\n\n  \n    Make the case. Develop the business case, investment profile, and ROI models that turn a bold vision into a funded, sequenced roadmap.\n\n\n  \n    Assess and diagnose. Evaluate an organization's AI and data maturity across strategy, talent, operating model, and data infrastructure — and know exactly what needs to change.\n\n\n  \n    Build for scale. Use scaled agile disciplines to sequence delivery of critical data elements, data products, and feature functionality that compound over time.\n\n\n  \n    Embed Responsible AI. Infuse ethical AI principles from the start — building client trust and making responsibility a competitive differentiator, not a compliance checkbox.\n\n\n  \n    Drive commercialization. Identify and develop AI-first product strategies and ecosystem partnerships that open new revenue streams for clients.\n\n\n \n \n\n\n Ability to travel up to 80%; travel as needed based on client expectations.\n\n\n\n\n\n\n Here’s What You Need:\n\n\n \n   5+ years of deep fluency in AI & Data Strategy — from enterprise-wide data architecture to function-specific plays across Finance, HR, and Operations. You've shaped the thinking, not just executed it.\n   5+ years of focused Finance AI and Data work — you understand how CFO organizations operate, what keeps Finance leaders up at night, and how AI and data can change that calculus.\n   5+ years developing value cases and ROI models — you can translate a bold vision into a business case that gets funded and a roadmap that gets built.\n   5+ years of hands-on data management and analysis, paired with the strategic instinct to know which insights actually matter to the C-suite.\n   5+ years conducting client assessments and requirements gathering — you know the right questions to ask, and you listen for what's not being said.\n   2+ years applying Responsible AI principles in live engagements — you build trust into your work, not as an afterthought, but as a differentiator.\n   5+ years of leading workstreams end-to-end across complex, multi-stakeholder environments — you're the person others look to when deadlines matter and the pressure is real.\n   5+ years of large-scale global delivery — you've navigated time zones, cultures, and matrix organizations, and you know what it takes to keep distributed teams aligned.\n   5+ years working directly with corporate and/or business unit Finance processes, functions, and systems — you can speak the language fluently, not just translate it.\n  Bachelor's degree or equivalent (minimum 12 years) work experience. (If Associate’s Degree, must have minimum 6 years work experience)\n \n \n\n    WHAT SETS YOU APART\n\n\n \n   You've led. You build effective teams, foster inclusive environments, and are known for strong client relationships that outlast the engagement.\n   You've originated. You're entrepreneurial — you know how to spot an opportunity, shape a deal, and bring it across the finish line.\n   You're a clear communicator. Strong written and verbal communication; you can adapt your message for a CFO, a data engineer, and a board room in the same week.\n   You keep learning. You bring innovative thinking to every project and actively seek out new ideas, tools, and approaches.\n   You have a Master's degree in a relevant field\n \n \n\n   Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.\n\n\n \n\n   We anticipate this job posting will be posted until 10/11/2026.\n\n\n\n \n\n Accenture offers a market competitive suite of benefits including medical, dental, vision, life, and long-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off. See more information on our benefits here: U.S. Employee Benefits | Accenture\n\n\n Role Location Annual Salary Range\n\n\n California $94,400 to $293,800\n\n\n Colorado $94,400 to $253,800\n\n\n Connecticut $94,400 to $253,800\n\n\n District of Columbia $100,500 to $270,300\n\n\n Illinois $87,400 to $253,800\n\n\n Maine $80,400 to $216,200\n\n\n Maryland $94,400 to $253,800\n\n\n Massachusetts $94,400 to $270,300\n\n\n Minnesota $94,400 to $253,800\n\n\n New York $87,400 to $293,800\n\n\n New Jersey $100,500 to $293,800\n\n\n Ohio $87,400 to $235,000\n\n\n Virginia $87,400 to $270,300\n\n\n Washington $100,500 to $270,300\n\n\n \n\n    Requesting an Accommodation\n\n\n Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.\n\n\n If you would like to be considered for employment opportunities with Accenture and have accommodation needs such as for a disability or religious observance, please call us toll free at 1 (877) 889-9009 or send us an email or speak with your recruiter.\n\n\n \n\n\n \n\n    Equal Employment Opportunity Statement\n\n\n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.\n\n\n For details, view a copy of the Accenture Equal Opportunity Statement\n\n\n Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.\n\n\n Accenture is committed to providing veteran employment opportunities to our service men and women.\n\n\n \n\n\n \n\n    Other Employment Statements\n\n\n Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.\n\n\n Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.\n\n\n Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.\n\n\n The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.\n\n\n California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.\n\n\n Please read Accenture’s Recruiting and Hiring Statement for more information on how we process your data during the Recruiting and Hiring process.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=5c03b496ed758379&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/finance-ai-data-strategy-manager-detroit-mi--5b5510ee-5555-4144-956b-2f031dacba2b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/JExcCH8FZ3ljNKdcfSKsVQe5Sed3dIYg176S_c2EimSYwOOzOL5GnQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/finance-ai-data-strategy-manager-detroit-mi--5b5510ee-5555-4144-956b-2f031dacba2b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010243635822&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Nexxt",
+          "link": "https://www.nexxt.com/jobs/finance-ai-data-strategy-manager-detroit-mi-3413475139-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/900cc21f-d7a7-4f6b-b631-e3d4ba078630?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-6369_59145681?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNlIEFJIERhdGEgU3RyYXRlZ3kgTWFuYWdlciIsImNvbXBhbnlfbmFtZSI6IkFjY2VudHVyZSIsImh0aWRvY2lkIjoidHI0amFNVlBhNnl0djdjZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdUWnRjM053YTFsNVUzVkNVRlY1WWxodFVqWXdjMDFaV0ZwYVlqQnpOWFpzY0dkamFuaHJkRVZCWDFscVJubEpRMjV6TjNOa1VtVXhXWFZmU0dKNGVITnZZMkoxY21kSFpGaHhkbEZUTkhCSk1uVnJZelZoY0djd1lXbzNNM04wWDFGNloyaHZUa2hXYkZwS2JYQTVkMEpITVhaak1qRlZYMUo1Tm1OVE5WaHpTalpSUkVnU0YxSjNlbXhoY1VNelR6UlBaV3RRU1ZCeWNYRTFaMEZKR2lKQlNFNHdSVGRIYkZKMmIyeEVUVXAzTkdwVU9YRnRaSGw0VFZGTGNHWnNTbE5CIiwiZmN2IjoiMyIsImZjX2lkIjoidHI0amFNVlBhNnl0djdjZUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Strategy-Manager",
+      "company_name": "Pwc",
+      "location": "Fayetteville, AR",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree",
+            "At least 5 years of experience",
+            "AWS Certified Data Analytics / Solutions Architect",
+            "Azure Data Engineer / Azure Solutions Architect",
+            "Google Professional Data Engineer",
+            "DAMA CDMP (Certified Data Management Professional)",
+            "Informatica Certified Professional",
+            "Alation Certified Data Catalog Professional",
+            "Collibra Certified Ranger/Steward/Expert",
+            "SAP Certified Application Associate - SAP Master Data Governance (MDG)",
+            "SnowPro Core / SnowPro Advanced",
+            "Databricks Certified Data Engineer / Data Analyst / ML",
+            "Proven leadership in data-driven strategies",
+            "Experience in defining data governance frameworks",
+            "Understanding of modern cloud data architectures",
+            "Knowledge of data warehousing concepts",
+            "Familiarity with big data engineering tools",
+            "Proficiency in SQL and data visualization tools",
+            "Experience in designing advanced analytics solutions",
+            "Coaching and collaborating with team members",
+            "For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The salary range for this position is: $99,000 - $232,000",
+            "Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws",
+            "All hired individuals are eligible for an annual discretionary bonus",
+            "PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "At PwC, our people in data and analytics focus on leveraging data to drive insights and make informed business decisions",
+            "They utilise advanced analytics techniques to help clients optimise their operations and achieve their strategic goals",
+            "In data analysis at PwC, you will focus on utilising advanced analytical techniques to extract insights from large datasets and drive data-driven decision-making",
+            "You will leverage skills in data manipulation, visualisation, and statistical modelling to support clients in solving complex business problems",
+            "Enhancing your leadership style, you motivate, develop and inspire others to deliver quality",
+            "You are responsible for coaching, leveraging team member's unique strengths, and managing performance to deliver on client expectations",
+            "You embrace technology and innovation to enhance your delivery and encourage others to do the same",
+            "Analyse and identify the linkages and interactions between the component parts of an entire system",
+            "Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion",
+            "Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables",
+            "Develop skills outside your comfort zone, and encourage others to do the same",
+            "Effectively mentor others",
+            "Use the review of work as an opportunity to deepen the expertise of team members",
+            "Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate",
+            "Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements",
+            "As part of the Data and Analytics team, you will lead the development and implementation of data-driven strategies that drive business growth and enhance decision-making",
+            "As a Manager, you will motivate and inspire your team, leveraging their unique strengths to deliver exceptional client service while maintaining rigorous standards of quality and integrity",
+            "This role offers the chance to work with innovative technologies and collaborate on transformative projects that shape the future of data management and analytics",
+            "Lead the creation and execution of data-driven strategies to enhance business performance",
+            "Inspire and motivate team members to leverage their strengths for exceptional client service",
+            "Maintain the delivery of quality work while adhering to ethical standards",
+            "Collaborate on innovative projects that advance data management and analytics",
+            "Utilize advanced technologies to refine decision-making processes",
+            "Foster a culture of continuous improvement and professional development",
+            "Manage project timelines and deliverables effectively",
+            "Analyze complex data sets to derive actionable insights"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=dW6hkY9GtYZ0gSSxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7A4LTzdImIrjoJIiCIIh-QLmEI4nEXMkd2u5-uLq88TWfWdMeUBHuWlEpTN0FCwaq0MGZHQhh9RG4wIk5ZFrsouogW2tFsgmiqMkbz0_LhRyP9sFO_vQSsdKQf2m_3qxGM5SwnF_fHlKBI06kSq-UM7Wwv30B3cbA2ocAAAA&shmds=v1_Ac3VAoxvz2r4zCyinbUFk_8BQ9VwWwk9zzmF1EtpqRtMtFuN_g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=dW6hkY9GtYZ0gSSxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAqCAMAAADRRmi8AAAAzFBMVEX___8AAADYVgTzviatGwLQ0NDY2NjjcyDaWwrunDTjchypAACwHQDMgntvb2_CIwPbThj04d_njBPyugT768nHSATBQwPBPgT09PTg4OD10Lzwx7fWSgDXUAjytiXfubfaRhfQNwzaRQD88Oi7u7tJSUmdnZ3538XiawD1xk3iYH7maaLAAADPJgCFhYWnp6eQkJDtlyDyuYLpkSj0wz_mwLe-LgDlghDxswj98_vhVnrlX5-9T0DJdGu4QzTUlI0bGxtdXV0tLS06OjoWoRjEAAABlUlEQVRIie2UbU_CMBCAe-qmgkzFFzoFESygImyAiogvG_z__-TdrXWEkbkRY4zx-VBK26ft3TUT4ms6g13NIMPq7xDPrrc1heEwn1gw_JB4XtsxjEY3yP1xRrG6YSiXN5Gjvyc-VE6INcTHU2IdsULUkPH4AnnqTCZZxHpxi9hHGo1LpPk8neYWD5Dqbbf7W0XmDun1mkSq-LKn2Xo9jLliZNo5b0VDKcu1Yt5Lhno-8R_GVVJIyzb_uEiui43tRX3lqWTlbD8AUA4ABK6w_BZAG0dDAFu4OCiENQOivyzCAsLBTUhUYESXukpws3wkTQsZRorDbfApSj6MWn9ZtHgRz7W06IMRLQ97lhBzCmS1KDCUWSRK6Ac0pvAsh--D-yZzasQ5wJxFLwSKyZb6BmAnpUURfxxeOI-S4bYwpaIfhZ4iRonkE0LeJeQrUuqA7imtlaJUOm86Jlru8TQdCb7n0HZJkQi4UFE59L1jEwNI1JFETymdbUvxAqXidfji2ipRjDg5uVlbpLfhpX62VjPT7zsvH7HGMHq89tJ5AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "99K–232K a year",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/PwC/Job/Data-Strategy-Manager/-in-Fayetteville,AR?jid=4a64975b829d5655",
+      "job_title": "Data Strategy-Manager",
+      "description": "Industry/Sector\n\nNot Applicable\n\nSpecialism\n\nData, Analytics & AI\n\nManagement Level\n\nManager\n\nJob Description & Summary\n\nAt PwC, our people in data and analytics focus on leveraging data to drive insights and make informed business decisions. They utilise advanced analytics techniques to help clients optimise their operations and achieve their strategic goals.\n\nIn data analysis at PwC, you will focus on utilising advanced analytical techniques to extract insights from large datasets and drive data-driven decision-making. You will leverage skills in data manipulation, visualisation, and statistical modelling to support clients in solving complex business problems.\n\nEnhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member's unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.\n\nExamples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:\n\nAnalyse and identify the linkages and interactions between the component parts of an entire system.\nTake ownership of projects, ensuring their successful planning, budgeting, execution, and completion.\nPartner with team leadership to ensure collective ownership of quality, timelines, and deliverables.\nDevelop skills outside your comfort zone, and encourage others to do the same.\nEffectively mentor others.\nUse the review of work as an opportunity to deepen the expertise of team members.\nAddress conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.\nUphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.\n\nThe Opportunity\n\nAs part of the Data and Analytics team, you will lead the development and implementation of data-driven strategies that drive business growth and enhance decision-making. As a Manager, you will motivate and inspire your team, leveraging their unique strengths to deliver exceptional client service while maintaining rigorous standards of quality and integrity. This role offers the chance to work with innovative technologies and collaborate on transformative projects that shape the future of data management and analytics.\n\nResponsibilities\n\n- Lead the creation and execution of data-driven strategies to enhance business performance\n- Inspire and motivate team members to leverage their strengths for exceptional client service\n- Maintain the delivery of quality work while adhering to ethical standards\n- Collaborate on innovative projects that advance data management and analytics\n- Utilize advanced technologies to refine decision-making processes\n- Foster a culture of continuous improvement and professional development\n- Manage project timelines and deliverables effectively\n- Analyze complex data sets to derive actionable insights\n\nWhat You Must Have\n\n- Bachelor's Degree\n- At least 5 years of experience\n\nWhat Sets You Apart\n\n- AWS Certified Data Analytics / Solutions Architect\n- Azure Data Engineer / Azure Solutions Architect\n- Google Professional Data Engineer\n- DAMA CDMP (Certified Data Management Professional)\n- Informatica Certified Professional\n- Alation Certified Data Catalog Professional\n- Collibra Certified Ranger/Steward/Expert\n- SAP Certified Application Associate - SAP Master Data Governance (MDG)\n- SnowPro Core / SnowPro Advanced\n- Databricks Certified Data Engineer / Data Analyst / ML\n- Proven leadership in data-driven strategies\n- Experience in defining data governance frameworks\n- Understanding of modern cloud data architectures\n- Knowledge of data warehousing concepts\n- Familiarity with big data engineering tools\n- Proficiency in SQL and data visualization tools\n- Experience in designing advanced analytics solutions\n- Coaching and collaborating with team members\n\n\n\n\n\n\n\nTravel Requirements\n\nUp to 80%\n\nJob Posting End Date\n\n\n\n\n\nThe salary range for this position is: $99,000 - $232,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus.   PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\n\n\nAs PwC is anequal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.\n\n\n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\n\n\nLearn more about how we work: https://pwc.to/how-we-work\n\n\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\n\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/PwC/Job/Data-Strategy-Manager/-in-Fayetteville,AR?jid=4a64975b829d5655&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-strategy-manager-fayetteville-ar--cd36e367-ea32-4c0c-82fd-ad432e446c8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-strategy-manager-at-pwc-4453643863?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Fayetteville Jobs Expertini",
+          "link": "https://fayetteville.us.expertini.com/job/data-strategy-manager-fayetteville-pwc-6e915c1231cc46119af3f81906083d31105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olive Jobs",
+          "link": "https://www.olive.jobs/job/job-74fa7de9-8fd6-45a2-8703-815cc1b4a23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFN0cmF0ZWd5LU1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJQd2MiLCJodGlkb2NpZCI6ImRXNmhrWTlHdFlaMGdTU3hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa2hMU0Y5UUxWQlhkRWcyWDBRM1owbzFaVmQwZDFWb1pUbHVjRmt6ZDJaUFprUjZkSGhXVDI1VExWSnBhVlUxTkV0Nk9IQm5kMXBSU1hwTFRGSkpNa0ozVGtWVU5qbEViMWh3Ym01dlozZzFaSGt0U0VsWFFtOHRURGRWTmpGNFFsUldiMUF5WmpkSU1teEZkMVE1ZDE5SVlUSkRMWEJxYmtkSFVHaE1NbkZ6WjJWRlRsTVNGMUozZW14aGNVTXpUelJQWld0UVNWQnljWEUxWjBGSkdpSkJTRTR3UlRkSVZIUjBUM2huZFdoNmEwMTNZMkZEVldkU1QyOXdiMDVIYldkbiIsImZjdiI6IjMiLCJmY19pZCI6ImRXNmhrWTlHdFlaMGdTU3hBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Manager, Data Analysis - People Strategy & Analytics",
+      "company_name": "Capital One",
+      "location": "McLean, VA (+1 other)",
+      "via": "Capital One Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Purpose: You feel a deep personal connection to improving the associate experience and are motivated by applying advanced analytics in a mission-driven way",
+            "Analytical thinking: A proven track record of decision making and problem solving based on analytics",
+            "Conceptual thinking skills must be complemented by a strong quantitative orientation",
+            "Partnership: Collaborate effectively with other team members and clients in HR",
+            "Communication: Strong written and oral communication skills, including visualization skills (i.e., able to “tell the story” and highlight key insights in a clear and concise manner that is easily understood by stakeholders)",
+            "Results focus: Drives for results and achieves important goals applying strong organizational skills and detail orientation, even amidst ambiguity",
+            "Currently has, or is in the process of obtaining a:",
+            "Bachelor’s Degree in quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science or a related quantitative field) plus at least 6 years of experience performing data analytics, or",
+            "Master’s Degree plus at least 4 years of experience performing data analytics with an expectation that required degree will be obtained on or before the scheduled start date",
+            "At least 4 years of experience performing professional data analysis work",
+            "At least 4 years of experience performing programming"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+            "McLean, VA: $164,800 - $188,100 for Data Analysis Manager",
+            "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+            "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+            "Incentives could be discretionary or non discretionary depending on the plan",
+            "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "People Strategy & Analytics brings data, analytics, and insights to shape critical talent decisions and strategy at Capital One",
+            "As a Manager Data Analyst, you will apply your strategic and analytical skills to solve open-ended, complex questions about how we should attract, develop, and retain top talent",
+            "You will team up with world-class professionals and senior leadership and work on impactful projects",
+            "Refining and evolving people analytics frameworks and data standards to ensure our analytics, metrics, and insights are accurate, compliant, and scalable",
+            "Planning and executing high-priority data projects, managing end-to-end deliverables",
+            "Researching, identifying, and prototyping next-generation AI and automation tools to keep our data and analytics infrastructure at the cutting edge",
+            "Developing analyses and tools to help Capital One recruit, retain, and develop the best talent",
+            "Designing new frameworks for evaluating the success of workforce programs",
+            "…and you will do it all in a collaborative environment that promotes continuous learning, rewards innovation, and prioritizes your development",
+            "Strategic problem solving: Identify high impact opportunities to transform the associate experience, conduct analysis, and improve HR tools and processes",
+            "Data strategy: Establish direction for structure and use of new data assets, creating data features and self-service tools",
+            "Design: Develop AI solutions and data products to automate insights",
+            "Rapid prototyping: Partner with clients to design innovative, AI-first data solutions and tools for workforce priorities",
+            "Insights & analysis: Analyze internal and external workforce data and extract insights to help our clients make data-driven, informed decisions",
+            "Successful Team Members Demonstrate Competencies In These Areas",
+            "Identify opportunities for improvement and use data to make strategic and tactical recommendations",
+            "Execution: Develop and test hypotheses, design solutions, assess operational feasibility, support implementation efforts, and develop plans and tools for monitoring outcomes"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=KMZCv-HQwNljIA3YAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWMMQrCQBAAsc0PtNrKQmJOBButgoKgBgXBNmyO5XJy7h7ZK5IH-U8TbKaZYbLvLLtWyOioy-GECaFkDIN6hTU8SGIgeKYOE7kBln-ZvJ3sRRpQws62IAxnERdocWhTiro3RjUUThOOcWHlY4Spkd68pdEJtbbYUQzjuN7uNn0R2a3mR4w-YYA7E3iGyt4IOYdX-QN7sQscqAAAAA&shmds=v1_Ac3VAowNXYkm7WMSRbT1Jx6e2R8A80nksqhYecqW8PYis8s_Eg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=KMZCv-HQwNljIA3YAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAulBMVEX____QMCeBl60APHIARnQAOm_6___MAADPLSPOJxzWfnqUpriltMMANm2Hm7AAOGzW3eBsh6Hr5uXkz83kurjiqKbgl5TQZF7JSULIGwjMNi3MWVPbiYbiravy8fDjyMbmpKLplZPZb2rEAADOPTXUFADOIRXPravQop_hv77o3dzRVE7URT7PSEFhf5vN1N2xv8kALWgXVHw3ZYgAHWJIb5KvydcsXYW_y9MARnoAEGBRdpT77usAKWsSXyrgAAABtElEQVRIie2TbXeaMBSALxCkmhcSKbW4Le1WcRVbCSAlLPP__60FnD21053Zr-M5HA653Ce5uQGAgYGBgbOMptF1fDOZ3TpJEATJ_NPnL9O_G_Lu_uu3-UPizBcL5yFI0-WVY7kaL9NFdkaJVt8f7-NVJkdvg_E67VUrByekaRadLSV7-m2O_2WTbxklvZdeXyrCpFtyObnYg-duvQ94Ueo4QXwYSeJu3Pw4g2B7OzSJu91IcaJvluMkOuTgoijdCh-LDAPeHmKECpC1fRAv69nrCSnqkf5tWRSIyIaxsuJ5zdwWUWLaglaShQSQ7JK2r1UCNKjZ1wOg_Ur7jSReTSgD6skuuAlV5Wld90k7XYJqJWBbQIvQfh9NZXxMqILcN3YN6VFQGySQJ-0UbF_2DxAaaqjAXrrwkCtUSJWsQ5tZElTkjc9VaPQuBB1SSQtw--3oigsAoxjvhpyZquZaCIIFb1ti7KQbAVoosN22cS7YT2U6EXHMQRN7A3ncTLnbwgniNRgC0uRQAriYGE7eizn_U8tm3dHZU9x3k3PI1anp3_N4-RfdEa0-pMGZX31gYOA_5xf6NykxV_fD-gAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "18 days ago",
+        "Full-time and Part-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.capitalonecareers.com/job/mclean/manager-data-analysis-people-strategy-and-analytics/1732/101042091888",
+      "job_title": "Manager, Data Analysis - People Strategy & Analytics",
+      "description": "Manager, Data Analysis - People Strategy & Analytics\n\n\n\n\n\nPeople Strategy & Analytics brings data, analytics, and insights to shape critical talent decisions and strategy at Capital One. We work closely with HR partners and senior executives in shaping talent policy, automating real-time data, and improving talent decision-making. The team is composed of people with diverse skills and backgrounds including: data analysts, data scientists, business analysts, project managers, and Industrial Organizational Psychologists.\n\n\nAs a Manager Data Analyst, you will apply your strategic and analytical skills to solve open-ended, complex questions about how we should attract, develop, and retain top talent. You will team up with world-class professionals and senior leadership and work on impactful projects. Your day-to-day might involve:\n\nRefining and evolving people analytics frameworks and data standards to ensure our analytics, metrics, and insights are accurate, compliant, and scalablePlanning and executing high-priority data projects, managing end-to-end deliverablesResearching, identifying, and prototyping next-generation AI and automation tools to keep our data and analytics infrastructure at the cutting edgeDeveloping analyses and tools to help Capital One recruit, retain, and develop the best talentDesigning new frameworks for evaluating the success of workforce programs\n…and you will do it all in a collaborative environment that promotes continuous learning, rewards innovation, and prioritizes your development.\n\n\nSpecific responsibilities include, but are not limited to:\n\nStrategic problem solving: Identify high impact opportunities to transform the associate experience, conduct analysis, and improve HR tools and processesData strategy: Establish direction for structure and use of new data assets, creating data features and self-service toolsDesign: Develop AI solutions and data products to automate insights Rapid prototyping: Partner with clients to design innovative, AI-first data solutions and tools for workforce prioritiesInsights & analysis: Analyze internal and external workforce data and extract insights to help our clients make data-driven, informed decisions\nSuccessful Team Members Demonstrate Competencies In These Areas\n\nPurpose: You feel a deep personal connection to improving the associate experience and are motivated by applying advanced analytics in a mission-driven wayAnalytical thinking: A proven track record of decision making and problem solving based on analytics. Conceptual thinking skills must be complemented by a strong quantitative orientation. Identify opportunities for improvement and use data to make strategic and tactical recommendationsExecution: Develop and test hypotheses, design solutions, assess operational feasibility, support implementation efforts, and develop plans and tools for monitoring outcomesPartnership: Collaborate effectively with other team members and clients in HRCommunication: Strong written and oral communication skills, including visualization skills (i.e., able to “tell the story” and highlight key insights in a clear and concise manner that is easily understood by stakeholders)Results focus: Drives for results and achieves important goals applying strong organizational skills and detail orientation, even amidst ambiguity\nBasic Qualifications:\n\nCurrently has, or is in the process of obtaining a:Bachelor’s Degree in quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science or a related quantitative field) plus at least 6 years of experience performing data analytics, or Master’s Degree plus at least 4 years of experience performing data analytics with an expectation that required degree will be obtained on or before the scheduled start date.At least 4 years of experience performing professional data analysis workAt least 4 years of experience performing programming\nPreferred Qualifications:  \n\nMaster’s Degree in a Science, Technology, Engineering, Mathematics disciplineAt least 7 years of professional data analysis work experienceAt least 4 years of experience with Python, R, Spark or SQL At least 1 year of experience in people management At least 1 years of project management experience At least 1 year of experience in Tableau Proficient utilizing and developing within AWS serviceAt least 2 years of experience building dashboards and self-service data tools for business stakeholders\n\n\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\n\n\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n\n\nMcLean, VA: $164,800 - $188,100 for Data Analysis Manager\n \n\nRichmond, VA: $149,800 - $171,000 for Data Analysis Manager\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n \n\n\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\n\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\n\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\n\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\n\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\n\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\n\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\n\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "apply_options": [
+        {
+          "title": "Capital One Careers",
+          "link": "https://www.capitalonecareers.com/job/mclean/manager-data-analysis-people-strategy-and-analytics/1732/101042091888?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=08b75d8c9042b8ce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/capital-one/Job/Manager,-Data-Analysis-People-Strategy-&-Analytics/-in-Mclean,VA?jid=16d67b432b33469c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/manager-data-analysis-people-strategy-analytics_7ea1a471444b34028e2f6c8553e12b9876381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/manager-data-analysis-people-strategy-mclean-capital-one-3ae6ee3e9300c2ab2b37ef42dd3d1d1b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/sr-manager-tech-risk-and-analysis-capital-one-mclean-virginia-825r9zepkdsndxnw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Muse",
+          "link": "https://www.themuse.com/jobs/capitalone/sr-manager-tech-risk-analysis?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EQuest Jobs",
+          "link": "https://jobs.equest.com/jobs/VA/capital-one/manager-data-analysis-people-strategy-analytics-489099707.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyLCBEYXRhIEFuYWx5c2lzIC0gUGVvcGxlIFN0cmF0ZWd5IFx1MDAyNiBBbmFseXRpY3MiLCJjb21wYW55X25hbWUiOiJDYXBpdGFsIE9uZSIsImh0aWRvY2lkIjoiS01aQ3YtSFF3TmxqSUEzWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXTmpiMmxOVXpOU00xbzNkM0pKVDNNNU4zbGlhazlSWlRWWFlrUnZSVGQxYjNGVE1GSjVNM0ZsUzB4dUxYcHJZa3ROUWtOT2N6WlFSRFZYWVY5UWJFTm9hR2hWYVhkQ1FqTTJZMDV3TW0xSmFVaE9jM1JaVEd4aFJVcFlXVWt0YVdrdGRuTlJkMFZwYWpGUmVIUXhXWGwwTnpKU2R6SlhlVTFzY1VwVGIxOWhaSEp0VUZNU0YxSjNlbXhoY1VNelR6UlBaV3RRU1ZCeWNYRTFaMEZKR2lKQlNFNHdSVGRGYjA5b1gySllWR1owU0VoMVZVcDVVV1UwWlhCTk1WWTVNRFpCIiwiZmN2IjoiMyIsImZjX2lkIjoiS01aQ3YtSFF3TmxqSUEzWUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Manager, Data & Analytics Product Strategic Operations",
+      "company_name": "ServiceNow",
+      "location": "Anywhere",
+      "via": "ServiceNow Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving",
+            "This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry",
+            "10+ years technical program management or 3+ years leading strategic programs at tier-one Tech/Consulting firms",
+            "Proven experience collaborating with Product, Engineering, Sales, Marketing, Customer Success, Support, Legal and other go-to-market teams",
+            "Exceptional written and verbal communication skills; ability to present complex concepts clearly to technical and non-technical stakeholders, including executives",
+            "Process-driven with propensity to create and employ repeatable processes to complete tasks more efficiently",
+            "If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance",
+            "For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals",
+            "All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data and Analytics (D&A) Product team comprises three major product pillars: Workflow Data Fabric, Workflow Data Management and Workflow Data Apps/Analytics",
+            "We build solutions for our customers that power workflows and agentic AI with internal and external data to unlock exponential customer value",
+            "As Senior Manager, Data & Analytics Strategic Operations, you will drive Data and Analytics' most critical cross-functional priorities and strategic initiatives, operating at the intersection of strategy and execution and setting the standard for how high-impact programs are designed, governed, and run at scale",
+            "You identify, prioritize, and accelerate programs of the highest complexity with quantifiable impact on revenue, market position, and competitive advantage",
+            "You operate as an AI-native program manager and strategic operator who thinks strategically but loves getting into details",
+            "This is an individual contributor role with full strategic authority and accountability for outcomes",
+            "Lead cross-functional programs with Product, Engineering, Experience, Marketing, Sales, and Customer Success Teams",
+            "Coordinate Data and Analytics Executive SteerCos; define and set agenda with cross-functional stakeholders",
+            "Deliver key content and track action items to completion",
+            "Establish and report key product and business metrics to drive executive decisions",
+            "Analyze trends and data to provide leadership insights",
+            "Collaborate with cross-functional team on key business cadences including Quarterly Product Reviews (QPRs), bi-annual Product Roadmap Reviews (PRRs) and annual Summer Strategy",
+            "Use AI to enhance program efficiency, decision-making, communication, and risk management",
+            "Data and Analytics Go-to-Market Execution:",
+            "Define and execute Data and Analytics go-to-market readiness plans for new and existing products, working with cross functional teams",
+            "Identify and resolve critical path go-to-market issues across cross-functional teams",
+            "Maintain NPI Team process governance: enforce standards, templates, tooling, and compliance across product lines",
+            "Develop and drive Data and Analytics Product Advisory Council (PAC) activities",
+            "Professional certification, such as Project Management Professional (PMP) or equivalent"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=qbGLC9kQbG6ewWdsAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMuwrCQBAAsc0XiNVWFhITEWy0CgiC4AOSwi5czuVycu6G243Gj_Ifjc0wxTDJd5JUJZLnCCdDxmFMYW_UwBwKMuGj3gpcI997q1BqNIrOW7h0OKpnEljCkRsQNNG2wAQHZhdwtmtVO9nmuUjInOhY28zyM2fChof8wY38UUtrInZhHNfrzWrIOnKLaYnx5S2e-Q2eoOhFPaVQ3X7egAzEsAAAAA&shmds=v1_Ac3VAoxNPtewFL9ONxwDk-ehVo6aPswSlla8odB1WoZ-Wmc94A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=qbGLC9kQbG6ewWdsAAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://careers.servicenow.com/jobs/744000154038601/senior-manager-data-analytics-product-strategic-operations/",
+      "job_title": "Senior Manager, Data & Analytics Product Strategic Operations",
+      "description": "Company DescriptionIt all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.\n\nJoin us to put AI to work for people.\n\n \n\nJob DescriptionTeam Description:\n\nThe Data and Analytics (D&A) Product team comprises three major product pillars: Workflow Data Fabric, Workflow Data Management and Workflow Data Apps/Analytics. The team is focused on helping our customers connect, understand and act on their enterprise data. We build solutions for our customers that power workflows and agentic AI with internal and external data to unlock exponential customer value. \n\nRole Description:\n\nAs Senior Manager, Data & Analytics Strategic Operations, you will drive Data and Analytics' most critical cross-functional priorities and strategic initiatives, operating at the intersection of strategy and execution and setting the standard for how high-impact programs are designed, governed, and run at scale. You identify, prioritize, and accelerate programs of the highest complexity with quantifiable impact on revenue, market position, and competitive advantage. You operate as an AI-native program manager and strategic operator who thinks strategically but loves getting into details. This is an individual contributor role with full strategic authority and accountability for outcomes. \n\nWhat you get to do in the role: \n\nStrategic Program Management & Executive Insights: \n\nLead cross-functional programs with Product, Engineering, Experience, Marketing, Sales, and Customer Success Teams.  \n\nCoordinate Data and Analytics Executive SteerCos; define and set agenda with cross-functional stakeholders. Deliver key content and track action items to completion. \n\nEstablish and report key product and business metrics to drive executive decisions \n\nAnalyze trends and data to provide leadership insights.  \n\nCollaborate with cross-functional team on key business cadences including Quarterly Product Reviews (QPRs), bi-annual Product Roadmap Reviews (PRRs) and annual Summer Strategy. \n\nUse AI to enhance program efficiency, decision-making, communication, and risk management.  \n\n \n\nData and Analytics Go-to-Market Execution: \n\nDefine and execute Data and Analytics go-to-market readiness plans for new and existing products, working with cross functional teams. \n\nIdentify and resolve critical path go-to-market issues across cross-functional teams \n\nMaintain NPI Team process governance: enforce standards, templates, tooling, and compliance across product lines. \n\nDevelop and drive Data and Analytics Product Advisory Council (PAC) activities.  \n\nQualificationsRequired skills: \n\nExperience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.  \n\n10+ years technical program management or 3+ years leading strategic programs at tier-one Tech/Consulting firms \n\nEnterprise software/SaaS industry domain expertise with the ability to understand complex technology problems is a plus.  \n\nProven experience collaborating with Product, Engineering, Sales, Marketing, Customer Success, Support, Legal and other go-to-market teams.  \n\nExceptional written and verbal communication skills; ability to present complex concepts clearly to technical and non-technical stakeholders, including executives \n\nProcess-driven with propensity to create and employ repeatable processes to complete tasks more efficiently.  \n\nProfessional certification, such as Project Management Professional (PMP) or equivalent. \n\nAdditional InformationWork Personas\n\nWe approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.\n\nEqual Opportunity Employer\n\nServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,  veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.  \n\nAccommodations\n\nWe strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance. \n\nExport Control Regulations\n\nFor positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. \n\nFrom Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.",
+      "apply_options": [
+        {
+          "title": "ServiceNow Careers",
+          "link": "https://careers.servicenow.com/jobs/744000154038601/senior-manager-data-analytics-product-strategic-operations/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/Senior-Manager--Commercial-Insights--Patient---Access-Analytics_R-256900?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lantern Growth",
+          "link": "https://www.lanterngrowth.com/jobs/sr-manager-analytics-tracking?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=6b42ee751b6a7d4c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-manager-portfolio-analytics-forecasting-at-flagship-financial-group-4479155111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Virtual Vocations",
+          "link": "https://www.virtualvocations.com/job/senior-manager-data-analytics-3288684-i.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/senior-manager-data-engineering-analytics/10860832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/senior-manager-data-analytics-product-strategic-operations-servicenow-10339245?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFuYWdlciwgRGF0YSBcdTAwMjYgQW5hbHl0aWNzIFByb2R1Y3QgU3RyYXRlZ2ljIE9wZXJhdGlvbnMiLCJjb21wYW55X25hbWUiOiJTZXJ2aWNlTm93IiwiaHRpZG9jaWQiOiJxYkdMQzlrUWJHNmV3V2RzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VkQ2JFSXdhMU5rZFVsbVUybFNPV2xMY1dneWRVNU1hbHBVYm5WbVZFMU5PVkZwV21sSVltWXlkMXBxU3pkT2JrZzNXbmsyZVdSdFNtSTJRVkZGUm1KYVkxWkhNMnByWVdzeVh6VmxXa2hJVWpsSFkzZ3pkemhUVDNwVldUUkpUVWxwYzIxRmR6VjNWbFpSVkhGZlUycEpSV05UVlc4dFJUZzFSblJuTjFoWk9WQTVkbE1TRjFKM2VteGhjVU16VHpSUFpXdFFTVkJ5Y1hFMVowRkpHaUpCU0U0d1JUZEhkbFJZV0hKVE9ITlpSMm94Ylc5RVIzTmlhWE5GYkd4SVZXMW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJxYkdMQzlrUWJHNmV3V2RzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Strategy-Manager",
+      "company_name": "PwC",
+      "location": "San Jose, CA",
+      "via": "Talents By Vaia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=K8_AKW2YWE2bZZ6UAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFy7ujndLG0igotOUkEQBKEfUC7hSCoxF3IH1s1Pty5vfM131bQXVIRBKyqFT3fHjIEqdHBjB0JYfQTOcGUOiTanqFrkaK1IMkEUdfLG88tyJsezfbKTP6NErFTSko77w242JYft-vHuYcowYF52oRb68w-X_GyfgwAAAA&shmds=v1_Ac3VAoyt6za6kIOkUedbQB8qfIyq0Z2wUHcuGIYOFtmM-wpPUw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=K8_AKW2YWE2bZZ6UAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAqCAMAAADRRmi8AAAAjVBMVEX___8AAADOzs79SgD_-fYpKSn-1s3-y7f9lWz9QwD9UAD9WBb-hlqCgoKlpaVdXV3o6Oj4-Pi4uLjIyMiXl5eMjIzZ2dk5OTkfHx98fHxISEgRERFDQ0OwsLBwcHDx8fFVVVX-4Nj-7eT9aTP9NgD-tJr-q5P9dUD_8u7_1sf9Zyj_0b_-nHr9kGVmZmaZmBZfAAABkklEQVRIie2SbXOCMAyAm6CbbmspYMu76NRtTsf__3lLCwIypsfutg87nw-Uo3malISxGzf-H-u7lvUI73kzb9juRogvzsMJ5_Xtcuykw_79seVw2bt7apkd7lv2k8vixmmYH0dcardtRedKji6T46zhYz8i4W-iNfMQ9cBOIfxTDMrzLYlLADdPASDSrEAeAgT0PQaIGeMAS49JBZZFV4ygZaqFXUnUtHDGyAi1TAAyn06Kgo6IgtTEx4UxlERhRa9sRBddgBSZCRDdlDilTarfbNCKVsyhEYU5invmNfWHRLOG2ooos2lai7G5LeRU_LI8S9iIOiMRq4wKfJuRvhWSKoWzVANiUmVcQMms6JJRlP3L9cSAios9K6YRGlHFtgHUElgV34pe_buxbhg9M4hNvG96LDzGvCDoiyvUqi7IiJm0IiR2WMyRVLcQHFRfTEOal8SeV7WjEushK9zTgHzJGHKe11GSKztZSnFsYnS8WrkKGeuLNI_jseLAT7uK_mFGbq-dquuRPcTCko9P-dd8AtUsGW-gncBtAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://talents.vaia.com/companies/pwc/san-jose/data-strategy-manager-106828481/",
+      "job_title": "Data Strategy-Manager",
+      "description": "At PwC, our people in data and analytics focus on leveraging data to drive insights and make informed business decisions. They utilise advanced analytics techniques to help clients optimise their operations and achieve their strategic goals.  In data analysis at PwC, you will focus on utilising advanced analytical techniques to extract insights from large datasets and drive data-driven decision-making. You will leverage skills in data manipulation, visualisation, and statistical modelling to support clients in solving complex business problems.  Enhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.  Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:  Analyse and identify the linkages and interactions between the component parts of an entire system.  Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion.  Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables.  Develop skills outside your comfort zone, and encourage others to do the same.  Effectively mentor others.  Use the review of work as an opportunity to deepen the expertise of team members.  Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.  Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.  The Opportunity  As part of the Data and Analytics team, you will lead the development and implementation of data-driven strategies that drive business growth and enhance decision-making. As a Manager, you will motivate and inspire your team, leveraging their unique strengths to deliver exceptional client service while maintaining rigorous standards of quality and integrity. This role offers the chance to work with innovative technologies and collaborate on transformative projects that shape the future of data management and analytics.  Responsibilities  Lead the creation and execution of data-driven strategies to enhance business performance  Inspire and motivate team members to leverage their strengths for exceptional client service  Maintain the delivery of quality work while adhering to ethical standards  Collaborate on innovative projects that advance data management and analytics  Utilize advanced technologies to refine decision-making processes  Foster a culture of continuous improvement and professional development  Manage project timelines and deliverables effectively  Analyze complex data sets to derive actionable insights  What You Must Have  Bachelor's Degree  At least 5 years of experience  What Sets You Apart  AWS Certified Data Analytics / Solutions Architect  Azure Data Engineer / Azure Solutions Architect  Google Professional Data Engineer  DAMA CDMP (Certified Data Management Professional)  Informatica Certified Professional  Alation Certified Data Catalog Professional  Collibra Certified Ranger/Steward/Expert  SAP Certified Application Associate – SAP Master Data Governance (MDG)  SnowPro Core / SnowPro Advanced  Databricks Certified Data Engineer / Data Analyst / ML  Proven leadership in data-driven strategies  Experience in defining data governance frameworks  Understanding of modern cloud data architectures  Knowledge of data warehousing concepts  Familiarity with big data engineering tools  Proficiency in SQL and data visualization tools  Experience in designing advanced analytics solutions  Coaching and collaborating with team members  The salary range for this position is: $99,000 - $232,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance  As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.  PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.  Learn more about how we work: https://pwc.to/how-we-work  For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.  Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines  #LI-Hybrid",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/pwc/san-jose/data-strategy-manager-106828481/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_50B6833BD699935A297D1DBFF3AC89EF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/70b66933-feec-4930-9761-e30a1977f9fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/94a1739f-5d0c-44e9-aea3-900b09cb566d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/e5fed744-88c4-475a-b864-07937cd1a25d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-strategy-manager-pwc-san-jose--lensa-2365_f2ebf29619f310b8a1d28aad5aa06036120e325d97cac5eb562c85297452fc2b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "San Jose Jobs Expertini",
+          "link": "https://sanjose.us.expertini.com/job/data-strategy-manager-san-jose-pwc-627650a1252f4bed8a5f737d78522d59105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ca-san-jose-data-strategy-manager-pwc-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFN0cmF0ZWd5LU1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJQd0MiLCJodGlkb2NpZCI6Iks4X0FLVzJZV0UyYlpaNlVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVXRHVVd4blJqQlljMUZhWldWRFdYSTNZV015WWxWMlVtWnVNR3BWVjBGUmMwdFdjVkprVFVSVWFGOXJVRlptTlhWSVNqQk1ZbXRJYjBvek4wcEVTRW8zTjNVMk1EZGhlbkI1TW1oQmVERjRaRzQxUzFWRFN6QkhkMDQ0WTJ0elNXZFdWRXBhWWpZMlJHRmZkVVZpU0RaU09VUkpaWFZmUm1ORFpWOTFXSGhEZGsxTVQxQVNGMUozZW14aGNVTXpUelJQWld0UVNWQnljWEUxWjBGSkdpSkJTRTR3UlRkSWRYY3hVRm94VEVwTE9EUmpVVGxWZEcxbGVVNVVTVjlhUVdGUiIsImZjdiI6IjMiLCJmY19pZCI6Iks4X0FLVzJZV0UyYlpaNlVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "FDI & Oracle Analytics Manager - Cloud Data Strategy",
+      "company_name": "EY",
+      "location": "Anywhere",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "EY is seeking an Oracle Fusion Data Intelligence (FDI) Manager to lead the design and delivery of enterprise reporting, analytics, and AI-driven solutions across ERP and related domains",
+            "You will collaborate with senior stakeholders to define reporting strategies and architect modern data platforms in a global delivery environment",
+            "You’ll manage distributed teams, guide analytics roadmaps, and translate business objectives into scalable cloud architectures using FDI, OAC, and Oracle Cloud"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=j5mJjpeG6sdHTh0rAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMuwrCQBBAUWxTW1lNZSGaFcFGKzVGfCFoZRUm67KJrDNhZ4T4N36qsbnFLU7y7SXHPNvDEC4RbXCwIgwfra3AGQm9izCBTeD3AzJUhJtGVOc_3T1wCeIw2gqYYMfsgxssK9VGFsaIhNSLYkelll-GyZXcmieX8k8hFUbXhA4rZvNpmzbkR_3tHWqCNVuEKyrTGPLTD3EeJ-qjAAAA&shmds=v1_Ac3VAoz8J2cjYhmC8v1o_ruKo6BQLw-33_QtAjOQjqtqqRaS4Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=j5mJjpeG6sdHTh0rAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c47dd17b113c9df1b77/images/glQJutaIrwTdMv9ZPNE-4rl17Rv41KdF4tcCHSVKFMw.png",
+      "extensions": [
+        "3 days ago",
+        "143K–262K a year",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.jobleads.com/us/job/fdi-oracle-analytics-manager-cloud-data-strategy--boca-raton--e547fce1738d259013461c9e2d8ea65ff",
+      "job_title": "FDI & Oracle Analytics Manager - Cloud Data Strategy",
+      "description": "EY is seeking an Oracle Fusion Data Intelligence (FDI) Manager to lead the design and delivery of enterprise reporting, analytics, and AI-driven solutions across ERP and related domains. You will collaborate with senior stakeholders to define reporting strategies and architect modern data platforms in a global delivery environment.\n\nYou’ll manage distributed teams, guide analytics roadmaps, and translate business objectives into scalable cloud architectures using FDI, OAC, and Oracle Cloud",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/fdi-oracle-analytics-manager-cloud-data-strategy--boca-raton--e547fce1738d259013461c9e2d8ea65ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGREkgXHUwMDI2IE9yYWNsZSBBbmFseXRpY3MgTWFuYWdlciAtIENsb3VkIERhdGEgU3RyYXRlZ3kiLCJjb21wYW55X25hbWUiOiJFWSIsImh0aWRvY2lkIjoiajVtSmpwZUc2c2RIVGgwckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFluRlNRelZxVkZvNVprMDJlRjkwTjBaVlkwNUtVbkJ2V1VjMWMyVmhMV1ZFYzJ4SVZEQlpiR2RYU201R2JtRkVZVE13UVRCSlMycDVZVkZ1VjFaaGFrOVdhalV4TjE5dFkyNTBWbEJCY0VkVWF6RjZXSG80ZEhCSlNERlBSa3AyTWxsc1ZXVmFjM3BEWmpCdk1sUjVka3hKYmxRek5XMVlXRWxSWjFOM2FXTXdNRUpoUmprU0YxSjNlbXhoY1VNelR6UlBaV3RRU1ZCeWNYRTFaMEZKR2lKQlNFNHdSVGRGU2t0bGVtWmZVbEkyVVY4NVdWcGxORUZLU1MxbWNubDVUUzEzIiwiZmN2IjoiMyIsImZjX2lkIjoiajVtSmpwZUc2c2RIVGgwckFBQUFBQT09In0="
+    },
+    {
+      "title": "VP, Marketing Data Strategy (Remote)",
+      "company_name": "Smart Financial Decisions Made Simple",
+      "location": "Anywhere",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We're deliberately not looking for someone who has done everything",
+            "Experience leading strategic marketing data, customer intelligence, analytics or data product initiatives that delivered measurable business outcomes",
+            "Deep expertise in at least one of the following:",
+            "Marketing measurement and attribution",
+            "Customer intelligence and first-party data",
+            "Applied data science and predictive modelling",
+            "Marketing platforms and activation",
+            "Data products and decision intelligence",
+            "A track record of building products, platforms or capabilities that deliver measurable commercial outcomes",
+            "Deep understanding of Performance Marketing",
+            "Strong commercial judgement and the ability to prioritise initiatives based on business value",
+            "Confidence influencing senior stakeholders across both technical and non-technical audiences",
+            "Experience developing teams, coaching leaders and building organisational capability",
+            "Curiosity about emerging technologies - particularly AI - and a pragmatic approach to applying them where they create genuine business value",
+            "Analysis Skills, Artificial Intelligence (AI), Business Growth, Channel Marketing, Coaching, Customer/Client Research, Data Analysis, Data Collection, Data Science, Decision Support, Ecosystems, Establish Priorities, Leadership, Machine Learning, Marketing, Marketing Strategy, Online Marketing, Organizational Skills, Performance Management, Predictive Modeling, Problem Solving Skills, Process Improvement, Product Development, Product Programs, Revenue Growth, Team Lead/Manager, Team Player"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Working directly with the VP of Data Strategy, you'll act as a trusted technical counterpart - bringing deep expertise, challenging thinking, and helping shape strategic decisions across our marketing data ecosystem",
+            "You'll join an established leadership team spanning Engineering, Analytics, Data Science and Operations, helping define how customer data, marketing measurement, attribution, analytics and AI come together to improve business performance",
+            "You'll also act as a senior technical counterpart to key technology partners, helping ensure our strategy evolves alongside the wider marketing ecosystem",
+            "If you're motivated by solving complex commercial problems, challenging conventional thinking, building products rather than projects, and helping organisations use data more effectively, we'd love to hear from you",
+            "Marketing Measurement & Attribution: Help define how we measure marketing performance across channels and ensure that our measurement strategy enables better commercial decisions",
+            "Customer Intelligence & First-Party Data: Help shape how customer data is collected, organised and activated across the business",
+            "Marketing Platforms & Activation: Ensure our marketing platforms receive the right data to optimise effectively and maximise commercial performance",
+            "Data Products & Decision Intelligence: Help move the organisation from one-off analysis towards reusable products and decision-support capabilities",
+            "Strategic Leadership: Challenge assumptions and influence the future direction of our marketing data strategy",
+            "Team Leadership & Capability Building: Play an important role in building and developing the next generation of leaders across Data & Analytics"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=0_Ll0GoBWXiXQxenAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsYoCQQyAYWx9BKuUKrp7CIegpaIgKMctnKVkxzAbnUmWSQrvuXzB22v-8ucbv0fj7c_XAs5YnuQsEfboCI0XdIq_MP2mrE4zWMJJWzDCEjpQgaNqTDTZdu69beraLFXRHJ1DFTTXKtTqq35oa_-5WYeF-jRcb6vPj1fVS5yvm4zF4cCCEhgT7CmwsYoNnjtBw7lPBCxw5ZQHnKss4LL7AzwJv0i2AAAA&shmds=v1_Ac3VAowXQqVKlTbOi2XldZ57ghd4lSIh_kscyctSfN5VlWJc6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=0_Ll0GoBWXiXQxenAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.monster.com/job-openings/vp-marketing-data-strategy-remote-wilmington-nc--3b870964-171e-48f5-801a-3fd8914123ab",
+      "job_title": "VP, Marketing Data Strategy (Remote)",
+      "description": "We're looking for a leader who wants to help build the future of marketing data strategy at Forbes Digital Marketing. Our Data & Analytics organisation sits at the heart of our mission. We build the products, platforms and intelligence that power marketing, commercial decision making, customer understanding and revenue growth across the business. As we continue to invest in first-party data, machine learning, marketing technology and AI, we're looking for a senior leader to help define the next phase of that journey. \n\n\n\n\nThis is not a traditional data leadership role. Working directly with the VP of Data Strategy, you'll act as a trusted technical counterpart - bringing deep expertise, challenging thinking, and helping shape strategic decisions across our marketing data ecosystem. You'll join an established leadership team spanning Engineering, Analytics, Data Science and Operations, helping define how customer data, marketing measurement, attribution, analytics and AI come together to improve business performance. You'll also act as a senior technical counterpart to key technology partners, helping ensure our strategy evolves alongside the wider marketing ecosystem. \n\n\n\n\nIf you're motivated by solving complex commercial problems, challenging conventional thinking, building products rather than projects, and helping organisations use data more effectively, we'd love to hear from you. \n\n\n\n\nResponsibilities:\n\nMarketing Measurement & Attribution: Help define how we measure marketing performance across channels and ensure that our measurement strategy enables better commercial decisions. Customer Intelligence & First-Party Data: Help shape how customer data is collected, organised and activated across the business. Marketing Platforms & Activation: Ensure our marketing platforms receive the right data to optimise effectively and maximise commercial performance. Data Products & Decision Intelligence: Help move the organisation from one-off analysis towards reusable products and decision-support capabilities. Strategic Leadership: Challenge assumptions and influence the future direction of our marketing data strategy. Team Leadership & Capability Building: Play an important role in building and developing the next generation of leaders across Data & Analytics. \n\n\nRequirements:\n\nWe're deliberately not looking for someone who has done everything. Instead, you'll bring deep expertise in one or more of our strategic domains together with the ability to collaborate across the wider marketing data ecosystem. \n\n\n\n\nYou'll likely bring:\n\nExperience leading strategic marketing data, customer intelligence, analytics or data product initiatives that delivered measurable business outcomes. Deep expertise in at least one of the following: Marketing measurement and attribution Customer intelligence and first-party data Applied data science and predictive modelling Marketing platforms and activation Data products and decision intelligence A track record of building products, platforms or capabilities that deliver measurable commercial outcomes. Deep understanding of Performance Marketing Strong commercial judgement and the ability to prioritise initiatives based on business value. Confidence influencing senior stakeholders across both technical and non-technical audiences. Experience developing teams, coaching leaders and building organisational capability. Curiosity about emerging technologies - particularly AI - and a pragmatic approach to applying them where they create genuine business value. \n\n\nForbes Advisor provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nThis policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n\n#LI-REMOTE #LI-NM1\n\n\nRemote\n\nSkills:\nAnalysis Skills, Artificial Intelligence (AI), Business Growth, Channel Marketing, Coaching, Customer/Client Research, Data Analysis, Data Collection, Data Science, Decision Support, Ecosystems, Establish Priorities, Leadership, Machine Learning, Marketing, Marketing Strategy, Online Marketing, Organizational Skills, Performance Management, Predictive Modeling, Problem Solving Skills, Process Improvement, Product Development, Product Programs, Revenue Growth, Team Lead/Manager, Team Player\n\n\nSmart Financial Decisions Made Simple",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/vp-marketing-data-strategy-remote-wilmington-nc--3b870964-171e-48f5-801a-3fd8914123ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/vp-marketing-data-strategy-remote-forbes-advisor-wilmington--techmap_us_ab0d972f-7138-49a8-9008-b050d6839f54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJWUCwgTWFya2V0aW5nIERhdGEgU3RyYXRlZ3kgKFJlbW90ZSkiLCJjb21wYW55X25hbWUiOiJTbWFydCBGaW5hbmNpYWwgRGVjaXNpb25zIE1hZGUgU2ltcGxlIiwiaHRpZG9jaWQiOiIwX0xsMEdvQldYaVhReGVuQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWtOWE1HVkJVMnRwWHpZMlQyMURTVnBMVDFOMmFVeHJXamhHUVdGQk5rOUlUa1pxTjB0YU16QmZWV2xXTTA0NU9GRlJja056TUZKNk9YWlZSRVU0TFVWZmFWaExTWGRGUmxGS1ZsQTNNR0k0UlU1bWVHMXhVME5MTWpoS1lVc3dUMHA0ZVRGRVRsRmZSa3hQTVRWUmEyTmxSelUwU1RGTWVXVTVURlpxYjBSM2RteHlSR2tTRjFKM2VteGhjVU16VHpSUFpXdFFTVkJ5Y1hFMVowRkpHaUpCU0U0d1JUZElhSEJXYWsxMWJrMXRTekpwZVdveGNteDFNM3B0TWpoS1RWSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiIwX0xsMEdvQldYaVhReGVuQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Global Knowledge Management Director, R&D & Data Strategy",
+      "company_name": "CSL",
+      "location": "Waltham, MA",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ideal candidates bring 8+ years in pharma/biotech knowledge management or related fields, with global leadership experience and a strong grasp of information management, copyrights, and supplier"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "CSL is seeking a senior leader to head Global Knowledge Management, driving strategic operations and governance across the group",
+            "You will shape information strategies, manage budgets and staff, and lead cross‑functional initiatives involving data standards, AI integration, and platform optimization"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=bMQHx4GL5cK4gAbEAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFw7Ojrd1EFqI4KLTmKhoBbEDo7lEo-kkuZKcmD9Hn9UXd74ss8su9aeNXo4B355eliCBgNaGigIVH0kIxwLuOUV5FChILQSUci-YQUn1pAIo3HAAWpm62mxdyJj2imVki9tEpTelIYHxYE0T-rJOv3pksNIo_9l3Wa7nsox2OX82F6gD3BHLw6HAprDFyWWDDqmAAAA&shmds=v1_Ac3VAoxu2a_gYp68NDujx-OnnZ_cMbi5vQSV6aKaJTKodtKAxg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=bMQHx4GL5cK4gAbEAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAAaVBMVEX____8AAD8GiL8AAf8AA_8q6z8vL38Dhn8FB3-_Pz8zc38BhT81dX8w8P9xsf8pqf8sLH94OD7kZP8mpv8tLX95-f6R0r7gIL-7u_7Mjf6VVj7oaL7jY_-9vb8YWP8env7T1L6PkL6cHPWmbE-AAABCUlEQVQ4je2TyY7EIAxEsYGGkB1C9qVn_v8jx4TpPiZII82p61RGPCxMwdhH_6NWWlsXwZVudZ1nY1VV_hbzPXAhODhmOAghANgDAOrbdqAQBRfQeNBIGCCByOUdqDQqZaXV5ZCjsONYDkmgBNRTFlzWK4S4mALOtNtE-1TIl2QQ8NWGrZz89EgH9a_dRE4FaJMKqpffdhABbcsEkJrA9q78SgflR5UA7u-JRBWA6pkCdmE6Z9z8-SiewD2AzQ3IUBO520Ev3Vdtyl4jdwTqeTiOy9idkVMi54sEDlQonj3CrPMcvi9bjjNACPnqYtgnf4Y86Bqke3XOSpNlRePi9xpNVHt3z4_-qB9GKwun99mHzgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "5 days ago",
+        "180K–240K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.jobleads.com/us/job/global-knowledge-management-director-r-d-data-strategy--waltham--e61f0c7dce9df1725eefe99edb36701a3",
+      "job_title": "Global Knowledge Management Director, R&D & Data Strategy",
+      "description": "CSL is seeking a senior leader to head Global Knowledge Management, driving strategic operations and governance across the group. You will shape information strategies, manage budgets and staff, and lead cross‑functional initiatives involving data standards, AI integration, and platform optimization.\n\nIdeal candidates bring 8+ years in pharma/biotech knowledge management or related fields, with global leadership experience and a strong grasp of information management, copyrights, and supplier",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/global-knowledge-management-director-r-d-data-strategy--waltham--e61f0c7dce9df1725eefe99edb36701a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJHbG9iYWwgS25vd2xlZGdlIE1hbmFnZW1lbnQgRGlyZWN0b3IsIFJcdTAwMjZEIFx1MDAyNiBEYXRhIFN0cmF0ZWd5IiwiY29tcGFueV9uYW1lIjoiQ1NMIiwiaHRpZG9jaWQiOiJiTVFIeDRHTDVjSzRnQWJFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1dwdllWSlFkemg1TjAxMVpGOTZaVXRuVGxGRFNWVkdhalJtTkdsR1UwbFBNbnBIY0d0SFZGRjFZakF5ZFdGd2RsRldWbmxwVlVoblZXOUROVFYzTmtVelNub3hPREl0Y3pSM2EycHRaMUpRZWpOVVRtVXplbFpmUjNaRWVWQm1iR0Y1VFRsUFIyOUxaVVJyT0hGWVYyWklSSG94VW5kdVVYVlZOemxwVGtsdldXNWlTRXNTRjFKM2VteGhjVU16VHpSUFpXdFFTVkJ5Y1hFMVowRkpHaUpCU0U0d1JUZEhiRVpmZHpWTU9HczBaM05yYTNkMlFtYzBhSE4wVUdoSVRISkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJiTVFIeDRHTDVjSzRnQWJFQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Manager, Regulatory Capability & Data Strategy",
+      "company_name": "Takeda Pharmaceutical Co.",
+      "location": "Cambridge, MA",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "in Boston, MA, seeks a Senior Manager, Business Capability Analyst to translate regulatory business needs into actionable requirements",
+            "You will guide end-to-end process and data implications, supporting agile delivery across the GRIDS portfolio while ensuring compliant, scalable solutions",
+            "You will partner with stakeholders, lead workshops, and shape use cases to deliver regulatory capabilities"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Strategy+Manager&htidocid=NIOIn9GVVTswqdjdAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrKayCDErgo1WEkEQA2Lsw2wybFY3O2F3AsnJvJ6x-c3j8X7yXSX3irzlACV6NBQyeJIZHQqHGQocUFtnZYYNXFAQKgkoZGbYwo01RMLQdMAerszG0frUiQzxqFSMLjdRUGyTN9wr9qR5Um_W8T917DDQsHSo3h92Uz54k6Yv_FCL8FhYjw2Ni4wOCs7B-uVMr4NtDWVQnn-nvOjDugAAAA&shmds=v1_Ac3VAozXhMenSccAFbwlpktsMMsG_lkCBARCzgyEVkhNnXc-Kg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Strategy+Manager&htidocid=NIOIn9GVVTswqdjdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c47dd17b113c9df1b77/images/u58vy5kTTNflaODLmhmNGMV0WFpLYdbwoCTRVFRlhQQ.jpeg",
+      "extensions": [
+        "4 days ago",
+        "137K–215K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.jobleads.com/us/job/senior-manager-regulatory-capability-data-strategy--cambridge--e222675b0f3991baae72379ad1abd9df5",
+      "job_title": "Senior Manager, Regulatory Capability & Data Strategy",
+      "description": "Takeda Pharmaceutical Co. in Boston, MA, seeks a Senior Manager, Business Capability Analyst to translate regulatory business needs into actionable requirements.\n\nYou will guide end-to-end process and data implications, supporting agile delivery across the GRIDS portfolio while ensuring compliant, scalable solutions. You will partner with stakeholders, lead workshops, and shape use cases to deliver regulatory capabilities.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/senior-manager-regulatory-capability-data-strategy--cambridge--e222675b0f3991baae72379ad1abd9df5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFuYWdlciwgUmVndWxhdG9yeSBDYXBhYmlsaXR5IFx1MDAyNiBEYXRhIFN0cmF0ZWd5IiwiY29tcGFueV9uYW1lIjoiVGFrZWRhIFBoYXJtYWNldXRpY2FsIENvLiIsImh0aWRvY2lkIjoiTklPSW45R1ZWVHN3cWRqZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdURmpkMUpyT1RsWVQzRmlkRFJhTUROWU9GRXliREZtVlVwa1NqQTVXVWxsUVZCWVF6QmthSHBETTFST2RrWmhjemw0U25KcVZYRnhaQzF5UVY5bWMwcEJTMTlKYlZaYWFtRXlkRGx5ZGxoSlMwaGlhbkJFVFVjNGVtRkxTRjl4WHpoM2EzYzVUMnd6WVMxdVEzRlBiRVpUVGxkMVprcHRTVXh5ZVZoUGVuZ3ljMDl5V1RFU0YxSjNlbXhoY1VNelR6UlBaV3RRU1ZCeWNYRTFaMEZKR2lKQlNFNHdSVGRHYjE5SU1VMTJVRGRXYm5Cck9UVnhUMnN3VVZoWFYxZzVZbU5uIiwiZmN2IjoiMyIsImZjX2lkIjoiTklPSW45R1ZWVHN3cWRqZEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SURDcUlEUVVSRVlsZGxXbVl0ZVc5d1VrWnpSME5OV0dJNU5rOHphMmxEVHpoMFZteG5lSGxZTVdGZlV6RnhNbGR6VGtGYVIzRk1VV0pyVUY4elZETnRVbFJHWVZGVWRXRm1ObGhqZGtGNFQwbFBVR3RMZDJkdk9WRkVTalZPYldSUVpUSjFabFJXWjNBd1VWRlROWGhoUjBwZlZtcElZbWhpY1RrMlUweEpVV0U0TkY5SllrWnFjRTVaVkhobllYSnZTalpwVG0xM2VYaHNObTltUkZGMVFVcDJXVGx5T1dKV2FuSTRhM1ptZFRSemNsSjNTRXRGUVZoQmJFa3liWEY1VUhFNVgxUklOMEpVTkdwR2RETjRWVWt5TTJ0c1h6Y3dObGRHVjAxblptZHFORlJmWVRGVE1HVkNkbkJYYlRsRVVqTk1TR3RPVDFSekxWUnlRbE5mUjNCSmJUQXhZblJqYmtGcVRVTm1VekkwZUhCSGNrOXpkbTFWTWtSQlZUQnNhR1JmTm5KMmFFdGZSbFl3WjNSQmRGb3RNVmRxWW1od1pWTklaMk54ZG1GbWVsSTNSR1UxUVVWME5rWlNVR3RYZUhSSUxYZFphRkozTFZGQ09YbDZjMUJYVnpadFN6SkJhREJHT1cxUVFtNW9TM1pHTW1OR00xWm5SRFYzUW14alVGOHpTSE4yZG5aVlR5MXBPVVZvUkVOemMxSk9Ra2xUT1cwNVFuUk1kbGhmVlhRM1p4SVhVbmQ2YkdGeFF6TlBORTlsYTFCSlVISnhjVFZuUVVrYUlrRklUakJGTjBVeVpXVnBhMVZ3V1hNNE1UQnhPSGRTWm5STlVWTldiakJZZWtFIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV1SURDcUlEUVVSRVlsZGxXbVl0ZVc5d1VrWnpSME5OV0dJNU5rOHphMmxEVHpoMFZteG5lSGxZTVdGZlV6RnhNbGR6VGtGYVIzRk1VV0pyVUY4elZETnRVbFJHWVZGVWRXRm1ObGhqZGtGNFQwbFBVR3RMZDJkdk9WRkVTalZPYldSUVpUSjFabFJXWjNBd1VWRlROWGhoUjBwZlZtcElZbWhpY1RrMlUweEpVV0U0TkY5SllrWnFjRTVaVkhobllYSnZTalpwVG0xM2VYaHNObTltUkZGMVFVcDJXVGx5T1dKV2FuSTRhM1ptZFRSemNsSjNTRXRGUVZoQmJFa3liWEY1VUhFNVgxUklOMEpVTkdwR2RETjRWVWt5TTJ0c1h6Y3dObGRHVjAxblptZHFORlJmWVRGVE1HVkNkbkJYYlRsRVVqTk1TR3RPVDFSekxWUnlRbE5mUjNCSmJUQXhZblJqYmtGcVRVTm1VekkwZUhCSGNrOXpkbTFWTWtSQlZUQnNhR1JmTm5KMmFFdGZSbFl3WjNSQmRGb3RNVmRxWW1od1pWTklaMk54ZG1GbWVsSTNSR1UxUVVWME5rWlNVR3RYZUhSSUxYZFphRkozTFZGQ09YbDZjMUJYVnpadFN6SkJhREJHT1cxUVFtNW9TM1pHTW1OR00xWm5SRFYzUW14alVGOHpTSE4yZG5aVlR5MXBPVVZvUkVOemMxSk9Ra2xUT1cwNVFuUk1kbGhmVlhRM1p4SVhVbmQ2YkdGeFF6TlBORTlsYTFCSlVISnhjVFZuUVVrYUlrRklUakJGTjBVeVpXVnBhMVZ3V1hNNE1UQnhPSGRTWm5STlVWTldiakJZZWtFIiwiZmN2IjoiMyJ9&q=Data+Strategy+Manager&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Strategy Manager",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:29:43.609136+00:00",
+    "request_fingerprint": "873f9c19ccd0703aa33b4f785d60b46eaf7d2a84ac52302d7af0b7f457787288",
+    "job_count": 10
+  }
+}

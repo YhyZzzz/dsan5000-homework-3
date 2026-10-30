@@ -1,0 +1,1113 @@
+{
+  "search_metadata": {
+    "id": "6ae507b26a1f1177e00157de",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kwn9f3e1rAQPGVYPUV5VNIt9LdFNiAKmAyMoL76A4P8/6ae507b26a1f1177e00157de.json",
+    "markdown_endpoint": "https://serpapi.com/searches/kwn9f3e1rAQPGVYPUV5VNIt9LdFNiAKmAyMoL76A4P8/6ae507b26a1f1177e00157de.md",
+    "created_at": "2026-10-30 21:10:10 UTC",
+    "processed_at": "2026-10-30 21:10:10 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Machine+Learning+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/kwn9f3e1rAQPGVYPUV5VNIt9LdFNiAKmAyMoL76A4P8/6ae507b26a1f1177e00157de.html",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "q": "Machine Learning Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMS8d6ePAPtdOyutBeecUEc7E8adtlQpO_gLVpu5hOqVFixaCUbaW-qg930RqbfnHWeh3MkQ3uyl7vh1jDjx1nXTq5GOfxukOHC2STQpDqsSI0EbgYpMWN965JXyhFOkGpwcmBpnsIc3gTDFTX6NUvKTKVMNcFWEyhSB5Hmcn8dP79rvY",
+        "q": "Machine Learning Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMS8d6ePAPtdOyutBeecUEc7E8adtlQpO_gLVpu5hOqVFixaCUbaW-qg930RqbfnHWeh3MkQ3uyl7vh1jDjx1nXTq5GOfxukOHC2STQpDqsSI0EbgYpMWN965JXyhFOkGpwcmBpnsIc3gTDFTX6NUvKTKVMNcFWEyhSB5Hmcn8dP79rvY&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMS8d6ePAPtdOyutBeecUEc7E8adtlQpO_gLVpu5hOqVFixaCUbaW-qg930RqbfnHWeh3MkQ3uyl7vh1jDjx1nXTq5GOfxukOHC2STQpDqsSI0EbgYpMWN965JXyhFOkGpwcmBpnsIc3gTDFTX6NUvKTKVMNcFWEyhSB5Hmcn8dP79rvY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQ6gwAr36EhJIVzZngqdV4K3JtqluGanB452TRRqkzOwIi8cAcTu4O9KgIAQAY65uuS1NkKc4M_wbKzbdiHtYf70hN0PcezTyVFWxNyL_bdaACmcm3iE7ZtBMpQqyJKg3IYXKoN7G3Sxj69YMlDWY9w1z_wwj_zPCD7oA4OYek9c6D20y",
+        "q": "Machine Learning Engineer no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ6gwAr36EhJIVzZngqdV4K3JtqluGanB452TRRqkzOwIi8cAcTu4O9KgIAQAY65uuS1NkKc4M_wbKzbdiHtYf70hN0PcezTyVFWxNyL_bdaACmcm3iE7ZtBMpQqyJKg3IYXKoN7G3Sxj69YMlDWY9w1z_wwj_zPCD7oA4OYek9c6D20y&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ6gwAr36EhJIVzZngqdV4K3JtqluGanB452TRRqkzOwIi8cAcTu4O9KgIAQAY65uuS1NkKc4M_wbKzbdiHtYf70hN0PcezTyVFWxNyL_bdaACmcm3iE7ZtBMpQqyJKg3IYXKoN7G3Sxj69YMlDWY9w1z_wwj_zPCD7oA4OYek9c6D20y&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9vOgeqNp5k9iehnXrgpPnrnn42f02JpLdIVLOY8iVSb7QUOBoC3H1P15Vf5GhJdBXH0m2sQPzcbUCyl7BhGKecKKRl31elC1QCB8YKUymUrQoDqbT3f2scjCgVfXfT2eted-uU_qTkIklgkYLUTe3I8voLt85ZMe1xiftCnFM0WB5wh_hZrOMXfJQBXiazVt4ihn6fzwnjNecceWJnOJSbtMG6ozEr8qSywk08PpCUdQnpZb7EDZwNvgbtWO-_spbloZOKcJeEeh0Wn0Qght0ZbUiiLDqP7fTWqCf-FZpnweb9hpzv1Fd9nlGP5oAgjnTAtP1bIM2pTyLwzKCeREIJBXvXeO",
+            "q": "Machine Learning Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9vOgeqNp5k9iehnXrgpPnrnn42f02JpLdIVLOY8iVSb7QUOBoC3H1P15Vf5GhJdBXH0m2sQPzcbUCyl7BhGKecKKRl31elC1QCB8YKUymUrQoDqbT3f2scjCgVfXfT2eted-uU_qTkIklgkYLUTe3I8voLt85ZMe1xiftCnFM0WB5wh_hZrOMXfJQBXiazVt4ihn6fzwnjNecceWJnOJSbtMG6ozEr8qSywk08PpCUdQnpZb7EDZwNvgbtWO-_spbloZOKcJeEeh0Wn0Qght0ZbUiiLDqP7fTWqCf-FZpnweb9hpzv1Fd9nlGP5oAgjnTAtP1bIM2pTyLwzKCeREIJBXvXeO&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9vOgeqNp5k9iehnXrgpPnrnn42f02JpLdIVLOY8iVSb7QUOBoC3H1P15Vf5GhJdBXH0m2sQPzcbUCyl7BhGKecKKRl31elC1QCB8YKUymUrQoDqbT3f2scjCgVfXfT2eted-uU_qTkIklgkYLUTe3I8voLt85ZMe1xiftCnFM0WB5wh_hZrOMXfJQBXiazVt4ihn6fzwnjNecceWJnOJSbtMG6ozEr8qSywk08PpCUdQnpZb7EDZwNvgbtWO-_spbloZOKcJeEeh0Wn0Qght0ZbUiiLDqP7fTWqCf-FZpnweb9hpzv1Fd9nlGP5oAgjnTAtP1bIM2pTyLwzKCeREIJBXvXeO&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDjsJp30KLYwAak4Z50G1zQ5qTrZjhUJ_azV7LCrrwY_bjuKhYYo1YQyvDu_rqSGbCfT0MZbOcAg1F4GhzgfPGec6lmwSaYxbBceInkBKM6JH7k647ghXgirUSODM_UsEf0dt9WYNb-dBQFlkue3qKWHHkGJEt5YDrBhWCX8-_K3uASxW5mkhBepkPW1iGgZqt-yT8nz0sBxO8yrLOvoehOIpwvllohutGEhOverV4W06qqzmdC37G5hneGrUKmk1Zt_z2f2z6gsXA_lXHXil-zBjCj8d17aVxNeNkvMs07yRWeLLr0H7xONmZE7y-8OpWaJ-1lXkSWCaLl8ZEReSyJv8PjS",
+            "q": "Machine Learning Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDjsJp30KLYwAak4Z50G1zQ5qTrZjhUJ_azV7LCrrwY_bjuKhYYo1YQyvDu_rqSGbCfT0MZbOcAg1F4GhzgfPGec6lmwSaYxbBceInkBKM6JH7k647ghXgirUSODM_UsEf0dt9WYNb-dBQFlkue3qKWHHkGJEt5YDrBhWCX8-_K3uASxW5mkhBepkPW1iGgZqt-yT8nz0sBxO8yrLOvoehOIpwvllohutGEhOverV4W06qqzmdC37G5hneGrUKmk1Zt_z2f2z6gsXA_lXHXil-zBjCj8d17aVxNeNkvMs07yRWeLLr0H7xONmZE7y-8OpWaJ-1lXkSWCaLl8ZEReSyJv8PjS&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDjsJp30KLYwAak4Z50G1zQ5qTrZjhUJ_azV7LCrrwY_bjuKhYYo1YQyvDu_rqSGbCfT0MZbOcAg1F4GhzgfPGec6lmwSaYxbBceInkBKM6JH7k647ghXgirUSODM_UsEf0dt9WYNb-dBQFlkue3qKWHHkGJEt5YDrBhWCX8-_K3uASxW5mkhBepkPW1iGgZqt-yT8nz0sBxO8yrLOvoehOIpwvllohutGEhOverV4W06qqzmdC37G5hneGrUKmk1Zt_z2f2z6gsXA_lXHXil-zBjCj8d17aVxNeNkvMs07yRWeLLr0H7xONmZE7y-8OpWaJ-1lXkSWCaLl8ZEReSyJv8PjS&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqGHWTt9F1zlWfuvnrXdckQoT_oCpSP403NuTzxu0TK5XJHgvIRYlegfil5k6hFkMuZoFuv8JSWuZ2IxEDD0L_7oWUlqK6_MsxLD-XvMFcOLJzgQ9wXI16olssufNneZk9kUWhukO5qz-NDUXSIbkiGYlLxRXbIl_mbOFf1ExGkpQQldPoqwbQgCZaibyjx4CL2FFqnOxQ_mUaIDD1MchkZJnLbaQRvyX71umeUbsbtVEIWcoQ9_jX0QvgAqqSZw3mpoDoJKELaWqGT7TonREvo7NQN-Y1GxqwuZYBktzGgUM6KBXnrUdwc7LcCbf8XVPnrIIx5w0fdFynnYSi43I6DBOD1GF",
+            "q": "Machine Learning Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqGHWTt9F1zlWfuvnrXdckQoT_oCpSP403NuTzxu0TK5XJHgvIRYlegfil5k6hFkMuZoFuv8JSWuZ2IxEDD0L_7oWUlqK6_MsxLD-XvMFcOLJzgQ9wXI16olssufNneZk9kUWhukO5qz-NDUXSIbkiGYlLxRXbIl_mbOFf1ExGkpQQldPoqwbQgCZaibyjx4CL2FFqnOxQ_mUaIDD1MchkZJnLbaQRvyX71umeUbsbtVEIWcoQ9_jX0QvgAqqSZw3mpoDoJKELaWqGT7TonREvo7NQN-Y1GxqwuZYBktzGgUM6KBXnrUdwc7LcCbf8XVPnrIIx5w0fdFynnYSi43I6DBOD1GF&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqGHWTt9F1zlWfuvnrXdckQoT_oCpSP403NuTzxu0TK5XJHgvIRYlegfil5k6hFkMuZoFuv8JSWuZ2IxEDD0L_7oWUlqK6_MsxLD-XvMFcOLJzgQ9wXI16olssufNneZk9kUWhukO5qz-NDUXSIbkiGYlLxRXbIl_mbOFf1ExGkpQQldPoqwbQgCZaibyjx4CL2FFqnOxQ_mUaIDD1MchkZJnLbaQRvyX71umeUbsbtVEIWcoQ9_jX0QvgAqqSZw3mpoDoJKELaWqGT7TonREvo7NQN-Y1GxqwuZYBktzGgUM6KBXnrUdwc7LcCbf8XVPnrIIx5w0fdFynnYSi43I6DBOD1GF&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTXFw3hnMkRiQ4POs-vcIn_FGElA-NAGa1cmQ40vyCPt93sJCG2ECg0HmI5FaIDC_GdULTTGNXCPZD9dnCKcq0ACqy2_GBGiq1L_KnAU4hEO9gXAKAlPy1Q7DCDq4cXhglNHteejxykK3jK9gDCP64vDtCIyER2HWxmofKnn-dR-XYcCcZCLSUVcz5ALw8w_iL0nIxj4cjgSbxISnwIDU3hQzO8VGdeG-poG9L26ukXw5dV14Cq8Te9W1WQeY5sojOIsJdp6rQiDZodQsEulHIOTF9gtVUrk92lMPDsbAe_cSAN_nf7xEVARckW086OTB27IyYnvhrUlnBDFXw1SmJkWbAE5L",
+            "q": "Machine Learning Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTXFw3hnMkRiQ4POs-vcIn_FGElA-NAGa1cmQ40vyCPt93sJCG2ECg0HmI5FaIDC_GdULTTGNXCPZD9dnCKcq0ACqy2_GBGiq1L_KnAU4hEO9gXAKAlPy1Q7DCDq4cXhglNHteejxykK3jK9gDCP64vDtCIyER2HWxmofKnn-dR-XYcCcZCLSUVcz5ALw8w_iL0nIxj4cjgSbxISnwIDU3hQzO8VGdeG-poG9L26ukXw5dV14Cq8Te9W1WQeY5sojOIsJdp6rQiDZodQsEulHIOTF9gtVUrk92lMPDsbAe_cSAN_nf7xEVARckW086OTB27IyYnvhrUlnBDFXw1SmJkWbAE5L&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTXFw3hnMkRiQ4POs-vcIn_FGElA-NAGa1cmQ40vyCPt93sJCG2ECg0HmI5FaIDC_GdULTTGNXCPZD9dnCKcq0ACqy2_GBGiq1L_KnAU4hEO9gXAKAlPy1Q7DCDq4cXhglNHteejxykK3jK9gDCP64vDtCIyER2HWxmofKnn-dR-XYcCcZCLSUVcz5ALw8w_iL0nIxj4cjgSbxISnwIDU3hQzO8VGdeG-poG9L26ukXw5dV14Cq8Te9W1WQeY5sojOIsJdp6rQiDZodQsEulHIOTF9gtVUrk92lMPDsbAe_cSAN_nf7xEVARckW086OTB27IyYnvhrUlnBDFXw1SmJkWbAE5L&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9vOgeqNp5k9iehnXrgpPnrnn42f02JpLdIVLOY8iVSb7QUOBoC3H1P15Vf5GhJdBXH0m2sQPzcbUCyl7BhGKecKKRl31elC1QCB8YKUymUrQoDqbT3f2scjCgVfXfT2eted-uU_qTkIklgkYLUTe3I8voLt85ZMe1xiftCnFM0WB5wh_hZrOMXfJQBXiazVt4ihn6fzwnjNecceWJnOJSbtMG6ozEr8qSywk08PpCUdQnpZb7EDZwNvgbtWO-_spbloZOKcJeEeh0Wn0Qght0ZbUiiLDqP7fTWqCf-FZpnweb9hpzv1Fd9nlGP5oAgjnTAtP1bIM2pTyLwzKCeREIJBXvXeO",
+            "q": "Machine Learning Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9vOgeqNp5k9iehnXrgpPnrnn42f02JpLdIVLOY8iVSb7QUOBoC3H1P15Vf5GhJdBXH0m2sQPzcbUCyl7BhGKecKKRl31elC1QCB8YKUymUrQoDqbT3f2scjCgVfXfT2eted-uU_qTkIklgkYLUTe3I8voLt85ZMe1xiftCnFM0WB5wh_hZrOMXfJQBXiazVt4ihn6fzwnjNecceWJnOJSbtMG6ozEr8qSywk08PpCUdQnpZb7EDZwNvgbtWO-_spbloZOKcJeEeh0Wn0Qght0ZbUiiLDqP7fTWqCf-FZpnweb9hpzv1Fd9nlGP5oAgjnTAtP1bIM2pTyLwzKCeREIJBXvXeO&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXL9XZZVEZO7w-KSj4Dvzt9vOgeqNp5k9iehnXrgpPnrnn42f02JpLdIVLOY8iVSb7QUOBoC3H1P15Vf5GhJdBXH0m2sQPzcbUCyl7BhGKecKKRl31elC1QCB8YKUymUrQoDqbT3f2scjCgVfXfT2eted-uU_qTkIklgkYLUTe3I8voLt85ZMe1xiftCnFM0WB5wh_hZrOMXfJQBXiazVt4ihn6fzwnjNecceWJnOJSbtMG6ozEr8qSywk08PpCUdQnpZb7EDZwNvgbtWO-_spbloZOKcJeEeh0Wn0Qght0ZbUiiLDqP7fTWqCf-FZpnweb9hpzv1Fd9nlGP5oAgjnTAtP1bIM2pTyLwzKCeREIJBXvXeO&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDjsJp30KLYwAak4Z50G1zQ5qTrZjhUJ_azV7LCrrwY_bjuKhYYo1YQyvDu_rqSGbCfT0MZbOcAg1F4GhzgfPGec6lmwSaYxbBceInkBKM6JH7k647ghXgirUSODM_UsEf0dt9WYNb-dBQFlkue3qKWHHkGJEt5YDrBhWCX8-_K3uASxW5mkhBepkPW1iGgZqt-yT8nz0sBxO8yrLOvoehOIpwvllohutGEhOverV4W06qqzmdC37G5hneGrUKmk1Zt_z2f2z6gsXA_lXHXil-zBjCj8d17aVxNeNkvMs07yRWeLLr0H7xONmZE7y-8OpWaJ-1lXkSWCaLl8ZEReSyJv8PjS",
+            "q": "Machine Learning Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDjsJp30KLYwAak4Z50G1zQ5qTrZjhUJ_azV7LCrrwY_bjuKhYYo1YQyvDu_rqSGbCfT0MZbOcAg1F4GhzgfPGec6lmwSaYxbBceInkBKM6JH7k647ghXgirUSODM_UsEf0dt9WYNb-dBQFlkue3qKWHHkGJEt5YDrBhWCX8-_K3uASxW5mkhBepkPW1iGgZqt-yT8nz0sBxO8yrLOvoehOIpwvllohutGEhOverV4W06qqzmdC37G5hneGrUKmk1Zt_z2f2z6gsXA_lXHXil-zBjCj8d17aVxNeNkvMs07yRWeLLr0H7xONmZE7y-8OpWaJ-1lXkSWCaLl8ZEReSyJv8PjS&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXInVKXMW7TRF8O5k6NaniTDjsJp30KLYwAak4Z50G1zQ5qTrZjhUJ_azV7LCrrwY_bjuKhYYo1YQyvDu_rqSGbCfT0MZbOcAg1F4GhzgfPGec6lmwSaYxbBceInkBKM6JH7k647ghXgirUSODM_UsEf0dt9WYNb-dBQFlkue3qKWHHkGJEt5YDrBhWCX8-_K3uASxW5mkhBepkPW1iGgZqt-yT8nz0sBxO8yrLOvoehOIpwvllohutGEhOverV4W06qqzmdC37G5hneGrUKmk1Zt_z2f2z6gsXA_lXHXil-zBjCj8d17aVxNeNkvMs07yRWeLLr0H7xONmZE7y-8OpWaJ-1lXkSWCaLl8ZEReSyJv8PjS&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqGHWTt9F1zlWfuvnrXdckQoT_oCpSP403NuTzxu0TK5XJHgvIRYlegfil5k6hFkMuZoFuv8JSWuZ2IxEDD0L_7oWUlqK6_MsxLD-XvMFcOLJzgQ9wXI16olssufNneZk9kUWhukO5qz-NDUXSIbkiGYlLxRXbIl_mbOFf1ExGkpQQldPoqwbQgCZaibyjx4CL2FFqnOxQ_mUaIDD1MchkZJnLbaQRvyX71umeUbsbtVEIWcoQ9_jX0QvgAqqSZw3mpoDoJKELaWqGT7TonREvo7NQN-Y1GxqwuZYBktzGgUM6KBXnrUdwc7LcCbf8XVPnrIIx5w0fdFynnYSi43I6DBOD1GF",
+            "q": "Machine Learning Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqGHWTt9F1zlWfuvnrXdckQoT_oCpSP403NuTzxu0TK5XJHgvIRYlegfil5k6hFkMuZoFuv8JSWuZ2IxEDD0L_7oWUlqK6_MsxLD-XvMFcOLJzgQ9wXI16olssufNneZk9kUWhukO5qz-NDUXSIbkiGYlLxRXbIl_mbOFf1ExGkpQQldPoqwbQgCZaibyjx4CL2FFqnOxQ_mUaIDD1MchkZJnLbaQRvyX71umeUbsbtVEIWcoQ9_jX0QvgAqqSZw3mpoDoJKELaWqGT7TonREvo7NQN-Y1GxqwuZYBktzGgUM6KBXnrUdwc7LcCbf8XVPnrIIx5w0fdFynnYSi43I6DBOD1GF&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSQ0rWA-4xrSTgvG0OdgMqGHWTt9F1zlWfuvnrXdckQoT_oCpSP403NuTzxu0TK5XJHgvIRYlegfil5k6hFkMuZoFuv8JSWuZ2IxEDD0L_7oWUlqK6_MsxLD-XvMFcOLJzgQ9wXI16olssufNneZk9kUWhukO5qz-NDUXSIbkiGYlLxRXbIl_mbOFf1ExGkpQQldPoqwbQgCZaibyjx4CL2FFqnOxQ_mUaIDD1MchkZJnLbaQRvyX71umeUbsbtVEIWcoQ9_jX0QvgAqqSZw3mpoDoJKELaWqGT7TonREvo7NQN-Y1GxqwuZYBktzGgUM6KBXnrUdwc7LcCbf8XVPnrIIx5w0fdFynnYSi43I6DBOD1GF&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTXFw3hnMkRiQ4POs-vcIn_FGElA-NAGa1cmQ40vyCPt93sJCG2ECg0HmI5FaIDC_GdULTTGNXCPZD9dnCKcq0ACqy2_GBGiq1L_KnAU4hEO9gXAKAlPy1Q7DCDq4cXhglNHteejxykK3jK9gDCP64vDtCIyER2HWxmofKnn-dR-XYcCcZCLSUVcz5ALw8w_iL0nIxj4cjgSbxISnwIDU3hQzO8VGdeG-poG9L26ukXw5dV14Cq8Te9W1WQeY5sojOIsJdp6rQiDZodQsEulHIOTF9gtVUrk92lMPDsbAe_cSAN_nf7xEVARckW086OTB27IyYnvhrUlnBDFXw1SmJkWbAE5L",
+            "q": "Machine Learning Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTXFw3hnMkRiQ4POs-vcIn_FGElA-NAGa1cmQ40vyCPt93sJCG2ECg0HmI5FaIDC_GdULTTGNXCPZD9dnCKcq0ACqy2_GBGiq1L_KnAU4hEO9gXAKAlPy1Q7DCDq4cXhglNHteejxykK3jK9gDCP64vDtCIyER2HWxmofKnn-dR-XYcCcZCLSUVcz5ALw8w_iL0nIxj4cjgSbxISnwIDU3hQzO8VGdeG-poG9L26ukXw5dV14Cq8Te9W1WQeY5sojOIsJdp6rQiDZodQsEulHIOTF9gtVUrk92lMPDsbAe_cSAN_nf7xEVARckW086OTB27IyYnvhrUlnBDFXw1SmJkWbAE5L&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSYk-qI4DDY6hxbOQBT5lTXFw3hnMkRiQ4POs-vcIn_FGElA-NAGa1cmQ40vyCPt93sJCG2ECg0HmI5FaIDC_GdULTTGNXCPZD9dnCKcq0ACqy2_GBGiq1L_KnAU4hEO9gXAKAlPy1Q7DCDq4cXhglNHteejxykK3jK9gDCP64vDtCIyER2HWxmofKnn-dR-XYcCcZCLSUVcz5ALw8w_iL0nIxj4cjgSbxISnwIDU3hQzO8VGdeG-poG9L26ukXw5dV14Cq8Te9W1WQeY5sojOIsJdp6rQiDZodQsEulHIOTF9gtVUrk92lMPDsbAe_cSAN_nf7xEVARckW086OTB27IyYnvhrUlnBDFXw1SmJkWbAE5L&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_jwXBMLLbifLOhalldGLsJEAidcCy_yiYarnlzdaxIWp375BITcIsajc0xI94Hpu0wAbXVUnSEvVqACuLnQ76zIWN94e0sKZPoD5f3StwMxxk6BCFiGLEZAW7HQDS9Uxg0xwPyMBY6r9rdL6aXbKvYvt0thVjyJ4XLGBB8Vqjp-8FuHUw783AGNrMJ0_Fhr0fFHVSVDYSV4Hqf2A_edUCgSLVQdS5B_zBjcW_rcrJxL9KpeJfxzX038N_WiDrTU6hkfoPnDJmPCUOWgQPAaucM-SHuRk",
+            "q": "Machine Learning Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_jwXBMLLbifLOhalldGLsJEAidcCy_yiYarnlzdaxIWp375BITcIsajc0xI94Hpu0wAbXVUnSEvVqACuLnQ76zIWN94e0sKZPoD5f3StwMxxk6BCFiGLEZAW7HQDS9Uxg0xwPyMBY6r9rdL6aXbKvYvt0thVjyJ4XLGBB8Vqjp-8FuHUw783AGNrMJ0_Fhr0fFHVSVDYSV4Hqf2A_edUCgSLVQdS5B_zBjcW_rcrJxL9KpeJfxzX038N_WiDrTU6hkfoPnDJmPCUOWgQPAaucM-SHuRk&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_jwXBMLLbifLOhalldGLsJEAidcCy_yiYarnlzdaxIWp375BITcIsajc0xI94Hpu0wAbXVUnSEvVqACuLnQ76zIWN94e0sKZPoD5f3StwMxxk6BCFiGLEZAW7HQDS9Uxg0xwPyMBY6r9rdL6aXbKvYvt0thVjyJ4XLGBB8Vqjp-8FuHUw783AGNrMJ0_Fhr0fFHVSVDYSV4Hqf2A_edUCgSLVQdS5B_zBjcW_rcrJxL9KpeJfxzX038N_WiDrTU6hkfoPnDJmPCUOWgQPAaucM-SHuRk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_OkrN09xzENSn6NiNGWrNCduL3pM-pmdlDCbu-4TGQMaHRNITRbQ6whbLRFIorLPWbob8BiMMvfWMW3aVe9DCl7YaYNkK1IFY05Xn1tXjJ3gr2Tg8EXuAy_cPGKDnWqcncY9Hoic90XY06F1euhsiNUVgLocGs_RkgtBwjAauUCj7e69r6VzRKDNJw2vUQi6lCCeRuJUHiG0AmNYQpt9hLyyGpv4inw9b-RKb8VBdsDTHti3ptyGCtr1nC_zNBdBzC-sVnCbHxUKQp9oDViKb-Qu6wm4",
+            "q": "Machine Learning Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_OkrN09xzENSn6NiNGWrNCduL3pM-pmdlDCbu-4TGQMaHRNITRbQ6whbLRFIorLPWbob8BiMMvfWMW3aVe9DCl7YaYNkK1IFY05Xn1tXjJ3gr2Tg8EXuAy_cPGKDnWqcncY9Hoic90XY06F1euhsiNUVgLocGs_RkgtBwjAauUCj7e69r6VzRKDNJw2vUQi6lCCeRuJUHiG0AmNYQpt9hLyyGpv4inw9b-RKb8VBdsDTHti3ptyGCtr1nC_zNBdBzC-sVnCbHxUKQp9oDViKb-Qu6wm4&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_OkrN09xzENSn6NiNGWrNCduL3pM-pmdlDCbu-4TGQMaHRNITRbQ6whbLRFIorLPWbob8BiMMvfWMW3aVe9DCl7YaYNkK1IFY05Xn1tXjJ3gr2Tg8EXuAy_cPGKDnWqcncY9Hoic90XY06F1euhsiNUVgLocGs_RkgtBwjAauUCj7e69r6VzRKDNJw2vUQi6lCCeRuJUHiG0AmNYQpt9hLyyGpv4inw9b-RKb8VBdsDTHti3ptyGCtr1nC_zNBdBzC-sVnCbHxUKQp9oDViKb-Qu6wm4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nllbI1BgcyYLfLNMyZSkeBmzanOyTr-htK8WaQbzrWnOPuOWsh-6MQDuNe8QGsEpIsyfY8sxnIVA8fobAnd_-V-D6Iu7VqNuk7_7ZdgzY7wurPdEy7_Kv0G51HxWw6ZBVy53lArYK9rmrOrnWeP8slJbTdGuHhmKCpCFb8X47_Tcx996TO8oMNljIrB3r6df5BbE6jQLfH_N_55NNcYkwbXK04I951W2SM2c0l_LxhaKwHnMzFHipTon3wDWZYx7dWTplhisH2W3lJ1PABEXifz2gHcnXRaZKHZSUjaMOMGzkibJJqA",
+            "q": "Machine Learning Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nllbI1BgcyYLfLNMyZSkeBmzanOyTr-htK8WaQbzrWnOPuOWsh-6MQDuNe8QGsEpIsyfY8sxnIVA8fobAnd_-V-D6Iu7VqNuk7_7ZdgzY7wurPdEy7_Kv0G51HxWw6ZBVy53lArYK9rmrOrnWeP8slJbTdGuHhmKCpCFb8X47_Tcx996TO8oMNljIrB3r6df5BbE6jQLfH_N_55NNcYkwbXK04I951W2SM2c0l_LxhaKwHnMzFHipTon3wDWZYx7dWTplhisH2W3lJ1PABEXifz2gHcnXRaZKHZSUjaMOMGzkibJJqA&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nllbI1BgcyYLfLNMyZSkeBmzanOyTr-htK8WaQbzrWnOPuOWsh-6MQDuNe8QGsEpIsyfY8sxnIVA8fobAnd_-V-D6Iu7VqNuk7_7ZdgzY7wurPdEy7_Kv0G51HxWw6ZBVy53lArYK9rmrOrnWeP8slJbTdGuHhmKCpCFb8X47_Tcx996TO8oMNljIrB3r6df5BbE6jQLfH_N_55NNcYkwbXK04I951W2SM2c0l_LxhaKwHnMzFHipTon3wDWZYx7dWTplhisH2W3lJ1PABEXifz2gHcnXRaZKHZSUjaMOMGzkibJJqA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNG4f-UltgHQ0nX7uV1HUSlN0G0znwVe-vWqfm_HDWJN0WSVPx5224zcgED1snvS2HOvlL02tu930fbggwCu7twaSUaq0cXZq4W6hmkuOMOdeRKbtIAzKR82N5bCGQgyty_aHDSZzKl_9JtQUua1XztjQtdh0xJREZVFybxXQOSjXSw5z5dkoGtG7DjyYdT5ubMKLNDb_R-FzIGU4cmp75t1bNza7rBMexx5bIPYUg21Vkx3l1WD2nAS8TbatYGxXo8lsWgvZBVJ5dyB6hpEwYtzxwnt2vEnlDuMkmWfFT0rzQwJAow",
+            "q": "Machine Learning Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNG4f-UltgHQ0nX7uV1HUSlN0G0znwVe-vWqfm_HDWJN0WSVPx5224zcgED1snvS2HOvlL02tu930fbggwCu7twaSUaq0cXZq4W6hmkuOMOdeRKbtIAzKR82N5bCGQgyty_aHDSZzKl_9JtQUua1XztjQtdh0xJREZVFybxXQOSjXSw5z5dkoGtG7DjyYdT5ubMKLNDb_R-FzIGU4cmp75t1bNza7rBMexx5bIPYUg21Vkx3l1WD2nAS8TbatYGxXo8lsWgvZBVJ5dyB6hpEwYtzxwnt2vEnlDuMkmWfFT0rzQwJAow&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNG4f-UltgHQ0nX7uV1HUSlN0G0znwVe-vWqfm_HDWJN0WSVPx5224zcgED1snvS2HOvlL02tu930fbggwCu7twaSUaq0cXZq4W6hmkuOMOdeRKbtIAzKR82N5bCGQgyty_aHDSZzKl_9JtQUua1XztjQtdh0xJREZVFybxXQOSjXSw5z5dkoGtG7DjyYdT5ubMKLNDb_R-FzIGU4cmp75t1bNza7rBMexx5bIPYUg21Vkx3l1WD2nAS8TbatYGxXo8lsWgvZBVJ5dyB6hpEwYtzxwnt2vEnlDuMkmWfFT0rzQwJAow&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_jwXBMLLbifLOhalldGLsJEAidcCy_yiYarnlzdaxIWp375BITcIsajc0xI94Hpu0wAbXVUnSEvVqACuLnQ76zIWN94e0sKZPoD5f3StwMxxk6BCFiGLEZAW7HQDS9Uxg0xwPyMBY6r9rdL6aXbKvYvt0thVjyJ4XLGBB8Vqjp-8FuHUw783AGNrMJ0_Fhr0fFHVSVDYSV4Hqf2A_edUCgSLVQdS5B_zBjcW_rcrJxL9KpeJfxzX038N_WiDrTU6hkfoPnDJmPCUOWgQPAaucM-SHuRk",
+            "q": "Machine Learning Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_jwXBMLLbifLOhalldGLsJEAidcCy_yiYarnlzdaxIWp375BITcIsajc0xI94Hpu0wAbXVUnSEvVqACuLnQ76zIWN94e0sKZPoD5f3StwMxxk6BCFiGLEZAW7HQDS9Uxg0xwPyMBY6r9rdL6aXbKvYvt0thVjyJ4XLGBB8Vqjp-8FuHUw783AGNrMJ0_Fhr0fFHVSVDYSV4Hqf2A_edUCgSLVQdS5B_zBjcW_rcrJxL9KpeJfxzX038N_WiDrTU6hkfoPnDJmPCUOWgQPAaucM-SHuRk&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_jwXBMLLbifLOhalldGLsJEAidcCy_yiYarnlzdaxIWp375BITcIsajc0xI94Hpu0wAbXVUnSEvVqACuLnQ76zIWN94e0sKZPoD5f3StwMxxk6BCFiGLEZAW7HQDS9Uxg0xwPyMBY6r9rdL6aXbKvYvt0thVjyJ4XLGBB8Vqjp-8FuHUw783AGNrMJ0_Fhr0fFHVSVDYSV4Hqf2A_edUCgSLVQdS5B_zBjcW_rcrJxL9KpeJfxzX038N_WiDrTU6hkfoPnDJmPCUOWgQPAaucM-SHuRk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_OkrN09xzENSn6NiNGWrNCduL3pM-pmdlDCbu-4TGQMaHRNITRbQ6whbLRFIorLPWbob8BiMMvfWMW3aVe9DCl7YaYNkK1IFY05Xn1tXjJ3gr2Tg8EXuAy_cPGKDnWqcncY9Hoic90XY06F1euhsiNUVgLocGs_RkgtBwjAauUCj7e69r6VzRKDNJw2vUQi6lCCeRuJUHiG0AmNYQpt9hLyyGpv4inw9b-RKb8VBdsDTHti3ptyGCtr1nC_zNBdBzC-sVnCbHxUKQp9oDViKb-Qu6wm4",
+            "q": "Machine Learning Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_OkrN09xzENSn6NiNGWrNCduL3pM-pmdlDCbu-4TGQMaHRNITRbQ6whbLRFIorLPWbob8BiMMvfWMW3aVe9DCl7YaYNkK1IFY05Xn1tXjJ3gr2Tg8EXuAy_cPGKDnWqcncY9Hoic90XY06F1euhsiNUVgLocGs_RkgtBwjAauUCj7e69r6VzRKDNJw2vUQi6lCCeRuJUHiG0AmNYQpt9hLyyGpv4inw9b-RKb8VBdsDTHti3ptyGCtr1nC_zNBdBzC-sVnCbHxUKQp9oDViKb-Qu6wm4&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXJ-GEgFHeVDcK4a0dytvP_QW2o0QUmJG4PkiZcYGBsFIoAtwBHuIy1yXquFt1ABd_OkrN09xzENSn6NiNGWrNCduL3pM-pmdlDCbu-4TGQMaHRNITRbQ6whbLRFIorLPWbob8BiMMvfWMW3aVe9DCl7YaYNkK1IFY05Xn1tXjJ3gr2Tg8EXuAy_cPGKDnWqcncY9Hoic90XY06F1euhsiNUVgLocGs_RkgtBwjAauUCj7e69r6VzRKDNJw2vUQi6lCCeRuJUHiG0AmNYQpt9hLyyGpv4inw9b-RKb8VBdsDTHti3ptyGCtr1nC_zNBdBzC-sVnCbHxUKQp9oDViKb-Qu6wm4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nllbI1BgcyYLfLNMyZSkeBmzanOyTr-htK8WaQbzrWnOPuOWsh-6MQDuNe8QGsEpIsyfY8sxnIVA8fobAnd_-V-D6Iu7VqNuk7_7ZdgzY7wurPdEy7_Kv0G51HxWw6ZBVy53lArYK9rmrOrnWeP8slJbTdGuHhmKCpCFb8X47_Tcx996TO8oMNljIrB3r6df5BbE6jQLfH_N_55NNcYkwbXK04I951W2SM2c0l_LxhaKwHnMzFHipTon3wDWZYx7dWTplhisH2W3lJ1PABEXifz2gHcnXRaZKHZSUjaMOMGzkibJJqA",
+            "q": "Machine Learning Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nllbI1BgcyYLfLNMyZSkeBmzanOyTr-htK8WaQbzrWnOPuOWsh-6MQDuNe8QGsEpIsyfY8sxnIVA8fobAnd_-V-D6Iu7VqNuk7_7ZdgzY7wurPdEy7_Kv0G51HxWw6ZBVy53lArYK9rmrOrnWeP8slJbTdGuHhmKCpCFb8X47_Tcx996TO8oMNljIrB3r6df5BbE6jQLfH_N_55NNcYkwbXK04I951W2SM2c0l_LxhaKwHnMzFHipTon3wDWZYx7dWTplhisH2W3lJ1PABEXifz2gHcnXRaZKHZSUjaMOMGzkibJJqA&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgHXqnaZTpFaI7oo8Tt3nllbI1BgcyYLfLNMyZSkeBmzanOyTr-htK8WaQbzrWnOPuOWsh-6MQDuNe8QGsEpIsyfY8sxnIVA8fobAnd_-V-D6Iu7VqNuk7_7ZdgzY7wurPdEy7_Kv0G51HxWw6ZBVy53lArYK9rmrOrnWeP8slJbTdGuHhmKCpCFb8X47_Tcx996TO8oMNljIrB3r6df5BbE6jQLfH_N_55NNcYkwbXK04I951W2SM2c0l_LxhaKwHnMzFHipTon3wDWZYx7dWTplhisH2W3lJ1PABEXifz2gHcnXRaZKHZSUjaMOMGzkibJJqA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNG4f-UltgHQ0nX7uV1HUSlN0G0znwVe-vWqfm_HDWJN0WSVPx5224zcgED1snvS2HOvlL02tu930fbggwCu7twaSUaq0cXZq4W6hmkuOMOdeRKbtIAzKR82N5bCGQgyty_aHDSZzKl_9JtQUua1XztjQtdh0xJREZVFybxXQOSjXSw5z5dkoGtG7DjyYdT5ubMKLNDb_R-FzIGU4cmp75t1bNza7rBMexx5bIPYUg21Vkx3l1WD2nAS8TbatYGxXo8lsWgvZBVJ5dyB6hpEwYtzxwnt2vEnlDuMkmWfFT0rzQwJAow",
+            "q": "Machine Learning Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDjvdO7xkWDBb3Jg1KznNUv9MWgRqg:1793394610408&q=Machine+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNG4f-UltgHQ0nX7uV1HUSlN0G0znwVe-vWqfm_HDWJN0WSVPx5224zcgED1snvS2HOvlL02tu930fbggwCu7twaSUaq0cXZq4W6hmkuOMOdeRKbtIAzKR82N5bCGQgyty_aHDSZzKl_9JtQUua1XztjQtdh0xJREZVFybxXQOSjXSw5z5dkoGtG7DjyYdT5ubMKLNDb_R-FzIGU4cmp75t1bNza7rBMexx5bIPYUg21Vkx3l1WD2nAS8TbatYGxXo8lsWgvZBVJ5dyB6hpEwYtzxwnt2vEnlDuMkmWfFT0rzQwJAow&udm=8&sa=X&ved=2ahUKEwj2xcfF0-KXAxVEQTABHXM5GTYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Machine+Learning+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXaMVb4hg-b7CJsFBsGABdNG4f-UltgHQ0nX7uV1HUSlN0G0znwVe-vWqfm_HDWJN0WSVPx5224zcgED1snvS2HOvlL02tu930fbggwCu7twaSUaq0cXZq4W6hmkuOMOdeRKbtIAzKR82N5bCGQgyty_aHDSZzKl_9JtQUua1XztjQtdh0xJREZVFybxXQOSjXSw5z5dkoGtG7DjyYdT5ubMKLNDb_R-FzIGU4cmp75t1bNza7rBMexx5bIPYUg21Vkx3l1WD2nAS8TbatYGxXo8lsWgvZBVJ5dyB6hpEwYtzxwnt2vEnlDuMkmWfFT0rzQwJAow&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Principal Machine Learning Engineer - RAI",
+      "company_name": "Microsoft Corporation",
+      "location": "Redmond, WA",
+      "via": "Dice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's Degree in Computer Science or related technical field AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience",
+            "Ability to meet Microsoft, customer and/or government security screening requirements are required for this role",
+            "Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Software Engineering IC5 - The typical base pay range for this role across the U.S. is USD $142,800 - $274,800 per year",
+            "There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $188,000 - $304,200 per year",
+            "Certain roles may be eligible for benefits and other compensation"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Principal Machine Learning Engineer will design, build, deploy, and scale production machine learning systems",
+            "This is a deeply technical, hands-on role for an engineer with a strong track record of transforming machine learning models and research innovations into reliable product capabilities",
+            "The ideal candidate has experience building systems across the machine learning lifecycle, including data processing, model training, evaluation, inference, and production operation",
+            "They will partner closely with applied scientists and software engineers to solve complex engineering problems spanning models, data, infrastructure, and services",
+            "As a Principal Machine Learning Engineer, this person will build critical system components while driving architecture and technical direction across broader initiatives",
+            "They will develop reusable capabilities that support multiple models and workloads, make sound tradeoffs across model quality, scalability, reliability, performance, and cost, and help raise the engineering standards of the broader team",
+            "This role is particularly suited to someone passionate about AI safety and Responsible AI and motivated to build systems that help advanced AI capabilities operate safely, reliably, and responsibly",
+            "Design and build large-scale systems for machine learning training, evaluation, inference, and production operation",
+            "Transform machine learning models and research innovations into reliable, scalable product capabilities",
+            "Develop reusable infrastructure, services, and components that support multiple models and workloads",
+            "Solve complex engineering problems involving scalability, performance, reliability, and efficiency",
+            "Partner with applied scientists and software engineers to integrate modeling advances into production systems",
+            "Drive architectural decisions while remaining hands-on in the design and implementation of critical components",
+            "Incorporate security, privacy, safety, and Responsible AI considerations throughout system design and development",
+            "Provide technical direction and mentorship that raises the engineering bar across the team"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=uz0KZTsq-uI72OTEAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBRFce0nOL3BSbQRwUUXi4goFqSLo6TpM4mk74W8DP0h_9O4HLgc7qm-s-r4SJ6MjzpAq43zhHBHnciThTPZsjHBGrrmWnjjHqRY44AJLsw24Pzgco6yV0ok1Fayzt7UhkfFhD1P6sO9_PESpxPGoDO-trvNVEeyy0XrTWLhd4YTp8ipvEvaE3Q4jEzDCp7NDyLpyiWoAAAA&shmds=v1_Ac3VAozaJSXX04HkhI-5cQRcbGrEwwrIzObYO3q153pKKejuDg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=uz0KZTsq-uI72OTEAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507b26a1f1177e00157de/images/O4ISszonYaG5x3wD7Q2cihfLZgYJmVoGcFt2nJ3llsE.jpeg",
+      "extensions": [
+        "8 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.dice.com/job-detail/e43fa84e-abae-4aa4-8d05-37ffe38fd2cf",
+      "job_title": "Principal Machine Learning Engineer - RAI",
+      "description": "Overview\n\nThe Principal Machine Learning Engineer will design, build, deploy, and scale production machine learning systems. This is a deeply technical, hands-on role for an engineer with a strong track record of transforming machine learning models and research innovations into reliable product capabilities.\n\nThe ideal candidate has experience building systems across the machine learning lifecycle, including data processing, model training, evaluation, inference, and production operation. They will partner closely with applied scientists and software engineers to solve complex engineering problems spanning models, data, infrastructure, and services.\n\nAs a Principal Machine Learning Engineer, this person will build critical system components while driving architecture and technical direction across broader initiatives. They will develop reusable capabilities that support multiple models and workloads, make sound tradeoffs across model quality, scalability, reliability, performance, and cost, and help raise the engineering standards of the broader team.\n\nThis role is particularly suited to someone passionate about AI safety and Responsible AI and motivated to build systems that help advanced AI capabilities operate safely, reliably, and responsibly.\n\nMicrosoft's mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.\n\nResponsibilities\nDesign and build large-scale systems for machine learning training, evaluation, inference, and production operation.Transform machine learning models and research innovations into reliable, scalable product capabilities.Develop reusable infrastructure, services, and components that support multiple models and workloads.Solve complex engineering problems involving scalability, performance, reliability, and efficiency.Partner with applied scientists and software engineers to integrate modeling advances into production systems.Drive architectural decisions while remaining hands-on in the design and implementation of critical components.Incorporate security, privacy, safety, and Responsible AI considerations throughout system design and development.Provide technical direction and mentorship that raises the engineering bar across the team.\nQualifications\n\nRequired Qualifications\n\nBachelor's Degree in Computer Science or related technical field AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.\nOther Requirements\n\nAbility to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings:\nMicrosoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years\nPreferred Qualifications: \nMaster's or Doctorate degree in Computer Science or a related technical field, with a focus on machine learning or related areas, AND 7+ years of technical engineering experience, or equivalent experience.Experience building machine learning infrastructure or platforms that support multiple models, teams, or workloads.Experience driving architecture across complex, cross-team engineering initiatives.Demonstrated interest in AI safety and Responsible AI, including building systems that support the safe and responsible development or deployment of AI capabilities.Demonstrated experience deploying and scaling machine learning models and pipelines in production.Experience with machine learning systems, distributed systems, software architecture, and system design.Proven ability to build and operate systems that support large-scale machine learning workloads.Ability to solve technically ambiguous problems and personally implement critical systems while influencing broader technical direction.\nSoftware Engineering IC5 - The typical base pay range for this role across the U.S. is USD $142,800 - $274,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $188,000 - $304,200 per year. \n\nCertain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:\n;br>\nThis position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.\n\nMicrosoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",
+      "apply_options": [
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/e43fa84e-abae-4aa4-8d05-37ffe38fd2cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/systems-engineer-machine-learning-general-robotics-8124818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/generalrobotics/1df8cd97-2a12-4f02-abf6-25549401b01b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LocalJobs.com",
+          "link": "https://www.localjobs.com/job/redmond-wa-ip-validation-engineer-machine-learning-accelerators-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/General-Robotics/Job/Systems-Engineer-Machine-Learning/-in-Redmond,WA?jid=b5699e6a79a94921&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/principal-machine-learning-engineer_7ea1acb24fd0244315292b343d7274b5d5214?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=d2e6124d6a6732d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Anitab.org Job Board",
+          "link": "https://jobs.anitab.org/companies/microsoft-2/jobs/97561078-principal-machine-learning-engineer-rai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAtIFJBSSIsImNvbXBhbnlfbmFtZSI6Ik1pY3Jvc29mdCBDb3Jwb3JhdGlvbiIsImh0aWRvY2lkIjoidXowS1pUc3EtdUk3Mk9URUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrbEdSMmxrT0ROQ1FWaFhWWGcyYms5YU9FaDJhRUpzZVdoMmVrNDNNVXRETFVJNE1FeEJhakY2VWs5dVNVeGhkVXBzUlVGdVpqY3hRVVJ2UWtGVlYwOUhXblIyZW1aQ1gzRkhVRXN4U1VaS1RtWk1WM04xVURkNVkzVTRjMmxLY2s5R2VtazBSWEJOYWtVeWRsVTVOa2xhTW5Gc1ptZzFRMUJSWldNNVNWOXNaVlZFWWxnU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRIWTFWVmQzRlRUbGN6Ymt0WlVHWmZWbUZyTTBOa2ExUm5MVVpSIiwiZmN2IjoiMyIsImZjX2lkIjoidXowS1pUc3EtdUk3Mk9URUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Mapping",
+      "company_name": "General Motors",
+      "location": "Mountain View, CA (+3 others)",
+      "via": "General Motors Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "3+ years of software engineering experience building production systems, with a substantial portion focused on mapping, geospatial, or geometric algorithms",
+            "Strong applied foundation in geospatial and computational geometry concepts — coordinate systems and projections, spatial indexing, geometry operations, map matching, and graph algorithms on road networks",
+            "Demonstrated experience designing geospatial data models and working with road network or map data structures (lanes, segments, intersections, topology)",
+            "Hands-on experience with machine learning or computer vision workflow in production — dataset curation, model training or fine-tuning, evaluation, and deployment",
+            "Experience building large-scale distributed data pipelines for geospatial or sensor data",
+            "Proficiency in Python and C++",
+            "BS or MS in Computer Science, GIS, Electrical Engineering, Robotics, or a related technical field, or equivalent industry experience",
+            "Ability to own ambiguous, well-scoped technical problems end to end and drive them to production"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation : The compensation information is a good faith estimate only",
+            "The salary range for this role is $170,600.00 to $261,300.00",
+            "The actual base salary a successful candidate will be offered within this range will vary based on factors relevant to the position",
+            "Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance",
+            "Benefits: GM offers a variety of health and wellbeing benefit programs",
+            "Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We are looking for a Senior Software Engineer to design and build the mapping algorithms and geospatial data systems behind automated map reconstruction and maintenance within our Mapping Engineering team",
+            "In this role, you will develop the algorithms and data models that reconstruct, conflate, validate, and maintain map primitives — lanes, lane connectivity, road network graphs, boundaries, traffic controls, and signs — from large-scale multi-modal sensor data",
+            "You will own the geometric and topological correctness of the map itself: how features are represented, how disparate sources are merged, and how errors are detected before they reach the vehicle",
+            "This is a hands-on individual contributor role with strong ownership",
+            "You will drive technical problems end to end, partner closely with Perception, Localization, and Simulation, and apply machine learning where it measurably improves accuracy, coverage, or automation rate",
+            "Design and implement mapping algorithms for map reconstruction and maintenance — lane and boundary extraction, road network graph construction, map conflation and matching, geometry simplification, and topology validation",
+            "Build and evolve geospatial data models for lane-level connectivity at intersections, road network graphs, and associated map attributes and restrictions",
+            "Develop large-scale distributed geospatial pipelines that process sensor-derived and third-party road data into production map releases on a recurring cadence",
+            "Apply machine learning and computer vision models — detection, segmentation, 3D reconstruction, BEV representations — to automate feature extraction and map change detection, and integrate them into production pipelines",
+            "Build automated quality, validation, and regression systems that catch geometric, topological, and semantic map defects before release, with clear accuracy metrics",
+            "Collaborate cross-functionally with Perception, Localization, Simulation, and Platform teams on interfaces, data contracts, and integration points",
+            "Diagnose and resolve system-level issues spanning geospatial data pipelines, algorithms, models, and production workflows",
+            "Contribute to design reviews, engineering best practices, and mentorship of engineers on the team"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=8OU8-Gr6JK_Q68ujAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWKwQrCMBBE8dpP8LTgTWwighc9FZGC2JPgtaRhSSJxN2Qj9of8T9PL8ObNNL9V0z2QAmcYjPWBEO5oMgVycCVXO2Zo65bSolq48QRSH9YDE_TMLuL67EtJctJaJConxZRgleW3ZsKJZ_3iSZYYxZuMKZqC4-G4n1Uit930SJhNhIELZ4FAlT5UTIVnwO8OLt0fL5rzfKgAAAA&shmds=v1_Ac3VAox3eW9oqBwvg45jug5xa6fo6pIfI05Sp_K7kvMe6iQmAA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=8OU8-Gr6JK_Q68ujAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://search-careers.gm.com/en/jobs/jr-202620459/senior-machine-learning-engineer-mapping/",
+      "job_title": "Senior Machine Learning Engineer - Mapping",
+      "description": "About the Team   \n\n   Our Mapping organization is building national-scale, next-generation mapping systems that move beyond static HD maps toward automated, algorithmic and ML-assisted map reconstruction pipelines powered by onboard sensor data. These systems form a critical foundation for localization, perception, simulation, and autonomy at scale. \n\n  \n   The Role    We are looking for a Senior Software Engineer to design and build the mapping algorithms and geospatial data systems behind automated map reconstruction and maintenance within our Mapping Engineering team. \n\n   In this role, you will develop the algorithms and data models that reconstruct, conflate, validate, and maintain map primitives — lanes, lane connectivity, road network graphs, boundaries, traffic controls, and signs — from large-scale multi-modal sensor data. You will own the geometric and topological correctness of the map itself: how features are represented, how disparate sources are merged, and how errors are detected before they reach the vehicle. \n\n   This is a hands-on individual contributor role with strong ownership. You will drive technical problems end to end, partner closely with Perception, Localization, and Simulation, and apply machine learning where it measurably improves accuracy, coverage, or automation rate. \n\n  \n   What You'll Do (Responsibilities)      Design and implement mapping algorithms for map reconstruction and maintenance — lane and boundary extraction, road network graph construction, map conflation and matching, geometry simplification, and topology validation.    Build and evolve geospatial data models for lane-level connectivity at intersections, road network graphs, and associated map attributes and restrictions.    Develop large-scale distributed geospatial pipelines that process sensor-derived and third-party road data into production map releases on a recurring cadence.    Apply machine learning and computer vision models — detection, segmentation, 3D reconstruction, BEV representations — to automate feature extraction and map change detection, and integrate them into production pipelines.    Build automated quality, validation, and regression systems that catch geometric, topological, and semantic map defects before release, with clear accuracy metrics.    Collaborate cross-functionally with Perception, Localization, Simulation, and Platform teams on interfaces, data contracts, and integration points.    Diagnose and resolve system-level issues spanning geospatial data pipelines, algorithms, models, and production workflows.    Contribute to design reviews, engineering best practices, and mentorship of engineers on the team.     \n     Minimum Qualifications (Must-Have)   \n\n     3+ years of software engineering experience building production systems, with a substantial portion focused on mapping, geospatial, or geometric algorithms.    Strong applied foundation in geospatial and computational geometry concepts — coordinate systems and projections, spatial indexing, geometry operations, map matching, and graph algorithms on road networks.    Demonstrated experience designing geospatial data models and working with road network or map data structures (lanes, segments, intersections, topology).    Hands-on experience with machine learning or computer vision workflow in production — dataset curation, model training or fine-tuning, evaluation, and deployment.    Experience building large-scale distributed data pipelines for geospatial or sensor data.    Proficiency in Python and C++.    BS or MS in Computer Science, GIS, Electrical Engineering, Robotics, or a related technical field, or equivalent industry experience.    Ability to own ambiguous, well-scoped technical problems end to end and drive them to production.     \n   Preferred Qualifications (nice to have)      Experience with HD maps, localization, perception, or robotics systems, particularly in autonomous driving or mobile robotics.    Hands-on experience with 3D geometry, multi-view geometry, point cloud processing, or SLAM.    Familiarity with AV sensor data (camera, lidar, radar) and real-world data challenges such as noise, drift, and long-tail scenarios.    Experience with map conflation, change detection, or automated map QA at national or global scale.    Experience with geospatial tooling and formats (PostGIS, GeoPandas, GDAL/OGR, S2/H3, OSM, GeoJSON).    Experience deploying ML models into production pipelines with monitoring, validation, and iteration loops.    Experience mentoring engineers or acting as a technical lead on a project.    3+ years of software engineering experience building production systems, with a substantial portion focused on mapping, geospatial, or geometric algorithms.     \n     Compensation   : The compensation information is a good faith estimate only. It is based on what a successful applicant might be paid in accordance with applicable state laws. The compensation may not be representative for positions located outside of the California Bay Area.  \n\n     The salary range for this role is $170,600.00 to $261,300.00. The actual base salary a successful candidate will be offered within this range will vary based on factors relevant to the position.        Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance.     \n     Benefits:     \n\n     Benefits: GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more.",
+      "apply_options": [
+        {
+          "title": "General Motors Careers",
+          "link": "https://search-careers.gm.com/en/jobs/jr-202620459/senior-machine-learning-engineer-mapping/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-machine-learning-engineer-mapping-austin-tx--18058bfc-f583-47b7-8736-9daff31a5a13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/general-motors/Job/Senior-Machine-Learning-Engineer-Mapping/-in-Austin,TX?jid=823c1eb3ff9420d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-machine-learning-engineer-mapping-generalmotors-austin-tx_89069835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-4759952358788349082?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-mapping-at-general-motors-4468509325?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/samprasoft/austin/machine-learning-engineer-senior-6-10-yrs-109576125/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/ad44fed7-e243-4e7e-9821-1bf2374b926d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAtIE1hcHBpbmciLCJjb21wYW55X25hbWUiOiJHZW5lcmFsIE1vdG9ycyIsImh0aWRvY2lkIjoiOE9VOC1HcjZKS19RNjh1akFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduRnlXRFZ0TkdKdFJYTnlVa1ZmUkdoa1dUZDJPR2RTTjB4MlQyVTVVelJpU0hBemRHTXdkWFZmVVZrMFEwaGZabXgzZFZwcGRsZHlNbEpOUlZvMmN6RkhPWGhWV0dVMGJrTnZOSG8yY0RseVdrdE5RWFpOVGxsc2VWbEZSakphTkRWM1dYTmpPR1ZzYjBjMU1IUnNSR2hIWkdGTmRUTlJTbkkzY0dwZllYcElNWFl3WW5jU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRHUzB4WVEwVkJhVzFPY1ZSMU4wWTFNVGh6WXpSdFIwd3laSGhSIiwiZmN2IjoiMyIsImZjX2lkIjoiOE9VOC1HcjZKS19RNjh1akFBQUFBQT09In0="
+    },
+    {
+      "title": "Sr. Machine Learning Engineer, ML Systems Evaluation Engineering",
+      "company_name": "Apple Inc.",
+      "location": "Cupertino, CA",
+      "via": "SWE Career Center",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We are seeking a highly skilled Senior Machine Learning Engineer specializing in Conversational AI",
+            "7+ years of professional experience applying machine learning to real-world problems and crafting scalable data solutions, specifically in natural language products",
+            "Proven experience managing large-scale datasets for ML training and/or evaluation",
+            "Excellent programming skills in Python",
+            "MS/PhD in Machine Learning, Computer Science, or equivalent experience in a related field",
+            "The qualifications that will benefit a candidate to be successful in your role",
+            "Deep domain knowledge in Conversational AI and a strong understanding of the end-to-end ML product lifecycle",
+            "Expertise in defining and measuring evaluation coverage for Large Language Models (LLMs) and agentic systems",
+            "Track record of delivering large-scale, cross-functional ML product or platform outcomes",
+            "Excellent problem-solving, critical thinking, and communication skills to drive alignment across teams",
+            "Experience with systems engineering; in-depth understanding of interdependencies of ML and SW components"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Our goal is to deliver offline evaluation insights that drive model development and improve the end-user experience, all while upholding Apple's strict privacy standards",
+            "In this pivotal role, you will collaborate with cross-functional teams to curate and evolve high-quality evaluation datasets for state-of-the-art models",
+            "With the advent of Apple Intelligence, you will tackle novel challenges in evaluating highly personalized user experiences",
+            "Your key focus will be leveraging Large Language Models (LLMs) to automatically evaluate model changes (LLM-as-a-Judge) and assess the naturalness of digital assistant conversations",
+            "You will also harness generative AI to create adversarial scenarios that anticipate edge cases, enabling robust, forward-looking evaluation",
+            "Your work, and the datasets you generate, will directly shape the next generation of Siri and Apple products"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=xfQzuT3BiPr-8dWXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2LsQrCMBRFcfUTdHmzaCKCi05Fiijt5OAoaXikkfheyEulfpc_aLq4XLicc-bf2fx-SwpaY3tPCA2aRJ4c1OTKx7SGtoHbRzK-BOq3CYPJnunPJ3cDV-5ASmp7KOzM7AIujn3OUQ5aiwTlJJfQKssvzYQdj_rJnUzzkN4kjMFkfOz221FFcqtlFWNAuJBV4AlOQ8SUPfEaTtUP5nq78bYAAAA&shmds=v1_Ac3VAowlaMx18tCzIrAVJ6iCCVserdPLvcZhQMjH0KZk_hPG5Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=xfQzuT3BiPr-8dWXAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAATlBMVEX___8AAAD6-vo5OTmzs7PV1dXCwsJUVFRXV1dvb2_IyMipqang4ODQ0NChoaH39_crKysaGhrw8PBOTU3o6OglJSWHh4d_f3-7u7sxMTEwoxnqAAAAcklEQVQ4je3SuQ6AIBBFUZ6AK4gryv__qLFQbN8UVtxkypMQZpQqSauErGllUMOInEUnUP3gKuvHmmRhAnAP5oWCK55a6mO314FbSP06TbkP3Dno8lMtJzOEp2DM8KBgyDBQUJ2Po6_VpOh9TLIrL_3dBWgaAn-4wsb-AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://careers.swe.org/job/85384468/sr-machine-learning-engineer-ml-systems-evaluation-engineering/?LinkSource=SimilarJobPlatform",
+      "job_title": "Sr. Machine Learning Engineer, ML Systems Evaluation Engineering",
+      "description": "Summary\n\nJoin the team redefining what a deeply personal and integrated assistant can be. \n\nAs part of the Siri organization, you will help shape one of the world's most widely used AI assistants, powered by our next-generation of Apple Intelligence, with capabilities like personal context understanding and on-screen awareness, built with privacy from the ground up. Your work will have direct, meaningful impact for users across iOS, iPadOS, macOS, watchOS, and visionOS.\n\nThis is a rare opportunity to build at the intersection of cutting-edge AI and human-centered design, shipping technology that is centered around users and their needs.\n\nJoin the SCALE (Statistical Coverage and Large-scale Evaluation) team at Apple and contribute to a highly accomplished group that evaluates Siri and AI/ML models at scale to delight and inspire our users globally. If you are excited by large-scale systems, rigorous statistical evaluation, natural language understanding, and shaping the future of AI, we want you here! You'll do more than join something, you'll add something!\n\nDescription\n\nWe are seeking a highly skilled Senior Machine Learning Engineer specializing in Conversational AI. Our goal is to deliver offline evaluation insights that drive model development and improve the end-user experience, all while upholding Apple's strict privacy standards.\n\nIn this pivotal role, you will collaborate with cross-functional teams to curate and evolve high-quality evaluation datasets for state-of-the-art models. With the advent of Apple Intelligence, you will tackle novel challenges in evaluating highly personalized user experiences.\n\nResponsibilities\n\nYour key focus will be leveraging Large Language Models (LLMs) to automatically evaluate model changes (LLM-as-a-Judge) and assess the naturalness of digital assistant conversations. \n\nYou will also harness generative AI to create adversarial scenarios that anticipate edge cases, enabling robust, forward-looking evaluation. \n\nYour work, and the datasets you generate, will directly shape the next generation of Siri and Apple products.\n\nMinimum Qualifications\n\n7+ years of professional experience applying machine learning to real-world problems and crafting scalable data solutions, specifically in natural language products.\n\nProven experience managing large-scale datasets for ML training and/or evaluation.\n\nExcellent programming skills in Python\n\nMS/PhD in Machine Learning, Computer Science, or equivalent experience in a related field\n\nPreferred Qualifications\n\nThe qualifications that will benefit a candidate to be successful in your role. Please list no more than 6-8.\n\nDeep domain knowledge in Conversational AI and a strong understanding of the end-to-end ML product lifecycle.\n\nExpertise in defining and measuring evaluation coverage for Large Language Models (LLMs) and agentic systems.\n\nTrack record of delivering large-scale, cross-functional ML product or platform outcomes.\n\nExcellent problem-solving, critical thinking, and communication skills to drive alignment across teams.\n\nExperience with systems engineering; in-depth understanding of interdependencies of ML and SW components",
+      "apply_options": [
+        {
+          "title": "SWE Career Center",
+          "link": "https://careers.swe.org/job/85384468/sr-machine-learning-engineer-ml-systems-evaluation-engineering/?LinkSource=SimilarJobPlatform&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/30374864-a6e5-47a0-a56a-e0b8a4ad9321?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Apple/Job/Senior-Machine-Learning-Engineer,-Video-Quality-Systems/-in-Cupertino,CA?jid=aad09e01a32d1726&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Muse",
+          "link": "https://www.themuse.com/jobs/apple/machine-learning-engineer-creative-intelligence-systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LocalJobs.com",
+          "link": "https://www.localjobs.com/job/cupertino-ca-senior-machine-learning-engineer-video-quality-systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=c01946e3434eaa00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/machine-learning-engineer-creative-intelligence-systems--cupertino--eb7a37309b9d67376165b7a52f444ba36?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-machine-learning-engineer-video-quality-systems-apple-cupertino-ca_86635883?source=industry&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciwgTUwgU3lzdGVtcyBFdmFsdWF0aW9uIEVuZ2luZWVyaW5nIiwiY29tcGFueV9uYW1lIjoiQXBwbGUgSW5jLiIsImh0aWRvY2lkIjoieGZRenVUM0JpUHItOGRXWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdqVndZMEpTZGxSeGFETndZVWROWkc1M2QzaFZVbE5XZWxsMldEZDZUREJpZGxsSFJuaENWR1pVYkZkc05FTnVVbm8xVmpKc1VsSm1lVXhTTUZwNVF6RldWVGRGZUhwcFEwOXZTelp3TUd0eFNrUXhhbFU0VEhCbVZIVXlSRlJRVld4YVRuYzJkbkJmTlVKSlkyOHlibFp0TWpWaWVIRm5hamRMZURsRVdFa3hTVlZyUzFNU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRHVTFvdFIyVldSblpxV0VGVlEySnJZVVJzUVdSS2JHeFNNWEJCIiwiZmN2IjoiMyIsImZjX2lkIjoieGZRenVUM0JpUHItOGRXWEFBQUFBQT09In0="
+    },
+    {
+      "title": "Machine Learning Engineer - AI Trainer",
+      "company_name": "AfterQuery Experts",
+      "location": "Anywhere",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Professional experience in ML engineering, inference optimization, or systems ML",
+            "Familiarity with GPU execution, kernel-level performance, or serving stacks",
+            "Ability to reason precisely about numerical and performance trade-offs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive Compensation: $115-$135/hour, paid weekly",
+            "Innovative Impact: Join a YC-backed research lab shaping how frontier models reason about software",
+            "Flexible Engagement: Fully remote and asynchronous, on your own schedule"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "AfterQuery is seeking AI / ML Engineer Experts to build and evaluate the model inference, GPU kernels, and ML systems performance scenarios that frontier AI labs use to test model judgment",
+            "In this remote, asynchronous role you will design realistic engineering problems, review how models reason through them, and give detailed feedback that makes the resulting training data trustworthy",
+            "Design challenging, realistic model inference, GPU kernels, and ML systems performance tasks drawn from production practice",
+            "Evaluate model responses for correctness, sound reasoning, and subtle failure modes",
+            "Document your reasoning clearly so another engineer can audit the judgement"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=700u_-icqRvdN4wjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7CE43OAk2IrgoDkWKKCoI7iUNZxKJd-EuQn0dn9S6_PDBX30n1e5iXYiEcEYrFMlDS340CiygOcJd7Kg_TtyDjpMLwAQHZp9wug2lZN0Yo5pqr8WW6GrHL8OEPQ_myb3-02mwgjnZgt1qvRzqTH4-ax4F5fZG-UA7ZJSiEAmuLCXA3gqnSPYHo7fEG6UAAAA&shmds=v1_Ac3VAoyGesi4cFLfXLxVESEpPyusPqcYfuMKqMz57IT3hb48Iw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=700u_-icqRvdN4wjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507b26a1f1177e00157de/images/_FRgy7Udx-6TSgEEvlUR-hEWKmd3W8o0kLBr-WvX1xA.jpeg",
+      "extensions": [
+        "10 days ago",
+        "115–135 an hour",
+        "Work from home",
+        "Contractor"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=090504543139a036",
+      "job_title": "Machine Learning Engineer - AI Trainer",
+      "description": "AfterQuery is seeking AI / ML Engineer Experts to build and evaluate the model inference, GPU kernels, and ML systems performance scenarios that frontier AI labs use to test model judgment. In this remote, asynchronous role you will design realistic engineering problems, review how models reason through them, and give detailed feedback that makes the resulting training data trustworthy.\n\n\n \n\n    Why Apply\n\n\n \n\n \n  Competitive Compensation: $115-$135/hour, paid weekly\n  Innovative Impact: Join a YC-backed research lab shaping how frontier models reason about software\n  Flexible Engagement: Fully remote and asynchronous, on your own schedule\n \n \n\n Responsibilities\n\n\n \n\n \n  Design challenging, realistic model inference, GPU kernels, and ML systems performance tasks drawn from production practice\n  Evaluate model responses for correctness, sound reasoning, and subtle failure modes\n  Document your reasoning clearly so another engineer can audit the judgement\n \n \n\n Required Qualifications\n\n\n \n\n \n  Professional experience in ML engineering, inference optimization, or systems ML\n  Familiarity with GPU execution, kernel-level performance, or serving stacks\n  Ability to reason precisely about numerical and performance trade-offs\n \n \n\n About AfterQuery\n\n\n AfterQuery is a research lab investigating the boundaries of artificial intelligence through novel datasets and experimentation. We are backed by top investors, including Y Combinator and Box Group, and support all leading AI labs.\n\n\n \n\n   #INDSWE",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=090504543139a036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/4u8SjFant5y7Zjc6zW8sRX7euC_u_qZHUaln9Uo_6PWc5IirgyzgXA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010301622967&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=634407401001846576&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/machine-learning-engineer-ai-trainer-afterquery--pureheal-29598_25198_0cd7bbaa2f3f379a143346915993d68d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "United States Jobs Expertini",
+          "link": "https://us.expertini.com/job/machine-learning-engineer-remote-north-carolina-usa-yo-ai-labs-634407401001846576/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/online_remote/software_development/5557623247/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIC0gQUkgVHJhaW5lciIsImNvbXBhbnlfbmFtZSI6IkFmdGVyUXVlcnkgRXhwZXJ0cyIsImh0aWRvY2lkIjoiNzAwdV8taWNxUnZkTjR3akFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdreE9jRzk2YlV3eWNYcExaRGxmUjE5RllVZ3lMV0pTYkY5bFVXRmhka2g1TlZOYVpWRm9WVFpIWmxjemQzUnlUM1ZIVTJwNGNFOVNOazAzTkRRNFpVVlViWGwxV0UxSldGZFhSbDlHTFcwemRGQlljMmcwUjBoUUxTMHdaMHA2U2t4dk4ybExPVWRpZVROUGRIUjJlalJHYUhwdmJqWk9iRXAzUW5OTVdsQnVTalJaUW1RU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRJWVdsRFJIVkNOVTFRVFZsd09Va3pZMlJaTmxNNVpWTjNOa0ZSIiwiZmN2IjoiMyIsImZjX2lkIjoiNzAwdV8taWNxUnZkTjR3akFBQUFBQT09In0="
+    },
+    {
+      "title": "Machine Learning Engineering Team Lead",
+      "company_name": "Treeswift Inc",
+      "location": "Anywhere",
+      "via": "Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Edge model development",
+            "Classifying a point cloud - distinguishing ground from vegetation from structures etc",
+            "Identifying individual objects within 3D space — poles, equipment, wires, trees, etc",
+            "Describing characteristics of individual objects",
+            "Required skills and experience",
+            "Early-stage or fast-moving environments where scope and ownership evolve quickly",
+            "Strong familiarity with models built on images, video, lidar, pointclouds, speech, or geospatial data sources",
+            "Building and using cloud-based training and inference pipelines (including orchestration, deployment, and the operational realities of running models at scale)",
+            "Willingness to drive architecture and approach across both, bring innovative ideas and rapid execution to new and existing models, and be accountable for the quality and consistency of our models across a growing breadth of operating conditions",
+            "Leading development of our training and inference pipelines",
+            "Strong programming skills and expertise in deep learning frameworks such as PyTorch, scikit-learn, and TensorFlow",
+            "Excellent communication and collaboration skills",
+            "You have the ability to keep a team distributed across three offices (NY, Philly, SF) well-aligned",
+            "You will be a strong partner to the product team on how to balance technical trade-offs and product objectives",
+            "Experience developing models for and deploying models to run on edge-devices",
+            "Experience with deep learning training frameworks such as MLflow, Lightning, Weights and Biases, or similar",
+            "Experience with semantic mapping, image processing techniques and/or computer vision fundamentals",
+            "Experience with Apache Airflow (especially 3.x) and/or Astronomer",
+            "Experience with one or more of: Sensor Fusion, SLAM, Visual Odometry",
+            "8+ years of professional experience"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive salary and equity package",
+            "Comprehensive medical, dental, and vision coverage for you and your eligible dependents",
+            "Life insurance and short- and long-term disability coverage",
+            "16 weeks of fully paid parental leave to support all new parents",
+            "Flexible, unlimited paid time off",
+            "401(k) retirement savings plan",
+            "Free OneMedical membership",
+            "Commuter benefits",
+            "Snacks, goodies, and team lunches provided twice a week to keep you fueled and connected with your colleagues",
+            "The estimated salary range for this position is $225,000 - $265,000 USD",
+            "This salary estimate excludes the value of any potential bonuses; the value of any benefits offered; and the potential future value of any long-term incentives"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will join at a critical inflection point and will lead the charge on the following priorities (amongst others):",
+            "You will be responsible for continuing to improve the quality and consistency of our models across a growing breadth of operating conditions",
+            "As the breadth of models and datasets grows you will thoughtfully introduce feedback loops and ML Ops that accelerate model improvement",
+            "You have excellent judgement on what problems require fast experimentation/validation, and where we should be focused on sustainable scalable improvement over a longer period of time",
+            "Working closely with our robotics and embedded teams, you will support growing exploration of model deployment on devices for real-time use cases",
+            "Lead and grow our team (as needed)",
+            "You will lead the current team, identify gaps and grow the team as needed",
+            "Collaborate closely with our Software, Robotics, Hardware and Product teams to deliver on Treeswift’s vision and business objectives",
+            "You will report to our Head of Software Engineering",
+            "At a high-level we develop three categories of model that power downstream business decisions",
+            "This includes everything from tree species and health, detailed wire types, pole information (height, attachments, etc.) etc",
+            "Is ongoing asset construction deviating from the expected design and if so how?",
+            "You will lead how we build and evolve these pipelines as well as move us towards on-device inference for time-sensitive use cases",
+            "3+ years experience in leadership: setting clear direction for a team, driving architecture and design decisions, reviewing others' work, and mentoring individual engineers",
+            "Experience creating, curating, and cleaning training datasets, and building the evaluation and feedback loops that drive model improvement"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=J5X0_QRxMRr4RDPIAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWKQQrCMBBFcdsjCMKsRRsR3CguRRTtqpuuShLHJJrOlEygvYuXtd183uP94rcozk9tfSCEB-pEgRxcyE2OaeYadTeXF2zhzgZkOlkPTHBldhGXJ59zL0elRGLpJOscbGm5U0xoeFQfNjJPK14n7KPO2O4Pu7Hsya1XdUKUIbwz3MhCIKhwgIbTdwNV8wcremgsngAAAA&shmds=v1_Ac3VAowdzRmVtJ-mvb4isK1_SgU14fvQDg060unHd2rIo9vSkA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=J5X0_QRxMRr4RDPIAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://jobs.ashbyhq.com/treeswift/ec957fe9-0bb1-4445-b702-8e258057bf5b?utm_source=aijobs-dot-com",
+      "job_title": "Machine Learning Engineering Team Lead",
+      "description": "About Treeswift:In the face of rising threats, increasing pressure on affordability, and unprecedented demand for power, Treeswift empowers energy companies to modernize their field work to meet the growth and challenges ahead.\n\nWe build physical AI for the field worker: whether on foot or in a vehicle, our technology is an ironman suit for engineers, linemen, and vegetation crews: same worker, same boots on the ground, now operating at 10x productivity. Our platform is powered by cutting edge hardware, sensors (LiDAR, camera, etc…), AI and software designed to revolutionize work in the toughest environments.\n\nOur technology has enabled our customers to reduce wildfire risk, regulatory and outage risk from vegetation, avoid delays and cost overruns in new construction, and accelerate recovery from severe storms.\n\nTo tackle this challenge, we are bringing together a team of mission-driven experts with deep industry experience in robotics (Penn, Caltech, CMU) and enterprise software development (Palantir, Stripe, Oracle, MongoDB). We have raised funding from leading investors including Penny Pritzker’s Inspired Capital.\n\nWe are headquartered in midtown Manhattan, with additional offices in San Francisco and Philadelphia.\n\nOur growth is only accelerating. We’re looking for deeply curious and highly ambitious people who want to have a real world impact. Come build the future of (field) work with us.\n\nAbout the role\n\nML sits at the heart of Treeswift’s product translating complex sensor data into meaningful insights that drive critical decision-making for our customers. As our business grows the importance of this work only grows with it.\n\nYou will join at a critical inflection point and will lead the charge on the following priorities (amongst others):\n\nTechnical Leadership. You will be responsible for continuing to improve the quality and consistency of our models across a growing breadth of operating conditions. As the breadth of models and datasets grows you will thoughtfully introduce feedback loops and ML Ops that accelerate model improvement. You have excellent judgement on what problems require fast experimentation/validation, and where we should be focused on sustainable scalable improvement over a longer period of time.\n\nEdge model development. Working closely with our robotics and embedded teams, you will support growing exploration of model deployment on devices for real-time use cases.\n\nLead and grow our team (as needed). We have an incredibly talented ML team distributed across our NYC, Philly and SF offices. You will lead the current team, identify gaps and grow the team as needed.\n\nCollaborate closely with our Software, Robotics, Hardware and Product teams to deliver on Treeswift’s vision and business objectives.\n\nYou will report to our Head of Software Engineering. This is a full-time, hybrid role based out of our Lower Manhattan, NYC office (2-3 days per week in person, currently pinned to Tuesdays and Wednesdays).\n\nAbout Machine Learning At TreeswiftMachine Learning at Treeswift is the layer that translates sensor data into meaning for our end-users. At a high-level we develop three categories of model that power downstream business decisions.\n\nClassifying a point cloud - distinguishing ground from vegetation from structures etc.\n\nIdentifying individual objects within 3D space — poles, equipment, wires, trees, etc.\n\nDescribing characteristics of individual objects. This includes everything from tree species and health, detailed wire types, pole information (height, attachments, etc.) etc.\n\nTogether this information informs critical decision-making for our customers such as:\n\nWhat vegetation is a risk to utility infrastructure and how severe is that risk? What action is recommended as a result (trim, removal, etc…)?\n\nIs ongoing asset construction deviating from the expected design and if so how? If so, is this an approved deviation or a quality issue that needs to be addressed before a downstream customer or financial impact?\n\nRequired skills and experienceEarly-stage or fast-moving environments where scope and ownership evolve quickly.\n\nStrong familiarity with models built on images, video, lidar, pointclouds, speech, or geospatial data sources.\n\nBuilding and using cloud-based training and inference pipelines (including orchestration, deployment, and the operational realities of running models at scale).\n\nWillingness to drive architecture and approach across both, bring innovative ideas and rapid execution to new and existing models, and be accountable for the quality and consistency of our models across a growing breadth of operating conditions.\n\nLeading development of our training and inference pipelines. You will lead how we build and evolve these pipelines as well as move us towards on-device inference for time-sensitive use cases.\n\n3+ years experience in leadership: setting clear direction for a team, driving architecture and design decisions, reviewing others' work, and mentoring individual engineers.\n\nExperience creating, curating, and cleaning training datasets, and building the evaluation and feedback loops that drive model improvement.\n\nStrong programming skills and expertise in deep learning frameworks such as PyTorch, scikit-learn, and TensorFlow.\n\nExcellent communication and collaboration skills. You have the ability to keep a team distributed across three offices (NY, Philly, SF) well-aligned. You will be a strong partner to the product team on how to balance technical trade-offs and product objectives.\n\nNice-to-havesExperience developing models for and deploying models to run on edge-devices.\n\nExperience with deep learning training frameworks such as MLflow, Lightning, Weights and Biases, or similar.\n\nExperience with semantic mapping, image processing techniques and/or computer vision fundamentals.\n\nExperience with Apache Airflow (especially 3.x) and/or Astronomer.\n\nExperience with one or more of: Sensor Fusion, SLAM, Visual Odometry.\n\n8+ years of professional experience\n\nBenefits\n\nCompetitive salary and equity package\n\nComprehensive medical, dental, and vision coverage for you and your eligible dependents\n\nLife insurance and short- and long-term disability coverage\n\n16 weeks of fully paid parental leave to support all new parents\n\nFlexible, unlimited paid time off\n\n401(k) retirement savings plan\n\nFree OneMedical membership\n\nCommuter benefits\n\nSnacks, goodies, and team lunches provided twice a week to keep you fueled and connected with your colleagues.\n\nThe estimated salary range for this position is $225,000 - $265,000 USD. Total compensation for this position is determined by skills, qualifications, relevant work experience, location, and other factors. This salary estimate excludes the value of any potential bonuses; the value of any benefits offered; and the potential future value of any long-term incentives. This information is provided per the New York City Human Rights Law. Please note that the range provided is applicable only to New York City-based applicants. Base compensation may vary if the work location is outside of New York City.\n\nTreeswift  is proud to be an equal opportunity employer. We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, veteran status, or any other protected status in accordance with applicable law.\n\nIf you require any accommodations during the recruitment process, whether it be alternate forms of material, accessible meeting rooms, etc., please let us know and we will work with you to meet your needs.",
+      "apply_options": [
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/treeswift/ec957fe9-0bb1-4445-b702-8e258057bf5b?utm_source=aijobs-dot-com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/stand-insurance/machine-learning-team-lead-126717481/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Haystack",
+          "link": "https://haystackapp.io/jobs/4513ea39-b3d2-47bd-9966-1d0ede51de8f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tsenta",
+          "link": "https://tsenta.com/jobs/relx-machine-learning-engineering-lead-b0ce667e-03a0-40e5-94a5-b32fe6502e2b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/machine-learning-team-lead-speechmatics-london--pureheal-29598_25303_6cf3d4b3401f0c71e5df333565f45d35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MoreJobs",
+          "link": "https://morejobs.b7h.alc.onl/remote-jobs/machine-learning-engineering-lead-5095270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyaW5nIFRlYW0gTGVhZCIsImNvbXBhbnlfbmFtZSI6IlRyZWVzd2lmdCBJbmMiLCJodGlkb2NpZCI6Iko1WDBfUVJ4TVJyNFJEUElBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZblZ0UjJ4SU1uaEhZazFTU1dzMVZ6aDJkVFEwZUROU05qSmtkMHMzY1RSUlJURTJXR3gxVUZGaWFrZzFPREJEWmpaSVZrdFRWVEpvYUdKMVVuQlVXSFZmTjA5TWFUUkhWa2hvTUdkbVRrYzVSSEp3UjJzemRGcGxkVU40VG5nM1VtUjNOM1kyZWtsWE1GbFNNMlJoWkZBMFkyMUJWbWx5TjAwellXdHBkSHBCUVZWa1luY1NGM05uWm14aGRtRnJSMDFUUTNkaWExQTRYMHhyYzBGTkdpSkJTRTR3UlRkSFNFNWtOalJRV0ROVWN6TXlSVUZtTTBOV2IxZ3lOSE50TmtSUiIsImZjdiI6IjMiLCJmY19pZCI6Iko1WDBfUVJ4TVJyNFJEUElBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Principal Machine Learning Systems Engineer - Search & Intelligence",
+      "company_name": "Atlassian",
+      "location": "Anywhere",
+      "via": "ICIMS",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A bachelor’s or master’s degree in computer science or a related field, or equivalent practical experience",
+            "At least five years of relevant industry experience in machine learning, data science, or a related discipline",
+            "Strong programming skills in Python and one or more production languages such as Java, Kotlin, or TypeScript",
+            "Proficiency in SQL and experience with Spark and cloud-based data environments such as AWS or Databricks",
+            "Experience building, deploying, and scaling machine learning models for business applications using large, complex datasets",
+            "Strong communication skills, including the ability to explain data science concepts to diverse audiences and tell compelling, data-driven stories",
+            "A pragmatic, business-focused approach",
+            "You hold a high bar for quality while applying the 80/20 principle and recognizing when delivering a valuable solution today is better than pursuing perfection later",
+            "An agile mindset and an appreciation for continuous iteration, learning, and improvement",
+            "It’s great, but not required, if you have",
+            "Experience fine-tuning, post-training, and optimizing state-of-the-art large language models, embedding models, and ranking models",
+            "Experience developing and evaluating advanced agentic AI systems, including tool-using agents capable of planning, multi-step reasoning, and autonomous task execution",
+            "Experience working in consumer or B2C environments, SaaS, or enterprise and B2B products",
+            "A track record of solving ambiguous and complex problems by navigating uncertainty, breaking challenges into manageable components, and developing innovative, practical solutions"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "At Atlassian, we strive to design equitable, explainable, and competitive compensation programs",
+            "This role may also be eligible for benefits, bonuses, commissions, and equity",
+            "Pay Ranges",
+            "In The United States, we have three geographic pay zones",
+            "Zone A: $236,700 - $309,025",
+            "Zone B: $213,030 - $278,123",
+            "Zone C: $196,461 - $256,491",
+            "Benefits & Perks",
+            "Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community",
+            "Our offerings include health and wellbeing resources, paid volunteer days, and so much more"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Working at Atlassian",
+            "As a Principal Machine Learning Engineer, you will lead the development and implementation of cutting-edge machine learning algorithms and sophisticated models that power AI capabilities across Atlassian’s products and services",
+            "You will collaborate closely with product, engineering, and analytics teams to translate complex business and customer needs into impactful solutions",
+            "Your responsibilities will span designing system and model architectures, leading rigorous experimentation and evaluation, and providing technical mentorship to emerging ML engineers",
+            "Beyond these core responsibilities, you will help shape our AI strategy and ensure its transformative potential is realized across Atlassian"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=AaVKtCGuHY0rqiuDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCMBBAce0XiNNNDqKtCC46dRBRFIQOgktJw5FE0ruQu6F-lz9oi8sb3hte8Z0Vr0cOZEMyEe7G-kAINzSZAjloPqLYC5zIjR4zbKAZm_WwhAspxhgcksXRX7kD-TcmODO7iIujV01yqCqRWDpRo8GWlvuKCTseqjd3MqEVbzKmaBTb3X47lIncal5rNCLBEASavqoR1_Csf7BVjlC2AAAA&shmds=v1_Ac3VAow4_IdwoxXXlkD5xGdBxujmtOJ4ee1YF8-LD9cJhn-kag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=AaVKtCGuHY0rqiuDAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers-americas.icims.com/jobs/26787/principal-machine-learning-systems-engineer---search-%26-intelligence/job",
+      "job_title": "Principal Machine Learning Systems Engineer - Search & Intelligence",
+      "description": "Overview\nAtlassian is a global leader in team collaboration and productivity software, empowering teams to unleash their potential and achieve remarkable results. Our suite of tools, including Jira, Confluence, Trello, Bitbucket, and Rovo, is trusted by millions of users worldwide to plan, track, and manage their work effectively. At Atlassian, we are dedicated to building innovative tools and technologies that drive the future of work. \n\n\nWe are looking for a Principal Machine Learning Engineer to join our Search & Intelligence organization. The team builds Atlassian’s flagship AI products, including agentic search and chat, long-horizon agents, and capabilities that enrich Atlassian’s Teamwork Graph. We also develop the frameworks, models, and infrastructure that accelerate AI feature development across the company.\n\n\n\n\n\nWorking at Atlassian\n\n\nAtlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity.\n\n\nResponsibilities\nWhat you’ll do\n\n\nAs a Principal Machine Learning Engineer, you will lead the development and implementation of cutting-edge machine learning algorithms and sophisticated models that power AI capabilities across Atlassian’s products and services. You will collaborate closely with product, engineering, and analytics teams to translate complex business and customer needs into impactful solutions.\n\n\nYour responsibilities will span designing system and model architectures, leading rigorous experimentation and evaluation, and providing technical mentorship to emerging ML engineers. Beyond these core responsibilities, you will help shape our AI strategy and ensure its transformative potential is realized across Atlassian.\n\n\nCompensation\nAt Atlassian, we strive to design equitable, explainable, and competitive compensation programs. We follow consistent hiring practices and account for each candidate's skills, knowledge, and experience when setting base pay within the range.\n\n\nPlease visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.\n\n\nThis role may also be eligible for benefits, bonuses, commissions, and equity.\n\n\nPay Ranges\nIn The United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:\n\n \nZone A: $236,700 - $309,025\n\n \nZone B: $213,030 - $278,123\n\n \nZone C: $196,461 - $256,491\n\n\nQualifications\nOn your first day, we’ll expect you to have\n\n\n\n A bachelor’s or master’s degree in computer science or a related field, or equivalent practical experience.\n\n\n At least five years of relevant industry experience in machine learning, data science, or a related discipline.\n\n\n Strong programming skills in Python and one or more production languages such as Java, Kotlin, or TypeScript.\n\n\n Proficiency in SQL and experience with Spark and cloud-based data environments such as AWS or Databricks.\n\n\n Experience building, deploying, and scaling machine learning models for business applications using large, complex datasets.\n\n\n Strong communication skills, including the ability to explain data science concepts to diverse audiences and tell compelling, data-driven stories.\n\n\n A pragmatic, business-focused approach. You hold a high bar for quality while applying the 80/20 principle and recognizing when delivering a valuable solution today is better than pursuing perfection later.\n\n\n An agile mindset and an appreciation for continuous iteration, learning, and improvement.\n\n\n\n\n\n\nIt’s great, but not required, if you have\n\n\n\n Experience fine-tuning, post-training, and optimizing state-of-the-art large language models, embedding models, and ranking models.\n\n\n Experience developing and evaluating advanced agentic AI systems, including tool-using agents capable of planning, multi-step reasoning, and autonomous task execution.\n\n\n Experience working in consumer or B2C environments, SaaS, or enterprise and B2B products.\n\n\n A track record of solving ambiguous and complex problems by navigating uncertainty, breaking challenges into manageable components, and developing innovative, practical solutions.\n\n\n\n\n\n\nBenefits & Perks\n\n\nAtlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit go.atlassian.com/perksandbenefits.\n\n\nAbout Atlassian\n\n\nAt Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.\n\n\nWe believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.\n\n\nTo provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.\n\n\nTo learn more about our culture and hiring process, visit go.atlassian.com/crh.\n\n\nIn line with local law, identity verification (which may include use of biometric data) is a condition of employment with Atlassian for employment fraud purposes.",
+      "apply_options": [
+        {
+          "title": "ICIMS",
+          "link": "https://careers-americas.icims.com/jobs/26787/principal-machine-learning-systems-engineer---search-%26-intelligence/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/principal-machine-learning-engineer-search-intelligence--san-francisco--ed9cf417107c9e3c25fb3e3d76143ec8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/principal-machine-learning-engineer-search-intelligence-san-francisco-ca--4daa3975-9f07-466e-9939-cd22839bf06e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/principal-machine-learning-systems-engineer-search-intelligence-at-atlassian-4467445174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-6908646752672334855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WORK180",
+          "link": "https://work180.com/en-us/for-women/employer/atlassian/job/1073400/principal-machine-learning-engineer---search?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EarnBetter",
+          "link": "https://earnbetter.com/app/job/01M2X10GCR6KA2YCH920C2TFJS/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_759636B13E970B3BC9037A4DF5156C76?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBTeXN0ZW1zIEVuZ2luZWVyIC0gU2VhcmNoIFx1MDAyNiBJbnRlbGxpZ2VuY2UiLCJjb21wYW55X25hbWUiOiJBdGxhc3NpYW4iLCJodGlkb2NpZCI6IkFhVkt0Q0d1SFkwcnFpdURBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXWEpYUVV4UGNscHRNMWRJVG1GUVZWOVBTVVpRVEZwUE0wVmlhVWgxYVVjNWRqQnVNMGxqYjBWU05ucFRWVjgxZVZocmJHUjNVRFpIVkV4WFl5MUVhMEpmTms1SFMwTlhOMkUxWDNkbVdrWnBUVXhETUU0NU0zUlZaVWhaUVc5MGVGVlFORzR5YlVWc1drRXpRekJ6WVVWaVlYTk1TWFphYW5nd1R6RkZiVXBsTlU5MVIyc1NGM05uWm14aGRtRnJSMDFUUTNkaWExQTRYMHhyYzBGTkdpSkJTRTR3UlRkRmRrSkZTR1JsVDNKbmQxbzNhakoyY2paS2RXMXZSRGw0WmxKbiIsImZjdiI6IjMiLCJmY19pZCI6IkFhVkt0Q0d1SFkwcnFpdURBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Machine Learning Engineer (Traditional ML & Financial Data) - Remote - USA",
+      "company_name": "FullStack",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5+ years of professional experience in software development, Data Science, or Machine Learning Engineering",
+            "Advanced English is required",
+            "Successful completion of a four-year college degree is required",
+            "Strong expertise in traditional machine learning algorithms and statistical modeling, with a focus on non-LLM and non-Generative AI approaches",
+            "Hands-on experience designing, developing, training, and optimizing machine learning models for production use",
+            "Strong proficiency in data exploration, preprocessing, feature engineering, and model training using complex datasets",
+            "Demonstrated experience developing and optimizing anomaly detection algorithms to identify irregularities, patterns, and outliers in data",
+            "Strong Python skills and experience with relevant machine learning and data science libraries",
+            "Proactive, ownership-driven mindset with strong analytical and problem-solving skills, capable of translating complex data into reliable machine learning solutions",
+            "Ability to work through new and difficult issues and contribute to libraries as needed",
+            "Ability to create and maintain continuous integration and delivery of applications",
+            "Forensic attention to detail",
+            "A positive mindset and a can-do attitude",
+            "Experience working on Agile/Scrum teams",
+            "Meaningful experience working on large, complex systems",
+            "Ability to take extreme ownership over your work",
+            "Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon",
+            "Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them",
+            "Professional Experience Or Personal Project Work With The Following Is a Significant Plus",
+            "Cursor, Windsurf, or Google Antigravity",
+            "Claude Code, Gemini CLI, Codex, or Copilot CLI",
+            "Applicants must be currently authorized to work in the United States on a full-time basis",
+            "FullStack will not sponsor applicants for work visas now or in the future"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Offering life-changing career opportunities to talented software professionals across the Americas",
+            "Competitive Salary",
+            "Paid Time Off (vacation, sick leave, parental leave, and holidays)",
+            "100% remote work",
+            "The ability to work with leading startups and Fortune 500 companies",
+            "Health, dental, and vision insurance",
+            "401(k) w/ 4% match",
+            "Ample opportunity for career advancement",
+            "Continuing education opportunities"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You'll Work With Our Incredible Clients In One Of Two Ways",
+            "Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis",
+            "Design & Build: You will work on a FullStack product team to build and deliver a product to our clients"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=udKwy2fpAnQhUQEGAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsWoCQRBASesXSKqpxAS9lYBNUgVyCnKm8Ex9zG2G3UnWmWN3BH_PP8umebzXvNn9YRZ7EtYMR_SRhaAjzMISoJVQmzIszxm_2VgFExw7WMCOBcVzzQ80fII1nOiiRlW--vfKg45Q6shHUIG9akj0-BbNpvLqXCmpCcXQ2DdeL06FRr25Hx3LP4YSMdOU0Gh42W5uzSTheb67ptQb-l9ggY7Fa5IVfLZ_NEMQAMQAAAA&shmds=v1_Ac3VAowFvRpMOWB0qwgmOphxvgUKNWfeqfIq9dVuqxfETzyMSw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=udKwy2fpAnQhUQEGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAcAAEBAQABBQAAAAAAAAAAAAAAAQcGAgMEBQj_xAAyEAABAgMFBgQFBQAAAAAAAAABAAQCAxEFBhIhMQcTFBVBYSJicoEWMlJxoRcjNUJR_8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT_xAAaEQEBAQEAAwAAAAAAAAAAAAAAARECAyEx_9oADAMBAAIRAxEAPwDGkVoomBEQBAEVUQBERAVD3VWnbJvgHfS-e15xi_b5hThq9MHSvrz_AMVnXOTSccuhs7vBeowTWzfhWEWrxyDDAR5BrH7ZdwtVGxG73KOG4t7x-vG4utNN38uHtr3XNbyXqsS7DYTrXfS5JihrLkw-KZM9MIzI76LOv1meFzx4uy4-HcW74nxY8VdcVMFfLX3SnNvwazy9-zu37rGOc4b8Uwh0eNgYoQPONYPfLuVxHVfW1271WLedsZtkPYJphFZkmLwzJfqhOY--ixra0Lhb2byOvOcXj5fTh69cf9a-jOuqMtuYGXURUiiKNgFdRmogK0c9Qnn2S9lsLTbvHTFvaMuURVu6xGCMDIDI9BpWo7FbcNsd2eQfxzgOMO75buhgpT6vlwfnyrBQVaq2-Pjr2WvYWq-lP7SnvGrFvZ0uaThbtcQggByIzPUa0oOwXgkADJQFWqt9ZhO3EEXUUWbvmalHaREWdJarqBRFb4-qVhVBEiKV6spYEoiJW2h__9k.jpeg",
+      "extensions": [
+        "14 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-traditional-ml-financial-data-remote-usa-at-fullstack-4480576229",
+      "job_title": "Senior Machine Learning Engineer (Traditional ML & Financial Data) - Remote - USA",
+      "description": "About FullStack\n\nFullStack is your AI-native engineering partner, built to turn AI capability into certainty. Most companies can demo AI; few can get it to production and prove what it produced. We close that gap with three capabilities, AI built into your products from the start, elite vetted talent who apply it, and transparent execution that shows value every step of the way. With now over 600 customers in North America, FullStack is one integrated partner for all your AI engineering needs. With FullStack, you move forward with confidence.\n\nWe’re Most Proud Of\n\nOffering life-changing career opportunities to talented software professionals across the Americas.Building highly-skilled software development teams for hundreds of the world’s greatest companies.Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.Our 4.1-star rating on GlassDoor.Our client Net Promoter Score of 68, twice the industry average.\n\nThe Position\n\nWe're Looking To Hire a Senior Machine Learning Engineer (Traditional ML & Financial Data) To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways\n\nTeam Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.\n\nWhat We're Looking For\n\n5+ years of professional experience in software development, Data Science, or Machine Learning Engineering.Advanced English is required.Successful completion of a four-year college degree is required.Strong expertise in traditional machine learning algorithms and statistical modeling, with a focus on non-LLM and non-Generative AI approaches.Hands-on experience designing, developing, training, and optimizing machine learning models for production use.Strong proficiency in data exploration, preprocessing, feature engineering, and model training using complex datasets.Demonstrated experience developing and optimizing anomaly detection algorithms to identify irregularities, patterns, and outliers in data.Strong Python skills and experience with relevant machine learning and data science libraries.Experience analyzing financial, payroll, or other structured business datasets is highly preferred.Proactive, ownership-driven mindset with strong analytical and problem-solving skills, capable of translating complex data into reliable machine learning solutions.Ability to work through new and difficult issues and contribute to libraries as needed.Ability to create and maintain continuous integration and delivery of applications.Forensic attention to detail.A positive mindset and a can-do attitude.Experience working on Agile/Scrum teams.Meaningful experience working on large, complex systems.Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.\n\nNice To Have\n\nWe’re Seeking Engineers Who Are AI-enthusiastic In Their Workflow. Professional Experience Or Personal Project Work With The Following Is a Significant Plus\n\nCursor, Windsurf, or Google Antigravity.Claude Code, Gemini CLI, Codex, or Copilot CLI.\n\nWork Authorization Requirements\n\nApplicants must be currently authorized to work in the United States on a full-time basis.FullStack will not sponsor applicants for work visas now or in the future.\n\nWhat We Offer\n\nCompetitive Salary.Paid Time Off (vacation, sick leave, parental leave, and holidays).100% remote work.The ability to work with leading startups and Fortune 500 companies.Health, dental, and vision insurance.401(k) w/ 4% match.Ample opportunity for career advancement.Continuing education opportunities.\n\nFullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.\n\nLearn more about our Applicants Privacy Notice.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-traditional-ml-financial-data-remote-usa-at-fullstack-4480576229?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAoVHJhZGl0aW9uYWwgTUwgXHUwMDI2IEZpbmFuY2lhbCBEYXRhKSAtIFJlbW90ZSAtIFVTQSIsImNvbXBhbnlfbmFtZSI6IkZ1bGxTdGFjayIsImh0aWRvY2lkIjoidWRLd3kyZnBBblFoVVFFR0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrOWZWVFJHVm5oMVF6VnRjbGRZVEZBNWRVMXhNRWhPU0ZNMFVtMXJYMjR5UTBwYVZDMXpUVlkyYzJkbVNHaHpWR3RyUzBGeWNqbEtXbUp5Vm5KTE4zUk5WV3AxTldwcGQxRnVhM0I1YkV0UE1GWnJkelpLZGxoelZGcFZUM2xIVTB0NFEzRldkbE5ITVZaVGJsSlpTeTFLVFZoR2JWcHJYM2hPWmxoV1pHbzFhMG90UWxJU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRHUzBSSVowWmFhME5sU2twVk5YRktUWEpYYVZscmEwSnZURFZSIiwiZmN2IjoiMyIsImZjX2lkIjoidWRLd3kyZnBBblFoVVFFR0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Predictive Planner, Systems Arch",
+      "company_name": "Waymo",
+      "location": "San Francisco, CA (+1 other)",
+      "via": "Waymo Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelors in Computer Science, ML, Robotics, similar technical field of study, or equivalent practical experience",
+            "Hands-on experience with modern deep learning libraries (eg: TensorFlow, JAX, Pytorch)",
+            "Proficient programming skills (eg: Python, C/C++)",
+            "Strong analytical and problem solving skills",
+            "4+ years of experience in Machine Learning modeling and/or Autonomous Vehicles systems",
+            "MS or PhD in Computer Science, Machine Learning, Robotics, or a related field",
+            "Publications in top-tier conferences such as ICML, NeurIPS, CVPR, ICCV, ECCV, ICLR, IROS, CoRL, ACL, or EMNLP",
+            "Prior software development or ML research industry experience (including internships)",
+            "General software engineering experience solving motion planning or related robotics problems",
+            "Experience applying or evaluating ML-based systems in production environments",
+            "Experience with performance optimization of deep models, including with respect to specific hardware architectures"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level",
+            "Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process",
+            "Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements",
+            "$213,000—$263,000 USD"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We tackle this through projects in data, modeling, metrics, and the overall planner system",
+            "In this role, you will report to a Technical Lead Manager",
+            "Tackle challenging real-world problems with ML and engineering solutions",
+            "Use state of the art techniques to design and build ML models, deploy them in the real world on production vehicles",
+            "Design and build the necessary architectures, algorithms, pipelines and evaluation systems on Google's extensive data infrastructure",
+            "Collaborate with researchers, product area owners and engineers to develop safe, smooth planning behavior for all road users & deliver product requirements"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=lF5maYoRvygAvLgMAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLwQqCQBBA6eoneJpzmEbQpU4SFUSB4CE6ybgN68Y6IztL6H_1genlwXvwkt8qedXETgI80HSOCe6EgR1bOLOdnUIGVaC3M9F9CSqPzEurJ43UK5TBdLCBm7Sg8zmLMFxFrKf02MU46KEoVH1uNWJ0JjfSF8LUylh8pNUFjXYYaPAYqdntt2M-sF2nT5x6AcdQI8MlIBunRjI4lX-n3C71twAAAA&shmds=v1_Ac3VAozQZDcCWmhPn0daO1L_cnpz4x1kxBwQzAUqc8M_yK7KQA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=lF5maYoRvygAvLgMAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507b26a1f1177e00157de/images/KJvI9c4ajJzkwAoZON9pRV7b-ia8Wo-TrQsJpYfeZAk.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.withwaymo.com/jobs/senior-machine-learning-engineer-predictive-planner-systems-arch-mountain-view-california-united-states-san-francisco",
+      "job_title": "Senior Machine Learning Engineer, Predictive Planner, Systems Arch",
+      "description": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.\n\nThe Predictive Planning team (PrePlan) develops and deploys state-of-the-art machine learning solutions that predict the future state of the world and plan the Waymo Driver’s behavior. Our mission is to transform Waymo's unprecedented scale of driving data into robust, generalizable, and performant deep neural networks. These models enable the autonomous vehicle to navigate complex environments safely and efficiently.\n\n\nThe system architecture team handles the onboard contract of the model with the system, including kinematics, interfaces and representations. Our team’s mission is to work across the stack, building the best setup for the model to drive. We tackle this through projects in data, modeling, metrics, and the overall planner system.\n\n\nIn this role, you will report to a Technical Lead Manager. \n\n\nYou will:\n\n\n\nTackle challenging real-world problems with ML and engineering solutions.\nUse state of the art techniques to design and build ML models, deploy them in the real world on production vehicles\nDesign and build the necessary architectures, algorithms, pipelines and evaluation systems on Google's extensive data infrastructure\nCollaborate with researchers, product area owners and engineers to develop safe, smooth planning behavior for all road users & deliver product requirements.\n\nYou have:\n\n\n\nBachelors in Computer Science, ML, Robotics, similar technical field of study, or equivalent practical experience\nHands-on experience with modern deep learning libraries (eg: TensorFlow, JAX, Pytorch) \nProficient programming skills (eg: Python, C/C++)\nStrong analytical and problem solving skills\n4+ years of experience in Machine Learning modeling and/or Autonomous Vehicles systems\n\nWe prefer:\n\n\n\nMS or PhD in Computer Science, Machine Learning, Robotics, or a related field\nPublications in top-tier conferences such as ICML, NeurIPS,  CVPR, ICCV, ECCV, ICLR, IROS, CoRL, ACL, or EMNLP\nPrior software development or ML research industry experience (including internships)\nGeneral software engineering experience solving motion planning or related robotics problems\nExperience applying or evaluating ML-based systems in production environments\nExperience with performance optimization of deep models, including with respect to specific hardware architectures\n\n \n\n\n\nThe expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process. \n\n\nWaymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements. \n\n\n\nSalary Range\n$213,000—$263,000 USD",
+      "apply_options": [
+        {
+          "title": "Waymo Careers",
+          "link": "https://careers.withwaymo.com/jobs/senior-machine-learning-engineer-predictive-planner-systems-arch-mountain-view-california-united-states-san-francisco?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer.de",
+          "link": "https://www.experteer.de/career/view-jobs/senior-machine-learning-engineer-predictive-planner-systems-arch-mountain-view-ca-usa-59409523?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-machine-learning-engineer-predictive-planner-systems-arch-waymo-mountain-view-ca_88795492?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-machine-learning-engineer-predictive-planner-systems-arch-mountain-view-ca--178e3023-c995-4d4d-85d2-c08f93431e5b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-predictive-planner-systems-arch-at-waymo-4464802820?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Resumly AI Resume Builder",
+          "link": "https://www.resumly.ai/jobs/6aa3d337c2aa216f05e2e64c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Neura Market",
+          "link": "https://www.neura.market/jobs/senior-machine-learning-engineer-predictive-planner-systems-arch-at-waymo-kbd86bhz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/unity/mountain-view/machine-learning-engineer-next-generation-recommendation-systems-132259740/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciwgUHJlZGljdGl2ZSBQbGFubmVyLCBTeXN0ZW1zIEFyY2giLCJjb21wYW55X25hbWUiOiJXYXltbyIsImh0aWRvY2lkIjoibEY1bWFZb1J2eWdBdkxnTUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlUVldiMDV0TTJwNWRqTlZURU5WUmpsdWMycDBWVEUxYVVaeFVHeE5ZbHBOVUhCSlRIcElha2xaZHpWWU1qVkpWMVJxY1ZSVFlWaFFNbkJFVFUwNFRsaE1jRWN3WWtjMWNrRTRTSFJzV0hWbVh6bHlTbVIyV1c1bU4wMHpUR1JZY25jNGVqRktRVFpWWTBsMVRtOWZMVWhxWTBwdk9GQTBNR2xoWWpKeVNEUlllRE5zYzBJU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRITmpsRk4weE5ZMnhaVVZkV2N6VXdWSEZhYTJOaFRYQjZOREYzIiwiZmN2IjoiMyIsImZjX2lkIjoibEY1bWFZb1J2eWdBdkxnTUFBQUFBQT09In0="
+    },
+    {
+      "title": "AI/ML Engineer - TS/SCI",
+      "company_name": "Parsons Corporation",
+      "location": "Arlington, VA",
+      "via": "Parsons Careers - Parsons Corporation",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Active TS/SCI security clearance",
+            "Bachelor’s degree in Computer Science, Data Science, Artificial Intelligence, Engineering, or related field",
+            "Minimum 5 years of experience in machine learning, AI engineering, software engineering, or a related technical field",
+            "Hands-on experience developing and deploying machine learning or AI solutions in production environments",
+            "Experience developing AI/ML APIs, services, or application integrations",
+            "Proficiency in Python and experience with modern AI/ML frameworks and libraries",
+            "Experience with MLOps and machine learning lifecycle management",
+            "Experience with Databricks, including MLflow and/or Databricks Workflows",
+            "Experience developing, orchestrating, and monitoring production AI/ML workflows",
+            "Strong understanding of model evaluation, validation, monitoring, and performance optimization",
+            "7 years of related work experience",
+            "An active Top Secret SCI security clearance is required for this position.​"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary Range: $103,500.00 - $181,100.00",
+            "We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will design, develop, and operationalize AI/ML capabilities within Maven Smart System (MSS) Foundry, enabling automated processing and intelligent management of lessons-learned data",
+            "You will develop agentic AI workflows, production-grade APIs and services, and MLOps capabilities that enable AI models to be deployed, monitored, validated, and continuously improved within secure DoD environments",
+            "Design and implement AI agentic workflows that automate classification, summarization, enrichment, and intelligent routing of lessons-learned information",
+            "Develop and integrate AI/ML capabilities within MSS Foundry applications and supporting mission systems",
+            "Design, develop, and maintain robust APIs and services that enable AI capabilities to interact with Foundry applications, data platforms, and external systems",
+            "Leverage Databricks MLOps capabilities, including MLflow and Databricks Workflows, to support model lifecycle management, orchestration, experimentation, and deployment",
+            "Develop automated processes for model validation, evaluation, monitoring, and continuous improvement of AI/ML capabilities",
+            "Design scalable AI/ML solutions capable of operating reliably in production environments",
+            "Integrate structured and unstructured data sources to support AI-enabled mission workflows",
+            "Collaborate with software engineers, data engineers, mission stakeholders, and other technical teams to translate operational requirements into AI/ML solutions",
+            "Monitor production AI/ML systems and troubleshoot performance, reliability, and integration issues",
+            "Apply responsible AI, security, data governance, and model management practices appropriate for secure DoD environments"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=s1RTJPNkjfNHqDjFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nON3gJJqI4KJTKCIVBaHiWtJypJF4F-4y9D_8YevyeMt71XdRGdfY-w3OFCIhCmzh2dq2bma5cg-KXoYRmODCHBIuT2MpWY_WqiYTtPgSBzPwxzJhz5N9c69_dDp6wZx8wW5_2E0mU1ivHl6USaFmySxzO48jgZMUKRSmDbzcD_DGX1-WAAAA&shmds=v1_Ac3VAozAuIcmrmJfWvF9HnR-IhccZW9sQ0RtGekocA4qSt1jhA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=s1RTJPNkjfNHqDjFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAulBMVEUIHTEADygAGi8AFCsAGC4AGy94fIEoM0L___8GGTEAABEGGjEIGCMIFB0IEh0IEB4IFigIGioETq4DZMYDbcEDdsEGU4AEbrcDfcIBneMArvIHIzg5Qk4UIzVaX2cAAB1kaXFtcHcvOUYgLT4HKz8HNk4Dk8YAt_MAACKMkJbb29y9v8KvsbQAAAv09PXOz9CipKgBotgIDCDn6OgYPzNEwGkmfVwBOloHP1lIUFsbRTFWyy8eTS0AETHKZ_RJAAAA10lEQVQ4je3Qy3LCIBSA4XPgFGPU1t60tRFLUhsDFmJML3h5_9dqdI8LNy7MPwyHYeZbAEBb28XqD27vhme4-4fHp-fREAiREQdEzg4LCYmau5sTcvzyOnmjRIhpImdKyEy8MyE6Kk0SJbKwrD7mn_l8UWiz1PYrKqxbO2NKbdels1phyOFokuerCgtrTCOi0gpnnVs6q6LSabMIuG79_fP7VwFL09hTLH3sM-lnUoKvfKcZLAQ32x0ePpUREANOwBnnwJv9eAo56NX1Pvj8k_W657m2q-wfJCITjJRbzDYAAAAASUVORK5CYII.png",
+      "extensions": [
+        "4 days ago",
+        "104K–181K a year",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://jobs.parsons.com/jobs/ai-ml-engineer-ts-sci-arlington-r-187858-jobs--software-development--",
+      "job_title": "AI/ML Engineer - TS/SCI",
+      "description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next!\n\n \n\nAt Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible. \n\nJob Description:\n\nParsons is looking for a highly skilled ML/AI Engineer to join our Joint Staff Chief Digital and Artificial Intelligence Office (CDAO) team. In this role, you will design, develop, and operationalize AI/ML capabilities within Maven Smart System (MSS) Foundry, enabling automated processing and intelligent management of lessons-learned data. You will develop agentic AI workflows, production-grade APIs and services, and MLOps capabilities that enable AI models to be deployed, monitored, validated, and continuously improved within secure DoD environments.\n\nWhat You'll Be Doing:\n\nDesign and implement AI agentic workflows that automate classification, summarization, enrichment, and intelligent routing of lessons-learned informationDevelop and integrate AI/ML capabilities within MSS Foundry applications and supporting mission systemsDesign, develop, and maintain robust APIs and services that enable AI capabilities to interact with Foundry applications, data platforms, and external systemsLeverage Databricks MLOps capabilities, including MLflow and Databricks Workflows, to support model lifecycle management, orchestration, experimentation, and deploymentDevelop automated processes for model validation, evaluation, monitoring, and continuous improvement of AI/ML capabilitiesDesign scalable AI/ML solutions capable of operating reliably in production environmentsIntegrate structured and unstructured data sources to support AI-enabled mission workflowsCollaborate with software engineers, data engineers, mission stakeholders, and other technical teams to translate operational requirements into AI/ML solutionsMonitor production AI/ML systems and troubleshoot performance, reliability, and integration issuesApply responsible AI, security, data governance, and model management practices appropriate for secure DoD environmentsWhat Required Skills You'll Bring:\n\nActive TS/SCI security clearanceBachelor’s degree in Computer Science, Data Science, Artificial Intelligence, Engineering, or related fieldMinimum 5 years of experience in machine learning, AI engineering, software engineering, or a related technical fieldHands-on experience developing and deploying machine learning or AI solutions in production environmentsExperience developing AI/ML APIs, services, or application integrationsProficiency in Python and experience with modern AI/ML frameworks and librariesExperience with MLOps and machine learning lifecycle managementExperience with Databricks, including MLflow and/or Databricks WorkflowsExperience developing, orchestrating, and monitoring production AI/ML workflowsStrong understanding of model evaluation, validation, monitoring, and performance optimization7 years of related work experienceWhat Desired Skills You'll Bring:\n\nExperience with Palantir Foundry / MSS FoundryExperience developing AI agents, agentic workflows, or LLM-powered applicationsExperience with LLMs, prompt engineering, retrieval-augmented generation (RAG), embeddings, vector databases, or similar generative AI technologiesExperience applying AI/ML to classification, summarization, information extraction, recommendation, or intelligent routingExperience integrating AI/ML capabilities into Foundry applicationsExperience with Databricks Model Serving, Feature Engineering, MLflow, or Unity CatalogExperience with REST APIs, microservices, and cloud-native application architecturesExperience supporting Joint Staff or DoD operational missionsFamiliarity with DoD AI/ML governance, responsible AI, data security, and compliance requirementsExperience working with structured and unstructured operational dataAdvanced degree or certifications in AI/ML, data science, cloud, or related technical disciplines\n\nSecurity Clearance Requirement:\n\nAn active Top Secret SCI security clearance is required for this position.​\n\n\n\nThis position is part of our Federal Solutions team.\n\n\n\nThe Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what’s next to deliver the solutions our customers need now.\n\n\n\nSalary Range: $103,500.00 - $181,100.00\n\n\n\n\n\n\n\nWe value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!\n\n\n\n\n\n\n\n\n\n\n\nParsons is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, veteran status or any other protected status.\n\n\n\nWe truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY!\n\nParsons is aware of fraudulent recruitment practices. To learn more about recruitment fraud and how to report it, please refer to https://www.parsons.com/fraudulent-recruitment/.",
+      "apply_options": [
+        {
+          "title": "Parsons Careers - Parsons Corporation",
+          "link": "https://jobs.parsons.com/jobs/ai-ml-engineer-ts-sci-arlington-r-187858-jobs--software-development--?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/ai-ml-engineer_7ea1a2f8c65da4820b976a092a095ef74f72e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/parsons/Job/AI-ML-Engineer-TS-SCI-with-Security-Clearance/-in-Arlington,VA?jid=c2cbcc0f043aaf31&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/ai-ml-engineer-ts-sci-parsons-arlington-va_89551162?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-ts-sci-at-parsons-corporation-4483780174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/8e1b7fd6-4e2d-4435-a8d8-2c5291abd8c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/3f1a56c3-ea18-433a-8bc3-dc17eb0db627?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/ai-ml-engineer-ts-sci-parsons-corporation-arlington--fj-2433987919?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBFbmdpbmVlciAtIFRTL1NDSSIsImNvbXBhbnlfbmFtZSI6IlBhcnNvbnMgQ29ycG9yYXRpb24iLCJodGlkb2NpZCI6InMxUlRKUE5ramZOSHFEakZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVGR5Y0c5a2EycDRkMnhxWmpaVGVIQkRObEpJYUdJek1qaHpXRTk0UlVwTVZXcERPRlZuVVRSRFMyTkJNekkzVDNoWVRuZGxTMTlCY1RkRlMwY3lRemhLWldSWVJ6Y3hhRTFvTFdKUVExcFJlV2x3VDE5cFVuWkRTbmxvZUZSeFlqWndZV1ZDYlVvM2NteGtURVZEVm5ORFpYTjBka0pJTW1KaGMwZG9aRFpsWjI1VWFVNFNGM05uWm14aGRtRnJSMDFUUTNkaWExQTRYMHhyYzBGTkdpSkJTRTR3UlRkSWFuZGtaamc1WmtSaGEyMDJXbUl4YW13d1JFTnBWRXhKU0hGQiIsImZjdiI6IjMiLCJmY19pZCI6InMxUlRKUE5ramZOSHFEakZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Vector Bidding Science",
+      "company_name": "Unity Technologies SF",
+      "location": "Bellevue, WA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Hands-on experience in state-of-the-art machine learning, reinforcement learning, and control theory to complex, real-world bidding or pricing problems",
+            "Strong software engineering skills in Python and experience with deep learning frameworks, preferably PyTorch",
+            "Solid understanding of metric design, online experimentation frameworks (A/B testing), and large-scale data analysis",
+            "Proven ability to lead projects end-to-end and deliver measurable business impact in an ambiguous technical landscape",
+            "Experience working with large datasets and distributed computing frameworks (e.g., Spark, Ray, BigQuery, Flink)",
+            "Experience building real-time ad systems, specifically in DSP (Demand-Side Platform) bidding logic, survival analysis for market price estimation, or game-theoretic modeling",
+            "Experience leveraging AI tools (such as Claude Code, GitHub Copilot, and Cursor) to accelerate development",
+            "This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Gross Annual Salary: $148,700 - $244,600 USD",
+            "This range reflects the anticipated base salary for this position",
+            "Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions)",
+            "The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set",
+            "We offer a wide range of benefits designed to support well-being and work-life balance",
+            "Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status",
+            "While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will define the technical vision and architect the next generation of scalable real-time bidding systems powered by cutting-edge AI, marketplace intelligence, and advanced optimization frameworks",
+            "As a key member of the Vector AI org, you will play a pivotal role in advancing Unity’s high-scale ads engine",
+            "By harnessing massive datasets and rich signals, you will develop state-of-the-art bidding and pacing algorithms that automatically maximize advertisers’ returns",
+            "Design, implement, and optimize core bidding algorithms and auction mechanisms",
+            "Architect and scale bid landscape forecasting capabilities",
+            "Analyze large-scale marketplace dynamics to uncover deep insights and deliver algorithmic improvements",
+            "Drive offline evaluations and online A/B experiments to validate model performance and deliver measurable business impact",
+            "Collaborate cross-functionally with product, infrastructure, and engineering teams"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Machine+Learning+Engineer&htidocid=QhEEvS3Rp2b-jJ5MAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWKPQvCMBBAce1PcLrFRbQRwUUnCyqI4lA_xpKmR3IS70oSpf4w_5_t8uDxXvYbZZcSmSTAWRtHjHBCHZjYwo5t7xhmcEeT-qOgphlCaQjZIMzhKDXE_jcOhOEgYj2ONy6lNq6VitHnNiadyORGXkoYa-nUU-o4oIpOB2y9TlgtV4sub9lOJzem9IUrGsfixRJGKPdADAV6j583zuCx_QOKANj4uAAAAA&shmds=v1_Ac3VAox80zMITxsZbN3hgRuIM0KAhg6-dRzGThMIi6QtYppF7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Machine+Learning+Engineer&htidocid=QhEEvS3Rp2b-jJ5MAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae507b26a1f1177e00157de/images/gjXqZEUltQzF_ToA9gvBxSq_y3GKLdUtMBkV8T6tIdY.jpeg",
+      "extensions": [
+        "149K–245K a year",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=cffd94dfe7503ee1",
+      "job_title": "Senior Machine Learning Engineer, Vector Bidding Science",
+      "description": "The opportunity\n\n   We are looking for a Senior Machine Learning Engineer to join our Vector Bidding Science team. In this role, you will define the technical vision and architect the next generation of scalable real-time bidding systems powered by cutting-edge AI, marketplace intelligence, and advanced optimization frameworks.\n\n\n As a key member of the Vector AI org, you will play a pivotal role in advancing Unity’s high-scale ads engine. By harnessing massive datasets and rich signals, you will develop state-of-the-art bidding and pacing algorithms that automatically maximize advertisers’ returns.\n\n\n \n\n    What you’ll be doing\n\n\n \n  Design, implement, and optimize core bidding algorithms and auction mechanisms\n  Architect and scale bid landscape forecasting capabilities\n  Analyze large-scale marketplace dynamics to uncover deep insights and deliver algorithmic improvements\n  Drive offline evaluations and online A/B experiments to validate model performance and deliver measurable business impact\n  Collaborate cross-functionally with product, infrastructure, and engineering teams\n \n \n\n    What we’re looking for\n\n\n \n  Hands-on experience in state-of-the-art machine learning, reinforcement learning, and control theory to complex, real-world bidding or pricing problems\n  Strong software engineering skills in Python and experience with deep learning frameworks, preferably PyTorch\n  Solid understanding of metric design, online experimentation frameworks (A/B testing), and large-scale data analysis\n  Proven ability to lead projects end-to-end and deliver measurable business impact in an ambiguous technical landscape\n \n \n\n    You might also have\n\n\n \n  Experience working with large datasets and distributed computing frameworks (e.g., Spark, Ray, BigQuery, Flink)\n  Experience building real-time ad systems, specifically in DSP (Demand-Side Platform) bidding logic, survival analysis for market price estimation, or game-theoretic modeling\n  Experience leveraging AI tools (such as Claude Code, GitHub Copilot, and Cursor) to accelerate development\n \n \n\n    Additional information\n\n\n Gross Annual Salary: $148,700 - $244,600 USD\n\n\n\n \n\n This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set.\n\n\n \n\n    Benefits\n\n\n \n\n   At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance.\n\n\n \n\n   Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.\n\n\n \n\n   While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program\n\n\n \n\n    Life at Unity\n\n\n \n\n   Unity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.\n\n\n \n\n    Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.\n\n\n \n\n    This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.\n\nThis posting is intended to fill an existing vacancy, and we are committed to providing applicants with updates throughout the hiring process in accordance with applicable law.\n\n\n \n\n    Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.\n\nYour privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPO@unity.com.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=cffd94dfe7503ee1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/unitytech/Job/Senior-Machine-Learning-Engineer,-Vector-Bidding-Science/-in-Bellevue,WA?jid=893f13a775089237&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-machine-learning-engineer-vector-bidding-science-bellevue-wa--fe75922c-691f-42f6-a0b2-df868bcb365c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-vector-bidding-science-at-unity-4471534894?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/senior-machine-learning-engineer-vector-bidding-science--bellevue--ec33659eb00af1b9ce806ba67d36ec9c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-machine-learning-engineer-vector-bidding-science-unitytechnologies-bellevue-wa_89533726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2430192552708669440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciwgVmVjdG9yIEJpZGRpbmcgU2NpZW5jZSIsImNvbXBhbnlfbmFtZSI6IlVuaXR5IFRlY2hub2xvZ2llcyBTRiIsImh0aWRvY2lkIjoiUWhFRXZTM1JwMmItako1TUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYWmpUMUpKYUhjeU1GbEpia3hFTm5OMWMycE9NbmRyVURCWFZsOUplbVJhYUVjd2IxTnpibHBJWkhWTmRuQmhTbWhQUTNScVltTjBlVGt3ZVRaaVZrRlNlbVF0V0doaGRIb3lSbTAzWmpWcVZ6aEpZazl3WlZKcVVGUXplbXRCUWtoWmVHWkNPV2QyTWpWbFR5MVBRWEpxUWpRMGNsSlNObGRLTnpKak1YbDJVRXRWVmswU0YzTm5abXhoZG1GclIwMVRRM2RpYTFBNFgweHJjMEZOR2lKQlNFNHdSVGRHZUhkTFFUaHJOalkyTjBOaVFuVnllRGhhY0MxNFFrMXJUMnAzIiwiZmN2IjoiMyIsImZjX2lkIjoiUWhFRXZTM1JwMmItako1TUFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0ZDc3dFUVVSRVlsZGxXWE01VlRWQ1RWazViRmRuUlUxelp5MWFkekk0ZERFemNuY3ljakpoVjJoRldpMHhWRWQyTkUxT1QwcE5iamhxYnpaSFRuUlZRMGsyVFdsbWVHZGZZVUk0Tmpock9VWlpTbVozVEZwb1NIZG9VME5QU1ZWMGFUWnVNV2xJVFdVMVJFa3plRnBTZFVaT01scEdNRkY0VDJSSFNYWmZNMFpPZUVZMmQyWjZTVUZyUVZCUVFpMVVkVzh6WWt0QmN6VXRTMDA0VWxCU1ZFTjFTa2cwVms1TVVVdEZiRmRHTlVGS1QyWlpRMjVoVEdKM05qa3RRV0UxTm1Rd1FreG9hMXB5ZURaSFJsWXlPV3hQZUhocWQxWkRiekpZZEVKUmNXNXFTbGcxU0drNGVFbElSVGxRWVVkWU1HbGFVV2xJYVhWeE5VWlBlSFozVm01NmVqUktRV0pKUlZOc01VczVaelJ6WkVKT09EbDBkbmt6YUVjeVpYUnRibGhXUzFReFZFMW9Ta1J0ZEdKVWN6QnBWMDFUUXkxUFMxQk1ibkZrTWxSeVZrNUlSMTlwVG1sQmNVRnZlVUY1UVhZemNIUlRSM05GWDFkM00wUTNaakJKYmxWWFpucENSWEJXUVMxc09ESkJNMHRMYURVdFptbGlXRWR6YTBOVlJWYzNVM1ZmUkVkNVVsZE9TMFY2VFhoclF6aExiRE5EY0VwZmEySjJjVTEzUmxoZlRtdHNSMEpYUm05RldWSlNTRzFvV25CSFlsbHRjakJrYUVNNVJrSmlXR1ZRWTFWWU5rTjZXVmQ0UWtOeE1tMHhVV2h4ZG5VME5WZzJUREk1VHpJMFlXWkZWamN4WDNaa1ZXaEpNRVV3ZEhsU1oxVktWa0ZVTjFGcWNHNDBVbDgwWmpGMVNURklOemxaVjFNMWEyRjNTSHBMT1c5V1ltTm1kRU5EV0RCM2FqYzJaWGh4VWtaNGFUbDFaMlJZY0VsbmFFVTJURUZTVEdOYVZYVk1ZVGw2VVhsQ1V6aFRZbTFmUlhWT0VoZHpaMlpzWVhaaGEwZE5VME4zWW10UU9GOU1hM05CVFJvaVFVaE9NRVUzUjBWSk9HNWlPR3RQUVZwQlVra3pWRXMxVUdoamFrWnNkMnhuVVEiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVvd0ZDc3dFUVVSRVlsZGxXWE01VlRWQ1RWazViRmRuUlUxelp5MWFkekk0ZERFemNuY3ljakpoVjJoRldpMHhWRWQyTkUxT1QwcE5iamhxYnpaSFRuUlZRMGsyVFdsbWVHZGZZVUk0Tmpock9VWlpTbVozVEZwb1NIZG9VME5QU1ZWMGFUWnVNV2xJVFdVMVJFa3plRnBTZFVaT01scEdNRkY0VDJSSFNYWmZNMFpPZUVZMmQyWjZTVUZyUVZCUVFpMVVkVzh6WWt0QmN6VXRTMDA0VWxCU1ZFTjFTa2cwVms1TVVVdEZiRmRHTlVGS1QyWlpRMjVoVEdKM05qa3RRV0UxTm1Rd1FreG9hMXB5ZURaSFJsWXlPV3hQZUhocWQxWkRiekpZZEVKUmNXNXFTbGcxU0drNGVFbElSVGxRWVVkWU1HbGFVV2xJYVhWeE5VWlBlSFozVm01NmVqUktRV0pKUlZOc01VczVaelJ6WkVKT09EbDBkbmt6YUVjeVpYUnRibGhXUzFReFZFMW9Ta1J0ZEdKVWN6QnBWMDFUUXkxUFMxQk1ibkZrTWxSeVZrNUlSMTlwVG1sQmNVRnZlVUY1UVhZemNIUlRSM05GWDFkM00wUTNaakJKYmxWWFpucENSWEJXUVMxc09ESkJNMHRMYURVdFptbGlXRWR6YTBOVlJWYzNVM1ZmUkVkNVVsZE9TMFY2VFhoclF6aExiRE5EY0VwZmEySjJjVTEzUmxoZlRtdHNSMEpYUm05RldWSlNTRzFvV25CSFlsbHRjakJrYUVNNVJrSmlXR1ZRWTFWWU5rTjZXVmQ0UWtOeE1tMHhVV2h4ZG5VME5WZzJUREk1VHpJMFlXWkZWamN4WDNaa1ZXaEpNRVV3ZEhsU1oxVktWa0ZVTjFGcWNHNDBVbDgwWmpGMVNURklOemxaVjFNMWEyRjNTSHBMT1c5V1ltTm1kRU5EV0RCM2FqYzJaWGh4VWtaNGFUbDFaMlJZY0VsbmFFVTJURUZTVEdOYVZYVk1ZVGw2VVhsQ1V6aFRZbTFmUlhWT0VoZHpaMlpzWVhaaGEwZE5VME4zWW10UU9GOU1hM05CVFJvaVFVaE9NRVUzUjBWSk9HNWlPR3RQUVZwQlVra3pWRXMxVUdoamFrWnNkMnhuVVEiLCJmY3YiOiIzIn0%3D&q=Machine+Learning+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Machine Learning Engineer",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:10:10.190710+00:00",
+    "request_fingerprint": "0633dc85412bef88b58c4d65d6a59c4e0590d77cd9247e012faad0f4ecf89772",
+    "job_count": 10
+  }
+}

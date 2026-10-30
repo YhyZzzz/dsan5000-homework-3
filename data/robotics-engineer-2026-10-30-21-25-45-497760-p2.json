@@ -1,0 +1,756 @@
+{
+  "search_metadata": {
+    "id": "6ae50b592c7c69fe300cc93f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mg1jtploMCmOSUorcYjIMrPIy6PpCuFEIzg93pRYM8Q/6ae50b592c7c69fe300cc93f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mg1jtploMCmOSUorcYjIMrPIy6PpCuFEIzg93pRYM8Q/6ae50b592c7c69fe300cc93f.md",
+    "created_at": "2026-10-30 21:25:45 UTC",
+    "processed_at": "2026-10-30 21:25:45 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Robotics+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/mg1jtploMCmOSUorcYjIMrPIy6PpCuFEIzg93pRYM8Q/6ae50b592c7c69fe300cc93f.html",
+    "prettify_html_file": "https://serpapi.com/searches/mg1jtploMCmOSUorcYjIMrPIy6PpCuFEIzg93pRYM8Q/6ae50b592c7c69fe300cc93f.prettify",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "q": "Robotics Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZbFJsYW1kT09UVkNNWGhRU0RNM01HUm1ZVzFvU21kWFgyOVBlR05VYm0xM1R6QkZPRjlFYkZOaU16VnBaMmgyU2toV01GcGlXVkZ2UVRCdlozSTNPV1ZJVlRZd00wTlFSRUU1YjFwNVRYWkxNVTR0Y1VWV1EyRkdRVzVRTUc4M2QxZDFPRmgxTUhaR1REbG9Xbk5aUVdjMGQwYzJVVkJuWmpCalRrdFZhRUZtT1docVQycFhNbFZtWVhCWWFGSkhkRkZsTTNGQ1F6SnNjVXBWVkZSSWJUSmlWRk00U0MxR1RVTXlPSEV3TkVScU1scGpkelZwZEZWc0xYSkphSEpDTUhwbE5GaElkbnB1ZDFWMFkxSlNaaloxUlhFMGFFSkhhVXBxY3pGV1lYZzRVVEZuYlVOeWJFSlBZM1JpZURKVGVVUnVSVEJIU214NFJYSTJaakZJUnpaSmFWQmhkbk5ITlcxM1RuWmhjV2c0V0VoTmJrYzVaVjk2WkdsaFZTMUlOelZNYVRoNGRrUm5aaTB6VnpsWFQxVTBOSHBJYWw5Q1RHOUNhVUoxV2tkYVNGWjBRWEJuYm5KVWJERmZjMkkxTjJ0bFZHdEtRVEpXU2xSWk0yUXpRbk5mU1VVeWRISTFiRXhqV0d4UU5FTlNOM3BaUjJOR2RHUk9PVkUyUW1SMldGZFBOVFJJZGtSSWN6bFFTM0V5YWxkc1JYWlJiR0V0TkdWNGQyeFlWRlZPTFVKS01VdEhaSE4xWTB0Qk5VZDBNVWRvZWtkUVYyOXhlbmwwTlVoQ2MyOXZWM2RtVERGWFRFVk1hM05IUVhKb2VFRjRZMk5KVW5aT1MzRmtUWEZ6U0ZodU1HcGxWRmRpYVhKM2EycEhkRTVJTkU5cmRWUldhbFJ1WkdKRVluUlRZVU5PTkVwU2RGRkhjSEJEY0V0d1FsODVPVWxTTUZnMmIydHlaVll6Vm0xSVJWTlNaV2gzUlROVGFVMVpSVlE0RWhkVFFYWnNZVzlRYkUxTmVXZHdkRkZRYmw5eVdqaEJPQm9pUVVoT01FVTNSMjUxYjA5T1NHbFpOak42VG5RemRqaDJZbVYzWTE5amNEWm1adyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Automation & Robotics Software Engineer",
+      "company_name": "One Off Robotics",
+      "location": "Chattanooga, TN",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "4+ years of professional experience in industrial automation or robotics software (senior candidates: 8+ years, with experience owning a system's architecture)",
+            "Hands-on PLC programming experience (Allen-Bradley, Siemens, Beckhoff or similar)",
+            "Strong C# / .NET skills building Windows applications",
+            "A solid grasp of software architecture: clean structure, interfaces between systems, and designing for change",
+            "Comfortable reading electrical schematics and working next to live equipment",
+            "Self-starter who takes ownership, communicates clearly and works well on a small team",
+            "Willing to travel to customer sites for installation and commissioning",
+            "Degree in Computer Science, Computer Engineering, Electrical Engineering, Mechatronics or similar, or equivalent experience",
+            "AI proficiency",
+            "ABB RobotStudio, offline programming or simulation experience",
+            "Industrial communication protocols (EtherNet/IP, PROFINET, Modbus, OPC UA)",
+            "Experience with HMIs, data logging, machine vision or process monitoring",
+            "Experience with motion control, CNC, welding or additive manufacturing",
+            "Source control (Git) and disciplined release practices",
+            "Must be able to lift and move objects up to 50 lbs and work on an active shop floor",
+            "Chattanooga, TN 37405: Relocate before starting work (Required)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Flexible hours",
+            "We're a fast-paced, growing company and expect a full week, typically 40+ hours",
+            "Paid company holidays",
+            "10 days PTO",
+            "As an early-stage company, we don't currently offer health, dental or vision insurance",
+            "Some travel to customer sites",
+            "Pay: $60,000.00 - $120,000.00 per year",
+            "Paid time off",
+            "Parental leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You'll write the software that makes our robotic work cells run, from the PLC and robot controller up to the Windows applications our operators use every day",
+            "You'll work across the whole stack and help shape how our software is architected as we scale from a few systems to many",
+            "Program and maintain PLC logic for cell control, sequencing, I/O and safety interlocks",
+            "Program industrial robots, with a focus on ABB robots",
+            "Design, build and maintain Windows desktop applications in .NET (C#) that integrate with robots, PLCs and process equipment",
+            "Help define and evolve our software architecture so it stays maintainable, testable and scalable",
+            "Commission, debug and support systems on our shop floor and at customer sites",
+            "Work closely with our electrical and mechanical engineers to bring new cells online",
+            "Use AI tools every day to write, review, test and document code faster"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=EB1L35cmlaKNYyl7AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0XNsQrCMBDGcVz7CE4HgoNoI4KLgiAigoMFdZckXJNIe1d6J_Z5fFLj5PJNf35f8RkVu_1LubWamGAKV3asyQvcuNa37RGOFBIh9rCAMzsQtL2PkOMTc2hwvI2qnWyMEWnKIJolX3puDRM6HsyTnfzmITFzXWMVH6v1cig7CrNJRQhVXf9_E8EhWlVLmbdzuF--qXBXmqUAAAA&shmds=v1_Ac3VAoylp5F-IE7Hj8gnYpaaiKmdoMC8uGRBOY-1Upb1Z0r9fg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=EB1L35cmlaKNYyl7AAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "60K–120K a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=d5260a702a191419",
+      "job_title": "Automation & Robotics Software Engineer",
+      "description": "About us\n\n\nOne Off Robotics builds some of the largest robotic metal 3D printing systems in the industry, and we run them as a service. Based in Chattanooga, Tennessee, our team of engineers, designers and builders designs, wires, programs and commissions large-format robotic additive manufacturing work cells, then puts them to work producing real metal parts for customers.\n\n\nThe role\n\n\nYou'll write the software that makes our robotic work cells run, from the PLC and robot controller up to the Windows applications our operators use every day. You'll work across the whole stack and help shape how our software is architected as we scale from a few systems to many.\n\n\nWhat you'll do\n\n\n\n Program and maintain PLC logic for cell control, sequencing, I/O and safety interlocks\n Program industrial robots, with a focus on ABB robots\n Design, build and maintain Windows desktop applications in .NET (C#) that integrate with robots, PLCs and process equipment\n Help define and evolve our software architecture so it stays maintainable, testable and scalable\n Commission, debug and support systems on our shop floor and at customer sites\n Work closely with our electrical and mechanical engineers to bring new cells online\n Use AI tools every day to write, review, test and document code faster\n\nWhat we're looking for\n\n\n\n 4+ years of professional experience in industrial automation or robotics software (senior candidates: 8+ years, with experience owning a system's architecture)\n Hands-on PLC programming experience (Allen-Bradley, Siemens, Beckhoff or similar)\n Industrial robot programming experience; ABB robots and Kuka robots preferred\n Strong C# / .NET skills building Windows applications\n A solid grasp of software architecture: clean structure, interfaces between systems, and designing for change\n Comfortable reading electrical schematics and working next to live equipment\n Self-starter who takes ownership, communicates clearly and works well on a small team\n Willing to travel to customer sites for installation and commissioning\n\nNice to have\n\n\n\n Degree in Computer Science, Computer Engineering, Electrical Engineering, Mechatronics or similar, or equivalent experience\n AI proficiency\n ABB RobotStudio, offline programming or simulation experience\n Industrial communication protocols (EtherNet/IP, PROFINET, Modbus, OPC UA)\n Experience with HMIs, data logging, machine vision or process monitoring\n Experience with motion control, CNC, welding or additive manufacturing\n Source control (Git) and disciplined release practices\n\nThe details\n\n\n\n Full-time, on-site in Chattanooga, TN. This role is not remote.\n Salaried. Please include your desired salary with your application.\n Flexible hours. We're a fast-paced, growing company and expect a full week, typically 40+ hours.\n Paid company holidays\n 10 days PTO\n As an early-stage company, we don't currently offer health, dental or vision insurance\n Some travel to customer sites\n Must be able to lift and move objects up to 50 lbs and work on an active shop floor\n\nTo apply or see other job listings, please see our website.\n\n\nOne Off Robotics is an equal opportunity employer. We welcome applicants of all backgrounds.\n\n\nPay: $60,000.00 - $120,000.00 per year\n\n\nBenefits:\n\n\n\n Paid time off\n Parental leave\n\nAbility to Relocate:\n\n\n\n Chattanooga, TN 37405: Relocate before starting work (Required)\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=d5260a702a191419&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/automation-robotics-software-engineer-at-one-off-robotics-4484216502?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/automation-robotics-software-engineer--chattanooga--e7a6f8e6bf2292fa84b6953fb2d5a69c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/automation-robotics-software-engineer-one-off-robotics-chattanooga--fj-2435708173?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIFx1MDAyNiBSb2JvdGljcyBTb2Z0d2FyZSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6Ik9uZSBPZmYgUm9ib3RpY3MiLCJodGlkb2NpZCI6IkVCMUwzNWNtbGFLTll5bDdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbGhXTUZwSE5uQnlOa0ZKYWtaUlpVTlpaVnBEWVdsYU0yOTRlRXh6ZGpkV1VqWlBTSFJtYmxsYVFuQm5WVUZCYVZCbWJXSldNWHAzZEhadGVHSmxWVUZaZUVwd2RXaG1WVGRTWm5jM2RFOVVXa010YVdodlpsRlVRMDlmU2tsc2NteEpkalpIVEdWcU56WnRlVkZ2T0VGQ2VXTktOWEJqVkVWMlJURTFTelJQTUd4eE5tY1NGMWRSZG14aGN6SnlUVFJ5ZUhsamExQXdOamRmZVVGWkdpSkJTRTR3UlRkSWNYaFFUMjlUWXpRME4wTmhZa28zTW5ONlNEQndaVGRWU0RkQiIsImZjdiI6IjMiLCJmY19pZCI6IkVCMUwzNWNtbGFLTll5bDdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Robotics Engineer (Universal Robots, India)",
+      "company_name": "Teradyne",
+      "location": "North Reading, MA",
+      "via": "Teradyne Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's or Master's degree in Robotics, Computer Science, Mechatronics, Electrical Engineering, or a related technical field",
+            "2+ years of professional software engineering experience, with meaningful time spent working on robotics systems",
+            "Strong programming proficiency in Python and C++, with a demonstrated ability to write production-quality, maintainable code",
+            "Hands-on experience with ROS or ROS2, including building nodes, working with the middleware, and integrating with robot hardware or simulators",
+            "Practical experience with at least one robotics simulation environment (e.g",
+            "Gazebo, Isaac Sim, MuJoCo, Webots, or CoppeliaSim)",
+            "Experience building and maintaining software infrastructure: APIs, services, containerisation, and CI/CD pipelines",
+            "Comfortable working in a Linux environment with version control, automated testing, and modern development workflows",
+            "Proficiency required in at least five of the following qualifications:",
+            "GPU-accelerated simulation and rendering, including experience with CUDA or NVIDIA Isaac Sim / Omniverse",
+            "Physics engines and their tuning for contact-rich or high-fidelity robotic interaction (PhysX, Bullet, ODE, MuJoCo)",
+            "Cloud infrastructure and orchestration — AWS, Azure, or GCP, with Docker and Kubernetes",
+            "Mobile robotics concepts including SLAM, navigation stacks, path planning, and fleet management",
+            "Manipulator robotics including motion planning, trajectory generation, and collision checking",
+            "3D geometry, scene representation, and asset pipelines (USD, URDF, SDF, mesh processing)",
+            "Multi-agent or fleet-scale simulation and the coordination challenges it introduces",
+            "Backend service development and distributed systems design",
+            "Data pipelines and time-series or large-scale sensor data handling",
+            "Machine learning workflows and experience deploying trained models into production systems",
+            "Digital twin development and sim-to-real validation methodologies",
+            "Real-time systems, embedded software, or robot firmware development",
+            "Candidates should demonstrate ambition, organizational skills, and adaptability",
+            "Independence, initiative, responsibility, and ownership are vital",
+            "A pragmatic approach, commitment to continuous learning, and dedication to work quality are expected"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Empowerment — Ownership of your work and the products you help create; we trust our engineers to make informed decisions that benefit the organisation",
+            "Health insurance and additional benefits",
+            "On-site collaboration with co-located product and software teams, fostering strong working relationships and rapid feedback"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will join a team of talented and passionate engineers developing, testing, and optimizing the software and firmware running on our various robot platforms",
+            "As a Robotics Engineer on the Simulation team, you will build the pipelines and infrastructure that let us simulate UR cobots and MiR mobile robots at scale — before a single unit is deployed on a customer floor",
+            "Simulation is central to how we reduce integration time, validate fleet behaviour, and let customers model their own environments and workflows ahead of deployment",
+            "You will work with ROS2, physics engines, and GPU-accelerated simulation to turn real robotic systems into faithful virtual ones, and you will build the tooling, services, and pipelines that make those simulations reliable, repeatable, and fast",
+            "You will collaborate closely with research scientists working on world models and 3D scene generation, with application engineers who understand real customer deployments, and with the wider R&D organization in Denmark and Bangalore",
+            "Design, build, and maintain the simulation pipeline and supporting infrastructure used to model UR and MiR robot platforms in virtual environments",
+            "Develop and maintain accurate robot models — kinematics, dynamics, sensors, and controllers — ensuring simulated behaviour faithfully reflects real hardware",
+            "Implement and optimise ROS2-based integrations so simulated robots interoperate seamlessly with the same software stack that runs on physical systems",
+            "Build scalable simulation infrastructure across cloud and on-premises GPU environments, including job orchestration, environment versioning, and resource management",
+            "Develop tooling and services that allow engineers, application teams, and customers to configure, launch, monitor, and analyse simulation runs",
+            "Build capabilities for importing customer models and environments, and for creating custom scenarios and workflows",
+            "Contribute to multi-agent simulation supporting fleet-level coordination, zone layout, and multi-robot interaction scenarios",
+            "Establish automated testing, validation, and benchmarking frameworks that measure simulation fidelity and tie results to integration time and fleet performance",
+            "Work with research scientists to integrate world models and generated 3D scenes into production simulation workflows",
+            "Write clean, well-tested, and documented code, and participate actively in code reviews to uphold engineering standards across the team",
+            "Contribute to CI/CD pipelines and deployment tooling that keep simulation systems reliable and continuously validated",
+            "Partner with product, application, and customer-facing teams to translate real deployment challenges into simulation capabilities",
+            "Solid understanding of robotics fundamentals — kinematics, dynamics, control, coordinate transforms, and sensor modelling"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=UZ0gTwJXL0_8TpDpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3MvwrCMBCAcVz7CIJwo0ptRHDRSUFEQYeis1zaI4nEu5ILUt_GR_XP8i0_-Ir3oNjWYiWHRmHHLjBRgvGVw5OSYoQ_agkHbgNOYAZHsaCEqfEgDHsRF2m49jl3ujJGNVZOM35_VSMPI0xWenMXq7_c1GOiLmKm22I576uO3XR0oYTtiwkCw1lS9lATtoFdCafNB1Edcm6jAAAA&shmds=v1_Ac3VAozQeU_i4D0or6w73TtFcJZITtSJMVDofAx-C_AJ7lC4Jw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=UZ0gTwJXL0_8TpDpAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://jobs.teradyne.com/Universal-Robots/job/Bangalore-Robotics-Engineer-%28Universal-Robots%2C-India%29/1422289400/",
+      "job_title": "Robotics Engineer (Universal Robots, India)",
+      "description": "Our Purpose TERADYNE, where experience meets innovation and driving excellence in every connection. We are fueled by creativity and diversity of thought and in our workforce. Our employees are supported to innovate and learn something new every day. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.   Universal Robots, part of Teradyne Robotics, is the world market leader in collaborative robots (cobots), making products that empower our customers and positively transform the way they work. Teradyne Robotics is a division of Teradyne and includes Universal Robots and Mobile Industrial Robots (MiR). Our global R&D organization of 200+ engineers builds the software and systems behind every cobot we ship. Opportunity Overview You will join a team of talented and passionate engineers developing, testing, and optimizing the software and firmware running on our various robot platforms. As a Robotics Engineer on the Simulation team, you will build the pipelines and infrastructure that let us simulate UR cobots and MiR mobile robots at scale — before a single unit is deployed on a customer floor. Simulation is central to how we reduce integration time, validate fleet behaviour, and let customers model their own environments and workflows ahead of deployment.   This is a hands-on engineering role sitting at the intersection of robotics and software infrastructure. You will work with ROS2, physics engines, and GPU-accelerated simulation to turn real robotic systems into faithful virtual ones, and you will build the tooling, services, and pipelines that make those simulations reliable, repeatable, and fast. You will collaborate closely with research scientists working on world models and 3D scene generation, with application engineers who understand real customer deployments, and with the wider R&D organization in Denmark and Bangalore.   Your responsibilities and tasks include:   Design, build, and maintain the simulation pipeline and supporting infrastructure used to model UR and MiR robot platforms in virtual environments.   Develop and maintain accurate robot models — kinematics, dynamics, sensors, and controllers — ensuring simulated behaviour faithfully reflects real hardware.   Implement and optimise ROS2-based integrations so simulated robots interoperate seamlessly with the same software stack that runs on physical systems.   Build scalable simulation infrastructure across cloud and on-premises GPU environments, including job orchestration, environment versioning, and resource management.   Develop tooling and services that allow engineers, application teams, and customers to configure, launch, monitor, and analyse simulation runs.   Build capabilities for importing customer models and environments, and for creating custom scenarios and workflows.   Contribute to multi-agent simulation supporting fleet-level coordination, zone layout, and multi-robot interaction scenarios.   Establish automated testing, validation, and benchmarking frameworks that measure simulation fidelity and tie results to integration time and fleet performance.   Work with research scientists to integrate world models and generated 3D scenes into production simulation workflows.   Write clean, well-tested, and documented code, and participate actively in code reviews to uphold engineering standards across the team.   Contribute to CI/CD pipelines and deployment tooling that keep simulation systems reliable and continuously validated.   Partner with product, application, and customer-facing teams to translate real deployment challenges into simulation capabilities.     All About You We seek individuals who share our passion and determination. Our commitment to customer success drives us to go the extra mile. If you're ready to join us in this mission, take a closer look at the minimum criteria for the position. We value diversity in culture, competence, and experience. We expect you to bring a number of qualifications to be considered for this role.   Mandatory Qualifications:   Bachelor's or Master's degree in Robotics, Computer Science, Mechatronics, Electrical Engineering, or a related technical field.   2+ years of professional software engineering experience, with meaningful time spent working on robotics systems.   Strong programming proficiency in Python and C++, with a demonstrated ability to write production-quality, maintainable code.   Hands-on experience with ROS or ROS2, including building nodes, working with the middleware, and integrating with robot hardware or simulators.   Practical experience with at least one robotics simulation environment (e.g. Gazebo, Isaac Sim, MuJoCo, Webots, or CoppeliaSim).   Solid understanding of robotics fundamentals — kinematics, dynamics, control, coordinate transforms, and sensor modelling.   Experience building and maintaining software infrastructure: APIs, services, containerisation, and CI/CD pipelines.   Comfortable working in a Linux environment with version control, automated testing, and modern development workflows.     Proficiency required in at least five of the following qualifications:   GPU-accelerated simulation and rendering, including experience with CUDA or NVIDIA Isaac Sim / Omniverse.   Physics engines and their tuning for contact-rich or high-fidelity robotic interaction (PhysX, Bullet, ODE, MuJoCo).   Cloud infrastructure and orchestration — AWS, Azure, or GCP, with Docker and Kubernetes.   Mobile robotics concepts including SLAM, navigation stacks, path planning, and fleet management.   Manipulator robotics including motion planning, trajectory generation, and collision checking.   3D geometry, scene representation, and asset pipelines (USD, URDF, SDF, mesh processing).   Multi-agent or fleet-scale simulation and the coordination challenges it introduces.   Backend service development and distributed systems design.   Data pipelines and time-series or large-scale sensor data handling.   Machine learning workflows and experience deploying trained models into production systems.   Digital twin development and sim-to-real validation methodologies.   Real-time systems, embedded software, or robot firmware development.     Personal Attributes Candidates should demonstrate ambition, organizational skills, and adaptability. Independence, initiative, responsibility, and ownership are vital. A pragmatic approach, commitment to continuous learning, and dedication to work quality are expected.   What We Offer At Universal Robots we set a high bar and in return we provide an exciting career in a fast-growing, technology-driven company where you work alongside skilled and talented colleagues from around the world.   Global team, local impact — Be part of a world-class R&D organisation managed from Denmark while making a tangible difference from our Bangalore office every day.   Growth and development — A manager with continuous focus on team spirit, employee development, and skill building.   Empowerment — Ownership of your work and the products you help create; we trust our engineers to make informed decisions that benefit the organisation.   Health insurance and additional benefits.   On-site collaboration with co-located product and software teams, fostering strong working relationships and rapid feedback       We are only considering candidates local to position location and are unable to provide relocation for this position.   This position is not eligible for visa sponsorship.",
+      "apply_options": [
+        {
+          "title": "Teradyne Careers",
+          "link": "https://jobs.teradyne.com/Universal-Robots/job/Bangalore-Robotics-Engineer-%28Universal-Robots%2C-India%29/1422289400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=6f8acf741988a44d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/optical-system-engineer-iii-amazon-robotics-amazon-north-reading-xuowy1b8wo8jrof3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Amazon/Job/Optical-System-Engineer-III,-Amazon-Robotics/-in-North-Reading,MA?jid=f5e4b3ec24661e01&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/robotics-deployment-engineer-ii-tech-deployment-amazon-JV_IC1154650_KO0,47_KE48,54.htm?jl=1010264799945&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/amazon/north-reading/optical-system-engineer-iii-amazon-robotics-141719241/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/ngKMloGd-h9R4Y3s9mdx7UHkvuK6GGtL_WWHrxBvOfW7hAoJ_imwFQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/senior-robotics-simulation-engineer-high-performance-physics--north-reading--e932f8ceefe657a1af246fb3a197364ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciAoVW5pdmVyc2FsIFJvYm90cywgSW5kaWEpIiwiY29tcGFueV9uYW1lIjoiVGVyYWR5bmUiLCJodGlkb2NpZCI6IlVaMGdUd0pYTDBfOFRwRHBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVGRWWVhaUWVETllhMjlTWTFwb1YwaFVWbk5oVTBOUVJHSmZSSFl5VUhacFZVeDNTbWMyZDNCTGJERnZTUzA1U2kxRFZIcGFXbWRhUjBOT2NtWm5jWHBIT0dWbVJrRTJNV0Z5TjBGVVJsTjZTbU5XT1ZOdFVVdHRTRk42VTFsWFYyTnhPVWswVFZJMlRtOVpUelE1ZDJ4b1ptNXhlazV0YkVoNlNrVldTbEU0V2s1bVpYa1NGMWRSZG14aGN6SnlUVFJ5ZUhsamExQXdOamRmZVVGWkdpSkJTRTR3UlRkSU9FTnlUSEZpWWxabE1UWkRkVVZtZVZCTlJuVnFUR2xOUW5aUiIsImZjdiI6IjMiLCJmY19pZCI6IlVaMGdUd0pYTDBfOFRwRHBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Robotics Engineer - CNC Machining",
+      "company_name": "Sturm, Ruger & Company",
+      "location": "Prescott, AZ",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Hands-on experience maintaining, troubleshooting, programming, and recovering industrial robots in a production environment",
+            "Demonstrated ability to troubleshoot robot-to-CNC and robot-to-PLC interfaces, discrete and networked I/O, safety systems, sensors, pneumatics, and end-of-arm tooling",
+            "Working knowledge of CNC machining, machine-tool operation, workholding, part presentation, cutting-tool considerations, and automated loading and unloading",
+            "Ability to read and interpret robot programs, sequence-of-operations documents, electrical schematics, pneumatic diagrams, mechanical drawings, and equipment manuals",
+            "Experience using structured root-cause analysis and downtime data to eliminate recurring equipment failures",
+            "Ability to work effectively on the manufacturing floor, manage urgent downtime priorities, and communicate clearly with operators, technicians, engineers, suppliers, and leadership",
+            "Ability to support off-shift troubleshooting, planned shutdown work, installations, runoffs, and occasional travel as business needs require",
+            "Hands-on troubleshooting under production pressure",
+            "Safe equipment recovery and sound technical judgment",
+            "Must be able to successfully pass a drug and background screen",
+            "Must be eligible to handle firearms per the Federal Firearms Act"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Competitive compensation package including competitive salary, profit sharing and bonus",
+            "Heath benefits including medical, dental, and vision",
+            "Life and Retirement benefits including 401k match, company 401k contribution, basic and supplemental life options, as well as short- and long-term disability plans",
+            "Paid Time Off (PTO)",
+            "Relocation Assistance is available for the right candidate",
+            "Casual work environment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Position Summary: The Robotics Engineer will primarily maintain, troubleshoot, and continuously improve robotic machine-tending systems supporting CNC machining operations",
+            "The role is responsible for restoring equipment quickly, eliminating recurring faults, improving preventive maintenance, and helping production and maintenance teams safely recover automated cells",
+            "The engineer will also support a smaller portfolio of development work, including robot programming changes, tooling improvements, new-part introductions, equipment upgrades, and selected new automation projects",
+            "Success requires strong hands-on troubleshooting across robots, CNC machines, PLC interfaces, safety systems, sensors, end-of-arm tooling, and cell peripherals",
+            "Provide hands-on daily support for robotic CNC machine-tending cells, responding to downtime events and restoring safe production as quickly as practical",
+            "Troubleshoot robot programs, CNC handshakes, PLC logic interfaces, HMIs, industrial networks, safety circuits, sensors, grippers, pneumatic devices, conveyors, vision systems, gaging equipment, and other cell peripherals",
+            "Diagnose intermittent and recurring failures using alarms, logs, trends, I/O states, sequence logic, and structured root-cause analysis; implement sustainable corrective actions",
+            "Create, improve, and execute preventive and predictive maintenance plans for robots, end-of-arm tooling, safety equipment, dress packs, cables, sensors, and automation peripherals",
+            "Maintain robot programs, mastering data, backups, recovery procedures, spare-parts lists, electrical and pneumatic documentation, and change records",
+            "Develop clear standard work for startup, shutdown, fault recovery, changeover, calibration, and safe manual operation",
+            "Train maintenance technicians, operators, and engineers to recognize common failure modes, recover equipment safely, and escalate issues effectively",
+            "Track downtime and failure data, identify chronic losses, and prioritize improvements that increase uptime, mean time between failures, cycle-time stability, quality, and overall equipment effectiveness",
+            "Support production changeovers, new-part introductions, fixture and gripper changes, robot path adjustments, and process validation",
+            "Modify and optimize existing robotic cells to improve reliability, maintainability, safety, part presentation, gripping, error recovery, and mixed-model performance",
+            "Support selected development projects by assisting with concepts, reach and payload studies, robot programming, supplier reviews, runoffs, installation, commissioning, and production launch",
+            "Ensure all work complies with company requirements and applicable machinery, electrical, lockout/tagout, and robotic safety standards",
+            "Systematic root-cause analysis and corrective action",
+            "Reliability, maintainability, and preventive-maintenance discipline",
+            "Clear documentation and technician training",
+            "Practical continuous improvement with the ability to support new development"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=wUmnYwIHRTTKlUxbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0nON3UQWojgiA6SRFBUKRuLiUJIYm0dyF3hfo1_qp1efCW94rvoti3ZEiiZTijj-hchjU09wZu2oaIEf3sVzLATmcbgBAuRL53y2MQSXxQirmvPYueK7WlQRE6Q5N6k-E_Og46u9Rrcd12t5nqhH5VPmXMQwXt6OdjCQ0NSeMHIsIjO7YkUsHp9QOJtjUPogAAAA&shmds=v1_Ac3VAoyNUAYK8b1bR96OwiqlT4tsrhqjKQwm-RabxcIsBlLpug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=wUmnYwIHRTTKlUxbAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/ruger/Job/Robotics-Engineer-CNC-Machining/-in-Prescott,AZ?jid=f2b2c37c88b5cfd7",
+      "job_title": "Robotics Engineer - CNC Machining",
+      "description": "If you are a current Ruger employee, please click here to apply internally.\n\n\nJob Description:\n\nPosition Summary: The Robotics Engineer will primarily maintain, troubleshoot, and continuously improve robotic machine-tending systems supporting CNC machining operations. The role is responsible for restoring equipment quickly, eliminating recurring faults, improving preventive maintenance, and helping production and maintenance teams safely recover automated cells. The engineer will also support a smaller portfolio of development work, including robot programming changes, tooling improvements, new-part introductions, equipment upgrades, and selected new automation projects. Success requires strong hands-on troubleshooting across robots, CNC machines, PLC interfaces, safety systems, sensors, end-of-arm tooling, and cell peripherals.\n\nKey Responsibilities\n\nProvide hands-on daily support for robotic CNC machine-tending cells, responding to downtime events and restoring safe production as quickly as practical.Troubleshoot robot programs, CNC handshakes, PLC logic interfaces, HMIs, industrial networks, safety circuits, sensors, grippers, pneumatic devices, conveyors, vision systems, gaging equipment, and other cell peripherals.Diagnose intermittent and recurring failures using alarms, logs, trends, I/O states, sequence logic, and structured root-cause analysis; implement sustainable corrective actions.Create, improve, and execute preventive and predictive maintenance plans for robots, end-of-arm tooling, safety equipment, dress packs, cables, sensors, and automation peripherals.Maintain robot programs, mastering data, backups, recovery procedures, spare-parts lists, electrical and pneumatic documentation, and change records.Develop clear standard work for startup, shutdown, fault recovery, changeover, calibration, and safe manual operation.Train maintenance technicians, operators, and engineers to recognize common failure modes, recover equipment safely, and escalate issues effectively.Track downtime and failure data, identify chronic losses, and prioritize improvements that increase uptime, mean time between failures, cycle-time stability, quality, and overall equipment effectiveness.Support production changeovers, new-part introductions, fixture and gripper changes, robot path adjustments, and process validation.Modify and optimize existing robotic cells to improve reliability, maintainability, safety, part presentation, gripping, error recovery, and mixed-model performance.Support selected development projects by assisting with concepts, reach and payload studies, robot programming, supplier reviews, runoffs, installation, commissioning, and production launch.Ensure all work complies with company requirements and applicable machinery, electrical, lockout/tagout, and robotic safety standards.Required Qualifications\n\nBachelor's degree in robotics, electrical engineering, mechatronics, manufacturing engineering, mechanical engineering, or a related field preferred; an associate degree or equivalent technical experience will be considered for candidates with strong hands-on automation experience.Hands-on experience maintaining, troubleshooting, programming, and recovering industrial robots in a production environment.Demonstrated ability to troubleshoot robot-to-CNC and robot-to-PLC interfaces, discrete and networked I/O, safety systems, sensors, pneumatics, and end-of-arm tooling.Working knowledge of CNC machining, machine-tool operation, workholding, part presentation, cutting-tool considerations, and automated loading and unloading.Ability to read and interpret robot programs, sequence-of-operations documents, electrical schematics, pneumatic diagrams, mechanical drawings, and equipment manuals.Experience using structured root-cause analysis and downtime data to eliminate recurring equipment failures.Ability to work effectively on the manufacturing floor, manage urgent downtime priorities, and communicate clearly with operators, technicians, engineers, suppliers, and leadership.Ability to support off-shift troubleshooting, planned shutdown work, installations, runoffs, and occasional travel as business needs require.Preferred Qualifications\n\nExperience supporting FANUC, ABB, Yaskawa Motoman, KUKA, Universal Robots, or other industrial robot platforms.Experience with CNC controls and machine tools from manufacturers such as FANUC, Siemens, Okuma, Mazak, DMG MORI, or similar.Experience troubleshooting PLCs, HMIs, safety PLCs, industrial Ethernet networks, servo systems, vision systems, and automated gaging.Knowledge of robot preventive maintenance, calibration, mastering, backup and restore procedures, battery replacement, grease service, dress-pack inspection, and spare-parts planning.Experience with machine tending, bin picking, automatic tool changing, force sensing, part cleaning, marking, inspection, and error-proofing.Experience with offline simulation, CAD, basic PLC programming, and developing or commissioning new robotic applications.Knowledge of robotic and machinery safety standards, risk assessment, lockout/tagout, and safety validation.Core Competencies\n\nHands-on troubleshooting under production pressureSystematic root-cause analysis and corrective actionReliability, maintainability, and preventive-maintenance disciplineSafe equipment recovery and sound technical judgmentClear documentation and technician trainingPractical continuous improvement with the ability to support new developmentAdditional Requirements:\n\nMust be able to successfully pass a drug and background screen\n\nMust be eligible to handle firearms per the Federal Firearms Act\n\n\n\nBenefits:\n\nCompetitive compensation package including competitive salary, profit sharing and bonusHeath benefits including medical, dental, and visionLife and Retirement benefits including 401k match, company 401k contribution, basic and supplemental life options, as well as short- and long-term disability plansPaid Time Off (PTO)Relocation Assistance is available for the right candidateCasual work environment\n\nAbout the company:\n\nSturm, Ruger & Co., Inc. is one of the nation's leading manufacturers of rugged, reliable firearms for the commercial sporting market, all made in America. For over 75 years, Ruger has been a model of corporate and community responsibility. Our motto, \"Arms Makers for Responsible Citizens,\" echoes our commitment to these principles as we work hard to deliver quality and innovative firearms. Ruger has remained a global leader in offering unparalleled service, innovative technology, and providing peace of mind to our users at every step.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/ruger/Job/Robotics-Engineer-CNC-Machining/-in-Prescott,AZ?jid=f2b2c37c88b5cfd7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/robotics-engineer-cnc-machining--prescott--e7a894d09dd3ab8944d7284c05a0ada13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/robotics-engineer-cnc-machining-prescott-az--33f91c82-eed1-40aa-80ae-9d0b64c4c037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/robotics-engineer-cnc-machining-prescott-az--b22a7cc1-9730-4157-809b-25bc24ad4648?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643469898926401232&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/robotics-engineer-cnc-machining-ruger-prescott--pureheal-28528_25298_7a894d09dd3ab8944d7284c05a0ada13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2463286547034669056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciAtIENOQyBNYWNoaW5pbmciLCJjb21wYW55X25hbWUiOiJTdHVybSwgUnVnZXIgXHUwMDI2IENvbXBhbnkiLCJodGlkb2NpZCI6IndVbW5Zd0lIUlRUS2xVeGJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbEp4TFhwSWFVeG9VSGxuV0ZZeGFqUmhVekpCWm1ack1qTTNaVGR6ZDNjd1NHRnJOWE51U1hoaWNEZGFZVlZFTVROaE9ESTFSbk5qT0ZSak9GRlFValpuVFdKQ2NsUXpWR1JmTm1obUxUSjRNek0yUVVWSk5qUlNRV05XTW5oSU5FeEdTSFpUWkdOU2VWTTNWVlIxYTFkaGEzWnlkVWhSUm1WNGFFaGFlR0pXVjBrek1uZ1NGMWRSZG14aGN6SnlUVFJ5ZUhsamExQXdOamRmZVVGWkdpSkJTRTR3UlRkRkxWRmtORU40Um1Ga1EweEZTa1JzUzNBemQxQkdUWEYwWlVsMyIsImZjdiI6IjMiLCJmY19pZCI6IndVbW5Zd0lIUlRUS2xVeGJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Electrical Engineer – Surgical Robotics",
+      "company_name": "INFOTRON",
+      "location": "Kalamazoo, MI",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate will bring strong expertise in PCB design, analog and digital electronics, cable and wire harness design, and medical device safety standards",
+            "Candidates with experience in medical devices, surgical robotics, or motion control systems are strongly encouraged to apply",
+            "Bachelor's degree in Electrical Engineering or a related engineering discipline",
+            "7+ years of experience in electrical design engineering",
+            "Strong knowledge of IEC 60601 medical electrical equipment safety standards",
+            "Hands-on experience designing products incorporating PCBs and RF signaling",
+            "Experience creating and maintaining electrical schematics and wiring diagrams",
+            "Experience with PCB assemblies, cable design, and wire harnesses",
+            "Knowledge of electrical grounding, power design, and EMC principles",
+            "Experience using electrical design software to modify and document existing designs",
+            "Ability to work onsite five days per week in Kalamazoo, MI, or Weston, FL",
+            "Our ideal candidate combines strong electrical design fundamentals with practical hardware development experience",
+            "Candidates who have worked on medical devices, robotics platforms, or motion-controlled products and who can demonstrate hands-on experience with PCBAs, cable assemblies, wiring diagrams, and electrical troubleshooting will be particularly well suited for this role"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Work Arrangement: 100% Onsite | 5 Days per Week",
+            "Contract Duration: 12–18 Months"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The engineer will focus on the design, development, testing, and modification of electrical components for surgical robotics end effectors",
+            "Design, modify, and validate electrical systems and PCB assemblies for robotic and medical device applications",
+            "Support electrical design activities for surgical robotic instruments and end effectors",
+            "Review and revise existing electrical designs to meet performance, safety, and electromagnetic compatibility (EMC) requirements",
+            "Apply medical device safety standards, particularly IEC 60601, to electrical design and validation activities",
+            "Design and document wiring diagrams, cable routing, wire harnesses, and electrical interconnections",
+            "Work with analog and digital circuit designs, PCB assemblies (PCBAs), and RF signaling",
+            "Support board bring-up, troubleshooting, testing, and electrical design verification",
+            "Apply grounding and power distribution principles to ensure reliable electrical performance",
+            "Support thermal testing and evaluate electrical performance under different operating conditions",
+            "Collaborate with mechanical, systems, and other engineering teams to resolve electrical integration challenges",
+            "Use electrical design tools such as Altium to revise, maintain, and document existing designs"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=okDzE43Wig4mBIvtAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3KPQrCQBBAYWxzA62mFs2KYKONTZQoJhDtw2QZNiubnbCzQrDyDnYez5P407zi4yWvUbLNHOkYrEYHmTfWEwV4P55wvgXz14objlYLzOHADQhh0C2whz2zcTTZtDH2slZKxKVGIn7nVHOn2FPDg7pyI7_U0mKg3mGkerlaDGnvzXScF7vyUpUFWA9HdNjhnXkGp_wDEZziYJ0AAAA&shmds=v1_Ac3VAoxyWqLM9VNwuDMY7XgiRf33HN7g-mhRP-NJyp_jDx_sJQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=okDzE43Wig4mBIvtAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50b592c7c69fe300cc93f/images/0qd8ZtYLLJQ4PGW7OPrhk9rue7bv6hwemru1yE-QNvc.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Contractor"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/electrical-engineer-%E2%80%93-surgical-robotics-at-infotron-4482221410",
+      "job_title": "Electrical Engineer – Surgical Robotics",
+      "description": "Location: Kalamazoo, MI or Weston, FL\n\nWork Arrangement: 100% Onsite | 5 Days per Week\n\nContract Duration: 12–18 Months\n\nPosition Type: Contract\n\n\n\n\nAbout the Role:\n\nWe are seeking an experienced Electrical Engineer to support our customer's Robotics Division, working on advanced electrical systems for surgical robotic instruments.\n\nThe engineer will focus on the design, development, testing, and modification of electrical components for surgical robotics end effectors. The ideal candidate will bring strong expertise in PCB design, analog and digital electronics, cable and wire harness design, and medical device safety standards.\n\nCandidates with experience in medical devices, surgical robotics, or motion control systems are strongly encouraged to apply.\n\n\n\n\nKey Responsibilities\n\nDesign, modify, and validate electrical systems and PCB assemblies for robotic and medical device applications.Support electrical design activities for surgical robotic instruments and end effectors.Review and revise existing electrical designs to meet performance, safety, and electromagnetic compatibility (EMC) requirements.Apply medical device safety standards, particularly IEC 60601, to electrical design and validation activities.Design and document wiring diagrams, cable routing, wire harnesses, and electrical interconnections.Work with analog and digital circuit designs, PCB assemblies (PCBAs), and RF signaling.Support board bring-up, troubleshooting, testing, and electrical design verification.Apply grounding and power distribution principles to ensure reliable electrical performance.Support thermal testing and evaluate electrical performance under different operating conditions.Collaborate with mechanical, systems, and other engineering teams to resolve electrical integration challenges.Use electrical design tools such as Altium to revise, maintain, and document existing designs.\n\n\nRequired Qualifications\n\nBachelor's degree in Electrical Engineering or a related engineering discipline.7+ years of experience in electrical design engineering.Strong knowledge of IEC 60601 medical electrical equipment safety standards.Hands-on experience designing products incorporating PCBs and RF signaling.Experience creating and maintaining electrical schematics and wiring diagrams.Experience with PCB assemblies, cable design, and wire harnesses.Knowledge of electrical grounding, power design, and EMC principles.Experience using electrical design software to modify and document existing designs.Ability to work onsite five days per week in Kalamazoo, MI, or Weston, FL.\n\n\nPreferred Qualifications\n\nExperience in medical device design and development.Background in surgical robotics, robotic instruments, or motion control systems.Experience with analog and digital circuit design.Hands-on experience with PCB layout, board bring-up, and troubleshooting.Experience designing and documenting cables, connectors, and wire harnesses.Proficiency in Altium Designer.Familiarity with wireless interference mitigation, antenna-related electrical considerations, and thermal testing.\n\n\nIdeal Candidate Profile\n\nOur ideal candidate combines strong electrical design fundamentals with practical hardware development experience. Candidates who have worked on medical devices, robotics platforms, or motion-controlled products and who can demonstrate hands-on experience with PCBAs, cable assemblies, wiring diagrams, and electrical troubleshooting will be particularly well suited for this role.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/electrical-engineer-%E2%80%93-surgical-robotics-at-infotron-4482221410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/electrical-engineer-surgical-robotics-infotron-kalamazoo-mi--t7xk-906921359?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4112-81c2bc99baf703bdcb829077aa6a7f31?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbGVjdHJpY2FsIEVuZ2luZWVyIOKAkyBTdXJnaWNhbCBSb2JvdGljcyIsImNvbXBhbnlfbmFtZSI6IklORk9UUk9OIiwiaHRpZG9jaWQiOiJva0R6RTQzV2lnNG1CSXZ0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVVsS1QzSkpTVTVJWW05d05USnhjM1UyTkdKTkxUWkpNRnBVTWtoS2MyRlRkRTFST1MwMVNXWTBNMVV6YURWMVNGOUxhMVZZVTNWSFZFWjZUR2RuTFVGamVqaG1TRVJSTWtOR1dYa3phVUkxUkZWU1pYaHFkREozWWtoa1ZVOVFZVzVVYUdGSmVHYzRVME41WkRkeVIzcDJTMFl4VDJjMGEzaE5NVGQwYVhwWGJsVk1hWGdTRjFkUmRteGhjekp5VFRSeWVIbGphMUF3TmpkZmVVRlpHaUpCU0U0d1JUZEZYMjFFV1ROd2JsQlVha1o2ZHkwdFVpMXpTVkJ3ZVRGbWVHdFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJva0R6RTQzV2lnNG1CSXZ0QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Robotics Engineer — AI/ML",
+      "company_name": "Battelle Energy Alliance",
+      "location": "Idaho Falls, ID",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will program autonomous and collaborative robots, develop tooling, and apply AI/ML to improve robotic performance",
+            "You’ll join a multi-disciplinary team at the Structural Properties Laboratory in a new hot cell, with a 4x10 schedule and Fridays off, engaging in PIE and mechanical testing of materials"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=rtIMA6VpQ0X4HtmdAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNOw7CMAyAYbH2CEyeeTQIiQWmIh4qgoULVE6xkiATV3GGsnEIZg7HSSjLv336i8-oWF7FSg6twj66EIkSfF9vqGpzOcMcTmJBCVPrQSIcRRzTeONz7nRtjCqXTjMOvmzlYSSSld7cxeo_jXpM1DFmaparRV920U2mW8yZmGkYUnJPqJgDxpYgRKhv6AUOyKwzqHc_dZdFMaEAAAA&shmds=v1_Ac3VAozLTPzC1VPVSUKaXXXL5XIJ4al8VVxlz-h1EKX8x2gtKA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=rtIMA6VpQ0X4HtmdAAAAAA%3D%3D",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBIgACEQEDEQH/xAAbAAEAAwEAAwAAAAAAAAAAAAAAAQQHAwIFBv/EACsQAAEEAQMCBAYDAAAAAAAAAAEAAgMEEQUGEhMhMUFRYRQiM3GR0QcVMv/EABcBAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAbEQEBAQEAAwEAAAAAAAAAAAAAAQIRExQhA//aAAwDAQACEQMRAD8A3FFCIJRQiCUUIglFCICIs03pvq7p+7maPplunXhhbH8VLPHzDXOy85GQQBG0nIB7kA4zlXjF3eROtTM+tLRZLV3zuPWZeOmyVaz7WqsqVYJK3NzIiwvc5/zDu1vEn37e6r6hvXc9Pu3V9Pla/Un0YCabY+s2MDqSDlIAAHENAJ7k+IWnr77xzyRsSLKY/wCQbo0uyZdV08W36nFRgfI1jBEwfUmkbyOGnD8ZPkPFe92ZubUNz7j1R8NmA6PVkcyFkbI3OeM8WuLg/kM4c4ZZgjzU38d5ltJuV9yiIslirvo03ve99SBz3/6cYwS77+qsIg4ipXbL1W14hJku5hgzk+Jz7rwNCmQwGpXIZngOk35fPt6KyiHFT+s0/GPgauPTot/S7QVoKwIrwRRB3j02BufwuqJ0EREEoiICIiAiIgIiIP/Z26",
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://us.trabajo.org/job-2283-aa6faa251170acf026ff342f96ad0dd2",
+      "job_title": "Robotics Engineer — AI/ML",
+      "description": "Idaho National Laboratory invites applications for a Robotics Engineer focused on deploying robots in a radioactive environment. You will program autonomous and collaborative robots, develop tooling, and apply AI/ML to improve robotic performance.\n\nYou’ll join a multi-disciplinary team at the Structural Properties Laboratory in a new hot cell, with a 4x10 schedule and Fridays off, engaging in PIE and mechanical testing of materials.\nJ-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-aa6faa251170acf026ff342f96ad0dd2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciDigJQgQUkvTUwiLCJjb21wYW55X25hbWUiOiJCYXR0ZWxsZSBFbmVyZ3kgQWxsaWFuY2UiLCJodGlkb2NpZCI6InJ0SU1BNlZwUTBYNEh0bWRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZamxDUVZGS1R6SjJXR2xHYm5aSmVWaElNak15YVhWZk9Ia3lUblpKVlZKMVZVeE9hSFpGV1hWVE5rWnhiVWh1VVdOTGIyVndOemhTUjJ4aFptSnVZMDh5U1VsNVYyNVhNelpQWm5oWmF6bENhbFk0YUZvMlZGSnVXbmhvUzJKRFlVWmtZWEpIYW1nd2VFNDFVazR4TW1kZlVEUmtlbVZhTkVsbGFHdHJTV2QzVFV0a1kxSVNGMWRSZG14aGN6SnlUVFJ5ZUhsamExQXdOamRmZVVGWkdpSkJTRTR3UlRkRmRVeGplVVJSV25GeVpHUlJMVFV5VG1SdmRESmxaamMzWmtGQiIsImZjdiI6IjMiLCJmY19pZCI6InJ0SU1BNlZwUTBYNEh0bWRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Robotics Engineer (Electrical / Mechatronics)",
+      "company_name": "Fluency Digital",
+      "location": "San Francisco, CA",
+      "via": "Fluency Digital",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "7+ years of experience designing electrical systems or mechatronics for field-deployed robots or autonomous vehicles",
+            "Expert-level proficiency in C/C++ for embedded firmware development on custom hardware",
+            "Proven track record integrating sensors, actuators, and power systems in unstructured outdoor environments",
+            "Deep understanding of robotics stacks within construction, manufacturing, or heavy industry contexts",
+            "Ability to work on-site in San Francisco or Texas to lead hardware testing and deployment",
+            "Tech stack: C, C++"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You are the engineer who prefers dirt and high voltage to simulation loops, eager to deploy robots that construct critical infrastructure without a grid connection",
+            "This role demands hands-on ownership of electrical and mechatronic systems that operate autonomously in rugged construction environments",
+            "You will write embedded firmware in C/C++ to bridge the gap between heavy industrial machinery and intelligent decision-making"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=YQzKQgEu5C2mzjSKAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQoCMRAAsb0nWG1hoaIXEWy0Eu8UBBt9wJEsSxKJu0c2wvkkf-nZTDXMVN9J1dzFSYmo0LKPTJRh3ibCkiPaBAZuhMGWLDw6C1jDVRwo2YwBhOEi4hNND6GUXvfGqKbaa7FjsUZ5GWFyMpinOP2j02Az9ckW6ra7zVD37Jezc3oT4wea6GMZp5HhYRnO2TJGRVnB6fgDakJu1qwAAAA&shmds=v1_Ac3VAoy348FQv4jLWw2Sqy4Dzbup_5exNiKNbis-8OLulI2OHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=YQzKQgEu5C2mzjSKAAAAAA%3D%3D",
+      "extensions": [
+        "150K–250K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://fluencydigital.io/careers/all/roles/pf0d1fe9c9ea90-robotics-engineer-electrical-mechatronics/",
+      "job_title": "Robotics Engineer (Electrical / Mechatronics)",
+      "description": "An early-stage team building autonomous, off-grid power plants for the AI era.\n\nYou are the engineer who prefers dirt and high voltage to simulation loops, eager to deploy robots that construct critical infrastructure without a grid connection. This role demands hands-on ownership of electrical and mechatronic systems that operate autonomously in rugged construction environments. You will write embedded firmware in C/C++ to bridge the gap between heavy industrial machinery and intelligent decision-making. If you want your code to physically build the energy backbone of tomorrow's data centers, this is your site.\n\nWhat they're looking for:\n\n7+ years of experience designing electrical systems or mechatronics for field-deployed robots or autonomous vehicles.Expert-level proficiency in C/C++ for embedded firmware development on custom hardware.Proven track record integrating sensors, actuators, and power systems in unstructured outdoor environments.Deep understanding of robotics stacks within construction, manufacturing, or heavy industry contexts.Ability to work on-site in San Francisco or Texas to lead hardware testing and deployment.Tech stack: C, C++",
+      "apply_options": [
+        {
+          "title": "Fluency Digital",
+          "link": "https://fluencydigital.io/careers/all/roles/pf0d1fe9c9ea90-robotics-engineer-electrical-mechatronics/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciAoRWxlY3RyaWNhbCAvIE1lY2hhdHJvbmljcykiLCJjb21wYW55X25hbWUiOiJGbHVlbmN5IERpZ2l0YWwiLCJodGlkb2NpZCI6IllRektRZ0V1NUMybXpqU0tBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbVEwTW5odVEyZEhjVXhPWkRNek5VSjNOMjV5ZWtSWVVIRm5lVmswUlhOMlpsZHJTbEpqYlZCa01GQlZhRlV6VXpOSVYwMXhTazFQUVd0dE5sUlZWV1JrT1ZKS1dXWjBjbUV3T0ZJMGFsOUJPWFZYYzJaQlRGcFVUMUJKUWxGUU1tbDJkak14UWxGRlEwVjNlbkJXYW0wMU5qZEJWRlU0Ukc1RFFsWlVTbFp6WTA0MFVXd1NGMWRSZG14aGN6SnlUVFJ5ZUhsamExQXdOamRmZVVGWkdpSkJTRTR3UlRkSU1VdHBhRXcyZUhwSk9GUXdkRmxvWldGRVpUZHFiVXgwVURKQiIsImZjdiI6IjMiLCJmY19pZCI6IllRektRZ0V1NUMybXpqU0tBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Robotics Engineer/Tech",
+      "company_name": "InCycle Automation",
+      "location": "Michigan",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Able to read and understand industrial electrical schematics",
+            "Able to interpret line code (step logic) for robot programs",
+            "Basic knowledge of mechanical assemblies",
+            "Well organized, structured and professional presentation",
+            "A team player with great communication and interpersonal skills",
+            "experience/exposure with one or more of the following robot manufacturers:",
+            "Fanuc (priority), ABB, KUKA, Comau",
+            "Programming experience in the following applications;",
+            "Spot Welding, Riveting, Mig Welding, Adhesive, Material Handling Application, Vision",
+            "Capable of path development",
+            "Capable of entering/modifying and/or adding robot logic to TP programs",
+            "Capable of adding files to robot controllers",
+            "Understand, setup/configure I/O",
+            "Capable of working individually or as part of a team",
+            "A university/college degree in a related field (Electrical Engineering Technician/Technologist, Mechanical Engineering/Technology, Industrial Automation,Robotic Tech from a recognized institution (2 Years min)",
+            "robot programming: 2 years (Required)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Opportunity to travel ( all expenses paid, extra expenses for travel incentives including travel bonuses)",
+            "Competitive salary and excellent opportunity to advance within company",
+            "Health Plan coverage",
+            "Excellent wage and development incentives with eligible retirement plan",
+            "Pay: $57,128.00 - $85,000.00 per year",
+            "401(k)",
+            "Dental insurance",
+            "Health insurance",
+            "Retirement plan",
+            "Vision insurance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Trouble shooting various equipment on End Of Arm Tooling (robot arm)",
+            "Robot controller setup and configuration",
+            "I/O Configuration and setup of BitMap",
+            "Working with various robot manufactured models",
+            "Developing programs, path verification, and testing",
+            "Setup and verify Robot Zoning",
+            "Provide commissioning support for automation testing of robotic systems",
+            "knowledge of electronics and control power",
+            "Able to trouble shoot basic electrical circuits and interpret electrical schematics",
+            "knowledge of mechanical",
+            "Other duties as required",
+            "Understand electronic basics and troubleshoot electrical circuits",
+            "Availability to work (evenings, weekends, outside working hours, etc.)"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=XETxcRU8eDN0edj-AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQoCMRAAsb0nWMjWwiUi2GglIqJgI_ZHEpYkktsNtyucf_DRxmZgipnuu-j6B3vWHATOFDMhTvaJIUEPN_Yg6KYmTHBhjgWXh6RaZW-tSDFR1LXUBB4tE3qe7Yu9_DFIchPW4hSH7W4zm0pxvbrS6RMKwvGtPLa0fTPBPYeUo6MfbjUiwI8AAAA&shmds=v1_Ac3VAow1eW2gaqgPKo3jK_W9O5dqQx9o850KWtIhj1mebQZ-aA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=XETxcRU8eDN0edj-AAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "57,128–85,000 a year",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=e330e55b1a3af41b",
+      "job_title": "Robotics Engineer/Tech",
+      "description": "InCycle Automation is an engineering and design firm specializing in the integration of automated process control systems, design, programming, commissioning and training.\n\n\nOur Controls and Robotic teams are actively seeking experienced professionals\n\n\nJob Summary: Immediate openings for Robot Programmers\n\n\nResponsibilities of the Robot Programmer position include:\n\n\n- Trouble shooting various equipment on End Of Arm Tooling (robot arm)\n\n\n- Robot controller setup and configuration\n\n\n- I/O Configuration and setup of BitMap\n\n\n- Working with various robot manufactured models\n\n\n- Developing programs, path verification, and testing\n\n\n- Setup and verify Robot Zoning\n\n\n- Provide commissioning support for automation testing of robotic systems\n\n\n- knowledge of electronics and control power\n\n\n- Able to trouble shoot basic electrical circuits and interpret electrical schematics\n\n\n- knowledge of mechanical\n\n\n- Other duties as required\n\n\nAs a qualified candidate, you MUST possess the following skills, experience and education:\n\n\nSkills :\n\n\n- Able to read and understand industrial electrical schematics\n\n\n- Understand electronic basics and troubleshoot electrical circuits\n\n\n- Able to interpret line code (step logic) for robot programs\n\n\n- Basic knowledge of mechanical assemblies\n\n\n- Well organized, structured and professional presentation\n\n\n- A team player with great communication and interpersonal skills\n\n\nExperience / Exposure :\n\n\n- experience/exposure with one or more of the following robot manufacturers:\n\n\n*Fanuc (priority), ABB, KUKA, Comau\n\n\n- Programming experience in the following applications;\n\n\n- Spot Welding, Riveting, Mig Welding, Adhesive, Material Handling Application, Vision\n\n\n- 3D vision a plus\n\n\n- Capable of path development\n\n\n- Capable of entering/modifying and/or adding robot logic to TP programs\n\n\n- Capable of adding files to robot controllers\n\n\n- Understand, setup/configure I/O\n\n\n- Capable of working individually or as part of a team\n\n\nEducation :\n\n\n- A university/college degree in a related field (Electrical Engineering Technician/Technologist, Mechanical Engineering/Technology, Industrial Automation,Robotic Tech from a recognized institution (2 Years min)\n\n\nGeneral :\n\n\n- Availability to work (evenings, weekends, outside working hours, etc.)\n\n\n* Opportunity to travel ( all expenses paid, extra expenses for travel incentives including travel bonuses)\n\n\n*Please include details of programming experience/exposure/commissioning when applying\n\n\nCompetitive salary and excellent opportunity to advance within company.\n\n\nHealth Plan coverage\n\n\n*Excellent wage and development incentives with eligible retirement plan\n\n\nJob Type: Full-time\n\n\nWork remotely\n\n\n\n No\n\nJob Type: Full-time\n\n\nPay: $57,128.00 - $85,000.00 per year\n\n\nBenefits:\n\n\n\n 401(k)\n Dental insurance\n Health insurance\n Retirement plan\n Vision insurance\n\nExperience:\n\n\n\n robot programming: 2 years (Required)\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=e330e55b1a3af41b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlci9UZWNoIiwiY29tcGFueV9uYW1lIjoiSW5DeWNsZSBBdXRvbWF0aW9uIiwiaHRpZG9jaWQiOiJYRVR4Y1JVOGVETjBlZGotQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1hCUFRsTlRNbTh4YTJkTWJHazFSV2RTU25WV2IwWnBaR2cyVmpZMGFYUkRjMFJWVWtaVFpXVjVialJ0YjFKeVFrVkNTMkZIZEdWbVlYQk9VRVZOVWxGdldFUjZWa3hxYWtzM04xcDJiVTR5WW1oTlJIVlVPVXg2ZVd4TWRUSTJWMnBYY0VGQ1dXZ3RlbkptUmtodlNGaFNVR2RKVlZsUFRHZFJYMDlHV1hGYWRrdDNSV3dTRjFkUmRteGhjekp5VFRSeWVIbGphMUF3TmpkZmVVRlpHaUpCU0U0d1JUZEdjbTVKVW5NdFRGOVRRMmxyT0RoSlVGSnVOMWRZVFdsWWJYaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJYRVR4Y1JVOGVETjBlZGotQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Robotics Engineer",
+      "company_name": "Convergix",
+      "location": "Bridgman, MI",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Knowledge of PLC functions",
+            "Knowledge of Mechanical Design",
+            "Willing to learn cycle time analysis",
+            "Experience programming Fanuc, ABB, or Yaskawa robots",
+            "Willing to learn Robotic Simulation (Roboguide / Robot Studio / Motosim)",
+            "Exposure to CAD",
+            "Able to read electrical drawings",
+            "Strong communication and problem solving skills",
+            "Able to work in a team environment",
+            "Ability to interpret customer standards",
+            "Able to travel 30-40%",
+            "Excellence - Continuous Improvement, Innovation, Collaboration, Communication",
+            "ABB (Asea Brown Boveri), Analysis Skills, Automation, Automation Systems, Best Practices, CAD/CAM (Computer-Aided Design/Computer-Aided Manufacturing), Communication Skills, Continuous Improvement, Control Engineering, Cross-Functional, Debugging Skills, Disability Accommodations, Electricity, Employee Assistance Plan, Input/Output, Lift/Move 25 Pounds, Linux Media Players, Mechanical Design, Physical Demands, Problem Solving Skills, Programmable Logic Controller (PLC), Research & Development (R&D), Robotics, Simulation, System Integration (SI), Team Player, Testing, Willing to Travel"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Here at CONVERGIX, we offer a generous compensation and benefits package including:",
+            "Comprehensive Medical, Dental, and Vision insurance plans",
+            "401K, including company match",
+            "Company-paid life insurance with optional supplemental coverage for you and your spouse/children",
+            "Company-paid short and long-term disability",
+            "Employee Assistance Program",
+            "Paid-time off and company-paid holidays",
+            "Profit Sharing"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Robotics Engineer, you will collaborate with the Robotics Engineering Manager, Technical Leaders, and cross-functional teams to support meeting the vision of the Controls group with proving insight and ideas on improvements (processes, standards, best practices, and tools) that boost the team’s effectiveness and efficiency",
+            "This position reports to Robotics/R&D Manager",
+            "Develop robot programs offline for automation tasks",
+            "Validate reach and check for potential interferences",
+            "Collaborate with Controls Engineer to configure I/O and handshakes",
+            "Initialize robots and load programs with supporting files",
+            "Establish PLC communications with assistance from Controls Engineer",
+            "Update frames, adjust positions, and manually step through programs",
+            "Transition robots to automatic mode and bring them up to speed",
+            "Run at production rate on the company floor for customer acceptance",
+            "Travel to customer facility for installation, debugging, and speed optimization",
+            "Run at production rate on customer’s floor for final acceptance",
+            "While performing the duties of this position, the employee is regularly required to stand, walk, sit, use hands to feel objects, reach with hands and arms, stoop, kneel, talk and hear",
+            "Occasionally lifts or move up to 25 pounds"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=MjT9OQMkLDK1ix7DAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQoCMQwAUFzvD3TKKKKtCC7epogouPgDR1tDWrlLSlOks1-uLm973WfWLR_ipaagcGZKjFhgAzfxoOhKiCAMFxEacdHHWrMerFUdDWl1v2WCTFYYvTT7Eq9_Bo2uYB5dxWG33zaTmVbzk_AbC6UGieFY0pMmx2u4X79ESXYZhQAAAA&shmds=v1_Ac3VAoyssy_TC21tXY2S_fJEk5qsI_OcGyuZVd13ZXc3PrvC6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=MjT9OQMkLDK1ix7DAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV+pAAAAclBMVEX///8AAAD39/fl5eVycXHFxseQj4/s7OzDw8Ojo6OysrJiYWF9fHyUk5Onp6cqJyjU1NQ4NTa8vLxnZmZDQUFYV1foAADe3t4+PDzOzs4lIiOFhIR3dndSUFEUDxEwLS774uHtenz1qKjrABHsQUYdGBnj6VL+AAAB10lEQVQ4je2S2ZKjMAxFr2yMWQIxhrRjCJ3Z8v+/OFcQplNdNY9T89JiM7KOryQb+LJ/YWGQKQGLyA0YM9BHO9Jf2DxN1wnldF3jFjYEVB1wYszCRyL6dzR3Y9YawwUoawhBQdN6a9HWNkjQsEhXgW9xhWHA8+lKSp0wiUdXY06wD42itZQbm2OtAt8hprl9BoelU7BoEIsXsNjBVV1vTGkNOwh7gPckCnJU9i8gi5StIQr+MDLgCeIAz37MBNMda0IjIg3GdhnFMCzU21o/f+HRHWD8AENb11qN4Kk4lk6shoVOdsU0vONzjWeL+dYD1+qKj1RZuPnTnDeMTtM/wO4AayG4XJYXkIWb167CTfqXtw2iwqXDrEkRjNw2NKPxZmvOnDUs7/vYcU0mj0rkwXNQiLRsnwduDeDfOajO8/zAyXGJUsOkQiR0JaR9+A+W4I0JGYEDHoWE5Dhw3humm4Lelg5vHR3ZGq9vcr6Hs94kBAeeGTSE4IJxybF0F5AzKmR1cjXrfJNN4gyolXcwo2dsDozIClacTofjALOP/KpiFb0qBlUMOZsYD0XmonI5b2DFa1O0nbHstObPr6a/1ahl6sUaWa4qakrJuH3CWcPkthq/7K/2G8mSGoXL/rH3AAAAAElFTkSuQmCC24",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.monster.com/job-openings/robotics-engineer-bridgman-mi--f30a36f3-6f8c-4c9c-a844-d1b80b27602e",
+      "job_title": "Robotics Engineer",
+      "description": "Robotics Engineer\n\nMichigan, USA\n\n \n\nWe are seeking talented and energetic individuals to join our growing team!\n\n \n\nGreatness takes continuous evolution.\n\n \n\nThat's why we're bringing together relentless problem solvers, proven processes, and audacious thinkers. We are driving to become one unrivaled force in automation - pushing what's possible for ourselves and our customers.\n\n \n\nOne team. Any challenge.\n\n \n\nConvergix is a global automation systems integrator that serves diverse end markets. We design, build, test, and integrate custom solutions to automate our customers’ operations with a focus on solving unique challenges that others struggle to address. As a team, we are on an improvement journey in pursuit of our vision: tobecome the ultimate trusted partner to our customers, capable of solving any industrial automation challenge with our passionate people, world renowned processes and diverse experience. If you want to join a team whose mission is to elevate the automation industry, we want to hear from you!  Learn more about us:â€¯https://convergixautomation.com/ \n\n \n\nThe Role \n\nAs a Robotics Engineer, you will collaborate with the Robotics Engineering Manager, Technical Leaders, and cross-functional teams to support meeting the vision of the Controls group with proving insight and ideas on improvements (processes, standards, best practices, and tools) that boost the team’s effectiveness and efficiency. This position reports to Robotics/R&D Manager.\n\n \n\nKey Responsibilities\n\nDevelop robot programs offline for automation tasks.Validate reach and check for potential interferences.Collaborate with Controls Engineer to configure I/O and handshakes.Initialize robots and load programs with supporting files.Establish PLC communications with assistance from Controls Engineer.Update frames, adjust positions, and manually step through programs.Transition robots to automatic mode and bring them up to speed.Run at production rate on the company floor for customer acceptance.Travel to customer facility for installation, debugging, and speed optimization.Run at production rate on customer’s floor for final acceptance. \n\nQualifications and Experience \n\nKnowledge of PLC functionsKnowledge of Mechanical DesignWilling to learn cycle time analysisExperience programming Fanuc, ABB, or Yaskawa robotsWilling to learn Robotic Simulation (Roboguide / Robot Studio / Motosim)Exposure to CADAble to read electrical drawingsStrong communication and problem solving skillsAble to work in a team environmentAbility to interpret customer standardsAble to travel 30-40% \n\nPhysical Demands\n\nWhile performing the duties of this position, the employee is regularly required to stand, walk, sit, use hands to feel objects, reach with hands and arms, stoop, kneel, talk and hear.Occasionally lifts or move up to 25 pounds. \n\n \n\nPerks of Being Part of the Team\n\nHere at CONVERGIX, we offer a generous compensation and benefits package including:\n\nComprehensive Medical, Dental, and Vision insurance plans401K, including company matchCompany-paid life insurance with optional supplemental coverage for you and your spouse/childrenCompany-paid short and long-term disabilityEmployee Assistance ProgramPaid-time off and company-paid holidaysProfit Sharing\n\n\n\nWhat does CONVERGIX value? \n\nOur values are the foundation on which we build CONVERGIX; we adhere to these no matter what mountain we climb.\n\nIntegrity - Respect, Transparency, CommitmentExcellence - Continuous Improvement, Innovation, Collaboration, CommunicationPassion - Momentum, Sense of Urgency, Growth, Success, Velocity \n\n \n\nWe thank all candidates for their interest, however only those considered for an interview will be contacted.\n\n \n\nCONVERGIX Automation Solutions has an accommodation program in place that provides reasonable accommodations for employees with disabilities. If you require a specific accommodation because of a disability or a medical need, please contact Human Resources.\n\n \n\nConvergix is an equal opportunity employer. All qualified applicants will be considered without regard to any protected characteristic under applicable law.\n\n \n\n#LP\n\n\nSkills:\nABB (Asea Brown Boveri), Analysis Skills, Automation, Automation Systems, Best Practices, CAD/CAM (Computer-Aided Design/Computer-Aided Manufacturing), Communication Skills, Continuous Improvement, Control Engineering, Cross-Functional, Debugging Skills, Disability Accommodations, Electricity, Employee Assistance Plan, Input/Output, Lift/Move 25 Pounds, Linux Media Players, Mechanical Design, Physical Demands, Problem Solving Skills, Programmable Logic Controller (PLC), Research & Development (R&D), Robotics, Simulation, System Integration (SI), Team Player, Testing, Willing to Travel\n\n\nConvergix",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/robotics-engineer-bridgman-mi--f30a36f3-6f8c-4c9c-a844-d1b80b27602e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=472478dbbbf80e10&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Convergix-Automation/Job/Robotics-Engineer/-in-Bridgman,MI?jid=3b44ef68c121e85e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/robotics-engineer-bridgman-mi--58ce89c9-8bfd-4865-b9bb-513ba9c740f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/robotics-engineer-at-convergix-automation-solutions-4467629288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/robotics-engineer-convergix-automation-solutions-bridgman-mi--t7xk-821035231?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/robotics-engineer_7ea1a9b90999f762657f56758efbddeee5cc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/convergix-automation-solutions/robotics-engineer-46996350/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkNvbnZlcmdpeCIsImh0aWRvY2lkIjoiTWpUOU9RTWtMREsxaXg3REFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXaDBiR0ZCYlVZeVYxbGpXbXhDVG1KS1JUWlVNeTFWU1VKRWRGOHRSbWQ0WlVGellVZERlbXRDVEV0TE1ERmxTaTFGU25CMWREQTVhSGN0VGtkYVRXaGxWSFJsVTBOZmNGcHVjM0ZNVTFsM1ltVnBTV1pXTUVVMldHRnZRelJwUm05dFNYUmpNREZCVm5CcVdUYzRNMFJqYW1oMlRrUjRibGRUWlhkYVpsUmxZekZVTVVZU0YxZFJkbXhoY3pKeVRUUnllSGxqYTFBd05qZGZlVUZaR2lKQlNFNHdSVGRHYjNKSWRXTXhZa0ZvUTJ4NVNpMHhRV3BQVVdoUVkzaEhYMU5SIiwiZmN2IjoiMyIsImZjX2lkIjoiTWpUOU9RTWtMREsxaXg3REFBQUFBQT09In0="
+    },
+    {
+      "title": "Robotics Engineer",
+      "company_name": "iCUBE Solutions",
+      "location": "Raymond, OH",
+      "via": "Dice",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must Have : Software: MUST - 3DX (Robotic Simulation), Delmia V5 Preferable",
+            "Skills: Knowledge in Automotive BIW Manufacturing",
+            "BIW Robotic Simulation in 3DX, Delmia V5 , problem solving and good analytical Skills, Project Management, Co-ordination with Customer and offshore team",
+            "Year of experience : 8+ yrs",
+            "Software: MUST - 3DX (Robotic Simulation), Delmia V5 Preferable",
+            "Bachelor s degree in engineering"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Execute Project activities such as Plant Investigation, feasibility study, Developmental Engineering (Interference-Clearance analysis, Weld Spot distribution to all robots meeting the cycle time, Problem tracking chart creation and providing multiple solutions)",
+            "Specification Writing (Equipment Specifications, Robot Specifications, Process Specifications)",
+            "Robots reach study (Robotic Simulation for various Weld, Sealing, Handling processes)",
+            "Knowledge about Weld, Paint and Final Assembly process",
+            "Provide engineering support for introducing new car models on a running line, Production Ramp-up for an existing line based on market demand and Line Innovation/Renovation",
+            "Good project management skills & onsite-offshore coordination skills"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=Q3f1XNG3Dpe4SOfxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAGYFz7CA5yo4g2IrjophTFRag4l6QeSSS9v_Qi1CfwtdXl277iMynmNRxybJUq8VGYB1rRBY6U7dAGgtAJ8Imn-5BzrztjVFPpNdvfKlt0BsIOo3nC6Z9Ggx24TzZzs9mux7IXv5jF4_1Q0Q3plSNEKQrV9t1BHku6nr8k5Lc_igAAAA&shmds=v1_Ac3VAoweWF8ACJ984ZSz6Ox228noaBzj2BOJudeINXXH2Nq8Sg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=Q3f1XNG3Dpe4SOfxAAAAAA%3D%3D",
+      "extensions": [
+        "22 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://www.dice.com/job-detail/76b01164-88f9-4c86-b3aa-c6d2195c2785",
+      "job_title": "Robotics Engineer",
+      "description": "Job Title: Robotics Engineer\nLocation: Raymond OH (Onsite)\nDuration: Full-Time/Permanent\n\n \n\nMust Have : Software: MUST - 3DX (Robotic Simulation), Delmia V5 Preferable\n\n \n\nJD \n\nSkills: Knowledge in Automotive BIW Manufacturing. BIW Robotic Simulation in 3DX,  Delmia V5 , problem solving and good analytical Skills, Project Management, Co-ordination with Customer and offshore team.\n\n \n\nJob Description & Skill Requirement: \n\nYear of experience : 8+ yrs\n\nAs Robotics Engineer, the person will be doing the following Activities:\n\nExecute Project activities such as Plant Investigation, feasibility study, Developmental Engineering (Interference-Clearance analysis, Weld Spot distribution to all robots meeting the cycle time, Problem tracking chart creation and providing multiple solutions) Specification Writing (Equipment Specifications, Robot Specifications, Process Specifications).Robots reach study (Robotic Simulation for various Weld, Sealing, Handling processes)Knowledge about Weld, Paint and Final Assembly processProvide engineering support for introducing new car models on a running line, Production Ramp-up for an existing line based on market demand and Line Innovation/Renovation.Good project management skills & onsite-offshore coordination skillsSoftware: MUST - 3DX (Robotic Simulation), Delmia V5 Preferable \n\nQualification:\n\nBachelor s degree in engineering",
+      "apply_options": [
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/76b01164-88f9-4c86-b3aa-c6d2195c2785?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/robotics-engineer-itmc-systems-inc-raymond-oh--t7xk-824786969?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5003-c18afa533d5c54a5e8667fcce2d83bde?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6ImlDVUJFIFNvbHV0aW9ucyIsImh0aWRvY2lkIjoiUTNmMVhORzNEcGU0U09meEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdtazFSalF0VEdSclMwNDJjSEpvVUV4UVNFbDNUV1kxWkdGMmQwSmlRMDB6TVhWRldEVk9iRmN3TFZGeFVXcFJTM3BIZURrNVFXRmFVMWRmT0hseGVWUkZiV3N5WTFaQmFtOVVTa05qWmxCWGJIVXRjRE4xU0hobVN6TTBXRzFhVmpSTlprbEJYMU50TkZKWk5uZGxXRE5zT1hGSGRVTTFZMFp6TUdWUFJEUk1abWRtZWw4U0YxZFJkbXhoY3pKeVRUUnllSGxqYTFBd05qZGZlVUZaR2lKQlNFNHdSVGRJZEZkM1ZGRm1YMVkxTmxNelNEaHRPV3hQYm5seFNEZEpTRGhSIiwiZmN2IjoiMyIsImZjX2lkIjoiUTNmMVhORzNEcGU0U09meEFBQUFBQT09In0="
+    },
+    {
+      "title": "Robotics Engineer, Hands",
+      "company_name": "Mach Industries",
+      "location": "Huntington Beach, CA",
+      "via": "EducationPals.ai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Robotics+Engineer&htidocid=jTAfnoxxSPJu7q9JAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBBFcdsjuJqdILURwY2uVMQquPECJWmHJFJnQmYKvYnXNW7-5vHer76LyrzYscZe4Eo-EmKuobU0CGzgwQ4Ebe4DMMGN2Y-4PAbVJAdjRMbGi9oiNz1_DBM6ns2bnfynk2AzptEqdrv9dm4S-fXqaUvsTsMkmiMKRIJ2Io3ktVycseAaLqcfiPf9CpoAAAA&shmds=v1_Ac3VAozq0ytuMpmUjaGSGJiTcLXwvCjpOCI-0fhC2alMuoiIEA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Robotics+Engineer&htidocid=jTAfnoxxSPJu7q9JAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50b592c7c69fe300cc93f/images/FDEWlvt8DBqUS_JVtSSdTpEvidjEui6N529xRdbd758.jpeg",
+      "extensions": [
+        "8 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://educationpals.ai/jobs/mach-industries-robotics-engineer-hands-at-mach-industries-2026-10-23",
+      "job_title": "Robotics Engineer, Hands",
+      "description": "Robotics Engineer, Hands About Mach Industries Founded in 2023, Mach Industries is a rapidly growing defense technology company focused on developing next-generation autonomous defense platforms. At the core of is the commitment to delivering scalable, decentralized defense systems that enhance the strategic capabilities of the United States and its allies. With a workforce of approximately 350 employees, we operate with startup agility and ambition. Our vision is to redefine the fut Apply on the employer site via Greenhouse.",
+      "apply_options": [
+        {
+          "title": "EducationPals.ai",
+          "link": "https://educationpals.ai/jobs/mach-industries-robotics-engineer-hands-at-mach-industries-2026-10-23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBFbmdpbmVlciwgSGFuZHMiLCJjb21wYW55X25hbWUiOiJNYWNoIEluZHVzdHJpZXMiLCJodGlkb2NpZCI6ImpUQWZub3h4U1BKdTdxOUpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa2xwZDI1dVdtOHhNWFpxVTFsbU9UbFNTMFJEZWtadWVWSkNWbkZWY1ZKWFIwRjRabmRGWjJKalIwRmFMVkZsYkhGUGVEVm1XWGxEYlUxNGVYQkVWRGQxVFRaYWNHazFTMmRmVnpSbVlWSkRNMlJDTjJwdGNYRm9Ua1JJZFhack5uTjFaelZwYzFkYVlVbHRWVkJwUVMxVlExRTFjRFV3V1VSeWRETkhVMDlFUldkUExVUVNGMWRSZG14aGN6SnlUVFJ5ZUhsamExQXdOamRmZVVGWkdpSkJTRTR3UlRkSE5HaENSV0ZsUzJkWk1YSkJORVl5TnpOWFdVUnZZbkI1VUhKbiIsImZjdiI6IjMiLCJmY19pZCI6ImpUQWZub3h4U1BKdTdxOUpBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXVmswVEdGTk5YVllabXhvUkcxRGRYZFhka0pOTUdkbWFURXpWM1pNWlhjNGFYWldNRXRqVnpCSE0xaFFZWFZoUjBOcGMxRnVSVVYyYm5sMlJrTTBSQzFVVEhkMlgzaEphUzB0WmtOUFJITkJUMjA0YkdaQ2NWSkxkVmxFZVVsdGRtNU1YMjB4ZVdJMFRFY3RUSGhhZUdGTk1qVkxSMGRPUm1WaVdtVlVhWEJ2V2xvdFdFVkVTV0Z1YUhSV1gyMVdhMkpQWW1SU1pXdHlXbUk0VGs5eE1EQm5PVWhSV2xaSU4wMVhkWFZITUVSWVFrVnVaR2R3Y1VGcmNFUlNjMjlaZWtWd2VXZDZiVzFsUkVOVlZXUkJUVEJVZURKRGFVbHJSVkZvVHpWa1JWZFhhRzV1Y2kxUk5XZGtjMEYxUmtORExVcGxZbFZNVWs5SFR6SldabmxHVkhoWFVHRmtSWEJsWlRKdlMydG9hMmhyY0daRVYyNHlRVEZ5TmpkQk1saG5TSEJhTFRWNlZVbDBVRVpxUW1kQ1ZITTNjWFJaZVZVeGFYVjVUa3QxVEVsTVFrWklkV2RsYzNoaFZYaDNjMHBrZURNM09VaHFkVXBwY0hKaWNqaDBOWGN5T1hwU2JUbDVabGxqUkRGM1psVjJNRVV5TlVaaVFVRnZUbEpqWVZGTVZYUkZVM0pWWW1Ga1Uxb3RkbXAxUlZSTmFFcDFjVkZWYW1ZeFJrVm9VekZ3Vmt3MFp6QnhRMFJKYWpsM05Hc3djbUZNT0dwRFIyUlRiVXBJVjNkS1lWRlRZemczYW13MlpYWk5SelJmU21SQ1JEbENXRkJNWWxGYVJVZzJkVXd6WVcweVFWQmZjakV6WVZoMFkwSkZkRlY1Y2twM1VIbDZZMUJST1U1V1FsWnlZakZUVTNKUmNXVXlkVU15ZGtreGFqZFNaRmhVZEc1UldsazJVM2x1ZDBwWUxXcEhZWEJVU0dSTVpXbFdhSGRCRWhkWFVYWnNZWE15Y2swMGNuaDVZMnRRTURZM1gzbEJXUm9pUVVoT01FVTNSMmhPWDFOUGJYQjNabXhrVDBOYU5FczNVV0ZDTkVzdGVrRXhRUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxXVmswVEdGTk5YVllabXhvUkcxRGRYZFhka0pOTUdkbWFURXpWM1pNWlhjNGFYWldNRXRqVnpCSE0xaFFZWFZoUjBOcGMxRnVSVVYyYm5sMlJrTTBSQzFVVEhkMlgzaEphUzB0WmtOUFJITkJUMjA0YkdaQ2NWSkxkVmxFZVVsdGRtNU1YMjB4ZVdJMFRFY3RUSGhhZUdGTk1qVkxSMGRPUm1WaVdtVlVhWEJ2V2xvdFdFVkVTV0Z1YUhSV1gyMVdhMkpQWW1SU1pXdHlXbUk0VGs5eE1EQm5PVWhSV2xaSU4wMVhkWFZITUVSWVFrVnVaR2R3Y1VGcmNFUlNjMjlaZWtWd2VXZDZiVzFsUkVOVlZXUkJUVEJVZURKRGFVbHJSVkZvVHpWa1JWZFhhRzV1Y2kxUk5XZGtjMEYxUmtORExVcGxZbFZNVWs5SFR6SldabmxHVkhoWFVHRmtSWEJsWlRKdlMydG9hMmhyY0daRVYyNHlRVEZ5TmpkQk1saG5TSEJhTFRWNlZVbDBVRVpxUW1kQ1ZITTNjWFJaZVZVeGFYVjVUa3QxVEVsTVFrWklkV2RsYzNoaFZYaDNjMHBrZURNM09VaHFkVXBwY0hKaWNqaDBOWGN5T1hwU2JUbDVabGxqUkRGM1psVjJNRVV5TlVaaVFVRnZUbEpqWVZGTVZYUkZVM0pWWW1Ga1Uxb3RkbXAxUlZSTmFFcDFjVkZWYW1ZeFJrVm9VekZ3Vmt3MFp6QnhRMFJKYWpsM05Hc3djbUZNT0dwRFIyUlRiVXBJVjNkS1lWRlRZemczYW13MlpYWk5SelJmU21SQ1JEbENXRkJNWWxGYVJVZzJkVXd6WVcweVFWQmZjakV6WVZoMFkwSkZkRlY1Y2twM1VIbDZZMUJST1U1V1FsWnlZakZUVTNKUmNXVXlkVU15ZGtreGFqZFNaRmhVZEc1UldsazJVM2x1ZDBwWUxXcEhZWEJVU0dSTVpXbFdhSGRCRWhkWFVYWnNZWE15Y2swMGNuaDVZMnRRTURZM1gzbEJXUm9pUVVoT01FVTNSMmhPWDFOUGJYQjNabXhrVDBOYU5FczNVV0ZDTkVzdGVrRXhRUSIsImZjdiI6IjMifQ%3D%3D&q=Robotics+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Robotics Engineer",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:25:45.497760+00:00",
+    "request_fingerprint": "6339439c6555ea394fa71cdbb954bbf63c5397eb1e050e45bda7f4185a0ce13e",
+    "job_count": 10
+  }
+}

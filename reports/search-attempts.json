@@ -1,0 +1,812 @@
+[
+  {
+    "query": "Data Scientist",
+    "page": 1,
+    "request_fingerprint": "a2cee19fb8bb27da01a1f7581dfa40e6e7e36ce387a4f061e7b9ef688451319f",
+    "started_at_epoch": 1793394559.175144,
+    "status": "saved",
+    "file": "data/data-scientist-2026-10-30-21-09-19-175143-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Scientist",
+    "page": 2,
+    "request_fingerprint": "a989a80c6dc83c6c96750cf73e0ad6325f786c3824ad0e008887706dcfbf4174",
+    "started_at_epoch": 1793394576.179404,
+    "status": "saved",
+    "file": "data/data-scientist-2026-10-30-21-09-36-179385-p2.json",
+    "job_count": 6
+  },
+  {
+    "query": "Data Scientist",
+    "page": 3,
+    "request_fingerprint": "7da3ece52b87cb89e172d3158acad046f307e982fdf5b7bbe75776711fa30de2",
+    "started_at_epoch": 1793394593.185428,
+    "status": "saved",
+    "file": "data/data-scientist-2026-10-30-21-09-53-185408-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Machine Learning Engineer",
+    "page": 1,
+    "request_fingerprint": "0633dc85412bef88b58c4d65d6a59c4e0590d77cd9247e012faad0f4ecf89772",
+    "started_at_epoch": 1793394610.19073,
+    "status": "saved",
+    "file": "data/machine-learning-engineer-2026-10-30-21-10-10-190710-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Machine Learning Engineer",
+    "page": 2,
+    "request_fingerprint": "0d6b4e565d2dd0701ae5f7d365a50f50695d849cde50530ad1881b7e0aa685e1",
+    "started_at_epoch": 1793394627.194977,
+    "status": "saved",
+    "file": "data/machine-learning-engineer-2026-10-30-21-10-27-194954-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Machine Learning Engineer",
+    "page": 3,
+    "request_fingerprint": "4e2ec10b73c72c7c2074de17c8373d60376a0bf87e9f029c7adfc5964617da07",
+    "started_at_epoch": 1793394644.200453,
+    "status": "saved",
+    "file": "data/machine-learning-engineer-2026-10-30-21-10-44-200438-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Artificial Intelligence Specialist",
+    "page": 1,
+    "request_fingerprint": "fd3123ef44777185092ea3bc6a1ca579569d45cc5022aa706269320efb3ac04d",
+    "started_at_epoch": 1793394661.2060192,
+    "status": "saved",
+    "file": "data/artificial-intelligence-specialist-2026-10-30-21-11-01-205996-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Artificial Intelligence Specialist",
+    "page": 2,
+    "request_fingerprint": "e2b1093cd7563aa0444057cc9458d36fa28a23809cb0a5ef355a56f388095969",
+    "started_at_epoch": 1793394678.2117162,
+    "status": "saved",
+    "file": "data/artificial-intelligence-specialist-2026-10-30-21-11-18-211696-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Artificial Intelligence Specialist",
+    "page": 3,
+    "request_fingerprint": "c87678c8a8d0c835d227abfe0fa2d46bbf25374015df479e58371bd111470303",
+    "started_at_epoch": 1793394695.2174542,
+    "status": "saved",
+    "file": "data/artificial-intelligence-specialist-2026-10-30-21-11-35-217437-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Analyst",
+    "page": 1,
+    "request_fingerprint": "645cff42d366c37f11fe07a9d9a686821d5f18a00f98760729ace51d06b50bad",
+    "started_at_epoch": 1793394712.222775,
+    "status": "saved",
+    "file": "data/data-analyst-2026-10-30-21-11-52-222758-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Analyst",
+    "page": 2,
+    "request_fingerprint": "42f9adf0f11820b71d00d601068fc300d6d0c8f0db0b3ca7fbeb5ba4aeea615b",
+    "started_at_epoch": 1793394729.228375,
+    "status": "saved",
+    "file": "data/data-analyst-2026-10-30-21-12-09-228353-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Analyst",
+    "page": 3,
+    "request_fingerprint": "205a64dd9b9c6cfd9ecf6e4d22dbbf4ef65a1947c3533e051600ffdd456beab0",
+    "started_at_epoch": 1793394746.23403,
+    "status": "saved",
+    "file": "data/data-analyst-2026-10-30-21-12-26-234009-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Business Intelligence Analyst",
+    "page": 1,
+    "request_fingerprint": "e42a28333abd8ccbfd168b7d418df89d94802282221b1fdd21741b09cfa0b576",
+    "started_at_epoch": 1793394763.238677,
+    "status": "saved",
+    "file": "data/business-intelligence-analyst-2026-10-30-21-12-43-238655-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Business Intelligence Analyst",
+    "page": 2,
+    "request_fingerprint": "29da06f13439907c0293f3d4d0d35b0f79e99d09d979fc8290aa2b78a85f5db3",
+    "started_at_epoch": 1793394780.244344,
+    "status": "saved",
+    "file": "data/business-intelligence-analyst-2026-10-30-21-13-00-244326-p2.json",
+    "job_count": 8
+  },
+  {
+    "query": "Business Intelligence Analyst",
+    "page": 3,
+    "request_fingerprint": "d47b16bc79302f968288fecc008b5fe2b6cd28d2470b37870973163f91ea492d",
+    "started_at_epoch": 1793394797.2498639,
+    "status": "saved",
+    "file": "data/business-intelligence-analyst-2026-10-30-21-13-17-249845-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Research Scientist (AI-ML)",
+    "page": 1,
+    "request_fingerprint": "a62c6e0b72ddfa93c5261762fe79ad63c5b49787110ee78ce78541d8f4ae5380",
+    "started_at_epoch": 1793394814.253129,
+    "status": "saved",
+    "file": "data/research-scientist-ai-ml-2026-10-30-21-13-34-253109-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Research Scientist (AI-ML)",
+    "page": 2,
+    "request_fingerprint": "83641b596bf887952dc0a1630d94e0dea1534d52215e29be70971eac7058092d",
+    "started_at_epoch": 1793394831.258843,
+    "status": "saved",
+    "file": "data/research-scientist-ai-ml-2026-10-30-21-13-51-258819-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Research Scientist (AI-ML)",
+    "page": 3,
+    "request_fingerprint": "55cda4e70229a0e74dd332ba3662d9d80d1ddd93d526cb470acdeb2016a655ef",
+    "started_at_epoch": 1793394848.2645,
+    "status": "saved",
+    "file": "data/research-scientist-ai-ml-2026-10-30-21-14-08-264480-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Deep Learning Engineer",
+    "page": 1,
+    "request_fingerprint": "28becd4f55c6be6a670a719fad88565f22fd2e2a170f715e53a000c66ab78489",
+    "started_at_epoch": 1793394865.270001,
+    "status": "saved",
+    "file": "data/deep-learning-engineer-2026-10-30-21-14-25-269979-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Deep Learning Engineer",
+    "page": 2,
+    "request_fingerprint": "905c36c7634c0ff3f2b85631093d25430105518b00d4179412dba8ddf884b4e0",
+    "started_at_epoch": 1793394882.275733,
+    "status": "saved",
+    "file": "data/deep-learning-engineer-2026-10-30-21-14-42-275712-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Deep Learning Engineer",
+    "page": 3,
+    "request_fingerprint": "fabbf19a861e03f40f55dde7145e75cb8f2a783f0016046726d6a6d2be7c278b",
+    "started_at_epoch": 1793394899.281461,
+    "status": "saved",
+    "file": "data/deep-learning-engineer-2026-10-30-21-14-59-281438-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "NLP Engineer (Natural Language Processing)",
+    "page": 1,
+    "request_fingerprint": "95005558a3f915b4939f27ec222264a8c60bf6e68c087568814596e8ecb3d2c6",
+    "started_at_epoch": 1793394916.287101,
+    "status": "saved",
+    "file": "data/nlp-engineer-natural-language-processing-2026-10-30-21-15-16-287080-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "NLP Engineer (Natural Language Processing)",
+    "page": 2,
+    "request_fingerprint": "75311040359a4c278249496e3a61d08b493c1a77f349f85dec15ed372866b35e",
+    "started_at_epoch": 1793394933.292705,
+    "status": "saved",
+    "file": "data/nlp-engineer-natural-language-processing-2026-10-30-21-15-33-292681-p2.json",
+    "job_count": 8
+  },
+  {
+    "query": "NLP Engineer (Natural Language Processing)",
+    "page": 3,
+    "request_fingerprint": "7b77ed5caa4861302ab60aa68b6d319a3a41247c6701a00b8b9c964cd6f2066b",
+    "started_at_epoch": 1793394950.298382,
+    "status": "saved",
+    "file": "data/nlp-engineer-natural-language-processing-2026-10-30-21-15-50-298359-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Computer Vision Engineer",
+    "page": 1,
+    "request_fingerprint": "9a09ca6924c9551cefffecb6ac127131616653065505b494cf4ed9120cdfb76e",
+    "started_at_epoch": 1793394967.304032,
+    "status": "saved",
+    "file": "data/computer-vision-engineer-2026-10-30-21-16-07-304014-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Computer Vision Engineer",
+    "page": 2,
+    "request_fingerprint": "642a63956cefc67735bf03348bc8bd7daef2941ec9fe9d09140d9075c04aa0d9",
+    "started_at_epoch": 1793394984.307965,
+    "status": "saved",
+    "file": "data/computer-vision-engineer-2026-10-30-21-16-24-307952-p2.json",
+    "job_count": 8
+  },
+  {
+    "query": "Computer Vision Engineer",
+    "page": 3,
+    "request_fingerprint": "66e257e0e1904f45c02c7f464a5ff9e6b7788ebdb703ffead0d523245bebd17a",
+    "started_at_epoch": 1793395001.318583,
+    "status": "saved",
+    "file": "data/computer-vision-engineer-2026-10-30-21-16-41-318562-p3.json",
+    "job_count": 8
+  },
+  {
+    "query": "Data Engineer",
+    "page": 1,
+    "request_fingerprint": "42e15cbeff63a323b73b83c4f4203ffda7881cb62ada0c3a82741330b5cd4c6e",
+    "started_at_epoch": 1793395018.329213,
+    "status": "saved",
+    "file": "data/data-engineer-2026-10-30-21-16-58-329193-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Engineer",
+    "page": 2,
+    "request_fingerprint": "e20bbd702baecf219227abb98be1375bcad20114d6656765dc0cab16db751b07",
+    "started_at_epoch": 1793395035.332042,
+    "status": "saved",
+    "file": "data/data-engineer-2026-10-30-21-17-15-332018-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Engineer",
+    "page": 3,
+    "request_fingerprint": "adeaf3b12fe0668bb9c1173f62f0d329fae4f015dd171c8fcf1b370eaf4bc52f",
+    "started_at_epoch": 1793395052.337709,
+    "status": "saved",
+    "file": "data/data-engineer-2026-10-30-21-17-32-337691-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Applied Scientist",
+    "page": 1,
+    "request_fingerprint": "d5607c66e7814a443785b18ec316da62c6b0f51a4ab4ff7bdf919a9665efaaa1",
+    "started_at_epoch": 1793395069.3433442,
+    "status": "saved",
+    "file": "data/applied-scientist-2026-10-30-21-17-49-343320-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Applied Scientist",
+    "page": 2,
+    "request_fingerprint": "b10df4b9b8dbe0ae2d6e0aa965d0d0e2f2a57cd6d885c77b46b20668a72d588c",
+    "started_at_epoch": 1793395086.348939,
+    "status": "saved",
+    "file": "data/applied-scientist-2026-10-30-21-18-06-348919-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Applied Scientist",
+    "page": 3,
+    "request_fingerprint": "8e4134de5c3f87c97abbbf2bcbcc29772d09472f2af5a281c238c6828384aac8",
+    "started_at_epoch": 1793395103.3545759,
+    "status": "saved",
+    "file": "data/applied-scientist-2026-10-30-21-18-23-354553-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Quantitative Analyst (Quant)",
+    "page": 1,
+    "request_fingerprint": "591510251b009797bd74358ea8190bce43dada445c093984b14714c31dd1d7ac",
+    "started_at_epoch": 1793395120.360218,
+    "status": "saved",
+    "file": "data/quantitative-analyst-quant-2026-10-30-21-18-40-360198-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Quantitative Analyst (Quant)",
+    "page": 2,
+    "request_fingerprint": "953e1692b90653edb2df4e721e2e353d8e60bf88aeb82d9874469c6cf65d2a76",
+    "started_at_epoch": 1793395137.365769,
+    "status": "saved",
+    "file": "data/quantitative-analyst-quant-2026-10-30-21-18-57-365756-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Quantitative Analyst (Quant)",
+    "page": 3,
+    "request_fingerprint": "7757571090a212c631e19c52d9195c48693dfee0d006fc48a0da3e73688075f4",
+    "started_at_epoch": 1793395154.371327,
+    "status": "saved",
+    "file": "data/quantitative-analyst-quant-2026-10-30-21-19-14-371309-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "AI Solutions Architect",
+    "page": 1,
+    "request_fingerprint": "d41ebcf03b4d21c85dbbbd128f38fc6326da88544459805596019bb13d826019",
+    "started_at_epoch": 1793395171.3769128,
+    "status": "saved",
+    "file": "data/ai-solutions-architect-2026-10-30-21-19-31-376888-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "AI Solutions Architect",
+    "page": 2,
+    "request_fingerprint": "190de72af368d376689f827a2640b9787ad58ad8fa2eb4566f50eb4ce06f66c4",
+    "started_at_epoch": 1793395188.382546,
+    "status": "saved",
+    "file": "data/ai-solutions-architect-2026-10-30-21-19-48-382524-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "AI Solutions Architect",
+    "page": 3,
+    "request_fingerprint": "2990f0a784564490b3423423c534bf8c2d2e8ed6d91845377dc0685c7932be4d",
+    "started_at_epoch": 1793395205.388139,
+    "status": "saved",
+    "file": "data/ai-solutions-architect-2026-10-30-21-20-05-388119-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Statistician",
+    "page": 1,
+    "request_fingerprint": "ece2ce60ce634d1c229053082cbf0b97d34b2806d83b2dfc0ee9d897021f3881",
+    "started_at_epoch": 1793395222.392436,
+    "status": "saved",
+    "file": "data/statistician-2026-10-30-21-20-22-392422-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Statistician",
+    "page": 2,
+    "request_fingerprint": "535c1a3f0c60ddc24ecb99ea741b62dae387f0abed53f8935f5f33827b8fc153",
+    "started_at_epoch": 1793395239.39808,
+    "status": "saved",
+    "file": "data/statistician-2026-10-30-21-20-39-398055-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Statistician",
+    "page": 3,
+    "request_fingerprint": "794de5245bfe891c4b3f838c7a5b9829924164408af8c567f8395e3ac913bb83",
+    "started_at_epoch": 1793395256.403662,
+    "status": "saved",
+    "file": "data/statistician-2026-10-30-21-20-56-403647-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Big Data Engineer",
+    "page": 1,
+    "request_fingerprint": "2cd24b3c636305e9863c044c2afc34cf92b32481f66ec2ec324d5bac9598f790",
+    "started_at_epoch": 1793395273.409302,
+    "status": "saved",
+    "file": "data/big-data-engineer-2026-10-30-21-21-13-409282-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Big Data Engineer",
+    "page": 2,
+    "request_fingerprint": "c3c3aad15859350f49acf514896f268f445f7d0676e97600a0c1689461072e63",
+    "started_at_epoch": 1793395290.4148722,
+    "status": "saved",
+    "file": "data/big-data-engineer-2026-10-30-21-21-30-414851-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Big Data Engineer",
+    "page": 3,
+    "request_fingerprint": "2a7ecb296307ad43a5d2576ee8236fe716bd8eeda6f2c36d91f7353930496dfa",
+    "started_at_epoch": 1793395307.420397,
+    "status": "saved",
+    "file": "data/big-data-engineer-2026-10-30-21-21-47-420378-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Science Consultant",
+    "page": 1,
+    "request_fingerprint": "724fd8fed794bb43f67942db3da44597b364a437e9119ca68b9c094f09ef97f8",
+    "started_at_epoch": 1793395324.425965,
+    "status": "saved",
+    "file": "data/data-science-consultant-2026-10-30-21-22-04-425941-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Science Consultant",
+    "page": 2,
+    "request_fingerprint": "a2f08a4737ac6419c76b947f449140720683f81e09e30f460c78e851ebdc20e5",
+    "started_at_epoch": 1793395341.431426,
+    "status": "saved",
+    "file": "data/data-science-consultant-2026-10-30-21-22-21-431404-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Data Science Consultant",
+    "page": 3,
+    "request_fingerprint": "5a923085ae2adc3a85af6d497668cd850dd4db4b85f5c3ff5a459c0d30e2497c",
+    "started_at_epoch": 1793395358.437053,
+    "status": "saved",
+    "file": "data/data-science-consultant-2026-10-30-21-22-38-437033-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Automation Engineer",
+    "page": 1,
+    "request_fingerprint": "911acfc7d71f8ecce81ec7d9a4ee41c648c0f3400b6eaea40bd1858fad89d38b",
+    "started_at_epoch": 1793395375.442664,
+    "status": "saved",
+    "file": "data/automation-engineer-2026-10-30-21-22-55-442641-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Automation Engineer",
+    "page": 2,
+    "request_fingerprint": "25b390ed73d7f9c1220c428e8bbac2d7946d1dee7c4cf652fd440e039f8a42cf",
+    "started_at_epoch": 1793395392.448268,
+    "status": "saved",
+    "file": "data/automation-engineer-2026-10-30-21-23-12-448246-p2.json",
+    "job_count": 8
+  },
+  {
+    "query": "Automation Engineer",
+    "page": 3,
+    "request_fingerprint": "24a4b484c35d50dec0c5efffbc48b3fdad8fa396c45295385a64bb0a0996dad0",
+    "started_at_epoch": 1793395409.453749,
+    "status": "saved",
+    "file": "data/automation-engineer-2026-10-30-21-23-29-453726-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Analytics Manager",
+    "page": 1,
+    "request_fingerprint": "752872922ed0d61476454179db2b3514e3bca6ec6ba9130da0432072b4146d77",
+    "started_at_epoch": 1793395426.45931,
+    "status": "saved",
+    "file": "data/analytics-manager-2026-10-30-21-23-46-459287-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Analytics Manager",
+    "page": 2,
+    "request_fingerprint": "cc6a091a21de4cf718209f7eedf796f6d82edc9341e7ea06e9011b39df215413",
+    "started_at_epoch": 1793395443.464816,
+    "status": "saved",
+    "file": "data/analytics-manager-2026-10-30-21-24-03-464792-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Analytics Manager",
+    "page": 3,
+    "request_fingerprint": "456aac45c0e65fe49606f8938f39cff2e875404a30bd229c3046cbe3abe434c0",
+    "started_at_epoch": 1793395460.470201,
+    "status": "saved",
+    "file": "data/analytics-manager-2026-10-30-21-24-20-470180-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Operations Research Analyst",
+    "page": 1,
+    "request_fingerprint": "63007155a5445a44614aa857ab7195821ab62b176c3a3cbd105be54adaccc8f0",
+    "started_at_epoch": 1793395477.475719,
+    "status": "saved",
+    "file": "data/operations-research-analyst-2026-10-30-21-24-37-475699-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Operations Research Analyst",
+    "page": 2,
+    "request_fingerprint": "94154d344dfd17519f9a70c90d6cc7940ac6fa6bc73fa96c81549ecfeca00de9",
+    "started_at_epoch": 1793395494.481199,
+    "status": "saved",
+    "file": "data/operations-research-analyst-2026-10-30-21-24-54-481178-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Operations Research Analyst",
+    "page": 3,
+    "request_fingerprint": "10737753278419d28d8ebe0562bdd410fe45f4710d0f63e79640911107eac594",
+    "started_at_epoch": 1793395511.4866939,
+    "status": "saved",
+    "file": "data/operations-research-analyst-2026-10-30-21-25-11-486670-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Robotics Engineer",
+    "page": 1,
+    "request_fingerprint": "95f2a756ffd2a27619d7a76044d572cb9466e6f521d61c141b0ebeb5b1341949",
+    "started_at_epoch": 1793395528.492169,
+    "status": "saved",
+    "file": "data/robotics-engineer-2026-10-30-21-25-28-492145-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Robotics Engineer",
+    "page": 2,
+    "request_fingerprint": "6339439c6555ea394fa71cdbb954bbf63c5397eb1e050e45bda7f4185a0ce13e",
+    "started_at_epoch": 1793395545.497775,
+    "status": "saved",
+    "file": "data/robotics-engineer-2026-10-30-21-25-45-497760-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Robotics Engineer",
+    "page": 3,
+    "request_fingerprint": "d7b4e22f1889d2e1c984efbdf237432be804f171ee5c34ce36b574051e68899f",
+    "started_at_epoch": 1793395562.503237,
+    "status": "saved",
+    "file": "data/robotics-engineer-2026-10-30-21-26-02-503217-p3.json",
+    "job_count": 7
+  },
+  {
+    "query": "Bioinformatics Data Scientist",
+    "page": 1,
+    "request_fingerprint": "885bc1d7fa22a48a99a36bc0eb03467c1439497190b07c7017222e5225b34e82",
+    "started_at_epoch": 1793395579.508697,
+    "status": "saved",
+    "file": "data/bioinformatics-data-scientist-2026-10-30-21-26-19-508679-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Bioinformatics Data Scientist",
+    "page": 2,
+    "request_fingerprint": "ff977daaced90def89ca6810f5a0ac420ad9bd4df5c577367ed1b153a7da169e",
+    "started_at_epoch": 1793395596.514132,
+    "status": "saved",
+    "file": "data/bioinformatics-data-scientist-2026-10-30-21-26-36-514120-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Bioinformatics Data Scientist",
+    "page": 3,
+    "request_fingerprint": "c5e3a850b01287f545e8ab3d3e46e97533a267780d31e9b533a92ccd52c9339a",
+    "started_at_epoch": 1793395613.519614,
+    "status": "saved",
+    "file": "data/bioinformatics-data-scientist-2026-10-30-21-26-53-519592-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Financial Data Scientist",
+    "page": 1,
+    "request_fingerprint": "16b1dd055849dae62e775aa21f2b7707d6f45bec4a1f7ba3b793351456974a96",
+    "started_at_epoch": 1793395630.5250409,
+    "status": "saved",
+    "file": "data/financial-data-scientist-2026-10-30-21-27-10-525020-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Financial Data Scientist",
+    "page": 2,
+    "request_fingerprint": "81f7c0da33e3ab9a28e46a968b67fc4facc810ee425dff737fdbe835c44877f7",
+    "started_at_epoch": 1793395647.530545,
+    "status": "saved",
+    "file": "data/financial-data-scientist-2026-10-30-21-27-27-530522-p2.json",
+    "job_count": 7
+  },
+  {
+    "query": "Financial Data Scientist",
+    "page": 3,
+    "request_fingerprint": "ac751d251484ab768e1a3dfb759db9019562f9aec61980146b9c01d208394f64",
+    "started_at_epoch": 1793395664.5361989,
+    "status": "saved",
+    "file": "data/financial-data-scientist-2026-10-30-21-27-44-536175-p3.json",
+    "job_count": 9
+  },
+  {
+    "query": "Customer Insights Analyst",
+    "page": 1,
+    "request_fingerprint": "134e45f96e0faf14a7ad86e27ebcb1af10379737bebb5f0db71765b3a53c4bec",
+    "started_at_epoch": 1793395681.546568,
+    "status": "saved",
+    "file": "data/customer-insights-analyst-2026-10-30-21-28-01-546547-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Customer Insights Analyst",
+    "page": 2,
+    "request_fingerprint": "eb891946bc3921cf736ebb7dbc17c1b8797eb7b76a8fe11204dfce88a2b6352a",
+    "started_at_epoch": 1793395698.557034,
+    "status": "saved",
+    "file": "data/customer-insights-analyst-2026-10-30-21-28-18-557011-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Customer Insights Analyst",
+    "page": 3,
+    "request_fingerprint": "e0715c65a662f4073a5a48a34c951c71bf073f6c2d3fc4eb353f2028236f7552",
+    "started_at_epoch": 1793395715.567468,
+    "status": "saved",
+    "file": "data/customer-insights-analyst-2026-10-30-21-28-35-567453-p3.json",
+    "job_count": 8
+  },
+  {
+    "query": "Marketing Data Analyst",
+    "page": 1,
+    "request_fingerprint": "8931f32465f392f534e18c13602fe7cc6fa1c49288bd4e83811d67d0ffb6f1f6",
+    "started_at_epoch": 1793395732.577949,
+    "status": "saved",
+    "file": "data/marketing-data-analyst-2026-10-30-21-28-52-577930-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Marketing Data Analyst",
+    "page": 2,
+    "request_fingerprint": "960adeb3fa0c825838c826c793400192868359b78fc14073826d4ac39667bf20",
+    "started_at_epoch": 1793395749.5882912,
+    "status": "saved",
+    "file": "data/marketing-data-analyst-2026-10-30-21-29-09-588271-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Marketing Data Analyst",
+    "page": 3,
+    "request_fingerprint": "b6a70a84e377323f4528d370f3d9f4c8004fe816217997acb0c1c067ed259850",
+    "started_at_epoch": 1793395766.598701,
+    "status": "saved",
+    "file": "data/marketing-data-analyst-2026-10-30-21-29-26-598690-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Strategy Manager",
+    "page": 1,
+    "request_fingerprint": "873f9c19ccd0703aa33b4f785d60b46eaf7d2a84ac52302d7af0b7f457787288",
+    "started_at_epoch": 1793395783.6091578,
+    "status": "saved",
+    "file": "data/data-strategy-manager-2026-10-30-21-29-43-609136-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Strategy Manager",
+    "page": 2,
+    "request_fingerprint": "83069dafacc152ba203fab9ce3894f2acffb3a9b41c4b400379c3ef68bd0cea9",
+    "started_at_epoch": 1793395800.619709,
+    "status": "saved",
+    "file": "data/data-strategy-manager-2026-10-30-21-30-00-619686-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Data Strategy Manager",
+    "page": 3,
+    "request_fingerprint": "7e33bb1ad48c1596b7373ac96d701433f00ea77c3b658e44a0b7272956052488",
+    "started_at_epoch": 1793395817.630163,
+    "status": "saved",
+    "file": "data/data-strategy-manager-2026-10-30-21-30-17-630144-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Cloud AI Engineer",
+    "page": 1,
+    "request_fingerprint": "353f5e531c2a90cd0fdcbd55168fd53b9043f2db19e04416422e41268600daa9",
+    "started_at_epoch": 1793395834.631521,
+    "status": "saved",
+    "file": "data/cloud-ai-engineer-2026-10-30-21-30-34-631510-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Cloud AI Engineer",
+    "page": 2,
+    "request_fingerprint": "a82e59c85fdec3c917080ad755f523b84a1839d650b70d510e4ed99df79f1c6b",
+    "started_at_epoch": 1793395851.641959,
+    "status": "saved",
+    "file": "data/cloud-ai-engineer-2026-10-30-21-30-51-641936-p2.json",
+    "job_count": 8
+  },
+  {
+    "query": "Cloud AI Engineer",
+    "page": 3,
+    "request_fingerprint": "b494828a55fc8a893712d913d5b04d745665483fd1f083599cb59624066511e7",
+    "started_at_epoch": 1793395868.6524,
+    "status": "saved",
+    "file": "data/cloud-ai-engineer-2026-10-30-21-31-08-652383-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Computational Scientist",
+    "page": 1,
+    "request_fingerprint": "b0c10200a44f6a4bea09ceb8167e0b0af0fe1ee2500ef19f42955b14874d1b6a",
+    "started_at_epoch": 1793395885.662903,
+    "status": "saved",
+    "file": "data/computational-scientist-2026-10-30-21-31-25-662891-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Computational Scientist",
+    "page": 2,
+    "request_fingerprint": "37e5833561db4118fe052db6e95f98e21fa4b05c5687c48bad90fa8384ed1612",
+    "started_at_epoch": 1793395902.67331,
+    "status": "saved",
+    "file": "data/computational-scientist-2026-10-30-21-31-42-673286-p2.json",
+    "job_count": 7
+  },
+  {
+    "query": "Computational Scientist",
+    "page": 3,
+    "request_fingerprint": "7c69700573742f822ff758d591743092e5f743f10356877e7db3f786a962df07",
+    "started_at_epoch": 1793395919.6837811,
+    "status": "saved",
+    "file": "data/computational-scientist-2026-10-30-21-31-59-683757-p3.json",
+    "job_count": 7
+  },
+  {
+    "query": "Fraud Detection Specialist",
+    "page": 1,
+    "request_fingerprint": "7abd29bb42edc265042a2ba891d74a66dd26446f5d156c3a9407ae353e337af7",
+    "started_at_epoch": 1793395936.694203,
+    "status": "saved",
+    "file": "data/fraud-detection-specialist-2026-10-30-21-32-16-694181-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Fraud Detection Specialist",
+    "page": 2,
+    "request_fingerprint": "889f428d6cfb9d6ff11f826d23326d8a1cc4754c8c1ba4ec447c35221cf05b3e",
+    "started_at_epoch": 1793395953.704608,
+    "status": "saved",
+    "file": "data/fraud-detection-specialist-2026-10-30-21-32-33-704594-p2.json",
+    "job_count": 10
+  },
+  {
+    "query": "Fraud Detection Specialist",
+    "page": 3,
+    "request_fingerprint": "e4e1a0b316d308c518c09c9520d690697418c26aa75ea8042d009810f8aace20",
+    "started_at_epoch": 1793395970.715178,
+    "status": "saved",
+    "file": "data/fraud-detection-specialist-2026-10-30-21-32-50-715152-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Risk Analyst",
+    "page": 1,
+    "request_fingerprint": "a057a20fa3bbbfadf497be273fe3ba901bdd3651eb2c07d70a121adc50f9a445",
+    "started_at_epoch": 1793395987.725624,
+    "status": "saved",
+    "file": "data/risk-analyst-2026-10-30-21-33-07-725604-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Risk Analyst",
+    "page": 2,
+    "request_fingerprint": "c72e792cd8a8f0806c735616ea7428ffacb779dca715434ff9d3989d7432dd14",
+    "started_at_epoch": 1793396004.7360342,
+    "status": "saved",
+    "file": "data/risk-analyst-2026-10-30-21-33-24-736014-p2.json",
+    "job_count": 8
+  },
+  {
+    "query": "Risk Analyst",
+    "page": 3,
+    "request_fingerprint": "5c2566168f70c2d5a6430c4b92fbfec65ebe8d5a3244585cb11b9e7a9d7eaf94",
+    "started_at_epoch": 1793396021.746432,
+    "status": "saved",
+    "file": "data/risk-analyst-2026-10-30-21-33-41-746414-p3.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Architect",
+    "page": 1,
+    "request_fingerprint": "586ef76a3398a5db1e559a25e36ff48b25c63db28600c350837f077d364ea41e",
+    "started_at_epoch": 1793396038.7568278,
+    "status": "saved",
+    "file": "data/data-architect-2026-10-30-21-33-58-756806-p1.json",
+    "job_count": 10
+  },
+  {
+    "query": "Data Architect",
+    "page": 2,
+    "request_fingerprint": "323aa7ebe6daeacbfb4cd3de7eb8a4c8cc47ec9bde1edf07e8c92a210ff3a42b",
+    "started_at_epoch": 1793396055.76733,
+    "status": "saved",
+    "file": "data/data-architect-2026-10-30-21-34-15-767315-p2.json",
+    "job_count": 9
+  },
+  {
+    "query": "Data Architect",
+    "page": 3,
+    "request_fingerprint": "a13ba733477bd021d11f1733a4f8fbbd5b0e19c0b29ed208d89d7197c16566c1",
+    "started_at_epoch": 1793396072.777826,
+    "status": "saved",
+    "file": "data/data-architect-2026-10-30-21-34-32-777806-p3.json",
+    "job_count": 9
+  }
+]

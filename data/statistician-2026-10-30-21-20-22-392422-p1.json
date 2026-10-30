@@ -1,0 +1,945 @@
+{
+  "search_metadata": {
+    "id": "6ae50a162106d4f7b6c82e3e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Q6eHjuvu5k4KnA4bole7PYVwjAQIGt83Pc4VDVHxUM8/6ae50a162106d4f7b6c82e3e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Q6eHjuvu5k4KnA4bole7PYVwjAQIGt83Pc4VDVHxUM8/6ae50a162106d4f7b6c82e3e.md",
+    "created_at": "2026-10-30 21:20:22 UTC",
+    "processed_at": "2026-10-30 21:20:22 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Statistician&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Q6eHjuvu5k4KnA4bole7PYVwjAQIGt83Pc4VDVHxUM8/6ae50a162106d4f7b6c82e3e.html",
+    "total_time_taken": 2.91
+  },
+  "search_parameters": {
+    "q": "Statistician",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB5_lwP0mjL8SBxnx8sQqcioqhxlJFE4iGTTFlYZozkBl3XodeOjQFwMZi2cTyKXOZQ6aL36oKUbUmfjhsnhShlyNUz8n0PeaFUAqg11xNhEtaHXOag7gmlDJwWXx8W_nzSygU44",
+        "q": "Statistician remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB5_lwP0mjL8SBxnx8sQqcioqhxlJFE4iGTTFlYZozkBl3XodeOjQFwMZi2cTyKXOZQ6aL36oKUbUmfjhsnhShlyNUz8n0PeaFUAqg11xNhEtaHXOag7gmlDJwWXx8W_nzSygU44&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQxKsJKAB6BAghEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB5_lwP0mjL8SBxnx8sQqcioqhxlJFE4iGTTFlYZozkBl3XodeOjQFwMZi2cTyKXOZQ6aL36oKUbUmfjhsnhShlyNUz8n0PeaFUAqg11xNhEtaHXOag7gmlDJwWXx8W_nzSygU44&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXf9H1cojIq6y6hRz60fQQxc4-2xCJBgUMvdG3Ax1YUqMPeB3Xz9Rpj2b7j1pPnRS-u9imA027KhRTMQPi0XPhnvd9UMzOfqp-qSOYQOvGP-fiMPOxyhwKzF-iG3ub2gc56G99AhaIRwMTIwOuhlYbL9dELME",
+        "q": "Statistician no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXf9H1cojIq6y6hRz60fQQxc4-2xCJBgUMvdG3Ax1YUqMPeB3Xz9Rpj2b7j1pPnRS-u9imA027KhRTMQPi0XPhnvd9UMzOfqp-qSOYQOvGP-fiMPOxyhwKzF-iG3ub2gc56G99AhaIRwMTIwOuhlYbL9dELME&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQxKsJKAF6BAgiEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXf9H1cojIq6y6hRz60fQQxc4-2xCJBgUMvdG3Ax1YUqMPeB3Xz9Rpj2b7j1pPnRS-u9imA027KhRTMQPi0XPhnvd9UMzOfqp-qSOYQOvGP-fiMPOxyhwKzF-iG3ub2gc56G99AhaIRwMTIwOuhlYbL9dELME&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MTYBdYVoORKsTBKxBozEZd_4znxEv1hmvflxx13r6mMiq7WxvgaVaJFCJB9ziAkuXX1de2JtwYuWAE1Lv02YMor74M51ubPfBkPKsWEqxuhe0FG3zVl02gu5WaLyvV46wMT5GiKs8lq95vGhJC5k6Y-aJFRfTxUfk-HayAbrVCk5p_aDMxkXZulcB4igeHXm7tWHvDc1D3Ee9wWngyaoTEgryH-PEdDRB4Oae5RasMwkmqzilaLgd_bLVRbmrfPejhp8vSJjPxm_yjm6AvmSnZ7EUpLoEowZfNLQmt1VuQ7n1nBgbq7Vck2EJ9FBwUqLNlJXxXc",
+            "q": "Statistician since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MTYBdYVoORKsTBKxBozEZd_4znxEv1hmvflxx13r6mMiq7WxvgaVaJFCJB9ziAkuXX1de2JtwYuWAE1Lv02YMor74M51ubPfBkPKsWEqxuhe0FG3zVl02gu5WaLyvV46wMT5GiKs8lq95vGhJC5k6Y-aJFRfTxUfk-HayAbrVCk5p_aDMxkXZulcB4igeHXm7tWHvDc1D3Ee9wWngyaoTEgryH-PEdDRB4Oae5RasMwkmqzilaLgd_bLVRbmrfPejhp8vSJjPxm_yjm6AvmSnZ7EUpLoEowZfNLQmt1VuQ7n1nBgbq7Vck2EJ9FBwUqLNlJXxXc&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MTYBdYVoORKsTBKxBozEZd_4znxEv1hmvflxx13r6mMiq7WxvgaVaJFCJB9ziAkuXX1de2JtwYuWAE1Lv02YMor74M51ubPfBkPKsWEqxuhe0FG3zVl02gu5WaLyvV46wMT5GiKs8lq95vGhJC5k6Y-aJFRfTxUfk-HayAbrVCk5p_aDMxkXZulcB4igeHXm7tWHvDc1D3Ee9wWngyaoTEgryH-PEdDRB4Oae5RasMwkmqzilaLgd_bLVRbmrfPejhp8vSJjPxm_yjm6AvmSnZ7EUpLoEowZfNLQmt1VuQ7n1nBgbq7Vck2EJ9FBwUqLNlJXxXc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qsiW5uKlQ5hlYYwRAj4tlPSaUJcAfBpjBWVDu-YYoTjYBej_CuX42q3EkbrnfmU9jUX9DIPz8FbvFT_n-0wpvhqGEREtnscelvqv1i6tZ0ssUB6AXhuCcSxQ923ZWDjVYUJaPZtyqtex6FbJ9FHDH7wiHNdKTMqiG8VTHd9w9D8ViYz_ExWRnOXz5a6tN6WTDXjlGp9Zd3uXZIDIH853OF10uNsbYH1WgTcX99-0K8_cDENYrw90cp0OYMc6XxU5Xj4qtGCeXPkTRNcWK7CgNo1FHVAMkFJq6EbMLPbbG_JG7xvTwapfdR62CmbC2-P3Xrwll2bY",
+            "q": "Statistician in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qsiW5uKlQ5hlYYwRAj4tlPSaUJcAfBpjBWVDu-YYoTjYBej_CuX42q3EkbrnfmU9jUX9DIPz8FbvFT_n-0wpvhqGEREtnscelvqv1i6tZ0ssUB6AXhuCcSxQ923ZWDjVYUJaPZtyqtex6FbJ9FHDH7wiHNdKTMqiG8VTHd9w9D8ViYz_ExWRnOXz5a6tN6WTDXjlGp9Zd3uXZIDIH853OF10uNsbYH1WgTcX99-0K8_cDENYrw90cp0OYMc6XxU5Xj4qtGCeXPkTRNcWK7CgNo1FHVAMkFJq6EbMLPbbG_JG7xvTwapfdR62CmbC2-P3Xrwll2bY&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qsiW5uKlQ5hlYYwRAj4tlPSaUJcAfBpjBWVDu-YYoTjYBej_CuX42q3EkbrnfmU9jUX9DIPz8FbvFT_n-0wpvhqGEREtnscelvqv1i6tZ0ssUB6AXhuCcSxQ923ZWDjVYUJaPZtyqtex6FbJ9FHDH7wiHNdKTMqiG8VTHd9w9D8ViYz_ExWRnOXz5a6tN6WTDXjlGp9Zd3uXZIDIH853OF10uNsbYH1WgTcX99-0K8_cDENYrw90cp0OYMc6XxU5Xj4qtGCeXPkTRNcWK7CgNo1FHVAMkFJq6EbMLPbbG_JG7xvTwapfdR62CmbC2-P3Xrwll2bY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7vUqWYERwnbBV9vV94YCl88NltLU9xCkypfwDvfbQl2DUoJRQF1XU1UN2m9ylPdy2e5yXslTRlvC0fH6AI4RKZAv83EJoiRCQU5fyRfddNq_DRybcISn71NJXGLnFDr2QbPYpuPBQBjXXLe7pQV9v9goeV3p0TXfOzPUbNRfUvfAj_5aNgxDpaQmXA0Yo6yGZu7xN2y5iJSA3Kq6z0NXV6GOMJP7s5JmILIBkj3qKDc1BGTdauWmFx-U9oIwCRDIRksZ_1dnQl25LYDNvF1M0vnOQdrW6E1pSJvfHwZGBsGdAEpPQ2UK-9mTNOiCBjz3kggVzdg",
+            "q": "Statistician in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7vUqWYERwnbBV9vV94YCl88NltLU9xCkypfwDvfbQl2DUoJRQF1XU1UN2m9ylPdy2e5yXslTRlvC0fH6AI4RKZAv83EJoiRCQU5fyRfddNq_DRybcISn71NJXGLnFDr2QbPYpuPBQBjXXLe7pQV9v9goeV3p0TXfOzPUbNRfUvfAj_5aNgxDpaQmXA0Yo6yGZu7xN2y5iJSA3Kq6z0NXV6GOMJP7s5JmILIBkj3qKDc1BGTdauWmFx-U9oIwCRDIRksZ_1dnQl25LYDNvF1M0vnOQdrW6E1pSJvfHwZGBsGdAEpPQ2UK-9mTNOiCBjz3kggVzdg&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7vUqWYERwnbBV9vV94YCl88NltLU9xCkypfwDvfbQl2DUoJRQF1XU1UN2m9ylPdy2e5yXslTRlvC0fH6AI4RKZAv83EJoiRCQU5fyRfddNq_DRybcISn71NJXGLnFDr2QbPYpuPBQBjXXLe7pQV9v9goeV3p0TXfOzPUbNRfUvfAj_5aNgxDpaQmXA0Yo6yGZu7xN2y5iJSA3Kq6z0NXV6GOMJP7s5JmILIBkj3qKDc1BGTdauWmFx-U9oIwCRDIRksZ_1dnQl25LYDNvF1M0vnOQdrW6E1pSJvfHwZGBsGdAEpPQ2UK-9mTNOiCBjz3kggVzdg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA-_5lus7TY3v3CW79R_QJsZ8BBwYSl9O10oLFjmodP7-SlR_g5e3aDnN-Zh_bo2PMNKp29ur84rIrUISm8NaMT1_ymnmAs_bUVXnn71JroaHB2Vc28kwjYnhMRw9Z_PEDM0_P1WgVx74UCQWNR0TF2dBLjjw6-sUrLsyq6-f__n0_OdzoO7u2jMLKXbrJaPO-F7O4kwyCINAiL7qaCZ3l0DfN9O9i1iqI39QwTZyTskDUmJ69yLMZabRhACsQRQx0XINDVlsx4aj9sNzeqBSwh1znBEoQR-az-DPAnTWGQwOe382uXar_T92fg_oj_51ZqFVxPw",
+            "q": "Statistician in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA-_5lus7TY3v3CW79R_QJsZ8BBwYSl9O10oLFjmodP7-SlR_g5e3aDnN-Zh_bo2PMNKp29ur84rIrUISm8NaMT1_ymnmAs_bUVXnn71JroaHB2Vc28kwjYnhMRw9Z_PEDM0_P1WgVx74UCQWNR0TF2dBLjjw6-sUrLsyq6-f__n0_OdzoO7u2jMLKXbrJaPO-F7O4kwyCINAiL7qaCZ3l0DfN9O9i1iqI39QwTZyTskDUmJ69yLMZabRhACsQRQx0XINDVlsx4aj9sNzeqBSwh1znBEoQR-az-DPAnTWGQwOe382uXar_T92fg_oj_51ZqFVxPw&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA-_5lus7TY3v3CW79R_QJsZ8BBwYSl9O10oLFjmodP7-SlR_g5e3aDnN-Zh_bo2PMNKp29ur84rIrUISm8NaMT1_ymnmAs_bUVXnn71JroaHB2Vc28kwjYnhMRw9Z_PEDM0_P1WgVx74UCQWNR0TF2dBLjjw6-sUrLsyq6-f__n0_OdzoO7u2jMLKXbrJaPO-F7O4kwyCINAiL7qaCZ3l0DfN9O9i1iqI39QwTZyTskDUmJ69yLMZabRhACsQRQx0XINDVlsx4aj9sNzeqBSwh1znBEoQR-az-DPAnTWGQwOe382uXar_T92fg_oj_51ZqFVxPw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MTYBdYVoORKsTBKxBozEZd_4znxEv1hmvflxx13r6mMiq7WxvgaVaJFCJB9ziAkuXX1de2JtwYuWAE1Lv02YMor74M51ubPfBkPKsWEqxuhe0FG3zVl02gu5WaLyvV46wMT5GiKs8lq95vGhJC5k6Y-aJFRfTxUfk-HayAbrVCk5p_aDMxkXZulcB4igeHXm7tWHvDc1D3Ee9wWngyaoTEgryH-PEdDRB4Oae5RasMwkmqzilaLgd_bLVRbmrfPejhp8vSJjPxm_yjm6AvmSnZ7EUpLoEowZfNLQmt1VuQ7n1nBgbq7Vck2EJ9FBwUqLNlJXxXc",
+            "q": "Statistician since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MTYBdYVoORKsTBKxBozEZd_4znxEv1hmvflxx13r6mMiq7WxvgaVaJFCJB9ziAkuXX1de2JtwYuWAE1Lv02YMor74M51ubPfBkPKsWEqxuhe0FG3zVl02gu5WaLyvV46wMT5GiKs8lq95vGhJC5k6Y-aJFRfTxUfk-HayAbrVCk5p_aDMxkXZulcB4igeHXm7tWHvDc1D3Ee9wWngyaoTEgryH-PEdDRB4Oae5RasMwkmqzilaLgd_bLVRbmrfPejhp8vSJjPxm_yjm6AvmSnZ7EUpLoEowZfNLQmt1VuQ7n1nBgbq7Vck2EJ9FBwUqLNlJXxXc&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MTYBdYVoORKsTBKxBozEZd_4znxEv1hmvflxx13r6mMiq7WxvgaVaJFCJB9ziAkuXX1de2JtwYuWAE1Lv02YMor74M51ubPfBkPKsWEqxuhe0FG3zVl02gu5WaLyvV46wMT5GiKs8lq95vGhJC5k6Y-aJFRfTxUfk-HayAbrVCk5p_aDMxkXZulcB4igeHXm7tWHvDc1D3Ee9wWngyaoTEgryH-PEdDRB4Oae5RasMwkmqzilaLgd_bLVRbmrfPejhp8vSJjPxm_yjm6AvmSnZ7EUpLoEowZfNLQmt1VuQ7n1nBgbq7Vck2EJ9FBwUqLNlJXxXc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qsiW5uKlQ5hlYYwRAj4tlPSaUJcAfBpjBWVDu-YYoTjYBej_CuX42q3EkbrnfmU9jUX9DIPz8FbvFT_n-0wpvhqGEREtnscelvqv1i6tZ0ssUB6AXhuCcSxQ923ZWDjVYUJaPZtyqtex6FbJ9FHDH7wiHNdKTMqiG8VTHd9w9D8ViYz_ExWRnOXz5a6tN6WTDXjlGp9Zd3uXZIDIH853OF10uNsbYH1WgTcX99-0K8_cDENYrw90cp0OYMc6XxU5Xj4qtGCeXPkTRNcWK7CgNo1FHVAMkFJq6EbMLPbbG_JG7xvTwapfdR62CmbC2-P3Xrwll2bY",
+            "q": "Statistician in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qsiW5uKlQ5hlYYwRAj4tlPSaUJcAfBpjBWVDu-YYoTjYBej_CuX42q3EkbrnfmU9jUX9DIPz8FbvFT_n-0wpvhqGEREtnscelvqv1i6tZ0ssUB6AXhuCcSxQ923ZWDjVYUJaPZtyqtex6FbJ9FHDH7wiHNdKTMqiG8VTHd9w9D8ViYz_ExWRnOXz5a6tN6WTDXjlGp9Zd3uXZIDIH853OF10uNsbYH1WgTcX99-0K8_cDENYrw90cp0OYMc6XxU5Xj4qtGCeXPkTRNcWK7CgNo1FHVAMkFJq6EbMLPbbG_JG7xvTwapfdR62CmbC2-P3Xrwll2bY&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qsiW5uKlQ5hlYYwRAj4tlPSaUJcAfBpjBWVDu-YYoTjYBej_CuX42q3EkbrnfmU9jUX9DIPz8FbvFT_n-0wpvhqGEREtnscelvqv1i6tZ0ssUB6AXhuCcSxQ923ZWDjVYUJaPZtyqtex6FbJ9FHDH7wiHNdKTMqiG8VTHd9w9D8ViYz_ExWRnOXz5a6tN6WTDXjlGp9Zd3uXZIDIH853OF10uNsbYH1WgTcX99-0K8_cDENYrw90cp0OYMc6XxU5Xj4qtGCeXPkTRNcWK7CgNo1FHVAMkFJq6EbMLPbbG_JG7xvTwapfdR62CmbC2-P3Xrwll2bY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7vUqWYERwnbBV9vV94YCl88NltLU9xCkypfwDvfbQl2DUoJRQF1XU1UN2m9ylPdy2e5yXslTRlvC0fH6AI4RKZAv83EJoiRCQU5fyRfddNq_DRybcISn71NJXGLnFDr2QbPYpuPBQBjXXLe7pQV9v9goeV3p0TXfOzPUbNRfUvfAj_5aNgxDpaQmXA0Yo6yGZu7xN2y5iJSA3Kq6z0NXV6GOMJP7s5JmILIBkj3qKDc1BGTdauWmFx-U9oIwCRDIRksZ_1dnQl25LYDNvF1M0vnOQdrW6E1pSJvfHwZGBsGdAEpPQ2UK-9mTNOiCBjz3kggVzdg",
+            "q": "Statistician in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7vUqWYERwnbBV9vV94YCl88NltLU9xCkypfwDvfbQl2DUoJRQF1XU1UN2m9ylPdy2e5yXslTRlvC0fH6AI4RKZAv83EJoiRCQU5fyRfddNq_DRybcISn71NJXGLnFDr2QbPYpuPBQBjXXLe7pQV9v9goeV3p0TXfOzPUbNRfUvfAj_5aNgxDpaQmXA0Yo6yGZu7xN2y5iJSA3Kq6z0NXV6GOMJP7s5JmILIBkj3qKDc1BGTdauWmFx-U9oIwCRDIRksZ_1dnQl25LYDNvF1M0vnOQdrW6E1pSJvfHwZGBsGdAEpPQ2UK-9mTNOiCBjz3kggVzdg&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7vUqWYERwnbBV9vV94YCl88NltLU9xCkypfwDvfbQl2DUoJRQF1XU1UN2m9ylPdy2e5yXslTRlvC0fH6AI4RKZAv83EJoiRCQU5fyRfddNq_DRybcISn71NJXGLnFDr2QbPYpuPBQBjXXLe7pQV9v9goeV3p0TXfOzPUbNRfUvfAj_5aNgxDpaQmXA0Yo6yGZu7xN2y5iJSA3Kq6z0NXV6GOMJP7s5JmILIBkj3qKDc1BGTdauWmFx-U9oIwCRDIRksZ_1dnQl25LYDNvF1M0vnOQdrW6E1pSJvfHwZGBsGdAEpPQ2UK-9mTNOiCBjz3kggVzdg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA-_5lus7TY3v3CW79R_QJsZ8BBwYSl9O10oLFjmodP7-SlR_g5e3aDnN-Zh_bo2PMNKp29ur84rIrUISm8NaMT1_ymnmAs_bUVXnn71JroaHB2Vc28kwjYnhMRw9Z_PEDM0_P1WgVx74UCQWNR0TF2dBLjjw6-sUrLsyq6-f__n0_OdzoO7u2jMLKXbrJaPO-F7O4kwyCINAiL7qaCZ3l0DfN9O9i1iqI39QwTZyTskDUmJ69yLMZabRhACsQRQx0XINDVlsx4aj9sNzeqBSwh1znBEoQR-az-DPAnTWGQwOe382uXar_T92fg_oj_51ZqFVxPw",
+            "q": "Statistician in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA-_5lus7TY3v3CW79R_QJsZ8BBwYSl9O10oLFjmodP7-SlR_g5e3aDnN-Zh_bo2PMNKp29ur84rIrUISm8NaMT1_ymnmAs_bUVXnn71JroaHB2Vc28kwjYnhMRw9Z_PEDM0_P1WgVx74UCQWNR0TF2dBLjjw6-sUrLsyq6-f__n0_OdzoO7u2jMLKXbrJaPO-F7O4kwyCINAiL7qaCZ3l0DfN9O9i1iqI39QwTZyTskDUmJ69yLMZabRhACsQRQx0XINDVlsx4aj9sNzeqBSwh1znBEoQR-az-DPAnTWGQwOe382uXar_T92fg_oj_51ZqFVxPw&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA-_5lus7TY3v3CW79R_QJsZ8BBwYSl9O10oLFjmodP7-SlR_g5e3aDnN-Zh_bo2PMNKp29ur84rIrUISm8NaMT1_ymnmAs_bUVXnn71JroaHB2Vc28kwjYnhMRw9Z_PEDM0_P1WgVx74UCQWNR0TF2dBLjjw6-sUrLsyq6-f__n0_OdzoO7u2jMLKXbrJaPO-F7O4kwyCINAiL7qaCZ3l0DfN9O9i1iqI39QwTZyTskDUmJ69yLMZabRhACsQRQx0XINDVlsx4aj9sNzeqBSwh1znBEoQR-az-DPAnTWGQwOe382uXar_T92fg_oj_51ZqFVxPw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSLg2QDjU1BnNJVnEJZOMlOSZ3tRYzmzvN0jKPzYJ1wGztNhteEDBbyohu9itLh9kmn7RuCK6ssNZHdeV9fkXZxeAHH5F9K3zx-eL4vg7WC91480RX70dtdxI_hWwSvv1xBzFgYJ9dU2ASeE1wdDm_9h9bps0UJ7jtluSmB0PjpiUKxEbmd1IOnlXjqBnv9OJn1TGxT4Y816_Bqg22VUE60hPhbDKeNyhafGLT0xVFVKLz5cwjhU0ebd4nyPSPxciANO_t2tg_29aVBGCIEfIbGauOXjnQ",
+            "q": "Statistician full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSLg2QDjU1BnNJVnEJZOMlOSZ3tRYzmzvN0jKPzYJ1wGztNhteEDBbyohu9itLh9kmn7RuCK6ssNZHdeV9fkXZxeAHH5F9K3zx-eL4vg7WC91480RX70dtdxI_hWwSvv1xBzFgYJ9dU2ASeE1wdDm_9h9bps0UJ7jtluSmB0PjpiUKxEbmd1IOnlXjqBnv9OJn1TGxT4Y816_Bqg22VUE60hPhbDKeNyhafGLT0xVFVKLz5cwjhU0ebd4nyPSPxciANO_t2tg_29aVBGCIEfIbGauOXjnQ&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSLg2QDjU1BnNJVnEJZOMlOSZ3tRYzmzvN0jKPzYJ1wGztNhteEDBbyohu9itLh9kmn7RuCK6ssNZHdeV9fkXZxeAHH5F9K3zx-eL4vg7WC91480RX70dtdxI_hWwSvv1xBzFgYJ9dU2ASeE1wdDm_9h9bps0UJ7jtluSmB0PjpiUKxEbmd1IOnlXjqBnv9OJn1TGxT4Y816_Bqg22VUE60hPhbDKeNyhafGLT0xVFVKLz5cwjhU0ebd4nyPSPxciANO_t2tg_29aVBGCIEfIbGauOXjnQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSIbuJleDS-gF5LjtnK1vGcx08IthDiMQ4_qwGm3sO3cP5DphXC6xGHYHqyweEca4OzEZXdmQGwsNWXHeI1WkaCC0Kd1WWaY3KcF1XFVk7t8YKT50cxOgQ79dq5KGcgdVMUMbLbJhOwadw_lMJ8Gr_0CzwRFyVdOOXA98LVRUFiZjpNeaEDbSkUADr-M3rzh-r2SDV0r5Vo-5Fgdhb4G_kxQorR0npMTRxvvpjxrV6o6kp8jD1q7XASF-BrsxfgDFC14MuwkJtFhxGWpZyUWxSpwJ3E35w",
+            "q": "Statistician part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSIbuJleDS-gF5LjtnK1vGcx08IthDiMQ4_qwGm3sO3cP5DphXC6xGHYHqyweEca4OzEZXdmQGwsNWXHeI1WkaCC0Kd1WWaY3KcF1XFVk7t8YKT50cxOgQ79dq5KGcgdVMUMbLbJhOwadw_lMJ8Gr_0CzwRFyVdOOXA98LVRUFiZjpNeaEDbSkUADr-M3rzh-r2SDV0r5Vo-5Fgdhb4G_kxQorR0npMTRxvvpjxrV6o6kp8jD1q7XASF-BrsxfgDFC14MuwkJtFhxGWpZyUWxSpwJ3E35w&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSIbuJleDS-gF5LjtnK1vGcx08IthDiMQ4_qwGm3sO3cP5DphXC6xGHYHqyweEca4OzEZXdmQGwsNWXHeI1WkaCC0Kd1WWaY3KcF1XFVk7t8YKT50cxOgQ79dq5KGcgdVMUMbLbJhOwadw_lMJ8Gr_0CzwRFyVdOOXA98LVRUFiZjpNeaEDbSkUADr-M3rzh-r2SDV0r5Vo-5Fgdhb4G_kxQorR0npMTRxvvpjxrV6o6kp8jD1q7XASF-BrsxfgDFC14MuwkJtFhxGWpZyUWxSpwJ3E35w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj-Rt3HuDBacRZpWMu-vycpk12ZrDtP3JYSpOkgFuXSfL1WGP1NsHddXHMGMF89c8OP34ECBuPgpOloDlW9gUuRjdZ1oeiZQWof4je_YGLjOV0-1D_De58WEoL7nDOZgaAMbYOrs5C-Yu1STfgdWf8Hs3_CaeZP9P3EMOeoYSzv353_QSjqcd-QDiFryzdebal5Ki7UU8L7LqzwK80NJbk7ppJlTen2ChKbYvee4wHaChE0_WxJjSDL_T5U3SHXUTBji9ieYEWahgMvGfGEy8Hh85fbkM",
+            "q": "Statistician contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj-Rt3HuDBacRZpWMu-vycpk12ZrDtP3JYSpOkgFuXSfL1WGP1NsHddXHMGMF89c8OP34ECBuPgpOloDlW9gUuRjdZ1oeiZQWof4je_YGLjOV0-1D_De58WEoL7nDOZgaAMbYOrs5C-Yu1STfgdWf8Hs3_CaeZP9P3EMOeoYSzv353_QSjqcd-QDiFryzdebal5Ki7UU8L7LqzwK80NJbk7ppJlTen2ChKbYvee4wHaChE0_WxJjSDL_T5U3SHXUTBji9ieYEWahgMvGfGEy8Hh85fbkM&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj-Rt3HuDBacRZpWMu-vycpk12ZrDtP3JYSpOkgFuXSfL1WGP1NsHddXHMGMF89c8OP34ECBuPgpOloDlW9gUuRjdZ1oeiZQWof4je_YGLjOV0-1D_De58WEoL7nDOZgaAMbYOrs5C-Yu1STfgdWf8Hs3_CaeZP9P3EMOeoYSzv353_QSjqcd-QDiFryzdebal5Ki7UU8L7LqzwK80NJbk7ppJlTen2ChKbYvee4wHaChE0_WxJjSDL_T5U3SHXUTBji9ieYEWahgMvGfGEy8Hh85fbkM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fMQ9yfpAy5AgoUBQFrKS85DRiuA8mDW67Gah3YbzfXWMYpRyyPNG4HeHiMsHV99vo9VVvNzHdz9gbn3YgpwpcW8xT041qSyq_Tb4cKApRHBa_GFjYZNc4R4vk5WXhQSqoN8T-kL4fM8txJZnfL9vQPSp45_l0T-Jydn8P4IHGschcsCQh-x4uTBj_VuvQ97t4DUeTLQidzLCmOyCypNxB2pdf5W7qz6mHJsdmHsUG2NBk9_Lt5HmAGxuFXsi5lfgPN8ud2-LBo5d4L_9Ti8fXjJVoCR",
+            "q": "Statistician internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fMQ9yfpAy5AgoUBQFrKS85DRiuA8mDW67Gah3YbzfXWMYpRyyPNG4HeHiMsHV99vo9VVvNzHdz9gbn3YgpwpcW8xT041qSyq_Tb4cKApRHBa_GFjYZNc4R4vk5WXhQSqoN8T-kL4fM8txJZnfL9vQPSp45_l0T-Jydn8P4IHGschcsCQh-x4uTBj_VuvQ97t4DUeTLQidzLCmOyCypNxB2pdf5W7qz6mHJsdmHsUG2NBk9_Lt5HmAGxuFXsi5lfgPN8ud2-LBo5d4L_9Ti8fXjJVoCR&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fMQ9yfpAy5AgoUBQFrKS85DRiuA8mDW67Gah3YbzfXWMYpRyyPNG4HeHiMsHV99vo9VVvNzHdz9gbn3YgpwpcW8xT041qSyq_Tb4cKApRHBa_GFjYZNc4R4vk5WXhQSqoN8T-kL4fM8txJZnfL9vQPSp45_l0T-Jydn8P4IHGschcsCQh-x4uTBj_VuvQ97t4DUeTLQidzLCmOyCypNxB2pdf5W7qz6mHJsdmHsUG2NBk9_Lt5HmAGxuFXsi5lfgPN8ud2-LBo5d4L_9Ti8fXjJVoCR&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSLg2QDjU1BnNJVnEJZOMlOSZ3tRYzmzvN0jKPzYJ1wGztNhteEDBbyohu9itLh9kmn7RuCK6ssNZHdeV9fkXZxeAHH5F9K3zx-eL4vg7WC91480RX70dtdxI_hWwSvv1xBzFgYJ9dU2ASeE1wdDm_9h9bps0UJ7jtluSmB0PjpiUKxEbmd1IOnlXjqBnv9OJn1TGxT4Y816_Bqg22VUE60hPhbDKeNyhafGLT0xVFVKLz5cwjhU0ebd4nyPSPxciANO_t2tg_29aVBGCIEfIbGauOXjnQ",
+            "q": "Statistician full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSLg2QDjU1BnNJVnEJZOMlOSZ3tRYzmzvN0jKPzYJ1wGztNhteEDBbyohu9itLh9kmn7RuCK6ssNZHdeV9fkXZxeAHH5F9K3zx-eL4vg7WC91480RX70dtdxI_hWwSvv1xBzFgYJ9dU2ASeE1wdDm_9h9bps0UJ7jtluSmB0PjpiUKxEbmd1IOnlXjqBnv9OJn1TGxT4Y816_Bqg22VUE60hPhbDKeNyhafGLT0xVFVKLz5cwjhU0ebd4nyPSPxciANO_t2tg_29aVBGCIEfIbGauOXjnQ&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSLg2QDjU1BnNJVnEJZOMlOSZ3tRYzmzvN0jKPzYJ1wGztNhteEDBbyohu9itLh9kmn7RuCK6ssNZHdeV9fkXZxeAHH5F9K3zx-eL4vg7WC91480RX70dtdxI_hWwSvv1xBzFgYJ9dU2ASeE1wdDm_9h9bps0UJ7jtluSmB0PjpiUKxEbmd1IOnlXjqBnv9OJn1TGxT4Y816_Bqg22VUE60hPhbDKeNyhafGLT0xVFVKLz5cwjhU0ebd4nyPSPxciANO_t2tg_29aVBGCIEfIbGauOXjnQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSIbuJleDS-gF5LjtnK1vGcx08IthDiMQ4_qwGm3sO3cP5DphXC6xGHYHqyweEca4OzEZXdmQGwsNWXHeI1WkaCC0Kd1WWaY3KcF1XFVk7t8YKT50cxOgQ79dq5KGcgdVMUMbLbJhOwadw_lMJ8Gr_0CzwRFyVdOOXA98LVRUFiZjpNeaEDbSkUADr-M3rzh-r2SDV0r5Vo-5Fgdhb4G_kxQorR0npMTRxvvpjxrV6o6kp8jD1q7XASF-BrsxfgDFC14MuwkJtFhxGWpZyUWxSpwJ3E35w",
+            "q": "Statistician part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSIbuJleDS-gF5LjtnK1vGcx08IthDiMQ4_qwGm3sO3cP5DphXC6xGHYHqyweEca4OzEZXdmQGwsNWXHeI1WkaCC0Kd1WWaY3KcF1XFVk7t8YKT50cxOgQ79dq5KGcgdVMUMbLbJhOwadw_lMJ8Gr_0CzwRFyVdOOXA98LVRUFiZjpNeaEDbSkUADr-M3rzh-r2SDV0r5Vo-5Fgdhb4G_kxQorR0npMTRxvvpjxrV6o6kp8jD1q7XASF-BrsxfgDFC14MuwkJtFhxGWpZyUWxSpwJ3E35w&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA426FZhPImifgNddlz6qgSIbuJleDS-gF5LjtnK1vGcx08IthDiMQ4_qwGm3sO3cP5DphXC6xGHYHqyweEca4OzEZXdmQGwsNWXHeI1WkaCC0Kd1WWaY3KcF1XFVk7t8YKT50cxOgQ79dq5KGcgdVMUMbLbJhOwadw_lMJ8Gr_0CzwRFyVdOOXA98LVRUFiZjpNeaEDbSkUADr-M3rzh-r2SDV0r5Vo-5Fgdhb4G_kxQorR0npMTRxvvpjxrV6o6kp8jD1q7XASF-BrsxfgDFC14MuwkJtFhxGWpZyUWxSpwJ3E35w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj-Rt3HuDBacRZpWMu-vycpk12ZrDtP3JYSpOkgFuXSfL1WGP1NsHddXHMGMF89c8OP34ECBuPgpOloDlW9gUuRjdZ1oeiZQWof4je_YGLjOV0-1D_De58WEoL7nDOZgaAMbYOrs5C-Yu1STfgdWf8Hs3_CaeZP9P3EMOeoYSzv353_QSjqcd-QDiFryzdebal5Ki7UU8L7LqzwK80NJbk7ppJlTen2ChKbYvee4wHaChE0_WxJjSDL_T5U3SHXUTBji9ieYEWahgMvGfGEy8Hh85fbkM",
+            "q": "Statistician contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj-Rt3HuDBacRZpWMu-vycpk12ZrDtP3JYSpOkgFuXSfL1WGP1NsHddXHMGMF89c8OP34ECBuPgpOloDlW9gUuRjdZ1oeiZQWof4je_YGLjOV0-1D_De58WEoL7nDOZgaAMbYOrs5C-Yu1STfgdWf8Hs3_CaeZP9P3EMOeoYSzv353_QSjqcd-QDiFryzdebal5Ki7UU8L7LqzwK80NJbk7ppJlTen2ChKbYvee4wHaChE0_WxJjSDL_T5U3SHXUTBji9ieYEWahgMvGfGEy8Hh85fbkM&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj-Rt3HuDBacRZpWMu-vycpk12ZrDtP3JYSpOkgFuXSfL1WGP1NsHddXHMGMF89c8OP34ECBuPgpOloDlW9gUuRjdZ1oeiZQWof4je_YGLjOV0-1D_De58WEoL7nDOZgaAMbYOrs5C-Yu1STfgdWf8Hs3_CaeZP9P3EMOeoYSzv353_QSjqcd-QDiFryzdebal5Ki7UU8L7LqzwK80NJbk7ppJlTen2ChKbYvee4wHaChE0_WxJjSDL_T5U3SHXUTBji9ieYEWahgMvGfGEy8Hh85fbkM&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fMQ9yfpAy5AgoUBQFrKS85DRiuA8mDW67Gah3YbzfXWMYpRyyPNG4HeHiMsHV99vo9VVvNzHdz9gbn3YgpwpcW8xT041qSyq_Tb4cKApRHBa_GFjYZNc4R4vk5WXhQSqoN8T-kL4fM8txJZnfL9vQPSp45_l0T-Jydn8P4IHGschcsCQh-x4uTBj_VuvQ97t4DUeTLQidzLCmOyCypNxB2pdf5W7qz6mHJsdmHsUG2NBk9_Lt5HmAGxuFXsi5lfgPN8ud2-LBo5d4L_9Ti8fXjJVoCR",
+            "q": "Statistician internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDiDvglxk52iNyTnxhTZQJUhylEAug:1793395224848&q=Statistician+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fMQ9yfpAy5AgoUBQFrKS85DRiuA8mDW67Gah3YbzfXWMYpRyyPNG4HeHiMsHV99vo9VVvNzHdz9gbn3YgpwpcW8xT041qSyq_Tb4cKApRHBa_GFjYZNc4R4vk5WXhQSqoN8T-kL4fM8txJZnfL9vQPSp45_l0T-Jydn8P4IHGschcsCQh-x4uTBj_VuvQ97t4DUeTLQidzLCmOyCypNxB2pdf5W7qz6mHJsdmHsUG2NBk9_Lt5HmAGxuFXsi5lfgPN8ud2-LBo5d4L_9Ti8fXjJVoCR&udm=8&sa=X&ved=2ahUKEwivlcbq1eKXAxVoCnkGHfR_FrwQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Statistician+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fMQ9yfpAy5AgoUBQFrKS85DRiuA8mDW67Gah3YbzfXWMYpRyyPNG4HeHiMsHV99vo9VVvNzHdz9gbn3YgpwpcW8xT041qSyq_Tb4cKApRHBa_GFjYZNc4R4vk5WXhQSqoN8T-kL4fM8txJZnfL9vQPSp45_l0T-Jydn8P4IHGschcsCQh-x4uTBj_VuvQ97t4DUeTLQidzLCmOyCypNxB2pdf5W7qz6mHJsdmHsUG2NBk9_Lt5HmAGxuFXsi5lfgPN8ud2-LBo5d4L_9Ti8fXjJVoCR&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Statistician (Data Scientist)",
+      "company_name": "US Veterans Affairs, Inspector General",
+      "location": "Denver, CO",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be a U.S. Citizen or U.S. National",
+            "A one year probationary period may be required",
+            "Public Trust - Background Investigation will be required",
+            "If you are a male applicant born after December 31, 1959, certify that you have registered with the Selective Service System or are exempt from having to do so",
+            "Go through a Personal Identity Verification (PIV) process that requires two forms of identification from the Form I-9",
+            "You must meet the following requirements within 30 days of the closing date of this announcement",
+            "Degree: that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc",
+            "Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing",
+            "Combination of education and experience: courses as shown in A above, plus appropriate experience or additional education",
+            "The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance",
+            "For the GS-12, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-11 grade level in the Federal service",
+            "Assisting in researching and compiling data for inspection, audit and investigation activities; AND",
+            "One year of experience refers to full-time work; part-time work is considered on a prorated basis",
+            "To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your résumé",
+            "For the GS-12, you must have been at the GS-11grade level for 52 weeks",
+            "Time After Competitive Appointment: Candidates who are current Federal employees serving on a non-temporary competitive appointment must have served at least three months in that appointment",
+            "If you are claiming education as any part of your qualifications for this position, you must submit an official transcript, unofficial transcript, or a list including courses, grades earned, completion dates, and quarter and semester hours earned",
+            "Special Instructions for Foreign Education: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university",
+            "A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S",
+            "If you are qualifying based on foreign education, you must submit proof of creditability of education as evaluated by a credentialing agency",
+            "This is a non-bargaining unit position",
+            "Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees",
+            "If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office",
+            "Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application",
+            "Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments",
+            "Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution",
+            "The assessment includes a cut score based on the minimum level of required proficiency in these critical general competencies",
+            "You must meet or exceed the cut score to be considered",
+            "You may be required to participate in a selection interview and/or a writing assessment",
+            "If you are a displaced or surplus Federal employee (eligible for the Career Transition Assistance Plan(CTAP)/Interagency Career Transition Assistance Plan (ICTAP)) you must be assigned the middle category or better to be rated as \"well qualified\" to receive special selection priority",
+            "Resumes attached in other sections (such as \"Documents\" or \"Other\") will not be considered in the determination of specialized experience",
+            "To ensure readability, resumes must be formatted using an easy-to-read font (such as Lato, Calibri, or Arial) with a minimum font size of 10-points and margins no smaller than 0.5 inches",
+            "Review all instructions prior to beginning your assessments",
+            "You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended",
+            "Set aside at least 2 hours to take the USA Hire assessments; however, most applicants complete the assessments in less time",
+            "Minimum Qualification Requirement Met or Minimum Qualification Requirement Not Met;",
+            "To be considered for the position, you must meet all qualifications, including meeting or exceeding the cut score on the required assessments",
+            "Jobs require a background check and some require a security clearance"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Salary: The salary range indicated in this announcement will be adjusted to include locality payment for selected duty location",
+            "General Schedule locality pay tables may be found under Salaries & Wages",
+            "We offer opportunities for flexible work schedules",
+            "Our comprehensive benefits are very generous",
+            "Our benefits package includes:",
+            "Challenging work, opportunities for advancement, competitive salaries, bonuses and incentive awards",
+            "Eleven paid holidays, 13 days of sick leave, and 13 to 26 days of vacation time each year",
+            "Access to insurance programs that may be continued after you retire",
+            "A wide choice of health insurance plans, coverage for pre-existing conditions, and no waiting periods",
+            "We pay a substantial amount (up to 75%) of the health insurance premiums",
+            "A retirement program which includes employer-matching contributions",
+            "Learn more about Federal benefits programs at: USAJOBS Help Center - Benefits",
+            "Telework eligible",
+            "$76,463 - $99,404 per year",
+            "The salary range indicated in this announcement will be adjusted to include locality payment for selected duty location",
+            "Pay scale & grade",
+            "Promotion potential",
+            "Pay scale and grade determines the salary of the job",
+            "Full-time"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "At the GS-12 level, this is a developmental position established to provide growth with the complexity of assignments increasing with knowledge and skills",
+            "Serve as a technical expert in a variety of data modeling techniques applying complex data modeling theories and techniques to support projects",
+            "Apply data modeling methods and quantities techniques for the solution of specific problems, analysis and interpretation of data modeling samples; the selection and use of data modeling analysis, operations research or management analysis methods, and the correct use of appropriate computer systems and software to accomplish these assignments",
+            "Conduct theoretical and quasi-experimental investigations to develop new or improve existing theories and techniques for the solution of problems in accuracy, reliability, availability and maintainability and which serve to expand the framework of knowledge in systems analysis",
+            "Provide advice and guidance on the appropriate selection and use of data modeling sampling and analysis methods to produce defensible results and survey design and analysis issues",
+            "Click \"Print Preview\" to review the entire announcement before applying",
+            "Obtain and use a Government-issued purchase card for business-related travel",
+            "File a Confidential Financial Disclosure Report within 30 days of appointment and annually from then on",
+            "Supporting data processing and analysis using analytic platforms and software; AND",
+            "Contributing to the development of work products such as data briefings, dashboards, and presentations based on data analysis",
+            "Office assignment may be at one of the locations listed on the announcement subject to availability and OIG management discretion",
+            "The online assessment measures critical general competencies required to perform the job",
+            "Rating: Your application will be evaluated in the following areas: Attention to Detail, Customer Service, Decision Making, Flexibility, Integrity/Honesty, Interpersonal Skills, Learning, Reasoning, Self-Management, Stress Tolerance, and Teamwork",
+            "Category rating will be used to rank and select eligible candidates",
+            "Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=_1cK7ZQ1xBig1vz0AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLZUiYlIbLQSA0Ebi6Bt2Byb5CTuHreL5Ev-UtNMMQOTfBdJURuaV_POI8OqREOonSee5Rq2cJMWlDC6AYShEulHWp4Gs6DHPFcds17nhcucvHNhamXKX9LqjEYHjBRGNGr2h92UBe43xaOGJxlFZIVz16GPmsKVNZAziVAR_9sInqEk_lBM4XL_Af2zZaCsAAAA&shmds=v1_Ac3VAozPKz2kV1QLRtkA8rEnS4Vikq7XMrWME08kEVnvH3RO4Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=_1cK7ZQ1xBig1vz0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a162106d4f7b6c82e3e/images/X0EV2XeLUOkDuXEVh3CYfhRMRz3sYbJi11OcRFBuq4E.jpeg",
+      "extensions": [
+        "1 day ago",
+        "76,463–99,404 a year",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=23b3b5918511c352",
+      "job_title": "Statistician (Data Scientist)",
+      "description": "Summary\n  The Department of Veterans Affairs, Office of the Inspector General (OIG), is organized into six operational units with offices in more than 60 locations throughout the country. \n\n\n    The Statistician (Data Scientist), located in the Department of Veterans Affairs (VA), Office of Inspector General (OIG), Office of Data and Analytics, provides advanced data analytics, business intelligence, and electronic data processing support to all directorates within the OIG.\n\n\n  Learn more about this agency\n\n\n \n\n\n\n\n \n  This job is open to\n \n \n  \n   \n    The public\n   \n   \n    U.S. Citizens, Nationals or those who owe allegiance to the U.S.\n   \n  \n  \n   \n    Career transition (CTAP, ICTAP, RPL)\n   \n   \n    Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.\n   \n  \n \n Clarification from the agency\n Open to all US citizens or US national and Career Transition Programs (CTAP, ICTAP, RPL)\n\n\n\n\n\n\n \n  Duties\n \n \n\n\n At the GS-12 level, this is a developmental position established to provide growth with the complexity of assignments increasing with knowledge and skills. \n\n\n   As a Statistician (Data Scientist), you will:\n\n\n \n  Serve as a technical expert in a variety of data modeling techniques applying complex data modeling theories and techniques to support projects.\n  Apply data modeling methods and quantities techniques for the solution of specific problems, analysis and interpretation of data modeling samples; the selection and use of data modeling analysis, operations research or management analysis methods, and the correct use of appropriate computer systems and software to accomplish these assignments.\n  Conduct theoretical and quasi-experimental investigations to develop new or improve existing theories and techniques for the solution of problems in accuracy, reliability, availability and maintainability and which serve to expand the framework of knowledge in systems analysis.\n  Provide advice and guidance on the appropriate selection and use of data modeling sampling and analysis methods to produce defensible results and survey design and analysis issues.\n \n\n\n\n\n\n\n\n \n  Requirements\n \n Conditions of employment\n \n\n\n Key Requirements:\n\n\n \n  \n   Click \"Print Preview\" to review the entire announcement before applying.\n  \n  \n   Must be a U.S. Citizen or U.S. National.\n  \n  \n   A one year probationary period may be required. Continued employment is contingent upon supervisory certification that continued employment will benefit the Federal Service; the certification will occur no less than 30 days before the end of the probationary/trial period.\n  \n  \n   Public Trust - Background Investigation will be required.\n  \n  \n   If you are a male applicant born after December 31, 1959, certify that you have registered with the Selective Service System or are exempt from having to do so.\n  \n  \n   Have your salary sent to a financial institution of your choice by Direct Deposit/Electronic Funds Transfer.\n  \n  \n   Go through a Personal Identity Verification (PIV) process that requires two forms of identification from the Form I-9. Federal law requires verification of the identity and employment eligibility of all new hires in the U.S.\n  \n  \n   Complete a Declaration for Federal Employment to determine your suitability for Federal employment, at the time requested by the agency.\n  \n  \n   Obtain and use a Government-issued purchase card for business-related travel.\n  \n  \n   File a Confidential Financial Disclosure Report within 30 days of appointment and annually from then on.\n  \n \n \n\n\n Qualifications\n You must meet the following requirements within 30 days of the closing date of this announcement. \n\n\n   For the Statistician (Data Scientist), GS-1530-12 position, you must qualify for one of the following options that best describes how you meet the Individual Occupational Requirement: \n\nA. Degree: that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing. \n\nOR \n\nB. Combination of education and experience: courses as shown in A above, plus appropriate experience or additional education. The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance. \n\nAND \n\n\n   Meet the following Specialized Experience: \n\n\n   For the GS-12, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-11 grade level in the Federal service. Specialized experience for this position includes:\n\n\n \n  \n   Assisting in researching and compiling data for inspection, audit and investigation activities; AND\n  \n  \n   Supporting data processing and analysis using analytic platforms and software; AND\n  \n  \n   Contributing to the development of work products such as data briefings, dashboards, and presentations based on data analysis.\n  \n The experience may have been gained in either the public, private sector or volunteer service. One year of experience refers to full-time work; part-time work is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your résumé. \n \n\n \n\n  If you are a current Federal Employee, in addition to the above requirements, you must meet the following time-in-grade requirement, if applicable: \n \n  For the GS-12, you must have been at the GS-11grade level for 52 weeks.\n \n \nTime After Competitive Appointment: Candidates who are current Federal employees serving on a non-temporary competitive appointment must have served at least three months in that appointment. \n \n\n\n \n  Education\n  If you are claiming education as any part of your qualifications for this position, you must submit an official transcript, unofficial transcript, or a list including courses, grades earned, completion dates, and quarter and semester hours earned. \n\nSpecial Instructions for Foreign Education: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. Failure to provide such documentation with your application will result in lost consideration. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications/. \n\nEDUCATION DOCUMENTATION: For positions with an education requirement, or if you are qualifying for this position by substituting education or training for experience, submit a copy of your transcripts or equivalent. An official transcript will be required if you are selected. A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S. Department of Education. For a list of schools which meet these criteria, please refer to Department of Education Accreditation page. If you are qualifying based on foreign education, you must submit proof of creditability of education as evaluated by a credentialing agency. Refer to the OPM instructions.\n\n\n \n \n  Additional information\n  \n   \n    Salary: The salary range indicated in this announcement will be adjusted to include locality payment for selected duty location. General Schedule locality pay tables may be found under Salaries & Wages.\n\n\n    \n     We may select from this announcement or any other source to fill one or more vacancies. Applicants who apply for this position may be considered for other positions within the Office of Inspector General that require the same knowledge, skills, and abilities.\n     This is a non-bargaining unit position.\n     We offer opportunities for flexible work schedules.\n     Office assignment may be at one of the locations listed on the announcement subject to availability and OIG management discretion.\n    \n    \nCurrent or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office. \n    \n\n    \nReasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments. (https://appsupport-usastaffing.opm.gov/hc/en-us/sections/45063131363475-Reasonable-Accommodation-Information) \n    \n\n    \nThis job opportunity announcement may be used to fill additional vacancies. We may select from this announcement or any other source to fill one or more vacancies. Applicants who apply for this position may be considered for other positions within the Office of Inspector General that require the same knowledge, skills, and abilities.\n   \n   \n\n\n   \n\n\n\n  \n  Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.\n\n\n \n \n  \n   \n    \n     \n      \n       Benefits\n\n \n     \n    \n    \n     Our comprehensive benefits are very generous. Our benefits package includes:\n\n\n     \n      Challenging work, opportunities for advancement, competitive salaries, bonuses and incentive awards.\n      Eleven paid holidays, 13 days of sick leave, and 13 to 26 days of vacation time each year.\n      Access to insurance programs that may be continued after you retire.\n      A wide choice of health insurance plans, coverage for pre-existing conditions, and no waiting periods. We pay a substantial amount (up to 75%) of the health insurance premiums.\n      A retirement program which includes employer-matching contributions.\n     \n     \n\n      Learn more about Federal benefits programs at: USAJOBS Help Center - Benefits \n     \n\n\n     Review our benefits\n\n\n    \n   \n  \n \n\n\n\n\n How you will be evaluated\n You will be evaluated for this job based on how well you meet the qualifications above.\n\n\n \n\n\n Your application includes your résumé, responses to the online questions, and required supporting documents. Please be sure that your résumé includes detailed information to support your qualifications for this position; failure to provide sufficient evidence in your résumé may result in a \"not qualified\" determination. \n\n\n   You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., résumé, supporting documents), the responses you provide on the application questionnaire, and the result of the online assessments required for this position. Please be sure that your résumé includes detailed information to support your qualifications for this position; failure to provide sufficient evidence in your résumé may result in a \"not qualified\" determination. \n\n\n   In order to be considered for this position, you must complete all required steps in the process. In addition to the application and application questionnaire, this position requires an online assessment. The online assessment measures critical general competencies required to perform the job. \n\n\n   The assessment includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment. \n\n\n   Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on the online assessment may also result in your removal from consideration. \n\nRating: Your application will be evaluated in the following areas: Attention to Detail, Customer Service, Decision Making, Flexibility, Integrity/Honesty, Interpersonal Skills, Learning, Reasoning, Self-Management, Stress Tolerance, and Teamwork\n\n\n\n\n Category rating will be used to rank and select eligible candidates. If qualified, you will be assigned to one of three quality level categories, A-Exceptionally Qualified, B-Highly Qualified, or C-Qualified, depending on your responses to the online questions, regarding your experience, education, and training related to this position. Your rating may be lowered if your responses to the online questions are not supported by the education and/or experience described in your application. \n\n\n   Veterans' preference is applied after applicants are assessed. Preference-eligibles will be listed at the top of their assigned category and considered before non-preference-eligibles in that category. \n\nReferral: If you are among the top qualified candidates, your application may be referred to a selecting official for consideration. You may be required to participate in a selection interview and/or a writing assessment. Applicants who are selected for an interview may ask questions about the evaluation process at the time they are contacted for an interview. \n\n\n   If you are a displaced or surplus Federal employee (eligible for the Career Transition Assistance Plan(CTAP)/Interagency Career Transition Assistance Plan (ICTAP)) you must be assigned the middle category or better to be rated as \"well qualified\" to receive special selection priority.\n\n\n\n\n\n\n\n\n\n \n  Required Documents\n \n A complete application includes:\n\n\n \n  \n   A résumé\n  \n  \n   Vacancy question responses\n  \n  \n   Submission of any required documents and\n  \n  \n   Completion of your USA Hire Competency Based Assessments, if applicable.\n  \n \n \n\n  Please note that if you do not provide all required information, as specified in this announcement, you may not be considered for this position (or may not receive the special consideration for which you may be eligible). \n \n\n \n\n  It is anticipated that there will be significant interest in the announcement. As a result, the announcement will close at 11:59 p.m. ET on the date of receipt of the 200th application or at 11:59 p.m. ET on the closing date of the announcement; whichever occurs first. Any required documents should be submitted at the time that you apply as documents will not be accepted after the vacancy closes. \n \n\n \nAll applicants are required to submit a résumé either by creating one in USAJOBS or uploading one of their own choosing. (Cover letters are optional.)USA Jobs restricts resume uploads to a maximum of 2 pages. Resumes attached in other sections (such as \"Documents\" or \"Other\") will not be considered in the determination of specialized experience. To ensure readability, resumes must be formatted using an easy-to-read font (such as Lato, Calibri, or Arial) with a minimum font size of 10-points and margins no smaller than 0.5 inches. Failure to follow these formatting guidelines may result in disqualification from further consideration. To receive full credit for relevant experience, please list the month/date/year and number of hours worked for experience listed on your résumé. We suggest that you preview the online questions, as you may need to customize your résumé to ensure that it supports your responses to these questions. \n \n\n \n\n  For resume writing guidance, please visit USAJOBS Help Center - How do I write a resume for a federal job? \n \n\n \nVETERANS' PREFERENCE DOCUMENTATION: If you are claiming veterans preference, please see applicant guide for required documentation. In order to be considered for veterans preference, you must submit all required documentation as outlined in the applicant guide. \n \n\n \nCAREER TRANSITION ASSISTANCE PLAN (CTAP) OR INTERAGENCY CAREER TRANSITION ASSISTANCE PLAN (ICTAP) DOCUMENTATION: If you are a displaced or surplus Federal employee, click CTAP/ICTAP for eligibility and a detailed list of required documents.\n\n\n\n\n\n\n\n \n  How to Apply\n \n \n  \n   The following instructions outline our application process. Please read the entire announcement and all the instructions before you begin an application. \n\n\n     You must complete the initial online application, to include the initial online assessment and submission of the required documentation specified in the Required Documents section. The complete application must be submitted by 11:59 p.m. Eastern Time (ET) on the closing date of this announcement. We are available to assist you during business hours (normally 8:00 a.m. - 5:00 p.m. ET, Monday - Friday). If applying online poses a hardship, please contact us by noon ET on the announcement's closing date. \n\n\n     The Bureau provides reasonable accommodation to applicants with disabilities on a case-by-case basis. Please contact us if you require this for any part of the application and hiring process. \n\nThe application process is as follows:\n\n\n   \n    \n     Click the Apply Online button.\n    \n    \n     Answer the questions presented in the application and attach all necessary supporting documentation.\n    \n    \n     Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.\n    \n    \n     If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click \"Track this application\" to return to your assessment completion notice.\n    \n    \n     Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.\n    \n    \n     Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.\n    \n    \n     Set aside at least 2 hours to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.\n    \n    \n     Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.\n    \n   \n   \n\n    Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us. \n   \n\n   \n\n    To verify the status of your application: \n   \n    Log into your USAJOBS account (USAJOBS Login)\n    Under \"application status,\" click \"Track this application\" and you will be taken to the agency website where you can check your application status.\n   To update your application, including supporting documentation, at any time during the announcement open period, return to your USAJOBS account ( \n   https://usajobs.gov).\n\n There you will find a record of your application, the application status, and an option to Edit my application. This option will no longer be available once the announcement has closed. \n   \n\n   \n\n    For more information regarding the job and applicant status, please refer to USAJOBS Help Center - How to see your application and job status \n   \n\n   \n\n    Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position. \n   \n\n   \n\n    To preview the application questionnaire:https://apply.usastaffing.gov/ViewQuestionnaire/13102090 \n   \n\n  \n  \n\n\n  \n\n\n \n \n  Agency contact information\n  \n   Staff Acquisition Applicant Support\n  \n  \n   \n    \n     Website\n    \n    \n     https://staffacq-applicant.opm.gov/hc/en-us/requests/new\n    \n   \n   \n    \n     Address\n    \n    \n     \n      Office of Data and Analytics \n      \nFederal Talent Management Center \n      \n1900 E. Street NW \n      \nWashington, DC 20415 \n      \nUS\n     \n    \n   \n  \n \n Next steps\n \n  \n   Once you submit your application, we will assess your experience and training, identify the best qualified applicants, and refer those applications to the hiring manager for further consideration and interviews. If you are selected, we will conduct a suitability/security background investigation. You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing USAJOBS. The status will be visible next to the corresponding position. The four points of notification are:\n\n\n   \n    \n     Application Received or Application Incomplete;\n    \n    \n     Minimum Qualification Requirement Met or Minimum Qualification Requirement Not Met;\n    \n    \n     Referred or Not Referred; and\n    \n    \n     Selected or Not Selected\n    \n   Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Americans with Disabilities Act (ADA). \n   \n\n   \n\n    Your assessment results will be kept on record for one year and used toward future positions for which you might apply that require the same assessments. \n   \n\n   \n\n    To be considered for the position, you must meet all qualifications, including meeting or exceeding the cut score on the required assessments. \n   \n\n   \n\n    We will review your résumé and transcript(s) (if appropriate) to ensure you meet the basic qualification requirements. We will evaluate each applicant who meets the basic qualifications on the information provided and may interview the best-qualified applicants. After making a tentative job offer, we will conduct any required suitability and/or security background investigation. \n   \n\n   \n\n    If you are unable to apply online please contact staffacq-applicant@opm.gov.\n  \n \n\n\n\n\n\n\n\n \n  Overview\n \n \n  \n   Accepting applications\n  \n  \n  \n   \n    This job will close when we have received 200 applications which may be sooner than the closing date. Learn more\n   \n  \n  \n  \n   \n    Location\n   \n   \n    1 vacancy in the following locations:\n   \n   \n    \n     \n      \n       Denver, CO\n      \n     \n     \n      \n       Chicago, IL\n      \n     \n     \n      \n       Kansas City, MO\n      \n     \n     \n      \n       Nashville, TN\n      \n     \n     \n      \n       Seattle, WA\n      \n     \n     \n      No matching locations found.\n     \n    \n   \n  \n  \n   Work site options\n  \n  \n   \n    Telework eligible\n   \n   \n    Yes—as determined by the agency policy.\n   \n  \n  \n   \n    Remote job\n   \n   \n    No\n   \n  \n  \n   \n    Relocation expenses reimbursed\n   \n   \n    No\n   \n  \n  \n   \n    Salary\n   \n   \n    $76,463 - $99,404 per year \n    The salary range indicated in this announcement will be adjusted to include locality payment for selected duty location.\n\n\n   \n  \n  \n   \n    Pay scale & grade\n   \n   \n    \n     GS 12\n    \n    \n     \n      Promotion potential\n     \n     \n      14\n     \n    \n    \n     \n      Learn more about pay scale and grade\n     \n     \n      Pay scale and grade determines the salary of the job.\n     \n    \n   \n  \n  \n   \n    Work schedule\n   \n   \n    Full-time\n   \n  \n  \n   \n    Travel Required\n   \n   \n    25% or less - You may be expected to travel for this position.\n   \n  \n  \n  \n   \n    Appointment type\n   \n   \n    Permanent\n   \n  \n  \n   \n    Occupations and job series\n   \n   \n    1530 Statistics\n   \n  \n  \n   \n    Supervisory status\n   \n   \n    No\n   \n  \n  \n   \n    Federal service type\n   \n   \n    This job is in the Competitive Service\n   \n  \n  \n   \n    Represented by a union\n   \n   \n    No\n   \n  \n  \n  \n   \n    Drug test\n   \n   \n    No\n   \n  \n  \n   \n    Security clearance\n   \n   \n    Not Required\n   \n  \n  \n   \n    Position sensitivity and risk\n   \n   \n    Moderate Risk (MR)\n   \n  \n  \n   \n    Jobs require a background check and some require a security clearance. The type depends on the job.\n   \n  \n  \n   \n    Background check type\n   \n   \n    Credentialing\n    Suitability/Fitness\n   \n  \n  \n   \n    Financial disclosure required\n   \n   \n    No\n   \n   \n    \n     Some jobs require financial disclosure to identify conflicts of interests.\n    \n   \n  \n  \n  \n   \n    Announcement number\n   \n   \n    CCUB-13102090-ML-DE\n   \n  \n  \n   \n    Control number\n   \n   \n    890790600",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=23b3b5918511c352&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/sd-department-of-veterans-affairs/Job/Statistician-(Data-Scientist)/-in-Denver,CO?jid=24d3aaea7722f935&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010310512104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/5f302802-3b3a-4a95-b2f0-fa5aee34ae7d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/ee5434f5-bc6b-43b3-bfb0-dd7c719da667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/statistician-data-scientist-veterans-affairs-inspector-general-dova-denver--techmap_us_890793100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4gKERhdGEgU2NpZW50aXN0KSIsImNvbXBhbnlfbmFtZSI6IlVTIFZldGVyYW5zIEFmZmFpcnMsIEluc3BlY3RvciBHZW5lcmFsIiwiaHRpZG9jaWQiOiJfMWNLN1pRMXhCaWcxdnowQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhOemMxRnBlbGxuYVROMmJuaG1iVmhtZWs1WE4xQnNOSHBqVlRSNmFHUmpOMjlGVjNjellVMUpkek5ZV21SSFMzVnZjWHBEUkVscFF6RlBRa0V3TVhGQlVGcFJUbmhLYWxVeFNtcGFZa0ZUZVhCTGIyVnRlVE10VWxSU05WTkVTaTFVYlZwVmVXdFJTSFZGUVY4MVdGOUZOWEJMZUhad2VHbGtRMjF6V1dKamJrdDZUV2dTRjBkQmNteGhjUzF3VFMxcFZUVlBUVkE1VUY5YU5FRnpHaUpCU0U0d1JUZElaV0pSTVhveFRERXdkR0ZNZVVONWNqZDRiVXRyYTNSMlRtSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJfMWNLN1pRMXhCaWcxdnowQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Statistician & Experimentation Expert",
+      "company_name": "AfterQuery",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=YxyS6wSsQ0xaD0osAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQoCMRBFsd0jaDOVheBGBBu1sRDBTsR6SeKYjWRnQmaE9SYeV4PNg__gw2s-k2Z_VatRNPpoCeZwHDOWOCBVzfTfCks4swNBW3wPP31iDgmnu141y9YYkdQGqR_feh4MEzoezZOdVHTS24I5WcVuvVmNbaawmB0eiuXywvKGSHCjqHiH2oPyBYvgKvGbAAAA&shmds=v1_Ac3VAow8vkKv9Sls6F4iblE9OP75Mh0-FtZNZQLAn6kQ-6VN_A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=YxyS6wSsQ0xaD0osAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAwEBAQAAAAAAAAAAAAAABAUHBgMB_8QAKhAAAQQCAQMCBQUAAAAAAAAAAQACAwQFEQYSITETQRRRgZGxFSMkQmH_xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL_xAAUEQEAAAAAAAAAAAAAAAAAAAAA_9oADAMBAAIRAxEAPwDakRFkERV1vPYendbSuZahBbdrpry2WNkO_Gmk77oLFERAREQEREHhetw0KU9y04tggjMkha0uIaBs9h3P0WYY3NYXIcris5TJ0skJZQyCOTjT2StJOox6xb_Ukd_wus5zYuugjoU6HIXh-pDbw0kbHM0SOklx9_Pj5KBhuQ5XF46Km7jHLLpj6v5Fx0L5X7JPc9Q8b0P8AVHcooWGuzZGi2zPj7VB5cQYLIHWNe_Ykd1NUBERAULJZbGYlsbsrkadJshIYbM7Yw7XnXURvypqh5HFY3KCMZPH1LgjJLBZgbJ07866gdeEGb4-3gMlzX9RyTcLDJ6wfFag5MJC97dCP9kOA76Hb8rVFTs4pxyN7Xs4_iWvaQ5rhSjBBHgjsrhUZtzWbD0OVw5CCLE2MpF0Pl-L5D8IYnNA6NxE6PbR7hdvg83QzNYOp3qNidkbDYjqWmTCFxHglp-YOj76Xy5x3B3rL7N3C46xYk11yzVI3vdoaGyRs9gB9F7Y7EYzFmQ4zHU6Zl16hrQNj69b1vpA3rZ-6gmoiICIiAiIgIiICIiD_9k.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/statistician-experimentation-expert-at-afterquery-4482294331",
+      "job_title": "Statistician & Experimentation Expert",
+      "description": "Statisticians and experimentation experts in causal inference and A/B testing to build the scenarios frontier AI labs use to test model reasoning. AfterQuery builds the expert evaluation data that frontier AI labs use to measure and improve their models. We're hiring statisticians and experimentation experts as contractors to author and grade the causal inference and A/B testing scenarios those evaluations run on. What you'll actually do Author realistic statistics scenarios, from study design through analysis and interpretationWrite reference answers with the statistical reasoning behind each modeling choiceGrade model output for methodological soundness and correct interpretationFlag analyses that read rigorous but draw invalid conclusions Who this is for Statisticians and biostatisticians with an advanced degree in a quantitative fieldPractitioners with at least 2 years of applied statistics or experimentation workExperts with depth in experimental design, causal inference, or A/B testingAnalysts fluent in R or Python who can document the reasoning behind a modeling choice Contract and pay $80 to $150/hr, paid weekly via Stripe. Your rate is set from your experience, not negotiated down after you start.Remote, fully async. No fixed hours.Minimum 10 hours per week, no maximum. Scale up or down week to week.No screen recording, no keystroke monitoring, no idle timers.Independent contractor. Ongoing project work rather than single task batches. How our hiring process works Apply at /apply/statistician-experimentation-expert. About five minutes. Resume plus a few structured questions.Resume review. Every application gets read against a published rubric and gets a decision.Written assessment. You may be asked to take a written assessment for further placement.Onboarding. Sign the contractor agreement, connect Stripe, and get platform access.Project match. You're matched to live work in your specialty, usually within a week of onboarding. About AfterQuery AfterQuery is an expert data lab. We build the evaluation and training data that frontier AI labs use to measure what their models can and can't do in real professional work. Our contributors are practicing professionals, not annotators, and the work is credited, reviewed, and paid at professional rates.\n\nResponsibilities\n\n\n\nAuthor realistic statistics scenarios from study design through analysis and interpretationWrite reference answers with the statistical reasoning behind each modeling choiceGrade model output for methodological soundness and correct interpretationFlag analyses that read rigorous but draw invalid conclusions\n\nRequired Qualifications\n\nAdvanced degree in statistics, biostatistics, or a closely related quantitative field2+ years of applied statistics or experimentation experienceDepth in experimental design, causal inference, or A/B testingFluency in R or Python for statistical analysisAble to commit at least 10 hours per week\n\nPreferred Qualifications\n\nPhD in statistics, biostatistics, or econometricsExperience running large scale experimentation platformsBayesian methods or advanced causal inference such as instrumental variables or synthetic control\n\nWhy apply\n\n$80 to $150/hr, paid weekly via Stripe100% remote and fully asyncShape how frontier models reason about statistics and causalityOngoing project work with hours you set each week",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/statistician-experimentation-expert-at-afterquery-4482294331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/statistician-experimentation-expert-afterquery--fj-2434927538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4112-5ba347667ef7b23335f9259de796c97e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4gXHUwMDI2IEV4cGVyaW1lbnRhdGlvbiBFeHBlcnQiLCJjb21wYW55X25hbWUiOiJBZnRlclF1ZXJ5IiwiaHRpZG9jaWQiOiJZeHlTNndTc1EweGFEMG9zQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVdONWFIZG5XSEU0U1hseFdFVTRVRUpxVm1Kak1FNVJYMFpSYWxkUWMzTkxWVEIzTkZCWUxWSnJOMjlLUlhwQ1JUUmZTakZaTUVWdVptcFRSelJwUzNCRFFrdzNWbGxhVlRkeVZuRnJXbEppUWtKbk1GWmxVVUp1TVZaTVRWWnFWMDlOV0VsME4ySlNVblZ5WjNGNVpFcG9lVFZDWkZrMVZsVkNMV1ZzV0ZWbGIyaGFSellTRjBkQmNteGhjUzF3VFMxcFZUVlBUVkE1VUY5YU5FRnpHaUpCU0U0d1JUZElTMU0xT0RWdWF6SjZNbGh2U1hjelYwaE5hbWxuUzAxVlkxaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJZeHlTNndTc1EweGFEMG9zQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Statistician/Data Analyst",
+      "company_name": "GD Information Technology, Inc.",
+      "location": "United States",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: BI Full 6C (T4) Job Family: Data Science and Data Engineering Job Qualifications: Skills: Analytics, Data Analytics, Data Modeling, Data Reporting, Predictive Statistics Certifications: None Experience: 8 + years of related experience US Citizenship Required: No Job Description: The Statistician/Data Analyst supports the data collection and analysis efforts of a government program and contributes to the ongoing initiatives of a larger team",
+            "Qualifications: Requires BS/BA degree in Statistics or a related field as well as 8 years of related experience, or MS/MA degree with 6 years of experience",
+            "Working knowledge of data visualization platforms (Tableau) and scripting languages (R/Python/SAS)",
+            "Working knowledge of SQL and familiarity with relational databases",
+            "Exceptional analytical skills, strong attention to detail, and strong verbal and written communication skills",
+            "Top candidates will have specialty skills in one or more of the following areas: Statistical analysis and modeling",
+            "Natural language processing",
+            "Quantitative and qualitative data analysis Data engineering, to include experience working with large datasets and performing tasks such as data cleaning and processing (ETL)",
+            "Fundamental working knowledge of SQL",
+            "Python and/or R. Tableau"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Additional Requirements: This position requires an existing Public Trust or the ability to obtain one. This role and associated duties will be performed on site at a government facility located in Washington, DC. The likely salary range for this position is $107,744 - $128,800",
+            "This is not, however, a guarantee of compensation or salary",
+            "Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range",
+            "Scheduled Weekly Hours: 40 Travel Required: Less than 10% Telecommuting Options: Onsite Work Location: USA DC Washington Additional Work Locations: Total Rewards at GDIT: Our benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match",
+            "To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave",
+            "To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The ideal candidate will enhance and develop reporting and analytics capabilities, support forecast modeling, develop automated reporting solutions and dashboards, build briefing products, conduct analysis and deliver analytical results, and coordinate/implement data collection efforts",
+            "Position Duties: Work with domain experts and data analysts to develop reporting products",
+            "Conduct high-level data interpretation and statistical analysis using a data analytics platform",
+            "Prepare written summaries and presentations that reflect the results of data analysis and present findings to agency leadership",
+            "Provide ad-hoc data reporting as needed",
+            "Prototype data products and conduct analysis and feasibility based on program requirements",
+            "Build connections, develop reports, and publish data to both development and production environments",
+            "Create presentations and prepare documentation as needed",
+            "Provide training for data analysts and staff on data tools and products, as well as for contractors and field staff on the use of data collection and analysis tools",
+            "Support data collection, analysis and visualization projects as needed, including data modeling, database creation, and technical support",
+            "Recommend technical and automated solutions for manual processes",
+            "Work with contractor and federal staff to enhance the collection and analysis of program data",
+            "Update and develop data collection tools and processes to yield statistically reliable and informative data and support program assessments",
+            "Assist in identifying performance outcomes and indicators",
+            "Identify uniform data points for analysis",
+            "Assist with projects that support the continual improvement of data analysis",
+            "Compile, analyze, and visualize data using a data visualization platform such as Tableau"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=vsj5JCig_0paAxXDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrKYW3Q2CjVZCIGir1mGyjpuVzUzITJEcx5uaNK_48D6v-G2K8mFoSS2FhOwrNIQrY57V4AB3aUEJx9CBMNQiMdP20pkNevZeNbuoqx5ckN4LUyuT_0qrKxrtcKQho1FzPJWTGzjuyrqCG39k7Bdt-XxS6FiyxHm_7MFBYnhxMnrDGkb6B8twhQekAAAA&shmds=v1_Ac3VAoyJb3gqX3PAURXFqUPP03NHSEZ0rSHcNm7WyJ0RhA6FZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=vsj5JCig_0paAxXDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAASFBMVEX____29vbt7e38_Pz5-fnKy8ykpqeVl5m-v8Cho6W6u7yytLXP0NHg4OHl5ubBw8TY2dl4fH2sra6DhoeLjI5pbW-bnZ9ucnXIxkPbAAAAzElEQVQ4je2S3QrDIAxGY2z8qSZNreve_02Xuo3dbDB2N6iImANHvgTBwU8L4RRP8XfROT_ZhnEa8ACTYX8wcMbB-4NM_mDeyF0MKdIa06pttcuyQYzQTeyUUwx8mXeIHdZC17IE4mukh1hKT1tImtsWak8lzyFtM0NMu-gCuwmttVxCKPYU5z2_epye2T2M6N_1yIJVUJgR1TEyWIFS7UBj7PCzKKKEKERSZRHAWtUqUSYk1Y_iSDdy2kjv9Zix1Zb6rfd_P-cU_168ATC_B40Dck97AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "24 days ago",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Statistician-Data-Analyst_RQ226086-2",
+      "job_title": "Statistician/Data Analyst",
+      "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: BI Full 6C (T4) Job Family: Data Science and Data Engineering Job Qualifications: Skills: Analytics, Data Analytics, Data Modeling, Data Reporting, Predictive Statistics Certifications: None Experience: 8 + years of related experience US Citizenship Required: No Job Description: The Statistician/Data Analyst supports the data collection and analysis efforts of a government program and contributes to the ongoing initiatives of a larger team. The ideal candidate will enhance and develop reporting and analytics capabilities, support forecast modeling, develop automated reporting solutions and dashboards, build briefing products, conduct analysis and deliver analytical results, and coordinate/implement data collection efforts. Position Duties: Work with domain experts and data analysts to develop reporting products. Conduct high-level data interpretation and statistical analysis using a data analytics platform. Prepare written summaries and presentations that reflect the results of data analysis and present findings to agency leadership. Provide ad-hoc data reporting as needed. Prototype data products and conduct analysis and feasibility based on program requirements. Build connections, develop reports, and publish data to both development and production environments. Create presentations and prepare documentation as needed. Provide training for data analysts and staff on data tools and products, as well as for contractors and field staff on the use of data collection and analysis tools. Support data collection, analysis and visualization projects as needed, including data modeling, database creation, and technical support. Recommend technical and automated solutions for manual processes. Work with contractor and federal staff to enhance the collection and analysis of program data. Update and develop data collection tools and processes to yield statistically reliable and informative data and support program assessments. Assist in identifying performance outcomes and indicators. Identify uniform data points for analysis. Assist with projects that support the continual improvement of data analysis. Compile, analyze, and visualize data using a data visualization platform such as Tableau. Qualifications: Requires BS/BA degree in Statistics or a related field as well as 8 years of related experience, or MS/MA degree with 6 years of experience. Working knowledge of data visualization platforms (Tableau) and scripting languages (R/Python/SAS). Working knowledge of SQL and familiarity with relational databases. Exceptional analytical skills, strong attention to detail, and strong verbal and written communication skills. Previous experience working with children or in a health services realm preferred, but not required. Top candidates will have specialty skills in one or more of the following areas: Statistical analysis and modeling. Natural language processing. Quantitative and qualitative data analysis Data engineering, to include experience working with large datasets and performing tasks such as data cleaning and processing (ETL). Fundamental working knowledge of SQL. Python and/or R. Tableau. Palantir. Data entry. Additional Requirements:  This position requires an existing  Public Trust or the ability to obtain one.   This role and associated duties will be performed on site at a government facility located in Washington, DC.  The likely salary range for this position is $107,744 - $128,800. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range. Scheduled Weekly Hours: 40 Travel Required: Less than 10% Telecommuting Options: Onsite Work Location: USA DC Washington Additional Work Locations: Total Rewards at GDIT: Our benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most. Our Identity Verification Process: As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during virtual interviews. We reserve the right to take your picture to verify your identity and prevent fraud. By proceeding, you authorize the collection, processing, and use of your biometric data for identity verification and security purposes. About Our Work: We are GDIT. A global technology and professional services company that delivers technology solutions and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 50+ countries worldwide, offering leading mission-ready capabilities in AI, cloud, cyber and software development. Join our Talent Community to stay up to date on our career opportunities and events at gdit.com/tc. Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans Opportunity Owned From working with technologies like AI, cyber and cloud to careers in intelligence and health, we offer endless opportunities to apply your expertise to create a safer, smarter world. For more information about GDIT's Privacy Policy, click here: Privacy Policy | GDIT",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Statistician-Data-Analyst_RQ226086-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/statistician-data-analyst-dc--05e89e3d-d9de-4bd3-9ce5-534a48ec89e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/statistician-data-analyst-7ef05047?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFH",
+          "link": "https://wfh.liveblog365.com/remote-jobs/statistician-data-analyst-7ef05047?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/general-dynamics-information-technology/statistician-data-analyst-93236512/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5413-504b82b7c1088f1e2c8c227163e10767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4vRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiR0QgSW5mb3JtYXRpb24gVGVjaG5vbG9neSwgSW5jLiIsImh0aWRvY2lkIjoidnNqNUpDaWdfMHBhQXhYREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdscFlhVnByTkRkZlUxODJhWGRVYW1wd2VrNXNUMnhOWDNOR1ZIbFhaRzlHUjBkeFRucFVPVmhyVlhOTE1tczJiazkwWjB4NE5FdERPRlkxVEZWVE9EZzRWVlpTUlZoTGJHRmtaWFkwZUVsUGVuQk5VRWMzVkZsWGNsbzRaVkZEZG5aRlRUVXRUaTFyTmxseGJXcGlYMUo1WVRkMWRsazFjV041WTI5M1VsWnJMV3hHVlZNU0YwZEJjbXhoY1Mxd1RTMXBWVFZQVFZBNVVGOWFORUZ6R2lKQlNFNHdSVGRIWm1aNWQyWXhhMVpWZDNZMlVGYzBUMVY2V1c5TE9VZGhWSE4zIiwiZmN2IjoiMyIsImZjX2lkIjoidnNqNUpDaWdfMHBhQXhYREFBQUFBQT09In0="
+    },
+    {
+      "title": "Statistician (Direct Hire)",
+      "company_name": "Food and Nutrition Service",
+      "location": "Denver, CO",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Must be a US Citizen or US National",
+            "Males born after 12/31/1959 must be Selective Service registered or exempt",
+            "Subject to satisfactory adjudication of background investigation and/or fingerprint check",
+            "May be required to successfully complete a probationary and a trial period",
+            "Direct Deposit – Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution",
+            "Successfully pass the E-Verify employment verification check",
+            "One year of specialized experience equivalent to the next lower grade level GS-12 or pay band in the federal service or equivalent experience in the private or public sector that demonstrates knowledge in statistics and data analysis",
+            "Specific work experience must demonstrate some or all of the following duties: Analyzing, evaluating, interpreting, and explaining findings resulting from statistical work; Utilizing complex database systems to collect statistical information and perform analyses of data; and Initiating, planning, executing, and controlling an organization's statistical study or project",
+            "Degree: that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc",
+            "Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing",
+            "Combination of education and experience -- courses as shown in A above, plus appropriate experience or additional education",
+            "The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance",
+            "Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "A career with the U.S. government provides employees with a comprehensive benefits package",
+            "As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding",
+            "Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This position is located in the Food and Nutrition Administration, Deputy Administrator of State Support & Evaluations",
+            "Duties Develops, analyzes and evaluates the statistical work of program operations to include sampling plans, to appraise viability and accuracy of statistical modeling",
+            "Conducts data analysis tasks using statistical models and methodologies to evaluate SNAP performance, policies, and trends in order to improve overall program administration and responds to data call(s) from internal USDA or external stakeholders",
+            "Responsible for providing technical input into policy recommendations as determined by political appointees and senior agency management officials",
+            "Interacts directly with critical stakeholders, including other federal agencies, as it relates to sampling or statistical aspects of improper payments during policy development",
+            "Develops, monitors, tracks programs, and writes queries/macros using Statistical Analysis System (SAS), Excel, and similar analytical tools towards the progress of completing projects/assignments",
+            "Collaborates with FNA Statisticians and/or staff, as a team member in work group(s) to diagnose statistical issues and research solutions that impact more than one Regional office or could have national implications",
+            "Develops, analyzes and evaluates the statistical work of program operations to include sampling plans, to appraise viability and accuracy of statistical modeling",
+            "Conducts data analysis tasks using statistical models and methodologies to evaluate SNAP performance, policies, and trends in order to improve overall program administration and responds to data call(s) from internal USDA or external stakeholders",
+            "Provides technical input into policy recommendations as determined by political appointees and senior agency management officials",
+            "Interacts directly with critical stakeholders, including other federal agencies, as it relates to sampling or statistical aspects of improper payments during policy development",
+            "Develops, monitors, tracks programs, and writes queries/macros using Statistical Analysis System (SAS), Excel, and similar analytical tools towards the progress of completing projects/assignments",
+            "Collaborates with FNA Statisticians and/or staff, as a team member in work group(s) to diagnose statistical issues and research solutions that impact more than one Regional office or could have national implications"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=cm3ZGTvfLDX_2AXNAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ6CQBAAY8sTrLZEo5ya2GgpUWOhBQ8gx7GBNbhLblfCW3yt0MxUM8lvkewL80ZqFMgzpDlFDAb3SSvYwkMqUPQxtCAMN5Gmw-W5Nev15JxqlzU69yEL8nHCWMno3lLpjFJbH7HvvGF5OO7GrOdmnV5FavBcw_NrkYymb4FxoIBADDnygHEDl9cfPjQGi50AAAA&shmds=v1_Ac3VAoz_kd9KnpbsE4MpjjBTepHjW0YCUDTZ9Owa1DABdmC-FQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=cm3ZGTvfLDX_2AXNAAAAAA%3D%3D",
+      "extensions": [
+        "20 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://www.tealhq.com/job/statistician_7ea1a8ed132055ec32e99ba1b7cf28d2dc1f4",
+      "job_title": "Statistician (Direct Hire)",
+      "description": "About the position\n\nThis position is located in the Food and Nutrition Administration, Deputy Administrator of State Support & Evaluations. Duties Develops, analyzes and evaluates the statistical work of program operations to include sampling plans, to appraise viability and accuracy of statistical modeling. Conducts data analysis tasks using statistical models and methodologies to evaluate SNAP performance, policies, and trends in order to improve overall program administration and responds to data call(s) from internal USDA or external stakeholders. Responsible for providing technical input into policy recommendations as determined by political appointees and senior agency management officials. Interacts directly with critical stakeholders, including other federal agencies, as it relates to sampling or statistical aspects of improper payments during policy development. Develops, monitors, tracks programs, and writes queries/macros using Statistical Analysis System (SAS), Excel, and similar analytical tools towards the progress of completing projects/assignments. Collaborates with FNA Statisticians and/or staff, as a team member in work group(s) to diagnose statistical issues and research solutions that impact more than one Regional office or could have national implications.\n\nResponsibilities\n\nDevelops, analyzes and evaluates the statistical work of program operations to include sampling plans, to appraise viability and accuracy of statistical modeling.Conducts data analysis tasks using statistical models and methodologies to evaluate SNAP performance, policies, and trends in order to improve overall program administration and responds to data call(s) from internal USDA or external stakeholders.Provides technical input into policy recommendations as determined by political appointees and senior agency management officials.Interacts directly with critical stakeholders, including other federal agencies, as it relates to sampling or statistical aspects of improper payments during policy development.Develops, monitors, tracks programs, and writes queries/macros using Statistical Analysis System (SAS), Excel, and similar analytical tools towards the progress of completing projects/assignments.Collaborates with FNA Statisticians and/or staff, as a team member in work group(s) to diagnose statistical issues and research solutions that impact more than one Regional office or could have national implications.Requirements\n\nMust be a US Citizen or US NationalMales born after 12/31/1959 must be Selective Service registered or exemptSubject to satisfactory adjudication of background investigation and/or fingerprint checkMay be required to successfully complete a probationary and a trial period.Direct Deposit – Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institutionSuccessfully pass the E-Verify employment verification check.One year of specialized experience equivalent to the next lower grade level GS-12 or pay band in the federal service or equivalent experience in the private or public sector that demonstrates knowledge in statistics and data analysis.Specific work experience must demonstrate some or all of the following duties: Analyzing, evaluating, interpreting, and explaining findings resulting from statistical work; Utilizing complex database systems to collect statistical information and perform analyses of data; and Initiating, planning, executing, and controlling an organization's statistical study or project.Degree: that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc.Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing.Combination of education and experience -- courses as shown in A above, plus appropriate experience or additional education.The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance.Nice-to-haves\n\nCandidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.Benefits\n\nA career with the U.S. government provides employees with a comprehensive benefits package.As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding.Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent.",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/statistician_7ea1a8ed132055ec32e99ba1b7cf28d2dc1f4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/statistician-direct-hire--denver--ebdcaa8b50c01b9fcd1f6c4f8d3e83116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/statistician-direct-hire-us-food-and-nutrition-service-denver--techmap_us__vchuKXgG-2WVZe6UKVRfmoNve6W1Nmfc4SsIXPFSB9peSngA_lY-w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-56275a53d611b3fe5f4692cfd4e9beb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4gKERpcmVjdCBIaXJlKSIsImNvbXBhbnlfbmFtZSI6IkZvb2QgYW5kIE51dHJpdGlvbiBTZXJ2aWNlIiwiaHRpZG9jaWQiOiJjbTNaR1R2ZkxEWF8yQVhOQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1RWRlRqVjZOV3QxUWxwU1owazBTMnQyTVdwQ2VteG1UR3BUV2s1cVUyeFlaRXhTZEhORk1VTm1Ta1pRYjFWc1VWQk9RMjh0YzJwaFp6ZHlPRWRxVUhneE5HaEpXRWxuVVRWSE0yaEZWM2MxVmtSeFlVNU5RVVJaYjI1S1gwSnVXVWRtU2tjeFNsTklXRTl4YXpoNWJXSnVZMGRpUVdSaVF6SXhiRTFzVkRVemJVZ3RTV0lTRjBkQmNteGhjUzF3VFMxcFZUVlBUVkE1VUY5YU5FRnpHaUpCU0U0d1JUZEhVemg2T0dGZkxYUkNZalptYzNORGFsTlBabGhZUlV4WWJ6aEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJjbTNaR1R2ZkxEWF8yQVhOQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Statistician/Data Scientist - ISD Analytics",
+      "company_name": "UNC Health",
+      "location": "United States",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Requires a Bachelor's degree in a related field",
+            "If a Doctorate: Requires one (1) years of relevant experience",
+            "If a Master's Degree: Requires three (3) years of relevant experience",
+            "If a Bachelor's Degree: Requires five (5) years of experience",
+            "Requires prior experience with R, Python, or other analytics/data mining tools, databases, and computer programming",
+            "Requires prior experience in developing complex solutions utilizing Business Intelligence tools",
+            "Requires prior experience in building and deploying predictive models and other analytic assets",
+            "Requires prior experience in SQL/Database programming such as stored procedures, functions, temporary tables, parameterization, complex joins, and groupings",
+            "Theoretical fluency and working proficiency in the application of a broad array of statistical methods such as description and inferential statistics, multivariate regression, clustering, neural networks, predictive modeling, forecasting, machine learning, data mining, and optimization algorithms",
+            "Strong analytical and problem solving skills along with ability to work with large, disparate data sets, performing data mining, validation and analysis to trend and interpret information",
+            "Ability to interpret and summarize results of various analyses in a timely and meaningful way is required",
+            "Superior computer skills are required, with knowledge in relevant software packages and languages such as, but not limited to, R, Python and SQL",
+            "Strong database understanding and familiarity with complex data and structures",
+            "Strong skills in data visualization concepts and techniques",
+            "Excellent analytical, conceptual and problem-solving abilities",
+            "A high degree of professionalism, enthusiasm, autonomy and initiative on a daily basis is required",
+            "Excellent listening, interpersonal and communication skills",
+            "Must maintain excellent communications with customers and stakeholders",
+            "Ability to work independently in a fast-paced environment is required",
+            "Highly self-motivated, self-directed and attentive to detail",
+            "Experience managing multiple and competing tasks/priorities with delivery deadlines",
+            "Great attention to detail and accuracy",
+            "Comfortable and proficient in executing in virtual and/or cloud computing environments"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Standard Hours Per Week: 40.00",
+            "Salary Range: $47.90 - $68.86 per hour (Hiring Range)",
+            "Pay offers are determined by experience and internal equity"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Designs and develops enterprise-class, advanced analytic models to understand and solve complex business problems",
+            "Creates models by analyzing large data sets from various sources and processes",
+            "Establishes scalable, efficient, automated processes for large scale data analyses and model development, validation, and implementation",
+            "Ensures consistent, meaningful reporting and output formatting across all deliverables",
+            "Develops and documents technical designs such as Entity-Relationship Diagrams (ERD), data flow diagrams, component diagrams, architecture design documents, etc",
+            "Drafts and presents analytic proposals, designs and solutions to client stakeholders crafted to address both recognized and unrecognized needs and opportunities that are grounded in domain knowledge",
+            "Interfaces with relevant stakeholders to assist in lifecycle activities such as requirements gathering, research activities, and solution architecture and design",
+            "Organizes methods, plans, and data constructs for effective clinical and business analyses"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=LuppmQTtLd8UbYM5AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOvQrCQBCEsc0jaLO1YE4EG63UgD-FTUgdNueSOzl3Q3aL-DI-q7lmYD6Gjyl-i-JcG1pUiz4iuwoNofaRODPYwL2u4MSYvvNA5_6QDpRw9AGE4SrSJ1oeg9mgB-dUU9lrFvrSy8cJUyeTe0unOVoNONKQ0Kjd7bdTOXC_XjXPC9wIkwWIDA1HoxfkV6R_KUB5A6EAAAA&shmds=v1_Ac3VAowgXMI6NzOyw7A2bkC8vXoLiJUiSrl7_XobkV26tg5cMw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=LuppmQTtLd8UbYM5AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a162106d4f7b6c82e3e/images/yDZu-v4MvYc8rNfQoBYEgkH_QDDdPP_gww0q_qQpcS4.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.linkedin.com/jobs/view/statistician-data-scientist-isd-analytics-at-unc-health-4468899303",
+      "job_title": "Statistician/Data Scientist - ISD Analytics",
+      "description": "Description\n\nBecome part of an inclusive organization with over 40,000 teammates, whose mission is to improve the health and well-being of the unique communities we serve.\n\nSummary\n\nData Scientists are experts within UNC Health Care's Enterprise Analytics and Data Sciences organization regarding the application of advanced analytical methods to improve health care delivery, cost, quality, and outcomes. Data Scientists use data science and software engineering techniques to create and deploy unique and innovative advanced analytics solutions that deliver actionable information to stakeholders with a high degree of impact. Statistician/Data Scientist is a part of the Data Science job family within UNC Healthcare.\n\nResponsibilities\n\nDesigns and develops enterprise-class, advanced analytic models to understand and solve complex business problems. Creates models by analyzing large data sets from various sources and processes.Establishes scalable, efficient, automated processes for large scale data analyses and model development, validation, and implementation.Ensures consistent, meaningful reporting and output formatting across all deliverables.Develops and documents technical designs such as Entity-Relationship Diagrams (ERD), data flow diagrams, component diagrams, architecture design documents, etc.Drafts and presents analytic proposals, designs and solutions to client stakeholders crafted to address both recognized and unrecognized needs and opportunities that are grounded in domain knowledge.Interfaces with relevant stakeholders to assist in lifecycle activities such as requirements gathering, research activities, and solution architecture and design.Organizes methods, plans, and data constructs for effective clinical and business analyses.\n\nOther Information\n\nEducation Requirements:\n\nRequires a Bachelor's degree in a related field\n\nLicensure/Certification Requirements\n\nProfessional Experience Requirements:\n\nIf a Doctorate: Requires one (1) years of relevant experienceIf a Master's Degree: Requires three (3) years of relevant experienceIf a Bachelor's Degree: Requires five (5) years of experience\n\nKnowledge/Skills/and Abilities Requirements\n\nRequires prior experience with R, Python, or other analytics/data mining tools, databases, and computer programming. Requires prior experience in developing complex solutions utilizing Business Intelligence tools. Requires prior experience in building and deploying predictive models and other analytic assets. Requires prior experience in SQL/Database programming such as stored procedures, functions, temporary tables, parameterization, complex joins, and groupings Theoretical fluency and working proficiency in the application of a broad array of statistical methods such as description and inferential statistics, multivariate regression, clustering, neural networks, predictive modeling, forecasting, machine learning, data mining, and optimization algorithms.Strong analytical and problem solving skills along with ability to work with large, disparate data sets, performing data mining, validation and analysis to trend and interpret information.Ability to interpret and summarize results of various analyses in a timely and meaningful way is required. Superior computer skills are required, with knowledge in relevant software packages and languages such as, but not limited to, R, Python and SQL. Strong database understanding and familiarity with complex data and structures Strong skills in data visualization concepts and techniques. Excellent analytical, conceptual and problem-solving abilities. A high degree of professionalism, enthusiasm, autonomy and initiative on a daily basis is required. Excellent listening, interpersonal and communication skills. Must maintain excellent communications with customers and stakeholders Ability to work independently in a fast-paced environment is required. Highly self-motivated, self-directed and attentive to detail. Experience managing multiple and competing tasks/priorities with delivery deadlines Great attention to detail and accuracy Comfortable and proficient in executing in virtual and/or cloud computing environments\n\nJob Details\n\nLegal Employer: NCHEALTH\n\nEntity: Shared Services\n\nOrganization Unit: ISD Analytics\n\nWork Type: Full Time\n\nStandard Hours Per Week: 40.00\n\nSalary Range: $47.90 - $68.86 per hour (Hiring Range)\n\nPay offers are determined by experience and internal equity\n\nWork Assignment Type: Hybrid\n\nWork Schedule: Day Job\n\nLocation of Job: US:NC:Morrisville\n\nExempt From Overtime: Exempt: Yes\n\nThis position is employed by NC Health (Rex Healthcare, Inc., d/b/a NC Health), a private, fully-owned subsidiary of UNC Health Care System, in a department that provides shared services to operations across UNC Health Care; except that, if you are currently a UNCHCS State employee already working in a designated shared services department, you may remain a UNCHCS State employee if selected for this job.\n\nQualified applicants will be considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, disability, status as a protected veteran or political affiliation.\n\nUNC Health makes reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as applicants and employees with disabilities. All interested applicants are invited to apply for career opportunities. Please email applicant.accommodations@unchealth.unc.edu if you need a reasonable accommodation to search and/or to apply for a career opportunity.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/statistician-data-scientist-isd-analytics-at-unc-health-4468899303?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SkillSync",
+          "link": "https://skillsync.c9a.fast-page.org/remote-jobs/statistician-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirehyq",
+          "link": "https://hirehyq.v5t.alchosting.xyz/remote-jobs/statistician-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4vRGF0YSBTY2llbnRpc3QgLSBJU0QgQW5hbHl0aWNzIiwiY29tcGFueV9uYW1lIjoiVU5DIEhlYWx0aCIsImh0aWRvY2lkIjoiTHVwcG1RVHRMZDhVYllNNUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXSlNOMDVJUm05R01XMWlWMFZYUVVoblRVUlhialp5WldSWGVHaGZPR1ptVEVaUVUwdzNkWHBpU0ZwMWNHc3hiR1p2Umt4R1JGQmthVVJKVmt4cE4yaHBkMlJKYzBFMVNrTTNkM2hpUVRsb2JGaFdMVUZpV1dvM1RrbDVTRFJOVldjelNGSnBPRXd6UzFaSFlYSnlaMHRTU1VscmVWWXpNV1o1UkhsTmJHTldhbUZhYlRnU0YwZEJjbXhoY1Mxd1RTMXBWVFZQVFZBNVVGOWFORUZ6R2lKQlNFNHdSVGRHY1ZSbFFVaFdNVUp4Wkd3eVVWTllTM05OVDI5TWMwWldRbnBCIiwiZmN2IjoiMyIsImZjX2lkIjoiTHVwcG1RVHRMZDhVYllNNUFBQUFBQT09In0="
+    },
+    {
+      "title": "Statistician - II (Associate)",
+      "company_name": "AllSTEM Connections",
+      "location": "Aurora, CO",
+      "via": "BeBee",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Design of Experiments (DOE)",
+            "Contract (W2) Top Must-Haves Design of Experiments (DOE) experience Advanced JMP software expertise Statistical analysis and experimental design experience Process Development and/or Process Characterization experience",
+            "Pharmaceutical, Biopharmaceutical, Biotechnology, or Medical Device industry experience Master's Degree or PhD in Statistics, Biostatistics, Chemical Engineering, Industrial Engineering, or related field Strong collaboration and communication skills",
+            "Master's degree in",
+            "Statistics, Biostatistics, Chemical Engineering, Industrial Engineering",
+            ", or a related discipline with at least 2 years of relevant experience; OR",
+            "PhD in a related discipline with at least 1 year of relevant experience",
+            "Required Skills & Experience",
+            "Proven experience applying",
+            "Design of Experiments (DOE)",
+            "to real-world process development challenges",
+            "Strong expertise with",
+            "JMP software",
+            "Solid understanding of statistical analysis methodologies and experimental design principles",
+            "Experience working with multidisciplinary scientific and engineering teams",
+            "Strong analytical, problem-solving, and critical-thinking abilities",
+            "Excellent verbal and written communication skills",
+            "Ability to work effectively in a remote and collaborative environment",
+            "Strong organizational skills with exceptional attention to detail",
+            "Experience within the",
+            "Prior experience supporting",
+            "Process Development or",
+            "Process Characterization initiatives",
+            "Familiarity with Minitab or other statistical software platforms",
+            "Background in Chemical Engineering or Industrial Engineering",
+            "Industry internship, co-op, or direct commercial experience within regulated environments"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$67.30 - $76.90/hr",
+            "100% Remote"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Statistician II / DOE Process Development Scientist to support critical process development and characterization projects",
+            "This is a hands-on, project-facing role where you will partner closely with scientists and engineers to design experiments, perform statistical analyses, interpret complex data, and provide actionable recommendations that drive process improvements",
+            ", and advanced statistical methodologies, along with experience supporting projects within regulated life sciences environments such as pharmaceutical, biopharmaceutical, biotechnology, or medical device organizations",
+            "Key Responsibilities Design and develop studies using",
+            "Design of Experiments (DOE)",
+            "methodologies for process development and characterization projects",
+            "Perform statistical analyses and generate reports utilizing",
+            "JMP and other statistical software tools",
+            "Collaborate with Process Scientists and Engineers to define study objectives, experimental constraints, and project requirements",
+            "Analyze experimental data and communicate findings, recommendations, and conclusions to technical stakeholders",
+            "Support process characterization and process optimization initiatives through data-driven decision-making",
+            "Develop and maintain technical reports, presentations, and statistical documentation",
+            "Participate in cross-functional project teams and provide statistical expertise throughout the project lifecycle",
+            "Deliver high-quality work in a fast-paced environment while maintaining strong attention to detail"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=fxD1Swo6VwBHo5OYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nOJ2bijYidtGpFJEK4lD3koTQROJdyJ3QL_F7bZcH7w2v-C2KUydaAkuwQSPsoW1hXTPTpOI2U7iTAXY6Ww-EcCMaoltevEjis1LMsRx4XtjS0kcROkOjepPhGT17nV2K06s_VoexTDhsV3WM3ev6gIYQnZVAyBAQ6m-mrHfQPP9ofNt0mQAAAA&shmds=v1_Ac3VAoxo-Q-eu8GOJYHQgz1tj3ok9ydRz95iBPOlvFLWGtf7KA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=fxD1Swo6VwBHo5OYAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Internship"
+      ],
+      "source_link": "https://bebee.com/us/jobs/statistician-ii-associate-allstem-connections-aurora--pureheal-29125_62CCAEF878AA9E8EEA034CB313F83281",
+      "job_title": "Statistician - II (Associate)",
+      "description": "AllSTEM Connections is actively recruiting on behalf of one of our valued clients, a leading organization recognized for innovation, scientific advancement, and operational excellence within the life sciences industry. We are excited to present this opportunity to professionals who are passionate about statistical analysis, experimental design, process development, and cross-functional collaboration. If this opportunity aligns with your background and career goals, we encourage you to apply and take the next step in joining a dynamic and highly collaborative team.\n\n\nPosition Summary We are seeking a highly motivated\n\n\nStatistician II / DOE Process Development Scientist to support critical process development and characterization projects. This is a hands-on, project-facing role where you will partner closely with scientists and engineers to design experiments, perform statistical analyses, interpret complex data, and provide actionable recommendations that drive process improvements.\nThe ideal candidate will bring strong expertise in\n\n\nDesign of Experiments (DOE)\n,\n\n\nJMP\n, and advanced statistical methodologies, along with experience supporting projects within regulated life sciences environments such as pharmaceutical, biopharmaceutical, biotechnology, or medical device organizations.\nPosition Details\nHourly Pay Rate (W2):\n\n\n$67.30 - $76.90/hr\nContract Duration:\n\n\nThrough January 18, 2027\nWork Arrangement:\n\n\n100% Remote\nEmployment Type:\n\n\nContract (W2) Top Must-Haves Design of Experiments (DOE) experience Advanced JMP software expertise Statistical analysis and experimental design experience Process Development and/or Process Characterization experience\n\n\nPharmaceutical, Biopharmaceutical, Biotechnology, or Medical Device industry experience Master's Degree or PhD in Statistics, Biostatistics, Chemical Engineering, Industrial Engineering, or related field Strong collaboration and communication skills\n\n\nKey Responsibilities Design and develop studies using\n\n\nDesign of Experiments (DOE)\nmethodologies for process development and characterization projects.\nPerform statistical analyses and generate reports utilizing\n\n\nJMP and other statistical software tools.\nCollaborate with Process Scientists and Engineers to define study objectives, experimental constraints, and project requirements.\nAnalyze experimental data and communicate findings, recommendations, and conclusions to technical stakeholders.\nSupport process characterization and process optimization initiatives through data-driven decision-making.\nDevelop and maintain technical reports, presentations, and statistical documentation.\nParticipate in cross-functional project teams and provide statistical expertise throughout the project lifecycle.\nDeliver high-quality work in a fast-paced environment while maintaining strong attention to detail.\n\n\nRequired Qualifications Education\nMaster's degree in\n\n\nStatistics, Biostatistics, Chemical Engineering, Industrial Engineering\n\n\n, or a related discipline with at least 2 years of relevant experience; OR\nPhD in a related discipline with at least 1 year of relevant experience.\nRequired Skills & Experience\nProven experience applying\n\n\nDesign of Experiments (DOE)\nto real-world process development challenges.\nStrong expertise with\n\n\nJMP software.\nSolid understanding of statistical analysis methodologies and experimental design principles.\nExperience working with multidisciplinary scientific and engineering teams.\nStrong analytical, problem-solving, and critical-thinking abilities.\nExcellent verbal and written communication skills.\nAbility to work effectively in a remote and collaborative environment.\nStrong organizational skills with exceptional attention to detail.\nPreferred Qualifications\nExperience within the\n\n\nPharmaceutical\n,\n\n\nBiopharmaceutical\n,\n\n\nBiotechnology\n, or\n\n\nMedical Device industries.\nPrior experience supporting\n\n\nProcess Development or\nProcess Characterization initiatives.\nFamiliarity with Minitab or other statistical software platforms.\nBackground in Chemical Engineering or Industrial Engineering.\nIndustry internship, co-op, or direct commercial experience within regulated environments.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/statistician-ii-associate-allstem-connections-aurora--pureheal-29125_62CCAEF878AA9E8EEA034CB313F83281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/amp/job/us-co-aurora-statistician-ii-associate-allstem-connections-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4gLSBJSSAoQXNzb2NpYXRlKSIsImNvbXBhbnlfbmFtZSI6IkFsbFNURU0gQ29ubmVjdGlvbnMiLCJodGlkb2NpZCI6ImZ4RDFTd282VndCSG81T1lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXbXRSWlZwVGFIWjJSV2MyWWpKa1pWZHlXVUZHVGpoaGNsQlFhbDlpYzFZeE5HdFNVRlJaU1U0elZubE5hbGRQVDBab1RIUjJaamh6TUcxdFIwUm9jazB0T0ZSRE5XWm9lVzFsZGxCWWNYbFlSbUpFTm1wWFFXNXhWemRqYkVaNldsRkhWMmxHTFVwMU1GcDVUVEZrYzJGaE1YSkNiSFp6WDBWTVZsUktSMHQ2V0ZReGJtOFNGMGRCY214aGNTMXdUUzFwVlRWUFRWQTVVRjlhTkVGekdpSkJTRTR3UlRkR1NUbHRjVmxNY2pZME5HNUxVMnRTVDFKR2JsZExlVFYyZFRkUiIsImZjdiI6IjMiLCJmY19pZCI6ImZ4RDFTd282VndCSG81T1lBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI Statistician & Python Validation Specialist",
+      "company_name": "Mindrift",
+      "location": "Westminster, CO",
+      "via": "Learn4Good",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates should have a degree in Statistics or related fields and at least 3 years of experience",
+            "Strong written English and Python proficiency are essential for this role"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This opportunity offers flexible hours, with payment rates up to $73/hour based on expertise",
+            "This Part Time position is for the AI Statistician & Python Validation Specialist role advertised compensation is 82."
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Responsibilities include designing statistics problems, validating AI solutions using Python, and improving AI reasoning"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=Bc6veAqolyTz6aRpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQvCMBAFYFz7E3S5yUG0EcFFJxERBVEo6FjS9GxO0iTkbqg_x39qujwefI9X_CbF6XCBSrQQCxnSHubw-IoNHp7aUZsh1ypiNpc3sIJraIBRJ2Mh0zmEzuF0b0Ui75RidmXH46EpTehV8NiEQX1Cw2PUbHXC6LRgvdmuhzL6bjG7kW8TvQXIwwtZevIsmJZwvP8BUTZD-qQAAAA&shmds=v1_Ac3VAowuKSLbGwz7TDg4lro2yEYkjVicc_N6UW0co2qD7NUtYg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=Bc6veAqolyTz6aRpAAAAAA%3D%3D",
+      "extensions": [
+        "21 hours ago",
+        "73 an hour",
+        "Part-time"
+      ],
+      "source_link": "https://www.learn4good.com/jobs/westminster/colorado/info_technology/5569171610/e/",
+      "job_title": "AI Statistician & Python Validation Specialist",
+      "description": "A leading AI consultancy is seeking part-time statisticians to contribute to project-based opportunities. Responsibilities include designing statistics problems, validating AI solutions using Python, and improving AI reasoning. Candidates should have a degree in Statistics or related fields and at least 3 years of experience. Strong written English and Python proficiency are essential for this role. This opportunity offers flexible hours, with payment rates up to $73/hour based on expertise. This Part Time position is for the AI Statistician & Python Validation Specialist role  advertised compensation is 82.. We aim to respond to suitable candidates as soon as possible. Full responsibilities and requirements are described in the listing above. Learn more about the AI Statistician & Python Validation Specialist role in the description above. We appreciate your interest in this position.",
+      "apply_options": [
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/westminster/colorado/info_technology/5569171610/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTdGF0aXN0aWNpYW4gXHUwMDI2IFB5dGhvbiBWYWxpZGF0aW9uIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiJNaW5kcmlmdCIsImh0aWRvY2lkIjoiQmM2dmVBcW9seVR6NmFScEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdpMXFjMGR6UVRsSVppMTRZVFJxZHpkdE5HUTJjSGhKUkVSZmRrMUJTRnBmWjE5bmRIUlJaRnBGTFVvMVFtUmxkVUY0VHpWd1dWZFhZMFJUVUV0YU9WZFdSWGt3WDBaQllrVnBhRXBXY1ZSRFgwTnliRUY1TlZJM01IZENialZMY0RSb2VFaEZOQzA0VGxwWVZXa3pYM05ST1c4eVgyeHFlRU40TFdFMGMyTkNPWGQyY20wU0YwZEJjbXhoY1Mxd1RTMXBWVFZQVFZBNVVGOWFORUZ6R2lKQlNFNHdSVGRITVVGVmNpMXZVMkp6V0RnMlVrUmFiREoxYXpZME9FaHNSMFZSIiwiZmN2IjoiMyIsImZjX2lkIjoiQmM2dmVBcW9seVR6NmFScEFBQUFBQT09In0="
+    },
+    {
+      "title": "Freelance Statistician Python - AI Trainer",
+      "company_name": "Mindrift",
+      "location": "Fort Collins, CO",
+      "via": "Learn4Good",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This opportunity is a good fit for statisticians with an experience in python open to part-time, non-permanent projects",
+            "Degree in Statistics or related fields, e.g. Probability Theory, Mathematical Statistics, Applied Statistics, etc",
+            "3+ years of professional mathematics experience",
+            "Strong written English (C1/C2)",
+            "Strong Python proficiency for numerical validation",
+            "Stable internet connection",
+            "Professional certifications (e.g., PStat, CAP, SAS Certifications) and experience in international or applied projects are an advantage"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Paid contributions, with rates up to $73/hour*",
+            "Fixed project rate or individual rates, depending on the project",
+            "Some projects include incentive payments",
+            "Lower rates may apply during onboarding or non-core project phases"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Design rigorous statistics problems reflecting professional practice;",
+            "Evaluate AI solutions for correctness, assumptions, and constraints;",
+            "Validate calculations or simulations using Python (Num Py, Pandas, Sci Py, Stats models, and Scikit-learn);",
+            "Improve AI reasoning to align with industry-standard logic;",
+            "Apply structured scoring criteria to multi-step problems",
+            "Apply → Pass qualification(s) → Join a project → Complete tasks → Get paid",
+            "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements",
+            "This is an estimate, not a guaranteed workload, and applies only while the project is active"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=1X5b4yVQcCkRFs4YAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TxGJr0ZwINlqFQERBFLQPl3NNVs7dcLtF_IxvNWkGhoHJfrOsqBJi9BwQ7uaN1CiQZ7h9rROGNRQneCRPjGmUszSg6FPoYIxHkTbi_NCZ9bp3TjXmrU6XkAf5OGFsZHBvaXRCrZ1P2EdvWG93myHvuV0uLsTPRC8DYqgkGZQSI7GuoLz-AQ-zNcqhAAAA&shmds=v1_Ac3VAoxfZHaW7WEn65U9hHXdVoc5AmYPwMcvdqTwkDpOfAYqxA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=1X5b4yVQcCkRFs4YAAAAAA%3D%3D",
+      "extensions": [
+        "21 hours ago",
+        "73 an hour",
+        "Part-time and Contractor"
+      ],
+      "source_link": "https://www.learn4good.com/jobs/fort-collins/colorado/info_technology/5569171470/e/",
+      "job_title": "Freelance Statistician Python - AI Trainer",
+      "description": "Position: Freelance Statistician with Python Experience - AI Trainer OverviewPlease submit your CV in English and indicate your level of English proficiency. Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. Participation is project-based, not permanent employment.What This Opportunity InvolvesWhile each project involves unique tasks, contributors may:Design rigorous statistics problems reflecting professional practice;Evaluate AI solutions for correctness, assumptions, and constraints;Validate calculations or simulations using Python (Num Py, Pandas, Sci Py, Stats models, and Scikit-learn);Improve AI reasoning to align with industry-standard logic;Apply structured scoring criteria to multi-step problemsWhat We Look ForThis opportunity is a good fit for statisticians with an experience in python open to part-time, non-permanent projects. Ideally, contributors will have:Degree in Statistics or related fields, e.g. Probability Theory, Mathematical Statistics, Applied Statistics, etc.3+ years of professional mathematics experienceStrong written English (C1/C2)Strong Python proficiency for numerical validationStable internet connectionProfessional certifications (e.g., PStat, CAP, SAS Certifications) and experience in international or applied projects are an advantage.How It WorksApply → Pass qualification(s) → Join a project → Complete tasks → Get paidProject Time ExpectationsFor this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements. This is an estimate, not a guaranteed workload, and applies only while the project is active.PaymentPaid contributions, with rates up to $73/hour*Fixed project rate or individual rates, depending on the projectSome projects include incentive paymentsNote: Rates vary based on expertise, skills assessment, location, project needs, and other factors. Higher rates may be offered to highly specialized experts. Lower rates may apply during onboarding or non-core project phases. Payment details are shared per project",
+      "apply_options": [
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/fort-collins/colorado/info_technology/5569171470/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVlbGFuY2UgU3RhdGlzdGljaWFuIFB5dGhvbiAtIEFJIFRyYWluZXIiLCJjb21wYW55X25hbWUiOiJNaW5kcmlmdCIsImh0aWRvY2lkIjoiMVg1YjR5VlFjQ2tSRnM0WUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdtRlNUbDl2YW1JMFptbGlTSEp1WTFKUlJEbE9ZMnA1V0MxSFpETnpWVkZYUlZWWmFFOVFNMFZrT1V0dmRYZFdhRWxIU3pOcFNHTkxkbTlMYVUxWWIwRldZak4zTUhCbmFtOWlOVE5QYjA1Sk15MDFjRGxqYjNsSGFsbzBUVGREY1hOemNuVXhaelp5ZVVKTFMwbFhkalp5TUdVdE5FMDRXVTlmYWt4SFgxRTFiVXRYU25FU0YwZEJjbXhoY1Mxd1RTMXBWVFZQVFZBNVVGOWFORUZ6R2lKQlNFNHdSVGRJTVhwc1FYSTFVbTFWVkZCRFExaGtjV1pGVFVoNlVtNTJabEJCIiwiZmN2IjoiMyIsImZjX2lkIjoiMVg1YjR5VlFjQ2tSRnM0WUFBQUFBQT09In0="
+    },
+    {
+      "title": "Mathematical Statistics Series",
+      "company_name": "U.S. Department of Defense (DOD)",
+      "location": "Cheyenne, WY",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This public notice is to gather applications that may or may not result in a referral or selection.Qualifications:In order to qualify, you must meet the specialized experience requirements described in the Office of Personnel Management (OPM) Qualification Standards for General Schedule Positions, Professional and Scientific Positions and the Individual Occupational Requirement (IOR) for the GS-1529 Series",
+            "Bachelor's degree: that included 24 semester hours of mathematics and statistics, of which at least 12 semester hours were in mathematics and 6 semester hours were in statistics",
+            "COMBINATION OF EDUCATION AND EXPERIENCE: at least 24 hours of mathematics and statistics, including at least 12 hours in mathematics and 6 hours in statistics, as show above, plus appropriate experience or additional education",
+            "GS-11: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-09, or equivalent in other pay systems",
+            "Examples of specialized experience includes mathematics principles and concepts, and familiarity with other scientific and engineering disciplines to carry out conventional scientific process",
+            "Experience in related disciplines to design, develop and adapt scientific methods and techniques",
+            "EDUCATION: 3 years of progressively higher level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree",
+            "COMBINATION OF EDUCATION AND EXPERIENCE: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100 percent",
+            "GS-12: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-11, or equivalent in other pay systems",
+            "Examples of specialized experience include space surveillance systems substantially similar in functionality, relevant mathematical and statistical sciences in order to design, test or upgrade software",
+            "Experience in administrative aspects of task engineering and management, e.g., procurement policies, preparation of work statements and development plans, cost evaluations, etc",
+            "GS-13: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-12, or equivalent in other pay systems",
+            "Examples of specialized experience include broad areas of classical and modern higher mathematics to originate and develop improved and/or new mathematical models in cyber systems, one or more specialized areas of operation and cyber related theories, atmospheric density modeling, simulation and software systems to conduct complex original studies and apply research findings to broad studies of an unprecedented nature",
+            "GS-14: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-13, or equivalent in other pay systems",
+            "Examples of specialized experience include broad areas of classical and modern higher mathematics to originate and develop improved and/or new mathematical models in cyber systems, one or more specialized areas of operation and cyber related theories, atmospheric density modeling, simulation and software systems to conduct complex original studies and apply research findings to broad studies of an unprecedented nature, skill in coordinating extensive projects in assigned areas of engineering principals, knowledge of regulations and mission and strategic objectives",
+            "GS-15 Applicants must have at least one (1) year of specialized experience at the next lower grade GS-14, or equivalent in other pay systems",
+            "Examples of specialized experience include space surveillance network, space operational processes and procedures, orbital mechanics, applied physics and mathematics, applying and using mathematical and simulation models to verify and validate space systems",
+            "Broad management principles associated with directing highly skilled technical personnel and combining in house and external resources for complex analytical and technical projects",
+            "Knowledge or mathematics principles and concepts, and familiarity with other scientific and engineering disciplines to carry out conventional scientific processes, knowledge of mathematics and related disciplines to design, develop and adapt scientific methods and techniques",
+            "Knowledge in space surveillance systems substantially similar in functionality in order to design, test or upgrade software, knowledge of administrative aspects of task engineering and management",
+            "Skill in broad areas of classical and modern higher mathematics to originate and develop mathematical models in cyber systems",
+            "Knowledge of mathematics and physics for own independent research in antennas and propagation, electromagnetic systems concepts involving microwave antennas, radar, communications and RF sensor technology",
+            "Knowledge of of safety and security regulations, practices and procedures, space surveillance network, space operational processes and procedures",
+            "PART-TIME OR UNPAID EXPERIENCE: Credit will be given for appropriate unpaid and or part-time work",
+            "VOLUNTEER WORK EXPERIENCE: Refers to paid and unpaid experience, including volunteer work done through National Service Programs (i.e., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student and social)",
+            "You will receive credit for all qualifying experience, including volunteer experience.Education:IF USING EDUCATION TO QUALIFY: If position has a positive degree requirement or education forms the basis for qualifications, you MUST submit transcriptswith the application",
+            "Official transcripts are not required at the time of application; however, if position has a positive degree requirement, qualifying based on education alone or in combination with experience; transcripts must be verified prior to appointment",
+            "An accrediting institution recognized by the U.S",
+            "Department of Education must accredit education",
+            "FOREIGN EDUCATION: Education completed in foreign colleges or universities may be used to meet the requirements",
+            "You must show proof the education credentials have been deemed to be at least equivalent to that gained in conventional U.S. education program"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You must clearly identify the duties and responsibilities in each position held and the total number of hours per week"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=7ccSXO15734p6YCjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLZU0bsgpNHSgCCIRRCxCpewyUUuu8ftFvFDvtOkGWaKyX6rrLg79Tg6HVoXoNJZZHaBCtOAAge4cQOCLrUemODK3Adcn71qlJO1IsH0smytaXm0TNjwZD_cyIJavEsYg1Osj0U-mUj9Ln-aykCJ0SUdkRS4m6tDEoRN-Si3MBBcPH6RCPfwev8BN-JSBKkAAAA&shmds=v1_Ac3VAoz95l65t8DASwADNxeui-H1cic4J1cAb4y1CvUScOnsHw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=7ccSXO15734p6YCjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a162106d4f7b6c82e3e/images/r5inNwnJBWP67qrL_s5Y16fyMwfC9qmDEGpmkClCHAU.png",
+      "extensions": [
+        "63,795 a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/U.S.-Department-of-Defense-(DOD)/Job/Mathematical-Statistics-Series/-in-Cheyenne,WY?jid=ad0ac32c966a6f52",
+      "job_title": "Mathematical Statistics Series",
+      "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information.\n\nThis is a Direct Hire Solicitation. This public notice is to gather applications that may or may not result in a referral or selection.Qualifications:In order to qualify, you must meet the specialized experience requirements described in the Office of Personnel Management (OPM) Qualification Standards for General Schedule Positions, Professional and Scientific Positions and the Individual Occupational Requirement (IOR) for the GS-1529 Series.\n\nBASIC REQUIREMENTS FOR ALL GRADE LEVELS:\n\nBachelor's degree: that included 24 semester hours of mathematics and statistics, of which at least 12 semester hours were in mathematics and 6 semester hours were in statistics. \n\nOR \n\nCOMBINATION OF EDUCATION AND EXPERIENCE: at least 24 hours of mathematics and statistics, including at least 12 hours in mathematics and 6 hours in statistics, as show above, plus appropriate experience or additional education. \n\nIn addition to meeting the basic requirement above, to qualify for this position you must also meet the qualification requirements listed below:\n\nSPECIALIZED EXPERIENCE:\n\nGS-11: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-09, or equivalent in other pay systems. Examples of specialized experience includes mathematics principles and concepts, and familiarity with other scientific and engineering disciplines to carry out conventional scientific process. Experience in related disciplines to design, develop and adapt scientific methods and techniques.\n\nOR\n\nEDUCATION:  3 years of progressively higher level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree. NOTE: You must submit copy of official transcripts.\n\nOR\n\nCOMBINATION OF EDUCATION AND EXPERIENCE: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100 percent. NOTE: You must submit a copy of official transcripts.\n\nGS-12: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-11, or equivalent in other pay systems. Examples of specialized experience include space surveillance systems substantially similar in functionality, relevant mathematical and statistical sciences in order to design, test or upgrade software. Experience in administrative aspects of task engineering and management, e.g., procurement policies, preparation of work statements and development plans, cost evaluations, etc.\n\nGS-13: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-12, or equivalent in other pay systems. Examples of specialized experience include broad areas of classical and modern higher mathematics to originate and develop improved and/or new mathematical models in cyber systems, one or more specialized areas of operation and cyber related theories, atmospheric density modeling, simulation and software systems to conduct complex original studies and apply research findings to broad studies of an unprecedented nature.\n\nGS-14: Applicants must have at least one (1) year of specialized experience at the next lower grade GS-13, or equivalent in other pay systems. Examples of specialized experience include broad areas of classical and modern higher mathematics to originate and develop improved and/or new mathematical models in cyber systems, one or more specialized areas of operation and cyber related theories, atmospheric density modeling, simulation and software systems to conduct complex original studies and apply research findings to broad studies of an unprecedented nature, skill in coordinating extensive projects in assigned areas of engineering principals, knowledge of regulations and mission and strategic objectives.\n\nGS-15 Applicants must have at least one (1) year of specialized experience at the next lower grade GS-14, or equivalent in other pay systems. Examples of specialized experience include space surveillance network, space operational processes and procedures, orbital mechanics, applied physics and mathematics, applying and using mathematical and simulation models to verify and validate space systems. Broad management principles associated with directing highly skilled technical personnel and combining in house and external resources for complex analytical and technical projects.\n\nKNOWLEDGE, SKILLS AND ABILITIES (KSAs): \n1. Knowledge or mathematics principles and concepts, and familiarity with other scientific and engineering disciplines to carry out conventional scientific processes, knowledge of mathematics and related disciplines to design, develop and adapt scientific methods and techniques.\n2. Knowledge in space surveillance systems substantially similar in functionality in order to design, test or upgrade software, knowledge of administrative aspects of task engineering and management.\n3.Skill in broad areas of classical and modern higher mathematics to originate and develop mathematical models in cyber systems.\n4. Knowledge of mathematics and physics for own independent research in antennas and propagation, electromagnetic systems concepts involving microwave antennas, radar, communications and RF sensor technology.\n5. Knowledge of of safety and security regulations, practices and procedures, space surveillance network, space operational processes and procedures.\n\nPART-TIME OR UNPAID EXPERIENCE: Credit will be given for appropriate unpaid and or part-time work. You must clearly identify the duties and responsibilities in each position held and the total number of hours per week.\n\nVOLUNTEER WORK EXPERIENCE: Refers to paid and unpaid experience, including volunteer work done through National Service Programs (i.e., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student and social). Volunteer work helps build critical competencies, knowledge and skills that can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.Education:IF USING EDUCATION TO QUALIFY: If position has a positive degree requirement or education forms the basis for qualifications, you MUST submit transcriptswith the application. Official transcripts are not required at the time of application; however, if position has a positive degree requirement, qualifying based on education alone or in combination with experience; transcripts must be verified prior to appointment. An accrediting institution recognized by the U.S. Department of Education must accredit education. Click here to check accreditation.\n\nFOREIGN EDUCATION: Education completed in foreign colleges or universities may be used to meet the requirements. You must show proof the education credentials have been deemed to be at least equivalent to that gained in conventional U.S. education program. It is your responsibility to provide such evidence when applying.Employment Type: OTHER",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/U.S.-Department-of-Defense-(DOD)/Job/Mathematical-Statistics-Series/-in-Cheyenne,WY?jid=ad0ac32c966a6f52&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXRoZW1hdGljYWwgU3RhdGlzdGljcyBTZXJpZXMiLCJjb21wYW55X25hbWUiOiJVLlMuIERlcGFydG1lbnQgb2YgRGVmZW5zZSAoRE9EKSIsImh0aWRvY2lkIjoiN2NjU1hPMTU3MzRwNllDakFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXdzNVbGhGWTNaMVJWZGpaWHByUVU1dlMxaDRORTFxYlVoRVUxSTFTVEZWZGpWa1ZYQktWak5aY0ZBNGRIVmpabmhrZFdoTk5UWTJNalpyWDAxQmRsWXpNa3hXVFY5R2NXbGhTWEJvVFc5MlUxRm9lVGhVUWswM1lVaDRUM1pOVTJOelkxUmpkWE5VZVc0eGIycEZXQzF0VkhoVmIxUjNVMmxhU0RoU2NrZFhXRTFKU0dVU0YwZEJjbXhoY1Mxd1RTMXBWVFZQVFZBNVVGOWFORUZ6R2lKQlNFNHdSVGRGUmw5dldHZFdjbW94TjI0elpqRnZiVmQ1UWt4RldETmhTMFYzIiwiZmN2IjoiMyIsImZjX2lkIjoiN2NjU1hPMTU3MzRwNllDakFBQUFBQT09In0="
+    },
+    {
+      "title": "Statistician 3 (24167) - COBRA",
+      "company_name": "Mission Technologies, a division of HII",
+      "location": "Colorado Springs, CO",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "5 years relevant experience with Bachelors in related field; 3 years relevant experience with Masters in related field; 0 years experience with PhD or Juris Doctorate in related field; or High School Diploma or equivalent and 9 years relevant experience",
+            "Must possess an active TS/SCI clearance",
+            "Demonstrated ability to communicate complex concepts clearly and effectively",
+            "Capacity to manage competing priorities in a fast-paced environment",
+            "Proven track record of contributing to successful team outcomes",
+            "May require working in an office, industrial, shipboard, or laboratory environment",
+            "Capable of climbing ladders and tolerating confined spaces and extreme temperature variances"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Anticipated Salary Range: $81,208.00 - $116,012.00"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Through a multiagency contracting approach, the Collaborative Operations for Battlespace Resilient Architecture (COBRA) initiative focuses on advancing these technologies to achieve multi-domain battlespace integration and resilient command and control",
+            "This includes a broad range of services such as systems engineering, cybersecurity, operational integration, and data analytics, all aimed at modernizing communications and ensuring seamless information exchange for the DoD and its allies",
+            "Statistician - Conducts technical statistical research and analysis, and compiles and interprets statistical records/reports of programs, projects, and activities",
+            "Accountable for the adequacy of the selected statistical methods and the accuracy of the results",
+            "Leverages a working knowledge of statistical principles, methods, and techniques and applies statistics in a specialized areas",
+            "Determines methods of statistical analysis and applies statistical techniques to determine measures of central tendency, correlation, sample size, significance of differences, etc",
+            "Performs specialized statistical analysis involving correlation and regression equations",
+            "Compiles and analyzes data and interprets trends, fluctuations, and other changes",
+            "Prepares reports, graphs, charts, and occasionally provides oral presentations of the results of statistical studies",
+            "Researches pertinent literature in a designed project area and analyzes applicability of concepts"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Statistician&htidocid=rUJWfi7UrHSgH2ucAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MsQ6CMBRF48onOL1RjYKiaKKDUQbFxJCIOymllmdqX8NrDD_m_4ku9w7n5ASfQZAUXnhkjxKFhSWM4tVivRnDDNL8eDv0f6EKWIlWNkAWTkTaqOGu8d7xNoqYTaj515ChpFdEVlXURU-q-DclN6JVzgivyjiZd6GzerK_IjP2sbuSjSVDGhVPQUCNb_wDesA5ywAtpD1uRU1QuBat7rU0_wIuHMxPuAAAAA&shmds=v1_Ac3VAoxOwbi_KDJjPExdbM2Fi7G1172jtqN0AkXajabl6e4lOA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Statistician&htidocid=rUJWfi7UrHSgH2ucAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://talents.vaia.com/companies/mission-technologies-a-division-of-hii/statistician-3-24167-cobra-34148371/",
+      "job_title": "Statistician 3 (24167) - COBRA",
+      "description": "Join to apply for the Statistician role at Mission Technologies, a division of HII\n\n2 days ago Be among the first 25 applicants\n\nJoin to apply for the Statistician role at Mission Technologies, a division of HII\n\nRequisition Number: 24167\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $81,208.00 - $116,012.00\n\nSecurity Clearance: TS/SCI\n\nLevel of Experience: Mid\n\nThis opportunity resides with Warfare Systems (WS), a business group within HII’s Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation’s intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII’s Mission Technologies Division\n\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense – the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that’s right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHuntington Ingalls Industries (HII) Mission Technologies Warfare Systems partners with the DoD and defense innovation ecosystem to rapidly acquire and field critical and emerging technologies, particularly integrated communications, networking, and Systems-of-Systems (SoS) technologies, to enhance national security and warfighter capabilities. Through a multiagency contracting approach, the Collaborative Operations for Battlespace Resilient Architecture (COBRA) initiative focuses on advancing these technologies to achieve multi-domain battlespace integration and resilient command and control. This includes a broad range of services such as systems engineering, cybersecurity, operational integration, and data analytics, all aimed at modernizing communications and ensuring seamless information exchange for the DoD and its allies.\n\nEssential Job Responsibilities\n\nStatistician - Conducts technical statistical research and analysis, and compiles and interprets statistical records/reports of programs, projects, and activities. Accountable for the adequacy of the selected statistical methods and the accuracy of the results. Leverages a working knowledge of statistical principles, methods, and techniques and applies statistics in a specialized areas. Determines methods of statistical analysis and applies statistical techniques to determine measures of central tendency, correlation, sample size, significance of differences, etc. Performs specialized statistical analysis involving correlation and regression equations. Compiles and analyzes data and interprets trends, fluctuations, and other changes. Prepares reports, graphs, charts, and occasionally provides oral presentations of the results of statistical studies. Researches pertinent literature in a designed project area and analyzes applicability of concepts.\n\nMinimum Qualifications\n\n\n\n5 years relevant experience with Bachelors in related field; 3 years relevant experience with Masters in related field; 0 years experience with PhD or Juris Doctorate in related field; or High School Diploma or equivalent and 9 years relevant experience.Must possess an active TS/SCI clearance.Demonstrated ability to communicate complex concepts clearly and effectivelyCapacity to manage competing priorities in a fast-paced environmentProven track record of contributing to successful team outcomes\n\nPreferred Requirements\n\nKnowledge of DoD acquisition and contracting processesWorking familiarity with federal compliance standards (e.g., DFARS, ITAR)PMP, CISSP, or other relevant certifications preferred\n\nPhysical Requirements\n\nMay require working in an office, industrial, shipboard, or laboratory environment. Capable of climbing ladders and tolerating confined spaces and extreme temperature variances.\n\nThe listed salary range for this role is intended as a good faith estimate based on the role\\'s location, expectations, and responsibilities. When extending an offer, HII\\'s Mission Technologies division takes a variety of factors into consideration which include, but are not limited to, the role\\'s function and a candidate\\'s education or training, work experience, and key skills.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\n\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.Seniority levelSeniority levelMid-Senior levelEmployment typeEmployment typeFull-timeJob functionJob functionResearch, Analyst, and Information TechnologyIndustriesDefense and Space ManufacturingReferrals increase your chances of interviewing at Mission Technologies, a division of HII by 2x\n\nGet notified about new Statistician jobs in Colorado Springs, CO.\n\nData Analyst – Department of Human ServicesMarketing Data and Analytics Analyst IIIBusiness Analyst – Global Data MarketplaceWe’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.\n\n #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/mission-technologies-a-division-of-hii/statistician-3-24167-cobra-34148371/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4gMyAoMjQxNjcpIC0gQ09CUkEiLCJjb21wYW55X25hbWUiOiJNaXNzaW9uIFRlY2hub2xvZ2llcywgYSBkaXZpc2lvbiBvZiBISUkiLCJodGlkb2NpZCI6InJVSldmaTdVckhTZ0gydWNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbEJDT1RGUVlsZHBlVUZQV1UxNGJFbE9NUzF5TkVFeFgyMUNaSGxPVFZsaFFrTk9ZbGczWW05bGFGVjRjVlJIVFRKemQwOVhaazh6TW1weWVETmlSVEJOUTBOcmVHSktZVUpvVW5Jd2RqRk9hekJOV0hGSGFtUlZjMU55TkhkaFJYWXliVFZvYm5CRFVrOXRTV1pKU2s1V1lXbGpjelpXTFhwWUxXNURiSGR1YWpkS1dUQVNGMGRCY214aGNTMXdUUzFwVlRWUFRWQTVVRjlhTkVGekdpSkJTRTR3UlRkSU5qSnNiMVpFWlROdVpWZG5hR3Q2YVZkclpIWkNMVmRUY1ZObiIsImZjdiI6IjMiLCJmY19pZCI6InJVSldmaTdVckhTZ0gydWNBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZbUZCT1ZBNFVFSnhhVGxuTldORmNVRlphRTFpVTNKRlpIQXdRbW80VkhsWmMweDBUM013WkhRM1lVeGtMVzU2ZURGc2FVVktVVkUzU0doUmNYSnJOekE1Um5RdFduZFhZWGRqYm5wUE5UbHVSRFJrVldKeGVHSkRaVTFITUdWNGEza3hNMnhVWVZVd2NEUndPSGRpYm0wMFpEUnJVbDlQUmpodE9UZ3dPVTB0U0RnMVowSlplbGxZU1drNFprSklWa2RNUkRaTFltWnFMVGhtUmxCWGJqRndZM1kxUVhaRVZtNTBkSHBoUm5kTFZWUnpRMEpGVkZKa2QybG5OREJSVkRKV1ptOXZiVzFFVlhsaldESkZhVWt6Vm5GNFdVUnVVbmsxYlZZd01XZzVXbVJGVmxWeFpFRk5NbTloYkZsQlFubFlkbGhGWTFaSWFYWnRaalpFYkhCa1gxZDRWMVpmVFMxRlFrRTRTWFJCV1ZWSFQxQlhhR1JFU1ZRNGNXUjNXblZyUTBKS0xUQnpYMUJtWTJ4eGNERlJWbnBZTFhjNWQyOVphbVZ4YjAxTE1tdFRNbmhaVGtrMU5XUnVkM0YwVlhCMVEwVlhjRXRVVUZoME1IcDFRM0I0WDNWQlRucHBjMGRHVmw5WlVFUkNZbXN4ZUROQmJWbFpaVWxsVnpaNk5VbFZVMU5RYkVkaGRYUjNhRzE2ZFU5aldrRlRTMWh0VTFCa2JXOVBOMlZEVVMxRVEyczNOR0pGTjJWNFgydGtaMjA1UVhveVF6VnBOWEp5UTNKbFRqSTFTRGhmU1U1cVRVaEZiVUphT0hkMVdrazRjR1JCVlc0NGIwdDFTbmQzYkhOTVpIRnRNemhrUVVsSmVGOXpja0o1Y25veldFcEdaVGxRYldOUmIyOUhiVXBQVEdwNVZWUTRiMFZaZW5ZNVl6ZHVWSEJJUTJGSFl5MXdTMGhVTW5SeFJVUjJVV2RmZG5OcFQxa3pZV293RWhkSFFYSnNZWEV0Y0UwdGFWVTFUMDFRT1ZCZldqUkJjeG9pUVVoT01FVTNSWHBKWVVsWFVuUTRiakZ3VURSR1VWTnVkazgwWW5aNVZrYzJRUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2Y0VDcmNFUVVSRVlsZGxZbUZCT1ZBNFVFSnhhVGxuTldORmNVRlphRTFpVTNKRlpIQXdRbW80VkhsWmMweDBUM013WkhRM1lVeGtMVzU2ZURGc2FVVktVVkUzU0doUmNYSnJOekE1Um5RdFduZFhZWGRqYm5wUE5UbHVSRFJrVldKeGVHSkRaVTFITUdWNGEza3hNMnhVWVZVd2NEUndPSGRpYm0wMFpEUnJVbDlQUmpodE9UZ3dPVTB0U0RnMVowSlplbGxZU1drNFprSklWa2RNUkRaTFltWnFMVGhtUmxCWGJqRndZM1kxUVhaRVZtNTBkSHBoUm5kTFZWUnpRMEpGVkZKa2QybG5OREJSVkRKV1ptOXZiVzFFVlhsaldESkZhVWt6Vm5GNFdVUnVVbmsxYlZZd01XZzVXbVJGVmxWeFpFRk5NbTloYkZsQlFubFlkbGhGWTFaSWFYWnRaalpFYkhCa1gxZDRWMVpmVFMxRlFrRTRTWFJCV1ZWSFQxQlhhR1JFU1ZRNGNXUjNXblZyUTBKS0xUQnpYMUJtWTJ4eGNERlJWbnBZTFhjNWQyOVphbVZ4YjAxTE1tdFRNbmhaVGtrMU5XUnVkM0YwVlhCMVEwVlhjRXRVVUZoME1IcDFRM0I0WDNWQlRucHBjMGRHVmw5WlVFUkNZbXN4ZUROQmJWbFpaVWxsVnpaNk5VbFZVMU5RYkVkaGRYUjNhRzE2ZFU5aldrRlRTMWh0VTFCa2JXOVBOMlZEVVMxRVEyczNOR0pGTjJWNFgydGtaMjA1UVhveVF6VnBOWEp5UTNKbFRqSTFTRGhmU1U1cVRVaEZiVUphT0hkMVdrazRjR1JCVlc0NGIwdDFTbmQzYkhOTVpIRnRNemhrUVVsSmVGOXpja0o1Y25veldFcEdaVGxRYldOUmIyOUhiVXBQVEdwNVZWUTRiMFZaZW5ZNVl6ZHVWSEJJUTJGSFl5MXdTMGhVTW5SeFJVUjJVV2RmZG5OcFQxa3pZV293RWhkSFFYSnNZWEV0Y0UwdGFWVTFUMDFRT1ZCZldqUkJjeG9pUVVoT01FVTNSWHBKWVVsWFVuUTRiakZ3VURSR1VWTnVkazgwWW5aNVZrYzJRUSIsImZjdiI6IjMifQ%3D%3D&q=Statistician&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Statistician",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:20:22.392422+00:00",
+    "request_fingerprint": "ece2ce60ce634d1c229053082cbf0b97d34b2806d83b2dfc0ee9d897021f3881",
+    "job_count": 10
+  }
+}

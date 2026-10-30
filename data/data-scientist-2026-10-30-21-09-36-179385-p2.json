@@ -1,0 +1,537 @@
+{
+  "search_metadata": {
+    "id": "6ae50790e49cadd83f1202f5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Y6wia0QwJTxrMvv7LOr8YBG2_s4rWESw54d2he2WTKY/6ae50790e49cadd83f1202f5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Y6wia0QwJTxrMvv7LOr8YBG2_s4rWESw54d2he2WTKY/6ae50790e49cadd83f1202f5.md",
+    "created_at": "2026-10-30 21:09:36 UTC",
+    "processed_at": "2026-10-30 21:09:36 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Scientist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Y6wia0QwJTxrMvv7LOr8YBG2_s4rWESw54d2he2WTKY/6ae50790e49cadd83f1202f5.html",
+    "prettify_html_file": "https://serpapi.com/searches/Y6wia0QwJTxrMvv7LOr8YBG2_s4rWESw54d2he2WTKY/6ae50790e49cadd83f1202f5.prettify",
+    "total_time_taken": 0.66
+  },
+  "search_parameters": {
+    "q": "Data Scientist",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVzd0VDb3dFUVVSRVlsZGxXVnA1ZFZJelNsSm5jbUpLYWxaeWVIVk9SR1JqVEdRd09YVkxZbXRSVUV0cVN6WkpPRXR6V20xMlNXUk5WbFZXVG5JMFkyWldkalJwT0VaQ1pESlpkelYyWXpBNVgwaFBVMUpJTm1oclFVTmZWMWg1UjIxd05GVkpUSEpNTVdNNWRtdFRMVW95VkVzeVRTMHRaV0ZtZW1GWU5HWTFiVTR5UVdwUVQwZEJkbWszU1hOTlZrRmhOMkZQYm5GQ1ZUUnJNMEZ2WkVKWmJUVllZbW90U3pkelMwRlRTVVZDWDBGUFltWlRSVmhRVXpaWGQydEdVbTlzU0VaWGRVRkxUVTVCTTI1eWNHTkVia05KTUhwVlVXeHVha05PY205M2VIUnRaVVowWlROWVoyWTJYMnM0UVVsaGVubFBTblJLU1dsb1gyNWZVMUZ4VmxZeFlYaG1NRlU1WVZOMU16VnJNRVpNVXpOaVdHdEVlV2hUV2pkeVZqVTNaRlpzY1ZwT2EzRnFjRkZPYWtWMlIxUlRkV1ZpYjJWUGVHNHROMDgxUWtNeVZIWmxlR0p5U0d4UmEzZzJWV3RUZFhrM1VXcFJSWFk1Y3paamJ6RTFjalJpZFhSNlR6ZFZTVVoxUm1oMlRuWkhlRk4zWHpGRmIyaHdTa1UwYmxCVFducERNMGRZVkVnNVpVcDBOVmg1WmpVeWJraG9hbXBXYWtVNVIya3dTMUF0WkRSSmJHNXBjR1JNWlMxU2NqUnBUbU5LWDNRMFRXWmZNV1ZwTVVvelNVUldTekZDVkZaSFFXNXVkVlp4UmtJMlRIbDNlR3h5VjAxRGJsazNWRTFUVERaR1V6SlNhRVpNWW5Kc1kwVlhRbm80WWpsTGNEVlNjalZTY3paNWNHVm1UMmx0V2s5amNGTTFZbTFxTW13U0YyZFJabXhoZG0xTlMzTnhibkoxUlZBeWIyWlpORkZyR2lKQlNFNHdSVGRGVlVoVU1XVm5VSFZmY3pWelZqaG9NSFZhV0RGUmFUaGhOMFZuIiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Data Scientist",
+      "company_name": "Leidos",
+      "location": "Englewood, CO",
+      "via": "Leidos Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "US Citizenzhip",
+            "Active TS/SCI and eligible to obtain a TS/SCI w/poly clearance",
+            "Bachelor of Science Degree in Data Science, Computer Science, Mathematics, Statistics or other relevant technical program, with 8+ years of experience",
+            "Additional years of experience in lieu of degree are acceptable",
+            "Skilled in data extraction and analysis from COTS products",
+            "Experience with data manipulation, analysis, analytic/business insight tools, and data visualization",
+            "Experience constructing and performing complex database search queries",
+            "Experience establishing/developing data pipelines and normalizing data",
+            "Proficiency with MS Excel and MS Access for design, development and exploitation of datasets and databases",
+            "Proficiency with programming (e.g. Python, R) and machine learning toolkits",
+            "Advanced problem-solving skills for unstructured datasets",
+            "Capable of presenting technical information effectively to both technical and non-technical audiences",
+            "Strong organizational, time management, and omnidirectional communication abilities",
+            "Technical writing and critical reading",
+            "Experience producing executive-level products",
+            "Ability to work efficiently on small, distributed teams"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range $107,900.00 - $195,050.00",
+            "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary",
+            "Pay and Benefits",
+            "Pay and benefits are fundamental to any career decision",
+            "That's why we craft compensation packages that reflect the importance of the work we do for our customers",
+            "Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Assemble large, complex sets of data to meet functional and other requirements",
+            "Build statistical models, test hypotheses, interpret, summarize, visualize, and succinctly report on data findings",
+            "Build requisite infrastructure for optimal extraction, transformation and loading of data from various sources",
+            "Perform research on various data sources, to include unstructured data using quantitative and qualitative content analytics",
+            "Construct and perform complex database search queries in multiple databases using SQL and API interfaces",
+            "Perform web scraping and apply various techniques for processing unstructured data",
+            "Identify, design, and implement internal process improvements",
+            "Optimize data delivery, and automate manual processes",
+            "Curate and maintain data stored in support of metrics and evaluation",
+            "Design, build, test, maintain, and automate data collection/pipelines",
+            "Develop Dashboards for Data Analytics",
+            "Leverage available resources to normalize and manage data, predict scenarios and make recommendations",
+            "Contribute to building new analytical tools and packages across the enterprise",
+            "Contribute to the design and evolution of the client’s enterprise data architecture, ensuring interoperability, security, and alignment with business goals",
+            "Collaborate with team members in a highly technical environment",
+            "Collaborate with multiple stakeholders to drive data integration initiatives and foster a data-driven culture",
+            "Analyze current data structure, tagging, and quality standards to discover and address anomalies",
+            "Analyze current practices to ensure compliance with relevant regulations and contract requirements",
+            "Learn and leverage emerging technologies as they become available/accepted within the customer environment",
+            "Brief and interact with personnel at all levels of experience, including Senior Officials"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=zuIs_jnKmSv-fnXOAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwA0P1-QHDK4iLaiuCio4oggoMfcKS90FZqUi4Bb_Hf1eWNr_t0ixMawiMWYitqsIarBFDCMWYQhotIqjQ_ZLOme-9Vq0tqaCW6KC8vTEEm_5Sgf3rNOFKraNRvd5vJNU7L2Y3KIAqF4cy_7S0yrOB4_wKaLNJRfwAAAA&shmds=v1_Ac3VAozVFJb59TcCrxCzbjxKejav_nbbGESvr8mDJvdSWOfeaw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=zuIs_jnKmSv-fnXOAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX___-QFoiOBoXizuCJAICsaKaFAHyNAIWCAHmPD4f06vPMpsicQJX9-f2mW6CoYKL68_nRsM7q2umyc6yfR5i4gbPUttLw4u6lVJ7AkLzdw9uRIorIn8R6AHGWMo-0eK_Yw9YAtL_hAAABP0lEQVRIie2T23KDIBCGBdblpAGNBzRG8_5PWbSmU5OAae_a8buSGb9hd_k3SQ4ODv4dmpx1mf9CrDgHhKpu2p95CsmMnG3X9eptUQP5glLAixmYfUfMJNkgKQdx2W9bXeEVKIQYp6KMiCzC7dY89czcyRjjbJ3GMc6letOzypDy0SKNMHfbPZc7IAwFkBASMBta9arNElUlAxYXo1ZWn_rQTF-J_q6qsFZn1y4005wBf7B8Blxhla5QuHCMsiExsLVOjVXDKDiQQJVLpT7ceYP0boFp8rYbkUuKdVhbckqht5m_1Gc87VfLN1nFV2WZKaZJJ-Dc52VHZmu-uohqnxvlB4-2taxeLSLFtLfWvlKOZGL-M0_F-jAwRpK94kNXs_uhXx6G47CrJWpi34_WgcT0rR1-RF_Y_k8HBwd_mg-dahDH3-LbOQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.leidos.com/jobs/18247395-data-scientist",
+      "job_title": "Data Scientist",
+      "description": "Description \n\n Leidos is seeking an experienced Data Scientist in Englewood, CO.\n\n\n\nPrimary Responsibilities:\n\nAssemble large, complex sets of data to meet functional and other requirements\n\nBuild statistical models, test hypotheses, interpret, summarize, visualize, and succinctly report on data findings\n\nBuild requisite infrastructure for optimal extraction, transformation and loading of data from various sources\n\nPerform research on various data sources, to include unstructured data using quantitative and qualitative content analytics\n\nConstruct and perform complex database search queries in multiple databases using SQL and API interfaces\n\nPerform web scraping and apply various techniques for processing unstructured data\n\nIdentify, design, and implement internal process improvements \n\nOptimize data delivery, and automate manual processes\n\nCurate and maintain data stored in support of metrics and evaluation\n\nDesign, build, test, maintain, and automate data collection/pipelines\n\nDevelop Dashboards for Data Analytics\n\nLeverage available resources to normalize and manage data, predict scenarios and make recommendations\n\nContribute to building new analytical tools and packages across the enterprise \n\nContribute to the design and evolution of the client’s enterprise data architecture, ensuring interoperability, security, and alignment with business goals\n\nCollaborate with team members in a highly technical environment\n\nCollaborate with multiple stakeholders to drive data integration initiatives and foster a data-driven culture\n\nAnalyze current data structure, tagging, and quality standards to discover and address anomalies\n\nAnalyze current practices to ensure compliance with relevant regulations and contract requirements\n\nLearn and leverage emerging technologies as they become available/accepted within the customer environment\n\nBrief and interact with personnel at all levels of experience, including Senior Officials\n\n\n\nBasic Qualifications:\n\nUS Citizenzhip\n\nActive TS/SCI and eligible to obtain a TS/SCI w/poly clearance\n\nBachelor of Science Degree in Data Science, Computer Science, Mathematics, Statistics or other relevant technical program, with 8+ years of experience. Additional years of experience in lieu of degree are acceptable. \n\nSkilled in data extraction and analysis from COTS products\n\nExperience with data manipulation, analysis, analytic/business insight tools, and data visualization\n\nExperience constructing and performing complex database search queries\n\nExperience establishing/developing data pipelines and normalizing data\n\nProficiency with MS Excel and MS Access for design, development and exploitation of datasets and databases\n\nProficiency with programming (e.g. Python, R) and machine learning toolkits\n\nAdvanced problem-solving skills for unstructured datasets\n\nCapable of presenting technical information effectively to both technical and non-technical audiences\n\nStrong organizational, time management, and omnidirectional communication abilities\n\nTechnical writing and critical reading\n\nExperience producing executive-level products\n\nAbility to work efficiently on small, distributed teams\n\n\n\nDesired Knowledge:\n\nFamiliarity with non-linear workflows\n\nFamiliarity with TTP development process\n\nKnowledge of computer science concepts, data architecture, and statistics\n\nExperience/familiarity with frequentist statistics and probability including predicative modeling\n\nExperience with Tableau\n\n\n\n#NSBA\n\n\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.\n\nOriginal Posting:September 16, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\n\n\nPay Range:Pay Range $107,900.00 - $195,050.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\n\n\nAbout Leidos\n\n\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.\n\n\n\nPay and Benefits\n\n\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.\n\n\n\nSecuring Your Data\n\n\n\nBeware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.\n\n\n\nCommitment to Non-Discrimination\n\n\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+      "apply_options": [
+        {
+          "title": "Leidos Careers",
+          "link": "https://careers.leidos.com/jobs/18247395-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=98079a5bac818b67&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/imcs-group/Job/Data-Scientist/-in-Englewood,CO?jid=8db5b2710d773653&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hire Heroes USA Job Board",
+          "link": "https://jobs.hireheroesusa.org/jobs/626719249-data-scientist-at-leidos?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/data-scientist-at-par-electrical-contractors-llc-4484264746?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IT Job Board",
+          "link": "https://www.itjobboard.net/job/16970950/data-scientist-vi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/spectrum/englewood/data-scientist-vi-202576680/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-scientist--englewood--ec156be3d37cb4ea70f084143d6167f13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IkxlaWRvcyIsImh0aWRvY2lkIjoienVJc19qbkttU3YtZm5YT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXVjJRMVZNTTJGMWQzaG9jRko1TjB0MFoxTnphV1UyWDBwVlZrWkxjMUpOV205RVdIWTRWelIyWVhWS1FUWmxTMGh6Y25WMlZucExkVjgwVDFkUmNVdEdWWGROUlZBNVJYbFFkVFIyTTBrNGMzVkVVMGRyYVhGcldYRnZlVkpvYW1aaGQxbE9hRkp2TmtndE5qUm5iMVpFTlVodVdXTllhazlGT1hkc1Ntd3hlV1pYY1dFU0YydEJabXhoYzA5WFJUaE1aVFZPYjFCd0xVZGZhMUZSR2lKQlNFNHdSVGRHTFMxMlRYTnViV3M1WWxsVlFURldSbTQzY3pkTFRGOHlaV2xuIiwiZmN2IjoiMyIsImZjX2lkIjoienVJc19qbkttU3YtZm5YT0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Scientist, Operations Research",
+      "company_name": "Cardinal Health",
+      "location": "United States",
+      "via": "Cardinal Health",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ability to work as part of a team as the key analytical resource",
+            "Excellent communication skills with an ability to explain quantitative analysis in simple business terms",
+            "Intellectual curiosity, humility, genuine respect and desire to help others",
+            "Bias for action and passion for driving change",
+            "Ability to travel up to 5%"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Anticipated salary range: $94,900 - $122,000",
+            "Bonus eligible: No",
+            "Benefits: Cardinal Health offers a wide variety of benefits and programs to support health and well-being",
+            "Medical, dental and vision coverage",
+            "Paid time off plan",
+            "Health savings account (HSA)",
+            "401k savings plan",
+            "Access to wages before pay day with myFlexPay",
+            "Flexible spending accounts (FSAs)",
+            "Short- and long-term disability coverage",
+            "Work-Life resources",
+            "Paid parental leave",
+            "Healthy lifestyle programs",
+            "Pay at Cardinal Health is determined by multiple factors including, but not limited to, a candidate’s geographical location, relevant education, experience and skills and an evaluation of internal pay equity"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data and Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage",
+            "This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling",
+            "Data Science applies base, scientific methodologies from various disciplines, techniques and tools that extracts knowledge and insight from data to solve complex business problems on large data sets, integrating multiple systems",
+            "Distribution center network design and capacity planning",
+            "Facility layout and design; warehouse capacity and utilization",
+            "Warehouse process improvement",
+            "Labor management and automation",
+            "Inventory management: stocking strategies and replenishment policies",
+            "Transportation planning: first mile, middle mile, and final mile",
+            "Sales and operations planning (resource management in response to demand changes)",
+            "As a Data Scientist in Supply Chain Operations, you will apply your knowledge of business processes, systems, data, and analytical tools to explore and identify root causes of problems",
+            "You will forecast future demand, build optimization and simulation models, and communicate actionable insights",
+            "You will work with cross-functional project teams to ideate, develop, and recommend solutions",
+            "Listen to clients and ask questions to clearly define business problems",
+            "Perform exploratory analysis to determine root causes of problems and confirm/disprove hypotheses",
+            "Develop predictive models to forecast future volumes that will drive capacity/resource needs",
+            "Develop customer and product segmentation models and design our supply chain to support differentiated services",
+            "Build optimization and simulation models to recommend capacity investments, resource plans, policy changes, and process changes to improve supply chain performance",
+            "Develop prescriptive models using 3rd party optimization/simulation software and custom-build models",
+            "Recommend solutions",
+            "Summarize the financial and operational impact of the recommendation and pros/cons of alternatives considered",
+            "Work with Data Engineers to create data models for analyses",
+            "Applies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projects",
+            "May contribute to the development of policies and procedures",
+            "Works on complex projects of large scope",
+            "Develops technical solutions to a wide range of difficult problems",
+            "Solutions are innovative and consistent with organization objectives",
+            "Completes work; independently receives general guidance on new projects",
+            "Work reviewed for purpose of meeting objectives",
+            "May act as a mentor to less experienced colleagues"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=NO615knB1EgZQZ7kAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2MMQrCQBAAsc0TrLYWzYlgE0sFxUYwWIfNZcldOHeP2y3yFz9rBJuBKWaqz6pqLmgIrY_EFtW28MhU0KKwwpOUsPgAO7hLD38RhqvImGh9CmZZG-dUUz2qLZmvvbydMPUyu0l6_aHTgIVyQqPucNzPdeZxA2csQ2RMcCNMFiAyvDgaDdAuJ9IvefiS654AAAA&shmds=v1_Ac3VAowWV05FrMEQjBCuoeGhkIhhVq5bJqWjiCa7JFDbQIL-_w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=NO615knB1EgZQZ7kAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAhFBMVEX____29vba2trv7-_6-vrg4ODp6elHR0e3t7ecnJz86-z99fX99_jzrrL519n0tLjxoafT09MpKSmkpKTIyMiJiYl0dHQ-Pj5iYmL74-X63N740NP88PH2xcjvi5HxnKL1vL_sa3Xwk5rscnvtgIgYGBh-fn5sbGyUlJQ3NzcAAAAwMDDf70sgAAABKElEQVQ4je2Q3XLCIBCFFxACJMEgEBMIrX9VW9___bqJvdPpGDu98wwzu8vMxzkswEv_qLKazwy6LHVvdOxnozqmNKQccxqnaqhghn-ujanjssommb6PesAXHsTNW6zf6002mxRNTkY_brvc7na5Samp9eNRJzV7dH0zMyn8VL3cH-bvFhfUH5q5Ia-O2xLKZ8DDMxCq10Ds4mdwzF4bIilwMrVYBAHuFzcoXzkKeI1nReiEAeskeDa1XnjLgdBbsEUX1fGiDeGDqva4JqpgJykDcwq8szR4qe6FbdHlHGQBF_hEEAqhCn5CR3t2XAbLpGXuHohRZRfkBTr5Rc8nslbuwjGqFI55ekTKi7vguBzOiMAn2IIxEECxkvGndGxBMCC_b_ilP-gbrq8QIhbaxqIAAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://jobs.cardinalhealth.com/search/jobdetails/data-scientist-operations-research/3e343f6f-2f12-431a-94c4-5a7f0f7f5fe9",
+      "job_title": "Data Scientist, Operations Research",
+      "description": "What Data Science contributes to Cardinal Health\nThe Data and Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage. This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling. Data Science applies base, scientific methodologies from various disciplines, techniques and tools that extracts knowledge and insight from data to solve complex business problems on large data sets, integrating multiple systems.\n\n\n\nDepartment/Team Overview\n\nWe are looking for a Data Scientist, Operations Research Analyst to join our Decision Science Solutions (DS2) team. Our mission is to improve our pharmaceutical supply chain’s performance to better service our pharmacy customers, so that they can focus on their patients. The DS2 team consists of Supply Chain Data Scientists, Operations Research Analysts, Data Analysts, and Data Engineers. We work cross-functionally to solve problems leveraging a variety of skillsets and perspectives to achieve the best outcomes. We perform analyses, recommend solutions, and build products to enable better decision making in the following areas:\n\nDistribution center network design and capacity planningFacility layout and design; warehouse capacity and utilizationWarehouse process improvementLabor management and automationInventory management: stocking strategies and replenishment policiesTransportation planning: first mile, middle mile, and final mileSales and operations planning (resource management in response to demand changes)\n\nResponsibilities\n\nAs a Data Scientist in Supply Chain Operations, you will apply your knowledge of business processes, systems, data, and analytical tools to explore and identify root causes of problems. You will forecast future demand, build optimization and simulation models, and communicate actionable insights. You will work with cross-functional project teams to ideate, develop, and recommend solutions. Specific responsibilities are to:\n\nListen to clients and ask questions to clearly define business problems.Perform exploratory analysis to determine root causes of problems and confirm/disprove hypotheses.Develop predictive models to forecast future volumes that will drive capacity/resource needs.Develop customer and product segmentation models and design our supply chain to support differentiated services.Build optimization and simulation models to recommend capacity investments, resource plans, policy changes, and process changes to improve supply chain performance.Develop prescriptive models using 3rd party optimization/simulation software and custom-build models.Recommend solutions. Summarize the financial and operational impact of the recommendation and pros/cons of alternatives considered.Work with Data Engineers to create data models for analyses.\n\nQualifications\n\n2-4 years of experience, preferredBachelor's degree in a quantitative field, or equivalent work experience, preferredMS/MBA with focus in Data Science, Operations Research, Industrial Engineering, or Statistics preferredDemonstrated ability to apply Data Science and Operations Research techniques to logistics and supply chain management problems preferredExperience with Structured Query Language (SQL) and working with databases preferred Experience with data analysis tools such as R, Python, SQL, Alteryx, Tableau, and SAS preferredExperience with Strategic Network Design, Simulation (e.g., AnyLogic), or Mathematical Programming (e.g., CPLEX) software preferred Ability to work as part of a team as the key analytical resourceExcellent communication skills with an ability to explain quantitative analysis in simple business termsIntellectual curiosity, humility, genuine respect and desire to help othersBias for action and passion for driving changeAbility to travel up to 5% \n\nWhat is expected of you and others at this level\n\nApplies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projectsMay contribute to the development of policies and proceduresWorks on complex projects of large scopeDevelops technical solutions to a wide range of difficult problemsSolutions are innovative and consistent with organization objectivesCompletes work; independently receives general guidance on new projectsWork reviewed for purpose of meeting objectivesMay act as a mentor to less experienced colleagues\n\nAnticipated salary range: $94,900 - $122,000\n\nBonus eligible: No\n\nBenefits: Cardinal Health offers a wide variety of benefits and programs to support health and well-being.\n\nMedical, dental and vision coveragePaid time off planHealth savings account (HSA)401k savings planAccess to wages before pay day with myFlexPayFlexible spending accounts (FSAs)Short- and long-term disability coverageWork-Life resourcesPaid parental leaveHealthy lifestyle programs\n\nApplication window anticipated to close: 11/2/2026 *if interested in opportunity, please submit application as soon as possible.\n\n\n\nThe salary range listed is an estimate. Pay at Cardinal Health is determined by multiple factors including, but not limited to, a candidate’s geographical location, relevant education, experience and skills and an evaluation of internal pay equity.\n\nCandidates who are back-to-work, people with disabilities, without a college degree, and Veterans are encouraged to apply.\n\n\n\nCardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.",
+      "apply_options": [
+        {
+          "title": "Cardinal Health",
+          "link": "https://jobs.cardinalhealth.com/search/jobdetails/data-scientist-operations-research/3e343f6f-2f12-431a-94c4-5a7f0f7f5fe9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NVIDIA Careers",
+          "link": "https://jobs.nvidia.com/careers/job/893397407932?domain=nvidia.com&hl=ru&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Data-Scientist--Operations-Research_20186864/apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=12b4b9b1cadd6446&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-scientist-operations-research_7ea1a55bd09782bb9520ce45f557d0eb3e41f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/research-scientist-data-pika-8665199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/pika/82835e51-284c-47af-b254-088fff23acd5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Nvidia/Job/Senior-Applied-Research-Scientist,-Data-Curation/-in-New-York,NY?jid=73d73ade014a2fd7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgT3BlcmF0aW9ucyBSZXNlYXJjaCIsImNvbXBhbnlfbmFtZSI6IkNhcmRpbmFsIEhlYWx0aCIsImh0aWRvY2lkIjoiTk82MTVrbkIxRWdaUVo3a0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYRjRZMU5YTVRoSk9GRTVNVFJvTWxKUE5tTk1VV2x2V1Zsd1YxQlBaVWR0Y0dGcFFXWnlhSFpQWWxOMVV6SkRWV1pWU0VsU01GQXlkSE5pVFdSUmVFVm9aRXRwWlZCMmRqWjVNamRWWVc1bmNYZENWRTVEYTNoYWNXMVhVVXBEWWkxR2ExTTJSVWxZZFhwUVR6WXhTRjlhVldoWFpETnFVblZQWmxobWRuVlpPWGd4Ym1rU0YydEJabXhoYzA5WFJUaE1aVFZPYjFCd0xVZGZhMUZSR2lKQlNFNHdSVGRJZFhscGFURjBZWGRWY1ZwVWJsbFNPSEJ5YVZoWFpsUmtRVzEzIiwiZmN2IjoiMyIsImZjX2lkIjoiTk82MTVrbkIxRWdaUVo3a0FBQUFBQT09In0="
+    },
+    {
+      "title": "Sr Principal Data Scientist",
+      "company_name": "Progressive",
+      "location": "United States",
+      "via": "Progressive Careers",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A minimum of 8 years of relevant experience in Statistical/Quantitative Modeling and/or Machine Learning tools and in using various database tools processing large volumes of structured and unstructured data",
+            "{OR} Bachelor's degree with quantitative focus in Econometrics, Statistics, Operations Research, Computer Science or related field (e.g. Mathematics) and a minimum of 5 years of relevant experience in Statistical/Quantitative Modeling and/or Machine Learning tools (R, Python, etc.) and in using various database tools (e.g. Hadoop, SQL) processing large volumes of structured and unstructured data",
+            "{OR} Master's degree or higher with quantitative focus in Econometrics, Statistics, Operations Research, Computer Science or related field (e.g. Mathematics) and a minimum of 3 years of relevant experience in Statistical/Quantitative Modeling and/or Machine Learning tools (R, Python, etc.) and in using various database tools (e.g. Hadoop, SQL) processing large volumes of structured and unstructured data",
+            "Applicants must be authorized to work for any employer in the U.S. without the need or potential need, of current or future sponsorship for employment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Base: $144,900 - $207,000/year",
+            "Gainshare annual cash incentive payment up to 50% of your eligible earnings based on company performance",
+            "Participation in our restricted stock units plan",
+            "401(k) with a dollar-for-dollar company match up to 6%",
+            "Medical, dental & vision, including free preventative care",
+            "Wellness & mental health programs",
+            "Health care flexible spending accounts, health savings accounts, & life insurance",
+            "Paid time off, including volunteer time off",
+            "Paid & unpaid sick leave where applicable, as well as short & long-term disability",
+            "Parental & family leave; military leave & pay",
+            "Diverse, inclusive & welcoming culture with Employee Resource Groups",
+            "Career development & tuition assistance",
+            "Energage recognizes Progressive as a 2026 Top Workplace for: Innovation, Purposes & Values, Work-Life Flexibility, Compensation & Benefits, and Leadership"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You’ll use machine learning, machine vision, and generative AI to solve some of the business’s largest business problems",
+            "You’ll prioritize making claims more accurate and efficient, improving customer outcomes, and improving our operations",
+            "You’ll also work closely with Claims business leaders, business partners, product, and technology teams throughout the company to design, test, launch and scale responsible analytical and AI solutions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=UdwdQ4aruy6_to7qAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7CeKQWbAnBRddBcGpUJxLeoZr5JoclyD9C39ZXd74ms-m6YYKfWWJXDDDFR1hiEzibA4HuOsERljjDCpwU02ZtpfZvdg5BLPcJnN0jm3UJajQpGt46WR_RpuxUsnoNHan49oWSftdXzVVMuM3AQs8hJ2eMPwWsi9z9N5TkgAAAA&shmds=v1_Ac3VAoy2VG_8XJHkFgLVbq1nnyV2n6a9fCjDLBoIGFKGlaLgcQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=UdwdQ4aruy6_to7qAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAUVBMVEX///8Ad7MAdbIAba4vhboAa60AcbAAb68Ac7HJ3eoofrf5/P7l7/UAaa3v9fmHsdKYu9e60uRgm8atyN/Y5vBGjr9SlMJvo8p7qs2gwdqzzeFjXrYCAAABa0lEQVRIie2W25KCMBBEyYRc5KYCKvr/H7q1hTNBk3TwbbfK8zhFM0mHnlBVX/4DbZ1gnMrCSVOM1zSXhCoNmQ7rHjqj9CMW1pQRqh7qDianU3itF88rsytun3DmhnR9Vs6ihEsduaE5cMk/N0010HW9en9qZpfdCQhv3FCfubRYXsOQ1w2yw0ZK3NDfQMMjv91NUQl52jr2wUclf83rqhM7H3yQUnA5gRjv2Id211lM/Ha/cOnOpeBygoY/ES0+cCW4nOAcG3+UTaMBIHnSc9X+0i0STQK6TZ5ojYXhI1TuDoSSpxhSQDfnA6x6dIZjvqFBsejyDfsj0FU3mxQRaUJHH/KkrA4Yo64PJNuExy6HwAyiu9LKSbvisy9IeOxSfngL8ddWuh/eCHkqXA/vSJ5M8Sp7IeQJzZUEkic4V2IkT3CuJLjE03sXIU9oriSQPOkdPxYbJE+E5koCyRO8xWIG2zDtZx2//A1+AIhdDOWxFwN3AAAAAElFTkSuQmCC24",
+      "extensions": [
+        "11 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://careers.progressive.com/jobs/18393592-sr-principal-data-scientist/",
+      "job_title": "Sr Principal Data Scientist",
+      "description": "Senior Principal Data Scientist – Claims Control Data Solutions \n\nProgressive is dedicated to helping employees move forward and live fully in their careers. Your journey has already begun. Apply today and take the first step to Destination Progress. \n\nAs a senior principal data scientist on the Claims Data Science and Engineering team, you’ll guide the largest data science and engineering team at Progressive. You’ll use machine learning, machine vision, and generative AI to solve some of the business’s largest business problems. You’ll prioritize making claims more accurate and efficient, improving customer outcomes, and improving our operations. You’ll also work closely with Claims business leaders, business partners, product, and technology teams throughout the company to design, test, launch and scale responsible analytical and AI solutions.\n\nMinimum qualifications\n\nA minimum of 8 years of relevant experience in Statistical/Quantitative Modeling and/or Machine Learning tools and in using various database tools processing large volumes of structured and unstructured data.{OR} Bachelor's degree with quantitative focus in Econometrics, Statistics, Operations Research, Computer Science or related field (e.g. Mathematics) and a minimum of 5 years of relevant experience in Statistical/Quantitative Modeling and/or Machine Learning tools (R, Python, etc.) and in using various database tools (e.g. Hadoop, SQL) processing large volumes of structured and unstructured data.{OR} Master's degree or higher with quantitative focus in Econometrics, Statistics, Operations Research, Computer Science or related field (e.g. Mathematics) and a minimum of 3 years of relevant experience in Statistical/Quantitative Modeling and/or Machine Learning tools (R, Python, etc.) and in using various database tools (e.g. Hadoop, SQL) processing large volumes of structured and unstructured data. Preferred skills \n\nExperience leading complex machine learning or AI projects from ideation through launch and adoption, with measurable business results.Deep expertise in statistical modeling, machine learning, and modern AI, including LLMs, agent-based systems, and retrieval and context design, and working with unstructured data such as claim notes, documents, and images.Experience building rigorous ways to evaluate models in production: experiments, testing, monitoring, reliability, fairness, and safety.Strong technical skills in production AI architecture, software and data engineering, cloud environments, open-source tools such as Python, and managing models over their full lifecycle.A record of mentoring others and improving data science practices across teams and influencing senior partners across business areas.Experience in insurance claims or another high-volume operational setting and the ability to turn business problems into practical analytical solutions, including recognizing when a simpler non-AI/ML solution will create more valueCompensation\n\nBase: $144,900 - $207,000/year Gainshare annual cash incentive payment up to 50% of your eligible earnings based on company performance Participation in our restricted stock units planBenefits  \n\n401(k) with a dollar-for-dollar company match up to 6%   Medical, dental & vision, including free preventative care   Wellness & mental health programs   Health care flexible spending accounts, health savings accounts, & life insurance   Paid time off, including volunteer time off    Paid & unpaid sick leave where applicable, as well as short & long-term disability   Parental & family leave; military leave & pay   Diverse, inclusive & welcoming culture with Employee Resource Groups  Career development & tuition assistance   Energage recognizes Progressive as a 2026 Top Workplace for: Innovation, Purposes & Values, Work-Life Flexibility, Compensation & Benefits, and Leadership.\n\nEqual Opportunity Employer   \n\nApplicants must be authorized to work for any employer in the U.S. without the need or potential need, of current or future sponsorship for employment. Progressive does not hire candidates with (e.g., F-1 CPT, OPT, or STEM OPT, H-1B, O-1, E-3, TN) statuses for this role.\n\nFor ideas about how you might be able to protect yourself from job scams, visit our scam-awareness page at  https://www.progressive.com/careers/how-we-hire/faq/job-scams/\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+      "apply_options": [
+        {
+          "title": "Progressive Careers",
+          "link": "https://careers.progressive.com/jobs/18393592-sr-principal-data-scientist/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=467dcd152a99ca0f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/VmaHQjMlVEmcv2P-zKft2ONg7jBgwBLTxaERPToGV84pPT7nFWm4jA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/7901368253677568000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/sr-principal-data-scientist-progressive-mayfield-village-oh--t7xk-901149842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-2283-d49ac4870cef74216d438079a68da115?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBQcmluY2lwYWwgRGF0YSBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJQcm9ncmVzc2l2ZSIsImh0aWRvY2lkIjoiVWR3ZFE0YXJ1eTZfdG83cUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqTkZaMnBYYkY5U2FpMHpia2h0UzJScVYwUTNhVEpHY0VsalEwbHpaa2s1Y0ZSWVZsWlpabnBrTnkxaGRVUkhOVmg2WjNBNFVuWnphSFpPYlY5T1YxTnpXbmx3YldOZk5HMU9lRlJzUlZwU1pFZG9jRk5XTTBoMWRtcGZNbFZpUTJoQk9FdzRVa05XUkc5S1kyRjZYMGRUTlRKTVVEUm5aWE0wUkdOMmVGUk9OWEo1Ym04U0YydEJabXhoYzA5WFJUaE1aVFZPYjFCd0xVZGZhMUZSR2lKQlNFNHdSVGRJV1ZKaGFWOURMV2RxYUU5alpuTk9hbGxEUVdkRFZXRXRaWGRuIiwiZmN2IjoiMyIsImZjX2lkIjoiVWR3ZFE0YXJ1eTZfdG83cUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Science Specialist",
+      "company_name": "AuraOne Human Data",
+      "location": "Anywhere",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Direct working experience in data science specialist operations on real teams for Data Science Specialist work",
+            "Comfort applying multi-page rubrics consistently across long batches",
+            "Clear written reasoning that names the policy or workflow being applied",
+            "Strong attention to detail and the ability to flag when a prompt itself is the problem",
+            "Reliable async availability for at least 10 hours per week",
+            "Prior experience training, calibrating, or QA-ing operations teams",
+            "Familiarity with AI-assisted workflow tooling and its failure modes",
+            "Bilingual experience for cross-region operations",
+            "Operational review",
+            "Data Science specialist operations"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Independent specialist contractor",
+            "Hourly rate confirmed after the interview process"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Data Science Specialist is a remote review track for evaluating AI outputs across data science specialist operations workflows",
+            "Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it",
+            "Data Science specialist operations AI has to fit into an actual day at work",
+            "AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done",
+            "Review AI outputs against current data science specialist operations workflows, playbooks, and firm policy for Data Science Specialist assignments",
+            "Grade tone, escalation logic, and stakeholder fit on a structured rubric",
+            "Flag operational risk, missed escalations, and policy-adherence gaps with severity tags",
+            "Capture the right next step so the modeling team can train on it",
+            "Adjudicate disputed treatments against published playbooks or firm guidance",
+            "Maintain reviewer-quality scores in inter-rater calibration cycles",
+            "Grade a model's response to a real data science specialist operations ticket and rate workflow, tone, and escalation",
+            "Flag a missed escalation with the right severity tag and corrected next step",
+            "Adjudicate a disputed playbook call between two reviewers using firm guidance",
+            "Audit a 25-row batch for rubric consistency and report drift to the program lead",
+            "Policy adherence",
+            "Workflow judgment",
+            "Stakeholder communication"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=w5aTpCjRmBGoqqERAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NvwrCMBCAcVz7CE4HboKJCC46CYLi4lCcyyUebSS9C7kr9Dl8Yv8s3_j7mveicWc0hDYm4kjQFooJc1KDDdwkgBLWOIAwXET6TMvjYFb04L1qdr0aWoouyuiFKcjsXxL0l04HrFQyGnW7_XZ2hfv16jRVvDPBdRqR4b9ODA9ORk9ovxjpB74EbRiVAAAA&shmds=v1_Ac3VAozkYKbDqDsu0dAXifET9xS5-wo0GsWR5udA3qxgJ3dNOA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=w5aTpCjRmBGoqqERAAAAAA%3D%3D",
+      "extensions": [
+        "20 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=835eb9e17a3df7e5",
+      "job_title": "Data Science Specialist",
+      "description": "Data Science Specialist is a remote review track for evaluating AI outputs across data science specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n\n  Why this role matters\n Data Science specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n\n  Responsibilities\n \n  Review AI outputs against current data science specialist operations workflows, playbooks, and firm policy for Data Science Specialist assignments.\n  Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n  Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n  Capture the right next step so the modeling team can train on it.\n  Adjudicate disputed treatments against published playbooks or firm guidance.\n  Maintain reviewer-quality scores in inter-rater calibration cycles.\n \n  Qualifications\n \n  Direct working experience in data science specialist operations on real teams for Data Science Specialist work.\n  Comfort applying multi-page rubrics consistently across long batches.\n  Clear written reasoning that names the policy or workflow being applied.\n  Strong attention to detail and the ability to flag when a prompt itself is the problem.\n  Reliable async availability for at least 10 hours per week.\n \n  Example tasks\n \n  Grade a model's response to a real data science specialist operations ticket and rate workflow, tone, and escalation.\n  Flag a missed escalation with the right severity tag and corrected next step.\n  Adjudicate a disputed playbook call between two reviewers using firm guidance.\n  Audit a 25-row batch for rubric consistency and report drift to the program lead.\n \n  Nice to have\n \n  Prior experience training, calibrating, or QA-ing operations teams.\n  Familiarity with AI-assisted workflow tooling and its failure modes.\n  Bilingual experience for cross-region operations.\n \n  Skills\n \n  Operational review\n  Policy adherence\n  Workflow judgment\n  Stakeholder communication\n  Data Science specialist operations\n \n  Work model\n Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n\n  Compensation\n Hourly rate confirmed after the interview process.\n\n\n  Application process\n Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=835eb9e17a3df7e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Adidev-Technologies/Job/Data-Science-Specialist/-in-New-York,NY?jid=c1ab50dd9b6cbeee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bayt.com",
+          "link": "https://www.bayt.com/en/usa/jobs/data-science-specialist-5489028/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-science-specialist--united-states--efab29dcd42e42a05186a41cc6a2c97b8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/deloitte/job/data-science-specialist-hsrb4i6v08?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/data-science-specialist-7eb9e4fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010291583395&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/adidev-technologies-inc/data-science-specialist-130849563/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgU3BlY2lhbGlzdCIsImNvbXBhbnlfbmFtZSI6IkF1cmFPbmUgSHVtYW4gRGF0YSIsImh0aWRvY2lkIjoidzVhVHBDalJtQkdvcXFFUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXNDBRelJUTm5wYVYwcHVWMFYzZFRWTFdqTkVTRXh3VUUxUU1IZFFTamN0YTFkMWVISkpWRXh4YlcxbFprSTJhMjR0ZDJGQlQxUkZPVVZrZUUxYVRXRXdjbFJVWm1WdVpHOTJkbUZWZERaeWVHNW5SazlmTTNnMGMwSnhNRmMwVnpCVU5WOVliMUJTVldORFRVcEZNV0pQY2tSNVpEQmlPVEZrZFVjd2EzQmhhVzVmYTBVU0YydEJabXhoYzA5WFJUaE1aVFZPYjFCd0xVZGZhMUZSR2lKQlNFNHdSVGRJYVVsd2NGQmFkM1JsUldocVZqSnRMVTV2TlZoYWQyVjBNalYzIiwiZmN2IjoiMyIsImZjX2lkIjoidzVhVHBDalJtQkdvcXFFUkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Scientist, Baseball Analytics",
+      "company_name": "LE001 Sterling Mets, L.P.",
+      "location": "United States",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=DeGAfJGRnvqCJc1EAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLsQrCMBBAce0nON1calIFB3VSFEEqCMVZLvFII_FSejfU__FDrctb3nvFd1ZsjqgIrY_EGkUrOKCQw5Rgz5g-Gr3AAi7ZgRAOvoPMcM45JJrvOtVettaKJBNEcYqNz2-bmVwe7Ss7-eMhHQ7UJ1R6rNb1aHoOZdmc6noJrdKQIge4kkoFjbkZiAx3jkrPyU6P_ADm2bCOpwAAAA&shmds=v1_Ac3VAoyh0KIWNV0oJFcyK86cJyz6m1AOZG8BIrDO-Tl8Kum9XQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=DeGAfJGRnvqCJc1EAAAAAA%3D%3D",
+      "extensions": [
+        "26 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://sterlingmets.wd5.myworkdayjobs.com/en-US/Mets/job/Data-Scientist_R1521",
+      "job_title": "Data Scientist, Baseball Analytics",
+      "description": "Job Description: Summary: The New York Mets are seeking a Data Scientist in Baseball Analytics. The Data Scientist will build, test, and present statistical models that inform decision-making in all facets of Baseball Operations. This position requires strong background in complex statistics and data analytics, as well as the ability to communicate statistical model details and findings to both a technical and non-technical audience. Prior experience in or knowledge of baseball is a plus, but is not required. Essential Duties & Responsibilities: Build statistical models to answer a wide variety of baseball-related questions affecting the operations of the organization using advanced knowledge of statistics and data analytics and exercising appropriate discretion and judgment regarding development of statistical models Interpret data and report conclusions drawn from their analyses Present model outputs in an effective way, both for technical and non-technical audiences Communicate well with both the Baseball Analytics team as well as other Baseball Operations personnel to understand the parameters of any particular research project Provide advice on the desired outputs from the data engineering team, and guidance to the Baseball Systems team on how best to present model results Evaluate potential new data sources and technologies to determine their validity and usefulness Consistently analyze research in analytics that can help improve the modeling work done by the Baseball Analytics department Qualifications & Requirements: Masters and/or BS degree in statistics or a related field Professional experience in a quantitative position is a plus Strong background in a wide variety of statistical techniques Strong proficiency in R, Python, or similar, as well as strong proficiency in SQL Basic knowledge of data engineering and front-end development is a plus, for the purpose of communicating with those departments Strong communication skills Ability to work cooperatively with others, and to take control of large-scale projects with little or no daily oversight The above information is intended to describe the general nature, type, and level of work to be performed. The information is not intended to be an exhaustive or complete list of all responsibilities, duties, and skills required for this position. Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time. The individual selected may perform other related duties as assigned or requested. The New York Mets value the unique qualities individuals with various backgrounds and experiences can offer the organization. Our continued success depends heavily on the quality of our workforce. The Organization is committed to providing employees with the opportunity to develop to their fullest potential. Salary Range: $80,000 - $100,000 For technical reasons, we strongly advise to not use an .edu email address when applying. Thank you very much. The New York Mets are a world-class Sports and Media Entertainment Company located in Flushing, New York. We strive to foster both personal and professional development and provide employees with the necessary tools and experiences that will prepare them for success in a competitive industry. We are continuously targeting talented candidates with transferable experience, intrinsic passion for success and intense love for the game. Off the field, our team includes 250 full time employees, 110 seasonal interns and 1200 game day employees working together to provide exceptional service to our fans.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://sterlingmets.wd5.myworkdayjobs.com/en-US/Mets/job/Data-Scientist_R1521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Binghamton University Fleishman Center For Career And Professional Development",
+          "link": "https://careertools.binghamton.edu/jobs/autodesk-data-scientist-revenue-analytics/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ethic Leaf",
+          "link": "https://ethicleaf.com/jobs/vacancy/col-cmvalipjo1525rz019dvtt17o?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SportsJobs Online",
+          "link": "https://www.sportsjobs.online/jobs/14933-data-scientist-baseball-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ab669ce865119c687f01196-data-scientist-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/data-scientist-consumer-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/data-scientist-customer-analytics-deac76d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SkillSync",
+          "link": "https://skillsync.c9a.fast-page.org/remote-jobs/data-scientist-customer-analytics-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgQmFzZWJhbGwgQW5hbHl0aWNzIiwiY29tcGFueV9uYW1lIjoiTEUwMDEgU3RlcmxpbmcgTWV0cywgTC5QLiIsImh0aWRvY2lkIjoiRGVHQWZKR1JudnFDSmMxRUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWcG9ZVEJDY2taV2FWVmxRMDVvUkRZek0wbGtabE10TVdsb2VFSjFhekJUTTNBdFJsY3lkRFp5UzFkdFdtSkJOVTUzVmpoWWRFZEJiRFZNVmxCdVZtcHRlVXBITFVWTkxVbE9Ra1ZtVTFsUkxVeHZWbXhxYm5WME4waDJaRXBtVldrNVlrcHhWekZOUmtvMU1HTXROV1o1VEhGMGMyczJPRnBwTTB4c2VEQkVlVFIyVERFU0YydEJabXhoYzA5WFJUaE1aVFZPYjFCd0xVZGZhMUZSR2lKQlNFNHdSVGRGY1U5SmFubDVTRzFzYUdWT0xWbHFTMUJ3ZWtsV2JFdHlTbEJuIiwiZmN2IjoiMyIsImZjX2lkIjoiRGVHQWZKR1JudnFDSmMxRUFBQUFBQT09In0="
+    },
+    {
+      "title": "Principal Data Scientist - GenAI & ML Leader (Remote)",
+      "company_name": "EXL",
+      "location": "Anywhere",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Strong Python/SQL and statistical knowledge are required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will turn business problems into practical ML and GenAI solutions and ensure the wider team can build, deploy and maintain them",
+            "Responsibilities include translating ambiguous problems into scoped solutions, designing end-to-end data systems, and mentoring data scientists across time zones"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=gQrDbYo9g9OalsGVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVw7OzndJCrYiOCik6AUJYJYBLeSpkcbae9C7oa-jm-qLv_y8WefSWbvKZAP0fVwcuqg9AFJgyisoUA6XmAONwsWXYMJFg8cWHH5wyvXIOiS74AJCua2x9mhU42yN0akz1tRp8HnngfDhDWP5s21_FNJ5xLG3ilW291mzCO1q-n5ZSEQPCkoNlD-bpQvKM2U9qQAAAA&shmds=v1_Ac3VAoyFkP2dkbBs_IxeEkCjQLE9bWeOv21vs2T8OWsQJO-bEA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=gQrDbYo9g9OalsGVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAhCAMAAAC7gZh_AAAAe1BMVEX____7Tgv7RwD7RAD9saL_-Pf7OgD7SwD8nIH8j3f7PwD9wrb9kW37Yiv_7uf-2cr8fFT-2tP7VhT7MgD-5Nv8aTj-1Mf9rJT-3tT9pYv9rJz9qJH7JgD8i2n-yrr-zr_8lXf8h2z8dUv9u6f8hmL8gF_7bUH-wa_7XB6uvG7ZAAABb0lEQVQ4je2T0XaCMAxAk3Y0rkpRQEUnyJCp__-FSxnMgOBxZ6_el3Ka3EOatAAvHhH0aTcG8eEm80FGclhBfjAmdl28SHjzCGVikk_pbS2hxK4gqBSqZRtPY0K9BZjx3rsUQ0LSgmTFyURoTz_xJQsVjIjsnecSX-PJIlHaHEQjxemYiLeqBLVGteZeRIaLL2BKDO5EtyZUZbPoGfxBhI1FNJsZF3oNpsV7z3cbUSskzGBKxOtCUKdtgGfC6La5oyIqgR9HQ8qDQpXDI5EEphNhSeKHo2IcCuL2TLBrSqVsWqTKSdoWZ5oL5ZlUwaQ42tWAT6hzP8bygTgyx5yvTggRdRfnWfHEE4yjZpp0dc-X6vh0duu_1pxfd-JXFv3iu6oGDxng3KWD889x50XfLHsDaoXDhww7vqLY1n_huOKi57qfBy7UevCQC8tr0ZW9MNr6i17387jxlzfJ3oFf5rfB7Hlzwx_HXt79IF78n2-SuRYlFAOObgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "8 days ago",
+        "90K–120K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/principal-data-scientist-genai-ml-leader-remote--united-states--ee65ee716e7618dad6c6d879fa0bcabcc",
+      "job_title": "Principal Data Scientist - GenAI & ML Leader (Remote)",
+      "description": "EXL is hiring a Principal Data Scientist to be our top technical voice in data science. You will turn business problems into practical ML and GenAI solutions and ensure the wider team can build, deploy and maintain them.\n\nResponsibilities include translating ambiguous problems into scoped solutions, designing end-to-end data systems, and mentoring data scientists across time zones. Strong Python/SQL and statistical knowledge are required.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/principal-data-scientist-genai-ml-leader-remote--united-states--ee65ee716e7618dad6c6d879fa0bcabcc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/scale-ai/lead-genai-research-scientist-team-leader-149103269/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/online_remote/info_technology/5559797292/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgRGF0YSBTY2llbnRpc3QgLSBHZW5BSSBcdTAwMjYgTUwgTGVhZGVyIChSZW1vdGUpIiwiY29tcGFueV9uYW1lIjoiRVhMIiwiaHRpZG9jaWQiOiJnUXJEYllvOWc5T2Fsc0dWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1ZWbVJ6WndabTVhTm01dVJ6QTJWMlZtZDFFNE5tVm1Ra05QVVhsaGVraFRSMDVOVXpKd2RWUmhTblY0ZDJFdFZWbFJSV1pSVEhkS2RHUjJRWFV0Ym1KeWJ5MHdkMmxTYjIweGNEWk5TbkZEY1dJM1FYUjNPVUl4Um1aaFNWTlhOV2RIVUdKWGVHSkVZbmQwYTNaTGRqZ3RkRFF5VEVwdVIxcEJNMUJoVDJwWU5HeElTVThTRjJ0QlpteGhjMDlYUlRoTVpUVk9iMUJ3TFVkZmExRlJHaUpCU0U0d1JUZEhhMmxxYlVSa1JYRnpURU5LUVY5U00zVkZaME52Y1dWSFJFeFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJnUXJEYllvOWc5T2Fsc0dWQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXWEptZGs1aWVsaEZZMDFyYkdKaGJGWmFZV2c0UTIxU2JsbGpUVlJsTW00eVoyNUpVV3hYY2xSSVdUVjRRbVY2WWtGd1FYUnhjSE56VjB3dFJFUklURlJhV1RWcVVpMXJaMUJ1TFZwa0xUUm1XRXR2VWtZNVZWRlRWMVp0T1d0ZlZFOUNZelp1YUZwWE9WcFpjazFQT1Vjd1ZYVmtSM1J3WTJoa1dTMXlRekJrYVVGTFNGSkRObUpVUjNWSFdWSTVPR1psWjJOb1RETlNSUzFvUkV0WVEweGpjVzE2ZUdsNGVFaFNkbFpPY1V3dGNsaHBaMUJzWTNKUWRTMWlTM2cyU21OaU5qUjRjVWc1VFVwQlgwTnliR1JJYUhoVFVWRjRUalp2WWpaNE5reGtSMjR3WlVKTVVFbHFNR1I2TUdoNFFXWXlNbU4wYjJJNVZGbHZXRmh2TTJWU1QzRjZWRlF5VVRWYVUwNXNXVko2V0RaTE9HOXFMVFpXTkdWMVpsZHpjbFJ0YUhwb1VqRkVWR0p2Y0daWGRYVjRhVlpJV1RCSlRVZEpRVzFXWTB0VVFrbEtkVWxCZWxseU1HMHRhVkZIUmxreFRsbFRkV3RITURWV2Nrb3hjMFZ4VUZWdFRucG5jWE0xVUdSblVteEpWamRoUXkxV1kwYzJNakpGU1ZGd1VqSmtTM1pKU2xOUVpWUjJNbVpaU2s1ZmJISldXR0ZPWjE5VVJWSm9WMDVYTkhVd0xVZElPR0l5WjFwWVRIaDBTelZ6ZUU1bWMwOWpPRk53ZGxWUlVtSnpaV05IWkcxdWRsVjVVa014YVRkaFYySXlNVkpHVVZCSlVIY1NGMnRCWm14aGMwOVhSVGhNWlRWT2IxQndMVWRmYTFGUkdpSkJTRTR3UlRkSFJWOHlaRU5JYmt4cVIxUnVWMVF6VVVObWQyNXlXVFpWYkdGUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXWEptZGs1aWVsaEZZMDFyYkdKaGJGWmFZV2c0UTIxU2JsbGpUVlJsTW00eVoyNUpVV3hYY2xSSVdUVjRRbVY2WWtGd1FYUnhjSE56VjB3dFJFUklURlJhV1RWcVVpMXJaMUJ1TFZwa0xUUm1XRXR2VWtZNVZWRlRWMVp0T1d0ZlZFOUNZelp1YUZwWE9WcFpjazFQT1Vjd1ZYVmtSM1J3WTJoa1dTMXlRekJrYVVGTFNGSkRObUpVUjNWSFdWSTVPR1psWjJOb1RETlNSUzFvUkV0WVEweGpjVzE2ZUdsNGVFaFNkbFpPY1V3dGNsaHBaMUJzWTNKUWRTMWlTM2cyU21OaU5qUjRjVWc1VFVwQlgwTnliR1JJYUhoVFVWRjRUalp2WWpaNE5reGtSMjR3WlVKTVVFbHFNR1I2TUdoNFFXWXlNbU4wYjJJNVZGbHZXRmh2TTJWU1QzRjZWRlF5VVRWYVUwNXNXVko2V0RaTE9HOXFMVFpXTkdWMVpsZHpjbFJ0YUhwb1VqRkVWR0p2Y0daWGRYVjRhVlpJV1RCSlRVZEpRVzFXWTB0VVFrbEtkVWxCZWxseU1HMHRhVkZIUmxreFRsbFRkV3RITURWV2Nrb3hjMFZ4VUZWdFRucG5jWE0xVUdSblVteEpWamRoUXkxV1kwYzJNakpGU1ZGd1VqSmtTM1pKU2xOUVpWUjJNbVpaU2s1ZmJISldXR0ZPWjE5VVJWSm9WMDVYTkhVd0xVZElPR0l5WjFwWVRIaDBTelZ6ZUU1bWMwOWpPRk53ZGxWUlVtSnpaV05IWkcxdWRsVjVVa014YVRkaFYySXlNVkpHVVZCSlVIY1NGMnRCWm14aGMwOVhSVGhNWlRWT2IxQndMVWRmYTFGUkdpSkJTRTR3UlRkSFJWOHlaRU5JYmt4cVIxUnVWMVF6VVVObWQyNXlXVFpWYkdGUiIsImZjdiI6IjMifQ%3D%3D&q=Data+Scientist&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Scientist",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:09:36.179385+00:00",
+    "request_fingerprint": "a989a80c6dc83c6c96750cf73e0ad6325f786c3824ad0e008887706dcfbf4174",
+    "job_count": 6
+  }
+}

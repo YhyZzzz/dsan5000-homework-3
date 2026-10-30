@@ -1,0 +1,947 @@
+{
+  "search_metadata": {
+    "id": "6ae50a7caaf72d7ee6419a5e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/71AWUZPIiUAQEA4CgyNqrH9cEQgBCtTcM8M9Cn7L2yk/6ae50a7caaf72d7ee6419a5e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/71AWUZPIiUAQEA4CgyNqrH9cEQgBCtTcM8M9Cn7L2yk/6ae50a7caaf72d7ee6419a5e.md",
+    "created_at": "2026-10-30 21:22:04 UTC",
+    "processed_at": "2026-10-30 21:22:04 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Science+Consultant&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/71AWUZPIiUAQEA4CgyNqrH9cEQgBCtTcM8M9Cn7L2yk/6ae50a7caaf72d7ee6419a5e.html",
+    "total_time_taken": 1.78
+  },
+  "search_parameters": {
+    "q": "Data Science Consultant",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXX0OUGVBjQVshnNC2wx-u_KoAlp3RRbPdiJew4oufmk0ghqNJiLCBKodtfkVlK6UVV8eLQcASqS4AVbfbiGH783bb9WmKV3uFurFvO_yURG0xhcGHSnTNKA3t3OtPFbFx8TsMiQvlMCKQ0AbRkZjnM_lbLYdDXh3vwdSRjddj5dvj7t1w",
+        "q": "Data Science Consultant no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXX0OUGVBjQVshnNC2wx-u_KoAlp3RRbPdiJew4oufmk0ghqNJiLCBKodtfkVlK6UVV8eLQcASqS4AVbfbiGH783bb9WmKV3uFurFvO_yURG0xhcGHSnTNKA3t3OtPFbFx8TsMiQvlMCKQ0AbRkZjnM_lbLYdDXh3vwdSRjddj5dvj7t1w&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXX0OUGVBjQVshnNC2wx-u_KoAlp3RRbPdiJew4oufmk0ghqNJiLCBKodtfkVlK6UVV8eLQcASqS4AVbfbiGH783bb9WmKV3uFurFvO_yURG0xhcGHSnTNKA3t3OtPFbFx8TsMiQvlMCKQ0AbRkZjnM_lbLYdDXh3vwdSRjddj5dvj7t1w&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXR6lrY9XmLb8gv1hsE5SNHEozNk9R1j4PVEN8aGT3wz66aPWK96211KaAQA9e9D8KpeqKqh-ci7f_vH2J4NrUIT8XahEj4ikyZOHgvfO7j02aANmULHYWUdz3axwIBhUFGr6LsdDaDTaOi3jTk6wCk7DUq5bEyd4_z73hJ4WfezcnvOxC",
+        "q": "Data Science Consultant remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXR6lrY9XmLb8gv1hsE5SNHEozNk9R1j4PVEN8aGT3wz66aPWK96211KaAQA9e9D8KpeqKqh-ci7f_vH2J4NrUIT8XahEj4ikyZOHgvfO7j02aANmULHYWUdz3axwIBhUFGr6LsdDaDTaOi3jTk6wCk7DUq5bEyd4_z73hJ4WfezcnvOxC&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXR6lrY9XmLb8gv1hsE5SNHEozNk9R1j4PVEN8aGT3wz66aPWK96211KaAQA9e9D8KpeqKqh-ci7f_vH2J4NrUIT8XahEj4ikyZOHgvfO7j02aANmULHYWUdz3axwIBhUFGr6LsdDaDTaOi3jTk6wCk7DUq5bEyd4_z73hJ4WfezcnvOxC&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7vRHkO3uLMgVPIpFQcKNPXqjBahQSCZLMJYms9Q8tQJpYJKyOUxLJOACoJMtlY18_19gq6TFt9DLI5NUYsvyL6BgHpNE3tJrnXP_-RbxNhoL8tCY0rrX2jg2DVYeJgrwLpRlsjAHmyIl5K70Vlp3JcFsFRI33mwxfg0R7cywWuon5Vr3RyMmYZls8I16QBAMPNZNFNIR7vOAboX-czq2nEl-XZOMs6MXtYnie0umD4U-yqjdT4yi3hg9I3mRzjrZEVdYMuExnKqnScxYL7OCDazMLM2VUKenb4ZJZ1245CYBYaf4io",
+            "q": "Data Science Consultant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7vRHkO3uLMgVPIpFQcKNPXqjBahQSCZLMJYms9Q8tQJpYJKyOUxLJOACoJMtlY18_19gq6TFt9DLI5NUYsvyL6BgHpNE3tJrnXP_-RbxNhoL8tCY0rrX2jg2DVYeJgrwLpRlsjAHmyIl5K70Vlp3JcFsFRI33mwxfg0R7cywWuon5Vr3RyMmYZls8I16QBAMPNZNFNIR7vOAboX-czq2nEl-XZOMs6MXtYnie0umD4U-yqjdT4yi3hg9I3mRzjrZEVdYMuExnKqnScxYL7OCDazMLM2VUKenb4ZJZ1245CYBYaf4io&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7vRHkO3uLMgVPIpFQcKNPXqjBahQSCZLMJYms9Q8tQJpYJKyOUxLJOACoJMtlY18_19gq6TFt9DLI5NUYsvyL6BgHpNE3tJrnXP_-RbxNhoL8tCY0rrX2jg2DVYeJgrwLpRlsjAHmyIl5K70Vlp3JcFsFRI33mwxfg0R7cywWuon5Vr3RyMmYZls8I16QBAMPNZNFNIR7vOAboX-czq2nEl-XZOMs6MXtYnie0umD4U-yqjdT4yi3hg9I3mRzjrZEVdYMuExnKqnScxYL7OCDazMLM2VUKenb4ZJZ1245CYBYaf4io&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7uNctX2ELKjHAiYTrdWNKW-DTBw3v2aKa-sBSRFmuySkSlPTNWARwgYmlSKyx4P-Nk1hhoSlNtyZHSEUJdUX48oz9lc16DHT7aHK5MgwgiSplKnsV6gJ5Qn-vzX0PNgV8bSuTz755mDvPWZNbdlPno-ZE_fjhkXBgZI2u3muZYKgwA5sCmQhO60jhqzjskgcHspUpKCbnjO9I9wjD5FRoJxWslN1NuhRUACBwHb_3FaQaC2u9W9oreKRDW6TC-yg3iqvGHthKcRE29ziM5HlJS_M_pDKTYuO0d-iXMxo5gXaGlMLb4",
+            "q": "Data Science Consultant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7uNctX2ELKjHAiYTrdWNKW-DTBw3v2aKa-sBSRFmuySkSlPTNWARwgYmlSKyx4P-Nk1hhoSlNtyZHSEUJdUX48oz9lc16DHT7aHK5MgwgiSplKnsV6gJ5Qn-vzX0PNgV8bSuTz755mDvPWZNbdlPno-ZE_fjhkXBgZI2u3muZYKgwA5sCmQhO60jhqzjskgcHspUpKCbnjO9I9wjD5FRoJxWslN1NuhRUACBwHb_3FaQaC2u9W9oreKRDW6TC-yg3iqvGHthKcRE29ziM5HlJS_M_pDKTYuO0d-iXMxo5gXaGlMLb4&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7uNctX2ELKjHAiYTrdWNKW-DTBw3v2aKa-sBSRFmuySkSlPTNWARwgYmlSKyx4P-Nk1hhoSlNtyZHSEUJdUX48oz9lc16DHT7aHK5MgwgiSplKnsV6gJ5Qn-vzX0PNgV8bSuTz755mDvPWZNbdlPno-ZE_fjhkXBgZI2u3muZYKgwA5sCmQhO60jhqzjskgcHspUpKCbnjO9I9wjD5FRoJxWslN1NuhRUACBwHb_3FaQaC2u9W9oreKRDW6TC-yg3iqvGHthKcRE29ziM5HlJS_M_pDKTYuO0d-iXMxo5gXaGlMLb4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7OoF76R4Ikm4CoprxM6Gd3JDUBMUAxksnwE0TkhabnnnIrM51ECfsGg0BZvqE-4t-kN5wgN5kgNVfZkGfYitC-FDde_wBL3fUFAw7-Z7gMBt6WCPKtETzaUEu3dxeLmsrJ0fvXtCR5oHjPCJc5rPDBFfXmYGv1K0sM8B_wyAwSkxSfGJM-G1bw8eZzUJyePfuWlvGoj3H1SqiirSFs2_IZuV9YGXFsVycKhMZN0QNFl-b0fJy-GqD5FnPoQbGHskX9AvHXuSI58yzbN-QoiYXxaVeihY2fCt0A_EEGAvldGp6uRkOA",
+            "q": "Data Science Consultant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7OoF76R4Ikm4CoprxM6Gd3JDUBMUAxksnwE0TkhabnnnIrM51ECfsGg0BZvqE-4t-kN5wgN5kgNVfZkGfYitC-FDde_wBL3fUFAw7-Z7gMBt6WCPKtETzaUEu3dxeLmsrJ0fvXtCR5oHjPCJc5rPDBFfXmYGv1K0sM8B_wyAwSkxSfGJM-G1bw8eZzUJyePfuWlvGoj3H1SqiirSFs2_IZuV9YGXFsVycKhMZN0QNFl-b0fJy-GqD5FnPoQbGHskX9AvHXuSI58yzbN-QoiYXxaVeihY2fCt0A_EEGAvldGp6uRkOA&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7OoF76R4Ikm4CoprxM6Gd3JDUBMUAxksnwE0TkhabnnnIrM51ECfsGg0BZvqE-4t-kN5wgN5kgNVfZkGfYitC-FDde_wBL3fUFAw7-Z7gMBt6WCPKtETzaUEu3dxeLmsrJ0fvXtCR5oHjPCJc5rPDBFfXmYGv1K0sM8B_wyAwSkxSfGJM-G1bw8eZzUJyePfuWlvGoj3H1SqiirSFs2_IZuV9YGXFsVycKhMZN0QNFl-b0fJy-GqD5FnPoQbGHskX9AvHXuSI58yzbN-QoiYXxaVeihY2fCt0A_EEGAvldGp6uRkOA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqipzX5IqMj0FJrgKXvfzWng-dWan_Mdhjj-A-o8mtXSIj1ABbAtMwWT1CU5XNKacEc391idz0M42uk7O3eJwQDqrN_jmgaUhvrCvJGuVTo5lorz82ZXhu0uGemHlZgof5VpPRrp3VZevQIXQcwwsJvspLszzt5lugCsAciZ-C1S2mAaUH1gNPlOu41eTz9ydii7Mhbfn8af2a-SS6xNE6kpvM_Sk7USXigJwiCnwLVIun6F4-mKT0Co5jAOXIRUxOyMNO00tkpqhth6Yn29LJQrfXd8aJ_5AjsSICR3HLpjmxgtccQ",
+            "q": "Data Science Consultant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqipzX5IqMj0FJrgKXvfzWng-dWan_Mdhjj-A-o8mtXSIj1ABbAtMwWT1CU5XNKacEc391idz0M42uk7O3eJwQDqrN_jmgaUhvrCvJGuVTo5lorz82ZXhu0uGemHlZgof5VpPRrp3VZevQIXQcwwsJvspLszzt5lugCsAciZ-C1S2mAaUH1gNPlOu41eTz9ydii7Mhbfn8af2a-SS6xNE6kpvM_Sk7USXigJwiCnwLVIun6F4-mKT0Co5jAOXIRUxOyMNO00tkpqhth6Yn29LJQrfXd8aJ_5AjsSICR3HLpjmxgtccQ&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqipzX5IqMj0FJrgKXvfzWng-dWan_Mdhjj-A-o8mtXSIj1ABbAtMwWT1CU5XNKacEc391idz0M42uk7O3eJwQDqrN_jmgaUhvrCvJGuVTo5lorz82ZXhu0uGemHlZgof5VpPRrp3VZevQIXQcwwsJvspLszzt5lugCsAciZ-C1S2mAaUH1gNPlOu41eTz9ydii7Mhbfn8af2a-SS6xNE6kpvM_Sk7USXigJwiCnwLVIun6F4-mKT0Co5jAOXIRUxOyMNO00tkpqhth6Yn29LJQrfXd8aJ_5AjsSICR3HLpjmxgtccQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7vRHkO3uLMgVPIpFQcKNPXqjBahQSCZLMJYms9Q8tQJpYJKyOUxLJOACoJMtlY18_19gq6TFt9DLI5NUYsvyL6BgHpNE3tJrnXP_-RbxNhoL8tCY0rrX2jg2DVYeJgrwLpRlsjAHmyIl5K70Vlp3JcFsFRI33mwxfg0R7cywWuon5Vr3RyMmYZls8I16QBAMPNZNFNIR7vOAboX-czq2nEl-XZOMs6MXtYnie0umD4U-yqjdT4yi3hg9I3mRzjrZEVdYMuExnKqnScxYL7OCDazMLM2VUKenb4ZJZ1245CYBYaf4io",
+            "q": "Data Science Consultant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7vRHkO3uLMgVPIpFQcKNPXqjBahQSCZLMJYms9Q8tQJpYJKyOUxLJOACoJMtlY18_19gq6TFt9DLI5NUYsvyL6BgHpNE3tJrnXP_-RbxNhoL8tCY0rrX2jg2DVYeJgrwLpRlsjAHmyIl5K70Vlp3JcFsFRI33mwxfg0R7cywWuon5Vr3RyMmYZls8I16QBAMPNZNFNIR7vOAboX-czq2nEl-XZOMs6MXtYnie0umD4U-yqjdT4yi3hg9I3mRzjrZEVdYMuExnKqnScxYL7OCDazMLM2VUKenb4ZJZ1245CYBYaf4io&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7vRHkO3uLMgVPIpFQcKNPXqjBahQSCZLMJYms9Q8tQJpYJKyOUxLJOACoJMtlY18_19gq6TFt9DLI5NUYsvyL6BgHpNE3tJrnXP_-RbxNhoL8tCY0rrX2jg2DVYeJgrwLpRlsjAHmyIl5K70Vlp3JcFsFRI33mwxfg0R7cywWuon5Vr3RyMmYZls8I16QBAMPNZNFNIR7vOAboX-czq2nEl-XZOMs6MXtYnie0umD4U-yqjdT4yi3hg9I3mRzjrZEVdYMuExnKqnScxYL7OCDazMLM2VUKenb4ZJZ1245CYBYaf4io&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7uNctX2ELKjHAiYTrdWNKW-DTBw3v2aKa-sBSRFmuySkSlPTNWARwgYmlSKyx4P-Nk1hhoSlNtyZHSEUJdUX48oz9lc16DHT7aHK5MgwgiSplKnsV6gJ5Qn-vzX0PNgV8bSuTz755mDvPWZNbdlPno-ZE_fjhkXBgZI2u3muZYKgwA5sCmQhO60jhqzjskgcHspUpKCbnjO9I9wjD5FRoJxWslN1NuhRUACBwHb_3FaQaC2u9W9oreKRDW6TC-yg3iqvGHthKcRE29ziM5HlJS_M_pDKTYuO0d-iXMxo5gXaGlMLb4",
+            "q": "Data Science Consultant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7uNctX2ELKjHAiYTrdWNKW-DTBw3v2aKa-sBSRFmuySkSlPTNWARwgYmlSKyx4P-Nk1hhoSlNtyZHSEUJdUX48oz9lc16DHT7aHK5MgwgiSplKnsV6gJ5Qn-vzX0PNgV8bSuTz755mDvPWZNbdlPno-ZE_fjhkXBgZI2u3muZYKgwA5sCmQhO60jhqzjskgcHspUpKCbnjO9I9wjD5FRoJxWslN1NuhRUACBwHb_3FaQaC2u9W9oreKRDW6TC-yg3iqvGHthKcRE29ziM5HlJS_M_pDKTYuO0d-iXMxo5gXaGlMLb4&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXqlxFWnm7SDDmsEcPrN15iuXXoyb2DgQ6fFv4JEEnH7uNctX2ELKjHAiYTrdWNKW-DTBw3v2aKa-sBSRFmuySkSlPTNWARwgYmlSKyx4P-Nk1hhoSlNtyZHSEUJdUX48oz9lc16DHT7aHK5MgwgiSplKnsV6gJ5Qn-vzX0PNgV8bSuTz755mDvPWZNbdlPno-ZE_fjhkXBgZI2u3muZYKgwA5sCmQhO60jhqzjskgcHspUpKCbnjO9I9wjD5FRoJxWslN1NuhRUACBwHb_3FaQaC2u9W9oreKRDW6TC-yg3iqvGHthKcRE29ziM5HlJS_M_pDKTYuO0d-iXMxo5gXaGlMLb4&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7OoF76R4Ikm4CoprxM6Gd3JDUBMUAxksnwE0TkhabnnnIrM51ECfsGg0BZvqE-4t-kN5wgN5kgNVfZkGfYitC-FDde_wBL3fUFAw7-Z7gMBt6WCPKtETzaUEu3dxeLmsrJ0fvXtCR5oHjPCJc5rPDBFfXmYGv1K0sM8B_wyAwSkxSfGJM-G1bw8eZzUJyePfuWlvGoj3H1SqiirSFs2_IZuV9YGXFsVycKhMZN0QNFl-b0fJy-GqD5FnPoQbGHskX9AvHXuSI58yzbN-QoiYXxaVeihY2fCt0A_EEGAvldGp6uRkOA",
+            "q": "Data Science Consultant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7OoF76R4Ikm4CoprxM6Gd3JDUBMUAxksnwE0TkhabnnnIrM51ECfsGg0BZvqE-4t-kN5wgN5kgNVfZkGfYitC-FDde_wBL3fUFAw7-Z7gMBt6WCPKtETzaUEu3dxeLmsrJ0fvXtCR5oHjPCJc5rPDBFfXmYGv1K0sM8B_wyAwSkxSfGJM-G1bw8eZzUJyePfuWlvGoj3H1SqiirSFs2_IZuV9YGXFsVycKhMZN0QNFl-b0fJy-GqD5FnPoQbGHskX9AvHXuSI58yzbN-QoiYXxaVeihY2fCt0A_EEGAvldGp6uRkOA&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXw-qcOFtk91bvmKlxgZ7q7OoF76R4Ikm4CoprxM6Gd3JDUBMUAxksnwE0TkhabnnnIrM51ECfsGg0BZvqE-4t-kN5wgN5kgNVfZkGfYitC-FDde_wBL3fUFAw7-Z7gMBt6WCPKtETzaUEu3dxeLmsrJ0fvXtCR5oHjPCJc5rPDBFfXmYGv1K0sM8B_wyAwSkxSfGJM-G1bw8eZzUJyePfuWlvGoj3H1SqiirSFs2_IZuV9YGXFsVycKhMZN0QNFl-b0fJy-GqD5FnPoQbGHskX9AvHXuSI58yzbN-QoiYXxaVeihY2fCt0A_EEGAvldGp6uRkOA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqipzX5IqMj0FJrgKXvfzWng-dWan_Mdhjj-A-o8mtXSIj1ABbAtMwWT1CU5XNKacEc391idz0M42uk7O3eJwQDqrN_jmgaUhvrCvJGuVTo5lorz82ZXhu0uGemHlZgof5VpPRrp3VZevQIXQcwwsJvspLszzt5lugCsAciZ-C1S2mAaUH1gNPlOu41eTz9ydii7Mhbfn8af2a-SS6xNE6kpvM_Sk7USXigJwiCnwLVIun6F4-mKT0Co5jAOXIRUxOyMNO00tkpqhth6Yn29LJQrfXd8aJ_5AjsSICR3HLpjmxgtccQ",
+            "q": "Data Science Consultant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqipzX5IqMj0FJrgKXvfzWng-dWan_Mdhjj-A-o8mtXSIj1ABbAtMwWT1CU5XNKacEc391idz0M42uk7O3eJwQDqrN_jmgaUhvrCvJGuVTo5lorz82ZXhu0uGemHlZgof5VpPRrp3VZevQIXQcwwsJvspLszzt5lugCsAciZ-C1S2mAaUH1gNPlOu41eTz9ydii7Mhbfn8af2a-SS6xNE6kpvM_Sk7USXigJwiCnwLVIun6F4-mKT0Co5jAOXIRUxOyMNO00tkpqhth6Yn29LJQrfXd8aJ_5AjsSICR3HLpjmxgtccQ&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXrDrvMr3d6nQquWZvmlqLqipzX5IqMj0FJrgKXvfzWng-dWan_Mdhjj-A-o8mtXSIj1ABbAtMwWT1CU5XNKacEc391idz0M42uk7O3eJwQDqrN_jmgaUhvrCvJGuVTo5lorz82ZXhu0uGemHlZgof5VpPRrp3VZevQIXQcwwsJvspLszzt5lugCsAciZ-C1S2mAaUH1gNPlOu41eTz9ydii7Mhbfn8af2a-SS6xNE6kpvM_Sk7USXigJwiCnwLVIun6F4-mKT0Co5jAOXIRUxOyMNO00tkpqhth6Yn29LJQrfXd8aJ_5AjsSICR3HLpjmxgtccQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZoPPIdrAI91LBirAoDiqfdz6v_Gs6-QYAEybzfSIFD4FF0XT2nB0MV0-4mrywDk8WbwtdQDtFUi2Kl1IKvFJFxN-zgk7h__d_m9Y8PN9Ym7bVNeDYJPclG3O2gXQ0YDbM4mBa_-BkB7hfLyc5CWclr8zLUI4opO6DQtBYcUYqGqWu5R9--IpT_siA8HbUoW9fKGN0Yzp3FvAsxHTB5LL3uZ2O-t5sYsYSiS5VgjWOwDRa_8FmmZVeVygksxO7ZyyVy-z1zkQ4VjVUhGl_jD3hHvuwVA2zXcirnTos2PHGg1TiyXydJOS_oLUJ5hU_-cPv_uxKY",
+            "q": "Data Science Consultant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZoPPIdrAI91LBirAoDiqfdz6v_Gs6-QYAEybzfSIFD4FF0XT2nB0MV0-4mrywDk8WbwtdQDtFUi2Kl1IKvFJFxN-zgk7h__d_m9Y8PN9Ym7bVNeDYJPclG3O2gXQ0YDbM4mBa_-BkB7hfLyc5CWclr8zLUI4opO6DQtBYcUYqGqWu5R9--IpT_siA8HbUoW9fKGN0Yzp3FvAsxHTB5LL3uZ2O-t5sYsYSiS5VgjWOwDRa_8FmmZVeVygksxO7ZyyVy-z1zkQ4VjVUhGl_jD3hHvuwVA2zXcirnTos2PHGg1TiyXydJOS_oLUJ5hU_-cPv_uxKY&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZoPPIdrAI91LBirAoDiqfdz6v_Gs6-QYAEybzfSIFD4FF0XT2nB0MV0-4mrywDk8WbwtdQDtFUi2Kl1IKvFJFxN-zgk7h__d_m9Y8PN9Ym7bVNeDYJPclG3O2gXQ0YDbM4mBa_-BkB7hfLyc5CWclr8zLUI4opO6DQtBYcUYqGqWu5R9--IpT_siA8HbUoW9fKGN0Yzp3FvAsxHTB5LL3uZ2O-t5sYsYSiS5VgjWOwDRa_8FmmZVeVygksxO7ZyyVy-z1zkQ4VjVUhGl_jD3hHvuwVA2zXcirnTos2PHGg1TiyXydJOS_oLUJ5hU_-cPv_uxKY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYJVVIQ3-p4SkwqJ20edmT_YrZeD0mfq3d2Wsz_XkHIZ3ymkkTnihdl9c8ErTnoRw2Nl26DDdN_eYLBVYd3P68-I6eh899jJ2nUV0HDPDqL7FATpBARJpSEgi5ucKWvWqg2l73GMTLqvnc0ptQ-FKdJHg_9KJOZuNAeNlXo2ZOXNgWcUI0O7Oh97RncvccahGx4GvsbquCKgCj7fT_jndrBZ1bMpe1Cm8SN3moP2_9FdB6P1u-GbROlUJshCUzI4_eSL_aWY4WlW_K8gvE7NoZ0kXFoV4aVofn8o_TAh-HYLAkKja6GpKj-K78oiz5ajX3J2wlfE",
+            "q": "Data Science Consultant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYJVVIQ3-p4SkwqJ20edmT_YrZeD0mfq3d2Wsz_XkHIZ3ymkkTnihdl9c8ErTnoRw2Nl26DDdN_eYLBVYd3P68-I6eh899jJ2nUV0HDPDqL7FATpBARJpSEgi5ucKWvWqg2l73GMTLqvnc0ptQ-FKdJHg_9KJOZuNAeNlXo2ZOXNgWcUI0O7Oh97RncvccahGx4GvsbquCKgCj7fT_jndrBZ1bMpe1Cm8SN3moP2_9FdB6P1u-GbROlUJshCUzI4_eSL_aWY4WlW_K8gvE7NoZ0kXFoV4aVofn8o_TAh-HYLAkKja6GpKj-K78oiz5ajX3J2wlfE&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYJVVIQ3-p4SkwqJ20edmT_YrZeD0mfq3d2Wsz_XkHIZ3ymkkTnihdl9c8ErTnoRw2Nl26DDdN_eYLBVYd3P68-I6eh899jJ2nUV0HDPDqL7FATpBARJpSEgi5ucKWvWqg2l73GMTLqvnc0ptQ-FKdJHg_9KJOZuNAeNlXo2ZOXNgWcUI0O7Oh97RncvccahGx4GvsbquCKgCj7fT_jndrBZ1bMpe1Cm8SN3moP2_9FdB6P1u-GbROlUJshCUzI4_eSL_aWY4WlW_K8gvE7NoZ0kXFoV4aVofn8o_TAh-HYLAkKja6GpKj-K78oiz5ajX3J2wlfE&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA3pI4szvNm2dFnQmKmAAexIZ4GJV96Ac1Abxae-Jt4hxFsca_CwSAFTcmFpCJqHpHZmG1p0-4aQIY5b7iR0PPHGWn9QoPkfhZm0Jc7Sh8xKKeSi3v2w9Pru4J3Qn-xTFOcqGDEgeJtgGeGzte0apxRyQew-n6BKkj_qbPbqpb1MjT7sv4k9LiSa6t__lqpD3aWbS9_UdiDSrJkdv5pgngVno3dA5Q2H6P91jjXFsiqw-GHVOsA_21nSZUeGNwqBTmwrlCaTu6qD1i77JepdvPjyo69GSircuoDfSSbwjxuf6SwefdNvs3G8Z0IEMZOUhlbnARYk",
+            "q": "Data Science Consultant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA3pI4szvNm2dFnQmKmAAexIZ4GJV96Ac1Abxae-Jt4hxFsca_CwSAFTcmFpCJqHpHZmG1p0-4aQIY5b7iR0PPHGWn9QoPkfhZm0Jc7Sh8xKKeSi3v2w9Pru4J3Qn-xTFOcqGDEgeJtgGeGzte0apxRyQew-n6BKkj_qbPbqpb1MjT7sv4k9LiSa6t__lqpD3aWbS9_UdiDSrJkdv5pgngVno3dA5Q2H6P91jjXFsiqw-GHVOsA_21nSZUeGNwqBTmwrlCaTu6qD1i77JepdvPjyo69GSircuoDfSSbwjxuf6SwefdNvs3G8Z0IEMZOUhlbnARYk&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA3pI4szvNm2dFnQmKmAAexIZ4GJV96Ac1Abxae-Jt4hxFsca_CwSAFTcmFpCJqHpHZmG1p0-4aQIY5b7iR0PPHGWn9QoPkfhZm0Jc7Sh8xKKeSi3v2w9Pru4J3Qn-xTFOcqGDEgeJtgGeGzte0apxRyQew-n6BKkj_qbPbqpb1MjT7sv4k9LiSa6t__lqpD3aWbS9_UdiDSrJkdv5pgngVno3dA5Q2H6P91jjXFsiqw-GHVOsA_21nSZUeGNwqBTmwrlCaTu6qD1i77JepdvPjyo69GSircuoDfSSbwjxuf6SwefdNvs3G8Z0IEMZOUhlbnARYk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRovBqTvPC0aNaMGJ4DZnpk1dPukH8fP4gQCdB1yPP7SKHWrY9PfDY9QgvRYoPePFW9d_3l2cF6tL5pPwWy943uLn52rhZP_cBfqyzmfSHFvalA5t13xde4yhYUXR9vMITOXi6gjnOeeB5FBAZ8qUJXe8MZHNzObaTDVaHL7fqWeXLORueeXvMojR2ABceI9n6vzAyh7VjizW59ui9Om-ZFvdzI37w893geyNQNleSIVHKah5xcGQs-uSuSnMA95HfiRV0_FyVG2vw7fLYEQldVTSKMIPeEswJr1OiQMYwooSFS099Ps13qzllN4TxMcaF_J56Rvc",
+            "q": "Data Science Consultant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRovBqTvPC0aNaMGJ4DZnpk1dPukH8fP4gQCdB1yPP7SKHWrY9PfDY9QgvRYoPePFW9d_3l2cF6tL5pPwWy943uLn52rhZP_cBfqyzmfSHFvalA5t13xde4yhYUXR9vMITOXi6gjnOeeB5FBAZ8qUJXe8MZHNzObaTDVaHL7fqWeXLORueeXvMojR2ABceI9n6vzAyh7VjizW59ui9Om-ZFvdzI37w893geyNQNleSIVHKah5xcGQs-uSuSnMA95HfiRV0_FyVG2vw7fLYEQldVTSKMIPeEswJr1OiQMYwooSFS099Ps13qzllN4TxMcaF_J56Rvc&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRovBqTvPC0aNaMGJ4DZnpk1dPukH8fP4gQCdB1yPP7SKHWrY9PfDY9QgvRYoPePFW9d_3l2cF6tL5pPwWy943uLn52rhZP_cBfqyzmfSHFvalA5t13xde4yhYUXR9vMITOXi6gjnOeeB5FBAZ8qUJXe8MZHNzObaTDVaHL7fqWeXLORueeXvMojR2ABceI9n6vzAyh7VjizW59ui9Om-ZFvdzI37w893geyNQNleSIVHKah5xcGQs-uSuSnMA95HfiRV0_FyVG2vw7fLYEQldVTSKMIPeEswJr1OiQMYwooSFS099Ps13qzllN4TxMcaF_J56Rvc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZoPPIdrAI91LBirAoDiqfdz6v_Gs6-QYAEybzfSIFD4FF0XT2nB0MV0-4mrywDk8WbwtdQDtFUi2Kl1IKvFJFxN-zgk7h__d_m9Y8PN9Ym7bVNeDYJPclG3O2gXQ0YDbM4mBa_-BkB7hfLyc5CWclr8zLUI4opO6DQtBYcUYqGqWu5R9--IpT_siA8HbUoW9fKGN0Yzp3FvAsxHTB5LL3uZ2O-t5sYsYSiS5VgjWOwDRa_8FmmZVeVygksxO7ZyyVy-z1zkQ4VjVUhGl_jD3hHvuwVA2zXcirnTos2PHGg1TiyXydJOS_oLUJ5hU_-cPv_uxKY",
+            "q": "Data Science Consultant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZoPPIdrAI91LBirAoDiqfdz6v_Gs6-QYAEybzfSIFD4FF0XT2nB0MV0-4mrywDk8WbwtdQDtFUi2Kl1IKvFJFxN-zgk7h__d_m9Y8PN9Ym7bVNeDYJPclG3O2gXQ0YDbM4mBa_-BkB7hfLyc5CWclr8zLUI4opO6DQtBYcUYqGqWu5R9--IpT_siA8HbUoW9fKGN0Yzp3FvAsxHTB5LL3uZ2O-t5sYsYSiS5VgjWOwDRa_8FmmZVeVygksxO7ZyyVy-z1zkQ4VjVUhGl_jD3hHvuwVA2zXcirnTos2PHGg1TiyXydJOS_oLUJ5hU_-cPv_uxKY&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXt-KJLWASHLirOKZYVqMFyZoPPIdrAI91LBirAoDiqfdz6v_Gs6-QYAEybzfSIFD4FF0XT2nB0MV0-4mrywDk8WbwtdQDtFUi2Kl1IKvFJFxN-zgk7h__d_m9Y8PN9Ym7bVNeDYJPclG3O2gXQ0YDbM4mBa_-BkB7hfLyc5CWclr8zLUI4opO6DQtBYcUYqGqWu5R9--IpT_siA8HbUoW9fKGN0Yzp3FvAsxHTB5LL3uZ2O-t5sYsYSiS5VgjWOwDRa_8FmmZVeVygksxO7ZyyVy-z1zkQ4VjVUhGl_jD3hHvuwVA2zXcirnTos2PHGg1TiyXydJOS_oLUJ5hU_-cPv_uxKY&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYJVVIQ3-p4SkwqJ20edmT_YrZeD0mfq3d2Wsz_XkHIZ3ymkkTnihdl9c8ErTnoRw2Nl26DDdN_eYLBVYd3P68-I6eh899jJ2nUV0HDPDqL7FATpBARJpSEgi5ucKWvWqg2l73GMTLqvnc0ptQ-FKdJHg_9KJOZuNAeNlXo2ZOXNgWcUI0O7Oh97RncvccahGx4GvsbquCKgCj7fT_jndrBZ1bMpe1Cm8SN3moP2_9FdB6P1u-GbROlUJshCUzI4_eSL_aWY4WlW_K8gvE7NoZ0kXFoV4aVofn8o_TAh-HYLAkKja6GpKj-K78oiz5ajX3J2wlfE",
+            "q": "Data Science Consultant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYJVVIQ3-p4SkwqJ20edmT_YrZeD0mfq3d2Wsz_XkHIZ3ymkkTnihdl9c8ErTnoRw2Nl26DDdN_eYLBVYd3P68-I6eh899jJ2nUV0HDPDqL7FATpBARJpSEgi5ucKWvWqg2l73GMTLqvnc0ptQ-FKdJHg_9KJOZuNAeNlXo2ZOXNgWcUI0O7Oh97RncvccahGx4GvsbquCKgCj7fT_jndrBZ1bMpe1Cm8SN3moP2_9FdB6P1u-GbROlUJshCUzI4_eSL_aWY4WlW_K8gvE7NoZ0kXFoV4aVofn8o_TAh-HYLAkKja6GpKj-K78oiz5ajX3J2wlfE&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXnzyHhBphyi8ltkzexO_tYJVVIQ3-p4SkwqJ20edmT_YrZeD0mfq3d2Wsz_XkHIZ3ymkkTnihdl9c8ErTnoRw2Nl26DDdN_eYLBVYd3P68-I6eh899jJ2nUV0HDPDqL7FATpBARJpSEgi5ucKWvWqg2l73GMTLqvnc0ptQ-FKdJHg_9KJOZuNAeNlXo2ZOXNgWcUI0O7Oh97RncvccahGx4GvsbquCKgCj7fT_jndrBZ1bMpe1Cm8SN3moP2_9FdB6P1u-GbROlUJshCUzI4_eSL_aWY4WlW_K8gvE7NoZ0kXFoV4aVofn8o_TAh-HYLAkKja6GpKj-K78oiz5ajX3J2wlfE&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA3pI4szvNm2dFnQmKmAAexIZ4GJV96Ac1Abxae-Jt4hxFsca_CwSAFTcmFpCJqHpHZmG1p0-4aQIY5b7iR0PPHGWn9QoPkfhZm0Jc7Sh8xKKeSi3v2w9Pru4J3Qn-xTFOcqGDEgeJtgGeGzte0apxRyQew-n6BKkj_qbPbqpb1MjT7sv4k9LiSa6t__lqpD3aWbS9_UdiDSrJkdv5pgngVno3dA5Q2H6P91jjXFsiqw-GHVOsA_21nSZUeGNwqBTmwrlCaTu6qD1i77JepdvPjyo69GSircuoDfSSbwjxuf6SwefdNvs3G8Z0IEMZOUhlbnARYk",
+            "q": "Data Science Consultant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA3pI4szvNm2dFnQmKmAAexIZ4GJV96Ac1Abxae-Jt4hxFsca_CwSAFTcmFpCJqHpHZmG1p0-4aQIY5b7iR0PPHGWn9QoPkfhZm0Jc7Sh8xKKeSi3v2w9Pru4J3Qn-xTFOcqGDEgeJtgGeGzte0apxRyQew-n6BKkj_qbPbqpb1MjT7sv4k9LiSa6t__lqpD3aWbS9_UdiDSrJkdv5pgngVno3dA5Q2H6P91jjXFsiqw-GHVOsA_21nSZUeGNwqBTmwrlCaTu6qD1i77JepdvPjyo69GSircuoDfSSbwjxuf6SwefdNvs3G8Z0IEMZOUhlbnARYk&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4Bq2tk36xEQuZiazZWPEA3pI4szvNm2dFnQmKmAAexIZ4GJV96Ac1Abxae-Jt4hxFsca_CwSAFTcmFpCJqHpHZmG1p0-4aQIY5b7iR0PPHGWn9QoPkfhZm0Jc7Sh8xKKeSi3v2w9Pru4J3Qn-xTFOcqGDEgeJtgGeGzte0apxRyQew-n6BKkj_qbPbqpb1MjT7sv4k9LiSa6t__lqpD3aWbS9_UdiDSrJkdv5pgngVno3dA5Q2H6P91jjXFsiqw-GHVOsA_21nSZUeGNwqBTmwrlCaTu6qD1i77JepdvPjyo69GSircuoDfSSbwjxuf6SwefdNvs3G8Z0IEMZOUhlbnARYk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRovBqTvPC0aNaMGJ4DZnpk1dPukH8fP4gQCdB1yPP7SKHWrY9PfDY9QgvRYoPePFW9d_3l2cF6tL5pPwWy943uLn52rhZP_cBfqyzmfSHFvalA5t13xde4yhYUXR9vMITOXi6gjnOeeB5FBAZ8qUJXe8MZHNzObaTDVaHL7fqWeXLORueeXvMojR2ABceI9n6vzAyh7VjizW59ui9Om-ZFvdzI37w893geyNQNleSIVHKah5xcGQs-uSuSnMA95HfiRV0_FyVG2vw7fLYEQldVTSKMIPeEswJr1OiQMYwooSFS099Ps13qzllN4TxMcaF_J56Rvc",
+            "q": "Data Science Consultant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDhOJo8QGDnW2GDOCPNQ7ET6SVNKhw:1793395325748&q=Data+Science+Consultant+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRovBqTvPC0aNaMGJ4DZnpk1dPukH8fP4gQCdB1yPP7SKHWrY9PfDY9QgvRYoPePFW9d_3l2cF6tL5pPwWy943uLn52rhZP_cBfqyzmfSHFvalA5t13xde4yhYUXR9vMITOXi6gjnOeeB5FBAZ8qUJXe8MZHNzObaTDVaHL7fqWeXLORueeXvMojR2ABceI9n6vzAyh7VjizW59ui9Om-ZFvdzI37w893geyNQNleSIVHKah5xcGQs-uSuSnMA95HfiRV0_FyVG2vw7fLYEQldVTSKMIPeEswJr1OiQMYwooSFS099Ps13qzllN4TxMcaF_J56Rvc&udm=8&sa=X&ved=2ahUKEwjfztSa1uKXAxX3TTABHaL5EzIQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Data+Science+Consultant+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXWP5d9ZCzvhfFILXwTkeRovBqTvPC0aNaMGJ4DZnpk1dPukH8fP4gQCdB1yPP7SKHWrY9PfDY9QgvRYoPePFW9d_3l2cF6tL5pPwWy943uLn52rhZP_cBfqyzmfSHFvalA5t13xde4yhYUXR9vMITOXi6gjnOeeB5FBAZ8qUJXe8MZHNzObaTDVaHL7fqWeXLORueeXvMojR2ABceI9n6vzAyh7VjizW59ui9Om-ZFvdzI37w893geyNQNleSIVHKah5xcGQs-uSuSnMA95HfiRV0_FyVG2vw7fLYEQldVTSKMIPeEswJr1OiQMYwooSFS099Ps13qzllN4TxMcaF_J56Rvc&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Science Consultant",
+      "company_name": "Management Solutions",
+      "location": "United States",
+      "via": "Custom Career Content - University Of Miami",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Recent graduates",
+            "Should desirably have knowledge of Artificial Intelligence modeling techniques (logit, GLM, time series, random forests, clustering, XG Boost), statistical programming languages (SAS, R, Python, Matlab), big data tools and platforms (Hadoop, Hive, etc.) and cloud platforms (AWS, Azure, GCP)",
+            "Solid academic record",
+            "Strong computer skills",
+            "Postgraduate studies and/or specialized courses are an asset, especially in Data Science, Artificial Intelligence, Quantitative Finance or similar",
+            "Get-up-and-go attitude, maturity, responsibility and strong work ethic",
+            "Strong ability to learn quickly",
+            "Able to integrate easily into multidisciplinary teams",
+            "Specialist knowledge courses, external expert courses, professional skills courses and language courses"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Working in the highest-profile consulting projects in the industry,",
+            "Internal promotion based solely on merit"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Statistical data processing (Data Mining)",
+            "Artificial Intelligence (AI), including generative AI",
+            "Predictive modeling using Machine Learning and Data Science techniques",
+            "Time-series modeling (ARIMA and panel data models) and simulation models (Monte Carlo)",
+            "Development, validation and audit of financial, risk, marketing and business-oriented models",
+            "Ongoing training plan, with approximately 10% of business turnover spent on training",
+            "Sports Club: internal and external tournaments"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=toWnmAT9PEJPjZUXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE63uAgmIrjoaEEQnIJzucYjiaR3pXeFPogPbF3-8fub76ZxLRpCiIU4EtyEda6GbHCAh_SghFPMIAx3kVRpe81mo168V60uqaGV6KIMXph6WfxHev2n04wTjRWNutP5uLiR0373RMZEA61-kDpbWX9QGF5cjN4QVo70B-HCLHaXAAAA&shmds=v1_Ac3VAox4rvKfapyyeiTFZIFRqGg_NGjfqAlk7BHO696dMEfEkw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=toWnmAT9PEJPjZUXAAAAAA%3D%3D",
+      "extensions": [
+        "16 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://customcareer.miami.edu/jobs/management-solutions-data-science-consultant-2/",
+      "job_title": "Data Science Consultant",
+      "description": "Management Solutions is an international consulting firm whose core mission is to deliver business, risk, financial, organizational and process-related advisory services, targeting both functional aspects and the implementation of related technologies. We currently have a multidisciplinary team (functional, mathematical, technical and systems integration) of around 4,000 professionals.\n\n\nWe operate through 52 offices (22 in Europe, 24 in the Americas, 3 in Asia, 1 in Africa and 2 in Oceania) from where we regularly serve clients that operate in more than 50 countries across five major geographical areas (Europe, Americas, Asia, Africa and Oceania).\n\n\nFor more information about Management Solutions please visit: www.managementsolutions.com\n\n\nRole\n\n\n\nStatistical data processing (Data Mining)\nArtificial Intelligence (AI), including generative AI\nPredictive modeling using Machine Learning and Data Science techniques\nTime-series modeling (ARIMA and panel data models) and simulation models (Monte Carlo)\nDevelopment, validation and audit of financial, risk, marketing and business-oriented models\nR&D projects\n\nWe look for candidates like you\n\n\n\nRecent graduates.\nShould desirably have knowledge of Artificial Intelligence modeling techniques (logit, GLM, time series, random forests, clustering, XG Boost), statistical programming languages (SAS, R, Python, Matlab), big data tools and platforms (Hadoop, Hive, etc.) and cloud platforms (AWS, Azure, GCP).\nSolid academic record.\nStrong computer skills.\nPostgraduate studies and/or specialized courses are an asset, especially in Data Science, Artificial Intelligence, Quantitative Finance or similar.\nKnowledge of other languages is desirable.\nGet-up-and-go attitude, maturity, responsibility and strong work ethic.\nStrong ability to learn quickly.\nAble to integrate easily into multidisciplinary teams.\n\nWhat we offer\n\n\nWe offer you the possibility to join a firm that provides all you need to develop your talent to the fullest:\n\n\n\nWorking in the highest-profile consulting projects in the industry,\nfor the largest companies, leaders of their respective markets,\nalongside top industry management as they face challenges at the national and global level,\nas part of an extraordinary team of professionals whose values and corporate culture are a benchmark for the industry.\n\nTraining\n\n\n\nOngoing training plan, with approximately 10% of business turnover spent on training.\nSpecialist knowledge courses, external expert courses, professional skills courses and language courses.\nLast year our staff as a whole received over 400,000 hours of training spanning more than 160 courses.\n\nCareer Plan\n\n\n\nClearly defined career plan.\nInternal promotion based solely on merit.\nPartnership-based management model offers all professionals the opportunity to become part of the Firm’s group of partners.\n\nComplementary Activities\n\n\n\nUniversity: we maintain a close relationship with the world’s most prestigious universities.\nSocial Action: we organize more than 30 community support activities.\nSports Club: internal and external tournaments.\n\nAt Management Solutions we believe in equal opportunities. In our selection process, all qualified applicants are equally considered for employment regardless of race, color, religion, national origin, sex, gender identity, sexual orientation, age, marital status, disability, and any other characteristic protected by law.\n\n\nHow to apply\n\n\nIf you are interested in our offer, please complete our application form online at\nhttps://www.managementsolutions.com/en/professional-careers-send-us-your-cv",
+      "apply_options": [
+        {
+          "title": "Custom Career Content - University Of Miami",
+          "link": "https://customcareer.miami.edu/jobs/management-solutions-data-science-consultant-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/compliance-data-science-consultant_7ea1aca145a789b08964fefaf7be2e917a938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-science-consultant--united-states--e8e07dc30b393c5062a2ca2fa005c4d9f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "We Are Distributed",
+          "link": "https://wearedistributed.org/job/data-science-consultant-vgp5i?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/data-engineering-data-science-consultant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/dataannotation/nashville/data-science-consultant-104344609/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-6710264649840092330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/data-science-consultant-jobs/F25D71AF2ACABC90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgQ29uc3VsdGFudCIsImNvbXBhbnlfbmFtZSI6Ik1hbmFnZW1lbnQgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJ0b1dubUFUOVBFSlBqWlVYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVZOUGFYZ3hTbFZKZHpKcFVsOW9lVTgwU1hjNGRHVlFaVXRFYW5OMWJ6bFJjMnhRVkhjemVITkJXVkZPZG14NFRIUnRiRGw0TlZWTGNIUmhUMmRDYmpZd05uUkJRa05VUmtZM1UwdGxNUzFYUm5CT05qUndla0pyY21kRFFWaDZiemcyVHpWMGQyeEJMVlJTT0ZKVU9EWkdTamhJYVRWVGRHUk5aVkZIUkZBd1gxTjZRbkFTRjJaUmNteGhjQzFqVEdabFluZGlhMUJ2ZGxCUWEwRk5HaUpCU0U0d1JUZEdZMjU1TFhSeU5WcEpSRkpCTmw5MVpXOWpReTFMVVhWNmFWZEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0b1dubUFUOVBFSlBqWlVYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Research Consultant Data Scientist",
+      "company_name": "Dandelion Health Inc",
+      "location": "Anywhere",
+      "via": "Jobs",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "You are not afraid to dig into massive, confusing, disorganized new datasets and get them under control",
+            "You are excited to learn new environments, languages, and skills",
+            "M.S. or PhD degree in a relevant field, such as Biomedical Informatics, Data Science, Biostatistics, or B.S. with at least seven years of experience",
+            "Experience in client interaction, crafting project proposals, and leading teams",
+            "Background in statistical modeling and real-world data analysis",
+            "Fluency in Python and SQL",
+            "1+ years experience with extracting, curating, and analyzing data created within the HIT and healthcare delivery ecosystem (e.g., EMR, claims, registry); this may include knowledge of the roles of data exchange and content standards (e.g., FHIR, CDA, CQL) and clinical terminology standards (e.g., ICD, CPT, LOINC, SNOMED-CT, NDC, RxNorm)",
+            "Strong technical writing, editing, and communication skills along with a collaborative, client-first mindset",
+            "Excellent organizational skills with an ability to embrace change and effectively manage multiple projects and consistently plan work to meet deadlines",
+            "Technology Experiences and Skills",
+            "We don’t expect anyone to have all of the following skills or experiences, but we do seek candidates who are interested in growing their skill sets and working with healthcare data in all its glorious complexity",
+            "The Data Team works closely with our Engineering Team to put our work into production and meet client needs",
+            "SQL",
+            "Python and/or R",
+            "Git and version control",
+            "Familiarity with encryption methods and writing regular expressions",
+            "Prior experience querying EDWs or databases and creating reports or analytics for healthcare data",
+            "Familiarity with the data aspects of electronic medical records, ex",
+            "Epic, Cerner, Allscripts",
+            "Prior experience working with insurance claims data",
+            "Familiarity with medical terminologies or controlled vocabularies such as ICD-10, SNOMED-CT, LOINC, CPT/HCPCS, NDC, and RxNorm",
+            "Any medical ontology experience",
+            "Any NLP experience",
+            "Any experience working with DICOM or other imaging modalities",
+            "Experience with OMOP common data model",
+            "Familiarity with Machine Learning concepts",
+            "Experience with AWS",
+            "Academic bent towards inquiry and problem solving but start-up speed and flexibility",
+            "Great balance of focus time to work on projects but easy to access team members to discuss issues and work collaboratively"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "There is occasional travel for in-person company working days on roughly a quarterly basis",
+            "Team Benefits",
+            "Remote work and flexible hours",
+            "Availability needed for meetings, which we try to keep to a healthy minimum",
+            "Complete wellness benefits including healthcare, dental, vision, PTO, sick days and more",
+            "Professional development days to build your skills"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You are a healthcare data scientist who knows your way around clinical and electronic health record data",
+            "Your primary responsibility is to partner collaboratively with our clients to develop data science solutions and analyze AI-ready datasets to provide key insights using multimodal data",
+            "You will curate datasets by identifying patient subpopulations or disease cohorts, and pool multimodal data to drive rapid exploratory AI/ML and Real-World Evidence analyses, model experimentation, and/or model validation",
+            "You will lead analytics research from inception to closeout by having ownership over study design, data curation strategies, effort estimation, analytic design, and delivery of final results",
+            "You will use your data expertise, programming abilities, and critical thinking skills to support our clients by designing and delivering solutions to help them tackle a broad range of business challenges",
+            "Your team’s ultimate goal is to deliver the highest-quality data possible to our clients, who are building products that improve patient health, and demonstrate the value of these data",
+            "You will report to the Research Data Science Manager",
+            "Collaborate with clients to develop creative analytic solutions that create value and address challenges across critical areas of their business",
+            "Design statistical analysis plans for evidence generation projects that include methodology, results structure, expected outputs and dataset requirements;",
+            "Query complex source systems in a range of health data sources (e.g., EMRs, ECG data, DICOM data) to identify and map data elements in order to create high-quality datasets for analytic and AI use cases;",
+            "Develop descriptive analyses and in-depth predictive and causal inference models to drive evidence generation on Dandelion data and enhance existing data products;",
+            "Summarize the methods and results from projects into clear explanations and documentation for internal and external audiences including for submission to conferences and peer-reviewed publications;",
+            "Support all phases of SQL/analytical programming, data management, quality control, and reporting for analytics projects;",
+            "Develop code and documentation to deliver high-quality and HIPAA-compliant data products on time to internal and external customers;",
+            "Create summarized findings and recommendations that are clearly presented and adapted for audiences that have a varying range of technical and clinical experience;",
+            "Identify and resolve problems using your knowledge, background, and troubleshooting skills;",
+            "Ensure accuracy, data integrity, and validity of data and analysis in all work;",
+            "Present to senior leadership as well external audiences"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=VOlCqwcvKLYKSBDbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MPQrCQBBAYWxzBKtpbAR3RbBQywT8KQ3WYbIZsivrTMiMkNt4VSPYvOrxFZ9FcbiTEo4hQims72zIBhUaQh0SsSU12MBNWvhvwnAW6TMtT9Fs0KP3qtn1amgpuCAvL0ytTP4prf7SaMSRhoxGzW6_ndzA_XpVIXeU08xdCLNFuHKAxPDgZNRBPXOkXzbA03CiAAAA&shmds=v1_Ac3VAozCH2biKtoSQ3vY4utZMNB5GUV_QqQdzN9Z61I9KTfATw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=VOlCqwcvKLYKSBDbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a7caaf72d7ee6419a5e/images/S7XRwv0F6XvADb65YS6iomsmLuFB8LFuVMeyTYOAdFg.png",
+      "extensions": [
+        "155K–170K a year",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://jobs.ashbyhq.com/dandelionhealth/90056e96-44ad-4deb-a3a7-56e3f691eb10",
+      "job_title": "Research Consultant Data Scientist",
+      "description": "Our Team\n\nDandelion Health unlocks a layer of unexplored clinical depth that has been previously inaccessible at scale. By combining all the raw multimodal data from community health systems with validated AI models, we deliver regulatory-grade scientific insights and products that give teams the evidence to design better trials, enroll the right patients, and generate AI-powered insights that drive confident decisions across the development and commercial lifecycle.\n\n\n\nYour Role\n\n\nYou are a healthcare data scientist who knows your way around clinical and electronic health record data. Your primary responsibility is to partner collaboratively with our clients to develop data science solutions and analyze AI-ready datasets to provide key insights using multimodal data. You will curate datasets by identifying patient subpopulations or disease cohorts, and pool multimodal data to drive rapid exploratory AI/ML and Real-World Evidence analyses, model experimentation, and/or model validation. You will lead analytics research from inception to closeout by having ownership over study design, data curation strategies, effort estimation, analytic design, and delivery of final results. You will use your data expertise, programming abilities, and critical thinking skills to support our clients by designing and delivering solutions to help them tackle a broad range of business challenges. Your team’s ultimate goal is to deliver the highest-quality data possible to our clients, who are building products that improve patient health, and demonstrate the value of these data. You will report to the Research Data Science Manager.\n\n Responsibilities\n\n\nYour day-to-day responsibilities will include the following:\n\nCollaborate with clients to develop creative analytic solutions that create value and address challenges across critical areas of their business.\n\nDesign statistical analysis plans for evidence generation projects that include methodology, results structure, expected outputs and dataset requirements;\n\nQuery complex source systems in a range of health data sources (e.g., EMRs, ECG data, DICOM data) to identify and map data elements in order to create high-quality datasets for analytic and AI use cases;\n\nDevelop descriptive analyses and in-depth predictive and causal inference models to drive evidence generation on Dandelion data and enhance existing data products;\n\nSummarize the methods and results from projects into clear explanations and documentation for internal and external audiences including for submission to conferences and peer-reviewed publications;\n\nSupport all phases of SQL/analytical programming, data management, quality control, and reporting for analytics projects;\n\nDevelop code and documentation to deliver high-quality and HIPAA-compliant data products on time to internal and external customers;\n\nCreate summarized findings and recommendations that are clearly presented and adapted for audiences that have a varying range of technical and clinical experience;\n\nIdentify and resolve problems using your knowledge, background, and troubleshooting skills;\n\nEnsure accuracy, data integrity, and validity of data and analysis in all work;\n\nPresent to senior leadership as well external audiences\n\nYou are not afraid to dig into massive, confusing, disorganized new datasets and get them under control. You are excited to learn new environments, languages, and skills. This is a small, early stage company with enormous ambitions and everyone pitches in across the team.\n\n Qualifications\n\nM.S. or PhD degree in a relevant field, such as Biomedical Informatics, Data Science, Biostatistics, or B.S. with at least seven years of experience\n\nExperience in client interaction, crafting project proposals, and leading teams.\n\nBackground in statistical modeling and real-world data analysis\n\nFluency in Python and SQL\n\n1+ years experience with extracting, curating, and analyzing data created within the HIT and healthcare delivery ecosystem (e.g., EMR, claims, registry); this may include knowledge of the roles of data exchange and content standards (e.g., FHIR, CDA, CQL) and clinical terminology standards (e.g., ICD, CPT, LOINC, SNOMED-CT, NDC, RxNorm)\n\nStrong technical writing, editing, and communication skills along with a collaborative, client-first mindset\n\nExcellent organizational skills with an ability to embrace change and effectively manage multiple projects and consistently plan work to meet deadlines\n\nExperience working in or with startups is a plus\n\nTechnology Experiences and Skills\n\n We don’t expect anyone to have all of the following skills or experiences, but we do seek candidates who are interested in growing their skill sets and working with healthcare data in all its glorious complexity. The Data Team works closely with our Engineering Team to put our work into production and meet client needs.\n\nSQL\n\nPython and/or R\n\nGit and version control\n\nFamiliarity with encryption methods and writing regular expressions\n\nPrior experience querying EDWs or databases and creating reports or analytics for healthcare data\n\nFamiliarity with the data aspects of electronic medical records, ex. Epic, Cerner, Allscripts\n\nPrior experience working with insurance claims data\n\nFamiliarity with medical terminologies or controlled vocabularies such as ICD-10, SNOMED-CT, LOINC, CPT/HCPCS, NDC, and RxNorm\n\nAny medical ontology experience\n\nAny NLP experience\n\nAny experience working with DICOM or other imaging modalities\n\nExperience with OMOP common data model\n\nFamiliarity with Machine Learning concepts\n\nExperience with AWS\n\nNote that familiarity with machine learning model development and deployment is not required for this position, but familiarity with high-level ML concepts is a plus.\n\n\nNature of our work\n\n Our work is fast paced and iterative. We are growing, and we want to support our team members to grow in their skills as well. We are building a team that approaches problems with a diversity of perspectives, values experimentation, and refining our approach based on that experimentation. We work with the full spectrum of healthcare data from tabular data, videos, images, waveforms, etc. If a health system collects it, we might work with it!\n\n\nIf this looks like a partial fit, please reach out, we would love to share more about the work we do for you to understand if it would be a good fit for you.\n\n\nThere is occasional travel for in-person company working days on roughly a quarterly basis.\n\nTeam Benefits\n\nRemote work and flexible hours. Availability needed for meetings, which we try to keep to a healthy minimum\n\nComplete wellness benefits including healthcare, dental, vision, PTO, sick days and more. Ask for details\n\nProfessional development days to build your skills\n\nCollegial work environment\n\nAcademic bent towards inquiry and problem solving but start-up speed and flexibility\n\nGreat balance of focus time to work on projects but easy to access team members to discuss issues and work collaboratively\n\nDandelion is a mission-driven company that is focused on improving patient care",
+      "apply_options": [
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/dandelionhealth/90056e96-44ad-4deb-a3a7-56e3f691eb10?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/research-consultant-data-scientist_7ea1a66d4ce75dee9bd41fe95173722e4a016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/research-consultant-data-scientist-dandelion-health-inc-10154089?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/research-consultant-data-scientist--32276913-1bde-4b4f-a1f8-e58b5e31b59b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/research-consultant-data-scientist--32276913-1bde-4b4f-a1f8-e58b5e31b59b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/dandelion-health/Job/Research-Consultant-Data-Scientist/-in-Remote,US?jid=47b296e5f39b2c6b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/research-consultant-data-scientist-dandelion-health--ss-us-18l5orc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HireFast",
+          "link": "https://hirefast.g8r.social-networking.me/remote-jobs/research-consultant-data-scientist-7-9970695b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBDb25zdWx0YW50IERhdGEgU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiRGFuZGVsaW9uIEhlYWx0aCBJbmMiLCJodGlkb2NpZCI6IlZPbENxd2N2S0xZS1NCRGJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVWt4YTBadlNuZFlOV05RTTBwVVZFTTRSbUp3WlRoSmJsUlRibGg0YTA1alUxSXlibkE1TmpORmFGUjBXV1ZwY1hZMlMwaE5kRnBKU3paRFRIaFVVR1p2WTNSMldXTlVNVlZDWDJsS05sY3ROVzFMZG1wV1IwRlRaVXh6ZUdwWU5razNOVGhOUzNWV1YweERNRTV0ZDJOelptTTNZems0VFVwbFVXaG1OaTFGTVZaRGEyUVNGMlpSY214aGNDMWpUR1psWW5kaWExQnZkbEJRYTBGTkdpSkJTRTR3UlRkR0xVTkdNekZDTVhsUFpVUlFUREpYTFVaYWNHZHRZVGhhTTJOQiIsImZjdiI6IjMiLCJmY19pZCI6IlZPbENxd2N2S0xZS1NCRGJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Remote Senior Data Scientist and Data Engineering Experts - AI Trainer ($120-$180 per hour)",
+      "company_name": "Mercor",
+      "location": "Anywhere",
+      "via": "Talent.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=P2C4cYMTk_oJyM-5AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOvYrCUBBGsc0DWFhNYeHK5kdhQbRadmVRFMHYy811uLlLMhNmRsgr-lZGbE7xna84yWOUyBlbNoQSKbLArzMHpY9IFtXA0e09bSlEQpRIAbZ9h2IKKXzv4CJuEAKz6WJZpNPFqoDBQs13-Rgee65A0YmvgQn-mEODk01t1uk6z1WbLKg5iz7z3OZMWHGf_3OlL1y1doJd4wyvy6-izzoK8_ERxQ-lkeDAFFom-4Sf0xPVxrW2zAAAAA&shmds=v1_Ac3VAozrYcaiWKOZySsoPR2KWxd-CNWmylQ1FaLxhH7fQcDP4g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=P2C4cYMTk_oJyM-5AAAAAA%3D%3D",
+      "extensions": [
+        "21 hours ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.talent.com/view?id=643464396601494819",
+      "job_title": "Remote Senior Data Scientist and Data Engineering Experts - AI Trainer ($120-$180 per hour)",
+      "description": "Role Overview Mercor is working with a leading AI research lab on a project to improve how AI systems do real-world data science and data engineering work. We’re looking for senior data scientists and data engineers who have deep experience at top technology, quantitative or financial firms. You’ll use that expertise to train and evaluate frontier AI models. This role is open to candidates based in the United States, United Kingdom, Canada, Australia or New Zealand.  Key Responsibilities  - Designing realistic, challenging data science and data engineering tasks, including but not limited to exploratory analyses, statistical modeling, machine learning pipelines, ETL and data pipeline design, SQL and Python workflows, and experimentation or A / B test write-ups - Illustrating \"what good looks like\" by writing precise, task-specific criteria for data science and data engineering deliverables - Applying consistent, evidence-based judgment so that assessments are reproducible and defensible - Taking structured feedback from senior reviewers and iterating on submitted work  Ideal Profile  - 4+ years of professional data science, data engineering or machine learning experience in one of these settings : - A leading technology or quantitative firm (such as FAANG+, Magnificent 7+, top-tier quant funds or equivalent) with a Mid-senior level title. Applied Scientist, Research Scientist and Machine Learning Engineer / Scientist roles also qualify. - A top financial institution (a leading bank, hedge fund or trading firm) - A top-tier consulting firm, working as a data scientist - A Fortune 100 company, with a senior or manager-level title - Experience may be split across more than one qualifying employer - Strong command of Python, SQL, statistical modeling, machine learning, experimentation and causal inference - Proven ability to turn messy real-world data into rigorous analyses and reliable pipelines - Excellent written English, including the ability to explain technical findings clearly - Bachelor's degree from an English-speaking country - A detail-oriented, consistent approach to evaluating complex work - Comfortable receiving feedback and calibrating judgment against set standards",
+      "apply_options": [
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643464396601494819&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgU2VuaW9yIERhdGEgU2NpZW50aXN0IGFuZCBEYXRhIEVuZ2luZWVyaW5nIEV4cGVydHMgLSBBSSBUcmFpbmVyICgkMTIwLSQxODAgcGVyIGhvdXIpIiwiY29tcGFueV9uYW1lIjoiTWVyY29yIiwiaHRpZG9jaWQiOiJQMkM0Y1lNVGtfb0p5TS01QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVdJNGFVTk1SRGxoWVVaTlFUSkVjbk5zWjJ4ME1YVjZRVmxLVmxKbmNGTkdVVTEzU2pjMVduSkdVMmd5UWxoV1YzSnNhRlZuVkZoQ1p6STRVSFpvYmtaNFMwWlVaMWhFZWxKYWF6aDRkRTFQWjJ0b2RrVkVSVGczVldSTFJ5MTRSVmxGTmtnMVlsOU9kRWh4VkUxSFluSm9WRmRLTjFaQ2JWRXhMVkk0ZDBwTFFXRjNOM0FTRjJaUmNteGhjQzFqVEdabFluZGlhMUJ2ZGxCUWEwRk5HaUpCU0U0d1JUZEhPRFZhZDJkbVgyaDJRMUpmTkZSV2JVOWtiVE5NTnpNemRXRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJQMkM0Y1lNVGtfb0p5TS01QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Supply Chain Optimization Data Scientist Senior Consultant",
+      "company_name": "Deloitte",
+      "location": "Denver, CO",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A successful candidate would possess these skills:",
+            "The desire to build technology driven solutions",
+            "Ability to work independently and collaborate as part of a team",
+            "Effective written and verbal communication skills",
+            "Meticulous attention to detail and quality of work product",
+            "Ability to build and sustain professional relationships",
+            "Ability to lead projects or workstreams",
+            "Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment",
+            "Strong interpersonal skills and professional demeanor",
+            "Ability to meet deadlines",
+            "Ability to mentor and provide clear guidance to others",
+            "3+ years of experience delivering analytical or technology solutions from concept through production deployment",
+            "Experience developing optimization, simulation, forecasting, scheduling, inventory, or network-design models",
+            "Experience using Python and SQL for data preparation, validation, and modeling",
+            "Experience translating supply chain planning or execution processes into functional or technical requirements",
+            "Experience integrating models or data through extract, transform, and load (ETL), extract, load, and transform (ELT), or application programming interfaces (APIs)",
+            "At least 1 Cloud platform certification such as Google Cloud Platform, Microsoft Azure or AWS",
+            "Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve",
+            "Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future",
+            "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "A reasonable estimate of the current range is $116,200 to $229,100",
+            "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Supply Chain Optimization Data Scientist you will be responsible for",
+            "Define decision objectives, constraints, business rules, and performance measures with client stakeholders",
+            "Design and validate optimization, simulation, forecasting, scheduling, inventory, and network-design models",
+            "Build and integrate analytical solutions using Python, SQL, data pipelines, and enterprise systems",
+            "Evaluate scenarios and trade-offs to quantify impacts on service, cost, capacity, working capital, lead time, and resilience",
+            "Support solution testing, deployment, user adoption, and communication of analytical findings",
+            "We advise, implement, and operate transformational solutions that bring world-class supply network and operational capabilities to our clients"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=so9m-FsRJbUkamd9AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsfUBFlZbi-ZEsNEyAcEmSB4QLseSrFx2j9uNRF_kM43NdDPM-rtaP5oppfiGcvDEUCejkT7eSBgqbx6aQMhGatAgk2QohXWK5tngAHfpQNHnMMAi3ET6iNvrYJb04pxqLHq1pRaKIKMTxk5m95RO_2h18BlT9Ibt6Xyci8T9blNhFDJDWHYq5BfmPZT1D6bzK8urAAAA&shmds=v1_Ac3VAow7X3vz5od9QyJjdA8zX3FY8sE1kkiNaqCri6B_ODxy9Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=so9m-FsRJbUkamd9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABAUCBwgD_8QAORAAAQMDAQMHBw0AAAAAAAAAAQACAwQFEQYSIXEHExYxNnSzMkFRkZTB0QgUFRciIzdVVmFygeH_xAAWAQEBAQAAAAAAAAAAAAAAAAAABAL_xAAZEQEAAwEBAAAAAAAAAAAAAAAAAgMRAQT_2gAMAwEAAhEDEQA_ANGoiyjjfLI2OJjnyPIa1rRkuJ6gAgxRW3RjUH5FdPY5PgolbbK-34-f0NTTZ6ufhczPrCCIiIgIiICttI9q7L3-DxGqpVtpHtXZe_weI1B1xqi-U-m7FVXesjllgpgC9kQBccuA3ZIHnVLpPWundf01TS00bnOY3M1HWRDOyd2cbwQvLlk_Da9fwZ4jVpr5Pwk-sAc3nZFHLznD7Pvwg8-WjRFPpO8wVNrYWW6vDiyPrETx5TR-28Ef2tcroT5SRZ0btTTjbNaSOGwc-5c9oCIiArbSPauy9_g8RqqVnDLJBKyWF7o5I3BzHtOC0jqIPpQdl6psUGpbDVWiqllihqQ0OfFjaGHA7s7vMqTSejNO8n1HU1MExaXt-_rKyUZ2RvxncAFzR0x1P-obr7ZJ8VAuF2uVzx9I3Crq8HI5-Zz8esoNk641db9ccoFspGuDrLSPMcZfuEzzvLuBIaB_qma8t1u6M1MksEMT4QOYc1oaQ7IwBx9C071KRU11ZVMYyqqp5ms8kSSFwHDKku80rLYz5LMY7He6joiKtsREQEREBERAREQf_9k.jpeg",
+      "extensions": [
+        "16 days ago",
+        "116K–229K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=7d49a3385e985c4e",
+      "job_title": "Supply Chain Optimization Data Scientist Senior Consultant",
+      "description": "We are a team of strategic advisors, architects, and implementers who drive business transformations. Our diverse talent energizes clients' business functions and technology to maximize value in Supply Chain enhancing their ability to fulfill their growth and efficiency ambitions. Imagine working with world-class supply network capabilities like Smart Factory, Strategy & Innovation, Supply Chain Responsiveness, Sourcing & Procurement, or Product Development & Operations! \n \n\n \n\n  Are you ready to take your career to new heights? Join our US Supply Chain & Network Operations Offering, where you'll deliver transformational solutions using operational expertise, digital technologies, advanced analytics, and industry-specific hybrid solutions. Don't miss the chance to be part of a team that provides exceptional client value while advancing your professional journey. Apply now and become a vital part of our innovative and dynamic workforce! \n \n\n \n\n  Recruiting for this role ends on 02/28/2027 \n \n\n \n\n  Work you'll do \n \n\n \n\n \n  As a Supply Chain Optimization Data Scientist you will be responsible for\n \n \n\n \n  Define decision objectives, constraints, business rules, and performance measures with client stakeholders.\n \n \n\n \n  Design and validate optimization, simulation, forecasting, scheduling, inventory, and network-design models.\n \n \n\n \n  Build and integrate analytical solutions using Python, SQL, data pipelines, and enterprise systems.\n \n \n\n \n  Evaluate scenarios and trade-offs to quantify impacts on service, cost, capacity, working capital, lead time, and resilience.\n \n \n\n \n  Support solution testing, deployment, user adoption, and communication of analytical findings.\n \n \n\n  A successful candidate would possess these skills: \n \n\n \n\n \n  The desire to build technology driven solutions\n \n \n\n \n  Ability to work independently and collaborate as part of a team\n \n \n\n \n  Effective written and verbal communication skills\n \n \n\n \n  Meticulous attention to detail and quality of work product\n \n \n\n \n  Ability to build and sustain professional relationships\n \n \n\n \n  Ability to lead projects or workstreams\n \n \n\n \n  Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment\n \n \n\n \n  Strong interpersonal skills and professional demeanor\n \n \n\n \n  Ability to meet deadlines\n \n \n\n \n  Ability to mentor and provide clear guidance to others\n \n \n\n  The team \n \n\n \n\n  Our team helps clients transform their value chains into competitive advantages. We drive efficiency, improve flexibility, and increase responsiveness through proactive insights and decision-making. We advise, implement, and operate transformational solutions that bring world-class supply network and operational capabilities to our clients. We provide operational know-how, digital technologies, advanced analytics, and industry-specific hybrid solutions to deliver unprecedented client value. Additionally, we improve operations, product, and material flow across the breadth of the value chain and create greater supply network synergy and value. \n \n\n \n\n  Qualifications \n \n\n \n\n  Required: \n \n\n \n\n \n  3+ years of experience delivering analytical or technology solutions from concept through production deployment.\n \n \n\n \n  Experience developing optimization, simulation, forecasting, scheduling, inventory, or network-design models.\n \n \n\n \n  Experience using Python and SQL for data preparation, validation, and modeling.\n \n \n\n \n  Experience translating supply chain planning or execution processes into functional or technical requirements.\n \n \n\n \n  Experience integrating models or data through extract, transform, and load (ETL), extract, load, and transform (ELT), or application programming interfaces (APIs).\n \n \n\n \n  At least 1 Cloud platform certification such as Google Cloud Platform, Microsoft Azure or AWS.\n \n \n\n \n  Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve.\n \n \n\n \n  Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.\n \n \n\n  Preferred: \n \n\n \n\n \n  Master's degree in operations research, supply chain, computer science, or applied mathematics.\n \n \n\n \n  2+ years of experience with supply chain planning, decision intelligence, control towers, digital twins, or optimization platforms.\n \n \n\n \n  Experience deploying analytical solutions in cloud or enterprise environments and integrating with planning, warehouse, transportation, manufacturing, or supplier-management systems.\n \n \n\n  The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $116,200 to $229,100. \n \n\n \n\n  You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance. \n \n\n \n\n  Information for applicants with a need for accommodation - https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html \n \n\n  #EPCORE #SCNOFY27CORE",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=7d49a3385e985c4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/deloitte/Job/Supply-Chain-Optimization-Data-Scientist-Senior-Consultant/-in-Denver,CO?jid=d03693c00361d7a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/supply-chain-optimization-data-scientist-senior-consultant-at-deloitte-4479070437?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/supply-chain-optimization-data-scientist-senior-consultant-denver-co--de6abc16-0928-491e-a8e9-dd1ee6276091?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/supply-chain-optimization-data-scientist-senior-consultant-deloitte-JV_IC1148170_KO0,58_KE59,67.htm?jl=1010296053026&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/supply-chain-optimization-data-scientist-senior-consultant-denver-co--de6abc16-0928-491e-a8e9-dd1ee6276091?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/fqKfTtd3wKzywSNVrf9jkxkYr_v6MVHR-GWJrwHM3nsXscrEUKT5QQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://jooble.org/jdp/-7417199955986031825?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdXBwbHkgQ2hhaW4gT3B0aW1pemF0aW9uIERhdGEgU2NpZW50aXN0IFNlbmlvciBDb25zdWx0YW50IiwiY29tcGFueV9uYW1lIjoiRGVsb2l0dGUiLCJodGlkb2NpZCI6InNvOW0tRnNSSmJVa2FtZDlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXazVCYVcxc2VVcFFkak5FVEhVdFNqVkRZMjE2VW1KUmJuSktiekZGWWtkS1pERTJNeTFhU1ROaFpYRlBjMUpvWldodlIxbzVUMmd5Y1VWUFdrNWxhVTV5ZW1kWFNtdFJaRFJSUnpKSVkwRkRjbGN4WldaWExXcHhVVlIyUW0xVGNFSm1kMmhKTWt4MVExOWtTa3RZZVRKeVZteDJMVWgxVnpOc1ZWOWxZbU5UV1hVeVVXTVNGMlpSY214aGNDMWpUR1psWW5kaWExQnZkbEJRYTBGTkdpSkJTRTR3UlRkRmNUZGhOV3BrUmpKck1EZHVRWEV5ZWxkaFNVcFpTblpFUlVoQiIsImZjdiI6IjMiLCJmY19pZCI6InNvOW0tRnNSSmJVa2FtZDlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Data Science Consultant",
+      "company_name": "Sia Partners",
+      "location": "United States (+1 other)",
+      "via": "We Are Distributed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=kjcZiaO373IDTwipAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CYJws2AiQhcdFQQnITiXazySSHpXcif0P_xhdXnj6z6rrg_ERRpc0BBCLMSR4Cys72rIBju4yQhK2GIGYbiKpErrUzab9ei9anVJDa1EF2XywjTK4l8y6p9BMzaaKxoNh36_uJnTdhMKwh2bMTWFwvDgYvSE8GtIv06vvlOWAAAA&shmds=v1_Ac3VAow3JQyRM6PyNy-UIfiNyA1PL3141CZbDnrU7ehXUnoBzQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=kjcZiaO373IDTwipAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a7caaf72d7ee6419a5e/images/1cBXlk4fQeDw4tAc8JGuHPZ8ivOQvEsPmbclk9J2E1I.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://wearedistributed.org/job/senior-data-science-consultant-aw0ph",
+      "job_title": "Senior Data Science Consultant",
+      "description": "Senior Data Science ConsultantFull-timeCompany DescriptionSia is a next-generation, global management consulting group born digital, augmented by data, enhanced by creativity, and driven by responsibility. We partner with clients to resolve challenges and capitalize on opportunities. We believe that in today’s world of change and disruption, optimism is a force multiplier.Job DescriptionTo support our growth, we are recruiting Senior Consultants specializing in advanced analytics and Generative AI solutions. You will lead client engagements from strategy through execution, manage stakeholders, and guide project teams toward impactful delivery.ResponsibilitiesDevelop and oversee advanced predictive and explanatory models (Machine Learning, econometrics, optimization, and time-series forecasting).Lead innovative projects leveraging Generative AI and large language models (LLMs).Manage client engagements as a trusted advisor, providing strategic recommendations to middle and senior management.Guide multidisciplinary project teams, mentoring team members and ensuring impactful project delivery.Within Sia, you will:Contribute to enhancing Sia’s Data Science and Generative AI offerings through internal training sessions, working groups, and publications.Represent Sia at professional events, actively contributing to thought leadership (articles, white papers, webinars).Support business development by crafting proposals, identifying collaboration opportunities, and nurturing long-term client relationships.Your profileStrategic thinker with strong analytical skills and a proactive approach.Experienced in clearly communicating complex ideas to varied audiences.Effective at managing multiple stakeholders and guiding project teams.Demonstrated ability to mentor and develop colleagues.Interested in applying innovative analytics and AI solutions to drive sustainability and create meaningful business impact.QualificationsCompleted WO Master's degree in Data Science, Econometrics, Applied Mathematics, Computer Science, (Energy) Engineering, or a related technical field involving substantial programming.3-6 years of relevant professional experience (or equivalent academic research).Strong analytical mindset with the ability to explore options systematically and synthesize actionable insights.A fast learner who demonstrates strong communication skills, adaptability, and entrepreneurial drive.Fluency in English and Dutch, with excellent communication and presentation abilities. And French fluency is a plus.You have a strong interest in data and AI-related topics, the ability to quickly build expertise in these areas, and you’re excited about helping our clients seize the opportunities they offer.Proven interest in Data Science, Generative AI, and relevant sectors such as Energy and Finance.What do we offer?Competitive salary package, including annual salary increase, bonuses.Tailored training and development opportunities to position you as an expert in your field.Flexible working arrangements (office, home, client sites) and international project exposure.Collaborative global environment for professional development and knowledge sharing.Additional InformationUnfortunately, we are unable to provide a work permit for this position.Sia is an equal opportunity employer. Employment decisions—including hiring, promotion, remuneration, or disciplinary actions—are based solely on performance, competence, conduct, and business needs.Sia is an equal opportunity employer. All aspects of employment, including hiring, promotion, remuneration, or discipline, are based solely on performance, competence, conduct, or business needs.By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party website's terms and privacy policy applyJob LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Notice",
+      "apply_options": [
+        {
+          "title": "We Are Distributed",
+          "link": "https://wearedistributed.org/job/senior-data-science-consultant-aw0ph?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "USA Remote Jobs Mysmartpros",
+          "link": "https://remoteworld.mysmartpros.com/job/data-science-solution-consultant-senior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://nl.jooble.org/rjdp/-3580864759679022153?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.nl/job-listing/jv?jl=1009635082294&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/senior-data-science-consultant-sia-JV_KO0,30_KE31,34.htm?jl=1009635082294&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NoGigiddy",
+          "link": "https://www.nogigiddy.com/jobs/senior-data-science-consultant-sia-9ivaw9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/nl/jobs/senior-data-science-consultant-sia-amsterdam-oost--t7xk-869582821?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbmNlIENvbnN1bHRhbnQiLCJjb21wYW55X25hbWUiOiJTaWEgUGFydG5lcnMiLCJodGlkb2NpZCI6ImtqY1ppYU8zNzNJRFR3aXBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVzVtUkU1UE56VktlWGhUVVc5RVNFOVJVV1V0T1doR1J6ZGxORWt6ZUd0SlFrSmxZWEpaZG05eFprZFNkbFpIYkRBeVZUSXlhVVpvVjNWdllTMHlMV2RKYkc4NFNFNHlaRFZwVVdOMmQwaFpVVGh4TVZvMlZHSnBNR1pyV1dSMFJWSlpia3RJYjBReFUyTnFja2xZV0VoQmRYVm9RMGRKZUY5NFgzQXhVM0Z4VVhOUmJUUVNGMlpSY214aGNDMWpUR1psWW5kaWExQnZkbEJRYTBGTkdpSkJTRTR3UlRkSVpWZElUbTQ1YjFCM1IyWjRWVEpGZGpkQmQyUTFlVmxyUW1KMyIsImZjdiI6IjMiLCJmY19pZCI6ImtqY1ppYU8zNzNJRFR3aXBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Scientist - Analytics Business Consulting",
+      "company_name": "OpenKrill",
+      "location": "United States",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "2+ years of proven experience in data science, advanced analytics, or machine learning roles, preferably within Life Sciences, pharmaceuticals, or healthcare analytics",
+            "Strong problem-solving and communication skills, with a track record of collaborating effectively across cross-functional teams",
+            "Skilled at translating complex technical challenges to non-technical stakeholders, driving impactful problem-solving sessions, and championing a pragmatic approach to solution design",
+            "Strong technical expertise across Python, SQL, advanced analytics, machine learning, and AI, with a proven ability to design and implement predictive models and intelligent algorithms that solve complex business problems",
+            "You bring Experience writing process documentation, technical specifications, and data collection guidelines to ensure quality, scalability, and repeatability across projects",
+            "Knowledge of Veeva products",
+            "Experience delivering SaaS or Tech-enabled consulting solutions",
+            "M.S. or Ph.D. in Computer Science, Statistics, Data Science, Mathematics, or a related quantitative field",
+            "Languages in addition to English",
+            "Understanding of healthcare, life sciences, or pharmaceutical industry data",
+            "Experience with data visualization tools to create dashboards and reports",
+            "Understanding of data engineering concepts (ETL, data pipelines) and automation tools such as Apache Airflow",
+            "Familiarity with cloud based computing resources such as AWS",
+            "A practical case exercise"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: Highly competitive salary and equity in Veeva",
+            "Growth: Unrivalled career progression in a fast-growing, global team",
+            "You can work from home or the office on any given day",
+            "Compensation",
+            "Total compensation: 48,000 - 75,000 EUR"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Scientist in our EU Analytics practice, you will help customers bring treatments to patients faster by transforming how they work with Technology, Data, and AI",
+            "You will focus on reshaping operating models, driving organizational change, and measuring tangible business value",
+            "You will play a pivotal role in building advanced analytical models and methodologies, integrating Veeva Data Cloud products with complex European healthcare data assets",
+            "You will drive innovation across our analytical offerings, ensuring Veeva remains at the forefront of data-led, tech-enabled Life Sciences commercial models",
+            "You will also collaborate closely with cross-functional teams to bridge technical modeling with practical business insights across European markets",
+            "You will take ownership of any of our analytics assets (e.g., design solution, manage expectations, status accountancy, impact measurement)",
+            "Design, prototype, and scale advanced analytics solutions for Life Sciences customers across European markets",
+            "Process, harmonize, and connect Veeva Data Cloud products with diverse European healthcare data assets",
+            "Develop and apply statistical methodologies, machine learning, and AI models to solve complex, high-impact commercial and strategic business questions in the Life Sciences space",
+            "Build and design HCP precision engagement engines that connect disparate healthcare datasets integrated seamlessly with customer CRM information to enable personalized, data-driven targeting and activation",
+            "Collaborate closely in integrated, cross-functional teams alongside product managers, data engineers, operations, and consultants to deliver end-to-end analytical solutions and ensure continuous feedback and iteration",
+            "Maintain clear documentation of data methodologies, model architectures, and validation processes to ensure defensibility, scalability, and transparency across client engagements"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=0N_fVDR8j79qsj7SAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAyAYVz7CJ0yC_ZEcNFJqwg6OBTncj3DNXImR5NCfRsf1br8yw9f8V0U55M3D00gZCM1WMGBffoYBYXjqMSoCrWwjsmI4_yv0oGiH0IPwnARiQnLfW-Wdeecaqqimp-BKsjbCWMnk3tJp_-02vsBc_KG7Wa7nqrMcVneM_JtoJSAGB5Mhk9oZgP1B9OCoPyjAAAA&shmds=v1_Ac3VAoyXhc638iapGKyiESFMV3K8sXe3S8BSWKgFijiLT8wgIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=0N_fVDR8j79qsj7SAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "54K–84K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/data-scientist-analytics-business-consulting--united-states--ef0d05ff77054137414233433218f0e5c",
+      "job_title": "Data Scientist - Analytics Business Consulting",
+      "description": "Veeva is building the industry cloud for Life Sciences through software, data, AI, and business consulting working together. Learn more about our products, vision, values, and status as a Public Benefit Corporation (PBC) on our website.\n\n\nConsulting is changing, and we're not like other firms. Launched in 2019, Veeva Business Consulting has grown quickly and organically to over 500 global experts who combine deep domain knowledge with innovative technology to help Life Sciences companies work in a more efficient and connected way.\n\n\nWe are growing aggressively as we look towards 2030. We are seeking great people to help shape the future of the industry with the world's leading software, data, AI, and expertise at their back.\n\n\nThe Role\nAs a Data Scientist in our EU Analytics practice, you will help customers bring treatments to patients faster by transforming how they work with Technology, Data, and AI. You will focus on reshaping operating models, driving organizational change, and measuring tangible business value.\n\n\nYou will play a pivotal role in building advanced analytical models and methodologies, integrating Veeva Data Cloud products with complex European healthcare data assets. You will drive innovation across our analytical offerings, ensuring Veeva remains at the forefront of data-led, tech-enabled Life Sciences commercial models. You will also collaborate closely with cross-functional teams to bridge technical modeling with practical business insights across European markets. You will take ownership of any of our analytics assets (e.g., design solution, manage expectations, status accountancy, impact measurement).\n\n\nWhat You'll Do\n\nDesign, prototype, and scale advanced analytics solutions for Life Sciences customers across European markets\nProcess, harmonize, and connect Veeva Data Cloud products with diverse European healthcare data assets\nDevelop and apply statistical methodologies, machine learning, and AI models to solve complex, high-impact commercial and strategic business questions in the Life Sciences space\nBuild and design HCP precision engagement engines that connect disparate healthcare datasets integrated seamlessly with customer CRM information to enable personalized, data-driven targeting and activation\nCollaborate closely in integrated, cross-functional teams alongside product managers, data engineers, operations, and consultants to deliver end-to-end analytical solutions and ensure continuous feedback and iteration\nMaintain clear documentation of data methodologies, model architectures, and validation processes to ensure defensibility, scalability, and transparency across client engagements\n\nRequirements\n\n2+ years of proven experience in data science, advanced analytics, or machine learning roles, preferably within Life Sciences, pharmaceuticals, or healthcare analytics\nStrong problem-solving and communication skills, with a track record of collaborating effectively across cross-functional teams. Skilled at translating complex technical challenges to non-technical stakeholders, driving impactful problem-solving sessions, and championing a pragmatic approach to solution design\nStrong technical expertise across Python, SQL, advanced analytics, machine learning, and AI, with a proven ability to design and implement predictive models and intelligent algorithms that solve complex business problems\nYou bring Experience writing process documentation, technical specifications, and data collection guidelines to ensure quality, scalability, and repeatability across projects\n\nNice to Have\n\nKnowledge of Veeva products\nExperience delivering SaaS or Tech-enabled consulting solutions\nM.S. or Ph.D. in Computer Science, Statistics, Data Science, Mathematics, or a related quantitative field\nLanguages in addition to English\nUnderstanding of healthcare, life sciences, or pharmaceutical industry data\nExperience with data visualization tools to create dashboards and reports\nUnderstanding of data engineering concepts (ETL, data pipelines) and automation tools such as Apache Airflow\nFamiliarity with cloud based computing resources such as AWS\n\nInterviewing with Veeva\nWe value your time and believe in a transparent hiring process. Here is the process you can expect.\n\n\n\nWithin 3 days, you will receive a link to a personality assessment administered by a third party.\nOnce you complete the assessment, our team will review your full application package and follow up via email with our decision.\nIf moving to the interview stage, the process is as follows:\n\nA conversation with the hiring manager\nA practical case exercise\nA final conversation with our group's Senior Leader.\nOnce all interviews are complete, the manager will be in touch with a final decision.\n\n\n\nPerks & Benefits\n\nCompensation: Highly competitive salary and equity in Veeva\nGrowth: Unrivalled career progression in a fast-growing, global team\nFlexibility: Veeva is a Work Anywhere company. You can work from home or the office on any given day\n\nCompensation\n\nTotal compensation: 48,000 - 75,000 EUR\n\nVeeva's headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.\n\n\n#RemoteSpain\n\n\n#LI-Associate\n\n\nAs an equal opportunity employer, Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.\n\n\nIf you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at talent_accommodations@veeva.com.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-scientist-analytics-business-consulting--united-states--ef0d05ff77054137414233433218f0e5c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Media Jobs Report",
+          "link": "https://jobs.mediajobsreport.com/jobs/780760390-data-scientist-business-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NoGigiddy",
+          "link": "https://www.nogigiddy.com/jobs/data-scientist-business-analytics-spotify-1fko55b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFH Beacon",
+          "link": "https://wfhbeacon.up.railway.app/job/data-scientist-business-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobFlow",
+          "link": "https://jobflow.r3k.liveblog365.com/remote-jobs/data-scientist-analytics-business-consulting-ca657565?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFZone",
+          "link": "https://wfzone.l4x.html-5.me/remote-jobs/data-scientist-analytics-business-consulting?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "No Mondays",
+          "link": "https://nomondays.io/us/jobs/sr-data-scientist-business-analytics-47195/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-data-scientist-analytics-business-consulting-united-states-veeva?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIEFuYWx5dGljcyBCdXNpbmVzcyBDb25zdWx0aW5nIiwiY29tcGFueV9uYW1lIjoiT3BlbktyaWxsIiwiaHRpZG9jaWQiOiIwTl9mVkRSOGo3OXFzajdTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2tGZlMydzFkMk5JWjBNeFowSlBZMTgyVkhCMVFWWTNiRmR5TkU1bVZGYzBkREZmZDA5VFRrTm9aVk5sUVROMVducEdNa3RQTm1sVVpXcFFOR3BoYVd4U2VXcFdiVzV6YjBzMFVtTmxObmx0WVRSMU4wMTNXVlJWU0VnNWVGcHhVRXhQUW0xS1Jrb3pUbGRKVlVFNWNtZE5WbU5CU1hsekxXSnhTVE01U0ZVNWFHdFRVRUlTRjJaUmNteGhjQzFqVEdabFluZGlhMUJ2ZGxCUWEwRk5HaUpCU0U0d1JUZElTM28zTVhWb2F6aEJXVmt5VnpsUVUxWkhOVGh1VFVoUlVtUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiIwTl9mVkRSOGo3OXFzajdTQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI & Data Decision Science Consultant - Utilities",
+      "company_name": "Accenture",
+      "location": "Denver, CO",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This role requires a blend of strong analytical mindset, technical expertise, and the ability to communicate complex findings for both technical and non-technical stakeholders to deliver innovative solutions aligned with Accenture's commitment to driving 360° value for clients",
+            "Minimum of 3 years of experience in Data Science, Machine Learning, AI, or Advanced Analytics",
+            "Minimum of 3 years of experience building decision-based frameworks and models to drive insights",
+            "Minimum of 1 year of experience serving utilities clients (electric, gas, or water) or in a utilities finance, controllership, or regulatory function",
+            "Bachelor's degree or equivalent (minimum 12 years' work experience)",
+            "If Associate’s Degree, must have equivalent minimum 6-year work experience",
+            "You have a proven track record of developing and implementing data-driven solutions",
+            "You have proficiency in programming languages such as Python, R, or SQL",
+            "You have experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn)",
+            "You have strong analytical and problem-solving skills",
+            "You have experience with AI Native and cloud platforms (e.g., Open AI, Anthropic, AWS, Azure, Google Cloud)",
+            "You have knowledge of big data technologies (e.g., Hadoop, Spark)",
+            "You have familiarity with data visualization tools (e.g., Tableau, Power BI)",
+            "You have strong program management and communication skills, both verbal and written",
+            "You have experience bringing innovative ideas to projects",
+            "You have a Master’s degree in Data Science, Computer Science, Statistics, or a related field",
+            "Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience",
+            "Accenture offers a market competitive suite of benefits including medical, dental, vision, life, and long-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off",
+            "Employee Benefits | Accenture",
+            "Role Location Annual Salary Range",
+            "California $70,350 to $205,800",
+            "Colorado $63,800 to $177,800",
+            "Connecticut $63,800 to $177,800",
+            "Illinois $59,100 to $177,800",
+            "Maine $54,400 to $151,400",
+            "Maryland $63,800 to $177,800",
+            "Massachusetts $63,800 to $189,300",
+            "Minnesota $63,800 to $177,800",
+            "New York $66,300 to $205,800",
+            "New Jersey $68,000 to $205,800",
+            "Ohio $59,100 to $164,600",
+            "Virginia $59,100 to $189,300"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will be responsible for leveraging advanced analytics, machine learning, and AI technologies to create decision-making systems",
+            "Assist in the delivery of Data Science, Artificial Intelligence, Analytics initiatives/programs",
+            "Collaborate with onshore and offshore teams to execute projects",
+            "Understand and be able to bridge between business and technical domains (for both internal and external purpose)",
+            "Engage with business and analytics stakeholders to understand their needs and build relationships",
+            "Support the sales process by contributing to sales solutioning for DS & ML related opportunities",
+            "Develop and customize DS / ML / AI / Analytics models and solutions for specific business problems within an industry or function",
+            "Collaborate across Accenture’s network and partner with strategy, consulting, and tech teams in the sales and delivery processes",
+            "Identify AI use cases in an industry and/or function by understanding an organization's goals and areas of need, developing the business case, determining ROI, and creating the transformation roadmap",
+            "Advise organization on adoption of responsible AI solutions and governance by training users on new processes, maintaining solutions, tracking results, and communicating the realized value",
+            "Ability to travel up to 80%; travel as needed based on client expectations"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=XuXpkTbAaofHJzdRAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOuwrCUAxAcfUHBKdMDqKtCC46lRZ8LA7iXG5DaCPXpNyk0s_xU63L4QxnOPPvbH4prrCCKniAipCNVeCBTIIEpYoN0YM4bOHpHNmZbPKbNmAUEnYw5WfVNtLy1Ln3dsxzs5i15sEZM9R3rkKNjvlLG_ujti4k6mNwqveH3Zj10q4XBSKJD4mAZTqRD6UNlPcfSq7ZpqMAAAA&shmds=v1_Ac3VAowdWz1jKT7qAsJAjYywkWOaRyNuDdtcaaDkUZ08Xh_J8A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=XuXpkTbAaofHJzdRAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50a7caaf72d7ee6419a5e/images/XoAT-xyVzt0GFfdSzjGhoSfU1QsDC38-owCrqukN9CU.jpeg",
+      "extensions": [
+        "59.1K–206K a year",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=4f492b33152c0d51",
+      "job_title": "AI & Data Decision Science Consultant - Utilities",
+      "description": "We Are:\n\n\n Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth, and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 774,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, AI and data with unmatched industry experience, functional expertise, and global delivery capability. We are uniquely able to deliver tangible outcomes because of our broad range of services, solutions and assets across Consulting, Strategy, Technology, Operations, Industry X and Song. These capabilities, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners, and communities. Visit us at accenture.com.\n\n\n \n\n\n In Consulting, we work with C-suite executives, leaders and boards of the world’s leading organizations, helping them reinvent every part of their enterprise to drive greater growth, enhance competitiveness, implement operational improvements, reduce cost, deliver sustainable 360° stakeholder value, and set a new performance frontier for themselves and the industry in which they operate. Our deep industry and functional expertise is supported by proprietary assets and solutions that help organizations transform faster and become more resilient.\n\n\n \n\n\n  You Are:\n\n\n Our Decision Science practitioners use Industry & Functional domain expertise along with agentic AI knowledge to design, develop and reinvent processes with AI to drive efficiency and growth.\n\n\n \n\n\n You will be responsible for leveraging advanced analytics, machine learning, and AI technologies to create decision-making systems.\n\n\n \n\n\n This role requires a blend of strong analytical mindset, technical expertise, and the ability to communicate complex findings for both technical and non-technical stakeholders to deliver innovative solutions aligned with Accenture's commitment to driving 360° value for clients.\n\n\n \n\n\n  The Work:\n\n\n As an AI & Data Decision Science Consultant, you will:\n\n\n \n  \n   Assist in the delivery of Data Science, Artificial Intelligence, Analytics initiatives/programs\n\n\n  \n   Collaborate with onshore and offshore teams to execute projects.\n\n\n  \n   Understand and be able to bridge between business and technical domains (for both internal and external purpose)\n\n\n  \n   Engage with business and analytics stakeholders to understand their needs and build relationships.\n\n\n  \n   Support the sales process by contributing to sales solutioning for DS & ML related opportunities.\n\n\n  \n   Develop and customize DS / ML / AI / Analytics models and solutions for specific business problems within an industry or function.\n\n\n  \n   Collaborate across Accenture’s network and partner with strategy, consulting, and tech teams in the sales and delivery processes.\n\n\n  \n   Identify AI use cases in an industry and/or function by understanding an organization's goals and areas of need, developing the business case, determining ROI, and creating the transformation roadmap.\n\n\n  \n   Advise organization on adoption of responsible AI solutions and governance by training users on new processes, maintaining solutions, tracking results, and communicating the realized value.\n\n\n \n \n\n\n Ability to travel up to 80%; travel as needed based on client expectations.\n\n\n\n\n\n\n Here’s What You Need:\n\n\n \n  Minimum of 3 years of experience in Data Science, Machine Learning, AI, or Advanced Analytics.\n  Minimum of 3 years of experience building decision-based frameworks and models to drive insights.\n  Minimum of 1 year of experience serving utilities clients (electric, gas, or water) or in a utilities finance, controllership, or regulatory function.\n  Bachelor's degree or equivalent (minimum 12 years' work experience). If Associate’s Degree, must have equivalent minimum 6-year work experience\n \n \n\n    Bonus points if:\n\n\n \n  You have a proven track record of developing and implementing data-driven solutions.\n  You have proficiency in programming languages such as Python, R, or SQL.\n  You have experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).\n  You have strong analytical and problem-solving skills.\n  You have experience with AI Native and cloud platforms (e.g., Open AI, Anthropic, AWS, Azure, Google Cloud).\n  You have knowledge of big data technologies (e.g., Hadoop, Spark).\n  You have knowledge of agent-based modeling, reinforcement learning, and autonomous systems is highly desirable.\n  You have familiarity with data visualization tools (e.g., Tableau, Power BI).\n  You have strong program management and communication skills, both verbal and written.\n  You have experience bringing innovative ideas to projects.\n  You have a Master’s degree in Data Science, Computer Science, Statistics, or a related field.\n \n \n\n   Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.\n\n   We anticipate this job posting will be posted until 10/08/2026.\n\n\n\n \n\n Accenture offers a market competitive suite of benefits including medical, dental, vision, life, and long-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off. See more information on our benefits here: U.S. Employee Benefits | Accenture\n\n\n \n\n   Role Location Annual Salary Range\n\n\n California $70,350 to $205,800\n\n\n Colorado $63,800 to $177,800\n\n\n Connecticut $63,800 to $177,800\n\n\n District of Columbia $68,000 to $189,300\n\n\n Illinois $59,100 to $177,800\n\n\n Maine $54,400 to $151,400\n\n\n Maryland $63,800 to $177,800\n\n\n Massachusetts $63,800 to $189,300\n\n\n Minnesota $63,800 to $177,800\n\n\n New York $66,300 to $205,800\n\n\n New Jersey $68,000 to $205,800\n\n\n Ohio $59,100 to $164,600\n\n\n Virginia $59,100 to $189,300\n\n\n Washington $80,200 to $189,300\n\n\n  Requesting an Accommodation\n\n\n Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.\n\n\n If you would like to be considered for employment opportunities with Accenture and have accommodation needs such as for a disability or religious observance, please call us toll free at 1 (877) 889-9009 or send us an email or speak with your recruiter.\n\n\n \n\n\n \n\n    Equal Employment Opportunity Statement\n\n\n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.\n\n\n For details, view a copy of the Accenture Equal Opportunity Statement\n\n\n Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.\n\n\n Accenture is committed to providing veteran employment opportunities to our service men and women.\n\n\n \n\n\n \n\n    Other Employment Statements\n\n\n Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.\n\n\n Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.\n\n\n Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.\n\n\n The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.\n\n\n California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.\n\n\n Please read Accenture’s Recruiting and Hiring Statement for more information on how we process your data during the Recruiting and Hiring process.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=4f492b33152c0d51&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/insurance-industry-function-ai-decision-science-consultant-denver-co--11c168f9-4e9a-46ee-aa06-54b180d78b54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/ai-data-decision-science-consultant-utilities-denver-co--238029e6-ab09-42cd-a538-1afa13d065c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/insurance-industry-function-ai-decision-science-consultant-accenture-denver-co_89477554?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/ai-and-data-decision-science-consultant-utilities-accenture-JV_IC1148170_KO0,49_KE50,59.htm?jl=1010200870649&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/cxodmeNsH9WnzjyBzh5w7eq-CNL4mvNjMgVHL020Myd94q9ioTQlFw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EarnBetter",
+          "link": "https://earnbetter.com/app/job/01KXNYJ065FZZVSE18WCBKSN6C/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/2f8708f5-bd90-47ac-a5d6-e81b54643005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBcdTAwMjYgRGF0YSBEZWNpc2lvbiBTY2llbmNlIENvbnN1bHRhbnQgLSBVdGlsaXRpZXMiLCJjb21wYW55X25hbWUiOiJBY2NlbnR1cmUiLCJodGlkb2NpZCI6Ilh1WHBrVGJBYW9mSEp6ZFJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVzlVZVdGWGRuVm5ZM3BIWW1vMU4zUlJObWRuYW5OdGNrRTVORk5JVEhKUlZXSTBRbTgxV2xSUGVUZHFhVlpUY2xOSlpGSTVNV1pTYjBSaVNYQnBOWFpIVkdaV1ZGSkhjM0pYU0hCSVEwUmFTVjlIV1dkRlluWlhaV296V1RCRmVsUmtURUZQUTFSeFNXbHlOM0p2ZEhaUlJXSmpielZMVUc4emJTMXlhV3N0UjBReldYa1NGMlpSY214aGNDMWpUR1psWW5kaWExQnZkbEJRYTBGTkdpSkJTRTR3UlRkSFNqZExPRkV3TlhwWFdrcDBOMHBaY1hCUFQwWTNWRkJxUmw5MyIsImZjdiI6IjMiLCJmY19pZCI6Ilh1WHBrVGJBYW9mSEp6ZFJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Science Consulting",
+      "company_name": "MathCo",
+      "location": "United States",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This role requires strong domain understanding, consulting mindset, and storytelling ability to influence decision-making",
+            "Strong consulting mindset with the ability to translate business problems into analytical solutions",
+            "Excellent stakeholder management and communication skills, especially in client-facing roles",
+            "Strong storytelling and presentation skills to convey insights to senior leadership",
+            "Ability to work in cross-functional teams and manage ambiguity effectively",
+            "Experience in the pharmaceutical or life sciences industry is required",
+            "Familiarity with use cases such as commercial analytics, patient analytics, market access, or brand analytics",
+            "Understanding of pharma data sources such as claims, EMR/EHR, Rx, and market access datasets (IQVIA, Symphony, MMIT, etc.)",
+            "Basic understanding of data science and analytics concepts (statistics, modeling approaches, etc.)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role focuses on problem-solving, stakeholder engagement, and translating business needs into analytics solutions, rather than deep hands-on model development",
+            "The ideal candidate will act as a bridge between business stakeholders and analytics teams, guiding analytical approaches, interpreting outputs, and delivering actionable insights",
+            "Work closely with client stakeholders to understand business challenges and translate them into structured analytical approaches",
+            "Define and guide analytics use cases such as patient journey, forecasting, segmentation, promotional effectiveness, and market access insights",
+            "Collaborate with data science and engineering teams to drive solution development and ensure alignment with business goals",
+            "Interpret analytical outputs and translate them into clear, actionable insights and strategic recommendations",
+            "Present insights to senior stakeholders and support decision-making through data-driven storytelling",
+            "Ensure analytics solutions are aligned with pharma business processes and domain context",
+            "Drive client engagement, requirement gathering, and solution discussions in a consulting setup",
+            "Contribute to problem structuring, solution design, and delivery oversigh"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=aZBEiCV-hLkMrKxgAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7A4LTzYKJCC46VhAEp-JcLvFIIuld6J3QL_C71eWNr_usOndBQxhiIY4EvbC-qxVOsIObBFDCOWYQhqtIqrQ5Z7OmJ-9Vq0tqaCW6KJMXpiCLf0nQP6NmnKlVNBoPx_3iGqft-o6We4HC8OBi9IThF5B-AWWDJZKJAAAA&shmds=v1_Ac3VAozkVwMw8MH3Jh0lSvQcTUsmIBLfsZ8WnZGqdqnpt6Apxw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=aZBEiCV-hLkMrKxgAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABQYBAwcE_8QAJxAAAQQBBAEEAwEBAAAAAAAAAQACAwQRBRITIRQGMUFRFSIyggf_xAAZAQEAAgMAAAAAAAAAAAAAAAAAAgMBBAX_xAAcEQEAAgMAAwAAAAAAAAAAAAAAARECElEDE0H_2gAMAwEAAhEDEQA_AOOoiLsNgREQEREBERBsihfK5ga04e8MDiOsn4ytuoUZ9PvW6c4BkqTuglczJbvaSOj_AJOFOeldSrUa9iK3ctPjnlYBpkTRsndkEOc9wIYAestG_wCsKU_6JrMOpW7MDLD6kla_IyxpkUY4HSguD52vAG7JB_sbv26OFVOeW9UhtN0p_wCPveU-r4VnyY27nw8Lt7RjOS3GQMdrzLq0vrTRH65buNld5c4nqPslh2OrBsjoyPncXGNnt7MCjINU9NUBSt12aWRBapPgY2s82GRtzz8pIw52exgn2GFGPLl9xNp45_xScXNxv4i7Zv2nbuxnGfvHwtvg3PC87w7Hh7tvkcTuPP1uxjKvcesaI176WoO0mzVsapJJMYa7wyOF0LQHMyAWuyOyBnIKjrepQWNPZah9QvrRN0ltP8Wxjy_kEews2kbONzv3Ls57PW5Z9k8NpU1FbPV0ugPoRjSPC3-RmsK0T2PZW2fzOXdOk3be-_Z3eCAisxy2i0om1TWSSTk9krCKTIiIgIiICIiAiIgIiICIiAiIg__Z.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://talents.vaia.com/companies/mathco/data-science-consulting-133221286/",
+      "job_title": "Data Science Consulting",
+      "description": "OverviewWe are looking for a Data Science Consultant with strong expertise in the Pharmaceutical or Life Sciences domain to drive data-driven decision-making for global pharma clients. This role focuses on problem-solving, stakeholder engagement, and translating business needs into analytics solutions, rather than deep hands-on model development. The ideal candidate will act as a bridge between business stakeholders and analytics teams, guiding analytical approaches, interpreting outputs, and delivering actionable insights. This role requires strong domain understanding, consulting mindset, and storytelling ability to influence decision-making.\n\nRoles & ResponsibilitiesWork closely with client stakeholders to understand business challenges and translate them into structured analytical approaches.Define and guide analytics use cases such as patient journey, forecasting, segmentation, promotional effectiveness, and market access insights.Collaborate with data science and engineering teams to drive solution development and ensure alignment with business goals. Interpret analytical outputs and translate them into clear, actionable insights and strategic recommendations.Present insights to senior stakeholders and support decision-making through data-driven storytelling.Ensure analytics solutions are aligned with pharma business processes and domain context.Drive client engagement, requirement gathering, and solution discussions in a consulting setup.Contribute to problem structuring, solution design, and delivery oversighSkills RequiredStrong consulting mindset with the ability to translate business problems into analytical solutions.Excellent stakeholder management and communication skills, especially in client-facing roles.Strong storytelling and presentation skills to convey insights to senior leadership.Ability to work in cross-functional teams and manage ambiguity effectivelyExperience in the pharmaceutical or life sciences industry is required.Familiarity with use cases such as commercial analytics, patient analytics, market access, or brand analytics.Understanding of pharma data sources such as claims, EMR/EHR, Rx, and market access datasets (IQVIA, Symphony, MMIT, etc.).Basic understanding of data science and analytics concepts (statistics, modeling approaches, etc.).Familiarity with tools such as Python, SQL, or visualization tools is a plus, but not mandatory. #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/mathco/data-science-consulting-133221286/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-science-intern-algorithms_7ea1ac0473837ecdaf2afec946ce3479a143d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hollylist",
+          "link": "https://www.hollylist.com/job/intern-fpa-streaming-summer-2025-FXwYdS9wQYygqNqy3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobVista",
+          "link": "https://jobvista.app/jobDetails.php?key=e82be97d50fa31e032f4789c6685ef05&id=31328&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgQ29uc3VsdGluZyIsImNvbXBhbnlfbmFtZSI6Ik1hdGhDbyIsImh0aWRvY2lkIjoiYVpCRWlDVi1oTGtNckt4Z0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdtMVZVVGRpTnpac2VrVjJUMEpyWTJGemRqTk1lWEUyT0ZSZlh6ZDNPRUkxUkZkTWRXVTJPRGMwUTBWRFdYVTRWR2xZWDJJNVdraGpjMFZDVm1GRVJubHRRamg2YkZScVlUTjBhbVl3UlRoR1EwcFVSV0psUVRkNFZrVjRjbEZrYzI1YVlYbDRWRkZPV0hsbVpEZ3pUVGRqY1dnME1VUk1WRFl5WVV3NFJVRjJlVkZUWVhZU0YyWlJjbXhoY0MxalRHWmxZbmRpYTFCdmRsQlFhMEZOR2lKQlNFNHdSVGRGV1RGR1VYb3dkMVpFVUdsQlRUZEdOemhvZUZWdFRGaFZaSE5SIiwiZmN2IjoiMyIsImZjX2lkIjoiYVpCRWlDVi1oTGtNckt4Z0FBQUFBQT09In0="
+    },
+    {
+      "title": "Remote Data Scientist – Life Sciences Analytics Consulting",
+      "company_name": "OpenKrill",
+      "location": "Anywhere",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You’ll build advanced models, integrate Veeva Data Cloud with European data assets, and drive measurable business value across markets",
+            "You will work with product managers, data engineers, and consultants to deliver end-to-end analytic solutions and ensure scalable, defensible methods across client engagements"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=qzltfYOExdAbq-LiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWMMQrCQBAAsc0TUm0tmBPBRitREFQQDNbhcq6Xk8vukV0hdv7Bf_goX2LEZoqBmew9ysoTtqwIG6sWSheQNIjC5_mCQ7jiXzkUWJGNDw1OYM0k96iBPExgxzUI2s41wARbZh8xXzaqSRbGiMTCi9qhKxy3hglr7s2Na_mhksZ2mKJVrGbzaV8k8uP8mJD2XYgRAsGZguIFyuGB8gWV0FcusQAAAA&shmds=v1_Ac3VAoxOR_fDTlh0t3HLa0kW5U_FEt4XfYMtXkR8BTvtV-l78Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=qzltfYOExdAbq-LiAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "54K–84K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/remote-data-scientist-life-sciences-analytics-consulting--united-states--e06f8b69e2d7e99dbdfe9bcf3274018a0",
+      "job_title": "Remote Data Scientist – Life Sciences Analytics Consulting",
+      "description": "Veeva, a leader in Life Sciences software, seeks a Data Scientist for its EU Analytics practice to transform how customers leverage Technology, Data, and AI. You’ll build advanced models, integrate Veeva Data Cloud with European data assets, and drive measurable business value across markets.\n\nYou will work with product managers, data engineers, and consultants to deliver end-to-end analytic solutions and ensure scalable, defensible methods across client engagements.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/remote-data-scientist-life-sciences-analytics-consulting--united-states--e06f8b69e2d7e99dbdfe9bcf3274018a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-modeler-commercial-life-sciences-remote-akaasa-technologies--techmap_us_90ca693f-2135-4c53-a41f-ba0e79c1767e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBTY2llbnRpc3Qg4oCTIExpZmUgU2NpZW5jZXMgQW5hbHl0aWNzIENvbnN1bHRpbmciLCJjb21wYW55X25hbWUiOiJPcGVuS3JpbGwiLCJodGlkb2NpZCI6InF6bHRmWU9FeGRBYnEtTGlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVTlRUWxsVFZETTRkRWR0V0RWRVVWRnhaV2hTZUVsNU1Ib3hMVkpYYURCclRXMWtkSEpRUmpFeVZFNDJRemRRTlZsTlgwTmtOSFJWY1RkTk4wZEdRMkl4UVU5elQwWkpTWEl4VUVkTE1YZENSMHhaTldwUE1scE1iVUpLZEhad2VUbFRNakl0WkhZeVUxUnZaMDk0Y0dsR05HcFRabTVPUzJWa1N6TkpVa1ptVG04MlJFb1NGMlpSY214aGNDMWpUR1psWW5kaWExQnZkbEJRYTBGTkdpSkJTRTR3UlRkR1NEVXdhMlZhTWtaNWFYTktVMlpLUTNwbVVuVjJRazlPZVV0MyIsImZjdiI6IjMiLCJmY19pZCI6InF6bHRmWU9FeGRBYnEtTGlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst / Visualization Consultant",
+      "company_name": "US101 Guidehouse Inc.",
+      "location": "United States",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Science+Consultant&htidocid=z3NOvilNcmomovcjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLayEMxFwUZBEIWgbYht2CRLcnLuhuweRP_jP43NNMNM8l0kpysawpkxvNXAwcNrxOA_aF4YLsIagyEbbOAuNSjh2PQwq1ykC7Q89maDHpxTDWmnNndN2sjLCVMtk3tKrX9U2uNIQ0CjarfPpnTgbr0qi222hTz6lnqJSnDjJgXPULI3aqGYf6Q_IsqMLKgAAAA&shmds=v1_Ac3VAowZa7WwRqwLQ90Ml7ErsYSGnH9DYSC7-sz9M7j_ObIBDg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Science+Consultant&htidocid=z3NOvilNcmomovcjAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Data-Analyst---Visualization-Consultant_43692",
+      "job_title": "Data Analyst / Visualization Consultant",
+      "description": "Job Family: Data Science Consulting Travel Required: Up to 25% Clearance Required: Ability to Obtain Public Trust What You Will Do: As a Data Analyst / Visualization Consultant, you will help transform complex operational and infrastructure data into meaningful insights that inform programs, policies, and performance decisions. You will work on high-visibility initiatives, using modern analytics, visualization, and automation tools to improve how data is collected, analyzed, communicated, and acted upon. This role offers the opportunity to build practical solutions that make information easier to understand, streamline manual processes, and deliver measurable value for stakeholders. Collect, clean, validate, and analyze data from multiple sources. Develop and maintain dashboards, reports, and data visualizations using tools such as Power BI and Tableau. Design and develop workflow applications and automated processes using Microsoft Power Platform, including Power Apps and Power Automate. Identify opportunities to streamline manual processes through automation. Translate business needs into analytical, reporting, and workflow requirements. Test, troubleshoot, document, and maintain dashboards, applications, and automated workflows. Identify trends, patterns, anomalies, and data-quality issues. Communicate findings to technical and non-technical audiences. Collaborate with stakeholders and multidisciplinary project teams. What You Will Need: Must be able to OBTAIN and MAINTAIN a Federal or DHS \"PUBLIC TRUST\"; candidates must obtain approved adjudication of their PUBLIC TRUST prior to onboarding with Guidehouse. Candidates with an ACTIVE PUBLIC TRUST or SUITABILITY are preferred Bachelor’s degree One (1) or more years of experience in data analysis, reporting, business intelligence, data visualization, automation, or application development. Experience developing dashboards or visualizations using Power BI, Tableau, or similar tools. Experience developing workflow applications and automations using Microsoft Power Platform, including Power Apps and Power Automate. Ability to work collaboratively in a client-facing consulting environment. What Would Be Nice To Have: Experience with SQL, Excel, Power Query, or other data preparation tools. Working knowledge of data preparation, validation, analysis, visualization, and workflow design. Ability to translate business requirements into dashboards, applications, or automated workflows. Strong analytical, problem-solving, organizational, and communication skills. Experience developing interactive dashboards and performance reports. Familiarity with financial, operational, infrastructure, or performance data. Experience supporting public-sector organizations. Familiarity with data-quality checks and repeatable reporting processes. Experience working in an Agile or iterative delivery environment. What We Offer: Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace. Benefits include: Medical, Rx, Dental & Vision Insurance Personal and Family Sick Time & Company Paid Holidays Position may be eligible for a discretionary variable incentive bonus Parental Leave and Adoption Assistance 401(k) Retirement Plan Basic Life & Supplemental Life Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts Short-Term & Long-Term Disability Student Loan PayDown Tuition Reimbursement, Personal Development & Learning Opportunities Skills Development & Certifications Employee Referral Program Corporate Sponsored Events & Community Outreach Emergency Back-Up Childcare Program Mobility Stipend About Guidehouse Guidehouse is an Equal Opportunity Employer–Protected Veterans, Individuals with Disabilities or any other basis protected by law, ordinance, or regulation. Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco. If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation. All communication regarding recruitment for a Guidehouse position will be sent from Guidehouse email domains including @guidehouse.com or guidehouse@myworkday.com. Correspondence received by an applicant from any other domain should be considered unauthorized and will not be honored by Guidehouse. Note that Guidehouse will never charge a fee or require a money transfer at any stage of the recruitment process and does not collect fees from educational institutions for participation in a recruitment event. Never provide your banking information to a third party purporting to need that information to proceed in the hiring process. If any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com. Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties. Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee. Guidehouse is a global AI-led professional services firm delivering advisory, technology, and managed services to the commercial and government sectors. With an integrated business technology approach, Guidehouse drives efficiency and resilience in the healthcare, financial services, energy, infrastructure, and national security markets. Built to help clients across industries outwit complexity, the firm brings together approximately 18,000 professionals to achieve lasting impact and shape a meaningful future. guidehouse.com",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Data-Analyst---Visualization-Consultant_43692?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=63fbb17d44ac7107&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/oracle-analytics-cloud-oac-engineer--united-states--e37b8c005ab3bd1d8075197585e5a423c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010298240418&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirehyq",
+          "link": "https://hirehyq.v5t.alchosting.xyz/remote-jobs/remote-oracle-analytics-cloud-oac-engineer-5b643d5b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/amp/job/us-team-lead-cloud-architect-data-analytics-bi-united-states-seneca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLyBWaXN1YWxpemF0aW9uIENvbnN1bHRhbnQiLCJjb21wYW55X25hbWUiOiJVUzEwMSBHdWlkZWhvdXNlIEluYy4iLCJodGlkb2NpZCI6InozTk92aWxOY21vbW92Y2pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXazlIYTI1ME1WOTZSMUJDVkdjM1dqQmFNVXhyZUdKNWJqSTVaSHBVTWtkaVF6VnBkRXcwYUZWTVgycHVabXAwVkdaU1N6TnBNV3hyWDBkdU9FWnBPRk0xVUZSc1JVdDFOalo1V0hWZk1EUmxWMEl6YzFCblJuTmpXRFJXUVRSQ1gyZENjbEZPVjFoT00xbG1VVWR2VFRoSU9GWklWRlZ6YTB4dFdETmFTMDAzYzNONGJ6TVNGMlpSY214aGNDMWpUR1psWW5kaWExQnZkbEJRYTBGTkdpSkJTRTR3UlRkSGRHbGtUV2ROTjFkcU9FMXhPVE51YlUxUmJYQmhPVGhwVHkxbiIsImZjdiI6IjMiLCJmY19pZCI6InozTk92aWxOY21vbW92Y2pBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SUVDcUlFUVVSRVlsZGxXVXMzU2xGM04xbDBORk5oWDBWTWJIRjVTMGd0U1ZkRGJYbFBWREZyTFMxQk1ITlFkR2h1ZEhsNmRuSmxWRUpwVFZnMU5TMU1SSGRPY0hkeVVVVlJOSGQxZDFaS2JYTkRlbVJXVWpoQ01VRlpWbVJQUkUxeWJHZEZRMWhCVkZGWVl6VjJZM2RuUTBVeWVrSndWMjlJUmpKVlVGbFViV0prVm5SaE1VZFRWRmRZWlZWbWQzZG9PRmcwTW5GdlpWZE5kRGxyUTI1V1oyZFVZbU5sWkZBMlNrcGFRbWhwZFRWRFFucDViM2s1VFVwaGRFbEpkbDh5ZVdOV0xYUllZV1ZJUkRkQmNVSmhObXM1UVRscE9FTXplVk15VGsxWlVsRnhhRzlpU0dGWlIzUXhSVUZpYVdwMGRubzBabFpUWTJscFdFZE1kSFZWTjFGRFdXc3RlRTloZWxGelZEVTFaMnhYYkc5S1UzSTRWM05HTldGMlFYRmpZVjg0TUUxdGJuRjRkR0pNUjAxYVVERk5jVGs1UkdWZlltZEVibUpMU2s1RmR6RmpNRWgxV0VGek1GYzRabGN4UTE4MGRHaEJRMHhuUzBaRGVFbFVRbmhyWjFNMFQycHdVVkF3UVhOUVRWUlRZWEF4VG10b1IyVkdha3RwUmtWVmJqVm9XVlV5ZFZGamFrTkViSEp1YjJKeFRVaFhSa2hQUzA5eVJubHJTMWM1TlVwNk0zWTVhV2R1WTNSUFowTndiMnBmV1VRMGVVNTRYMWhCTTFJMU5FTnBPQzFxVFRWaE5rMUdWbkZ5UldkaldYQXdXV3hPUzFsNmVEaFFhRU5FTmtaSE1VbzBWa2hzUlU1dWJVZDBZVEoxYUdoV2VUYzVaVjlyU2s1dE5rVnZWMmhRTXpadmJXZE9URXBmT0hoWFUwUnpOSEo1UlVaalVrUTRWUzFrYUhkT2NYWkJFaGRtVVhKc1lYQXRZMHhtWldKM1ltdFFiM1pRVUd0QlRSb2lRVWhPTUVVM1JsbG5kbFpFZG5ORGVVc3pOVEpYZVZCa1kxSnVObUUwYTA5ZmR3IiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV1SUVDcUlFUVVSRVlsZGxXVXMzU2xGM04xbDBORk5oWDBWTWJIRjVTMGd0U1ZkRGJYbFBWREZyTFMxQk1ITlFkR2h1ZEhsNmRuSmxWRUpwVFZnMU5TMU1SSGRPY0hkeVVVVlJOSGQxZDFaS2JYTkRlbVJXVWpoQ01VRlpWbVJQUkUxeWJHZEZRMWhCVkZGWVl6VjJZM2RuUTBVeWVrSndWMjlJUmpKVlVGbFViV0prVm5SaE1VZFRWRmRZWlZWbWQzZG9PRmcwTW5GdlpWZE5kRGxyUTI1V1oyZFVZbU5sWkZBMlNrcGFRbWhwZFRWRFFucDViM2s1VFVwaGRFbEpkbDh5ZVdOV0xYUllZV1ZJUkRkQmNVSmhObXM1UVRscE9FTXplVk15VGsxWlVsRnhhRzlpU0dGWlIzUXhSVUZpYVdwMGRubzBabFpUWTJscFdFZE1kSFZWTjFGRFdXc3RlRTloZWxGelZEVTFaMnhYYkc5S1UzSTRWM05HTldGMlFYRmpZVjg0TUUxdGJuRjRkR0pNUjAxYVVERk5jVGs1UkdWZlltZEVibUpMU2s1RmR6RmpNRWgxV0VGek1GYzRabGN4UTE4MGRHaEJRMHhuUzBaRGVFbFVRbmhyWjFNMFQycHdVVkF3UVhOUVRWUlRZWEF4VG10b1IyVkdha3RwUmtWVmJqVm9XVlV5ZFZGamFrTkViSEp1YjJKeFRVaFhSa2hQUzA5eVJubHJTMWM1TlVwNk0zWTVhV2R1WTNSUFowTndiMnBmV1VRMGVVNTRYMWhCTTFJMU5FTnBPQzFxVFRWaE5rMUdWbkZ5UldkaldYQXdXV3hPUzFsNmVEaFFhRU5FTmtaSE1VbzBWa2hzUlU1dWJVZDBZVEoxYUdoV2VUYzVaVjlyU2s1dE5rVnZWMmhRTXpadmJXZE9URXBmT0hoWFUwUnpOSEo1UlVaalVrUTRWUzFrYUhkT2NYWkJFaGRtVVhKc1lYQXRZMHhtWldKM1ltdFFiM1pRVUd0QlRSb2lRVWhPTUVVM1JsbG5kbFpFZG5ORGVVc3pOVEpYZVZCa1kxSnVObUUwYTA5ZmR3IiwiZmN2IjoiMyJ9&q=Data+Science+Consultant&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Data Science Consultant",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:22:04.425941+00:00",
+    "request_fingerprint": "724fd8fed794bb43f67942db3da44597b364a437e9119ca68b9c094f09ef97f8",
+    "job_count": 10
+  }
+}

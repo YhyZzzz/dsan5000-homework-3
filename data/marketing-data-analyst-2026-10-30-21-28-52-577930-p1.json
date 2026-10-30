@@ -1,0 +1,907 @@
+{
+  "search_metadata": {
+    "id": "6ae50c146bb5352e38004f4d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aY_SUWV4TruQ8Ym0py1p5ZoyZVaRpGo__MwPvJmrs9M/6ae50c146bb5352e38004f4d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aY_SUWV4TruQ8Ym0py1p5ZoyZVaRpGo__MwPvJmrs9M/6ae50c146bb5352e38004f4d.md",
+    "created_at": "2026-10-30 21:28:52 UTC",
+    "processed_at": "2026-10-30 21:28:52 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Marketing+Data+Analyst&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/aY_SUWV4TruQ8Ym0py1p5ZoyZVaRpGo__MwPvJmrs9M/6ae50c146bb5352e38004f4d.html",
+    "total_time_taken": 1.88
+  },
+  "search_parameters": {
+    "q": "Marketing Data Analyst",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXb3N7Nyfngvz6rSKRfo2HAvSmnNbMSUoJgXkmVbIMwOvH9YAxMOzjRyJvmSKn0CPyDaT6o7DfE4Z6nvz77PVitTv8rY-OcpfaiivMppy5QOsp5r-vM2dmV6LUjQwYcundwKgjRqTlipBX5EDqKFt8MGPG3MW09VZAb6hOcucdL2GDCxEg",
+        "q": "Marketing Data Analyst no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXb3N7Nyfngvz6rSKRfo2HAvSmnNbMSUoJgXkmVbIMwOvH9YAxMOzjRyJvmSKn0CPyDaT6o7DfE4Z6nvz77PVitTv8rY-OcpfaiivMppy5QOsp5r-vM2dmV6LUjQwYcundwKgjRqTlipBX5EDqKFt8MGPG3MW09VZAb6hOcucdL2GDCxEg&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXb3N7Nyfngvz6rSKRfo2HAvSmnNbMSUoJgXkmVbIMwOvH9YAxMOzjRyJvmSKn0CPyDaT6o7DfE4Z6nvz77PVitTv8rY-OcpfaiivMppy5QOsp5r-vM2dmV6LUjQwYcundwKgjRqTlipBX5EDqKFt8MGPG3MW09VZAb6hOcucdL2GDCxEg&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBazIhAPi-Hs_KprqFz3l4irli_kMKRTSEzWPTV2OP5zHCbkyg51Ybpaq-OUllfmsF8AIe72ei8PCWJGf89PT1cQxT8GVmIRMEyyCrq__Oxjwtlo4PHzP20EPPQb9tgswsGkWfCDnrAjIB0BS_Egl6npI-5c",
+        "q": "Marketing Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBazIhAPi-Hs_KprqFz3l4irli_kMKRTSEzWPTV2OP5zHCbkyg51Ybpaq-OUllfmsF8AIe72ei8PCWJGf89PT1cQxT8GVmIRMEyyCrq__Oxjwtlo4PHzP20EPPQb9tgswsGkWfCDnrAjIB0BS_Egl6npI-5c&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQxKsJKAF6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBazIhAPi-Hs_KprqFz3l4irli_kMKRTSEzWPTV2OP5zHCbkyg51Ybpaq-OUllfmsF8AIe72ei8PCWJGf89PT1cQxT8GVmIRMEyyCrq__Oxjwtlo4PHzP20EPPQb9tgswsGkWfCDnrAjIB0BS_Egl6npI-5c&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I5nOUtG2EtJFWabWfYfVLubXpR8QJB1RPwGmxXRPa4Ei9zdzj35E91s2z6BOXPWv6WMP7NF6k3mT8PSE6QRaP6hKUnpVutx7GjnLQ7jYfdAZb-15852TjCmicOa_ccQWl0fF5TNIl5NIlVLFvL2DFrZFpaeDUGej1-iLevmS6aYOJ_hxfjTqYeIIpRq9ol5wsJAH91Gu4W7bg9tns3jHEY4xWgHWZhWy4F_JHB1xLkhCnVWkb7P-FaecWFRJXQkO3uFAK_5wZRPGxcbZMPanh05rBg9NnCiYQPj82KG60vKQxBwp8I",
+            "q": "Marketing Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I5nOUtG2EtJFWabWfYfVLubXpR8QJB1RPwGmxXRPa4Ei9zdzj35E91s2z6BOXPWv6WMP7NF6k3mT8PSE6QRaP6hKUnpVutx7GjnLQ7jYfdAZb-15852TjCmicOa_ccQWl0fF5TNIl5NIlVLFvL2DFrZFpaeDUGej1-iLevmS6aYOJ_hxfjTqYeIIpRq9ol5wsJAH91Gu4W7bg9tns3jHEY4xWgHWZhWy4F_JHB1xLkhCnVWkb7P-FaecWFRJXQkO3uFAK_5wZRPGxcbZMPanh05rBg9NnCiYQPj82KG60vKQxBwp8I&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I5nOUtG2EtJFWabWfYfVLubXpR8QJB1RPwGmxXRPa4Ei9zdzj35E91s2z6BOXPWv6WMP7NF6k3mT8PSE6QRaP6hKUnpVutx7GjnLQ7jYfdAZb-15852TjCmicOa_ccQWl0fF5TNIl5NIlVLFvL2DFrZFpaeDUGej1-iLevmS6aYOJ_hxfjTqYeIIpRq9ol5wsJAH91Gu4W7bg9tns3jHEY4xWgHWZhWy4F_JHB1xLkhCnVWkb7P-FaecWFRJXQkO3uFAK_5wZRPGxcbZMPanh05rBg9NnCiYQPj82KG60vKQxBwp8I&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I4dphkYwZJDaYYsTAqUFPadrcCXYlDjknBTsZcaZLjbB6pK1i5G86Cju7xXoUWqukQu6D78DH9YTg_RJlYujJyJWgMFB4WBr3OHJ0Fbuevet0miV0TlaN3_Q2vT31RdWPti6maUYaC4hkxw4GwvGm6BhmDyEHm1qzCHRFxaRfRJHLmvQ4uuHXtt4Ku2Ij-gixug7U_iG4KfH0oLhX6Rn-adD1980z3FhbzD3a0OfiyHu1gDOdKb_qDGHqQv7VYe-kHVpEK1dHsDxqx2l0TQw1rwFtQQpt1sXj4DtwV9gFTORxV9g-0",
+            "q": "Marketing Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I4dphkYwZJDaYYsTAqUFPadrcCXYlDjknBTsZcaZLjbB6pK1i5G86Cju7xXoUWqukQu6D78DH9YTg_RJlYujJyJWgMFB4WBr3OHJ0Fbuevet0miV0TlaN3_Q2vT31RdWPti6maUYaC4hkxw4GwvGm6BhmDyEHm1qzCHRFxaRfRJHLmvQ4uuHXtt4Ku2Ij-gixug7U_iG4KfH0oLhX6Rn-adD1980z3FhbzD3a0OfiyHu1gDOdKb_qDGHqQv7VYe-kHVpEK1dHsDxqx2l0TQw1rwFtQQpt1sXj4DtwV9gFTORxV9g-0&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I4dphkYwZJDaYYsTAqUFPadrcCXYlDjknBTsZcaZLjbB6pK1i5G86Cju7xXoUWqukQu6D78DH9YTg_RJlYujJyJWgMFB4WBr3OHJ0Fbuevet0miV0TlaN3_Q2vT31RdWPti6maUYaC4hkxw4GwvGm6BhmDyEHm1qzCHRFxaRfRJHLmvQ4uuHXtt4Ku2Ij-gixug7U_iG4KfH0oLhX6Rn-adD1980z3FhbzD3a0OfiyHu1gDOdKb_qDGHqQv7VYe-kHVpEK1dHsDxqx2l0TQw1rwFtQQpt1sXj4DtwV9gFTORxV9g-0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_Mbhc1iG_StwB6WVorWKLXbPnrk2FWc6qxfUnz2fH6bk4ftXzfQ-0XkHPSLWlNYXmqUgLLGnM-vwcJbKa61gOyKD_wOI-3fhBOCFt_tTM-eMnTKely4Zksrk6wwBRgXeGvH4HdV4qh-iflNQhwKejqVVY5kJTF5jH2NPzKoCtKphM7LzM81aWNl-vZ3s4PQ7ICChWhumQsYKk3F4lnxus4rfHSnSiiUM7C28nLHyO25qkrgLT72O6W3weRmdTkO3kPAJwoPJqMWnoJXWAmFgVN8QPdhcWVxL0H6fP_yzrl7bob2DLLw",
+            "q": "Marketing Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_Mbhc1iG_StwB6WVorWKLXbPnrk2FWc6qxfUnz2fH6bk4ftXzfQ-0XkHPSLWlNYXmqUgLLGnM-vwcJbKa61gOyKD_wOI-3fhBOCFt_tTM-eMnTKely4Zksrk6wwBRgXeGvH4HdV4qh-iflNQhwKejqVVY5kJTF5jH2NPzKoCtKphM7LzM81aWNl-vZ3s4PQ7ICChWhumQsYKk3F4lnxus4rfHSnSiiUM7C28nLHyO25qkrgLT72O6W3weRmdTkO3kPAJwoPJqMWnoJXWAmFgVN8QPdhcWVxL0H6fP_yzrl7bob2DLLw&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_Mbhc1iG_StwB6WVorWKLXbPnrk2FWc6qxfUnz2fH6bk4ftXzfQ-0XkHPSLWlNYXmqUgLLGnM-vwcJbKa61gOyKD_wOI-3fhBOCFt_tTM-eMnTKely4Zksrk6wwBRgXeGvH4HdV4qh-iflNQhwKejqVVY5kJTF5jH2NPzKoCtKphM7LzM81aWNl-vZ3s4PQ7ICChWhumQsYKk3F4lnxus4rfHSnSiiUM7C28nLHyO25qkrgLT72O6W3weRmdTkO3kPAJwoPJqMWnoJXWAmFgVN8QPdhcWVxL0H6fP_yzrl7bob2DLLw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeW1qC7om3rPD0Vz_crlP7NZT285-ckHxQ029wvEMfGjhzT6jUQSGXK7XIRrlJIerEJjdSOhpGb6a8xp5o-j8nzeFwzRTslYQoXAIuDyY2_5g6b1P6k_yWSEx5p1VWUwy4cPbqJ-X-gNRx6S6CaPEZZxhTI3E-2gUHaD68USMPkBGbb5ZuJLxLPjq51y5BYmgukZO_lfDwBaHyNMgcxliw5hmp6T09AK9Z96piyAwNng-_JyLbjqlGsc4QMN6HyglsPA_K2-ZdCGv84WYFh2CbJ32RkVzUMLmS0pxMNH1CiGSGxi4QA",
+            "q": "Marketing Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeW1qC7om3rPD0Vz_crlP7NZT285-ckHxQ029wvEMfGjhzT6jUQSGXK7XIRrlJIerEJjdSOhpGb6a8xp5o-j8nzeFwzRTslYQoXAIuDyY2_5g6b1P6k_yWSEx5p1VWUwy4cPbqJ-X-gNRx6S6CaPEZZxhTI3E-2gUHaD68USMPkBGbb5ZuJLxLPjq51y5BYmgukZO_lfDwBaHyNMgcxliw5hmp6T09AK9Z96piyAwNng-_JyLbjqlGsc4QMN6HyglsPA_K2-ZdCGv84WYFh2CbJ32RkVzUMLmS0pxMNH1CiGSGxi4QA&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeW1qC7om3rPD0Vz_crlP7NZT285-ckHxQ029wvEMfGjhzT6jUQSGXK7XIRrlJIerEJjdSOhpGb6a8xp5o-j8nzeFwzRTslYQoXAIuDyY2_5g6b1P6k_yWSEx5p1VWUwy4cPbqJ-X-gNRx6S6CaPEZZxhTI3E-2gUHaD68USMPkBGbb5ZuJLxLPjq51y5BYmgukZO_lfDwBaHyNMgcxliw5hmp6T09AK9Z96piyAwNng-_JyLbjqlGsc4QMN6HyglsPA_K2-ZdCGv84WYFh2CbJ32RkVzUMLmS0pxMNH1CiGSGxi4QA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I5nOUtG2EtJFWabWfYfVLubXpR8QJB1RPwGmxXRPa4Ei9zdzj35E91s2z6BOXPWv6WMP7NF6k3mT8PSE6QRaP6hKUnpVutx7GjnLQ7jYfdAZb-15852TjCmicOa_ccQWl0fF5TNIl5NIlVLFvL2DFrZFpaeDUGej1-iLevmS6aYOJ_hxfjTqYeIIpRq9ol5wsJAH91Gu4W7bg9tns3jHEY4xWgHWZhWy4F_JHB1xLkhCnVWkb7P-FaecWFRJXQkO3uFAK_5wZRPGxcbZMPanh05rBg9NnCiYQPj82KG60vKQxBwp8I",
+            "q": "Marketing Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I5nOUtG2EtJFWabWfYfVLubXpR8QJB1RPwGmxXRPa4Ei9zdzj35E91s2z6BOXPWv6WMP7NF6k3mT8PSE6QRaP6hKUnpVutx7GjnLQ7jYfdAZb-15852TjCmicOa_ccQWl0fF5TNIl5NIlVLFvL2DFrZFpaeDUGej1-iLevmS6aYOJ_hxfjTqYeIIpRq9ol5wsJAH91Gu4W7bg9tns3jHEY4xWgHWZhWy4F_JHB1xLkhCnVWkb7P-FaecWFRJXQkO3uFAK_5wZRPGxcbZMPanh05rBg9NnCiYQPj82KG60vKQxBwp8I&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I5nOUtG2EtJFWabWfYfVLubXpR8QJB1RPwGmxXRPa4Ei9zdzj35E91s2z6BOXPWv6WMP7NF6k3mT8PSE6QRaP6hKUnpVutx7GjnLQ7jYfdAZb-15852TjCmicOa_ccQWl0fF5TNIl5NIlVLFvL2DFrZFpaeDUGej1-iLevmS6aYOJ_hxfjTqYeIIpRq9ol5wsJAH91Gu4W7bg9tns3jHEY4xWgHWZhWy4F_JHB1xLkhCnVWkb7P-FaecWFRJXQkO3uFAK_5wZRPGxcbZMPanh05rBg9NnCiYQPj82KG60vKQxBwp8I&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I4dphkYwZJDaYYsTAqUFPadrcCXYlDjknBTsZcaZLjbB6pK1i5G86Cju7xXoUWqukQu6D78DH9YTg_RJlYujJyJWgMFB4WBr3OHJ0Fbuevet0miV0TlaN3_Q2vT31RdWPti6maUYaC4hkxw4GwvGm6BhmDyEHm1qzCHRFxaRfRJHLmvQ4uuHXtt4Ku2Ij-gixug7U_iG4KfH0oLhX6Rn-adD1980z3FhbzD3a0OfiyHu1gDOdKb_qDGHqQv7VYe-kHVpEK1dHsDxqx2l0TQw1rwFtQQpt1sXj4DtwV9gFTORxV9g-0",
+            "q": "Marketing Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I4dphkYwZJDaYYsTAqUFPadrcCXYlDjknBTsZcaZLjbB6pK1i5G86Cju7xXoUWqukQu6D78DH9YTg_RJlYujJyJWgMFB4WBr3OHJ0Fbuevet0miV0TlaN3_Q2vT31RdWPti6maUYaC4hkxw4GwvGm6BhmDyEHm1qzCHRFxaRfRJHLmvQ4uuHXtt4Ku2Ij-gixug7U_iG4KfH0oLhX6Rn-adD1980z3FhbzD3a0OfiyHu1gDOdKb_qDGHqQv7VYe-kHVpEK1dHsDxqx2l0TQw1rwFtQQpt1sXj4DtwV9gFTORxV9g-0&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7g5Xp0qvBMDiwDgak61C0I4dphkYwZJDaYYsTAqUFPadrcCXYlDjknBTsZcaZLjbB6pK1i5G86Cju7xXoUWqukQu6D78DH9YTg_RJlYujJyJWgMFB4WBr3OHJ0Fbuevet0miV0TlaN3_Q2vT31RdWPti6maUYaC4hkxw4GwvGm6BhmDyEHm1qzCHRFxaRfRJHLmvQ4uuHXtt4Ku2Ij-gixug7U_iG4KfH0oLhX6Rn-adD1980z3FhbzD3a0OfiyHu1gDOdKb_qDGHqQv7VYe-kHVpEK1dHsDxqx2l0TQw1rwFtQQpt1sXj4DtwV9gFTORxV9g-0&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_Mbhc1iG_StwB6WVorWKLXbPnrk2FWc6qxfUnz2fH6bk4ftXzfQ-0XkHPSLWlNYXmqUgLLGnM-vwcJbKa61gOyKD_wOI-3fhBOCFt_tTM-eMnTKely4Zksrk6wwBRgXeGvH4HdV4qh-iflNQhwKejqVVY5kJTF5jH2NPzKoCtKphM7LzM81aWNl-vZ3s4PQ7ICChWhumQsYKk3F4lnxus4rfHSnSiiUM7C28nLHyO25qkrgLT72O6W3weRmdTkO3kPAJwoPJqMWnoJXWAmFgVN8QPdhcWVxL0H6fP_yzrl7bob2DLLw",
+            "q": "Marketing Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_Mbhc1iG_StwB6WVorWKLXbPnrk2FWc6qxfUnz2fH6bk4ftXzfQ-0XkHPSLWlNYXmqUgLLGnM-vwcJbKa61gOyKD_wOI-3fhBOCFt_tTM-eMnTKely4Zksrk6wwBRgXeGvH4HdV4qh-iflNQhwKejqVVY5kJTF5jH2NPzKoCtKphM7LzM81aWNl-vZ3s4PQ7ICChWhumQsYKk3F4lnxus4rfHSnSiiUM7C28nLHyO25qkrgLT72O6W3weRmdTkO3kPAJwoPJqMWnoJXWAmFgVN8QPdhcWVxL0H6fP_yzrl7bob2DLLw&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_Mbhc1iG_StwB6WVorWKLXbPnrk2FWc6qxfUnz2fH6bk4ftXzfQ-0XkHPSLWlNYXmqUgLLGnM-vwcJbKa61gOyKD_wOI-3fhBOCFt_tTM-eMnTKely4Zksrk6wwBRgXeGvH4HdV4qh-iflNQhwKejqVVY5kJTF5jH2NPzKoCtKphM7LzM81aWNl-vZ3s4PQ7ICChWhumQsYKk3F4lnxus4rfHSnSiiUM7C28nLHyO25qkrgLT72O6W3weRmdTkO3kPAJwoPJqMWnoJXWAmFgVN8QPdhcWVxL0H6fP_yzrl7bob2DLLw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeW1qC7om3rPD0Vz_crlP7NZT285-ckHxQ029wvEMfGjhzT6jUQSGXK7XIRrlJIerEJjdSOhpGb6a8xp5o-j8nzeFwzRTslYQoXAIuDyY2_5g6b1P6k_yWSEx5p1VWUwy4cPbqJ-X-gNRx6S6CaPEZZxhTI3E-2gUHaD68USMPkBGbb5ZuJLxLPjq51y5BYmgukZO_lfDwBaHyNMgcxliw5hmp6T09AK9Z96piyAwNng-_JyLbjqlGsc4QMN6HyglsPA_K2-ZdCGv84WYFh2CbJ32RkVzUMLmS0pxMNH1CiGSGxi4QA",
+            "q": "Marketing Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeW1qC7om3rPD0Vz_crlP7NZT285-ckHxQ029wvEMfGjhzT6jUQSGXK7XIRrlJIerEJjdSOhpGb6a8xp5o-j8nzeFwzRTslYQoXAIuDyY2_5g6b1P6k_yWSEx5p1VWUwy4cPbqJ-X-gNRx6S6CaPEZZxhTI3E-2gUHaD68USMPkBGbb5ZuJLxLPjq51y5BYmgukZO_lfDwBaHyNMgcxliw5hmp6T09AK9Z96piyAwNng-_JyLbjqlGsc4QMN6HyglsPA_K2-ZdCGv84WYFh2CbJ32RkVzUMLmS0pxMNH1CiGSGxi4QA&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXwTGLVnljQHdRTWBAVx3jeW1qC7om3rPD0Vz_crlP7NZT285-ckHxQ029wvEMfGjhzT6jUQSGXK7XIRrlJIerEJjdSOhpGb6a8xp5o-j8nzeFwzRTslYQoXAIuDyY2_5g6b1P6k_yWSEx5p1VWUwy4cPbqJ-X-gNRx6S6CaPEZZxhTI3E-2gUHaD68USMPkBGbb5ZuJLxLPjq51y5BYmgukZO_lfDwBaHyNMgcxliw5hmp6T09AK9Z96piyAwNng-_JyLbjqlGsc4QMN6HyglsPA_K2-ZdCGv84WYFh2CbJ32RkVzUMLmS0pxMNH1CiGSGxi4QA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT9xBwsIdya7T4Q4sSUVP3T6kGeURPeIQcbVic5n0_RpsG8cdtSQYGxetfKivnAEOz913b2q2wEj7y6LQNtSIa5QDDSxJ8qQBVkecKsNgRnk_fUDlSPhDyck3pWUM7gRCJDYiup5L2OjwH0bSjydaMYxiIvFlVRNeY4Deu4FgD76b24u7E5IVDEjc3b-1aH0FxUO4rDZg6YhJIzUf6dwgxYV4zoxxke3o15_oG6Z-duORD_rOYqSagGcmmq5ubN19eQGaMv4m8ijhmF_YYbVmJN_UIHTeBwtTHcmyRk3AZukJxjOVrCc-Ts-TBOmREdulkGZUzPU",
+            "q": "Marketing Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT9xBwsIdya7T4Q4sSUVP3T6kGeURPeIQcbVic5n0_RpsG8cdtSQYGxetfKivnAEOz913b2q2wEj7y6LQNtSIa5QDDSxJ8qQBVkecKsNgRnk_fUDlSPhDyck3pWUM7gRCJDYiup5L2OjwH0bSjydaMYxiIvFlVRNeY4Deu4FgD76b24u7E5IVDEjc3b-1aH0FxUO4rDZg6YhJIzUf6dwgxYV4zoxxke3o15_oG6Z-duORD_rOYqSagGcmmq5ubN19eQGaMv4m8ijhmF_YYbVmJN_UIHTeBwtTHcmyRk3AZukJxjOVrCc-Ts-TBOmREdulkGZUzPU&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT9xBwsIdya7T4Q4sSUVP3T6kGeURPeIQcbVic5n0_RpsG8cdtSQYGxetfKivnAEOz913b2q2wEj7y6LQNtSIa5QDDSxJ8qQBVkecKsNgRnk_fUDlSPhDyck3pWUM7gRCJDYiup5L2OjwH0bSjydaMYxiIvFlVRNeY4Deu4FgD76b24u7E5IVDEjc3b-1aH0FxUO4rDZg6YhJIzUf6dwgxYV4zoxxke3o15_oG6Z-duORD_rOYqSagGcmmq5ubN19eQGaMv4m8ijhmF_YYbVmJN_UIHTeBwtTHcmyRk3AZukJxjOVrCc-Ts-TBOmREdulkGZUzPU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZhhzSPg2CqpiMMHScBqHy2LjTRIv3t28l4F7gL6QCVxhxMK757ZnAJ0vjyHx21jplb1xQMI0tq_UhGGwRgOZF7CoIE0L_2aE7TmtwqkVFlC46qGxGZIvBbjAtd6POXKSDOTc2Jr9BS7pn0mdduNnZEc4ax6frRpz3A6Mh3NMI1lcwf1Q7Znd8CH9dn8qloubCbTJy_tTMRMGVUpX5Ld05wvkxFnJJHOpdYwUU07FEYXPat344oV2y_wrOkpNfVJ9rhnW0rqOBgh13Tv8gHtO8vPaLSUsl1xuYhlGIkoW_wDYvLzB0rp6o2eduirS299NORRUw-I",
+            "q": "Marketing Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZhhzSPg2CqpiMMHScBqHy2LjTRIv3t28l4F7gL6QCVxhxMK757ZnAJ0vjyHx21jplb1xQMI0tq_UhGGwRgOZF7CoIE0L_2aE7TmtwqkVFlC46qGxGZIvBbjAtd6POXKSDOTc2Jr9BS7pn0mdduNnZEc4ax6frRpz3A6Mh3NMI1lcwf1Q7Znd8CH9dn8qloubCbTJy_tTMRMGVUpX5Ld05wvkxFnJJHOpdYwUU07FEYXPat344oV2y_wrOkpNfVJ9rhnW0rqOBgh13Tv8gHtO8vPaLSUsl1xuYhlGIkoW_wDYvLzB0rp6o2eduirS299NORRUw-I&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZhhzSPg2CqpiMMHScBqHy2LjTRIv3t28l4F7gL6QCVxhxMK757ZnAJ0vjyHx21jplb1xQMI0tq_UhGGwRgOZF7CoIE0L_2aE7TmtwqkVFlC46qGxGZIvBbjAtd6POXKSDOTc2Jr9BS7pn0mdduNnZEc4ax6frRpz3A6Mh3NMI1lcwf1Q7Znd8CH9dn8qloubCbTJy_tTMRMGVUpX5Ld05wvkxFnJJHOpdYwUU07FEYXPat344oV2y_wrOkpNfVJ9rhnW0rqOBgh13Tv8gHtO8vPaLSUsl1xuYhlGIkoW_wDYvLzB0rp6o2eduirS299NORRUw-I&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1W3tybDm6ho95CK7f-398Rssv2cJfIdBFLelNDNl0BFpDrq_bPdijDbF4puxV--EARR7tYUXJufqR69bOA8TcwWXYfFDkhUlVAVlGl-o9cGZRg93AO_onNDh0CEFJxXTZt4RtO_kW1GgKd9K-oGTRV3IS7-F160M0KVeUleIyBlix-QRwMupBBVwfw3D5e9vzpQ8WhcPTBiifvLsEN5DQc9GDtH8ZKtdMvAoeCSv_ONEJ5I_hJ1nF5w0Y3edZYIjUfHILkw79kTmVCvH0-fvpaPLa152gwWoJGMMG7QPzGMKztBjKb6nHPkEF35Ka7f033A7RdI",
+            "q": "Marketing Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1W3tybDm6ho95CK7f-398Rssv2cJfIdBFLelNDNl0BFpDrq_bPdijDbF4puxV--EARR7tYUXJufqR69bOA8TcwWXYfFDkhUlVAVlGl-o9cGZRg93AO_onNDh0CEFJxXTZt4RtO_kW1GgKd9K-oGTRV3IS7-F160M0KVeUleIyBlix-QRwMupBBVwfw3D5e9vzpQ8WhcPTBiifvLsEN5DQc9GDtH8ZKtdMvAoeCSv_ONEJ5I_hJ1nF5w0Y3edZYIjUfHILkw79kTmVCvH0-fvpaPLa152gwWoJGMMG7QPzGMKztBjKb6nHPkEF35Ka7f033A7RdI&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1W3tybDm6ho95CK7f-398Rssv2cJfIdBFLelNDNl0BFpDrq_bPdijDbF4puxV--EARR7tYUXJufqR69bOA8TcwWXYfFDkhUlVAVlGl-o9cGZRg93AO_onNDh0CEFJxXTZt4RtO_kW1GgKd9K-oGTRV3IS7-F160M0KVeUleIyBlix-QRwMupBBVwfw3D5e9vzpQ8WhcPTBiifvLsEN5DQc9GDtH8ZKtdMvAoeCSv_ONEJ5I_hJ1nF5w0Y3edZYIjUfHILkw79kTmVCvH0-fvpaPLa152gwWoJGMMG7QPzGMKztBjKb6nHPkEF35Ka7f033A7RdI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PVwpMTuPnP49vw7U-XwZ4iYS2g5Pztb9zfYug1aN94cOAa0BpC97xGHKODE3hCK9vIN0meCVEnAd5T1pDctA3iKiS05akfoug5rdKkj9lq9cPyyfZAHgX3uNFcksHYZdSVhl1FIFbgcDlGUboiPwviqI8D-SAJZB8u6JfftoiDcaLrtBnzZmXlAEj3j7q_JnqUGrXFNkpQJYwJE8907HH3t5K_GCdR0oj6YbFmnBS4JD0KSadiTlxS1w7wE9DmwdIz18VLao8O4pvUn7s36TQmkpYHgmKzhhKuHGucWHf22Z812KlCUudcHRheHN8YeNWPlA_Wk",
+            "q": "Marketing Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PVwpMTuPnP49vw7U-XwZ4iYS2g5Pztb9zfYug1aN94cOAa0BpC97xGHKODE3hCK9vIN0meCVEnAd5T1pDctA3iKiS05akfoug5rdKkj9lq9cPyyfZAHgX3uNFcksHYZdSVhl1FIFbgcDlGUboiPwviqI8D-SAJZB8u6JfftoiDcaLrtBnzZmXlAEj3j7q_JnqUGrXFNkpQJYwJE8907HH3t5K_GCdR0oj6YbFmnBS4JD0KSadiTlxS1w7wE9DmwdIz18VLao8O4pvUn7s36TQmkpYHgmKzhhKuHGucWHf22Z812KlCUudcHRheHN8YeNWPlA_Wk&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PVwpMTuPnP49vw7U-XwZ4iYS2g5Pztb9zfYug1aN94cOAa0BpC97xGHKODE3hCK9vIN0meCVEnAd5T1pDctA3iKiS05akfoug5rdKkj9lq9cPyyfZAHgX3uNFcksHYZdSVhl1FIFbgcDlGUboiPwviqI8D-SAJZB8u6JfftoiDcaLrtBnzZmXlAEj3j7q_JnqUGrXFNkpQJYwJE8907HH3t5K_GCdR0oj6YbFmnBS4JD0KSadiTlxS1w7wE9DmwdIz18VLao8O4pvUn7s36TQmkpYHgmKzhhKuHGucWHf22Z812KlCUudcHRheHN8YeNWPlA_Wk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT9xBwsIdya7T4Q4sSUVP3T6kGeURPeIQcbVic5n0_RpsG8cdtSQYGxetfKivnAEOz913b2q2wEj7y6LQNtSIa5QDDSxJ8qQBVkecKsNgRnk_fUDlSPhDyck3pWUM7gRCJDYiup5L2OjwH0bSjydaMYxiIvFlVRNeY4Deu4FgD76b24u7E5IVDEjc3b-1aH0FxUO4rDZg6YhJIzUf6dwgxYV4zoxxke3o15_oG6Z-duORD_rOYqSagGcmmq5ubN19eQGaMv4m8ijhmF_YYbVmJN_UIHTeBwtTHcmyRk3AZukJxjOVrCc-Ts-TBOmREdulkGZUzPU",
+            "q": "Marketing Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT9xBwsIdya7T4Q4sSUVP3T6kGeURPeIQcbVic5n0_RpsG8cdtSQYGxetfKivnAEOz913b2q2wEj7y6LQNtSIa5QDDSxJ8qQBVkecKsNgRnk_fUDlSPhDyck3pWUM7gRCJDYiup5L2OjwH0bSjydaMYxiIvFlVRNeY4Deu4FgD76b24u7E5IVDEjc3b-1aH0FxUO4rDZg6YhJIzUf6dwgxYV4zoxxke3o15_oG6Z-duORD_rOYqSagGcmmq5ubN19eQGaMv4m8ijhmF_YYbVmJN_UIHTeBwtTHcmyRk3AZukJxjOVrCc-Ts-TBOmREdulkGZUzPU&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLT9xBwsIdya7T4Q4sSUVP3T6kGeURPeIQcbVic5n0_RpsG8cdtSQYGxetfKivnAEOz913b2q2wEj7y6LQNtSIa5QDDSxJ8qQBVkecKsNgRnk_fUDlSPhDyck3pWUM7gRCJDYiup5L2OjwH0bSjydaMYxiIvFlVRNeY4Deu4FgD76b24u7E5IVDEjc3b-1aH0FxUO4rDZg6YhJIzUf6dwgxYV4zoxxke3o15_oG6Z-duORD_rOYqSagGcmmq5ubN19eQGaMv4m8ijhmF_YYbVmJN_UIHTeBwtTHcmyRk3AZukJxjOVrCc-Ts-TBOmREdulkGZUzPU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZhhzSPg2CqpiMMHScBqHy2LjTRIv3t28l4F7gL6QCVxhxMK757ZnAJ0vjyHx21jplb1xQMI0tq_UhGGwRgOZF7CoIE0L_2aE7TmtwqkVFlC46qGxGZIvBbjAtd6POXKSDOTc2Jr9BS7pn0mdduNnZEc4ax6frRpz3A6Mh3NMI1lcwf1Q7Znd8CH9dn8qloubCbTJy_tTMRMGVUpX5Ld05wvkxFnJJHOpdYwUU07FEYXPat344oV2y_wrOkpNfVJ9rhnW0rqOBgh13Tv8gHtO8vPaLSUsl1xuYhlGIkoW_wDYvLzB0rp6o2eduirS299NORRUw-I",
+            "q": "Marketing Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZhhzSPg2CqpiMMHScBqHy2LjTRIv3t28l4F7gL6QCVxhxMK757ZnAJ0vjyHx21jplb1xQMI0tq_UhGGwRgOZF7CoIE0L_2aE7TmtwqkVFlC46qGxGZIvBbjAtd6POXKSDOTc2Jr9BS7pn0mdduNnZEc4ax6frRpz3A6Mh3NMI1lcwf1Q7Znd8CH9dn8qloubCbTJy_tTMRMGVUpX5Ld05wvkxFnJJHOpdYwUU07FEYXPat344oV2y_wrOkpNfVJ9rhnW0rqOBgh13Tv8gHtO8vPaLSUsl1xuYhlGIkoW_wDYvLzB0rp6o2eduirS299NORRUw-I&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5ZhhzSPg2CqpiMMHScBqHy2LjTRIv3t28l4F7gL6QCVxhxMK757ZnAJ0vjyHx21jplb1xQMI0tq_UhGGwRgOZF7CoIE0L_2aE7TmtwqkVFlC46qGxGZIvBbjAtd6POXKSDOTc2Jr9BS7pn0mdduNnZEc4ax6frRpz3A6Mh3NMI1lcwf1Q7Znd8CH9dn8qloubCbTJy_tTMRMGVUpX5Ld05wvkxFnJJHOpdYwUU07FEYXPat344oV2y_wrOkpNfVJ9rhnW0rqOBgh13Tv8gHtO8vPaLSUsl1xuYhlGIkoW_wDYvLzB0rp6o2eduirS299NORRUw-I&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1W3tybDm6ho95CK7f-398Rssv2cJfIdBFLelNDNl0BFpDrq_bPdijDbF4puxV--EARR7tYUXJufqR69bOA8TcwWXYfFDkhUlVAVlGl-o9cGZRg93AO_onNDh0CEFJxXTZt4RtO_kW1GgKd9K-oGTRV3IS7-F160M0KVeUleIyBlix-QRwMupBBVwfw3D5e9vzpQ8WhcPTBiifvLsEN5DQc9GDtH8ZKtdMvAoeCSv_ONEJ5I_hJ1nF5w0Y3edZYIjUfHILkw79kTmVCvH0-fvpaPLa152gwWoJGMMG7QPzGMKztBjKb6nHPkEF35Ka7f033A7RdI",
+            "q": "Marketing Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1W3tybDm6ho95CK7f-398Rssv2cJfIdBFLelNDNl0BFpDrq_bPdijDbF4puxV--EARR7tYUXJufqR69bOA8TcwWXYfFDkhUlVAVlGl-o9cGZRg93AO_onNDh0CEFJxXTZt4RtO_kW1GgKd9K-oGTRV3IS7-F160M0KVeUleIyBlix-QRwMupBBVwfw3D5e9vzpQ8WhcPTBiifvLsEN5DQc9GDtH8ZKtdMvAoeCSv_ONEJ5I_hJ1nF5w0Y3edZYIjUfHILkw79kTmVCvH0-fvpaPLa152gwWoJGMMG7QPzGMKztBjKb6nHPkEF35Ka7f033A7RdI&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXfu8uHTdgJr82HJwGL0jS1W3tybDm6ho95CK7f-398Rssv2cJfIdBFLelNDNl0BFpDrq_bPdijDbF4puxV--EARR7tYUXJufqR69bOA8TcwWXYfFDkhUlVAVlGl-o9cGZRg93AO_onNDh0CEFJxXTZt4RtO_kW1GgKd9K-oGTRV3IS7-F160M0KVeUleIyBlix-QRwMupBBVwfw3D5e9vzpQ8WhcPTBiifvLsEN5DQc9GDtH8ZKtdMvAoeCSv_ONEJ5I_hJ1nF5w0Y3edZYIjUfHILkw79kTmVCvH0-fvpaPLa152gwWoJGMMG7QPzGMKztBjKb6nHPkEF35Ka7f033A7RdI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PVwpMTuPnP49vw7U-XwZ4iYS2g5Pztb9zfYug1aN94cOAa0BpC97xGHKODE3hCK9vIN0meCVEnAd5T1pDctA3iKiS05akfoug5rdKkj9lq9cPyyfZAHgX3uNFcksHYZdSVhl1FIFbgcDlGUboiPwviqI8D-SAJZB8u6JfftoiDcaLrtBnzZmXlAEj3j7q_JnqUGrXFNkpQJYwJE8907HH3t5K_GCdR0oj6YbFmnBS4JD0KSadiTlxS1w7wE9DmwdIz18VLao8O4pvUn7s36TQmkpYHgmKzhhKuHGucWHf22Z812KlCUudcHRheHN8YeNWPlA_Wk",
+            "q": "Marketing Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDi7FRkfK-sybixGHXnUSu2nggCQMA:1793395733477&q=Marketing+Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PVwpMTuPnP49vw7U-XwZ4iYS2g5Pztb9zfYug1aN94cOAa0BpC97xGHKODE3hCK9vIN0meCVEnAd5T1pDctA3iKiS05akfoug5rdKkj9lq9cPyyfZAHgX3uNFcksHYZdSVhl1FIFbgcDlGUboiPwviqI8D-SAJZB8u6JfftoiDcaLrtBnzZmXlAEj3j7q_JnqUGrXFNkpQJYwJE8907HH3t5K_GCdR0oj6YbFmnBS4JD0KSadiTlxS1w7wE9DmwdIz18VLao8O4pvUn7s36TQmkpYHgmKzhhKuHGucWHf22Z812KlCUudcHRheHN8YeNWPlA_Wk&udm=8&sa=X&ved=2ahUKEwj2qYrd1-KXAxWJUFUIHWfDC7IQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Marketing+Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmBIfLeBjAE4WL9ftVV10PVwpMTuPnP49vw7U-XwZ4iYS2g5Pztb9zfYug1aN94cOAa0BpC97xGHKODE3hCK9vIN0meCVEnAd5T1pDctA3iKiS05akfoug5rdKkj9lq9cPyyfZAHgX3uNFcksHYZdSVhl1FIFbgcDlGUboiPwviqI8D-SAJZB8u6JfftoiDcaLrtBnzZmXlAEj3j7q_JnqUGrXFNkpQJYwJE8907HH3t5K_GCdR0oj6YbFmnBS4JD0KSadiTlxS1w7wE9DmwdIz18VLao8O4pvUn7s36TQmkpYHgmKzhhKuHGucWHf22Z812KlCUudcHRheHN8YeNWPlA_Wk&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Remote Marketing Data Analyst",
+      "company_name": "Marketing Architects",
+      "location": "Anywhere",
+      "via": "Talent.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "An agency-trained analyst: 2–5 years of experience in marketing analytics, media analytics or a related quantitative field, ideally supporting campaign measurement",
+            "Strong academic foundation: 3.5 GPA or equivalent academic performance in a quantitative field such as business, economics, statistics, mathematics, computer science, marketing or similar",
+            "Data-literate: You interpret performance data, identify trends, and connect insights back to defined KPIs to inform decisions",
+            "Strong in Excel: Comfortable using formulas, pivots tables and structured analysis to organize, validate and analyze large datasets",
+            "Experienced with BI or data tools: You’ve worked in platforms like Domo, Databricks, SQL or similar environments to explore and troubleshoot data",
+            "Presentation-ready: You’ve built clear, client-ready slides that explain campaign results or analytical findings in a logical way and can present them with confidence",
+            "AI-enabled: You use AI tools to improve workflows, explore data or enhance analysis and you understand their strengths and limitations",
+            "You can walk anyone through the logic, the assumptions and the numbers unaided, and you know when a tool’s output needs to be thrown out",
+            "We take initiative and act with urgency",
+            "Look inwards before outwards",
+            "Mindset Matters: Success starts between our ears"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer rewarding careers that encourage growth while providing industry-leading benefits including:",
+            "Fully remote within the US",
+            "100% employer-paid medical, dental and disability, with vision option",
+            "Traditional and Roth 401(k) with a 4% company match",
+            "Flexible paid time off, 9 paid holidays plus 2 floating holidays",
+            "Paid parental leave",
+            "Annual office supply allowance, monthly internet stipend and employer-paid cell phone",
+            "Opportunities to connect virtually and in-person twice a year with our fully remote team"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Analyst is a core member of our Analytics team, responsible for answering real business questions using marketing and media data",
+            "You’ll report to the Director of Analytics and work closely with cross-functional partners to ensure our measurement is accurate, thoughtful and actionable",
+            "This role is closest to the data and we’re taking an all-inclusive approach to help clients effectively navigate the complexities of measuring television advertising effectiveness",
+            "You’ll deeply understand campaign inputs, assumptions and outputs, and you’ll help teams and clients clearly understand what the numbers mean (and what to do next)",
+            "We expect AI to be part of how you work",
+            "Use it to move faster and cover more ground than an analyst could alone, and bring the judgment that decides which answers are actually right",
+            "Deliver accurate analysis: Complete high-quality analyses that directly answer business and client questions, ensuring data accuracy, and consistency",
+            "Evaluate TV performance: Measure the impact of TV and streaming campaigns on digital performance, business outcomes and overall marketing effectiveness",
+            "Uncover actionable insights: Go beyond surface-level results to identify patterns, risks and opportunities that strengthen campaign decisions",
+            "Validate data and assumptions: Question inputs, methodologies and outputs to ensure results make sense and stand up to scrutiny",
+            "Including AI-generated outputs",
+            "Translate data into clarity: Build clear visualizations and explain findings in plain language so internal teams and clients can confidently act on them",
+            "Work AI-forward: Use AI tools to accelerate querying, scripting, QA and first-draft analysis so you can test more scenarios and turn work around faster using appropriate context, then apply your own judgment to what the results mean",
+            "You can point to work AI helped you do faster or more thoroughly, and you can explain your methodology and your math without it"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=7yUqj9lcLUxNUx_BAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0XNsQrCQAyAYVz7CE4ZnER7IrroVBQEQQRxL-kR7k6vSblkqI_i26qTyz9-f_WeVJsb9WIEFyxPssQBjmgIDWN-qcESztKBEhYfQRhOIiHTdB_NBt05p5rroIaWfO2ld8LUyege0ukvrUYsNGQ0atfb1VgPHOaz_6v5ssnIm0JiuEcpbMILOFw_7G0Im5wAAAA&shmds=v1_Ac3VAoyWCUseXYBTIx3795vAZCY2kW0SVVv63FBTuB3DhIkWXw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=7yUqj9lcLUxNUx_BAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.talent.com/view?id=635758369960960884",
+      "job_title": "Remote Marketing Data Analyst",
+      "description": "Marketing Data AnalystLocation: Remote\nStatus: Full-Time \n\nAt Marketing Architects, we believe TV advertising is still the most powerful marketing channel. But the typical process for TV is expensive, difficult to scale and to measure. So we flipped the traditional approach on its head and rebuilt the agency model with the client in mind. Today, we're growing a team of talent from across the United States to reimagine how brands advertise on TV.\n\n\n\nROLE OVERVIEW The Data Analyst is a core member of our Analytics team, responsible for answering real business questions using marketing and media data. You’ll report to the Director of Analytics and work closely with cross-functional partners to ensure our measurement is accurate, thoughtful and actionable.\n\nThis role is closest to the data and we’re taking an all-inclusive approach to help clients effectively navigate the complexities of measuring television advertising effectiveness. You’ll deeply understand campaign inputs, assumptions and outputs, and you’ll help teams and clients clearly understand what the numbers mean (and what to do next). We expect AI to be part of how you work. Use it to move faster and cover more ground than an analyst could alone, and bring the judgment that decides which answers are actually right.\n\n What you'll do: \n\nDeliver accurate analysis: Complete high-quality analyses that directly answer business and client questions, ensuring data accuracy, and consistency.\n\nEvaluate TV performance: Measure the impact of TV and streaming campaigns on digital performance, business outcomes and overall marketing effectiveness.\n\nUncover actionable insights: Go beyond surface-level results to identify patterns, risks and opportunities that strengthen campaign decisions.\n\nValidate data and assumptions: Question inputs, methodologies and outputs to ensure results make sense and stand up to scrutiny. Including AI-generated outputs.\n\nTranslate data into clarity: Build clear visualizations and explain findings in plain language so internal teams and clients can confidently act on them.\n\nWork AI-forward: Use AI tools to accelerate querying, scripting, QA and first-draft analysis so you can test more scenarios and turn work around faster using appropriate context, then apply your own judgment to what the results mean.\n\n Who you are: \n\nAn agency-trained analyst: 2–5 years of experience in marketing analytics, media analytics or a related quantitative field, ideally supporting campaign measurement.\n\nStrong academic foundation: 3.5 GPA or equivalent academic performance in a quantitative field such as business, economics, statistics, mathematics, computer science, marketing or similar.\n\nData-literate: You interpret performance data, identify trends, and connect insights back to defined KPIs to inform decisions.\n\nStrong in Excel: Comfortable using formulas, pivots tables and structured analysis to organize, validate and analyze large datasets.\n\nExperienced with BI or data tools: You’ve worked in platforms like Domo, Databricks, SQL or similar environments to explore and troubleshoot data.\n\nPresentation-ready: You’ve built clear, client-ready slides that explain campaign results or analytical findings in a logical way and can present them with confidence.\n\nAI-enabled: You use AI tools to improve workflows, explore data or enhance analysis and you understand their strengths and limitations. You can point to work AI helped you do faster or more thoroughly, and you can explain your methodology and your math without it.\n\nAccountable for the answer: The conclusions are yours. You can walk anyone through the logic, the assumptions and the numbers unaided, and you know when a tool’s output needs to be thrown out.\n\n Our values:\n\nHungry Humble Smart: We seek a trifecta of talent. We take initiative and act with urgency. Look inwards before outwards. Value EQ over IQ.\n\nMindset Matters: Success starts between our ears. We face challenges with a calm confidence and pivot quickly. As eternal optimists, we know we are capable of great things and have survived worse. Our best days are always ahead.\n\nTeam Is Hero: We, not me. Being a hero is a team sport and it's the unique talents of many that make us one of a kind. No one person can win the day, but great teams can change the world.\n\n\n\nBENEFITS OVERVIEWWe offer rewarding careers that encourage growth while providing industry-leading benefits including:\n\nFully remote within the US\n\n100% employer-paid medical, dental and disability, with vision option\n\nTraditional and Roth 401(k) with a 4% company match\n\nFlexible paid time off, 9 paid holidays plus 2 floating holidays\n\nPaid parental leave\n\nAnnual office supply allowance, monthly internet stipend and employer-paid cell phone\n\nOpportunities to connect virtually and in-person twice a year with our fully remote team\n\nLearn more at marketingarchitects.com/careers\n\n\n\nADDITIONAL INFORMATIONWe want applications from everyone, regardless of race, creed, color, religion, sex, sexual orientation, gender identity, national origin, marital status, citizen status, age, disability, military or protected veteran status, genetic predisposition or carrier status or any other legally protected status.\n\nOur remote-friendly work model supports flexibility across the US, however we are currently unable to support employment in California. We are unable to consider applicants who live outside of the US.\n\nAt this time, we're not considering candidates that need any type of immigration sponsorship (additional work authorization or permanent work authorization) now or in the future. This includes, but is not limited to: F1-OPT, F1-CPT, H-1B, TN, L-1, J-1, O-1, etc.\n\nThe application for this position may request a short, job relevant assessment as part of our multi-stage interview process. Reasonable accommodations are available for this assessment, please reach out to talentteam@markarch.com.\n\nThe actual base pay is dependent upon many factors, such as training, transferable skills, work experience, business needs, location and market demands. The base pay range is subject to change and may be modified in the future.\n\n#LI-Remote",
+      "apply_options": [
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=635758369960960884&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/remote-marketing-data-analyst-marketing-architects-thornton-co--jooble-4634252089866110895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgTWFya2V0aW5nIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6Ik1hcmtldGluZyBBcmNoaXRlY3RzIiwiaHRpZG9jaWQiOiI3eVVxajlsY0xVeE5VeF9CQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV21waGREQnBNWEZtVm0wNU4xcGxNa2haZUVaVVYzWjFURUZXU0VJd09GUXhkVmRTWkhsMmFsZG5NbTUxV1V0Zk5sOTJlVlEzWDJkd2JWOXZWMmh0WWpsSUxWaEJOalJDU3pOMGIwTklVMFpZWkhVNFZtVnFiVGd3ZFhKMVpVRXhVa05sTmpCeFpWRTNla05OUkRCWU0zcDRZM0ZTZG1WRmQwOHpRbEJ0Y0VNM1VXZHJVVjhTRjBaUmVteGhjbUpNU0VsdGFERm1TVkExTkdGMmEwRnpHaUpCU0U0d1JUZEZaRmwwYm5kMVJYQnZlamxSVDBVMmJsZGhSRWN6WWxSQ1pGQlIiLCJmY3YiOiIzIiwiZmNfaWQiOiI3eVVxajlsY0xVeE5VeF9CQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Remote Marketing Data Analyst",
+      "company_name": "Marketing Architects",
+      "location": "Anywhere",
+      "via": "Talent.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "An agency-trained analyst: 2–5 years of experience in marketing analytics, media analytics or a related quantitative field, ideally supporting campaign measurement",
+            "Strong academic foundation: 3.5 GPA or equivalent academic performance in a quantitative field such as business, economics, statistics, mathematics, computer science, marketing or similar",
+            "Data-literate: You interpret performance data, identify trends, and connect insights back to defined KPIs to inform decisions",
+            "Strong in Excel: Comfortable using formulas, pivots tables and structured analysis to organize, validate and analyze large datasets",
+            "Experienced with BI or data tools: You’ve worked in platforms like Domo, Databricks, SQL or similar environments to explore and troubleshoot data",
+            "Presentation-ready: You’ve built clear, client-ready slides that explain campaign results or analytical findings in a logical way and can present them with confidence",
+            "AI-enabled: You use AI tools to improve workflows, explore data or enhance analysis and you understand their strengths and limitations",
+            "You can walk anyone through the logic, the assumptions and the numbers unaided, and you know when a tool’s output needs to be thrown out",
+            "We take initiative and act with urgency",
+            "Look inwards before outwards",
+            "Mindset Matters: Success starts between our ears"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "We offer rewarding careers that encourage growth while providing industry-leading benefits including:",
+            "Fully remote within the US",
+            "100% employer-paid medical, dental and disability, with vision option",
+            "Traditional and Roth 401(k) with a 4% company match",
+            "Flexible paid time off, 9 paid holidays plus 2 floating holidays",
+            "Paid parental leave",
+            "Annual office supply allowance, monthly internet stipend and employer-paid cell phone",
+            "Opportunities to connect virtually and in-person twice a year with our fully remote team"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Data Analyst is a core member of our Analytics team, responsible for answering real business questions using marketing and media data",
+            "You’ll report to the Director of Analytics and work closely with cross-functional partners to ensure our measurement is accurate, thoughtful and actionable",
+            "This role is closest to the data and we’re taking an all-inclusive approach to help clients effectively navigate the complexities of measuring television advertising effectiveness",
+            "You’ll deeply understand campaign inputs, assumptions and outputs, and you’ll help teams and clients clearly understand what the numbers mean (and what to do next)",
+            "We expect AI to be part of how you work",
+            "Use it to move faster and cover more ground than an analyst could alone, and bring the judgment that decides which answers are actually right",
+            "Deliver accurate analysis: Complete high-quality analyses that directly answer business and client questions, ensuring data accuracy, and consistency",
+            "Evaluate TV performance: Measure the impact of TV and streaming campaigns on digital performance, business outcomes and overall marketing effectiveness",
+            "Uncover actionable insights: Go beyond surface-level results to identify patterns, risks and opportunities that strengthen campaign decisions",
+            "Validate data and assumptions: Question inputs, methodologies and outputs to ensure results make sense and stand up to scrutiny",
+            "Including AI-generated outputs",
+            "Translate data into clarity: Build clear visualizations and explain findings in plain language so internal teams and clients can confidently act on them",
+            "Work AI-forward: Use AI tools to accelerate querying, scripting, QA and first-draft analysis so you can test more scenarios and turn work around faster using appropriate context, then apply your own judgment to what the results mean",
+            "You can point to work AI helped you do faster or more thoroughly, and you can explain your methodology and your math without it"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=A0zgHWBcv3gf87hvAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0XNsQrCMBCAYVz7CE4HbqKNiC46FQVBEMEXKJdwJKlpruRuaN_Ex7VOLv_4_dVnUR1e1LMSPLC8SWP2cEVFaDKmSRS2cGcLQlhcAM5wY_aJluegOsjJGJFUe1HU6GrHveFMlkfTsZVfWglYaEio1O6Pu7Eesl-v_q9mZqOSU4E444Uo0bSBy_MLq5gOH5sAAAA&shmds=v1_Ac3VAox2qWQ-kq4baVfCLrHBT6R8CrjylB0bQmNm1hUxsMk1Xg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=A0zgHWBcv3gf87hvAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.talent.com/view?id=635756985611454611",
+      "job_title": "Remote Marketing Data Analyst",
+      "description": "Marketing Data AnalystLocation: Remote\nStatus: Full-Time \n\nAt Marketing Architects, we believe TV advertising is still the most powerful marketing channel. But the typical process for TV is expensive, difficult to scale and to measure. So we flipped the traditional approach on its head and rebuilt the agency model with the client in mind. Today, we're growing a team of talent from across the United States to reimagine how brands advertise on TV.\n\n\n\nROLE OVERVIEW The Data Analyst is a core member of our Analytics team, responsible for answering real business questions using marketing and media data. You’ll report to the Director of Analytics and work closely with cross-functional partners to ensure our measurement is accurate, thoughtful and actionable.\n\nThis role is closest to the data and we’re taking an all-inclusive approach to help clients effectively navigate the complexities of measuring television advertising effectiveness. You’ll deeply understand campaign inputs, assumptions and outputs, and you’ll help teams and clients clearly understand what the numbers mean (and what to do next). We expect AI to be part of how you work. Use it to move faster and cover more ground than an analyst could alone, and bring the judgment that decides which answers are actually right.\n\n What you'll do: \n\nDeliver accurate analysis: Complete high-quality analyses that directly answer business and client questions, ensuring data accuracy, and consistency.\n\nEvaluate TV performance: Measure the impact of TV and streaming campaigns on digital performance, business outcomes and overall marketing effectiveness.\n\nUncover actionable insights: Go beyond surface-level results to identify patterns, risks and opportunities that strengthen campaign decisions.\n\nValidate data and assumptions: Question inputs, methodologies and outputs to ensure results make sense and stand up to scrutiny. Including AI-generated outputs.\n\nTranslate data into clarity: Build clear visualizations and explain findings in plain language so internal teams and clients can confidently act on them.\n\nWork AI-forward: Use AI tools to accelerate querying, scripting, QA and first-draft analysis so you can test more scenarios and turn work around faster using appropriate context, then apply your own judgment to what the results mean.\n\n Who you are: \n\nAn agency-trained analyst: 2–5 years of experience in marketing analytics, media analytics or a related quantitative field, ideally supporting campaign measurement.\n\nStrong academic foundation: 3.5 GPA or equivalent academic performance in a quantitative field such as business, economics, statistics, mathematics, computer science, marketing or similar.\n\nData-literate: You interpret performance data, identify trends, and connect insights back to defined KPIs to inform decisions.\n\nStrong in Excel: Comfortable using formulas, pivots tables and structured analysis to organize, validate and analyze large datasets.\n\nExperienced with BI or data tools: You’ve worked in platforms like Domo, Databricks, SQL or similar environments to explore and troubleshoot data.\n\nPresentation-ready: You’ve built clear, client-ready slides that explain campaign results or analytical findings in a logical way and can present them with confidence.\n\nAI-enabled: You use AI tools to improve workflows, explore data or enhance analysis and you understand their strengths and limitations. You can point to work AI helped you do faster or more thoroughly, and you can explain your methodology and your math without it.\n\nAccountable for the answer: The conclusions are yours. You can walk anyone through the logic, the assumptions and the numbers unaided, and you know when a tool’s output needs to be thrown out.\n\n Our values:\n\nHungry Humble Smart: We seek a trifecta of talent. We take initiative and act with urgency. Look inwards before outwards. Value EQ over IQ.\n\nMindset Matters: Success starts between our ears. We face challenges with a calm confidence and pivot quickly. As eternal optimists, we know we are capable of great things and have survived worse. Our best days are always ahead.\n\nTeam Is Hero: We, not me. Being a hero is a team sport and it's the unique talents of many that make us one of a kind. No one person can win the day, but great teams can change the world.\n\n\n\nBENEFITS OVERVIEWWe offer rewarding careers that encourage growth while providing industry-leading benefits including:\n\nFully remote within the US\n\n100% employer-paid medical, dental and disability, with vision option\n\nTraditional and Roth 401(k) with a 4% company match\n\nFlexible paid time off, 9 paid holidays plus 2 floating holidays\n\nPaid parental leave\n\nAnnual office supply allowance, monthly internet stipend and employer-paid cell phone\n\nOpportunities to connect virtually and in-person twice a year with our fully remote team\n\nLearn more at marketingarchitects.com/careers\n\n\n\nADDITIONAL INFORMATIONWe want applications from everyone, regardless of race, creed, color, religion, sex, sexual orientation, gender identity, national origin, marital status, citizen status, age, disability, military or protected veteran status, genetic predisposition or carrier status or any other legally protected status.\n\nOur remote-friendly work model supports flexibility across the US, however we are currently unable to support employment in California. We are unable to consider applicants who live outside of the US.\n\nAt this time, we're not considering candidates that need any type of immigration sponsorship (additional work authorization or permanent work authorization) now or in the future. This includes, but is not limited to: F1-OPT, F1-CPT, H-1B, TN, L-1, J-1, O-1, etc.\n\nThe application for this position may request a short, job relevant assessment as part of our multi-stage interview process. Reasonable accommodations are available for this assessment, please reach out to talentteam@markarch.com.\n\nThe actual base pay is dependent upon many factors, such as training, transferable skills, work experience, business needs, location and market demands. The base pay range is subject to change and may be modified in the future.\n\n#LI-Remote",
+      "apply_options": [
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=635756985611454611&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgTWFya2V0aW5nIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6Ik1hcmtldGluZyBBcmNoaXRlY3RzIiwiaHRpZG9jaWQiOiJBMHpnSFdCY3YzZ2Y4N2h2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhjMVZDMTNXa1ptWmtVME1rUmxZbnB4U2xwVlMxUmxVVTFsUlRORVQwTkRaSEpQWm5aWWQyeFZkek15ZWxkMFgzQnhVV3g1WTNGWk5YWXpYM0JXUWpCRVRGOHRSamQ0VDNVdGR6QjZialpNUVdOM2VtSndSWGc0TFhKVGFFZE1iVFpFTm5kV05WVkVSWEZPYVZCaVdWVlphQzAzVGs1SVNWSTBVek5mYjJOc1VreFNNbFlTRjBaUmVteGhjbUpNU0VsdGFERm1TVkExTkdGMmEwRnpHaUpCU0U0d1JUZEllRzFmWlRCSFFYVk9WVkJFYUdWQ1VrOHRSelJ4VjFabmVGUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBMHpnSFdCY3YzZ2Y4N2h2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst-Marketing Member",
+      "company_name": "Blue Federal Credit Union",
+      "location": "Cheyenne, WY",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Three years to five years of similar or related experience, including preparatory experience",
+            "Advanced SQL Mastery: Proven ability to write, debug, and optimize complex multi-table joins, subqueries, CTEs, and window functions against enterprise relational databases",
+            "BI & Data Modeling Expertise: Demonstrated experience building end-to-end data models and dashboards in Power BI (including DAX and data shaping) or Tableau",
+            "Statistical Scripting: Working knowledge or active application of Python (Pandas, NumPy, Scikit-Learn) for data manipulation, process automation, and predictive modeling",
+            "Familiarity with member survey/experience platforms (Qualtrics, Medallia, MemberXP) and integrating survey sentiment with transactional datasets",
+            "A bachelor’s degree in data Analytics, Computer Science, Statistics, Economics, Finance, Marketing Analytics, or equivalent quantitative discipline/ work experience",
+            "[3–5+ years querying complex databases, engineering marketing/member audience files, and building enterprise reporting solutions, ideally within financial services (Banks or Credit Unions) or data-intensive consumer industries]",
+            "A significant level of trust, credibility and diplomacy is required",
+            "Strong analytical spreadsheet and communication skills, demonstrated ability to handle multiple projects simultaneously, new product development, packaging design, competitive analysis, consumer promotion, advertising media and copy, scan data analysis",
+            "Familiarity with MCIF systems, CD-ROM directories and market data on disc, survey research and statistical analysis software, mapping software, market research directories and online data services",
+            "Is able to bend, sit, and stand in order to perform primarily sedentary work for long periods of time with limited physical exertion and occasional lifting of up to 20 lbs",
+            "Must be capable of climbing / descending stairs in an emergency situation",
+            "Must be able to operate routine office equipment including computer terminals and keyboards, telephones, copiers, facsimiles, and calculators",
+            "Must be able to routinely sustain repetitive motion while using computer keyboard for an average of 6-8 hours per day, when necessary",
+            "Must be able to work extended hours or travel off site whenever required or requested by management",
+            "Must be capable of regular, reliable and timely attendance",
+            "Must be able to routinely perform work indoors in climate-controlled shared work area with minimal noise",
+            "Mental and/or Emotional Requirements",
+            "Must be able to perform job functions independently or with limited supervision and work effectively either on own or as part of a team",
+            "Must be able to read and carry out various written instructions and follow oral instructions",
+            "Must be able to speak clearly and deliver information in a logical and understandable sequence",
+            "Must be capable of dealing calmly and professionally with numerous different personalities from diverse cultures at various levels within and outside of the organization and demonstrate highest levels of customer service and discretion when dealing with the public",
+            "Must be able to perform responsibilities with composure under the stress of deadlines / requirements for extreme accuracy and quality and/or fast pace",
+            "Must be able to effectively handle multiple, simultaneous, and changing priorities",
+            "Must be capable of exercising highest level of discretion on both internal and external confidential matters"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Starting Range: $63,911.72 - $71,611.93",
+            "Full Range: $61,601.65 - $92,402.48",
+            "Employee Benefits (https://www.bluefcu.com/wp-content/uploads/2024/12/BlueFCU_EmployeeBenefits_08.2024.pdf)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This high-impact role blends quantitative data engineering (SQL querying, audience file generation, dashboard design) with qualitative member journey analytics (survey sentiment, engagement drivers)",
+            "The analyst translates complex metrics into clear narrative strategies, presenting actionable recommendations to senior leadership to address root causes and optimize institutional ROI",
+            "Audience Engineering & SQL Pipeline Development: Write, optimize, and maintain advanced SQL queries (multi-table joins, CTEs, window functions) across core banking systems, data warehouses, and MCIF/CRM platforms; engineer and deliver high-precision audience segmentation files and suppression logic for omni-channel campaigns (direct mail, digital ads, email, etc)",
+            "Enforce validation protocols, data hygiene, and regulatory compliance (GLBA, CAN-SPAM, FCRA, Fair Lending); automate recurring data extractions to reduce manual friction and accelerate campaign go-to-market cycles",
+            "Member Journey, Behavioral & Predictive Analytics: Integrate quantitative core data (product penetration, interchange volumes, digital adoption) with qualitative sentiment (NPS, member effort scores, onboarding feedback) to assess full member lifecycle dynamics; conduct root-cause analyses on acquisition, cross-sell propensity, deposit elasticity, and attrition/dormancy risks",
+            "Build Python (Pandas, NumPy, Scikit-Learn) workflows for exploratory analysis, persona clustering, and predictive conversion modeling; design and measure A/B and multivariate campaign tests with clear attribution (acquisition cost, ROAS, portfolio growth, lifetime value)",
+            "Enterprise Dashboard Architecture & Semantic Data Modeling: Architect and maintain interactive enterprise dashboards and semantic data models in Power BI (advanced DAX, Power Query) or Tableau to monitor institutional KPIs, campaign effectiveness, and operational touchpoints",
+            "Partner cross-functionally (Retail Branches, Lending, Wealth Management, etc) to translate ambiguous business questions into automated reporting solutions; maintain data dictionaries, audience logic, reporting catalogs, and lineage documentation",
+            "Executive Advisory & Strategic Data Storytelling: Synthesize findings into compelling executive-level presentations, visual scorecards, and narrative business cases for Senior Leadership and Committee review",
+            "Serve as internal strategic consultant to department heads, providing data-backed recommendations on product design, pricing sensitivity, branch operations, and member retention; champion self-service dashboard adoption and metrics interpretation across the organization",
+            "Must comply with all company policies and procedures, applicable laws and regulations, including but not limited to, the Bank Secrecy Act, the Patriot Act, and the Office of Foreign Assets Control",
+            "In-depth dialogues, conversations and explanations with customers, direct and indirect reports and outside vendors can be of a sensitive and/or highly confidential nature",
+            "Communications may involve motivating, influencing, educating and/or advising others on matters of significance"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=sh9wR0WJ-Fk4HqkYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU63KrYR0UUnrSgIHUWc5NoeSTS9K8kJ7c_4reryxpd9Jtn6iIqwZwxj0rzC-CL1bKGirqYIOVykhkQYGwfCcBaxgaY7p9qnrTEphcImRfVN0UhnhKmWwTylTn8eyWGkPqDSY7VZDkXPdj47hDfBiVqKGKCM1HqFK_tf7xlKRyMx0wJu9y9lEYXhoQAAAA&shmds=v1_Ac3VAow2krEiRP6DvxF62K4i6dn7KRhR2rv6wHXkybyR-QuJDw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=sh9wR0WJ-Fk4HqkYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c146bb5352e38004f4d/images/ejiV4eTVneS3TC5_mhuEJO5oadmjQjcQ-gfONB6V0Z8.jpeg",
+      "extensions": [
+        "21 days ago",
+        "63,911.72–92,402.48 a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=40af0c20658e23dc",
+      "job_title": "Data Analyst-Marketing Member",
+      "description": "At Blue, we discover pathways to realize your possibilities! Our Marketing & Member Date Analyst serves as the central data engine and strategic advisor for marketing, member experience, and institutional growth. This high-impact role blends quantitative data engineering (SQL querying, audience file generation, dashboard design) with qualitative member journey analytics (survey sentiment, engagement drivers). The analyst translates complex metrics into clear narrative strategies, presenting actionable recommendations to senior leadership to address root causes and optimize institutional ROI.\n\n\n \n\n\n Major Duties and Responsibilities\n \n  Audience Engineering & SQL Pipeline Development: Write, optimize, and maintain advanced SQL queries (multi-table joins, CTEs, window functions) across core banking systems, data warehouses, and MCIF/CRM platforms; engineer and deliver high-precision audience segmentation files and suppression logic for omni-channel campaigns (direct mail, digital ads, email, etc). Enforce validation protocols, data hygiene, and regulatory compliance (GLBA, CAN-SPAM, FCRA, Fair Lending); automate recurring data extractions to reduce manual friction and accelerate campaign go-to-market cycles\n  Member Journey, Behavioral & Predictive Analytics: Integrate quantitative core data (product penetration, interchange volumes, digital adoption) with qualitative sentiment (NPS, member effort scores, onboarding feedback) to assess full member lifecycle dynamics; conduct root-cause analyses on acquisition, cross-sell propensity, deposit elasticity, and attrition/dormancy risks. Build Python (Pandas, NumPy, Scikit-Learn) workflows for exploratory analysis, persona clustering, and predictive conversion modeling; design and measure A/B and multivariate campaign tests with clear attribution (acquisition cost, ROAS, portfolio growth, lifetime value).\n  Enterprise Dashboard Architecture & Semantic Data Modeling: Architect and maintain interactive enterprise dashboards and semantic data models in Power BI (advanced DAX, Power Query) or Tableau to monitor institutional KPIs, campaign effectiveness, and operational touchpoints. Partner cross-functionally (Retail Branches, Lending, Wealth Management, etc) to translate ambiguous business questions into automated reporting solutions; maintain data dictionaries, audience logic, reporting catalogs, and lineage documentation.\n  Executive Advisory & Strategic Data Storytelling: Synthesize findings into compelling executive-level presentations, visual scorecards, and narrative business cases for Senior Leadership and Committee review. Serve as internal strategic consultant to department heads, providing data-backed recommendations on product design, pricing sensitivity, branch operations, and member retention; champion self-service dashboard adoption and metrics interpretation across the organization.\n  Must comply with all company policies and procedures, applicable laws and regulations, including but not limited to, the Bank Secrecy Act, the Patriot Act, and the Office of Foreign Assets Control.\n \n \n\n \n\n\n  Knowledge and Skills\n  Experience\n\n\n Three years to five years of similar or related experience, including preparatory experience. Advanced SQL Mastery: Proven ability to write, debug, and optimize complex multi-table joins, subqueries, CTEs, and window functions against enterprise relational databases. BI & Data Modeling Expertise: Demonstrated experience building end-to-end data models and dashboards in Power BI (including DAX and data shaping) or Tableau. Statistical Scripting: Working knowledge or active application of Python (Pandas, NumPy, Scikit-Learn) for data manipulation, process automation, and predictive modeling. Preferred Domain Knowledge: Direct experience with core financial processing systems (e.g., Jack Henry Symitar/Episys, Corelation Keystone, Fiserv) and MCIF/CRM platforms. Familiarity with member survey/experience platforms (Qualtrics, Medallia, MemberXP) and integrating survey sentiment with transactional datasets.\n\n\n  Education/Certifications/Licenses\n\n\n A bachelor’s degree in data Analytics, Computer Science, Statistics, Economics, Finance, Marketing Analytics, or equivalent quantitative discipline/ work experience. [3–5+ years querying complex databases, engineering marketing/member audience files, and building enterprise reporting solutions, ideally within financial services (Banks or Credit Unions) or data-intensive consumer industries].\n\n\n  Interpersonal Skills\n\n\n A significant level of trust, credibility and diplomacy is required. In-depth dialogues, conversations and explanations with customers, direct and indirect reports and outside vendors can be of a sensitive and/or highly confidential nature. Communications may involve motivating, influencing, educating and/or advising others on matters of significance.\n\n\n  Other Skills\n\n\n Strong analytical spreadsheet and communication skills, demonstrated ability to handle multiple projects simultaneously, new product development, packaging design, competitive analysis, consumer promotion, advertising media and copy, scan data analysis. Familiarity with MCIF systems, CD-ROM directories and market data on disc, survey research and statistical analysis software, mapping software, market research directories and online data services.\n\n\n  FULL TIME POSITION\n\n\n  Starting Range: $63,911.72 - $71,611.93\n\n\n  Full Range: $61,601.65 - $92,402.48\n\n\n  ADA Requirements\n  Physical Requirements\n\n\n Is able to bend, sit, and stand in order to perform primarily sedentary work for long periods of time with limited physical exertion and occasional lifting of up to 20 lbs. Must be capable of climbing / descending stairs in an emergency situation. Must be able to operate routine office equipment including computer terminals and keyboards, telephones, copiers, facsimiles, and calculators. Must be able to routinely sustain repetitive motion while using computer keyboard for an average of 6-8 hours per day, when necessary. Must be able to work extended hours or travel off site whenever required or requested by management. Must be capable of regular, reliable and timely attendance.\n\n\n  Working Conditions\n\n\n Must be able to routinely perform work indoors in climate-controlled shared work area with minimal noise.\n\n\n  Mental and/or Emotional Requirements\n\n\n Must be able to perform job functions independently or with limited supervision and work effectively either on own or as part of a team. Must be able to read and carry out various written instructions and follow oral instructions. Must be able to speak clearly and deliver information in a logical and understandable sequence. Must be capable of dealing calmly and professionally with numerous different personalities from diverse cultures at various levels within and outside of the organization and demonstrate highest levels of customer service and discretion when dealing with the public. Must be able to perform responsibilities with composure under the stress of deadlines / requirements for extreme accuracy and quality and/or fast pace. Must be able to effectively handle multiple, simultaneous, and changing priorities. Must be capable of exercising highest level of discretion on both internal and external confidential matters.\n\n\n For more information about being a Blue employee please check out these links for a glimpse at the culture and opportunities we strive to provide for our employees:\n\n\n Employee Benefits (https://www.bluefcu.com/wp-content/uploads/2024/12/BlueFCU_EmployeeBenefits_08.2024.pdf)\n\n\n Culture BluePrint (https://issuu.com/bluefcu/docs/cultureblueprint)\n\n\n Working at Blue (https://youtu.be/5kiHHF7GXTY) Video\n\n\n At Blue Federal Credit Union, we don’t just accept difference – we celebrate it! We are committed to providing an inclusive and welcoming environment for all our staff and members. Blue FCU is proud to be an equal opportunity workplace. We will consider applicants for this position without regard to any category protected by applicable federal, state or local law, including but not limited to race, color, religion, sex (including pregnancy), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factors. All employment decisions are made based on qualifications, merit, and business need.\n\n\n Equal Opportunity Employer\n\n   This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights (https://www.eeoc.gov/poster) notice from the Department of Labor.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=40af0c20658e23dc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/blue-federal-credit-union/Job/Data-Analyst-Marketing-Member/-in-Cheyenne,WY?jid=bd05f2815cf80283&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-analyst-marketing-member-cheyenne-wy--6e7a605f-4c54-4b69-a6ea-1aff978f36ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/data-analyst-marketing-member--cheyenne--e5040b6f33df009d38b7d644c3dfa585a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010291250102&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/75d90853-eba9-413e-82c5-d8503ce175c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/5968599435372920832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4023-b5075acc1722272e8597ff0e4f0ac942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QtTWFya2V0aW5nIE1lbWJlciIsImNvbXBhbnlfbmFtZSI6IkJsdWUgRmVkZXJhbCBDcmVkaXQgVW5pb24iLCJodGlkb2NpZCI6InNoOXdSMFdKLUZrNEhxa1lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXWFp3VldJdFRVWnRSelpFYldKNmJubE9VM2hOUjJSZlNqbDBVbDlWY0ZWZlZtZHRjMnhIUkVKbVNUZE5hMkpNVlRoV1dtRlhaMHhTVDBwWk9VWnNTMVV0YlRGNVRuUnpVMlJDYTNCQ2VqQmlibEZNV0daM2Ezb3dOR3RKVTA5R1FWZFJhR2RFWmxWeFQyUTJNMjlDY1VzMFExcGpRbkJrY1c5d1lWZHNPV3czZVRONlNtRVNGMFpSZW14aGNtSk1TRWx0YURGbVNWQTFOR0YyYTBGekdpSkJTRTR3UlRkR0xXdFNUMkpxUVRZeU1tZEZhbkZhWm1GcE4yZFZSR3hmU0VWbiIsImZjdiI6IjMiLCJmY19pZCI6InNoOXdSMFdKLUZrNEhxa1lBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Marketing Operations Data Analyst",
+      "company_name": "FocusKPI",
+      "location": "Thornton, CO",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is a hands-on technical role, ideal for someone who thrives in ambiguity, works autonomously with large data sets, and brings structure to complex problems",
+            "The ideal candidate is innately curious and passionate about identifying novel approaches to derive value from disparate data sets and highly motivated to improve your skillset around the modern data stack",
+            "Bachelor’s degree in Data Science, Computer Science, or a related field",
+            "Minimum of 3-5 years of experience in data management, analytics, or similar, preferably within a marketing environment",
+            "Proficiency in SQL for data manipulation and analysis",
+            "Comfortable with Python",
+            "Experience working within data platforms like Databricks/Snowflake, and analytics modeling platforms such as Tableau",
+            "Strong analytical and problem-solving skills with the ability to interpret complex data sets and generate actionable insights",
+            "Exceptional attention to detail and a commitment to maintaining high data quality standards",
+            "Demonstrates innate curiosity, comfort with ambiguity, and a proactive approach to identifying opportunities for improvement and innovation in data processes"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Marketing Operations Analyst on the Marketing Operations & Technology team, you’ll help share the client's marketing data strategy",
+            "This includes driving data governance and consistency across systems, enabling effective audience targeting for strategic marketing initiatives, and ensuring compliance with privacy regulations such as GDPR and CCPA",
+            "The role involves writing complex SQL to access data in our warehouse, while also building and activating audiences through our customer data platform (CDP)",
+            "Audience Targeting: Develop and implement audience segmentation strategies using advanced SQL queries and data manipulation to support targeted campaigns",
+            "Data Governance and Management: Gain a comprehensive understanding of our data quality and flow processes, while identifying and developing solutions to enhance data usability and accessibility",
+            "Compliance Oversight: Ensure all marketing data practices adhere to privacy regulations, including GDPR and CCPA",
+            "Data Integration: Collaborate with cross-functional teams such as IT and engineering to integrate data from various sources into the customer data platform (CDP) for comprehensive analysis",
+            "Design and execute data analyses to derive actionable insights, providing stakeholders with regular reports on marketing performance and audience behaviour",
+            "Collaboration and Communication: Collaborate cross-functionally with marketing stakeholders to gather evolving requirements, design effective solutions, and clearly communicate nuances of the deliverable to ensure alignment and actionable outcomes"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=9PjnxqIJzFoxB3EpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7BeJ0s2gigiA6iaKoSB3cyzWEpBrvQu6E-hn-sbq87VWfQbW8YHl47ShAnX1B7ZgEdqgIG8L0FoUpnLgF8VhcBCY4MIfkR-uommVlrUgyQfRXnXH8tEy-5d7euZU_jUQsPidU38wXs95kCuPhnt1LztcjdAS3yIWUaQLb-gvx1kAflAAAAA&shmds=v1_Ac3VAoxsBzY0TUVMQg1z2PxYW3GFFe5dfmSxM4_Ttadnkt7Ykw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=9PjnxqIJzFoxB3EpAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://us.trabajo.org/job-3262-a9b2ca090166ac24c5e897742d0e8979",
+      "job_title": "Marketing Operations Data Analyst",
+      "description": "FocusKPI is looking for a Marketing Operations Analyst to join one of our clients, a high-tech SaaS company. As a Marketing Operations Analyst on the Marketing Operations & Technology team, you’ll help share the client's marketing data strategy. This includes driving data governance and consistency across systems, enabling effective audience targeting for strategic marketing initiatives, and ensuring compliance with privacy regulations such as GDPR and CCPA.\nThis is a hands-on technical role, ideal for someone who thrives in ambiguity, works autonomously with large data sets, and brings structure to complex problems. The role involves writing complex SQL to access data in our warehouse, while also building and activating audiences through our customer data platform (CDP). The ideal candidate is innately curious and passionate about identifying novel approaches to derive value from disparate data sets and highly motivated to improve your skillset around the modern data stack.\nAudience Targeting: Develop and implement audience segmentation strategies using advanced SQL queries and data manipulation to support targeted campaigns.\nData Governance and Management: Gain a comprehensive understanding of our data quality and flow processes, while identifying and developing solutions to enhance data usability and accessibility.\nCompliance Oversight: Ensure all marketing data practices adhere to privacy regulations, including GDPR and CCPA.\nData Integration: Collaborate with cross-functional teams such as IT and engineering to integrate data from various sources into the customer data platform (CDP) for comprehensive analysis.\nDesign and execute data analyses to derive actionable insights, providing stakeholders with regular reports on marketing performance and audience behaviour.\nCollaboration and Communication: Collaborate cross-functionally with marketing stakeholders to gather evolving requirements, design effective solutions, and clearly communicate nuances of the deliverable to ensure alignment and actionable outcomes.\nBachelor’s degree in Data Science, Computer Science, or a related field\nMinimum of 3-5 years of experience in data management, analytics, or similar, preferably within a marketing environment\nProficiency in SQL for data manipulation and analysis. Comfortable with Python.\nExperience working within data platforms like Databricks/Snowflake, and analytics modeling platforms such as Tableau\nStrong analytical and problem-solving skills with the ability to interpret complex data sets and generate actionable insights.\nExceptional attention to detail and a commitment to maintaining high data quality standards.\nDemonstrates innate curiosity, comfort with ambiguity, and a proactive approach to identifying opportunities for improvement and innovation in data processes",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3262-a9b2ca090166ac24c5e897742d0e8979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgT3BlcmF0aW9ucyBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJGb2N1c0tQSSIsImh0aWRvY2lkIjoiOVBqbnhxSUp6Rm94QjNFcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFluVXdkbTVSWjBoUmVtZE9hamhTU25STk1EUjVVMm8wTlVob2IweE1UMUF5YkhjM09HRkxNVXRGZFU1WlpuZDJRazlmYUdjNVZ6ZGFVbXhDTWpST2MwdEZXVmxzTTJOMGRFVk9iVTFaVlc4elkyNHRabVJCWDJ4blRXeHlNMHRsUkhKVmEzVlBUbFpOT1ZOV2RHcFBVbmxXVVRKUlJVSklUVVJaV21wRFJ6azNhRGhxVUdrU0YwWlJlbXhoY21KTVNFbHRhREZtU1ZBMU5HRjJhMEZ6R2lKQlNFNHdSVGRJVkU4d1pXazRWbE5sYVRsRmNISk1hbVZ2VFVwS05XZFVTVzVSIiwiZmN2IjoiMyIsImZjX2lkIjoiOVBqbnhxSUp6Rm94QjNFcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Marketing Analytics & Insights Analyst (Hybrid)",
+      "company_name": "Alpine Bank",
+      "location": "Colorado Springs, CO",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Alpine Bank is seeking a Marketing Reporting Analyst to gather, organize, and interpret marketing data across channels",
+            "You will create executive reports, forecast trends, and aid budget decisions while handling customer surveys and insights",
+            "The role supports a hybrid schedule with on-site presence and remote work options"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=16A69dstud6DZoYAAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOSwrCMBBAcdsjuBoQREVbEdzoqhb8gbjwADJpQxIbZ0Imi_ZKntKKm7d4i8fLPqPseMPY6uTIQEno--RqgSlcSJyxSf5SEszOvYqumcMKrqxANMbaAhOcmI3X471NKciuKER8biThEMprfhdMWnFXvFjJD0-xGHXwmPRzs113eSCzmJQ-ONJwQGrBEVTsOWLD8AhxOJMlVPcvc1gerK0AAAA&shmds=v1_Ac3VAoy2EAMHeU9qTzjiqWHqYabXaIYFZLvgaOVac7_pO1M0UQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=16A69dstud6DZoYAAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c146bb5352e38004f4d/images/RzmVUHSk0v8jDRJu8y1XLRsClIUdLKbQBLtMRYFQQKo.png",
+      "extensions": [
+        "10 days ago",
+        "67K–79K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/marketing-analytics-insights-analyst-hybrid--colorado-springs--e90dc08c573185ee01d898cd0a16874b8",
+      "job_title": "Marketing Analytics & Insights Analyst (Hybrid)",
+      "description": "Alpine Bank is seeking a Marketing Reporting Analyst to gather, organize, and interpret marketing data across channels. You will create executive reports, forecast trends, and aid budget decisions while handling customer surveys and insights.\n\nThe role supports a hybrid schedule with on-site presence and remote work options. A bachelor’s degree in Marketing Research, Data Analytics, or MIS and at least two years in data analysis are preferred.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/marketing-analytics-insights-analyst-hybrid--colorado-springs--e90dc08c573185ee01d898cd0a16874b8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgQW5hbHl0aWNzIFx1MDAyNiBJbnNpZ2h0cyBBbmFseXN0IChIeWJyaWQpIiwiY29tcGFueV9uYW1lIjoiQWxwaW5lIEJhbmsiLCJodGlkb2NpZCI6IjE2QTY5ZHN0dWQ2RFpvWUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbTFpZUhaNk1rbExOMlV3U2xrM1RqQjVlRVZKV0ZCblNIRmpZMjV3WkUxcFVWaFhNekJWZG5sR2IwRlZjR3B6U21oRUxUazRjSGgzYUVGTlRWWnVNeloxVERsT2NUSkRSSGMxT0dsVE1YUkdPRUZ0TldKeFJFaFlVR2xIU0ZsV05FaHBOMUJVWDBGWVdYRTNWMlZPUjJFeldHZ3dNSFZTVVdaVWNsVTFRWEl5YldKSVkwc1NGMFpSZW14aGNtSk1TRWx0YURGbVNWQTFOR0YyYTBGekdpSkJTRTR3UlRkR2JEWk9aVGt0ZUVVemJsRlhSWFJGWTNaaU9XeEROblUyU0VwUiIsImZjdiI6IjMiLCJmY19pZCI6IjE2QTY5ZHN0dWQ2RFpvWUFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst, Marketing",
+      "company_name": "TurboTenant",
+      "location": "Denver, CO",
+      "via": "DataAnalyst.com",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "At least 2+ years in a Marketing Analytics role, with a strong background in analyzing and interpreting complex data",
+            "Proficiency in Excel functions such as Index Match, Pivot Tables, SumIf, Vlookup, and If statements, along with the ability to produce clear and insightful graphs",
+            "At least 1+ years of hands-on experience leveraging GA4 for insights and performance measurement.In-depth knowledge of key metrics like ROAS, ROI, CAC, CPSU, LTV, Churn Rates, CPA, CPC, CPM, and CAC Payback, and how they interrelate",
+            "Experience using a data visualization platform (bonus points for Metabase) to create clear, impactful visual representations of data",
+            "Deep experience working with complex attribution models to extract actionable insights that drive strategic decisions and optimize spend",
+            "Experience with digital media platforms like Google Ads Campaign Manager, Facebook Ad Manager, and other digital tools",
+            "Ability to effectively interpret data and present it in easy-to-understand visualizations that support decision-making",
+            "A demonstrated ability to manage projects independently and work autonomously to meet goals",
+            "Programming experience with Python or R",
+            "Knowledge of AWS S3, Glue, and Athena for data storage and processing",
+            "Familiarity with API integration and data ETL processes",
+            "Understanding or experience with Halo Analysis",
+            "Familiarity with GitHub or other code version control platforms"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We are looking for a passionate and inquisitive Marketing Data Analyst to join our Data Analytics team, with a strong focus on bridging the gap between the Data and Marketing teams",
+            "This role will support the Marketing team with reporting and ad hoc requests, while also playing a crucial role in the data management and organization responsibilities of the data team",
+            "We're seeking someone who can elevate our marketing analytics efforts and drive impactful, data-driven strategies",
+            "Utilize comprehensive reporting tools, SQL, and GA4 to conduct ad-hoc analyses, monitor campaign performance, and create compelling visualizations",
+            "Support the Marketing team by delivering easy-to-digest data and actionable insights, empowering them to make informed, data-driven decisions",
+            "Lead the management and integration of marketing data from various sources",
+            "Be responsible for ETL processes to bring new data into TurboTenant's data lake, ensuring that the Marketing department has access to comprehensive and accurate data from all essential sources",
+            "Enjoy the freedom to conduct independent BI research, analyze data proactively, and identify areas for improvement",
+            "Have the autonomy to recognize problems or opportunities at an organizational level and take action to implement data-driven solutions that drive meaningful impact across the company",
+            "Oversee the accuracy and organization of TurboTenant's data lake in collaboration with the Data Team",
+            "Automate and maintain data processes, integrate new data sources, and update Metabase reports to reflect product changes",
+            "Connect user behavior with data and create comprehensive visualizations for KPIs and overall business performance"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=2f3yYrwMPjs0TvfsAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7BzrdLDURwUUnsSAI4tK9XMqRtsa7kDul_oGfLb7hVd9F5Ro0hBNj-qjVcMPyIBs5wgauEkAJSz-AMFxEYqLVcTDLevBeNbmohjb2rpenF6Ygs58k6L9OByyUExp1u_12dpnjetm-SpCWGNlgZGiI31RqON9_Ftq1hIsAAAA&shmds=v1_Ac3VAoyCJvK1H7pgdZ0mqzZYgv-BLuMMEyswpxz4DosP9-5CBA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=2f3yYrwMPjs0TvfsAAAAAA%3D%3D",
+      "extensions": [
+        "91K–99K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.dataanalyst.com/job/data-analyst-marketing-71b20",
+      "job_title": "Data Analyst, Marketing",
+      "description": "TurboTenant is hiring a  Data Analyst, Marketing with 0 - 3 years of experience. Based in United States - Denver, CO and with Hybrid ways of working. \n  \n  Job description and responsibilities: \n\nWe are looking for a passionate and inquisitive Marketing Data Analyst to join our Data Analytics team, with a strong focus on bridging the gap between the Data and Marketing teams. This role will support the Marketing team with reporting and ad hoc requests, while also playing a crucial role in the data management and organization responsibilities of the data team. We're seeking someone who can elevate our marketing analytics efforts and drive impactful, data-driven strategies.\n\n\nAs a Marketing Data Analyst at TurboTenant, you will:\n\n\n\nUtilize comprehensive reporting tools, SQL, and GA4 to conduct ad-hoc analyses, monitor campaign performance, and create compelling visualizations. \nSupport the Marketing team by delivering easy-to-digest data and actionable insights, empowering them to make informed, data-driven decisions.\nLead the management and integration of marketing data from various sources. \nBe responsible for ETL processes to bring new data into TurboTenant's data lake, ensuring that the Marketing department has access to comprehensive and accurate data from all essential sources.\nEnjoy the freedom to conduct independent BI research, analyze data proactively, and identify areas for improvement. \nHave the autonomy to recognize problems or opportunities at an organizational level and take action to implement data-driven solutions that drive meaningful impact across the company.\nOversee the accuracy and organization of TurboTenant's data lake in collaboration with the Data Team. \nAutomate and maintain data processes, integrate new data sources, and update Metabase reports to reflect product changes. \nConnect user behavior with data and create comprehensive visualizations for KPIs and overall business performance.\n\n \n  \n  Requirements and qualifications: To be successful in this role, you must have:\n\n\n\nAt least 2+ years in a Marketing Analytics role, with a strong background in analyzing and interpreting complex data.\nThe ability to write complex, highly-optimized SQL queries, experience with Athena/Presto or Postgres preferred.\nProficiency in Excel functions such as Index Match, Pivot Tables, SumIf, Vlookup, and If statements, along with the ability to produce clear and insightful graphs.\nAt least 1+ years of hands-on experience leveraging GA4 for insights and performance measurement.In-depth knowledge of key metrics like ROAS, ROI, CAC, CPSU, LTV, Churn Rates, CPA, CPC, CPM, and CAC Payback, and how they interrelate.\nExperience using a data visualization platform (bonus points for Metabase) to create clear, impactful visual representations of data.\nDeep experience working with complex attribution models to extract actionable insights that drive strategic decisions and optimize spend.\nExperience with digital media platforms like Google Ads Campaign Manager, Facebook Ad Manager, and other digital tools.\nAbility to effectively interpret data and present it in easy-to-understand visualizations that support decision-making.\nA demonstrated ability to manage projects independently and work autonomously to meet goals.\n\nBonus points if you have:\n\n\n\nProgramming experience with Python or R.\nKnowledge of AWS S3, Glue, and Athena for data storage and processing.\nFamiliarity with API integration and data ETL processes.\nUnderstanding or experience with Halo Analysis.\nFamiliarity with GitHub or other code version control platforms.\n\nTurboTenant has offices in Fort Collins and Denver, Colorado. Face-to-face time is an essential aspect of the TurboTenant culture, and the ideal candidate for this role would be expected in the Denver office once a week (more if preferred).",
+      "apply_options": [
+        {
+          "title": "DataAnalyst.com",
+          "link": "https://www.dataanalyst.com/job/data-analyst-marketing-71b20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NortJobs",
+          "link": "https://nortjobs.com/de-DE/stellenangebote/rocket-money/data-analyst-growth-marketing-cc16a3399885f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-analyst-growth-marketing-truebill-acquired-by-rocket-money-denver--lensa-2365_82fd2a8718c42cf693c9e4552f65170d4b58eea1d8220a8ef0f54cd335ca9f46?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-co-denver-data-analyst-growth-marketing-truebill-acquired-by-rocket?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIE1hcmtldGluZyIsImNvbXBhbnlfbmFtZSI6IlR1cmJvVGVuYW50IiwiaHRpZG9jaWQiOiIyZjN5WXJ3TVBqczBUdmZzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1cwMGVEWjRWMDFuWWxSRVdWOXNRVzVaTVRCTE0zUTBZbGxWWmxVNWFXeHlPV055WlVSZlNFTkVkMXB0U3pRMGFHYzRXbXh0U1dacFFrZ3dkbTVZZG5KNk1VSlVPVE14WDFKQk9IbDRTMWRQVmkwMVMyaGZhWGxuZVhaMFUxRlhkMVpMVVV3MU9HdHdOV2xxU2xwYVgxUTNWR0phVGt4a1VXRXpaRzl5UmpreWIxOTZUWElTRjBaUmVteGhjbUpNU0VsdGFERm1TVkExTkdGMmEwRnpHaUpCU0U0d1JUZEhlV0Z1VkRsTWJEbFRlRk42Ym0wd2RURkdWVGxYWWtOYWNVOTMiLCJmY3YiOiIzIiwiZmNfaWQiOiIyZjN5WXJ3TVBqczBUdmZzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Marketing Data Analyst & Engineer: Connect Our Data and Guide Customer Journey Analysis",
+      "company_name": "Upwork",
+      "location": "Anywhere",
+      "via": "Upwork",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Power BI (DAX, Power Query, data modeling), SQL, BigQuery, GA4, and API integrations with Meta and Google Ads",
+            "Experience with funnel analysis and attribution for brands that sell through retailers is a strong plus"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Google Search Console (moving to BigQuery)",
+            "Audit of our current data sources and Power BI model",
+            "Automated pipelines into one central model",
+            "Customer journey analysis: funnel stages, time to purchase, and where each marketing effort reaches the customer",
+            "Coaching our team on the methodology so we can repeat the analysis",
+            "Recommendations on tools that would improve the setup"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=NtBiUUdukMxtwHrDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2MsQrCUAxFce0PCE6ZHARbEVzqJFUKgjiIc0nb8Pq0JuUlxfYH_S4VXe5wOOdGr0nEJwx3Ms8O9mgIO8Z2VIM5HNh5JgopZMJMlcG5Dz8JuYa89zVB1qvJgwIcpQ9M47_3CssPKkEJQ9WAMOQirqXZtjHrNE0S1TZ2ami-iit5JMJUypDcpNTvFNpgoK5Fo2K9WQ1xx24xvXZPCXfwDFf2RjVcPgekb_I9qZLJAAAA&shmds=v1_Ac3VAozeXm03iPmvwhqo69uYFnjGIaonRMur_59Sdz4G8sr-nA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=NtBiUUdukMxtwHrDAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Work from home",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.upwork.com/freelance-jobs/apply/Marketing-Data-Analyst-Engineer-Connect-Our-Data-and-Guide-Customer-Journey-Analysis_~022112681926078752866/",
+      "job_title": "Marketing Data Analyst & Engineer: Connect Our Data and Guide Customer Journey Analysis",
+      "description": "What we need\n\nA hands-on data partner who can connect our marketing and sales data into a single flow, then guide us through analyzing it. Our sources:\n\nGA4 (website, including click-outs to Home Depot)\n\nMeta Ads and Google Ads\n\nHome Depot online and in-store sales (already in Power BI)\n\nWooCommerce sample orders\n\nGoogle Search Console (moving to BigQuery)\n\nDeliverables\n\nAudit of our current data sources and Power BI model\n\nAutomated pipelines into one central model\n\nCustomer journey analysis: funnel stages, time to purchase, and where each marketing effort reaches the customer\n\nCoaching our team on the methodology so we can repeat the analysis\n\nRecommendations on tools that would improve the setup\n\nRequired skills\n\nPower BI (DAX, Power Query, data modeling), SQL, BigQuery, GA4, and API integrations with Meta and Google Ads. Experience with funnel analysis and attribution for brands that sell through retailers is a strong plus.\n\nTo apply: Explain how you would connect these sources and which analysis you’d run first. Share an example of a similar project.",
+      "apply_options": [
+        {
+          "title": "Upwork",
+          "link": "https://www.upwork.com/freelance-jobs/apply/Marketing-Data-Analyst-Engineer-Connect-Our-Data-and-Guide-Customer-Journey-Analysis_~022112681926078752866/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgRGF0YSBBbmFseXN0IFx1MDAyNiBFbmdpbmVlcjogQ29ubmVjdCBPdXIgRGF0YSBhbmQgR3VpZGUgQ3VzdG9tZXIgSm91cm5leSBBbmFseXNpcyIsImNvbXBhbnlfbmFtZSI6IlVwd29yayIsImh0aWRvY2lkIjoiTnRCaVVVZHVrTXh0d0hyREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduaGZSamw2TUVGR1ZWZElVVGRGVTJ0V1QxUmpZMUoyVlVsdk5ITTBjMUZWT1RCRE9HRk9VRGw2YjJSMmVFSTNWWGRUYm1oWFdVVXdPWFpsWVROa2NYRXdNR1JKYzFvdGMxa3hXVGh3VWkxVU4wOW5VRzlvTjFreE5Wa3piM0V4VFV4TGJuZE9ZblowVlRZeVRVTXRVVXB5T0RCeVdXZGxlV3hTWDJOMFZteG9hSGwxWDBNU0YwWlJlbXhoY21KTVNFbHRhREZtU1ZBMU5HRjJhMEZ6R2lKQlNFNHdSVGRGYlZGVU9IWnJOV05tU21aMVJEQlVWMkpxUjNrNFJWcEhaVFIzIiwiZmN2IjoiMyIsImZjX2lkIjoiTnRCaVVVZHVrTXh0d0hyREFBQUFBQT09In0="
+    },
+    {
+      "title": "Marketing Data Analyst: Analytics Dev Program (NYC On-Site)",
+      "company_name": "Veeva",
+      "location": "United States",
+      "via": "Talents By Vaia",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Veeva Systems, combining life sciences data and analytics, invites new graduates to join the Analytics Development Program as a Marketing Data Analyst",
+            "This role focuses on backend report generation, data linking, and delivering high-value analytics embedded in Veeva Crossix products",
+            "You will use SQL, Python, and our internal language to transform large datasets into actionable insights, work onsite in NYC four days a week, and grow through mentorship and case interviews leading to an official"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=Jog6W3Q2xT9mQjMVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNzQqCUBBGaesDtGg1ywrUCNrYKhKCoB-SglYy2nC9pXfkziD2SL1lRpuPsznnCz6j4HJA_yK1zkCKirBxWL9Fkz-oLQVS6uDs2XhsYHq8b-HkwswqzSCEPRcghL6sgB3smE1Nk3Wl2koSxyJ1ZERxyEQlNzE7KriPn1zIb3Kp0FNbo1K-XC36qHVmPr4RdQjWwdUNJw_IBp_kC3YIhkGsAAAA&shmds=v1_Ac3VAowp3hvNpQhvSCsiperYbBcZpZExfyhyc7YDarkoMcoqMg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=Jog6W3Q2xT9mQjMVAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://talents.vaia.com/companies/veeva/marketing-data-analyst-analytics-dev-program-nyc-on-site-143760612/",
+      "job_title": "Marketing Data Analyst: Analytics Dev Program (NYC On-Site)",
+      "description": "Veeva Systems, combining life sciences data and analytics, invites new graduates to join the Analytics Development Program as a Marketing Data Analyst. This role focuses on backend report generation, data linking, and delivering high-value analytics embedded in Veeva Crossix products.\n\nYou will use SQL, Python, and our internal language to transform large datasets into actionable insights, work onsite in NYC four days a week, and grow through mentorship and case interviews leading to an official\n\n #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/veeva/marketing-data-analyst-analytics-dev-program-nyc-on-site-143760612/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/online_remote/info_technology/5559799193/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgRGF0YSBBbmFseXN0OiBBbmFseXRpY3MgRGV2IFByb2dyYW0gKE5ZQyBPbi1TaXRlKSIsImNvbXBhbnlfbmFtZSI6IlZlZXZhIiwiaHRpZG9jaWQiOiJKb2c2VzNRMnhUOW1Rak1WQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWxOTGRIQnlNRUZrU1UxNmFVbGpTVFphVGpaWmNpMVdSbmR4Wmxsd1pFbzJZWFJhY1hGM1dVeGFhRkV6YTNWMGIwMVBURFZ4YUU5c2JXMUZSVzlIVG5sT2VHSlRia2Q2ZFU5MlVHMXRXa3N3WnkxRWEwRmlVek5wVUdsa01UY3habmxwUmkxM1RGQmxTa0Y2ZUdZNGFrSjBkMnRDVDBodFNHTmFjSGRNYVdoQk5VVkpVMmdTRjBaUmVteGhjbUpNU0VsdGFERm1TVkExTkdGMmEwRnpHaUpCU0U0d1JUZEljbTFwVkU4d1NGRTFPRGQ0TjI1bU0weDBNbTV5UlZOWVJsbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJKb2c2VzNRMnhUOW1Rak1WQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Marketing Data Analyst",
+      "company_name": "Citi",
+      "location": "Denver, CO",
+      "via": "JobzMall",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "If you have a strong background in data analysis, marketing, and a desire to make an impact in the financial industry, we want to hear from you!"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will have the opportunity to work with large datasets, conduct market research, and collaborate with cross-functional teams to support the marketing objectives of our business",
+            "Analyze Large Datasets: Utilize your analytical skills to analyze large datasets and provide actionable insights to support marketing decisions",
+            "Conduct Market Research: Conduct market research to identify trends, customer behavior, and competitive landscape to inform marketing strategies",
+            "Collaborate with Cross-Functional Teams: Work closely with cross-functional teams, including marketing, finance, and data science, to develop and implement effective marketing strategies",
+            "Support Marketing Objectives: Use your expertise in data analysis and marketing to support the marketing objectives of the organization and drive business growth",
+            "Utilize Data Analytics Tools: Utilize various data analytics tools and techniques to extract, manipulate, and analyze data to generate meaningful insights",
+            "Present Findings: Create reports and presentations to communicate findings and recommendations to key stakeholders, including senior management",
+            "Stay Up-to-Date with Industry Trends: Stay informed about industry trends and advancements in data analytics and marketing to continuously improve processes and strategies",
+            "Develop Predictive Models: Develop predictive models to forecast marketing performance and identify areas for improvement",
+            "Ensure Data Accuracy and Integrity: Ensure data accuracy and integrity in all analyses and provide quality control checks to maintain data integrity",
+            "Drive Continuous Improvement: Continuously look for ways to improve data analysis processes, tools, and techniques to enhance the effectiveness and efficiency of marketing strategies"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=H-dZGUYjwpkKH_owAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFw7OjrdLDYRwUUnaUEQxE8ol3KksfEu5A6pm58uvuE131XT3rHOZIkj9GgIF8b8UYMWbhJACes4gTBcRWKmzXkyK3ryXjW7qIaWRjfKywtTkMU_Jei_QSesVDIaDYfjfnGF43bdJUuQGHriN9UddI8f_N9CSYMAAAA&shmds=v1_Ac3VAoytF3Paq6xykFeFLzLtJnXLE_pWyU52jfKvZAM4Ws_EgA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=H-dZGUYjwpkKH_owAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c146bb5352e38004f4d/images/AuCPVqtH92Wn1mA5LdtnrGoWv0SFKAxH15RhNfnukyc.jpeg",
+      "extensions": [
+        "55K–90K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobzmall.com/citi-1/job/marketing-data-analyst-17",
+      "job_title": "Marketing Data Analyst",
+      "description": "Are you a data-driven individual with a passion for marketing and finance? Look no further than the Marketing Data Analyst position at Citi. As a global leader in banking and financial services, Citi is seeking a highly motivated individual to join our team and utilize their analytical skills to drive strategic marketing decisions. In this role, you will have the opportunity to work with large datasets, conduct market research, and collaborate with cross-functional teams to support the marketing objectives of our business. If you have a strong background in data analysis, marketing, and a desire to make an impact in the financial industry, we want to hear from you!\\n\\nAnalyze Large Datasets: Utilize your analytical skills to analyze large datasets and provide actionable insights to support marketing decisions.\\n\\nConduct Market Research: Conduct market research to identify trends, customer behavior, and competitive landscape to inform marketing strategies.\\n\\nCollaborate with Cross-Functional Teams: Work closely with cross-functional teams, including marketing, finance, and data science, to develop and implement effective marketing strategies.\\n\\nSupport Marketing Objectives: Use your expertise in data analysis and marketing to support the marketing objectives of the organization and drive business growth.\\n\\nUtilize Data Analytics Tools: Utilize various data analytics tools and techniques to extract, manipulate, and analyze data to generate meaningful insights.\\n\\nPresent Findings: Create reports and presentations to communicate findings and recommendations to key stakeholders, including senior management.\\n\\nStay Up-to-Date with Industry Trends: Stay informed about industry trends and advancements in data analytics and marketing to continuously improve processes and strategies.\\n\\nDevelop Predictive Models: Develop predictive models to forecast marketing performance and identify areas for improvement.\\n\\nEnsure Data Accuracy and Integrity: Ensure data accuracy and integrity in all analyses and provide quality control checks to maintain data integrity.\\n\\nDrive Continuous Improvement: Continuously look for ways to improve data analysis processes, tools, and techniques to enhance the effectiveness and efficiency of marketing strategies.\n\nCiti is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+      "apply_options": [
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/citi-1/job/marketing-data-analyst-17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Lensa",
+          "link": "https://lensa.com/job-v1/hire-talent/denver-co/marketing-data-analyst/3b1d93b5a5c46a85d044aa8330b10fb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/hire-talent/denver/marketing-data-analyst-109788556/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Univision Empleos",
+          "link": "https://trabajos.univision.com/job/23-14660_862CD07CD3F236FC56DE5B3FB8E0B662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-co-denver-marketing-data-analyst-jobrapido-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/8162872594534498304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/marketing-data-analyst-hire-talent-denver--lifeworq-9fe041f5-fa5b-49ef-acda-37ce618e44c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/marketing-data-analyst-jobs/186EC67BDBD84E4E?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiQ2l0aSIsImh0aWRvY2lkIjoiSC1kWkdVWWp3cGtLSF9vd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlUYzJkRmhFY0c5M2FEWjJSVk4zU2tKbVZWTnRZVVprY2tOelpVNDNNRzFMT0c1alNUWnBTRTVpYkRWVFFuVmtYMjEwTTJkSlRrVmlSa2xUVTJrNWExTmhNVkZxYWxReU5GWnJiMWhTYVhaM2NtVlBaMjVmVVV0VlJuRlljV2w0U1hGU2NYYzNaMUZrT1haNVlqbE1kMmRWWW1FelJGTm1hMWwzWWpGNE5VdENSbWRXWkVnU0YwWlJlbXhoY21KTVNFbHRhREZtU1ZBMU5HRjJhMEZ6R2lKQlNFNHdSVGRGWVdOSlppMVRhSFJ4UldZeVowdGhiRFZYWVc1MExVOVNTVlZuIiwiZmN2IjoiMyIsImZjX2lkIjoiSC1kWkdVWWp3cGtLSF9vd0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Scientist, Marketing Analytics",
+      "company_name": "Ibotta Inc",
+      "location": "Denver, CO",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Candidates must live in the United States",
+            "2+ years of progressive experience in a professional data science, machine learning, statistics, or data analysis role, or related experience",
+            "Deep Python (pandas, scikit-learn) and SQL skills",
+            "Spark or PySpark experience is a strong plus",
+            "Hands-on experience building and evaluating machine learning and statistical models, such as gradient boosting and neural networks (TensorFlow/Keras or PyTorch)",
+            "Working knowledge of experimentation and causal inference",
+            "Exposure to uplift or heterogeneous treatment effect modeling is a strong plus",
+            "Experience deploying or maintaining at least one model in production, using Git and an orchestration tool such as Airflow or Databricks Jobs",
+            "Experience building features from large, event-level datasets",
+            "Comfortable using AI coding assistants, and able to review, test, and debug the code they produce",
+            "A passion for driving important decisions using data and data storytelling, including explaining model results and trade-offs to non-technical partners",
+            "Applicants must be currently authorized to work in the United States on a full-time basis",
+            "A/B Testing, Analysis Skills, Artificial Intelligence (AI), Best Practices, Budget Management, Business Intelligence, Business Model, Campaigns, Computer Science, Computer Security, Data Analysis, Data Modeling, Data Science, Data Sets, Debugging Skills, Economics, Git, Information/Data Security (InfoSec), Leadership, Machine Learning, Marketing, Mathematics, Model Review, Neural Networks, Operations Management, Organizational Skills, Outbound Marketing, Performance Analysis, Performance Modeling, Phishing, Quality Assurance Methodology, Recruiting/Staffing Agency, Retention Programs, Sales, Statistical Modeling, Statistics, Storytelling"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match",
+            "Denver office perks include paid parking, snacks, and occasional meals",
+            "Base compensation range: $110,000 - $130,000",
+            "Total compensation for this role also includes a variable component in addition to base salary",
+            "Equity is included in overall compensation package",
+            "This compensation range is specific to the United States labor market and may be adjusted based on actual experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Data Scientist, you'll work on our Rewards Optimization models, which use uplift modeling to deliver personalized treatments in our weekly retention programs",
+            "You'll own these models end to end, from working with stakeholders and preparing data through model development, production deployment, and ongoing monitoring",
+            "You'll be able to advance not only your technical skills, but your organizational and leadership skills as well, by contributing to the creation of best practices for the team and company, and learning from the more senior scientists and managers on the team",
+            "Build, retrain, and tune the uplift models that decide which bonus each saver receives in our weekly retention programs, balancing incremental redemptions against cost",
+            "Own these models in production: maintain feature pipelines, deploy new model versions, and monitor performance and drift over time, following Ibotta's model development standards",
+            "Manage weekly model operations: review results as they come in, adjust model parameters to stay on budget, and within performance thresholds",
+            "Help design and analyze the A/B tests and holdouts that measure bonus performance and produce training data for our models",
+            "Report model performance and business impact to Marketing stakeholders, and explain results clearly to non-technical audiences",
+            "Analyze large datasets on saver behavior to find insights that improve our models and marketing programs",
+            "Work with analytics engineers, data engineers, and Marketing partners to find, define, and prepare the data needed for analysis and modeling",
+            "Contribute to team best practices, including documentation, code review, and reusable modeling workflows",
+            "Embrace and uphold Ibotta's Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Data+Analyst&htidocid=CqppLX6n7y-Lka0RAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzArGaWmJWBJtYiQGJIBYeIMwuQ7K6zoSdQeI5vLCx-dWDX3wXRd2gIdxDJLaoVsIV85Mscg9HxvSxGBQ2cBEPSpjDAMJwFukTrQ6D2ai1c6qp6tVwxlWQlxMmL5N7iNd_Oh0w05jQqNvtt1M1cr9etl5sXrccIDI0xG_KJZxuP5AfIROWAAAA&shmds=v1_Ac3VAozYTHCWziXN7MtfQzjiAcsMxJzhD7FZ7wxERShniwj5-A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Data+Analyst&htidocid=CqppLX6n7y-Lka0RAAAAAA%3D%3D",
+      "extensions": [
+        "25 days ago",
+        "110K–130K a year",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.monster.com/job-openings/data-scientist-marketing-analytics-denver-co--60acd5cf-1445-4ebc-852b-40788b61560b",
+      "job_title": "Data Scientist, Marketing Analytics",
+      "description": "Ibotta is seeking a Data Scientist, Marketing Analytics to join our Publisher Insights team and contribute to our mission to Make Every Purchase Rewarding. Our team leverages the latest developments and best practices in data analyses, testing methodologies, and statistics to provide actionable insights to the Marketing Team.\n\nAs a Data Scientist, you'll work on our Rewards Optimization models, which use uplift modeling to deliver personalized treatments in our weekly retention programs. You'll own these models end to end, from working with stakeholders and preparing data through model development, production deployment, and ongoing monitoring. You'll be able to advance not only your technical skills, but your organizational and leadership skills as well, by contributing to the creation of best practices for the team and company, and learning from the more senior scientists and managers on the team.\n\nThis position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.\n\nNot based in Denver? We will offer a relocation bonus to help make your move to the Mile High City a smooth one.\n\nWhat you will be doing:\n\nBuild, retrain, and tune the uplift models that decide which bonus each saver receives in our weekly retention programs, balancing incremental redemptions against cost.\n\nOwn these models in production: maintain feature pipelines, deploy new model versions, and monitor performance and drift over time, following Ibotta's model development standards.\n\nManage weekly model operations: review results as they come in, adjust model parameters to stay on budget, and within performance thresholds.\n\nHelp design and analyze the A/B tests and holdouts that measure bonus performance and produce training data for our models.\n\nReport model performance and business impact to Marketing stakeholders, and explain results clearly to non-technical audiences.\n\nAnalyze large datasets on saver behavior to find insights that improve our models and marketing programs.\n\nWork with analytics engineers, data engineers, and Marketing partners to find, define, and prepare the data needed for analysis and modeling.\n\nContribute to team best practices, including documentation, code review, and reusable modeling workflows.\n\nEmbrace and uphold Ibotta's Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere.\n\nWhat we are looking for:\n\n2+ years of progressive experience in a professional data science, machine learning, statistics, or data analysis role, or related experience.\n\nBachelor's degree in Computer Science, Mathematics, Statistics, Data Science, Economics or similar field required; Advanced degree preferred.\n\nDeep Python (pandas, scikit-learn) and SQL skills. Spark or PySpark experience is a strong plus.\n\nHands-on experience building and evaluating machine learning and statistical models, such as gradient boosting and neural networks (TensorFlow/Keras or PyTorch).\n\nWorking knowledge of experimentation and causal inference. Exposure to uplift or heterogeneous treatment effect modeling is a strong plus.\n\nExperience deploying or maintaining at least one model in production, using Git and an orchestration tool such as Airflow or Databricks Jobs. Experience with model monitoring and drift detection is a plus.\n\nExperience building features from large, event-level datasets.\n\nComfortable using AI coding assistants, and able to review, test, and debug the code they produce.\n\nA passion for driving important decisions using data and data storytelling, including explaining model results and trade-offs to non-technical partners.\n\nExperience with marketing incentives, promotions, loyalty, or retention programs, or with models that balance competing goals such as volume and cost, is a plus.\n\nAbout Ibotta (\"I bought a…\")\n\nIbotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop - all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.\n\nTo learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com.\n\nAdditional Details:\n\nThis position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match. Denver office perks include paid parking, snacks, and occasional meals.\n\nBase compensation range: $110,000 - $130,000. Total compensation for this role also includes a variable component in addition to base salary. Equity is included in overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.\n\nIbotta is an Equal Opportunity Employer. Ibotta's employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.\n\nApplicants must be currently authorized to work in the United States on a full-time basis.\n\nApplicants are accepted until the position is filled.\n\nFor the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper Channels.\n\n#LI-Hybrid\n\n#BI-Hybrid\n\nRecruiting Agency Notice\n\nIbotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.\n\n\nSkills:\nA/B Testing, Analysis Skills, Artificial Intelligence (AI), Best Practices, Budget Management, Business Intelligence, Business Model, Campaigns, Computer Science, Computer Security, Data Analysis, Data Modeling, Data Science, Data Sets, Debugging Skills, Economics, Git, Information/Data Security (InfoSec), Leadership, Machine Learning, Marketing, Mathematics, Model Review, Neural Networks, Operations Management, Organizational Skills, Outbound Marketing, Performance Analysis, Performance Modeling, Phishing, Quality Assurance Methodology, Recruiting/Staffing Agency, Retention Programs, Sales, Statistical Modeling, Statistics, Storytelling\n\n\nIbotta Inc",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/data-scientist-marketing-analytics-denver-co--60acd5cf-1445-4ebc-852b-40788b61560b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/data-scientist-marketing-analytics_7ea1a9dfca08afd8f2cd9cd3e5f93c09de2dc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "What's Happenin'",
+          "link": "https://whatshappenin.co/jobs/Denver/data-scientist-marketing-analytics-ibotta?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/data-scientist-marketing-analytics-ibotta-denver-co--t7xk-869180044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "David Careers",
+          "link": "https://www.davidcareers.com/jobs/5ddcdd92aea8010795e3c4a6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-28646-44fcc113a67d0054fc28d366f791e524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mogi Jobs",
+          "link": "https://jobboard.mobiusengine.ai/job/data-scientist-marketing-analytics-at-ibotta-a642cf2e1fb478a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBrains",
+          "link": "https://careerbrains.com/jobs/data-scientist-marketing-analytics-ibotta-225b58a0?source=scraped&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgTWFya2V0aW5nIEFuYWx5dGljcyIsImNvbXBhbnlfbmFtZSI6Iklib3R0YSBJbmMiLCJodGlkb2NpZCI6IkNxcHBMWDZuN3ktTGthMFJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV3BPYVRCc2JqTmxNWFkyVFZWdFkySkhNVFJZTjNKVU1XWjJUVWhxTWxOblpHOUZXVWd5VlROVFZWQTNSMncwUjBaVllVSTJOMHBSVWw5bk9HeFRiek5zVG5kMGJtUjBNMDFqV1RVd1JIbGZXVWgxUW1jMlpUaHVjMHBIUzB4c1JUaGpVWEZITFc1dWNERnJNMmRwUjFGMmFubE1PRTUwWWt3MlQxRnFSbGRGTlhBd1JXY1NGMFpSZW14aGNtSk1TRWx0YURGbVNWQTFOR0YyYTBGekdpSkJTRTR3UlRkSU9HeGZWSFJvTUhkVWNVOXllVWxXYUc1dFVuSlBjVkZzU25WMyIsImZjdiI6IjMiLCJmY19pZCI6IkNxcHBMWDZuN3ktTGthMFJBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxZbEo0TTNKVlVrY3hRMnB0YUdObWRISkVNMk5VZUhWMk0xOVNVMjFhWTBKUU9IaHFaR0pSYTNCaFpsTm9hbUprTUhSdmIwTTRVWEU1YnpoV01VWlpWMEl6UlZJMU16aElSWE51UVdaTmNuWm9VekZDUW1OR1RrVk5OakpSVUhSNFVrSllXbmRFY1dKaFlqUXdPSFpzUmpBMllVNXFaRkppUlhReldHcEJUMU5mT1dwNVN6QlBaSGxSVVRNMWJqRk1ZbVZ1T0dWM1RsaElWRWcwY1RGRVpuWjBhMDEwYTBSRWRqWjVkMWRhTFdnMGIyOUdjMVJHTkUxbmNqUnJhVkpqUjI1T1NGRjVhbEp3YkdwR2EwZEVaSFpKYVdGMlVFa3lNMHd5YmpkaVQwbDRZblpXYm1zd1FVODNNVmhzYkVVeVZFeHdXSEpuVXpSNGRYRTVTVEo2YTJ0Nk9YZDBNSEJaVm5BMWMwRjNVVlo1YlV0NWVsaFZjbVpaVFVWQ1pWOUpVemxXVUhReFZHNU9aRFZZVFdoUFZWQkZURzVTVnpacVZubE1ZVmxwU2xwVU9YSTRUV2h3TjNjdE1tbGhlRTlhVFVsU1VWTnFjVmcyVFVReFJrSTBNMFJTWkVSdVpUUjRWakpvU0VSeldtVjNFaGRHVVhwc1lYSmlURWhKYldneFprbFFOVFJoZG10QmN4b2lRVWhPTUVVM1IyZ3RTbEZ3YWxCemVuTkRkblo1YTFWWVRrVnZWak15ZERkUFFRIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxZbEo0TTNKVlVrY3hRMnB0YUdObWRISkVNMk5VZUhWMk0xOVNVMjFhWTBKUU9IaHFaR0pSYTNCaFpsTm9hbUprTUhSdmIwTTRVWEU1YnpoV01VWlpWMEl6UlZJMU16aElSWE51UVdaTmNuWm9VekZDUW1OR1RrVk5OakpSVUhSNFVrSllXbmRFY1dKaFlqUXdPSFpzUmpBMllVNXFaRkppUlhReldHcEJUMU5mT1dwNVN6QlBaSGxSVVRNMWJqRk1ZbVZ1T0dWM1RsaElWRWcwY1RGRVpuWjBhMDEwYTBSRWRqWjVkMWRhTFdnMGIyOUdjMVJHTkUxbmNqUnJhVkpqUjI1T1NGRjVhbEp3YkdwR2EwZEVaSFpKYVdGMlVFa3lNMHd5YmpkaVQwbDRZblpXYm1zd1FVODNNVmhzYkVVeVZFeHdXSEpuVXpSNGRYRTVTVEo2YTJ0Nk9YZDBNSEJaVm5BMWMwRjNVVlo1YlV0NWVsaFZjbVpaVFVWQ1pWOUpVemxXVUhReFZHNU9aRFZZVFdoUFZWQkZURzVTVnpacVZubE1ZVmxwU2xwVU9YSTRUV2h3TjNjdE1tbGhlRTlhVFVsU1VWTnFjVmcyVFVReFJrSTBNMFJTWkVSdVpUUjRWakpvU0VSeldtVjNFaGRHVVhwc1lYSmlURWhKYldneFprbFFOVFJoZG10QmN4b2lRVWhPTUVVM1IyZ3RTbEZ3YWxCemVuTkRkblo1YTFWWVRrVnZWak15ZERkUFFRIiwiZmN2IjoiMyJ9&q=Marketing+Data+Analyst&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Marketing Data Analyst",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:28:52.577930+00:00",
+    "request_fingerprint": "8931f32465f392f534e18c13602fe7cc6fa1c49288bd4e83811d67d0ffb6f1f6",
+    "job_count": 10
+  }
+}

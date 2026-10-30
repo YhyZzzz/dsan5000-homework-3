@@ -1,0 +1,1128 @@
+{
+  "search_metadata": {
+    "id": "6ae5084b8ffa70f5b531410b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a321D23bRo6ILw0HBdqDXsuUk9x2uHJMbg-3WZDtr8I/6ae5084b8ffa70f5b531410b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/a321D23bRo6ILw0HBdqDXsuUk9x2uHJMbg-3WZDtr8I/6ae5084b8ffa70f5b531410b.md",
+    "created_at": "2026-10-30 21:12:43 UTC",
+    "processed_at": "2026-10-30 21:12:43 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Business+Intelligence+Analyst&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/a321D23bRo6ILw0HBdqDXsuUk9x2uHJMbg-3WZDtr8I/6ae5084b8ffa70f5b531410b.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "q": "Business Intelligence Analyst",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXFp7VK4diwFm1m2d2oTqoOXKwglzu72tKFBXxFshORVRLSZ2As9Q-es-4c-NrVlN_U79UhIIw9rgMtOA5Pg2AqlLOT2finlocw_MCrDKczAokNgaBMNwUnvCn9gFqvx6MMxE01t3EKVAZz1IBekNDok4A0_kQGgw6_RessxxSt849T7yU",
+        "q": "Business Intelligence Analyst no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXFp7VK4diwFm1m2d2oTqoOXKwglzu72tKFBXxFshORVRLSZ2As9Q-es-4c-NrVlN_U79UhIIw9rgMtOA5Pg2AqlLOT2finlocw_MCrDKczAokNgaBMNwUnvCn9gFqvx6MMxE01t3EKVAZz1IBekNDok4A0_kQGgw6_RessxxSt849T7yU&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQxKsJKAB6BAggEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXFp7VK4diwFm1m2d2oTqoOXKwglzu72tKFBXxFshORVRLSZ2As9Q-es-4c-NrVlN_U79UhIIw9rgMtOA5Pg2AqlLOT2finlocw_MCrDKczAokNgaBMNwUnvCn9gFqvx6MMxE01t3EKVAZz1IBekNDok4A0_kQGgw6_RessxxSt849T7yU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCFCcvNEUMUe7ADuqP__4g7KJuFV8jxGJAJskIgMyUuVVJe9AJYhFbi-1Zf2J4rSlZ54bMTRSgjW5qEOEqTTsIfYq80fklqsouL7noUbYBcfIw0x8bRHDT1ono6a-PQRLglYwFnDvFdSV9_oILJ9e8lJ-71j5wSgJqmWRwk9ryqzMXGSF",
+        "q": "Business Intelligence Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCFCcvNEUMUe7ADuqP__4g7KJuFV8jxGJAJskIgMyUuVVJe9AJYhFbi-1Zf2J4rSlZ54bMTRSgjW5qEOEqTTsIfYq80fklqsouL7noUbYBcfIw0x8bRHDT1ono6a-PQRLglYwFnDvFdSV9_oILJ9e8lJ-71j5wSgJqmWRwk9ryqzMXGSF&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQxKsJKAF6BAghEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCFCcvNEUMUe7ADuqP__4g7KJuFV8jxGJAJskIgMyUuVVJe9AJYhFbi-1Zf2J4rSlZ54bMTRSgjW5qEOEqTTsIfYq80fklqsouL7noUbYBcfIw0x8bRHDT1ono6a-PQRLglYwFnDvFdSV9_oILJ9e8lJ-71j5wSgJqmWRwk9ryqzMXGSF&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk60eJU2a7syZyIV9fIRSl7wRzOzidfApoS7z4hV7R0zFPRbvy6ZaPkpMM-qhYxSdP1TgRq-904Y5I9sRfsy3-M8VzRvycVQUvXGWzhlVAVnm8L7ix2oFnfOiOZXwp_-qfTb3gbE7Ajp6IcTaL20H875sRvzSxhv3PwTPGMwrPhgQld98qy6bB98QBmM73RgJe5Ndghcr1HnCAoHw6ekw0QiBWc7_ojOkYXJxtSgFiN8hOgyJ2HY_60ewwyK9QmsACXEbDu8JtsNnjGIaisaRGC0xso58l1m6VkZFLwJCeD4vhndx3neM8J8Myi584dca4gp9Nf03rxLz0S4ZQ_fCdctZbOvG",
+            "q": "Business Intelligence Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk60eJU2a7syZyIV9fIRSl7wRzOzidfApoS7z4hV7R0zFPRbvy6ZaPkpMM-qhYxSdP1TgRq-904Y5I9sRfsy3-M8VzRvycVQUvXGWzhlVAVnm8L7ix2oFnfOiOZXwp_-qfTb3gbE7Ajp6IcTaL20H875sRvzSxhv3PwTPGMwrPhgQld98qy6bB98QBmM73RgJe5Ndghcr1HnCAoHw6ekw0QiBWc7_ojOkYXJxtSgFiN8hOgyJ2HY_60ewwyK9QmsACXEbDu8JtsNnjGIaisaRGC0xso58l1m6VkZFLwJCeD4vhndx3neM8J8Myi584dca4gp9Nf03rxLz0S4ZQ_fCdctZbOvG&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk60eJU2a7syZyIV9fIRSl7wRzOzidfApoS7z4hV7R0zFPRbvy6ZaPkpMM-qhYxSdP1TgRq-904Y5I9sRfsy3-M8VzRvycVQUvXGWzhlVAVnm8L7ix2oFnfOiOZXwp_-qfTb3gbE7Ajp6IcTaL20H875sRvzSxhv3PwTPGMwrPhgQld98qy6bB98QBmM73RgJe5Ndghcr1HnCAoHw6ekw0QiBWc7_ojOkYXJxtSgFiN8hOgyJ2HY_60ewwyK9QmsACXEbDu8JtsNnjGIaisaRGC0xso58l1m6VkZFLwJCeD4vhndx3neM8J8Myi584dca4gp9Nf03rxLz0S4ZQ_fCdctZbOvG&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxexSFUnuwMqDKHL8FA1TANl7aTOvVQOud7LV--WwCAAh85KAU2zJU6rvrqD0sA92Mnoh9wLI8mJSZ7i7BLHm4SPScaToauQqB265u3Q1jMXPRYgOu_0fHNw7f_SMfA5SAaI_1afuALjK-NgptAlynCK0CfcDidbQ9hnmojO9m_1IjfBpiPJUBrnIIsHR6uunQhIyP3Rv1p8VPb8oelGgL8WcL0eXAsAeBmpGsGKyOSLmGIZcrcJxJ019gast1-wpNNSHBPTVS0OP719VnJ0JhiwP6fTfzl1VXySAuI472B80gqqlZPWDm9w-j5hDP2esBDwSVq86St05rQXSYFgcz4fbQcKz",
+            "q": "Business Intelligence Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxexSFUnuwMqDKHL8FA1TANl7aTOvVQOud7LV--WwCAAh85KAU2zJU6rvrqD0sA92Mnoh9wLI8mJSZ7i7BLHm4SPScaToauQqB265u3Q1jMXPRYgOu_0fHNw7f_SMfA5SAaI_1afuALjK-NgptAlynCK0CfcDidbQ9hnmojO9m_1IjfBpiPJUBrnIIsHR6uunQhIyP3Rv1p8VPb8oelGgL8WcL0eXAsAeBmpGsGKyOSLmGIZcrcJxJ019gast1-wpNNSHBPTVS0OP719VnJ0JhiwP6fTfzl1VXySAuI472B80gqqlZPWDm9w-j5hDP2esBDwSVq86St05rQXSYFgcz4fbQcKz&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxexSFUnuwMqDKHL8FA1TANl7aTOvVQOud7LV--WwCAAh85KAU2zJU6rvrqD0sA92Mnoh9wLI8mJSZ7i7BLHm4SPScaToauQqB265u3Q1jMXPRYgOu_0fHNw7f_SMfA5SAaI_1afuALjK-NgptAlynCK0CfcDidbQ9hnmojO9m_1IjfBpiPJUBrnIIsHR6uunQhIyP3Rv1p8VPb8oelGgL8WcL0eXAsAeBmpGsGKyOSLmGIZcrcJxJ019gast1-wpNNSHBPTVS0OP719VnJ0JhiwP6fTfzl1VXySAuI472B80gqqlZPWDm9w-j5hDP2esBDwSVq86St05rQXSYFgcz4fbQcKz&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBT7mNooM5mDu2sXSMvXmgmIlreCmiqT-e-TCww-BYO05DtTKtZRqFyGNI1uM_e9ylUYkdenHdMf8Lk0elEHcH2jp0IfR6Gnm2n0BpRnq7WoH-Llvknb2ExJ1yHsKM-brcifwst7cDhJe2i3pRsSMT7P2DEfg2FU4WwDTYUyQayLolXZWT-daLb5unrdF_ofQ6TOG6KoJgOV-ecSZqGzUbvADylYHR0i96VnyBAUfQUQCZRYlm0fFiiCkavwQPZWiHHljJot2P1fzlmmjehpDNGwcmLWQrDqM9LXe-YEQ50c7-K6HEtga-j2R6MM8rar0mFRfJmBGi6tsU1SiKUfChiOIETAI",
+            "q": "Business Intelligence Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBT7mNooM5mDu2sXSMvXmgmIlreCmiqT-e-TCww-BYO05DtTKtZRqFyGNI1uM_e9ylUYkdenHdMf8Lk0elEHcH2jp0IfR6Gnm2n0BpRnq7WoH-Llvknb2ExJ1yHsKM-brcifwst7cDhJe2i3pRsSMT7P2DEfg2FU4WwDTYUyQayLolXZWT-daLb5unrdF_ofQ6TOG6KoJgOV-ecSZqGzUbvADylYHR0i96VnyBAUfQUQCZRYlm0fFiiCkavwQPZWiHHljJot2P1fzlmmjehpDNGwcmLWQrDqM9LXe-YEQ50c7-K6HEtga-j2R6MM8rar0mFRfJmBGi6tsU1SiKUfChiOIETAI&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBT7mNooM5mDu2sXSMvXmgmIlreCmiqT-e-TCww-BYO05DtTKtZRqFyGNI1uM_e9ylUYkdenHdMf8Lk0elEHcH2jp0IfR6Gnm2n0BpRnq7WoH-Llvknb2ExJ1yHsKM-brcifwst7cDhJe2i3pRsSMT7P2DEfg2FU4WwDTYUyQayLolXZWT-daLb5unrdF_ofQ6TOG6KoJgOV-ecSZqGzUbvADylYHR0i96VnyBAUfQUQCZRYlm0fFiiCkavwQPZWiHHljJot2P1fzlmmjehpDNGwcmLWQrDqM9LXe-YEQ50c7-K6HEtga-j2R6MM8rar0mFRfJmBGi6tsU1SiKUfChiOIETAI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE8NTK9DBmjBIfASNE4qIxrg8OS5TgXvNYEgV_ynn5f7XFr749hs_z5EpjFHLS4WgPjTMp05Nh_2T8FZ6IoAJ5OVhB_cwGSzSwL5fKep5lqE5QY18eB9j6w4dn6I_4KTu0H72hwFyXVZIR9kkuUG8Jwu7DtCqtfekGfwUxGKRHjYYt-pMIRE82a48nNRwHEk_BIxkEefFlkSyr8prsK8VcRwtZ3eghckN4YXa1oiI3PkHSAVa_V5PztB1WgqdJQcLGisPZtdEhkJ5iVd8tsqu7YKT8Cun--z4g5DPZrUiIxJGnIJa7pKjyC4-MnbyRZ0Uope5r88R0Fq5mkw15OSfxyJAwDng",
+            "q": "Business Intelligence Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE8NTK9DBmjBIfASNE4qIxrg8OS5TgXvNYEgV_ynn5f7XFr749hs_z5EpjFHLS4WgPjTMp05Nh_2T8FZ6IoAJ5OVhB_cwGSzSwL5fKep5lqE5QY18eB9j6w4dn6I_4KTu0H72hwFyXVZIR9kkuUG8Jwu7DtCqtfekGfwUxGKRHjYYt-pMIRE82a48nNRwHEk_BIxkEefFlkSyr8prsK8VcRwtZ3eghckN4YXa1oiI3PkHSAVa_V5PztB1WgqdJQcLGisPZtdEhkJ5iVd8tsqu7YKT8Cun--z4g5DPZrUiIxJGnIJa7pKjyC4-MnbyRZ0Uope5r88R0Fq5mkw15OSfxyJAwDng&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE8NTK9DBmjBIfASNE4qIxrg8OS5TgXvNYEgV_ynn5f7XFr749hs_z5EpjFHLS4WgPjTMp05Nh_2T8FZ6IoAJ5OVhB_cwGSzSwL5fKep5lqE5QY18eB9j6w4dn6I_4KTu0H72hwFyXVZIR9kkuUG8Jwu7DtCqtfekGfwUxGKRHjYYt-pMIRE82a48nNRwHEk_BIxkEefFlkSyr8prsK8VcRwtZ3eghckN4YXa1oiI3PkHSAVa_V5PztB1WgqdJQcLGisPZtdEhkJ5iVd8tsqu7YKT8Cun--z4g5DPZrUiIxJGnIJa7pKjyC4-MnbyRZ0Uope5r88R0Fq5mkw15OSfxyJAwDng&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk60eJU2a7syZyIV9fIRSl7wRzOzidfApoS7z4hV7R0zFPRbvy6ZaPkpMM-qhYxSdP1TgRq-904Y5I9sRfsy3-M8VzRvycVQUvXGWzhlVAVnm8L7ix2oFnfOiOZXwp_-qfTb3gbE7Ajp6IcTaL20H875sRvzSxhv3PwTPGMwrPhgQld98qy6bB98QBmM73RgJe5Ndghcr1HnCAoHw6ekw0QiBWc7_ojOkYXJxtSgFiN8hOgyJ2HY_60ewwyK9QmsACXEbDu8JtsNnjGIaisaRGC0xso58l1m6VkZFLwJCeD4vhndx3neM8J8Myi584dca4gp9Nf03rxLz0S4ZQ_fCdctZbOvG",
+            "q": "Business Intelligence Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk60eJU2a7syZyIV9fIRSl7wRzOzidfApoS7z4hV7R0zFPRbvy6ZaPkpMM-qhYxSdP1TgRq-904Y5I9sRfsy3-M8VzRvycVQUvXGWzhlVAVnm8L7ix2oFnfOiOZXwp_-qfTb3gbE7Ajp6IcTaL20H875sRvzSxhv3PwTPGMwrPhgQld98qy6bB98QBmM73RgJe5Ndghcr1HnCAoHw6ekw0QiBWc7_ojOkYXJxtSgFiN8hOgyJ2HY_60ewwyK9QmsACXEbDu8JtsNnjGIaisaRGC0xso58l1m6VkZFLwJCeD4vhndx3neM8J8Myi584dca4gp9Nf03rxLz0S4ZQ_fCdctZbOvG&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXD05vf5GNZElrZtyb_w4Bk60eJU2a7syZyIV9fIRSl7wRzOzidfApoS7z4hV7R0zFPRbvy6ZaPkpMM-qhYxSdP1TgRq-904Y5I9sRfsy3-M8VzRvycVQUvXGWzhlVAVnm8L7ix2oFnfOiOZXwp_-qfTb3gbE7Ajp6IcTaL20H875sRvzSxhv3PwTPGMwrPhgQld98qy6bB98QBmM73RgJe5Ndghcr1HnCAoHw6ekw0QiBWc7_ojOkYXJxtSgFiN8hOgyJ2HY_60ewwyK9QmsACXEbDu8JtsNnjGIaisaRGC0xso58l1m6VkZFLwJCeD4vhndx3neM8J8Myi584dca4gp9Nf03rxLz0S4ZQ_fCdctZbOvG&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxexSFUnuwMqDKHL8FA1TANl7aTOvVQOud7LV--WwCAAh85KAU2zJU6rvrqD0sA92Mnoh9wLI8mJSZ7i7BLHm4SPScaToauQqB265u3Q1jMXPRYgOu_0fHNw7f_SMfA5SAaI_1afuALjK-NgptAlynCK0CfcDidbQ9hnmojO9m_1IjfBpiPJUBrnIIsHR6uunQhIyP3Rv1p8VPb8oelGgL8WcL0eXAsAeBmpGsGKyOSLmGIZcrcJxJ019gast1-wpNNSHBPTVS0OP719VnJ0JhiwP6fTfzl1VXySAuI472B80gqqlZPWDm9w-j5hDP2esBDwSVq86St05rQXSYFgcz4fbQcKz",
+            "q": "Business Intelligence Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxexSFUnuwMqDKHL8FA1TANl7aTOvVQOud7LV--WwCAAh85KAU2zJU6rvrqD0sA92Mnoh9wLI8mJSZ7i7BLHm4SPScaToauQqB265u3Q1jMXPRYgOu_0fHNw7f_SMfA5SAaI_1afuALjK-NgptAlynCK0CfcDidbQ9hnmojO9m_1IjfBpiPJUBrnIIsHR6uunQhIyP3Rv1p8VPb8oelGgL8WcL0eXAsAeBmpGsGKyOSLmGIZcrcJxJ019gast1-wpNNSHBPTVS0OP719VnJ0JhiwP6fTfzl1VXySAuI472B80gqqlZPWDm9w-j5hDP2esBDwSVq86St05rQXSYFgcz4fbQcKz&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4EOt27oozLQjE-myPMfrxexSFUnuwMqDKHL8FA1TANl7aTOvVQOud7LV--WwCAAh85KAU2zJU6rvrqD0sA92Mnoh9wLI8mJSZ7i7BLHm4SPScaToauQqB265u3Q1jMXPRYgOu_0fHNw7f_SMfA5SAaI_1afuALjK-NgptAlynCK0CfcDidbQ9hnmojO9m_1IjfBpiPJUBrnIIsHR6uunQhIyP3Rv1p8VPb8oelGgL8WcL0eXAsAeBmpGsGKyOSLmGIZcrcJxJ019gast1-wpNNSHBPTVS0OP719VnJ0JhiwP6fTfzl1VXySAuI472B80gqqlZPWDm9w-j5hDP2esBDwSVq86St05rQXSYFgcz4fbQcKz&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBT7mNooM5mDu2sXSMvXmgmIlreCmiqT-e-TCww-BYO05DtTKtZRqFyGNI1uM_e9ylUYkdenHdMf8Lk0elEHcH2jp0IfR6Gnm2n0BpRnq7WoH-Llvknb2ExJ1yHsKM-brcifwst7cDhJe2i3pRsSMT7P2DEfg2FU4WwDTYUyQayLolXZWT-daLb5unrdF_ofQ6TOG6KoJgOV-ecSZqGzUbvADylYHR0i96VnyBAUfQUQCZRYlm0fFiiCkavwQPZWiHHljJot2P1fzlmmjehpDNGwcmLWQrDqM9LXe-YEQ50c7-K6HEtga-j2R6MM8rar0mFRfJmBGi6tsU1SiKUfChiOIETAI",
+            "q": "Business Intelligence Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBT7mNooM5mDu2sXSMvXmgmIlreCmiqT-e-TCww-BYO05DtTKtZRqFyGNI1uM_e9ylUYkdenHdMf8Lk0elEHcH2jp0IfR6Gnm2n0BpRnq7WoH-Llvknb2ExJ1yHsKM-brcifwst7cDhJe2i3pRsSMT7P2DEfg2FU4WwDTYUyQayLolXZWT-daLb5unrdF_ofQ6TOG6KoJgOV-ecSZqGzUbvADylYHR0i96VnyBAUfQUQCZRYlm0fFiiCkavwQPZWiHHljJot2P1fzlmmjehpDNGwcmLWQrDqM9LXe-YEQ50c7-K6HEtga-j2R6MM8rar0mFRfJmBGi6tsU1SiKUfChiOIETAI&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-AiQQ4p_4E5UagpW3udMBT7mNooM5mDu2sXSMvXmgmIlreCmiqT-e-TCww-BYO05DtTKtZRqFyGNI1uM_e9ylUYkdenHdMf8Lk0elEHcH2jp0IfR6Gnm2n0BpRnq7WoH-Llvknb2ExJ1yHsKM-brcifwst7cDhJe2i3pRsSMT7P2DEfg2FU4WwDTYUyQayLolXZWT-daLb5unrdF_ofQ6TOG6KoJgOV-ecSZqGzUbvADylYHR0i96VnyBAUfQUQCZRYlm0fFiiCkavwQPZWiHHljJot2P1fzlmmjehpDNGwcmLWQrDqM9LXe-YEQ50c7-K6HEtga-j2R6MM8rar0mFRfJmBGi6tsU1SiKUfChiOIETAI&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE8NTK9DBmjBIfASNE4qIxrg8OS5TgXvNYEgV_ynn5f7XFr749hs_z5EpjFHLS4WgPjTMp05Nh_2T8FZ6IoAJ5OVhB_cwGSzSwL5fKep5lqE5QY18eB9j6w4dn6I_4KTu0H72hwFyXVZIR9kkuUG8Jwu7DtCqtfekGfwUxGKRHjYYt-pMIRE82a48nNRwHEk_BIxkEefFlkSyr8prsK8VcRwtZ3eghckN4YXa1oiI3PkHSAVa_V5PztB1WgqdJQcLGisPZtdEhkJ5iVd8tsqu7YKT8Cun--z4g5DPZrUiIxJGnIJa7pKjyC4-MnbyRZ0Uope5r88R0Fq5mkw15OSfxyJAwDng",
+            "q": "Business Intelligence Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE8NTK9DBmjBIfASNE4qIxrg8OS5TgXvNYEgV_ynn5f7XFr749hs_z5EpjFHLS4WgPjTMp05Nh_2T8FZ6IoAJ5OVhB_cwGSzSwL5fKep5lqE5QY18eB9j6w4dn6I_4KTu0H72hwFyXVZIR9kkuUG8Jwu7DtCqtfekGfwUxGKRHjYYt-pMIRE82a48nNRwHEk_BIxkEefFlkSyr8prsK8VcRwtZ3eghckN4YXa1oiI3PkHSAVa_V5PztB1WgqdJQcLGisPZtdEhkJ5iVd8tsqu7YKT8Cun--z4g5DPZrUiIxJGnIJa7pKjyC4-MnbyRZ0Uope5r88R0Fq5mkw15OSfxyJAwDng&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX6RCRrWmddjKNNaYfxSTpE8NTK9DBmjBIfASNE4qIxrg8OS5TgXvNYEgV_ynn5f7XFr749hs_z5EpjFHLS4WgPjTMp05Nh_2T8FZ6IoAJ5OVhB_cwGSzSwL5fKep5lqE5QY18eB9j6w4dn6I_4KTu0H72hwFyXVZIR9kkuUG8Jwu7DtCqtfekGfwUxGKRHjYYt-pMIRE82a48nNRwHEk_BIxkEefFlkSyr8prsK8VcRwtZ3eghckN4YXa1oiI3PkHSAVa_V5PztB1WgqdJQcLGisPZtdEhkJ5iVd8tsqu7YKT8Cun--z4g5DPZrUiIxJGnIJa7pKjyC4-MnbyRZ0Uope5r88R0Fq5mkw15OSfxyJAwDng&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGnygjmUTolWlhut24PESfNF2MAyQ_lQm7jE6CcaDd0Sslk6-j3hf8gWxyWdL0Vk9DSN1zohGCbjyP2pTDXYcObozNzyOl0r7uGTt-6gaeKV2ugjErfagxAJynVyoTo-DW7dgxPMXKtktTGDYeeLNC0wmHxwSCOW9oN4vqjK0ugj87pZ7HlT9vb9qWFuw3mP-0R0ozQ2Vsrt9eQJ0qb0yqxTU-n3BfbNhiexiy9bmlEKnv4u_DSDMSgCLJurSndizH28W1sEYaI4M3Zc0EUY4aLpnasC8",
+            "q": "Business Intelligence Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGnygjmUTolWlhut24PESfNF2MAyQ_lQm7jE6CcaDd0Sslk6-j3hf8gWxyWdL0Vk9DSN1zohGCbjyP2pTDXYcObozNzyOl0r7uGTt-6gaeKV2ugjErfagxAJynVyoTo-DW7dgxPMXKtktTGDYeeLNC0wmHxwSCOW9oN4vqjK0ugj87pZ7HlT9vb9qWFuw3mP-0R0ozQ2Vsrt9eQJ0qb0yqxTU-n3BfbNhiexiy9bmlEKnv4u_DSDMSgCLJurSndizH28W1sEYaI4M3Zc0EUY4aLpnasC8&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGnygjmUTolWlhut24PESfNF2MAyQ_lQm7jE6CcaDd0Sslk6-j3hf8gWxyWdL0Vk9DSN1zohGCbjyP2pTDXYcObozNzyOl0r7uGTt-6gaeKV2ugjErfagxAJynVyoTo-DW7dgxPMXKtktTGDYeeLNC0wmHxwSCOW9oN4vqjK0ugj87pZ7HlT9vb9qWFuw3mP-0R0ozQ2Vsrt9eQJ0qb0yqxTU-n3BfbNhiexiy9bmlEKnv4u_DSDMSgCLJurSndizH28W1sEYaI4M3Zc0EUY4aLpnasC8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGgj_Y29UgKU6ONbOvVpKpeCygNgOfORvmemJIxaxPy2LwwLxXgbHbHZ22O4Gy4uJ-5YIb6qsB6yfj1g5L5aJJSpSXa_foZH3rtNA-atBxEiFF8Mw_nZw_6bRPnMqFNNro3KH_8eH9Hhw07eqRv2ccnaLKVBaxDDjRWwoSCt8i1gX5hMJFbtUL_ZwC1BhZMX_CD87tEPBBnpx0hMAg6PT4Yxv9pSwIjVvvICIYOx9GHwDYRSUwNBjbiw_rM2RxR_RpMUoFdn2fCYaGEBK53VnNPHUPp4U",
+            "q": "Business Intelligence Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGgj_Y29UgKU6ONbOvVpKpeCygNgOfORvmemJIxaxPy2LwwLxXgbHbHZ22O4Gy4uJ-5YIb6qsB6yfj1g5L5aJJSpSXa_foZH3rtNA-atBxEiFF8Mw_nZw_6bRPnMqFNNro3KH_8eH9Hhw07eqRv2ccnaLKVBaxDDjRWwoSCt8i1gX5hMJFbtUL_ZwC1BhZMX_CD87tEPBBnpx0hMAg6PT4Yxv9pSwIjVvvICIYOx9GHwDYRSUwNBjbiw_rM2RxR_RpMUoFdn2fCYaGEBK53VnNPHUPp4U&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGgj_Y29UgKU6ONbOvVpKpeCygNgOfORvmemJIxaxPy2LwwLxXgbHbHZ22O4Gy4uJ-5YIb6qsB6yfj1g5L5aJJSpSXa_foZH3rtNA-atBxEiFF8Mw_nZw_6bRPnMqFNNro3KH_8eH9Hhw07eqRv2ccnaLKVBaxDDjRWwoSCt8i1gX5hMJFbtUL_ZwC1BhZMX_CD87tEPBBnpx0hMAg6PT4Yxv9pSwIjVvvICIYOx9GHwDYRSUwNBjbiw_rM2RxR_RpMUoFdn2fCYaGEBK53VnNPHUPp4U&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-5o8tDiS6oOKblP9DnokYnNa2uJ97tMqE2mfe0zzx-SyloVRCSZU0iEu5_arAT_TaEkwPzlhiwyZyaKmkb5WXA-zMl6s_2EWpZRJH7T6gHL6twqrShPMIPwU6YMWnzNvwR-Qa-60m1n7AwmQjwiCegw63qHI__xACw1VIFNfDS9bg1AXqRcRLc3o9V_9_dXyFq5ysMbnhZdtdDhNWBWnJ7O0BGUGhaRxw7BdxIIZU44lFeQeHcvJWmkbSVlr9BjFWgHQJXvvyzVl3ju94CKY5LPLAcSnYGMTwfrQScSOQcBKcwfZjQ",
+            "q": "Business Intelligence Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-5o8tDiS6oOKblP9DnokYnNa2uJ97tMqE2mfe0zzx-SyloVRCSZU0iEu5_arAT_TaEkwPzlhiwyZyaKmkb5WXA-zMl6s_2EWpZRJH7T6gHL6twqrShPMIPwU6YMWnzNvwR-Qa-60m1n7AwmQjwiCegw63qHI__xACw1VIFNfDS9bg1AXqRcRLc3o9V_9_dXyFq5ysMbnhZdtdDhNWBWnJ7O0BGUGhaRxw7BdxIIZU44lFeQeHcvJWmkbSVlr9BjFWgHQJXvvyzVl3ju94CKY5LPLAcSnYGMTwfrQScSOQcBKcwfZjQ&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-5o8tDiS6oOKblP9DnokYnNa2uJ97tMqE2mfe0zzx-SyloVRCSZU0iEu5_arAT_TaEkwPzlhiwyZyaKmkb5WXA-zMl6s_2EWpZRJH7T6gHL6twqrShPMIPwU6YMWnzNvwR-Qa-60m1n7AwmQjwiCegw63qHI__xACw1VIFNfDS9bg1AXqRcRLc3o9V_9_dXyFq5ysMbnhZdtdDhNWBWnJ7O0BGUGhaRxw7BdxIIZU44lFeQeHcvJWmkbSVlr9BjFWgHQJXvvyzVl3ju94CKY5LPLAcSnYGMTwfrQScSOQcBKcwfZjQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUi32CGJNs6bqCcfS20GJQm6pDfFtqJOCLZKB-8ZF70rUi19hDMUVXRofdIDosBBR1oLoC5p4VhJvVSnUzg7BQshm9l0aef_ZM01dVVYfz1X0TMbPyNh19KdLK8n1ovn13yd-9gtYMlSqMIMhpwVM6VI-WQwunggngxYXtOVyuwHx5AMGgbtvD178hYUvdYtkcPLsYdzi75tr3zo3rMYJg0UU65e5IBrnXe66L4KU7qoUWuxnAlw4P-HoacGz5cWPNUiK965SUeGInTz1_XT_V8APUhplBB2hsI-5zSIsQOkO8dO1Yw",
+            "q": "Business Intelligence Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUi32CGJNs6bqCcfS20GJQm6pDfFtqJOCLZKB-8ZF70rUi19hDMUVXRofdIDosBBR1oLoC5p4VhJvVSnUzg7BQshm9l0aef_ZM01dVVYfz1X0TMbPyNh19KdLK8n1ovn13yd-9gtYMlSqMIMhpwVM6VI-WQwunggngxYXtOVyuwHx5AMGgbtvD178hYUvdYtkcPLsYdzi75tr3zo3rMYJg0UU65e5IBrnXe66L4KU7qoUWuxnAlw4P-HoacGz5cWPNUiK965SUeGInTz1_XT_V8APUhplBB2hsI-5zSIsQOkO8dO1Yw&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUi32CGJNs6bqCcfS20GJQm6pDfFtqJOCLZKB-8ZF70rUi19hDMUVXRofdIDosBBR1oLoC5p4VhJvVSnUzg7BQshm9l0aef_ZM01dVVYfz1X0TMbPyNh19KdLK8n1ovn13yd-9gtYMlSqMIMhpwVM6VI-WQwunggngxYXtOVyuwHx5AMGgbtvD178hYUvdYtkcPLsYdzi75tr3zo3rMYJg0UU65e5IBrnXe66L4KU7qoUWuxnAlw4P-HoacGz5cWPNUiK965SUeGInTz1_XT_V8APUhplBB2hsI-5zSIsQOkO8dO1Yw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGnygjmUTolWlhut24PESfNF2MAyQ_lQm7jE6CcaDd0Sslk6-j3hf8gWxyWdL0Vk9DSN1zohGCbjyP2pTDXYcObozNzyOl0r7uGTt-6gaeKV2ugjErfagxAJynVyoTo-DW7dgxPMXKtktTGDYeeLNC0wmHxwSCOW9oN4vqjK0ugj87pZ7HlT9vb9qWFuw3mP-0R0ozQ2Vsrt9eQJ0qb0yqxTU-n3BfbNhiexiy9bmlEKnv4u_DSDMSgCLJurSndizH28W1sEYaI4M3Zc0EUY4aLpnasC8",
+            "q": "Business Intelligence Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGnygjmUTolWlhut24PESfNF2MAyQ_lQm7jE6CcaDd0Sslk6-j3hf8gWxyWdL0Vk9DSN1zohGCbjyP2pTDXYcObozNzyOl0r7uGTt-6gaeKV2ugjErfagxAJynVyoTo-DW7dgxPMXKtktTGDYeeLNC0wmHxwSCOW9oN4vqjK0ugj87pZ7HlT9vb9qWFuw3mP-0R0ozQ2Vsrt9eQJ0qb0yqxTU-n3BfbNhiexiy9bmlEKnv4u_DSDMSgCLJurSndizH28W1sEYaI4M3Zc0EUY4aLpnasC8&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGnygjmUTolWlhut24PESfNF2MAyQ_lQm7jE6CcaDd0Sslk6-j3hf8gWxyWdL0Vk9DSN1zohGCbjyP2pTDXYcObozNzyOl0r7uGTt-6gaeKV2ugjErfagxAJynVyoTo-DW7dgxPMXKtktTGDYeeLNC0wmHxwSCOW9oN4vqjK0ugj87pZ7HlT9vb9qWFuw3mP-0R0ozQ2Vsrt9eQJ0qb0yqxTU-n3BfbNhiexiy9bmlEKnv4u_DSDMSgCLJurSndizH28W1sEYaI4M3Zc0EUY4aLpnasC8&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGgj_Y29UgKU6ONbOvVpKpeCygNgOfORvmemJIxaxPy2LwwLxXgbHbHZ22O4Gy4uJ-5YIb6qsB6yfj1g5L5aJJSpSXa_foZH3rtNA-atBxEiFF8Mw_nZw_6bRPnMqFNNro3KH_8eH9Hhw07eqRv2ccnaLKVBaxDDjRWwoSCt8i1gX5hMJFbtUL_ZwC1BhZMX_CD87tEPBBnpx0hMAg6PT4Yxv9pSwIjVvvICIYOx9GHwDYRSUwNBjbiw_rM2RxR_RpMUoFdn2fCYaGEBK53VnNPHUPp4U",
+            "q": "Business Intelligence Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGgj_Y29UgKU6ONbOvVpKpeCygNgOfORvmemJIxaxPy2LwwLxXgbHbHZ22O4Gy4uJ-5YIb6qsB6yfj1g5L5aJJSpSXa_foZH3rtNA-atBxEiFF8Mw_nZw_6bRPnMqFNNro3KH_8eH9Hhw07eqRv2ccnaLKVBaxDDjRWwoSCt8i1gX5hMJFbtUL_ZwC1BhZMX_CD87tEPBBnpx0hMAg6PT4Yxv9pSwIjVvvICIYOx9GHwDYRSUwNBjbiw_rM2RxR_RpMUoFdn2fCYaGEBK53VnNPHUPp4U&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXbTY4KznI0M_kuOV0HOUhLfzymIVRxxwZ-IPbzarzfRfws_H5NYTgiPubbNGKY0eGgj_Y29UgKU6ONbOvVpKpeCygNgOfORvmemJIxaxPy2LwwLxXgbHbHZ22O4Gy4uJ-5YIb6qsB6yfj1g5L5aJJSpSXa_foZH3rtNA-atBxEiFF8Mw_nZw_6bRPnMqFNNro3KH_8eH9Hhw07eqRv2ccnaLKVBaxDDjRWwoSCt8i1gX5hMJFbtUL_ZwC1BhZMX_CD87tEPBBnpx0hMAg6PT4Yxv9pSwIjVvvICIYOx9GHwDYRSUwNBjbiw_rM2RxR_RpMUoFdn2fCYaGEBK53VnNPHUPp4U&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-5o8tDiS6oOKblP9DnokYnNa2uJ97tMqE2mfe0zzx-SyloVRCSZU0iEu5_arAT_TaEkwPzlhiwyZyaKmkb5WXA-zMl6s_2EWpZRJH7T6gHL6twqrShPMIPwU6YMWnzNvwR-Qa-60m1n7AwmQjwiCegw63qHI__xACw1VIFNfDS9bg1AXqRcRLc3o9V_9_dXyFq5ysMbnhZdtdDhNWBWnJ7O0BGUGhaRxw7BdxIIZU44lFeQeHcvJWmkbSVlr9BjFWgHQJXvvyzVl3ju94CKY5LPLAcSnYGMTwfrQScSOQcBKcwfZjQ",
+            "q": "Business Intelligence Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-5o8tDiS6oOKblP9DnokYnNa2uJ97tMqE2mfe0zzx-SyloVRCSZU0iEu5_arAT_TaEkwPzlhiwyZyaKmkb5WXA-zMl6s_2EWpZRJH7T6gHL6twqrShPMIPwU6YMWnzNvwR-Qa-60m1n7AwmQjwiCegw63qHI__xACw1VIFNfDS9bg1AXqRcRLc3o9V_9_dXyFq5ysMbnhZdtdDhNWBWnJ7O0BGUGhaRxw7BdxIIZU44lFeQeHcvJWmkbSVlr9BjFWgHQJXvvyzVl3ju94CKY5LPLAcSnYGMTwfrQScSOQcBKcwfZjQ&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-5o8tDiS6oOKblP9DnokYnNa2uJ97tMqE2mfe0zzx-SyloVRCSZU0iEu5_arAT_TaEkwPzlhiwyZyaKmkb5WXA-zMl6s_2EWpZRJH7T6gHL6twqrShPMIPwU6YMWnzNvwR-Qa-60m1n7AwmQjwiCegw63qHI__xACw1VIFNfDS9bg1AXqRcRLc3o9V_9_dXyFq5ysMbnhZdtdDhNWBWnJ7O0BGUGhaRxw7BdxIIZU44lFeQeHcvJWmkbSVlr9BjFWgHQJXvvyzVl3ju94CKY5LPLAcSnYGMTwfrQScSOQcBKcwfZjQ&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUi32CGJNs6bqCcfS20GJQm6pDfFtqJOCLZKB-8ZF70rUi19hDMUVXRofdIDosBBR1oLoC5p4VhJvVSnUzg7BQshm9l0aef_ZM01dVVYfz1X0TMbPyNh19KdLK8n1ovn13yd-9gtYMlSqMIMhpwVM6VI-WQwunggngxYXtOVyuwHx5AMGgbtvD178hYUvdYtkcPLsYdzi75tr3zo3rMYJg0UU65e5IBrnXe66L4KU7qoUWuxnAlw4P-HoacGz5cWPNUiK965SUeGInTz1_XT_V8APUhplBB2hsI-5zSIsQOkO8dO1Yw",
+            "q": "Business Intelligence Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&hl=en&gl=us&sxsrf=AKL5yDg_4SXDyA9gPDHIP9NgRIuKvfRqoA:1793394763359&q=Business+Intelligence+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUi32CGJNs6bqCcfS20GJQm6pDfFtqJOCLZKB-8ZF70rUi19hDMUVXRofdIDosBBR1oLoC5p4VhJvVSnUzg7BQshm9l0aef_ZM01dVVYfz1X0TMbPyNh19KdLK8n1ovn13yd-9gtYMlSqMIMhpwVM6VI-WQwunggngxYXtOVyuwHx5AMGgbtvD178hYUvdYtkcPLsYdzi75tr3zo3rMYJg0UU65e5IBrnXe66L4KU7qoUWuxnAlw4P-HoacGz5cWPNUiK965SUeGInTz1_XT_V8APUhplBB2hsI-5zSIsQOkO8dO1Yw&udm=8&sa=X&ved=2ahUKEwjTi7-O1OKXAxUuHIYAHUGfE0gQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Business+Intelligence+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUi32CGJNs6bqCcfS20GJQm6pDfFtqJOCLZKB-8ZF70rUi19hDMUVXRofdIDosBBR1oLoC5p4VhJvVSnUzg7BQshm9l0aef_ZM01dVVYfz1X0TMbPyNh19KdLK8n1ovn13yd-9gtYMlSqMIMhpwVM6VI-WQwunggngxYXtOVyuwHx5AMGgbtvD178hYUvdYtkcPLsYdzi75tr3zo3rMYJg0UU65e5IBrnXe66L4KU7qoUWuxnAlw4P-HoacGz5cWPNUiK965SUeGInTz1_XT_V8APUhplBB2hsI-5zSIsQOkO8dO1Yw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Business Intelligence Analyst",
+      "company_name": "Lignetics",
+      "location": "Superior, CO",
+      "via": "Adzuna",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "3+ years in analytics, BI, or data science supporting sales, revenue, or demand planning, ideally in CPG, retail, agriculture, energy, or another seasonal or consumption-driven business",
+            "Strong SQL and Python or R, plus advanced Excel and Access",
+            "Applied statistics: regression, time series, and trend analysis",
+            "Hands-on experience with a visualization tool such as Tableau or Power BI",
+            "Demonstrated use of AI/LLM tools in real analytical work, with examples you can walk us through",
+            "Track record of diagnosing and fixing data quality issues across multiple source systems",
+            "Ability to explain analysis, and its limits, to non-technical executives in plain language",
+            "Ownership mindset: you take a messy question to a finished answer without being managed step by step",
+            "90 days: You know our data, categories, and customers; you have validated the core performance reporting and shipped your first automation",
+            "12 months: Demand shifts are flagged ahead of the forecast, manual reporting time is materially reduced, and leadership relies on your analysis for customer and inventory decisions"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $95,000- $125,000 base + 10% annual bonus target based on EBITDA",
+            "Annual Bonus Eligibility",
+            "Employee referral bonus program",
+            "PTO+ 2 floating holidays",
+            "Medical, Dental, and Vision Insurance (FSA & HSA options)",
+            "Educational assistance",
+            "Life insurance, short term & long-term disability",
+            "401(k) with employer match & immediate vesting",
+            "Employee heating pellet program",
+            "Lignetics SWAG gear to include an annual pair of work boots & other PPE"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Reports To: VP of Information Technology; works day-to-day with Commercial leadership",
+            "Lignetics makes consumable products, including heating pellets, animal bedding, and grilling pellets, where demand moves with weather, seasonality, and retailer inventory",
+            "As part of the IT team, you will build and maintain the commercial BI environment, analyze the signals that drive demand, and deliver the reporting and insight senior leadership uses to run the business",
+            "You will use modern analytics and AI tools to get there faster",
+            "Build analysis and tools on point-of-sale, on-hand inventory, weather, and internal sales data that signal changes in demand by category, customer, and region",
+            "Surface those signals early (sell-through shifts, inventory build or depletion, weather departures from normal) so the forecast and commercial teams can act on them",
+            "Prepare and present regular sales performance reporting to senior leadership",
+            "Design, build, and maintain dashboards and automated reporting and alerts that reduce manual work",
+            "Integrate data from Salesforce, retailer portals, external sources, and acquired businesses into reliable BI sources",
+            "Own data integrity across BI sources: identify and troubleshoot discrepancies, trace them to root cause, resolve them with source-system owners, and put checks in place so they don't recur",
+            "Maintain consistent KPI definitions",
+            "Use AI tools to speed up analysis, coding, and reporting, and validate output before it reaches decision-makers",
+            "Partner with commercial and cross-functional teams on requirements and ad-hoc analysis",
+            "6 months: Demand-signal analysis (POS, on-hand inventory, weather) is live for our major categories and feeding the forecast and pre-season planning cycle"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=yyguU7sZjM9rDZvxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRAAQGzvB1ptLZqIaKOVWogiWPiAIwlLEom7IbsH5yd8s9pMN91n0m2Og2RCEbiQYik5IgWEA7nyFoUlXNmDoGshAROcmWPB2T6pVtlZK1JMFHWagwn8skzoebRP9vKnl-Qa1uIU-_V2NZpKcT695Uj4GwKZ4DFUbJnbAk73LyBaKtyRAAAA&shmds=v1_Ac3VAoyGVYGLSrzdJcU8wgin2v55NvrqdIooYZrNnN4s6nkc7g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=yyguU7sZjM9rDZvxAAAAAA%3D%3D",
+      "extensions": [
+        "11 hours ago",
+        "95K–125K a year",
+        "Full-time",
+        "No degree mentioned",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.adzuna.com/details/5946994109",
+      "job_title": "Business Intelligence Analyst",
+      "description": "Reports To: VP of Information Technology; works day-to-day with Commercial leadership\n\nLocation: Broomfield, CO / Hybrid\n\nCompensation: $95,000- $125,000 base + 10% annual bonus target based on EBITDA\n\nJob Type: Full Time\n\nTravel Requirements: 5%\n\n\n\n\n \n\nAbout the Role\n\nLignetics makes consumable products, including heating pellets, animal bedding, and grilling pellets, where demand moves with weather, seasonality, and retailer inventory. As part of the IT team, you will build and maintain the commercial BI environment, analyze the signals that drive demand, and deliver the reporting and insight senior leadership uses to run the business. You will use modern analytics and AI tools to get there faster.\n\n\n\n\n \n\nWhat You Will Do\n\n• Build analysis and tools on point-of-sale, on-hand inventory, weather, and internal sales data that signal changes in demand by category, customer, and region.\n\n• Surface those signals early (sell-through shifts, inventory build or depletion, weather departures from normal) so the forecast and commercial teams can act on them.\n\n• Prepare and present regular sales performance reporting to senior leadership.\n\n• Design, build, and maintain dashboards and automated reporting and alerts that reduce manual work.\n\n• Integrate data from Salesforce, retailer portals, external sources, and acquired businesses into reliable BI sources.\n\n• Own data integrity across BI sources: identify and troubleshoot discrepancies, trace them to root cause, resolve them with source-system owners, and put checks in place so they don't recur. Maintain consistent KPI definitions.\n\n• Use AI tools to speed up analysis, coding, and reporting, and validate output before it reaches decision-makers.\n\n• Partner with commercial and cross-functional teams on requirements and ad-hoc analysis.\n\n\n\n\n\n\n\n\n\n\n\nRequirements\n \n\nWhat You Bring\n\nRequired\n\n• 3+ years in analytics, BI, or data science supporting sales, revenue, or demand planning, ideally in CPG, retail, agriculture, energy, or another seasonal or consumption-driven business.\n\n• Strong SQL and Python or R, plus advanced Excel and Access.\n\n• Applied statistics: regression, time series, and trend analysis.\n\n• Hands-on experience with a visualization tool such as Tableau or Power BI.\n\n• Demonstrated use of AI/LLM tools in real analytical work, with examples you can walk us through.\n\n• Track record of diagnosing and fixing data quality issues across multiple source systems.\n\n• Ability to explain analysis, and its limits, to non-technical executives in plain language.\n\n• Ownership mindset: you take a messy question to a finished answer without being managed step by step.\n\nPreferred\n\n• Experience with retailer POS and inventory data (e.g., retailer portals, syndicated data).\n\n• Experience analyzing weather- or seasonally-driven demand.\n\n• Familiarity with Salesforce and ERP sales data.\n\n• Experience with cloud data platforms and pipeline tools.\n\n• Experience integrating data from acquisitions/disparate data sources.\n\n\n\n\nWhat Success Looks Like\n\n• 90 days: You know our data, categories, and customers; you have validated the core performance reporting and shipped your first automation.\n\n• 6 months: Demand-signal analysis (POS, on-hand inventory, weather) is live for our major categories and feeding the forecast and pre-season planning cycle.\n\n• 12 months: Demand shifts are flagged ahead of the forecast, manual reporting time is materially reduced, and leadership relies on your analysis for customer and inventory decisions.\n\n\n\n\nBenefits\n\nAnnual Bonus Eligibility Employee referral bonus programPTO+ 2 floating holidaysMedical, Dental, and Vision Insurance (FSA & HSA options)Educational assistanceLife insurance, short term & long-term disability401(k) with employer match & immediate vestingEmployee heating pellet programLignetics SWAG gear to include an annual pair of work boots & other PPE #IDCorporate",
+      "apply_options": [
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5946994109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkxpZ25ldGljcyIsImh0aWRvY2lkIjoieXlndVU3c1pqTTlyRFp2eEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdXUTRlRTVCYmtWcmVVbEpVM05UYm1Oa2NWQjBTSFJyVjJSTFZHWjNiVU5tY1hsV1drMVJVRUpUUmpGVlYxbEZlalpOTlZodFJXNWZNakpVUlVNMldWcFFkemRuTVRsS1ZVcHJWbFJoV0dkamREUkZXbXBqWlVkcFkyOVJlVk5NV1hsMlJUaHRUWFoxUWxGb016SmhiVGQ0Y214S056VTROVVZ3YmxVMFlVVlNSRmxZZFZZU0YxTjNhbXhoY0U4MlJtRTJORzFNVVZCM1lqZFBkMEZSR2lKQlNFNHdSVGRGZVdOUFNrbzJiMk52UjFoa1kyc3lha2RHY25wTE1sQjNXRmhSIiwiZmN2IjoiMyIsImZjX2lkIjoieXlndVU3c1pqTTlyRFp2eEFBQUFBQT09In0="
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company_name": "Quantum Sky",
+      "location": "Aurora, CO",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Citizenship: Must be a U.S. Citizen (mandatory for DHA IT network access and security vetting)",
+            "Formal Education: Bachelor’s degree from an accredited institution in Computer Science, Information Systems, Business Administration, Finance, Accounting, Engineering, or a related field",
+            "Experience Substitution Rule: In lieu of a bachelor’s degree, fifteen (15) years of dedicated Business Analyst experience may be substituted)",
+            "Years of Experience: Minimum of five (5) years of documented business analysis experience supporting large-scale enterprise IT systems of comparable size, scope, and complexity to the DHA EOSS contract",
+            "Core Competency: Proven experience writing formal System Requirements Specifications (SRS), business process flows, functional design specifications, and maintaining bi-directional Requirements Traceability Matrices (RTM)",
+            "Cybersecurity Certification: Must possess or obtain a DoD 8140.03 / DoDD 8570.01-M IAT Level II certification within three (3) months of hire",
+            "Must possess or be capable of obtaining a favorably adjudicated Tier 2 (T2) Public Trust / Non-Critical Sensitive IT-II background investigation (SF-85P / MBI) and receive a DoD Common Access Card (CAC) prior to accessing systems",
+            "Staff must have the flexibility to support cyclical surges (e.g., month-end close, fiscal year-end in September/October) with flex-time arrangements between pay periods as pre-approved by the COR"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation is unique to each candidate and relative to the skills and experience they bring to the position",
+            "The salary range for this position is typically between $110,000-$140,000",
+            "This does not guarantee a specific salary as compensation is based upon multiple factors such as education, experience, certifications, and other requirements, and may fall outside of the above-stated range",
+            "Highlights of our benefits include Health/Dental/Vision, 401(k) match, Paid Time Off, STD/LTD/Life Insurance, Referral Bonuses, professional development reimbursement, and parental leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will serve as the functional linchpin between operational stakeholders and technical engineering teams across the enterprise",
+            "You will analyze, document, and manage business and system requirements bridging the DHA Financial Management suite—centered on Oracle Federal Financials (OFF R12)—and the Enterprise Data Warehouse (EDW) business intelligence data marts",
+            "Your day-to-day focus will center on capturing business needs from DHA Contract Resource Management (CRM) financial managers, translating federal statutory mandates into system requirements, conducting rigorous cross-system gap analyses, maintaining end-to-end traceability, and supporting user acceptance testing across reporting repositories such as the Financial Reporting Data Mart (FRDM / Contractor Resource Center), Operations Reporting Data Mart (ORDM), Pharmacy Reporting Data Mart (PRDM), and the Capital and Direct Medical Education (CAP/DME) reporting area",
+            "Requirements Discovery & Comprehensive Gap Analysis",
+            "Actively interface with DHA CRM financial managers, DHA Office of General Counsel (OGC), and operational users to identify business problems and elicit functional system needs",
+            "Conduct comprehensive cross-system gap analysis whenever changes occur (e.g., analyzing how upstream configuration or accounting rule adjustments in Oracle Federal Financials affect downstream EDW staging, archival layers, and data mart reports)",
+            "Provide business analysis and requirements definitions for reporting reconciliations, data discrepancies, and workflow improvements",
+            "System Requirements Documentation & RTM Governance",
+            "Author, maintain, and update formal System Requirements Specifications (SRSs) for DHA ECS applications and operational interfaces (CDRL 0010), coordinating reviews to secure formal Government Contracting Officer Representative (COR) digital signatures",
+            "Build and maintain a bi-directional Requirements Traceability Matrix (RTM) for each application release, establishing complete traceability from initial stakeholder requirements through design specifications, software version builds, and test cases",
+            "Attach approved requirements packages and RTMs to Change Requests within the Solutions Business Manager (SBM) and Quality Center (QC) repositories to facilitate review by the Configuration Working Group (CWG) and Configuration Management Board (CMB)",
+            "Federal Mandates & Enterprise Initiative Analysis",
+            "Provide dedicated business analysis, functional data modeling, and test coordination for key contract initiatives:",
+            "Government Invoicing (G-Invoicing): Analyze Intragovernmental Transactions (IGT) Buy/Sell business rules, General Terms and Conditions (GT&C), orders, performance, and fund settlement integration with OFF",
+            "BEA SFIS, Data Act & SLOA Compliance: Perform annual business analysis of the DoD Business Enterprise Architecture (BEA) standard release; define system and reporting changes required to sustain Standard Financial Information Structure (SFIS), Data Act, and Standard Line of Accounting (SLOA) compliance across OFF and EDW",
+            "Central Accounting Reporting System (CARS): Define functional requirements for ingesting and processing the CARS Transactional Data Extract (CTDE) within OFF and EDW to automate daily cash and disbursement reconciliations for Agency Location Code 97000012",
+            "Line of Accounting (LOA) & Common Cost Accounting Structure (CCAS): Perform functional requirements discovery and document data dictionary additions across OFF and EDW to support cost accounting reporting",
+            "TRICARE Encounter Data System (TEDS) Interface: Analyze updates in TEDS healthcare and pharmacy claims records, mapping schema changes to OFF claims processing extensions and EDW reporting repositories",
+            "Capital and Direct Medical Education (CAP/DME): Support functional analysis, data ingestion validation, and specialized financial reporting for CAP/DME data submitted by Managed Care Support Contractors",
+            "CRM System Integration Test (CRMSIT): Collaborate directly with the CRM Financial Manager during biennial CRMSIT testing; identify specific test claim scenarios, define modified TED record values, and analyze payment calculation results",
+            "Testing, User Acceptance & Defect Management",
+            "Collaborate with Quality Assurance and Test Engineers to translate functional business requirements into rigorous test scenarios and scripts within HP Quality Center (QC) / ALM",
+            "Support Government User Acceptance Testing (UAT): assist users during test execution, capture test artifacts/screenshots, validate business logic, and help classify test defects as major, moderate, or minor",
+            "Verify that software modifications fully satisfy documented business requirements prior to CMB approval and production deployment",
+            "Reporting Validation & User Enablement",
+            "Validate ad hoc queries and standard reports generated via Oracle Analytics Server (OAS), BI Publisher, and SplashBI to ensure business logic accuracy and accounting integrity",
+            "Assist in developing application user training materials, user guides, and Standard Operating Procedures (SOPs) to support financial and operational users across DHA commands and MTFs",
+            "Ensure all functional reporting outputs adhere to Section 508 and WCAG 2.1 Level AA accessibility criteria"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=ER12KmUEpqkG0_usAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7BzrdLNqI6KJTdRBdRPwAuYYjjaZ3JXeB9if8ZvENr_rOqt2paGRShSsbpRQDsSdoGNOkBmu4SQtKmH0HwnARCYkWx85s0INzqqkOamjR1156J0ytjO4trf57aYeZhoRGr-1-M9YDh-X8UZCt9PD8TBAZmpIl4wrO9x9o_IgqkQAAAA&shmds=v1_Ac3VAowC_VJAhCUWNEqFsRNhMHR4Z0NU7oPaHClLbyj3ZqRa3A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=ER12KmUEpqkG0_usAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5084b8ffa70f5b531410b/images/coidKvxzeDbxyhJmbABAD-30TAwrXRuQeKOg98Yxesw.jpeg",
+      "extensions": [
+        "11 days ago",
+        "110K–140K a year",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=4b06cc67c74880f6",
+      "job_title": "Business Intelligence Analyst",
+      "description": "Description: \n \n  Quantum Sky is searching for a detail-oriented, collaborative Business Intelligence Analyst (FM/EDW Business Analyst) to support the Defense Health Agency (DHA) E-Commerce Operational Systems Support (EOSS) contract in Aurora, Colorado.\n \n \n \n  \n\n   In this role, you will serve as the functional linchpin between operational stakeholders and technical engineering teams across the enterprise. You will analyze, document, and manage business and system requirements bridging the DHA Financial Management suite—centered on Oracle Federal Financials (OFF R12)—and the Enterprise Data Warehouse (EDW) business intelligence data marts.\n \n \n \n  \n\n   Your day-to-day focus will center on capturing business needs from DHA Contract Resource Management (CRM) financial managers, translating federal statutory mandates into system requirements, conducting rigorous cross-system gap analyses, maintaining end-to-end traceability, and supporting user acceptance testing across reporting repositories such as the Financial Reporting Data Mart (FRDM / Contractor Resource Center), Operations Reporting Data Mart (ORDM), Pharmacy Reporting Data Mart (PRDM), and the Capital and Direct Medical Education (CAP/DME) reporting area.\n \n  Responsibilities:\n  1. Requirements Discovery & Comprehensive Gap Analysis\n \n  Actively interface with DHA CRM financial managers, DHA Office of General Counsel (OGC), and operational users to identify business problems and elicit functional system needs.\n  \n   \n    Conduct comprehensive cross-system gap analysis whenever changes occur (e.g., analyzing how upstream configuration or accounting rule adjustments in Oracle Federal Financials affect downstream EDW staging, archival layers, and data mart reports).\n   \n  \n   \n    Provide business analysis and requirements definitions for reporting reconciliations, data discrepancies, and workflow improvements.\n   \n \n  2. System Requirements Documentation & RTM Governance\n \n  \n   \n    Author, maintain, and update formal System Requirements Specifications (SRSs) for DHA ECS applications and operational interfaces (CDRL 0010), coordinating reviews to secure formal Government Contracting Officer Representative (COR) digital signatures.\n   \n  \n   \n    Build and maintain a bi-directional Requirements Traceability Matrix (RTM) for each application release, establishing complete traceability from initial stakeholder requirements through design specifications, software version builds, and test cases.\n   \n  \n   \n    Attach approved requirements packages and RTMs to Change Requests within the Solutions Business Manager (SBM) and Quality Center (QC) repositories to facilitate review by the Configuration Working Group (CWG) and Configuration Management Board (CMB).\n   \n \n  3. Federal Mandates & Enterprise Initiative Analysis\n \n  Provide dedicated business analysis, functional data modeling, and test coordination for key contract initiatives:\n \n \n  \n   \n     Government Invoicing (G-Invoicing): Analyze Intragovernmental Transactions (IGT) Buy/Sell business rules, General Terms and Conditions (GT&C), orders, performance, and fund settlement integration with OFF.\n   \n  \n   \n     BEA SFIS, Data Act & SLOA Compliance: Perform annual business analysis of the DoD Business Enterprise Architecture (BEA) standard release; define system and reporting changes required to sustain Standard Financial Information Structure (SFIS), Data Act, and Standard Line of Accounting (SLOA) compliance across OFF and EDW.\n   \n  \n   \n     Central Accounting Reporting System (CARS): Define functional requirements for ingesting and processing the CARS Transactional Data Extract (CTDE) within OFF and EDW to automate daily cash and disbursement reconciliations for Agency Location Code 97000012.\n   \n  \n   \n     Line of Accounting (LOA) & Common Cost Accounting Structure (CCAS): Perform functional requirements discovery and document data dictionary additions across OFF and EDW to support cost accounting reporting.\n   \n  \n   \n     TRICARE Encounter Data System (TEDS) Interface: Analyze updates in TEDS healthcare and pharmacy claims records, mapping schema changes to OFF claims processing extensions and EDW reporting repositories.\n   \n  \n   \n     Capital and Direct Medical Education (CAP/DME): Support functional analysis, data ingestion validation, and specialized financial reporting for CAP/DME data submitted by Managed Care Support Contractors.\n   \n  \n   \n     CRM System Integration Test (CRMSIT): Collaborate directly with the CRM Financial Manager during biennial CRMSIT testing; identify specific test claim scenarios, define modified TED record values, and analyze payment calculation results.\n   \n \n  4. Testing, User Acceptance & Defect Management\n \n  \n   \n    Collaborate with Quality Assurance and Test Engineers to translate functional business requirements into rigorous test scenarios and scripts within HP Quality Center (QC) / ALM.\n   \n  \n   \n    Support Government User Acceptance Testing (UAT): assist users during test execution, capture test artifacts/screenshots, validate business logic, and help classify test defects as major, moderate, or minor.\n   \n  \n   \n    Verify that software modifications fully satisfy documented business requirements prior to CMB approval and production deployment.\n   \n \n  5. Reporting Validation & User Enablement\n \n  \n   \n    Validate ad hoc queries and standard reports generated via Oracle Analytics Server (OAS), BI Publisher, and SplashBI to ensure business logic accuracy and accounting integrity.\n   \n  \n   \n    Assist in developing application user training materials, user guides, and Standard Operating Procedures (SOPs) to support financial and operational users across DHA commands and MTFs.\n   \n  \n   \n    Ensure all functional reporting outputs adhere to Section 508 and WCAG 2.1 Level AA accessibility criteria.\n   \n  Qualifications: \n \n   Required:\n \n \n  \n   \n     Citizenship: Must be a U.S. Citizen (mandatory for DHA IT network access and security vetting).\n   \n  \n   \n     Formal Education: Bachelor’s degree from an accredited institution in Computer Science, Information Systems, Business Administration, Finance, Accounting, Engineering, or a related field.\n   \n   \n    \n     \n       Experience Substitution Rule: In lieu of a bachelor’s degree, fifteen (15) years of dedicated Business Analyst experience may be substituted).\n     \n   \n  \n   \n     Years of Experience: Minimum of five (5) years of documented business analysis experience supporting large-scale enterprise IT systems of comparable size, scope, and complexity to the DHA EOSS contract.\n   \n  \n   \n     Core Competency: Proven experience writing formal System Requirements Specifications (SRS), business process flows, functional design specifications, and maintaining bi-directional Requirements Traceability Matrices (RTM)\n   \n   Cybersecurity Certification: Must possess or obtain a DoD 8140.03 / DoDD 8570.01-M IAT Level II certification within three (3) months of hire.\n \n \n   Desired:\n \n \n  \n   \n     Financial ERP Systems: Functional understanding of Oracle Federal Financials / Oracle E-Business Suite (EBS) R12 modules (General Ledger, Purchasing, Payables, Receivables), U.S. Standard General Ledger (USSGL), and federal accounting flows.\n   \n  \n   \n     Data Warehousing & BI Understanding: Working familiarity with data warehouse architecture (staging, archive, dimensional marts), ETL data flows, and BI tools (Oracle Analytics Server, OBIEE, BI Publisher, SplashBI).\n   \n  \n   \n     Military Health System (MHS) Experience: Prior experience supporting DHA, TRICARE Encounter Data System (TEDS), MCSC healthcare claims processing, or pharmacy rebate reconciliations.\n   \n  \n   \n     Federal Standards Knowledge: Working knowledge of DoD SFIS, SLOA, Treasury CARS, or G-Invoicing data standards.\n   \n  \n   \n     Tools: Hands-on experience with Micro Focus / Serena Solutions Business Manager (SBM), HP Quality Center (QC) / ALM, Git, Jira, Confluence, and basic SQL querying for data validation.\n   \n  \n   \n     Professional Certifications: CBAP (Certified Business Analysis Professional), PMI-PBA (PMI Professional in Business Analysis), or similar credential is an asset.\n   \n \n \n   Clearance:\n \n \n  Must possess or be capable of obtaining a favorably adjudicated Tier 2 (T2) Public Trust / Non-Critical Sensitive IT-II background investigation (SF-85P / MBI) and receive a DoD Common Access Card (CAC) prior to accessing systems.\n \n \n   Location:\n \n \n  Aurora, CO\n \n \n   Shift:\n \n \n  Staff must have the flexibility to support cyclical surges (e.g., month-end close, fiscal year-end in September/October) with flex-time arrangements between pay periods as pre-approved by the COR.\n  About Quantum Sky: \n \n   Compensation:\n \n \n  Compensation is unique to each candidate and relative to the skills and experience they bring to the position. The salary range for this position is typically between $110,000-$140,000. This does not guarantee a specific salary as compensation is based upon multiple factors such as education, experience, certifications, and other requirements, and may fall outside of the above-stated range.\n \n \n   Benefits:\n \n \n  \n   Highlights of our benefits include Health/Dental/Vision, 401(k) match, Paid Time Off, STD/LTD/Life Insurance, Referral Bonuses, professional development reimbursement, and parental leave.\n  \n  \n  \n   \n    \n\n     The world the mission operates in is going post-quantum, contested, and machine-speed. Quantum Sky engineers the advantage across cyber, networks, software, and quantum because the mission demands dominance, not parity. We don't follow the map. We draw it.\n   \n   \n   \n    \n\n     At Quantum Sky, we believe that success starts with our people. We foster a collaborative, innovative, and mission-driven environment where every team member plays a critical role in shaping the future of technology. Are you ready to join #TeamQuantumSky?\n   \n   \n   \n    \n\n     Quantum Sky Engineering LLC is an Equal Opportunity Employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, [sexual orientation, gender identity,] national origin, disability, status as a protected veteran, or any characteristic protected by applicable law.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=4b06cc67c74880f6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Clearance Jobs",
+          "link": "https://www.clearancejobs.com/jobs/9252834/dha-eoss-business-intelligence-analyst-fmedw-business-analyst?source=job_search&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/business-intelligence-analyst-iv--aurora--e48f64af0bd684c251a02b121acb6469f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/caterpillar/job/business-intelligence-analyst-112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/quantum-sky/Job/Business-Intelligence-Analyst/-in-80011,CO?jid=02c1d2272c798f1f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5944624243?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010300980683&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ICIMS",
+          "link": "https://careers-quantumsky.icims.com/jobs/2227/business-intelligence-analyst/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlF1YW50dW0gU2t5IiwiaHRpZG9jaWQiOiJFUjEyS21VRXBxa0cwX3VzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2t0dVlWSkdZV1pDY1ZFMVh6Sm1VMFZLZW5Ca1MwdDBMVXRNVFhaVlozTnNNbTE2WDNkTmVERkJVM2gzYWxWTE5GazFaM3B5TTIxMFVUUnRRME5SUWtoUmNsTkNUM1l6YUZoVlNFdFlkVmh6V2tKaE0wdzRVblp2WW5aNE1tOVpZMkZIY1ZWaVJrbEpkR2h2UVZwcGRqWlViREJPVDJsUVZteEhZWHBKVFc1SVlWbE5TV01TRjFOM2FteGhjRTgyUm1FMk5HMU1VVkIzWWpkUGQwRlJHaUpCU0U0d1JUZEZkRU5vZW1WVFkzcDFObWQ0ZUhVMWRucEtPVjkwTnpWeldYTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJFUjEyS21VRXBxa0cwX3VzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Associate Business Intelligence Analyst",
+      "company_name": "Leprino Foods Company",
+      "location": "Denver, CO",
+      "via": "Leprino Careers Page - Leprino Foods",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "A bachelor's degree and one year of relevant professional experience",
+            "Experience working with a large enterprise resource planning (ERP) system",
+            "Experience developing reports to support business operations or analysis",
+            "Proficiency with Microsoft Office applications, including Excel"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "At Leprino, starting compensation for this role typically ranges between $73,000 and $81,000",
+            "This position has an annual target bonus of 5%",
+            "Through competitive salaries and bonuses, life, medical/dental/vision coverage, voluntary benefits, employee assistance programs, wellness incentives, tuition assistance, vacation, ten paid holidays, sick time, paid parental leave, annual merit increases, as well as the LFC Profit-Sharing & 401(k) plan"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This position collaborates with teams across the organization to identify improvement opportunities, support technical solutions, and deliver reliable reporting that helps teams work more effectively",
+            "Support the development, testing, and improvement of automation and reporting solutions across business functions",
+            "Research and troubleshoot technical issues, analyze root causes, and collaborate with developers and business partners to implement solutions",
+            "Participate in software testing and validation to support accurate, reliable system changes",
+            "Gather and document business requirements, helping translate operational needs into practical automation and reporting solutions",
+            "Collaborate with Finance, Procurement, Supply Planning, Logistics, and other teams to improve workflows and data accuracy",
+            "Identify opportunities to simplify existing processes and support improvements to procedures and automated solutions",
+            "Track automation and reporting requests, collect information to support prioritization, and communicate project progress to business partners"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=p-wIU3-E0bdDAQ6VAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNQQrCMBAAQLz2CZ4WvIk2InhREGpFUQSfUNK4pJF0N2RXab_jS9XLXKf4TIp9JcIuWEU4vCQQisCFFGMMHskhVGTjKApLuHILgja7DpjgzOwjTnedapKtMSKx9KJWgysd94YJWx7Mk1v500hnM6b4i5r1ZjWUifx8dsOUAzGcmB8CNffJ0giB4Ij0xryA-v4Fkig6HKUAAAA&shmds=v1_Ac3VAoyO-s8OVS3nsT-V6W2cWDEGf9EPtso42P8xRMpMHPr1DA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=p-wIU3-E0bdDAQ6VAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAclBMVEXEJBzjgBz_____xCHEIhrEIhnJPzrDHBbyyKniegD_wQLljDvjgyTjfxH_5a3_yT3AAAD_89rzzLDkhiz_57T_xy7_y0n_1HL_4aH_-On_7szhoZ_z29rGLynouLf46enhcwD55tnUcnDuy8rLS0fOU1CLIqcMAAAA8ElEQVRIie3X23LCIBSF4WSRgGI15ORZ06p9_1cs0aajBEeyZnqh43__DbCvNpF0A4pychNQ1Zltvljm6IpSJwWMxvFV0w9gpsU5reuqg05JD8ZXsLXZioOWrkl4kQwUekVCkbFQVyQUNQt1zsIlCcWChXMWZi8I3eowmM_cqjDo6T9hPPU0CYG-3vANnxt-jh9W-uDX6HGFDwbVgykJ7RaiQpI9GCUhpR4YlIUpCyUlLTwoEm4MCbcsxI55ZAv3zJEthCTGc4aNSTiI43B5gVYOve0vRCPNsNl2ENjvjFHuYn8_9QeB7eZw6v0l7vb9Aw3THyab5j4NAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "9 days ago",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://careers.leprino.com/job/Denver-Associate-Business-Intelligence-Analyst-CO-80211/1442863600/",
+      "job_title": "Associate Business Intelligence Analyst",
+      "description": "Within our Corporate Finance team in Denver, Leprino is seeking an Associate BI Analyst to support the development of automation and reporting solutions that simplify business processes, improve data accuracy, and strengthen operational efficiency. This position collaborates with teams across the organization to identify improvement opportunities, support technical solutions, and deliver reliable reporting that helps teams work more effectively.   At Leprino, starting compensation for this role typically ranges between $73,000 and $81,000. This position has an annual target bonus of 5%.   What You’ll Do:  Support the development, testing, and improvement of automation and reporting solutions across business functions. Research and troubleshoot technical issues, analyze root causes, and collaborate with developers and business partners to implement solutions. Participate in software testing and validation to support accurate, reliable system changes. Gather and document business requirements, helping translate operational needs into practical automation and reporting solutions. Collaborate with Finance, Procurement, Supply Planning, Logistics, and other teams to improve workflows and data accuracy. Identify opportunities to simplify existing processes and support improvements to procedures and automated solutions. Track automation and reporting requests, collect information to support prioritization, and communicate project progress to business partners.    You Have At Least (Required Qualifications):  A bachelor's degree and one year of relevant professional experience. Experience working with a large enterprise resource planning (ERP) system. Experience developing reports to support business operations or analysis. Proficiency with Microsoft Office applications, including Excel.    We Hope You Also Have (Preferred Qualifications):  Experience working with SAP in a corporate or manufacturing environment. Experience developing reports or dashboards using Power BI or Tableau. Experience with Winshuttle or Precisely Automate for business process automation. Knowledge of project management fundamentals, including requirements gathering, project coordination, and progress tracking.    At Leprino, we believe in equal employment opportunity and make employment decisions based on each individual’s unique talents, experience, skills, and knowledge; we do not discriminate on the basis of any personal characteristics. We know we are better together and are committed to creating an inclusive and supportive culture in which all employees can thrive.   Offering You In Return: A chance to be part of a global team of individuals passionate about producing and delivering high-quality products that help feed and nourish families around the world. Leprino could not be where it is today without our incredible employees. That is why we share in our success together by rewarding you for your hard work. Hiring great people who are in it for the long run is our goal. Through competitive salaries and bonuses, life, medical/dental/vision coverage, voluntary benefits, employee assistance programs, wellness incentives, tuition assistance, vacation, ten paid holidays, sick time, paid parental leave, annual merit increases, as well as the LFC Profit-Sharing & 401(k) plan. Your impact will be noticed and rewarded, as you seek to further our company, our customers, and one another.   Our Story: Leprino’s history dates back to the 1950s, when Jim Leprino first started making small batches of mozzarella for local markets and eateries in the Little Italy neighborhood of Denver. We’ve grown a bit since then. Today, Leprino is the world’s largest manufacturer of mozzarella and lactose, and a leading producer of whey protein. Still owned by the Leprino family, our sights are set to be the “World’s Best Dairy Food and Ingredient Company.” From a small corner grocery store we have grown to over 5,500 employees throughout the globe. Will you join us on our journey?",
+      "apply_options": [
+        {
+          "title": "Leprino Careers Page - Leprino Foods",
+          "link": "https://careers.leprino.com/job/Denver-Associate-Business-Intelligence-Analyst-CO-80211/1442863600/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=bb181498770531a1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/associate-business-intelligence-analyst_7ea1a5300dc05e5d0663907d6f2e6b565e385?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/leprino/Job/Associate-Business-Intelligence-Analyst/-in-Denver,CO?jid=c3f838660d8f1b4a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/associate-business-intelligence-analyst-denver-co--7fbe88d4-40c3-4ca2-a4d8-b4a2365181e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CLOC",
+          "link": "https://jobs.cloc.org/job/associate-business-intelligence-analyst-denver-co-33d82b1641996727600dab573a6f2342b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/f-X-U3S7nQ3uU-tEPxImLLcQjLU8nbPXk-2By_yFCzfl0qjVwzwqKw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/associate-business-intelligence-analyst-at-leprino-4481397342?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJMZXByaW5vIEZvb2RzIENvbXBhbnkiLCJodGlkb2NpZCI6InAtd0lVMy1FMGJkREFRNlZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa0poZVVwblRrUlBNMFJLTlV0TGJWQXROMFI1Y2pWM2NVUnNjbFJmZFVwV09XdFdRVFEyZGtkbGNsZEJTSEV4V0VOUWIyeENhR0ZIY21wNlFTMU5iSFpCT1RSb2NIVTFYMlZUZDNkV1kxOW5ZbVpSTjA4eGJVOU1VSFZaWWtFek1WQjZPV1ZSYVhWNlh6TmlRWEpPYVV0MVQwUXdkWFl3ZVdaZkxXVnhjbkJaZDFaUmJGRVNGMU4zYW14aGNFODJSbUUyTkcxTVVWQjNZamRQZDBGUkdpSkJTRTR3UlRkSGJFODVjbXczU0VscFYyOTJaaTFEU1V0R2R6RmpTbE55TW5CQiIsImZjdiI6IjMiLCJmY19pZCI6InAtd0lVMy1FMGJkREFRNlZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company_name": "Circana",
+      "location": "Anywhere",
+      "via": "Careers At Circana",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The ideal candidate is an experienced problem solver who can bridge technical and business teams, translate complex requirements into actionable solutions, and identify creative approaches to address business challenges",
+            "They are passionate about data, curious about emerging AI technologies, and comfortable working directly with Client Development teams, Product, Operations, and other stakeholders",
+            "5+ years of experience in data engineering, business intelligence, analytics, data activation, or a related field",
+            "Proven experience designing and implementing data transformation and integration solutions",
+            "Experience working directly with business stakeholders to define requirements and deliver solutions",
+            "Circana Behaviors",
+            "As well as the technical skills, experience and attributes that are required for the role, our shared behaviors sit at the core of our organization",
+            "Therefore, we always look for people who can continuously champion these behaviors throughout the business within their day-to-day role:",
+            "Stay Curious: Being hungry to learn and grow, always asking the big questions",
+            "Seek Clarity: Embracing complexity to create clarity and inspire action"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The below range reflects the range of possible compensation for this role at the time of this posting",
+            "We may ultimately pay more or less than the posted range",
+            "An employee's position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs",
+            "The salary range for this role is $65,000.00 to $72,000.00 USD",
+            "We offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "These skills represent the core capabilities required to drive value for our clients and sustainable growth for our business",
+            "Effectively Presents Solutions: Delivers tailored, compelling solutions that align with customer needs and drive action",
+            "Knows the Buying Influences: Identifies key decision-makers and understands their motivations and influence",
+            "Manages Buyer Indifference: Recognizes and explores customer hesitation to uncover new needs or opportunities",
+            "Understands Customer Needs: Operates as a recognized expert to articulate customer needs in the customer's business language and business context",
+            "Being Resilient: Bounces back from setbacks with composure and positivity; helps others stay productive during tough times",
+            "Manages Ambiguity: Stays focused and calm in uncertain situations; guides others through change",
+            "The Business Intelligence Analyst plays a critical role in transforming complex retail and consumer data into scalable, business-ready solutions that power client insights, automation, reporting, analytics, and new product capabilities",
+            "This role combines technical expertise, business acumen, and strategic thinking to maximize the value of organizational data and drive measurable business outcomes",
+            "Data Transformation & Activation",
+            "Design, develop, and maintain data transformation processes that cleanse, structure, enrich, and convert raw data into business-ready datasets",
+            "Build and optimize scalable data pipelines that support reporting, analytics, automation, and client deliverables",
+            "Identify opportunities to streamline processes and improve efficiency through automation",
+            "Unify Development",
+            "Design and implement data integration solutions, including the development of Connector Models and Genius Script reporting within Unify",
+            "Partner with Product and Engineering teams to improve platform capabilities and performance",
+            "Troubleshoot and resolve data integration and connector-related issues",
+            "Innovation & Continuous Improvement",
+            "Explore and implement AI-driven approaches that improve data preparation, automation, insight generation, and user productivity",
+            "Partner with stakeholders to identify practical applications of AI that create measurable business value",
+            "Contribute to best practices, documentation, and knowledge sharing across the team",
+            "Business Partnership & Solution Design",
+            "Partner with Client Development, Product, and Operations teams to translate business challenges into scalable data solutions",
+            "Gather requirements and communicate technical concepts to non-technical stakeholders",
+            "Own the Outcome: Being accountable for decisions and taking ownership of our choices",
+            "Center on the Client: Relentlessly adding value for our customers"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=ZTPR9fvvcNQiG2gnAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwAUFzvC8Qps2ArootO6iC6ivOR1tCr1KQ0Ec6P8J_V5Y2v-0y69eGlmUkVzmxUSk7EkWDPWN5qsICLBFDCFgcQhpNIKjTbDWZVt96rFpfU0HJ0UZ5emIKM_iFB__Q6YKNa0KhfbZajq5zm02NuERkhM9w4G93h-htIv2UP2hWQAAAA&shmds=v1_Ac3VAoyBNOLQh2qEKGRFKF03wsciS6XDf_gQZ93TrnvzHW5Lmw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=ZTPR9fvvcNQiG2gnAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAA0lBMVEX___8AAADl5eX09PTY2Njo6OhPT0_g4ODx8fHbwOi4uLiWlpZnZ2dFRUXs7OwyMjIfHx_Kysrr2vL08PfKrdWrd72fZbKsbq6qcrPNr8_y6vPfxumzfsa2fsPiwOXOjMXLmtPty9rCiL_Kkrvnvdbx5vbauunKg8Lo0unKkMr1ztT42-H_7vLo1PLbtt_wxtHWl8WOfHlZWVnWsOXZoMZlRUDTsa6mpqb_7-r52NODg4OwpaN3d3fZrNfMwsEoKCgwDALjr8np19ZWSEYRERF5AK6Ne7b8AAABOUlEQVQ4je3S2VLCMBQG4HOSNN1NG1CQKlihKJZiLWipFlGs7_9KprgMcAPc--fmZCZfdoD_7E2jeXrWap93jnXBxWW3dxVe9wfHuSgwhzfydnQXx-Oj4DCQSW9yn87nD4iZBpwcCqcyMtNZDI_uk2YjzY0DoTkNIrmYzRkWBQABbjgZEstDG4iLjqs5JS51yBGf-TYcmpGcpPMXXkMA74SXwFA3OFnmYKGWlWBzgjrNxA78XvEVf6Hrg12qiiIFQI37wITlALDlzhmTqJvOCvpWFqBXxhr6avKcog_kBzIPwBbQ2ISmlOkkfB-vPlCgBVUNwfGEoD66AonqsgqcynVF8rkBZZCYiyDqFXG8YvUGVVPR1zVTHULrOwNdU3W0dUj1cwajsN8PD3yHv3Sarbb6q439I_-zP18kMR0XLXcGDgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "16 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://jobs.circana.com/careers/job/1133915259131",
+      "job_title": "Business Intelligence Analyst",
+      "description": "Let's be unstoppable together!\n\nCircana is a leading provider of technology, AI, and data solutions for consumer packaged goods companies, manufacturers, and retailers. Our predictive analytics and Liquid Data® platform help clients measure market share, uncover consumer behavior, and drive growth--powered by six decades of expertise and an expansive, high-quality data set.\n\nAt Circana, we are fueled by our passion for continuous learning and growth, we seek and share feedback freely, and we celebrate victories both big and small in an environment that is flexible and accommodating to our work and personal lives. We're a global company dedicated to fostering inclusivity and belonging. We value and celebrate the unique experiences, cultures, and viewpoints that each individual brings. By embracing a wide range of backgrounds, skills, expertise, and beyond, we create a stronger, more innovative environment for our employees, clients, and communities. With us, you can always bring your full self to work. Join our inclusive, committed team to be a challenger, own outcomes, and stay curious together. Circana is proud to be Certified™ by Great Place To Work®. This prestigious award is based entirely on what current employees say about their experience working at Circana.\n\nLearn more at www.circana.com.\n\nOur Critical Sales Skills \n\nAt the heart of our commercial success is a team of professionals who combine strategic insight, customer-centricity, and executional excellence. These skills represent the core capabilities required to drive value for our clients and sustainable growth for our business.\n\n  * Effectively Presents Solutions: Delivers tailored, compelling solutions that align with customer needs and drive action.\n  * Knows the Buying Influences: Identifies key decision-makers and understands their motivations and influence.\n  * Manages Buyer Indifference: Recognizes and explores customer hesitation to uncover new needs or opportunities.\n  * Understands Customer Needs: Operates as a recognized expert to articulate customer needs in the customer's business language and business context.\n  * Being Resilient: Bounces back from setbacks with composure and positivity; helps others stay productive during tough times.\n  * Manages Ambiguity: Stays focused and calm in uncertain situations; guides others through change.\n\n\n\nWhat will you be doing? \n\nThe Business Intelligence Analyst plays a critical role in transforming complex retail and consumer data into scalable, business-ready solutions that power client insights, automation, reporting, analytics, and new product capabilities. This role combines technical expertise, business acumen, and strategic thinking to maximize the value of organizational data and drive measurable business outcomes.\n\nThe ideal candidate is an experienced problem solver who can bridge technical and business teams, translate complex requirements into actionable solutions, and identify creative approaches to address business challenges. They are passionate about data, curious about emerging AI technologies, and comfortable working directly with Client Development teams, Product, Operations, and other stakeholders.\n\nJob Responsibilities\n\nData Transformation & Activation\n\n  * Design, develop, and maintain data transformation processes that cleanse, structure, enrich, and convert raw data into business-ready datasets.\n  * Build and optimize scalable data pipelines that support reporting, analytics, automation, and client deliverables.\n  * Identify opportunities to streamline processes and improve efficiency through automation.\n\n\n\nUnify Development\n\n  * Design and implement data integration solutions, including the development of Connector Models and Genius Script reporting within Unify.\n  * Partner with Product and Engineering teams to improve platform capabilities and performance.\n  * Troubleshoot and resolve data integration and connector-related issues.\n\n\n\nInnovation & Continuous Improvement\n\n  * Explore and implement AI-driven approaches that improve data preparation, automation, insight generation, and user productivity.\n  * Partner with stakeholders to identify practical applications of AI that create measurable business value.\n  * Contribute to best practices, documentation, and knowledge sharing across the team.\n\n\n\n\nBusiness Partnership & Solution Design\n\n  * Partner with Client Development, Product, and Operations teams to translate business challenges into scalable data solutions.\n  * Gather requirements and communicate technical concepts to non-technical stakeholders.\n\n\n\nRequirements\n\n  * 5+ years of experience in data engineering, business intelligence, analytics, data activation, or a related field.\n  * Proven experience designing and implementing data transformation and integration solutions.\n  * Experience working directly with business stakeholders to define requirements and deliver solutions.\n\n\n\nCircana Behaviors\n\nAs well as the technical skills, experience and attributes that are required for the role, our shared behaviors sit at the core of our organization. Therefore, we always look for people who can continuously champion these behaviors throughout the business within their day-to-day role:\n\n  * Stay Curious: Being hungry to learn and grow, always asking the big questions.\n  * Seek Clarity: Embracing complexity to create clarity and inspire action.\n  * Own the Outcome: Being accountable for decisions and taking ownership of our choices.\n  * Center on the Client: Relentlessly adding value for our customers.\n  * Be a Challenger: Never complacent, always striving for continuous improvement.\n  * Champion Inclusivity: Fostering trust in relationships engaging with empathy, respect, and integrity.\n  * Commit to each other: Contributing to making Circana a great place to work for everyone.\n\n\n\nLocation \n\nThis position can be located in the following area(s): Remote, USA. \n\nThe below range reflects the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range. This range may be modified in the future. An employee's position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs. The salary range for this role is $65,000.00 to $72,000.00 USD. \n\n \n\nWe offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees.\n\n \n\nAn offer of employment may be conditional upon successful completion of a background check in accordance with local legislation and our candidate privacy notice. Your current employer will not be contacted without your permission.\n\n \n\nYou can apply for this role through the Circana careers website or Intranet site for internal candidates. This role is subject to AI-assisted screening. Circana uses artificial intelligence (AI) to assess resumes for alignment with job requirements by helping locate details in resumes that relate to the job description.\n\n \n\nThis position is expected to remain open for approximately 30 days and may close earlier if sufficient qualified candidates are identified.\n\n \n\n#LI-AS1",
+      "apply_options": [
+        {
+          "title": "Careers At Circana",
+          "link": "https://jobs.circana.com/careers/job/1133915259131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "RaceTrac Jobs",
+          "link": "https://careers.racetrac.com/job/business-intelligence-systems-analyst-US-421324-en?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Avalara Careers",
+          "link": "https://careers.avalara.com/jobs/17486?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In Chicago",
+          "link": "https://www.builtinchicago.org/job/business-intelligence-analyst/10871856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Business-Intelligence-Analyst_R23171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In NYC",
+          "link": "https://www.builtinnyc.com/job/business-intelligence-analyst/11509506?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In San Francisco",
+          "link": "https://www.builtinsf.com/job/business-intelligence-analyst/11431782?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=4350ee5f3086c515&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkNpcmNhbmEiLCJodGlkb2NpZCI6IlpUUFI5ZnZ2Y05RaUcyZ25BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa3N6WTNaRFYwSnBSbVZpV1Mxd1RYSlZTMmRhVlUxM01GYzJURmxGYkZKbGRXNVRWRkJxUzJSTFlrNWFZVlJQV1ZCT2VGRjJPRU5DVkdkNmRtaE1ibkExZUdkb1pIazFZalUxTW5CNFdIWkNSVTVsZVZOUGJteG1lV2RETTJsclNUSkRjMEl3V0dVek1tNW5Wa1J1UVZjNFIyeHNiazE2VGpkRE9WTnFUWFIyYm1GdVh6QVNGMU4zYW14aGNFODJSbUUyTkcxTVVWQjNZamRQZDBGUkdpSkJTRTR3UlRkSE4ySlhiVkUwWmpOU2RrNTBPVEJOUW5wNFdtSlRRWEpPVURsbiIsImZjdiI6IjMiLCJmY19pZCI6IlpUUFI5ZnZ2Y05RaUcyZ25BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company_name": "121 C.H. Robinson Shared Services, Inc.",
+      "location": "Anywhere",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Validate data, methodologies, models, and analytical outputs to ensure accuracy, reliability, and business relevance Required Qualifications: 6+years of experience in analytics, with a focus on developing business solutions using large scale, high quality data sets Advanced Proficiency in SQL and experience working with relational databases",
+            "Demonstrated advanced ability to work with BI tools (e.g., Power BI, Tableau)",
+            "Strong analytical thinking and problem-solving skills",
+            "Advanced Proficiency with cloud-based data platforms (e.g., Snowflake, Azure, AWS)",
+            "Proficiency with Python, R, or other scripting languages for data analysis",
+            "Comfortable integrating generative AI tools into analytical workflows",
+            "Experience in logistics, supply chain, or transportation industries",
+            "Ability to work independently and manage multiple priorities in a fast-paced environment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation Range $77,000.00 - $173,600.00 The base pay range displayed on each job posting reflects the minimum and maximum base pay for the position across all U.S. locations",
+            "Your individual base pay within this range is determined by work location, which takes into account geographic cost of labor, and additional factors, including job-related skills, experience, and relevant education or training",
+            "Compensation details listed in this posting reflect the base pay only and do not include additional variable compensation",
+            "EOE\\Disabled\\Veteran Benefits Your Health, Wealth and Self Your total wellbeing is the foundation of our business, and our benefits support your financial, family and personal goals",
+            "We provide the top-tier benefits that matter to you most, including: Three medical plans which include Prescription drug coverage Enhanced Fertility benefits Flexible Spending Accounts Health Savings Account (including employer contribution) Dental and Vision Basic and Supplemental Life Insurance Short-Term and Long-Term Disability Paid observed holidays 2 paid floating holidays for U.S. hourly employees Flexible Time Off (FTO) offered to U.S. salaried employees — no accruals and no caps",
+            "Paid Time Off (PTO) offered to all other employees in the U.S. and Canada Paid parental leave Paid time off to volunteer in your community Charitable Giving Match Program 401(k) with 6% company matching Employee Stock Purchase Plan Plus a broad range of career development, networking, and team-building opportunities Learn more about our benefit offerings on our BENEFITS & WELLBEING page Why Do You Belong at C.H. Robinson? C.H. Robinson solves logistics problems for companies across the globe and across industries, from the simple to the most complex"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "C.H Robinson is seeking a Senior Business Intelligence Analyst who will transform open-ended business questions, freight market data, and external signals into decision-ready insights that influence commercial strategy, forecasting, and operational performance",
+            "This role combines advanced analytics, market intelligence, and business consulting to identify emerging opportunities, evaluate external market trends, and develop scalable analytical solutions that support strategic decision-making across C.H. Robinson",
+            "DUTIES AND RESPONSIBILITIES The duties and responsibilities of this position consist of, but are not limited to, the following: Leverage internal and external data sources to uncover business opportunities, emerging risks, and performance trends that shape strategic priorities",
+            "Apply statistical techniques and business logic to translate complex data into clear insights that drive confident, data-informed decisions",
+            "Communicate findings through concise, narrative-driven storytelling tailored to executive and operational audiences",
+            "Architect and maintain dynamic dashboards, KPIs, and self-service analytics tools using platforms like Power BI or Tableau",
+            "Frame ambiguous business challenges into structured analytical approaches, defining requirements and recommending actionable solutions",
+            "Develop predictive and forecasting models using internal and external market indicators to improve business planning and commercial decision-making",
+            "Evaluate and integrate external market intelligence, economic indicators, and public data sources to uncover emerging trends and business opportunities",
+            "Build prototypes and proof-of-concept analytical solutions that can be operationalized and scaled across the organization",
+            "Deliver clear analytical narratives, recommendations, and visualizations that enable leaders to make informed business decisions",
+            "Utilize AI-enabled tools and advanced analytics techniques to accelerate research, insight generation, and decision support"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=aeyHje6aHChyBrb7AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOOw7CMBBERZsjUG2NwCaRkBCpgIJPSUQd2WblGJndyGtQuBcHJGmmmad5U_xmRd0gBU5weEsgFIELZYwxeCSHsCcTv5JhBVe2IGiS64AJTsw-4rzucu5lp7VIVF6yycEpxy_NhJYH_WQrU7TSmYR9NBnbarMeVE9-sS2rEo7qrODGNpCMs82EPaDB9AkOZTmecQoCwZ1CnorRgPIHGg0R0bcAAAA&shmds=v1_Ac3VAoy2CF0fNdCXvQmCbE7DmRTk_6-6RPFijKRV0XZ8z_xu8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=aeyHje6aHChyBrb7AAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Work from home",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Minnesota-Remote/Senior-Business-Intelligence-Analyst_R49869",
+      "job_title": "Senior Business Intelligence Analyst",
+      "description": "C.H Robinson is seeking a Senior Business Intelligence Analyst who will transform open-ended business questions, freight market data, and external signals into decision-ready insights that influence commercial strategy, forecasting, and operational performance. This role combines advanced analytics, market intelligence, and business consulting to identify emerging opportunities, evaluate external market trends, and develop scalable analytical solutions that support strategic decision-making across C.H. Robinson. DUTIES AND RESPONSIBILITIES The duties and responsibilities of this position consist of, but are not limited to, the following: Leverage internal and external data sources to uncover business opportunities, emerging risks, and performance trends that shape strategic priorities. Apply statistical techniques and business logic to translate complex data into clear insights that drive confident, data-informed decisions. Communicate findings through concise, narrative-driven storytelling tailored to executive and operational audiences. Architect and maintain dynamic dashboards, KPIs, and self-service analytics tools using platforms like Power BI or Tableau. Frame ambiguous business challenges into structured analytical approaches, defining requirements and recommending actionable solutions. Develop predictive and forecasting models using internal and external market indicators to improve business planning and commercial decision-making. Evaluate and integrate external market intelligence, economic indicators, and public data sources to uncover emerging trends and business opportunities. Build prototypes and proof-of-concept analytical solutions that can be operationalized and scaled across the organization. Deliver clear analytical narratives, recommendations, and visualizations that enable leaders to make informed business decisions. Utilize AI-enabled tools and advanced analytics techniques to accelerate research, insight generation, and decision support. Validate data, methodologies, models, and analytical outputs to ensure accuracy, reliability, and business relevance Required Qualifications: 6+years of experience in analytics, with a focus on developing business solutions using large scale, high quality data sets Advanced Proficiency in SQL and experience working with relational databases. Demonstrated advanced ability to work with BI tools (e.g., Power BI, Tableau). Strong analytical thinking and problem-solving skills. Advanced Proficiency with cloud-based data platforms (e.g., Snowflake, Azure, AWS). Proficiency with Python, R, or other scripting languages for data analysis. Comfortable integrating generative AI tools into analytical workflows. Bachelor’s degree in Business Analytics, Information Systems, Statistics, or a related field undefinedundefined Preferred Qualifications: Understanding of data governance, data modeling, and ETL processes. Experience in logistics, supply chain, or transportation industries. Ability to work independently and manage multiple priorities in a fast-paced environment. Effective communicator and data/reporting/business liaison through multiple mediums Values a diverse and inclusive work environment We will review applications for this role on an ongoing basis and encourage all interested candidates to apply at their earliest convenience. Compensation Range $77,000.00 - $173,600.00 The base pay range displayed on each job posting reflects the minimum and maximum base pay for the position across all U.S. locations. Your individual base pay within this range is determined by work location, which takes into account geographic cost of labor, and additional factors, including job-related skills, experience, and relevant education or training. Compensation details listed in this posting reflect the base pay only and do not include additional variable compensation. Questioning if you meet the mark? Studies have shown that some individuals may be less likely to apply unless they match the job description exactly. Here at C.H. Robinson, we’re building an inclusive workplace where all employees feel they belong. If this position excites you, we welcome you to apply whether you check all the preferred qualifications or just a few. You may just be our next great fit! Equal Opportunity C.H. Robinson is proud to be an Equal Opportunity Employer. We are committed to a workplace and performance culture that reflects the strengths of our worldwide marketplace. We value unique experiences and diverse backgrounds of our people within our company, our business relationships, and our communities. We’re committed to providing an inclusive environment, free from harassment and discrimination, where all employees feel welcomed, valued and respected. EOE\\Disabled\\Veteran Benefits Your Health, Wealth and Self Your total wellbeing is the foundation of our business, and our benefits support your financial, family and personal goals. We provide the top-tier benefits that matter to you most, including: Three medical plans which include Prescription drug coverage Enhanced Fertility benefits Flexible Spending Accounts Health Savings Account (including employer contribution) Dental and Vision Basic and Supplemental Life Insurance Short-Term and Long-Term Disability Paid observed holidays 2 paid floating holidays for U.S. hourly employees Flexible Time Off (FTO) offered to U.S. salaried employees — no accruals and no caps. Paid Time Off (PTO) offered to all other employees in the U.S. and Canada Paid parental leave Paid time off to volunteer in your community Charitable Giving Match Program 401(k) with 6% company matching Employee Stock Purchase Plan Plus a broad range of career development, networking, and team-building opportunities Learn more about our benefit offerings on our BENEFITS & WELLBEING page Why Do You Belong at C.H. Robinson? C.H. Robinson solves logistics problems for companies across the globe and across industries, from the simple to the most complex. With $22 billion in freight under management and 19 million shipments annually, we are one of the world’s largest logistics platforms and rank in the FORTUNE 200. We’ve been an innovator in logistics for over 100 years. Our global suite of services accelerates trade to seamlessly deliver the products and goods that drive the world’s economy. With the combination of our multimodal transportation management system and expertise, we use our information advantage to deliver smarter solutions for more than 90,000 customers and 450,000 contract carriers on our platform. Our technology is built by and for supply chain experts to bring faster, more meaningful improvements to our customers’ businesses. As a responsible global citizen, we contribute millions of dollars to support causes that matter to us and our people. FORTUNE has named C.H. Robinson one of the World’s Most Admired Companies 2024, showcasing our position as a leader in our industry. Our commitment to excellence is further affirmed by being named a Great Place to Work 2023-24 by the Great Place to Work Institute, one of Forbes’ Best Employers for Diversity and one of America’s Greatest Workplaces in 2023 by Newsweek. Join us as we collaborate, innovate, and work as one global team to make life better and more sustainable for our customers, communities, and world. For more information, visit us at www.chrobinson.com.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Minnesota-Remote/Senior-Business-Intelligence-Analyst_R49869?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Virtual Vocations",
+          "link": "https://www.virtualvocations.com/job/senior-business-intelligence-analyst-3273536-i.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/senior-business-intelligence-analyst/11544870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-business-intelligence-analyst-saint-louis-mi--1ec85d30-7314-403a-bad1-68bd20f81324?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-potere-search-ps-4477421066?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/senior-business-intelligence-analyst-tasl-taxact-admin-services-l-2-10095073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/quantix-supply-chain-solutions/Job/Senior-Business-Intelligence-Analyst/-in-Houston,TX?jid=a53d9d4a35088eb5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-business-intelligence-analyst_7ea1ac8c04d372a86f1362e39f5072bcdffc7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiIxMjEgQy5ILiBSb2JpbnNvbiBTaGFyZWQgU2VydmljZXMsIEluYy4iLCJodGlkb2NpZCI6ImFleUhqZTZhSENoeUJyYjdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbFpRYzNFd1dsWXhkRVV6WDA1MldtOHlNRmRsU3paTFRWWlJlR1Y1YnpGaWNrUnhOM0pxTjJFelp6ZGFXa2RWZVdWMVNURk9SSEJ5V1VGQlVrUnZTWG8xZWxrM1dGRllkV2s0WXpJeWQzUmlXbFUzVG5VNFQyNDVjVjltVkhwbVgwd3hNMlUxZFRGcVNWUTVXVXhaTjJVd1J6TjFUbEpZVEdSRE1rTnJTbTlaUm5oS01tMFNGMU4zYW14aGNFODJSbUUyTkcxTVVWQjNZamRQZDBGUkdpSkJTRTR3UlRkRllWQlVaM1pQYXpRNWNEZFVkblZuYmxaVFdFZE1TbXh5YjNCQiIsImZjdiI6IjMiLCJmY19pZCI6ImFleUhqZTZhSENoeUJyYjdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Business Intelligence Analyst (Remote)",
+      "company_name": "MRIoA",
+      "location": "Anywhere",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Advanced Excel skills with the ability to utilize PowerQuery, PowerPivot, and VBA to support company reporting",
+            "Ability to synthesize and communicate data effectively (verbally and visually)",
+            "Knowledge and understanding of Power Apps and integrating usage into production environments",
+            "Fast learner with a passion for taking on challenges",
+            "Team player with the ability to work cross-functionally",
+            "Constantly curious to dig deeper and understand the “why”",
+            "Self-starter that excels in fast-paced, high-growth environments and does not need direct management",
+            "Advanced knowledge of Business Objects, SQL, and Microsoft Applications, including Excel",
+            "SQL/DBA experience and ability to pull data from reporting servers for analysis",
+            "2+ years of statistical analysis or data analysis experience",
+            "Experience working with modern data platforms and cloud analytics ecosystems (e.g., Microsoft Fabric, Databricks, or Snowflake), including data modeling, transformation, and analytical querying to support enterprise reporting and insights",
+            "Experience building financial models and translating them into usable tools and simplified insights",
+            "Experience with business intelligence (BI) and BI visualization tools required (e.g., Tableau, Power BI, Domo)",
+            "Bachelor’s Degree required",
+            "Ability to sit at a desk, utilize a computer, telephone, and other basic office equipment is required",
+            "This role is designed to be a remote position (work-from-home)",
+            "All newly hired employees will take a Drug Screen, as well as agreeing to all necessary Compliance Regulations on their first day of employment"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "A competitive compensation package",
+            "Benefits include healthcare, vision, and dental insurance",
+            "A generous 401(k) match",
+            "Paid vacation, PTO, and holidays",
+            "Growth and training opportunities",
+            "An award-winning remote work environment"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Business Intelligence Analyst is a key corporate role at MRIoA, blending financial, analytical, and operational expertise",
+            "This position plays a critical role in driving the organization’s long-term success by delivering high-quality data insights and identifying opportunities where data can be leveraged to enhance performance, efficiency, and sustainable growth",
+            "Deliver strategic reporting and insights to the C-Suite, Executive Management team, and Board of Directors",
+            "Partner with the business’s functional leaders to develop KPIs, provide ongoing reporting, and analyze the business impact of strategic initiatives",
+            "Business segmentation and reporting:",
+            "Understand the key levers of the business and devise new ways to segment and analyze the business",
+            "Provide regular updates to the Executive Team on progress towards goals as well as proactively identify insights and recommendations for improvement",
+            "KPI reporting and tracking:",
+            "Work cross-functionally to develop and monitor key performance indicators",
+            "Identify trends, outliers, and obscurities in the data and translate them into actionable insights for functional leaders",
+            "Board Reporting and Follow-up:",
+            "Assist in the creation of Board of Directors presentations with the ability to analyze financial, commercial, and operational data",
+            "Create simple and compelling visuals to demonstrate business performance, trends, and progress",
+            "Design and implement reporting solutions enabling stakeholders to manage the business and make effective decisions",
+            "Create and update dashboards that will power operational teams and decorate hallway monitors",
+            "Foster transparency and dedication to continuous improvement throughout the Company by being a steward of the data-driven culture at MRIoA",
+            "Participate in strategic initiatives to facilitate forecasting business impact and analyzing the results of pilots/ implementations",
+            "Ad hoc data retrieval and analysis"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=vUEU9b5kOIjatr9JAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7AQ5ON6pgI4KLxaEuUsGl4lySeCSR9K70Tqj_4Qery9te8ZkVx9NLEqEINKSYcwpIHqEmm9-isGyxZ8UVbODCDgTt6CMwwZk5ZFxUUXWQgzEiuQyiVpMvPfeGCR1P5slO_nQS7YhDtordbr-dyoHCen5tG64hEdwpKT7g9vsoXzIv93KXAAAA&shmds=v1_Ac3VAoxnADljGn0pjuBzP5GBCue7tWCj8WNXkLLh-gFHd8eqGA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=vUEU9b5kOIjatr9JAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5084b8ffa70f5b531410b/images/izB8QiE10nJHEGD-kdwldqId3Pmj-3TbFl8WgXXx5cA.jpeg",
+      "extensions": [
+        "Work from home",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=a2fa4bc62699dccf",
+      "job_title": "Business Intelligence Analyst (Remote)",
+      "description": "Who We Are - Motivated by Purpose. Powered by Clinical Expertise. \n\n\n\n\n Founded in 1983, we’re a clinically-driven, tech-enabled utilization management company offering expert clinical reviews, regulatory guidance, and actionable insights to healthcare organizations. \n\n\n\n\n Excellence starts with our people. \n\n\n\n\n WE OFFER \n\n\n\n\n A competitive compensation package \n\n\n Benefits include healthcare, vision, and dental insurance \n\n\n A generous 401(k) match \n\n\n Paid vacation, PTO, and holidays \n\n\n Growth and training opportunities \n\n\n An award-winning remote work environment \n\n\n\n\n POSITION OVERVIEW \n\n\n\n\n The Business Intelligence Analyst is a key corporate role at MRIoA, blending financial, analytical, and operational expertise. This position plays a critical role in driving the organization’s long-term success by delivering high-quality data insights and identifying opportunities where data can be leveraged to enhance performance, efficiency, and sustainable growth. \n\n\n\nRoles:\n\n\n Deliver strategic reporting and insights to the C-Suite, Executive Management team, and Board of Directors. \n\n\n Partner with the business’s functional leaders to develop KPIs, provide ongoing reporting, and analyze the business impact of strategic initiatives. \n\n\n\nMajor Responsibilities or Assigned Duties:\n\nBusiness segmentation and reporting:\n\n\n Understand the key levers of the business and devise new ways to segment and analyze the business. \n\n\n Provide regular updates to the Executive Team on progress towards goals as well as proactively identify insights and recommendations for improvement. \n\n\n\nKPI reporting and tracking:\n\n\n Work cross-functionally to develop and monitor key performance indicators. \n\n\n Identify trends, outliers, and obscurities in the data and translate them into actionable insights for functional leaders. \n\n\n\nBoard Reporting and Follow-up:\n\n\n Assist in the creation of Board of Directors presentations with the ability to analyze financial, commercial, and operational data. \n\n\n Create simple and compelling visuals to demonstrate business performance, trends, and progress. \n\n\n\nData Stewardship:\n\n\n Design and implement reporting solutions enabling stakeholders to manage the business and make effective decisions \n\n\n Create and update dashboards that will power operational teams and decorate hallway monitors. \n\n\n Foster transparency and dedication to continuous improvement throughout the Company by being a steward of the data-driven culture at MRIoA. \n\n\n\nSpecial Project Support:\n\n\n Participate in strategic initiatives to facilitate forecasting business impact and analyzing the results of pilots/ implementations. \n\n\n Ad hoc data retrieval and analysis \n\n\n\nRequirements:\n\n\n Skills \n\n\n\n\n Advanced Excel skills with the ability to utilize PowerQuery, PowerPivot, and VBA to support company reporting \n\n\n Ability to synthesize and communicate data effectively (verbally and visually). \n\n\n Knowledge and understanding of Power Apps and integrating usage into production environments \n\n\n Fast learner with a passion for taking on challenges \n\n\n Team player with the ability to work cross-functionally \n\n\n Constantly curious to dig deeper and understand the “why” \n\n\n Self-starter that excels in fast-paced, high-growth environments and does not need direct management \n\n\n Advanced knowledge of Business Objects, SQL, and Microsoft Applications, including Excel \n\n\n SQL/DBA experience and ability to pull data from reporting servers for analysis \n\n\n\nExperience:\n\n\n 2+ years of statistical analysis or data analysis experience. \n\n\n Experience working with modern data platforms and cloud analytics ecosystems (e.g., Microsoft Fabric, Databricks, or Snowflake), including data modeling, transformation, and analytical querying to support enterprise reporting and insights. \n\n\n Experience building financial models and translating them into usable tools and simplified insights. \n\n\n Experience with business intelligence (BI) and BI visualization tools required (e.g., Tableau, Power BI, Domo). \n\n\n Experience with private equity, venture capital, investment banking, management consulting, or a growth-stage healthcare or premium consumer business preferred. \n\n\n\n﻿Education:\n\n\n Bachelor’s Degree required \n\n\n Bachelor’s Degree in Finance or Accounting preferred \n\n\n\n\n\n\n\n :\n﻿Work Environment:\n\n\n Ability to sit at a desk, utilize a computer, telephone, and other basic office equipment is required. This role is designed to be a remote position (work-from-home). \n\n\n\nDiversity Statement:\n\nDiversity creates a healthier atmosphere: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law. \n\n\n\n\n ﻿ \n\n\n\nDrug-Free Workplace:\n\n\n This company is a drug-free workplace. All candidates are required to pass a Background Screen before beginning employment. All newly hired employees will take a Drug Screen, as well as agreeing to all necessary Compliance Regulations on their first day of employment. Employees are required to adhere to all applicable HIPAA regulations and company policies and procedures regarding the confidentiality, privacy, and security of sensitive health information. \n\n\n\n\n California Consumer Privacy Act (CCPA) Information (California Residents Only): \n\n\n\nSensitive Personal Info: MRIoA may collect sensitive personal info such as real name, nickname or alias, postal address, telephone number, email address, Social Security number, signature, online identifier, Internet Protocol address, driver’s license number, or state identification card number, and passport number. \n\n﻿Data Access and Correction: Applicants can access their data and request corrections. For questions and/or requests to edit, delete, or correct data, please email the Medical Review Institute at HR@mrioa.com.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=a2fa4bc62699dccf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/business-intelligence-analyst-remote/10630511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/mrioa/Job/Business-Intelligence-Analyst-(Remote)/-in-West-Valley-City,UT?jid=232e4a0339167c84&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/business-intelligence-analyst-remote-arlington-va--8237929f-347f-4653-a562-113be22bb32d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/business-intelligence-analyst_7ea1a7b795ca5f9575036beafacdd68a2c67b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/business-intelligence-analyst-remote-medical-review-institute-of-america-JV_KO0,36_KE37,72.htm?jl=1010130703490&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6ada488ca8fae18ba2e18917-business-intelligence-analyst-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik1SSW9BIiwiaHRpZG9jaWQiOiJ2VUVVOWI1a09JamF0cjlKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1VsaVdVWm9YMms0VmpCSVUwbzBYMjR0YzBsZmJpMVBPVjlZYkVGS2VWTjJZM3AyTFVFNE1HdzRaRmhmVFZCU1gwbGxiMGQyVGtwRU5rWXRRV3d5VEdKS1RVTndTbEZpZGtWQ1VqaFBlbGRDYmw4MGFDMDNkelJQVUhVd1NuSXhlVFZ2U21GT2JFNUhOa0ZIZWpaVWFVcE9WSEowWkdjemJXbERkekp2TVdneU9EbFplRWtTRjFOM2FteGhjRTgyUm1FMk5HMU1VVkIzWWpkUGQwRlJHaUpCU0U0d1JUZEhaalZhV25Wc2NYcHlaRmQzVDBsTmNHSnBVelF5YVV0WmFucG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ2VUVVOWI1a09JamF0cjlKQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior BI Analyst",
+      "company_name": "Compassion International",
+      "location": "Denver, CO",
+      "via": "Trabajo.org",
+      "job_highlights": [
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will transform data into actionable insights, build dashboards, and drive AI-enabled improvements across the organization",
+            "You will work with stakeholders across multiple teams to deliver data-driven decisions",
+            "You will develop an in-depth understanding of Compassion’s data landscape, govern data quality, and enable automation that"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=3mg9vT3QZPy0kTmpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0nON0kIpqI4GInrSB1cfADShqOJpLehdwh9Sv8Zevytvde9V1U6ydS5AKXFs7k0kcUdnDnHgRd8QGY4MY8JFzWQTXLyVqRZAZRp9Ebz6Nlwp4n--Je_ugkuII5OcXucNxPJtOwWTU8ZicS515LioVmnechRIIr0hvLFprHD2hYYCySAAAA&shmds=v1_Ac3VAozdZE-fI90083PyVuNW9OGq1uFFKd1BxfPkyS3hroT8YQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=3mg9vT3QZPy0kTmpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAAk1BMVEX___8AAADt7e1HR0fU1NTy9vqzs7PIyMh7e3vk6_MAVKXd5vDq6ur4-Pja2tp1dXWbm5vOzs5OTk4ATKIAXakAWae9vb1sbGzF1ufr8ffP3ezk5OSEhISOjo4NDQ1XV1elpaVFe7d0mMWft9auwtszcbFcib1okcIAO5wkaq-Cosq5z-O8xMw2NjYrKytgYGAgICAhJQ53AAABsElEQVQ4jcWTYXPiIBCGXzAkQQIhpyIhxqSaq62c1v__67poe53pl55-OYZhNxue3YV5Af7fkE87YP8AuJsv1PT7kYrPh92LegDEfjX3ZPSdmH5dPO-elvOluBNcHabl4vXo78SglF7MHzohjou7q-kqXcjqcCfG6zxz6xEvwqs2CCGlEMJL5VshEds2fbbkq_Ybt72aGkfE6Pdh8nGSIZkQJySrQvQhhvDtJOv81i5QmZQHlW5FBzTkUpg8_NHQ9I-mznjaqiuzBus-MpSNOfH-XDhWFLV1zFnWNbm1KPmG28blDE3PS2tY7t5GA2ZunOuB7IQZZcjAf4FOUAwGfIatQUNhijBaGZ9pmBoY7A3sxxT9AKsrqE-o8gH8YpFTY1udwLIgMCOwY1XibEEIFUqgQTUk0Ix9QyGOcwczUNa0daYJbDaEdDObFVTPbppSj5euO_ewp-6yzkfUvWOmNJtsdK5grhoK6zqWo367VtOd_rzZr0EVSe5SXON_tfgPT4dAFaQKQSlJmgitIr_9Wc2GNSSIKPckg-iV8NPeRz_JH0GuK5DWIi1panEbX62-A8DwHkIWL8-bAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://us.trabajo.org/job-5381-8e32259e882934a9d895725081a1b0f6",
+      "job_title": "Senior BI Analyst",
+      "description": "Compassion International is seeking a Senior Business Intelligence Analyst to partner with Governance, Risk & Assurance and the General Counsel Strategy Office. You will transform data into actionable insights, build dashboards, and drive AI-enabled improvements across the organization.\nYou will work with stakeholders across multiple teams to deliver data-driven decisions. You will develop an in-depth understanding of Compassion’s data landscape, govern data quality, and enable automation that\nJ-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-5381-8e32259e882934a9d895725081a1b0f6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQkkgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkNvbXBhc3Npb24gSW50ZXJuYXRpb25hbCIsImh0aWRvY2lkIjoiM21nOXZUM1FaUHkwa1RtcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlXRkhTVU4yUW5NdGFqaFVVMjVhVlMweE1qUjJja1F6T0VSMWFFbG9hV1p3UWpKNU0wdGhUWEJPTlZkcGVITnBXa3B2TW10QkxXTlFiVFV6Y0Zkc1gzbzFVMFJzVTNKdk1VODNTRzVNVVV4ZmVWbzNTMFJmTm1Nd1ZHUm9kblpCTjJzeE1sZ3dhVEIwZVVNMVptZDVOakpUUW5CMVlYVk1ia2xGT0RaaFNFOXFYMlF6TVMwU0YxTjNhbXhoY0U4MlJtRTJORzFNVVZCM1lqZFBkMEZSR2lKQlNFNHdSVGRHUjFRMVNqSjNPV2hDVG1wS1FsSkZOV1ZtWDFvM1pteFNSbnBuIiwiZmN2IjoiMyIsImZjX2lkIjoiM21nOXZUM1FaUHkwa1RtcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company_name": "Colorado Springs Utilities",
+      "location": "Colorado Springs, CO",
+      "via": "Colorado Springs Utilities",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "An experienced analytics, business intelligence, or data professional who enjoys solving complex business and technical challenges",
+            "A strong collaborator who can build partnerships with both technical teams and business stakeholders as well as mentor junior personnel",
+            "A strategic thinker who can identify opportunities to connect operational needs with long-term technology and data solutions",
+            "Passionate about creating insight, leveraging data, automation, and technology to improve customer experiences and business outcomes",
+            "Three to five years or more of progressively responsible experience in business intelligence, analytics, reporting, systems administration, data engineering, or related disciplines",
+            "Advanced experience with SQL and relational database development",
+            "Experience designing and supporting enterprise reporting and analytics solutions",
+            "Experience developing dashboards and visualizations using Power BI or similar business intelligence tools",
+            "Experience developing and supporting APIs, integrations, and automated data workflows",
+            "Demonstrated ability to analyze complex business problems and translate them into scalable technical solutions",
+            "Exerting up to 10 pounds of force occasionally (1/3 of the time), and/or a negligible amount of force frequently (1/3 to 2/3 of the time) to lift, carry, push, or pull objects"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range $108,814 to $114,253",
+            "Vacation – Start with 13 days annually, increasing to 24 days with tenure",
+            "Personal Leave –3 days per year",
+            "Paid Holidays –12 paid holidays per year",
+            "Sick Leave – 12 days per year for personal or family health needs",
+            "Vacation Buy – Option to purchase up to 40 additional hours annually",
+            "Health & Wellness – Benefits elected are effective the first of the following month",
+            "Medical Plans: Three comprehensive options, including a $0 premium High-Deductible Health Plan (HDHP) with Health Savings Account (HSA) eligibility",
+            "Zero Health: Access to hundreds of medical services at no cost",
+            "Dental & Vision: Two dental plans and one vision plan",
+            "Family Building Benefits: Support for fertility, preservation, adoption, and surrogacy",
+            "Wellness Program: A voluntary program that rewards you for prioritizing self-care!",
+            "If you're enrolled in our medical plan, you and your spouse can earn up to $600 in HRA or HSA contributions by completing healthy activities",
+            "Flexible Spending Accounts (FSA): Pre-tax contributions for healthcare and dependent care expenses",
+            "Health Savings Account (HSA): Available with HDHP",
+            "Financial & Retirement Security",
+            "Pension Plan: Colorado PERA provides retirement benefits and peace of mind",
+            "Supplemental Retirement Plans: PERAPlus 401(k), MissionSquare Roth IRA, and 457 plans",
+            "Disability Coverage: Short-Term and Long-Term Disability insurance available",
+            "Life Insurance: Employer-paid coverage with optional supplemental plans",
+            "Long-Term Care Insurance: Available for purchase to support extended care needs",
+            "Employee Assistance Program (EAP): Confidential support for mental health, stress, legal, financial, and work-life balance",
+            "Tuition Reimbursement: Up to $5,250 annually to support continued education",
+            "Public Service Loan Forgiveness: As a qualifying employer, your student loan payments may be eligible for loan forgiveness",
+            "Starting pay will be based on the successful candidate's experience, education, and training; however, those with limited direct experience could start below the posted pay range",
+            "If a single pay rate is posted, the job starts at that rate regardless of previous experience, education, and training"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "We are seeking a Senior Business Intelligence & Data Solutions Analyst to serve as a technical leader in designing, developing, and supporting enterprise reporting, analytics, workload management solutions, and data integration capabilities",
+            "This role combines business intelligence, data engineering, systems administration, automation, and advanced analytics to help improve operational efficiency, customer experience, and organizational performance",
+            "You will partner with stakeholders across the organization to transform complex business requirements into scalable reporting, integration, and analytical solutions that drive measurable business value",
+            "Leading the administration, support, and continuous improvement of related customer operations technologies",
+            "Developing and maintaining enterprise reporting solutions, dashboards, scorecards, and self-service analytics using Power BI, SQL, and modern reporting platforms",
+            "Designing, developing, and supporting SQL processes, databases, operational tables, and automated data preparation workflows",
+            "Utilizing APIs, automated data pipelines, integrations, and data services that connect enterprise applications and reporting platforms",
+            "Supporting Python-based automation, data transformation, and process optimization initiatives",
+            "Producing and enhancing operational, financial, customer, regulatory, and compliance reporting used throughout the organization",
+            "Analyzing customer usage patterns, operational performance, workload trends, financial impacts, and business metrics to provide actionable recommendations",
+            "Leading analytical efforts related to predictive models, forecasting, trend analysis, benchmarking, modeling, and strategic decision support",
+            "Supporting enterprise data governance activities by validating data quality, consistency, completeness, and reporting accuracy",
+            "Driving automation initiatives that reduce manual effort and improve efficiency across customer operations and business processes",
+            "Serving as the technical lead for reporting, data integration, and workload management modernization initiatives",
+            "Partnering with business leaders, technology teams, vendors, and stakeholders to gather requirements, solve complex operational challenges, and implement sustainable solutions",
+            "Documenting processes and solutions as part of solution delivery",
+            "Supporting modernization efforts involving the enterprise customer information system, measurement data, Genesys, APIs, Lakehouse technologies, enterprise reporting platforms, and next-generation analytics capabilities",
+            "Presenting findings, recommendations, and technical solutions to leadership and stakeholder groups in a clear and meaningful format",
+            "Creating documentation, standards, and best practices that support long-term scalability and supportability of reporting and analytics solutions",
+            "This is an opportunity to serve as a senior technical and analytical leader helping shape the future of customer operations, enterprise reporting, and data-driven decision-making",
+            "You will work on high-impact initiatives involving automation, analytics, modernization, customer experience, and enterprise technology transformation while partnering with leaders across the organization to deliver meaningful business results",
+            "Sedentary work involves sitting most of the time but may involve walking or standing for brief periods of time",
+            "Jobs are sedentary only if walking and standing are required only occasionally, and all other criteria are met",
+            "Positions in this class typically require talking, hearing, seeing, and repetitive motions within an office working environment"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=79ftemsP-Xf3HSYpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_13JsQrCMBAAUFz7CU43izZScLGTdhBdHIpzSeORnsS7kDuh_pTfKK4ub3nVZ1G1PTJJgeNLiVEVzmyYEkXkgHBgn95qsIGLjKDoS5hAGE4iMeGyncyy7p1TTXVU80ahDvJ0wjjK7B4y6o9BJ18wJ284NLvtXGeOq6aTJMXfBfpciKPCzSiRESoQw_-uobt-AS6smSaxAAAA&shmds=v1_Ac3VAoyPopcZc92OhmHLdGWMkd6-qUUlVoqfnmH6W_UsT7X7yA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=79ftemsP-Xf3HSYpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAulBMVEX___8uHWvd3d2tra2-vr6qqqr09PTR0dHa2tqxsbHl5eXq6urv7--1tbX7-_vFxcWbm5sSAF8nE2iHo5whZlcpa1p_o5ozbmApaVykpKSJiYnT0dqgnLRjXIcAAFcpGGrIx9Osqr3g3uWNiqVpY4wfAGU0J21UTH98d5nBzMiiprUkCmdORXuxt72mv7iOraVojISHkp5-hJpuc5FBMHSQpqactK8AV0Q_eGZ0lotXXoBxbZNZgnjY4t369TNXAAAB70lEQVRIie2Ta3eaQBCGh73vshcuxggNMUZJSk3VaIulkf__t7piWnNyqU0_tjwc5sCy78zw7i5AT0_PPw37G9GHiyK5HF-8R3I1uZ7O4rhMgmBc3kyv_0wVTm7iMr79WJRBx7iMp6dF1afgMp4nyTiZ303HyUEalHefF8tl1SptX5XpdDA4W92vN5tZ8WU-D3zR5EAZF1-Hw3ToqdsXOrYdnXvO9nxr1pvvDxeT2ay4fShm0_v1uk6bVZPWi3r4vKzejka788Fg1LGXN1XbPs5iVZ2mOz88WtUv-rX-grZa1KnPvtutmiZd1lUIUPl8PtfgwFafdvhZYtYu6qpdvFd3bOwIcz7wX69iHzQ_PneEoMEqgZ6MsUh7mfS3Vtxabpj_mjMmLFOKcQiRDxBBRsLQhBwpiw5ip0CGlMgQ55ZEWGHqBHBDRBYxHCEiee5bysBQbYghyuRRLg4VgQIlFLDhKsOQGe0nksxiCdIAdooT5IU5AUMIZyRikHUHR1GNfT9UC4uFkoobryMOIwFCgOKZkwyEFJojhKxDIVbyN_aJn_45c9prpvf2PdKtNHq63uytk80iRSBzhCC1N8cYMFI754xz1ElC6OvHw6c3QBmXJBIiIgg5ISi1_me5z0Wct_R0z9BtkbcK9PT0_Pf8ACnfJvXCgUYXAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "15 days ago",
+        "Full-time",
+        "Paid time off",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "source_link": "https://coloradospringsutilities.jobs/colorado-springs-co/senior-business-intelligence-analyst/FE7A7B77B9DC4C92B2F6B36DF1DB4C66/job/",
+      "job_title": "Senior Business Intelligence Analyst",
+      "description": "Senior Business Intelligence Analyst\n\n\n\nJob Type: Business Operations\n\n\n\nPay Range $108,814 to $114,253\n\n\n\nLocation Colorado Springs, CO\n\n\n\nDate First Posted 10/15/26\n\n\n\nApplications are being accepted through: 10/22/26\n\n\n\n*If no date is displayed, applications are being accepted on an ongoing basis; however, this job posting may close at any time after a minimum of 5 days of being posted.\n\n\n\nSenior Business Intelligence Analyst - Customer Operations Technology & Analytics\n\n\n\nOur Customer Applications Management team at Colorado Springs Utilities is responsible for delivering the data, reporting, automation, and system integrations that support customer operations, contact center performance, business decision-making, and enterprise modernization efforts. We are seeking a Senior Business Intelligence & Data Solutions Analyst to serve as a technical leader in designing, developing, and supporting enterprise reporting, analytics, workload management solutions, and data integration capabilities.\n\n\n\nThis role combines business intelligence, data engineering, systems administration, automation, and advanced analytics to help improve operational efficiency, customer experience, and organizational performance. You will partner with stakeholders across the organization to transform complex business requirements into scalable reporting, integration, and analytical solutions that drive measurable business value.\n\n\n\nWhat Else Will You Be Doing?\n\n\n\n\nLeading the administration, support, and continuous improvement of related customer operations technologies\n\n\nDeveloping and maintaining enterprise reporting solutions, dashboards, scorecards, and self-service analytics using Power BI, SQL, and modern reporting platforms\n\n\nDesigning, developing, and supporting SQL processes, databases, operational tables, and automated data preparation workflows\n\n\nUtilizing APIs, automated data pipelines, integrations, and data services that connect enterprise applications and reporting platforms\n\n\nSupporting Python-based automation, data transformation, and process optimization initiatives\n\n\nProducing and enhancing operational, financial, customer, regulatory, and compliance reporting used throughout the organization\n\n\nAnalyzing customer usage patterns, operational performance, workload trends, financial impacts, and business metrics to provide actionable recommendations\n\n\nLeading analytical efforts related to predictive models, forecasting, trend analysis, benchmarking, modeling, and strategic decision support\n\n\nSupporting enterprise data governance activities by validating data quality, consistency, completeness, and reporting accuracy\n\n\nDriving automation initiatives that reduce manual effort and improve efficiency across customer operations and business processes\n\n\nServing as the technical lead for reporting, data integration, and workload management modernization initiatives\n\n\nPartnering with business leaders, technology teams, vendors, and stakeholders to gather requirements, solve complex operational challenges, and implement sustainable solutions\n\n\nDocumenting processes and solutions as part of solution delivery\n\n\nSupporting modernization efforts involving the enterprise customer information system, measurement data, Genesys, APIs, Lakehouse technologies, enterprise reporting platforms, and next-generation analytics capabilities\n\n\nPresenting findings, recommendations, and technical solutions to leadership and stakeholder groups in a clear and meaningful format\n\n\nCreating documentation, standards, and best practices that support long-term scalability and supportability of reporting and analytics solutions\n\n\n\n\nWho You Are:\n\n\n\n\nAn experienced analytics, business intelligence, or data professional who enjoys solving complex business and technical challenges\n\n\nA strong collaborator who can build partnerships with both technical teams and business stakeholders as well as mentor junior personnel\n\n\nA strategic thinker who can identify opportunities to connect operational needs with long-term technology and data solutions\n\n\nPassionate about creating insight, leveraging data, automation, and technology to improve customer experiences and business outcomes\n\n\n\n\nRequired Qualifications:\n\n\n\n\nThree to five years or more of progressively responsible experience in business intelligence, analytics, reporting, systems administration, data engineering, or related disciplines\n\n\nAdvanced experience with SQL and relational database development\n\n\nExperience designing and supporting enterprise reporting and analytics solutions\n\n\nExperience developing dashboards and visualizations using Power BI or similar business intelligence tools\n\n\nExperience developing and supporting APIs, integrations, and automated data workflows\n\n\nDemonstrated ability to analyze complex business problems and translate them into scalable technical solutions\n\n\n\n\nPreferred Qualifications:\n\n\n\n\nBachelor's degree in Business Analytics, Information Systems, Computer Science, Data Analytics, Finance, Business Administration, or a related field\n\n\nExperience supporting contact center technologies\n\n\nExperience with Python development and process automation\n\n\nExperience with cloud-based data platforms, Lakehouse architectures, or enterprise data warehouses\n\n\nExperience supporting customer operations, utility operations, workforce management, or large-scale enterprise environments\n\n\nExperience leading technical projects, modernization initiatives, or cross-functional workstreams\n\n\nKnowledge of data governance, data quality management, and enterprise reporting best practices\n\n\n\n\nWhy Join Us?\n\n\n\nThis is an opportunity to serve as a senior technical and analytical leader helping shape the future of customer operations, enterprise reporting, and data-driven decision-making. You will work on high-impact initiatives involving automation, analytics, modernization, customer experience, and enterprise technology transformation while partnering with leaders across the organization to deliver meaningful business results.\n\n\n\nPHYSICAL REQUIREMENTS/WORKING CONDITIONS:\n\n\n\n\nExerting up to 10 pounds of force occasionally (1/3 of the time), and/or a negligible amount of force frequently (1/3 to 2/3 of the time) to lift, carry, push, or pull objects. Sedentary work involves sitting most of the time but may involve walking or standing for brief periods of time. Jobs are sedentary only if walking and standing are required only occasionally, and all other criteria are met.\n\n\nPositions in this class typically require talking, hearing, seeing, and repetitive motions within an office working environment.\n\n\n\n\nWho We Are:\n\n\n\nColorado Springs Utilities, a four-service utility provider with a 100-year reputation of integrity, gives you an experience unmatched by other utility companies. We continuously strive to stay ahead of the business curve with our established priority to update and incorporate state-of-the-art technology and provide a work culture dedicated to innovation, collaboration, and synergy. In fact, we were recently awarded the Diamond Designation from the American Public Power Association (APPA), recognizing our utility for having some of the highest ratings in reliability, safety, workforce development, and system improvements among the more than 2,000 public utilities in the nation. Nestled at the base of the Rocky Mountains, Colorado Springs is the perfect blend of mountain and city living. With over 300 days of sunshine a year, you will enjoy nature at its finest while residing in the sixth most desired place to live in the United States (according to U.S. News & World Report, 2021).\n\n\n\nOur Commitment to Our Employees…\n\n\n\nOur people are the heart and soul of Colorado Springs Utilities. They keep the lights on, gas flowing, water coming in, and wastewater leaving. We don't just say people are important – we prove it! That’s why we are honored to invest in protecting the health and financial security of our employees and their families through our rich benefits program.\n\n\n\nTime Off to Recharge\n\n\n\n\nVacation – Start with 13 days annually, increasing to 24 days with tenure\n\n\nPersonal Leave –3 days per year\n\n\nPaid Holidays –12 paid holidays per year\n\n\nSick Leave – 12 days per year for personal or family health needs\n\n\nVacation Buy – Option to purchase up to 40 additional hours annually\n\n\n\n\nHealth & Wellness – Benefits elected are effective the first of the following month\n\n\n\n\nMedical Plans: Three comprehensive options, including a $0 premium High-Deductible Health Plan (HDHP) with Health Savings Account (HSA) eligibility\n\n\nZero Health: Access to hundreds of medical services at no cost\n\n\nDental & Vision: Two dental plans and one vision plan\n\n\nFamily Building Benefits: Support for fertility, preservation, adoption, and surrogacy\n\n\nWellness Program: A voluntary program that rewards you for prioritizing self-care! If you're enrolled in our medical plan, you and your spouse can earn up to $600 in HRA or HSA contributions by completing healthy activities\n\n\nFlexible Spending Accounts (FSA): Pre-tax contributions for healthcare and dependent care expenses\n\n\nHealth Savings Account (HSA): Available with HDHP\n\n\n\n\nFinancial & Retirement Security\n\n\n\n\nPension Plan: Colorado PERA provides retirement benefits and peace of mind\n\n\nSupplemental Retirement Plans: PERAPlus 401(k), MissionSquare Roth IRA, and 457 plans\n\n\nDisability Coverage: Short-Term and Long-Term Disability insurance available\n\n\nLife Insurance: Employer-paid coverage with optional supplemental plans\n\n\nLong-Term Care Insurance: Available for purchase to support extended care needs\n\n\n\n\nAdditional Support\n\n\n\n\nEmployee Assistance Program (EAP): Confidential support for mental health, stress, legal, financial, and work-life balance\n\n\nTuition Reimbursement: Up to $5,250 annually to support continued education\n\n\nPublic Service Loan Forgiveness: As a qualifying employer, your student loan payments may be eligible for loan forgiveness\n\n\n\n\nATTENTION  :\n\n\n\n\nAll positions will be posted for a minimum of 5 calendar days.\n\n\nStarting pay will be based on the successful candidate's experience, education, and training; however, those with limited direct experience could start below the posted pay range.\n\n\nIf a single pay rate is posted, the job starts at that rate regardless of previous experience, education, and training.\n\n\nColorado Springs Utilities does not sponsor work visas of any kind, including H-1B, TN, or F-1 student visas (with or without OPT or STEM work authorization), or any other employment-based visas.   All eligible applicants must be authorized to work in the United States, and work authorization must not be based on employer sponsorship of a work visa.\n\n\n\n\nColorado Springs Utilities is an Equal Employment Opportunity/Affirmative Action employer.   Colorado Springs Utilities is committed to the principles of Affirmative Action and Equal Opportunity in accord with Vietnam Era Veterans Readjustment Assistance Act, 38 U.S.C. § 4212, as amended (VEVRAA), and § 503 of the Rehabilitation Act of 1973, as amended (§ 503). In addition, no person shall be unlawfully discriminated against because of race, color, creed, national origin or ancestry, sex (including pregnancy, gender identity, gender expression, and sexual orientation), age, religion, veteran status, disability, genetic information, marital status, or any other basis protected under state or federal law. Human Resources shall assure Colorado Springs Utilities’ benefits, classification, compensation, employee development, employee relations, and employment programs, conform to current legal and regulatory requirements and the provisions of Colorado Springs Utilities’ Affirmative Action Plan in accordance with VEVRAA and § 503.\n\n\n\nAccessibility Accommodations . If you are an individual with a disability or a disabled veteran who is unable to use our online tools to search and apply for jobs, you may request a reasonable accommodation by contacting us at accessibility@csu.org or by calling 719-668-7500. This option is reserved for individuals who are unable to use or require assistance with the online tools as a result of a disability and is not intended for other purposes.\n\n\n\nE-Verify and Right to Work Notice . Federal law requires all employers to verify the identity and employment eligibility of all persons hired to work in the United States. Colorado Springs Utilities participates in E-Verify. For more information on your rights and responsibilities as an applicant, please visit:  http://coloradospringsutilities.jobs/applicants-rights-and-responsibilities/ .  If you have a legal right to work in the United States, there are laws to protect you against discrimination in the workplace. You should know that no employer can deny you a job or fire you because of your national origin. Unless mandated by law or government contract, employers cannot require you to be a U.S. Citizen or permanent resident or refuse any legally acceptable documents. If any of these things have happened to you, you may have a valid charge of discrimination that can be filed with the OSC. Contact the OSC for assistance in your own language. Call 1-800-255-7688. TDD for the hearing impaired is 1-800-237-2515. In the Washington, D.C., area, please call 202-616-5594, TDD 202-616-5525 Or write to: U.S. Department of Justice Office of Special Counsel NYA 950 Pennsylvania Ave., N.W. Washington, DC 20530.\n\n\n\nHave a question? If you have a question about a position or need assistance from a recruiter, email us at csurecruiting@csu.org or call 719-668-7500.\n\n\n\nJob Type:  Business Operations",
+      "apply_options": [
+        {
+          "title": "Colorado Springs Utilities",
+          "link": "https://coloradospringsutilities.jobs/colorado-springs-co/senior-business-intelligence-analyst/FE7A7B77B9DC4C92B2F6B36DF1DB4C66/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/0c5df071-ca9d-11f1-87ec-4201ac122412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-business-intelligence-analyst-tier4-group-colorado-springs--lifeworq-cb7a5124-9980-4b8c-98d0-486fa299ce91?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/business-intelligence-analyst-jobs/DDF5BB26F73E2FD5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-3137-6936c49f56b143b71890bf0f62f0942f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-co-colorado-springs-senior-business-intelligence-analyst-tier4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJDb2xvcmFkbyBTcHJpbmdzIFV0aWxpdGllcyIsImh0aWRvY2lkIjoiNzlmdGVtc1AtWGYzSFNZcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdUTlVlRnBGWkdkbllsUjBjWGhuZEhZM1psWk5abmhxVFZkQlJsYzVVemR5VlRoVFIxRmFkRmRaU0RRek1WQm9RbXhCZUd4dFdIQlpabkpZYUdnMFowMTFiMlJpV25wcmREY3RaVGcyVWtGcmFuSlhURGhhZERGQlRWOVBhQzFPTVdscGVuTldVV05FTm5CYWVVTnBjekJ1UVdkRmNHbG9TRWRLUkU0eU0xaFpNVTVzWlZJU0YxTjNhbXhoY0U4MlJtRTJORzFNVVZCM1lqZFBkMEZSR2lKQlNFNHdSVGRGVVhkTGFqbHdVMjgxU21JdFdYZDNaSGx0VjJ0S01XazNabDluIiwiZmN2IjoiMyIsImZjX2lkIjoiNzlmdGVtc1AtWGYzSFNZcEFBQUFBQT09In0="
+    },
+    {
+      "title": "BI Analyst – Power BI, Cognos & SQL",
+      "company_name": "Vinsys Information Technology Inc",
+      "location": "United States",
+      "via": "LinkedIn",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Mandatory Background Security And CJIS/CLETS Requirements",
+            "Candidates must be able to successfully complete required background security screening, including applicable state and federal fingerprint-based criminal history checks, and satisfy all applicable CJIS/CLETS requirements before accessing ARJIS SANDAG systems or data",
+            "Continued eligibility requires annual security reviews and applicable training or certification renewals"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Seeking a BI Analyst to support report assessment, development, testing, documentation, and customer support for a Cognos-to-Power BI modernization project",
+            "The role requires hands-on Power BI and SQL skills, familiarity with Cognos reporting, and the ability to translate user needs into accurate reporting solutions",
+            "The Analyst will work under project and technical leadership to migrate reports, validate results, resolve reporting issues, and prepare materials that help users adopt the new environment",
+            "Gather and document user reporting requirements through interviews, surveys, and working sessions",
+            "Inventory and classify Cognos reports and identify duplicate, inactive, or similar reports",
+            "Review existing report logic and assist with extracting and validating SQL queries",
+            "Develop Power BI reports and dashboards using approved templates and reporting standards",
+            "Create or update supporting SQL views in coordination with the technical team",
+            "Execute functional and data validation tests, compare outputs with legacy reports, and documentation",
+            "Maintain report inventories, migration tracking records, test results, and configuration documentation",
+            "Investigate reporting and user access issues and assist with assigned help desk tickets",
+            "Develop user guides, quick-reference materials, knowledge base articles, and training content",
+            "Support deployment verification, cloud reporting validation, and knowledge transfer"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=3tmm7kYeOO8Vc8o1AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLayEE0kYKM2xkIiFkrUVi7neolcdsPtgUnnH3yIf_Ilns0UAzPRZxCtshzWpGwvHr6vNxz4iQ6yfAIbNsQCIyiOe5jCjksQVE5XwARbZmNxuKy8b2WRJCI2NuKVr3WsuUmYsOQueXApf1ylUg5bqzxe0_msi1sy4_RSk_QCOd3ZNSEN3xPqitiy6YPWUBOcqfZ4gyK8UX7hNTIjsgAAAA&shmds=v1_Ac3VAowRIxjKUiY1WeigW8FcDa3XUgoGnP9EeziTQ6Dl9Bdt6g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=3tmm7kYeOO8Vc8o1AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5084b8ffa70f5b531410b/images/cKUBvVHOIkIrX97_Y4atx_R3hP5TEMwyMFW_cEf0gPs.jpeg",
+      "extensions": [
+        "6 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.linkedin.com/jobs/view/bi-analyst-%E2%80%93-power-bi-cognos-sql-at-vinsys-information-technology-inc-4483347305",
+      "job_title": "BI Analyst – Power BI, Cognos & SQL",
+      "description": "Mandatory Background Security And CJIS/CLETS Requirements\n\nCandidates must be able to successfully complete required background security screening, including applicable state and federal fingerprint-based criminal history checks, and satisfy all applicable CJIS/CLETS requirements before accessing ARJIS SANDAG systems or data. Continued eligibility requires annual security reviews and applicable training or certification renewals. Existing clearance is not required to apply.\n\nSeeking a BI Analyst to support report assessment, development, testing, documentation, and customer support for a Cognos-to-Power BI modernization project. The role requires hands-on Power BI and SQL skills, familiarity with Cognos reporting, and the ability to translate user needs into accurate reporting solutions.\n\nThe Analyst will work under project and technical leadership to migrate reports, validate results, resolve reporting issues, and prepare materials that help users adopt the new environment.\n\nResponsibilities\n\nGather and document user reporting requirements through interviews, surveys, and working sessions.Inventory and classify Cognos reports and identify duplicate, inactive, or similar reports.Review existing report logic and assist with extracting and validating SQL queries.Develop Power BI reports and dashboards using approved templates and reporting standards.Create or update supporting SQL views in coordination with the technical team.Execute functional and data validation tests, compare outputs with legacy reports, and documentationMaintain report inventories, migration tracking records, test results, and configuration documentation.Investigate reporting and user access issues and assist with assigned help desk tickets.Develop user guides, quick-reference materials, knowledge base articles, and training content.Support deployment verification, cloud reporting validation, and knowledge transfer.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/bi-analyst-%E2%80%93-power-bi-cognos-sql-at-vinsys-information-technology-inc-4483347305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/bi-analyst-power-bi-cognos-sql--united-states--ea9b6c0429da50e81c225868aaf556c3b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/bi-analyst-power-bi-cognos-sql-vinsys-information-technology-inc--fj-2430277204?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCSSBBbmFseXN0IOKAkyBQb3dlciBCSSwgQ29nbm9zIFx1MDAyNiBTUUwiLCJjb21wYW55X25hbWUiOiJWaW5zeXMgSW5mb3JtYXRpb24gVGVjaG5vbG9neSBJbmMiLCJodGlkb2NpZCI6IjN0bW03a1llT084VmM4bzFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVlJYTlZCYVZWaElXVmt5Tm5GRE5qZEpSRGRUYkdsdmJVNDJhRlZTVmpCdlJWOVpZMDVIWkdkRGNtdHVlR0ZhVDBObVptUkhXakpoZGs1R1J6aFpkRWRyZVZrNE1EbHllRVpWWDNSRFdrTlpTRWR6ZFhoRGFFUk9WVFZFY0ZSclpVTXhVMHB2VWpsTFlqaFRaM0ZVV1ZOVFluWkxMVWh0U2tNeVVGVnhWbFJFU0dWelFYRVNGMU4zYW14aGNFODJSbUUyTkcxTVVWQjNZamRQZDBGUkdpSkJTRTR3UlRkSWRGUjFiRkZhTlZFd05sZzJOV2syT0ZKcmNpMDFUV1IwU0dOUiIsImZjdiI6IjMiLCJmY19pZCI6IjN0bW03a1llT084VmM4bzFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Business Intelligence Analyst - Supply Chain Consulting",
+      "company_name": "AmerisourceBergen Services Corporation",
+      "location": "United States",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Education: Bachelor’s degree in analytics, business intelligence, supply chain, healthcare administration, finance, computer science, information systems, or related field",
+            "Experience: 5+ years of experience in business intelligence, analytics, consulting, healthcare analytics, supply chain analytics, or related discipline",
+            "Experience developing dashboards, KPI reporting, analytical models, and executive-level summaries",
+            "Skills & Abilities: Strong ability to combine data from multiple sources, validate findings, and translate business questions into repeatable analytical outputs",
+            "Strong communication and stakeholder engagement skills",
+            "Advanced analytical, quantitative, and problem-solving skills",
+            "Ability to translate complex analytical concepts into clear business recommendations",
+            "Strong business acumen with the ability to connect operational metrics to financial outcomes",
+            "Ability to manage multiple complex projects and collaborate across clinical, operational, financial, and technical teams"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "What Cencora offers We provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day",
+            "In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness",
+            "This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave",
+            "To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more",
+            "For details, visit https://www.virtualfairhub.com/cencora Full time Salary Range* $94,500 - 148,060 *This Salary Range reflects a National Average for this job"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Under general direction, the Sr Business Intelligence Analyst serves as the dedicated analytics resource for the Supply Chain Consulting team, converting complex pharmacy, healthcare supply chain, financial, and operational data into insights, dashboards, models, and recommendations that support customer engagements, business cases, and performance improvement initiatives",
+            "Primary Duties and Responsibilities: Analytics, Business Intelligence & Modeling Develop and maintain dashboards, scorecards, KPI reporting tools, and standardized analytical models to support Supply Chain Consulting engagements",
+            "Analyze complex pharmacy, procurement, inventory, medication utilization, distribution, labor, and financial data to identify operational and financial improvement opportunities",
+            "Create analytical methodologies, financial models, pro formas, scenario analyses, and ROI assessments to support customer business cases and strategic recommendations",
+            "Translate data findings into actionable insights, executive-ready outputs, and measurable business outcomes",
+            "Establish data validation, quality control, and reporting processes to ensure accuracy, consistency, and scalability of analytical deliverables",
+            "Consulting Engagement Support Serve as the analytics lead for customer-facing consulting engagements, including pharmacy operations, inventory optimization, procurement, and centralized distribution initiatives",
+            "Support customer discovery, data intake, analytical scoping, and translation of customer requirements into measurable analytical frameworks and business outcomes",
+            "Support development of customer business cases, value assessments, executive recommendations, and implementation roadmaps used to justify strategic investments and operational transformation initiatives",
+            "Prepare analytical outputs for customer-facing presentations, executive readouts, business cases, and implementation planning",
+            "Partner with consultants, pharmacy subject matter experts, finance, operations, sales, engineering, and customer stakeholders to define analytical needs and translate operational pain points into data-driven recommendations"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=MUallOQxiEcXNiCAAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMWoDQQxFSesjpFIdyK4JhEBS2S5C3C6uzezkMyszlgZJG-xD5k6ZNL958N_b_D5sThOE1Wi_Ogvc6UsCtXKBZNBOUr170DNNa2v1ToclsdBBxdcaLKWTo87kSJYXUqFP1VLx-LFENH8fR_c6FI8UnIes11EFs97Gi87-P2dfkqHVFDi_vG5vQ5Py9La7wth1tYw9rKfQBPvhDO9qa2r9rrt6yUk48E1TF8D_AMDTODjQAAAA&shmds=v1_Ac3VAoz1Ccb_7_TixdAh2zfhsMqhUs31Sm4Ky9CepyUePoPK3A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=MUallOQxiEcXNiCAAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5084b8ffa70f5b531410b/images/hitRXkeTQ4R7jOboPZBx1X-fDYlmEG5rMv05HBvcMfE.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "source_link": "https://myhrabc.wd5.myworkdayjobs.com/global/job/remote-usa/senior-business-intelligence-analyst---supply-chain-consulting_r2617104",
+      "job_title": "Senior Business Intelligence Analyst - Supply Chain Consulting",
+      "description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today! Job Details Please note: This is a fully remote position, open to all qualified candidates residing in the United States. Under general direction, the Sr Business Intelligence Analyst serves as the dedicated analytics resource for the Supply Chain Consulting team, converting complex pharmacy, healthcare supply chain, financial, and operational data into insights, dashboards, models, and recommendations that support customer engagements, business cases, and performance improvement initiatives. Primary Duties and Responsibilities: Analytics, Business Intelligence & Modeling Develop and maintain dashboards, scorecards, KPI reporting tools, and standardized analytical models to support Supply Chain Consulting engagements. Analyze complex pharmacy, procurement, inventory, medication utilization, distribution, labor, and financial data to identify operational and financial improvement opportunities. Create analytical methodologies, financial models, pro formas, scenario analyses, and ROI assessments to support customer business cases and strategic recommendations. Translate data findings into actionable insights, executive-ready outputs, and measurable business outcomes. Establish data validation, quality control, and reporting processes to ensure accuracy, consistency, and scalability of analytical deliverables. Consulting Engagement Support Serve as the analytics lead for customer-facing consulting engagements, including pharmacy operations, inventory optimization, procurement, and centralized distribution initiatives. Support customer discovery, data intake, analytical scoping, and translation of customer requirements into measurable analytical frameworks and business outcomes. Support development of customer business cases, value assessments, executive recommendations, and implementation roadmaps used to justify strategic investments and operational transformation initiatives. Prepare analytical outputs for customer-facing presentations, executive readouts, business cases, and implementation planning. Partner with consultants, pharmacy subject matter experts, finance, operations, sales, engineering, and customer stakeholders to define analytical needs and translate operational pain points into data-driven recommendations. Education: Bachelor’s degree in analytics, business intelligence, supply chain, healthcare administration, finance, computer science, information systems, or related field. Certifications in dashboard development, SQL, data modeling, analytics engineering, or data governance practices preferred. Certifications in cloud-based analytics solutions, reporting automation, or business intelligence architecture preferred. Experience: 5+ years of experience in business intelligence, analytics, consulting, healthcare analytics, supply chain analytics, or related discipline. Experience developing dashboards, KPI reporting, analytical models, and executive-level summaries. Healthcare, health-system, pharmaceutical, pharmacy supply chain, wholesale distribution, or consulting experience preferred. Experience with pharmaceutical product data, NDC-level analysis, drug spend, inventory management, or health-system pharmacy operations preferred. Experience supporting consulting, customer-facing, or cross-functional project teams preferred. Experience with data automation, ETL tools, or cloud-based data platforms preferred. Skills & Abilities: Strong ability to combine data from multiple sources, validate findings, and translate business questions into repeatable analytical outputs. Strong communication and stakeholder engagement skills. Advanced analytical, quantitative, and problem-solving skills. Ability to translate complex analytical concepts into clear business recommendations. Strong business acumen with the ability to connect operational metrics to financial outcomes. Ability to manage multiple complex projects and collaborate across clinical, operational, financial, and technical teams. What Cencora offers We provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencora Full time Salary Range* $94,500 - 148,060 *This Salary Range reflects a National Average for this job. The actual range may vary based on your locale. Ranges in Colorado/California/Washington/New York/Hawaii/Vermont/Minnesota/Massachusetts/Illinois State-specific locations may be up to 10% lower than the minimum salary range, and 12% higher than the maximum salary range. Equal Employment Opportunity Cencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law. The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory. Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned . Affiliated Companies: Affiliated Companies: AmerisourceBergen Services Corporation Cencora is a leading global pharmaceutical solutions company that is committed to improving the lives of people and animals everywhere. We connect manufacturers, providers, and patients to ensure that anyone can get the therapies they need, where and when they need them. We’re a purpose-driven organization, where all of our team members around the world are united in our responsibility to create healthier futures. We work together every day to help our partners bring their innovations to patients worldwide, creating unparalleled access and impact at the center of health. Recruitment scams are on the rise and the intent is to target individuals looking for employment opportunities. To protect yourself, we urge you to be vigilant and follow these guidelines. 1.) Research the Company: Thoroughly research any company before applying or sharing personal information, check their website, read reviews, and verify their legitimacy. 2.) Be Wary of Unrealistic Promises: Exercise caution If a job posting offers high salaries and minimal qualifications. Legitimate jobs will have realistic expectations and provide detailed job requirements. Jobs at Cencora can be found on Cencora.com/careers 3.) Guard Your Personal Information: Only share sensitive information after vetting the employer’s credibility. Avoid sharing your Social Security number, bank account details, or identification documents during the application process. Cencora does not request this information as part of the employment application. 4.) Avoid Upfront Payments: Legitimate employers do not require payment during the hiring process. Be suspicious if you are asked to pay for training materials, processing fees, or background checks before securing a job offer. Cencora will never ask you for payment information during the hiring or onboarding process. 5.) Verify Communication Channels: Scammers often use free email services or chat platforms without providing an official company contact information. Cencora recruiters will have an email address ending in @cencora.com, @alliance-healthcare.net, @alliance-healthcare.co.uk, alliance-healthcare.fr or alliance-healthcare.ro Remember to stay vigilant and informed about common scam tactics to reduce the risk of falling victim to fraudulent employment schemes. If you believe you have encountered a job scam posing as a Cencora opportunity, please report it immediately to: GlobalTalentAcquisition@Cencora.com",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://myhrabc.wd5.myworkdayjobs.com/global/job/remote-usa/senior-business-intelligence-analyst---supply-chain-consulting_r2617104?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/senior-erp-supply-chain-business-analyst-drew-marine-JV_KO0,40_KE41,52.htm?jl=1010303913607&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/supply-chain-senior-business-analyst--united-states--e77ce21213b43fdeb53b2f71aebc347c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/senior-oracle-ebs-supply-chain-it-business-analyst-6b3358d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Verdix",
+          "link": "https://verdix.r1l.web1337.net/remote-jobs/senior-oracle-ebs-supply-chain-it-business-analyst-6b3358d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/senior-business-intelligence-analyst-supply-chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tidewell",
+          "link": "https://tidewell.gilect.net/remote-jobs/erp-supply-chain-business-analyst-jd-edwards-remote-301af88e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=643700568398375719&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIEFuYWx5c3QgLSBTdXBwbHkgQ2hhaW4gQ29uc3VsdGluZyIsImNvbXBhbnlfbmFtZSI6IkFtZXJpc291cmNlQmVyZ2VuIFNlcnZpY2VzIENvcnBvcmF0aW9uIiwiaHRpZG9jaWQiOiJNVWFsbE9ReGlFY1hOaUNBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1dzeE0weDFRakJqT1VWdWNGZFFUbGRoWHkxVFlqVkhSMkpQY1hKSFRsOVFka1JaWjB4ak0zZzNSM1oxT0hGMmJ6Wk9jWFZxV1RscGNWaFVOMDVqWm1sQ1NVVjNTMjVSVDNsbk9XRmhaRVJzUVhGb2FrcDBTMk5XT0drd2EwNVFWMmhLVTFKU1JrRlZOMmRJYVd0VlIyVlVNR3R3YlhCalJuaExWVEZrUkVGb2VFOWliaklTRjFOM2FteGhjRTgyUm1FMk5HMU1VVkIzWWpkUGQwRlJHaUpCU0U0d1JUZEZTRFJoV0RaRGEyTjVTMGN3UVd3M00yZHhkbmRuU0d4VUxVWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJNVWFsbE9ReGlFY1hOaUNBQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxXbWxZYW5KR2RUVjJTMk41UTJKcVNrRnZTbEp3V204NU1WZDRjRk41VW05S2IwOUNiSGRpTFZOQlZXRkhRVzVMY1VkVGFuTnllVzlLZUVKRFVVVlBjREZ3Wlc5SGMzUkJiRWgxTTBSMlNITnJiM2xSTTJscFVtVlpkMnhzTWxWTE0yWm1XVEl3WWtkTllVZ3hielUxU0drMlZqTXpTRXB1UnpkWFJtOXJOekJRT0hCbFZGTlljMmxNTjNoU1VGbDJZbEk1TVhWYVgydzBiSGx2VVU5eVIwZENlRXhDUW05SlFuRklaVWRYZFVwVVlYZzNYMFphZEZadlYySlVTM1pCTFU5NU9XUXpSMEpaTFdJd1owMXNUbkpCZEhkWVYxQmllRlpqVUdkSFdXOVlWbDkwYjB0dlQzbFpPVWN0Vmt4cWQzaGtjV3hZT1d4WFFrcHNXbmRpYzB4TVNEQk1Xa00yV1VKM1IzZFhOV0ZYYmpCRlRrMW1NakZZZFVGdFl6SnRNVXRrTjJOWVFrNTFZazVrZFhKT1ZGVkNha3RzU25rMFZWaE9TV2hRY2tGNE4yTjRjbVUzU2xaalZsUjNVMFpJYzFaVk5IbFhSbTVDY0hnelVIVk5Xak55TlV3M1lVbHRiR1JpYjNoblNHTkpFaGRUZDJwc1lYQlBOa1poTmpSdFRGRlFkMkkzVDNkQlVSb2lRVWhPTUVVM1NGODVWV3hWZEdseE9IcG1hMDlvUWkxTk5YSTRVSE5vZW5WNGR3IiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxXbWxZYW5KR2RUVjJTMk41UTJKcVNrRnZTbEp3V204NU1WZDRjRk41VW05S2IwOUNiSGRpTFZOQlZXRkhRVzVMY1VkVGFuTnllVzlLZUVKRFVVVlBjREZ3Wlc5SGMzUkJiRWgxTTBSMlNITnJiM2xSTTJscFVtVlpkMnhzTWxWTE0yWm1XVEl3WWtkTllVZ3hielUxU0drMlZqTXpTRXB1UnpkWFJtOXJOekJRT0hCbFZGTlljMmxNTjNoU1VGbDJZbEk1TVhWYVgydzBiSGx2VVU5eVIwZENlRXhDUW05SlFuRklaVWRYZFVwVVlYZzNYMFphZEZadlYySlVTM1pCTFU5NU9XUXpSMEpaTFdJd1owMXNUbkpCZEhkWVYxQmllRlpqVUdkSFdXOVlWbDkwYjB0dlQzbFpPVWN0Vmt4cWQzaGtjV3hZT1d4WFFrcHNXbmRpYzB4TVNEQk1Xa00yV1VKM1IzZFhOV0ZYYmpCRlRrMW1NakZZZFVGdFl6SnRNVXRrTjJOWVFrNTFZazVrZFhKT1ZGVkNha3RzU25rMFZWaE9TV2hRY2tGNE4yTjRjbVUzU2xaalZsUjNVMFpJYzFaVk5IbFhSbTVDY0hnelVIVk5Xak55TlV3M1lVbHRiR1JpYjNoblNHTkpFaGRUZDJwc1lYQlBOa1poTmpSdFRGRlFkMkkzVDNkQlVSb2lRVWhPTUVVM1NGODVWV3hWZEdseE9IcG1hMDlvUWkxTk5YSTRVSE5vZW5WNGR3IiwiZmN2IjoiMyJ9&q=Business+Intelligence+Analyst&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Business Intelligence Analyst",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:12:43.238655+00:00",
+    "request_fingerprint": "e42a28333abd8ccbfd168b7d418df89d94802282221b1fdd21741b09cfa0b576",
+    "job_count": 10
+  }
+}

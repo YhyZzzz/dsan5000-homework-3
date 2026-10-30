@@ -1,0 +1,736 @@
+{
+  "search_metadata": {
+    "id": "6ae5085cea58e855de72d997",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZoNFLY6DCwvQKpoVc_1QzwcSk__VQABYQMZK66V3t1s/6ae5085cea58e855de72d997.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZoNFLY6DCwvQKpoVc_1QzwcSk__VQABYQMZK66V3t1s/6ae5085cea58e855de72d997.md",
+    "created_at": "2026-10-30 21:13:00 UTC",
+    "processed_at": "2026-10-30 21:13:00 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Business+Intelligence+Analyst&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/ZoNFLY6DCwvQKpoVc_1QzwcSk__VQABYQMZK66V3t1s/6ae5085cea58e855de72d997.html",
+    "prettify_html_file": "https://serpapi.com/searches/ZoNFLY6DCwvQKpoVc_1QzwcSk__VQABYQMZK66V3t1s/6ae5085cea58e855de72d997.prettify",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "q": "Business Intelligence Analyst",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "next_page_token": "eyJmYyI6IkVyY0RDdmNDUVVSRVlsZGxXbWxZYW5KR2RUVjJTMk41UTJKcVNrRnZTbEp3V204NU1WZDRjRk41VW05S2IwOUNiSGRpTFZOQlZXRkhRVzVMY1VkVGFuTnllVzlLZUVKRFVVVlBjREZ3Wlc5SGMzUkJiRWgxTTBSMlNITnJiM2xSTTJscFVtVlpkMnhzTWxWTE0yWm1XVEl3WWtkTllVZ3hielUxU0drMlZqTXpTRXB1UnpkWFJtOXJOekJRT0hCbFZGTlljMmxNTjNoU1VGbDJZbEk1TVhWYVgydzBiSGx2VVU5eVIwZENlRXhDUW05SlFuRklaVWRYZFVwVVlYZzNYMFphZEZadlYySlVTM1pCTFU5NU9XUXpSMEpaTFdJd1owMXNUbkpCZEhkWVYxQmllRlpqVUdkSFdXOVlWbDkwYjB0dlQzbFpPVWN0Vmt4cWQzaGtjV3hZT1d4WFFrcHNXbmRpYzB4TVNEQk1Xa00yV1VKM1IzZFhOV0ZYYmpCRlRrMW1NakZZZFVGdFl6SnRNVXRrTjJOWVFrNTFZazVrZFhKT1ZGVkNha3RzU25rMFZWaE9TV2hRY2tGNE4yTjRjbVUzU2xaalZsUjNVMFpJYzFaVk5IbFhSbTVDY0hnelVIVk5Xak55TlV3M1lVbHRiR1JpYjNoblNHTkpFaGRUZDJwc1lYQlBOa1poTmpSdFRGRlFkMkkzVDNkQlVSb2lRVWhPTUVVM1NGODVWV3hWZEdseE9IcG1hMDlvUWkxTk5YSTRVSE5vZW5WNGR3IiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Analyst - Business Intelligence & Analytics",
+      "company_name": "Inspirato",
+      "location": "Colorado",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Two to three years of previous experience in the same or a related field",
+            "Bachelor’s degree or equivalent experience",
+            "Knowledge of Microsoft Power BI, including proficiency in the DAX formula language",
+            "Ability to develop ETL processes using Power Query and working knowledge of the M query language",
+            "Experience creating dimensional data models, including star and snowflake schemas",
+            "Proven experience using data visualization techniques to create meaningful reports and dashboards",
+            "Ability to translate business requirements into elegant, user-friendly reports and dashboards",
+            "Ability to clearly articulate complex or technical ideas and solutions to a broad audience",
+            "Experience working with and/or developing in Microsoft Power Automate",
+            "Excellent written and spoken communication skills and the ability to interact effectively with business unit leadership",
+            "Experience with programming languages such as SQL or Python"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Analyst actively contributes to Inspirato’s Business Intelligence & Analytics function by developing, enhancing, and maintaining data queries, models, reports, dashboards, and analytics",
+            "The role collaborates with business partners and customers, advocates for data-driven decision-making, and helps advance the company’s business intelligence culture",
+            "The position focuses primarily on reporting and analytics, including developing Power BI reports and dashboards, authoring DAX measures, and performing data integration, ETL, and data-model development",
+            "It also engages business stakeholders to identify reporting opportunities, prepare data for integration, promote data-management best practices, and address data defects",
+            "The analyst is expected to continue developing BI skills and contribute expertise to special projects as needed",
+            "The role performs routine work within established policies and procedures, receives detailed instructions on new projects and assignments, and makes decisions within its area of responsibility",
+            "It also helps ensure company policies and procedures are followed",
+            "Develop, enhance, and maintain reports, dashboards, and analytics in Power BI",
+            "Conceive and author DAX measures to support meaningful calculations and insights",
+            "Perform data integration, ETL, and data-model development and enhancement",
+            "Work with I.T., Data Architecture teams, and contracted resources to deliver business intelligence to stakeholders",
+            "Engage stakeholders across business functions to identify opportunities for analytics and reporting enhancements",
+            "Identify data sources and help prepare data for integration",
+            "Encourage a data-driven culture by promoting data-management best practices and BI adoption throughout the organization",
+            "Communicate observed data defects and work with the business to remedy them",
+            "Develop knowledge of Power BI, DAX, Power Query, and other BI and analytics tools through self-directed learning, training, user groups, or professional organizations",
+            "Stay up to date on Power BI and Microsoft Power Platform functionality and developments",
+            "Contribute business intelligence and analytics expertise to special assignments and projects as required"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=3_5h2pjKDK32xUyhAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3KsQrCMBAAUFy7uzjd5CCYiOCik3WQ-hMljUcaOe9C7oT6J36u1eVNr_ksmvbMgd5qsIX2pZlRFTo2JMoJOSKs4T8sR53PTQZQDDWOIAxXkUS4Oo1mRY_eq5JLamHOLsrTC-Mgk3_IoD96HUPFQsGw3x92kyucNsuOteQaTCAzXISkhrt8AZqJqzybAAAA&shmds=v1_Ac3VAowQa_4ewDqTKV4S-PSjqoCSnYRGAlLSsSBtOCvwsl4Xag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=3_5h2pjKDK32xUyhAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "92K–100K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.tealhq.com/job/analyst-business-intelligence-analytics_7ea1a53e41173cb6f231d29d4bd37eeee59a4",
+      "job_title": "Analyst - Business Intelligence & Analytics",
+      "description": "About the position\n\nThe Analyst actively contributes to Inspirato’s Business Intelligence & Analytics function by developing, enhancing, and maintaining data queries, models, reports, dashboards, and analytics. The role collaborates with business partners and customers, advocates for data-driven decision-making, and helps advance the company’s business intelligence culture.\\n\\nThe position focuses primarily on reporting and analytics, including developing Power BI reports and dashboards, authoring DAX measures, and performing data integration, ETL, and data-model development. It also engages business stakeholders to identify reporting opportunities, prepare data for integration, promote data-management best practices, and address data defects. The analyst is expected to continue developing BI skills and contribute expertise to special projects as needed.\\n\\nThe role performs routine work within established policies and procedures, receives detailed instructions on new projects and assignments, and makes decisions within its area of responsibility. It also helps ensure company policies and procedures are followed. The position may be based in Denver, Colorado, or remotely.\n\nResponsibilities\n\nDevelop, enhance, and maintain reports, dashboards, and analytics in Power BI.Conceive and author DAX measures to support meaningful calculations and insights.Perform data integration, ETL, and data-model development and enhancement.Work with I.T., Data Architecture teams, and contracted resources to deliver business intelligence to stakeholders.Engage stakeholders across business functions to identify opportunities for analytics and reporting enhancements.Identify data sources and help prepare data for integration.Encourage a data-driven culture by promoting data-management best practices and BI adoption throughout the organization.Communicate observed data defects and work with the business to remedy them.Develop knowledge of Power BI, DAX, Power Query, and other BI and analytics tools through self-directed learning, training, user groups, or professional organizations.Stay up to date on Power BI and Microsoft Power Platform functionality and developments.Contribute business intelligence and analytics expertise to special assignments and projects as required.Requirements\n\nTwo to three years of previous experience in the same or a related field.Bachelor’s degree or equivalent experience.Knowledge of Microsoft Power BI, including proficiency in the DAX formula language.Ability to develop ETL processes using Power Query and working knowledge of the M query language.Experience creating dimensional data models, including star and snowflake schemas.Proven experience using data visualization techniques to create meaningful reports and dashboards.Ability to translate business requirements into elegant, user-friendly reports and dashboards.Ability to clearly articulate complex or technical ideas and solutions to a broad audience.Nice-to-haves\n\nExperience working with and/or developing in Microsoft Power Automate.Excellent written and spoken communication skills and the ability to interact effectively with business unit leadership.Experience with programming languages such as SQL or Python.",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/analyst-business-intelligence-analytics_7ea1a53e41173cb6f231d29d4bd37eeee59a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/analyst-business-intelligence-analytics--colorado--e72e6f9bfb0171806589dac6edcdf7e2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-co-colorado-manager-marketing-intelligence-analytics-murdoch-s?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4111-e44cfc7aa3ad2a44d5e51866c429ff1c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFseXN0IC0gQnVzaW5lc3MgSW50ZWxsaWdlbmNlIFx1MDAyNiBBbmFseXRpY3MiLCJjb21wYW55X25hbWUiOiJJbnNwaXJhdG8iLCJodGlkb2NpZCI6IjNfNWgycGpLREszMnhVeWhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZWGc0UVc5c1ZIZHZVWGxGVFVKQ2JtdEdha2xTVFV4dlVUaDZiSFEyTjBkSWRXVlVhMVJQYTNWcFN6TnZTM05RZURKS2RtWnhTa2RHYW5kc1JraE5UMGRQUW0xQlpsSk1VRkJmVm5aa2RuSTFMVjlhT1dZeVIycExjbFZ6WTI1Qk9YUlFiblJOTlRWQldtMXZZV0l5Vm5SSlZVUmhNMDVzY3pSTWRGVTVOV2xhTWtsV2VHOFNGMWhCYW14aGNFUTJUbkJ4Ym5GMGMxQXljVzV5YjBGVkdpSkJTRTR3UlRkR1oyMXdOV3h5VUhsa1kzWnhXbXN3ZDJVeGFWRnNPWGxIYkY5QiIsImZjdiI6IjMiLCJmY19pZCI6IjNfNWgycGpLREszMnhVeWhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company_name": "Enterprise Bank & Trust",
+      "location": "Anywhere",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Strong IT capabilities and experience with sales, customer, CRM, reporting and financial data",
+            "Strong analytical and technical problem solving skills with a willingness to learn new technologies",
+            "Self-motivated team player",
+            "Strong interpersonal and communication skills, both verbal and written",
+            "Excellent analytical skills, attention detail & investigative skills",
+            "Able to multitask, prioritize, manage time and problem solve",
+            "Able to adapt to change while working in a regulated environment",
+            "Bachelor's degree required",
+            "MBA or master's degree is helpful but not required",
+            "5+ years' experience in report planning process, forecasting, data analysis, CRM",
+            "Experience with working with sales teams",
+            "Computer and Software Skills:",
+            "Strong experience utilizing Microsoft Power BI including ETL (Extract, Transform, Load) operations using Power Query",
+            "Google Suite and Microsoft Office",
+            "Experience with Salesforce.com, or similar CRM system",
+            "Proficient in Microsoft Excel - ability to run, review, create and analyze reports and models",
+            "Foundational SQL proficiency required"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Sales Analyst provides valuable analysis and actionable insights that will be used to develop plans to help drive sales efficiency, revenue growth and client loyalty",
+            "The position is responsible for analyzing quantitative and qualitative sales and marketing data to identify trends, understand market and competitive dynamics",
+            "The role regularly presents/recommends actions to the product, sales, and marketing teams to capitalize on business opportunities",
+            "The position helps to optimize processes, manage data integrity, develop measurable KPI metrics and promote selling opportunities",
+            "Building strong relationships and acting as a trusted advisor with assigned team(s), mainly product, marketing, sales, IT, credit and HR",
+            "Leverage internal and external data sources to identify and develop account targeting plans that provide teams with clear, specific customer and prospect targets by product category/segment/market",
+            "Develop ideal customer profiles and playbooks that identify campaign opportunities and strategies to capitalize on them",
+            "Partner with key stakeholders to understand business objectives and translate them into date driven reporting solutions",
+            "Identify bottlenecks in the sales cycle and workflows to help increase pipeline velocity",
+            "Analyze product, competitive, channel and customer dynamics to uncover insights and recommend actions to guide business performance",
+            "Explore, source, and recommend third-party data acquisition to assist the marketing and sales teams with market analytics, business case development, prospect identification and other opportunities",
+            "Use PowerBI to develop and maintain reports and dashboards for sales and sales support teams",
+            "Utilize Customer Relationship Management (CRM) system and other tools to manage and analyze customer information",
+            "Identify opportunities to improve customer and prospect data collection via the CRM system",
+            "Clear communication of information and actionable insights to cross-functional internal stakeholders",
+            "Support other marketing and sales enablement efforts and projects as needed",
+            "Analyze client feedback as it relates to the bank's products and services and make recommendations for improvements",
+            "Participate in company-wide data governance efforts to build and maintain a healthy data environment",
+            "Perform other duties and special projects as assigned"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=4VT6WVPM_6r0fhumAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43CYomIrroZEFEQYfiXtJwJNF4F3Ip1J_xW63LW1_1nVTbupdAKAIXKhhjcEgW4UgmfqTACq7cgaDJ1gMTnJldxOnBl5Jkr7VIVE6KKcEqy2_NhB0P-smd_GnFm4wpmoLtZrceVCK3mJ_GKaccBKE29IIZPHI_ZoGgCQyNIet5CffbD6tl4T-hAAAA&shmds=v1_Ac3VAozIF1lbbBvPozAaDi9Ny1wmr9M-i8lKI3NtxG6RsarvGA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=4VT6WVPM_6r0fhumAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "90K–120K a year",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://www.jobleads.com/us/job/business-intelligence-analyst--rio-rancho--ead638fb9a09f85e11517d30b49ddc2e9",
+      "job_title": "Business Intelligence Analyst",
+      "description": "Job Title:Sales Analyst (Remote Eligible - MO, KS, AZ, NM, NV)\n\nJob Description:SummaryThe Sales Analyst provides valuable analysis and actionable insights that will be used to develop plans to help drive sales efficiency, revenue growth and client loyalty. The position is responsible for analyzing quantitative and qualitative sales and marketing data to identify trends, understand market and competitive dynamics. The role regularly presents/recommends actions to the product, sales, and marketing teams to capitalize on business opportunities. The position helps to optimize processes, manage data integrity, develop measurable KPI metrics and promote selling opportunities.\n\nEssential Duties and Responsibilities:Building strong relationships and acting as a trusted advisor with assigned team(s), mainly product, marketing, sales, IT, credit and HR.Leverage internal and external data sources to identify and develop account targeting plans that provide teams with clear, specific customer and prospect targets by product category/segment/market.Develop ideal customer profiles and playbooks that identify campaign opportunities and strategies to capitalize on them.Partner with key stakeholders to understand business objectives and translate them into date driven reporting solutions.Identify bottlenecks in the sales cycle and workflows to help increase pipeline velocity.Analyze product, competitive, channel and customer dynamics to uncover insights and recommend actions to guide business performance.Explore, source, and recommend third-party data acquisition to assist the marketing and sales teams with market analytics, business case development, prospect identification and other opportunities.Use PowerBI to develop and maintain reports and dashboards for sales and sales support teams.Utilize Customer Relationship Management (CRM) system and other tools to manage and analyze customer information.Identify opportunities to improve customer and prospect data collection via the CRM system.Clear communication of information and actionable insights to cross-functional internal stakeholders.Support other marketing and sales enablement efforts and projects as needed.Analyze client feedback as it relates to the bank's products and services and make recommendations for improvements.Participate in company-wide data governance efforts to build and maintain a healthy data environment.Perform other duties and special projects as assigned.Qualifications:Strong IT capabilities and experience with sales, customer, CRM, reporting and financial data.Strong analytical and technical problem solving skills with a willingness to learn new technologies.Self-motivated team player.Strong interpersonal and communication skills, both verbal and written.Excellent analytical skills, attention detail & investigative skills.Able to multitask, prioritize, manage time and problem solve.Able to adapt to change while working in a regulated environment.Education and/or Experience:Bachelor's degree required. Concentration in business, analytics, or similar are preferred. MBA or master's degree is helpful but not required.5+ years' experience in report planning process, forecasting, data analysis, CRM.Experience with working with sales teams.Computer and Software Skills:Strong experience utilizing Microsoft Power BI including ETL (Extract, Transform, Load) operations using Power Query.Google Suite and Microsoft Office.Experience with Salesforce.com, or similar CRM system.Proficient in Microsoft Excel - ability to run, review, create and analyze reports and models.Foundational SQL proficiency required.Certificates, Licenses and Registrations:* Power BI Data Analyst certification or equivalent strongly desired.\n\nEqual Opportunity Statement:Enterprise Bank & Trust is committed to helping individuals with disabilities participate in the workforce and ensuring equal opportunity to apply and compete for jobs. If you need an accommodation in order to apply for a position at Enterprise Bank & Trust please contact Human Resources athr@enterprisebank.com.\n\nEnterprise Bank & Trust is committed to managing our business and community relationships in ways that positively impact our associates, clients, and the diverse communities where we work and live. We are proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected category under applicable federal, state, and local laws. All employment offers are contingent upon the applicant successfully completing both drug and background check screenings.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/business-intelligence-analyst--rio-rancho--ead638fb9a09f85e11517d30b49ddc2e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Diversity Jobs",
+          "link": "https://diversityjobs.com/career/18646997/Business-Intelligence-Analyst-New-Mexico-Rio-Rancho?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/business-intelligence-analyst/remote/business-intelligence-analyst-e660b4cb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SaluteMyJob",
+          "link": "https://salutemyjob.com/jobs/business-intelligence-analyst-rio-rancho-new-mexico/3036333354-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs For Stevenage Fans",
+          "link": "https://jobs.stevenagefc.com/jobs/business-intelligence-analyst-rio-rancho-new-mexico/3036333354-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/30150a61-c605-469a-8394-8ed143090f37?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FOX8 Jobs",
+          "link": "https://jobs.fox8.com/jobs/business-intelligence-analyst-rio-rancho-new-mexico/3036333354-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Vacancies For Col U Fans",
+          "link": "https://vacancies.cu-fc.com/jobs/business-intelligence-analyst-rio-rancho-new-mexico/3036333354-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkVudGVycHJpc2UgQmFuayBcdTAwMjYgVHJ1c3QiLCJodGlkb2NpZCI6IjRWVDZXVlBNXzZyMGZodW1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZa2xaWXpWc2NHNHRiSE01WkZGdExWWnpVWGs0ZEZoa00zaFNWV0k0VG1kc1dGSjRkMlpqVTI5RlZtbFRjR1JtVXpsakxURmhSSEJIYTJWTFpqVlVRa3R6V0dOc1JYVk1WRk15UlhBNGFISnRNbXBzYTFsSFVEWnphRUUwVG5seWJsSk9abVZxWTNKSVVVSmxWRVZKTTBOWFgyUnVOazFrTTJoU1psTmpURVJmUVdsdlZtUVNGMWhCYW14aGNFUTJUbkJ4Ym5GMGMxQXljVzV5YjBGVkdpSkJTRTR3UlRkSE9WbFlZbTFpYUhjM0xXNVpVMlJRVTJ0UE0zYzRlbUZGVVZObiIsImZjdiI6IjMiLCJmY19pZCI6IjRWVDZXVlBNXzZyMGZodW1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Business Intelligence Analyst, Google Global Infrastructure, Strategy and Operations",
+      "company_name": "Google",
+      "location": "Thornton, CO",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree or equivalent practical experience",
+            "7 years of experience in data modeling, developing data sets, or creating data visualizations",
+            "Experience using BI tools like Looker, Tableau, or Power BI to create visualizations and dashboards",
+            "Experience writing SQL queries"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Individual pay is determined by factors including job-related skills, experience, and relevant education or training",
+            "US: $141000 - $205000 (USD) + 15% bonus target + equity + benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Your team will be responsible for the strategy, operations, technology roadmap, delivery, and optimization for Google’s global footprint of data centers, energy and network infrastructure, across design, power, space, and fleet-wide demand planning",
+            "As a BI Analyst, you deliver complete components of business intelligence solutions that integrate into overarching, high-impact projects",
+            "You demonstrate working knowledge of BI tools, data architectures, and methodologies to design dashboards and maintain scalable data pipelines",
+            "You develop solutions for ambiguous business problems, improve existing analytics infrastructure, and translate metrics into formats that enable supported teams to quickly derive relevant information",
+            "Additionally, you actively adopt and leverage AI tools to accelerate data pipelines, script generation, and analytical workflows",
+            "Design and deploy end-to-end business intelligence solutions, including interactive dashboards and reporting tools",
+            "Develop and maintain robust, scalable data models and automated Extract, Transform, and Load (ETL) pipelines ensuring high-performance and accessibility",
+            "Validate, curate, and audit metrics/schemas across systems to guarantee data integrity, consistency, and alignment with organizational Key Performance Indicator (KPIs)",
+            "Translate complex data and analysis into clear, digestible narratives, standard reports, and self-serve visualizations (e.g., using Plx, Looker, SQL) for business stakeholders",
+            "Serve as an \"AI Explorer,\" continuously identifying opportunities to inject Generative AI (GenAI) agents and Large Language Model (LLM) tools into daily workflows to optimize code drafting, generate automated technical documentation, and rapidly prototype data schemas"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=7ipr7f-gOuxK8EpNAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQrCQBBFsc0BLKymlpiIYKOVWgRtUmgvm3XcRNeZZWcCyfU8mSuk-fDg8fjZd5a9j710hCJwJkXvO4dkEQ5k_CiaQ8XsPELluTE-Oc9oRGNvtY-Yw1WjUXQjGHpAHTBRxySwggs3IGiibYFpqiz2rWqQXVmK-MKJJtsWlj8lEzY8lC9u5D93aU3E4FP7vtmuhyKQW86nKx3BreVIypTDqf4BKcEu8sUAAAA&shmds=v1_Ac3VAowGqbuAaQHTDLwfnZi1PuIEsQz38yx1S1ryEu4msJNKVw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=7ipr7f-gOuxK8EpNAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5085cea58e855de72d997/images/kMcV9szQU_XCqfZsufHevq9lzI6cQianDMi47ivE61g.jpeg",
+      "extensions": [
+        "141K–205K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=6b3e55296134238f",
+      "job_title": "Business Intelligence Analyst, Google Global Infrastructure, Strategy and Operations",
+      "description": "The application window will be open until at least October 12, 2026. This opportunity will remain online based on business needs which may be before or after the specified date. \n \n\n  Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Austin, TX, USA; Atlanta, GA, USA; Addison, TX, USA; Thornton, CO, USA. \n  Minimum qualifications:\n \n  Bachelor's degree or equivalent practical experience.\n\n  7 years of experience in data modeling, developing data sets, or creating data visualizations.\n  Experience using BI tools like Looker, Tableau, or Power BI to create visualizations and dashboards.\n  Experience writing SQL queries.\n \n \n\n  Preferred qualifications:\n \n  Experience building and maintaining automated ETL/ELT pipelines, backend data models, and navigating ambiguous datasets.\n  Experience using SQL and BI visualization platforms to drive data-driven decision-making.\n  Experience with OLAP cubes or multi-dimensional modeling (e.g., defining dimensions, measures, and star schemas for reporting).\n  Experience using GenAI/LLM tools to accelerate reporting, automate manual tracking, or streamline code production.\n  Experience synthesizing complex technical insights for non-technical leadership.\n \n \n  About the job As a part of the Google Global Infrastructure (GGI) team, you will oversee the physical infrastructure powering and connecting all of Google’s consumer services, AI services, and Cloud services globally. Your team will be responsible for the strategy, operations, technology roadmap, delivery, and optimization for Google’s global footprint of data centers, energy and network infrastructure, across design, power, space, and fleet-wide demand planning. \n  \n\n  \n\n   As a BI Analyst, you deliver complete components of business intelligence solutions that integrate into overarching, high-impact projects. You demonstrate working knowledge of BI tools, data architectures, and methodologies to design dashboards and maintain scalable data pipelines. You develop solutions for ambiguous business problems, improve existing analytics infrastructure, and translate metrics into formats that enable supported teams to quickly derive relevant information. Additionally, you actively adopt and leverage AI tools to accelerate data pipelines, script generation, and analytical workflows.The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide. \n  \n\n  \n\n   We're behind Google's groundbreaking innovations, empowering the development of AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. \n  \n\n  \n\n   US: $141000 - $205000 (USD) + 15% bonus target + equity + benefits \n  \n\n  \n\n   Learn more about benefits at Google.\n \n \n   Responsibilities\n  \n   Design and deploy end-to-end business intelligence solutions, including interactive dashboards and reporting tools.\n   Develop and maintain robust, scalable data models and automated Extract, Transform, and Load (ETL) pipelines ensuring high-performance and accessibility.\n   Validate, curate, and audit metrics/schemas across systems to guarantee data integrity, consistency, and alignment with organizational Key Performance Indicator (KPIs).\n   Translate complex data and analysis into clear, digestible narratives, standard reports, and self-serve visualizations (e.g., using Plx, Looker, SQL) for business stakeholders.\n   Serve as an \"AI Explorer,\" continuously identifying opportunities to inject Generative AI (GenAI) agents and Large Language Model (LLM) tools into daily workflows to optimize code drafting, generate automated technical documentation, and rapidly prototype data schemas.\n  \n Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=6b3e55296134238f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/business-intelligence-analyst-google-global-infrastructure-strategy-and-operations-thornton-co--ff252b6b-d605-4312-833d-e1844408db90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/3wwgM9PUFXnhNOo904_d4P__sbfHe3qWFTglhRHHIPc_B_nxcK9W4A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/business-intelligence-analyst-google-global-infrastructure-strategy-and-operations--thornton--ee1b8e76aec88a8b0c40e40a19eb86c83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-google-global-infrastructure-strategy-and-operations-at-google-4471502893?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/3894343605380186112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/business-intelligence-analyst-google-global-infrastructure-strategy-and-operations-google-thornton--techmap_us_72D95FB13D804C719991F4800DDFDA34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olive Jobs",
+          "link": "https://www.olive.jobs/job/pst_8888bcdde35d476e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCwgR29vZ2xlIEdsb2JhbCBJbmZyYXN0cnVjdHVyZSwgU3RyYXRlZ3kgYW5kIE9wZXJhdGlvbnMiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJodGlkb2NpZCI6IjdpcHI3Zi1nT3V4SzhFcE5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZblZ6ZG01amRubGpTSFZVZGxReFJITjFhVFpGWTBwa2FqSklSV2xaVXkxQ2JWOXVkV1ZFU0haUGVsUlZTRUZXVWxWa0xWbzVjVnA0TXpSbWFtbzVaVVZZYUhSSmNHZExORXBXZFVwSmRGQlhPVnBYVUVoNVVrdFZUMnBUYXpSaE4wcG1UMnRhT0VzdE0yUlBhekZzZW1GTWVHcHFXbUpVYjJKeFozTmtWVXAzZHpCSU0wTVNGMWhCYW14aGNFUTJUbkJ4Ym5GMGMxQXljVzV5YjBGVkdpSkJTRTR3UlRkSE9HWnJZMHQxT0hkV016RnVXRWg2WTI5RFExQkRTRkJyTTBWQiIsImZjdiI6IjMiLCJmY19pZCI6IjdpcHI3Zi1nT3V4SzhFcE5BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Business Intelligence Analyst - Enterprise Analytics",
+      "company_name": "Great American Insurance Group",
+      "location": "Anywhere",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Applicants must be authorized to work in the United States without the need for current or future sponsorship",
+            "Education: Bachelor's degree in Business, Information Technology, Computer Science or a related field",
+            "Experience: 4 or more years of advanced experience in business analysis, analytics development, business intelligence, data modeling, product delivery, or a related discipline, with demonstrated success translating complex business needs into analytic products that influence decisions and deliver measurable outcomes",
+            "Experience designing or maintaining BI applications, analytic products, or semantic models is required",
+            "Demonstrates advanced analytical, communication, facilitation, and executive presentation skills"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "$90,000.00 -$115,000.00",
+            "We offer competitive benefits packages for full-time and part-time employees*",
+            "Full-time employees have access to medical, dental, and vision coverage, wellness plans, parental leave, adoption assistance, and tuition reimbursement",
+            "Full-time and eligible part-time employees also enjoy Paid Time Off and paid holidays, a 401(k) plan with company match, an employee stock purchase plan, and commuter benefits",
+            "Compensation varies by role, level, and location and is influenced by skills, experience, and business needs"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Analyzes complex business issues and translates business questions, decisions, and terminology into requirements for trusted analytic products that improve decision-making and measurable business outcomes, supported by reusable semantic models and AI-assisted capabilities",
+            "Partners with business stakeholders, data owners, analytics professionals, product managers, and cross-functional product teams to define the business concepts, measures, relationships, rules, and requirements that give analytic products consistent meaning across reports, dashboards, and AI-assisted experiences",
+            "Designs, develops, tests, and maintains reusable semantic models as core components of analytic products, organizing business entities, measures, relationships, definitions, and access rules for reporting, self-service analytics, and agent-assisted use cases",
+            "Creates and maintains the business-friendly metadata, data definitions, lineage, model diagrams, and usage guidance needed for people and AI-enabled tools to interpret and use analytic products consistently",
+            "Develops end-user guidance and training that support adoption and effective use of analytic products",
+            "Manages the analytic product lifecycle by defining success measures with business partners; monitoring adoption, quality, performance, and business impact; evaluating priority questions, expected answers, failure patterns, and escalation criteria for AI-assisted experiences; and refining products and supporting semantic models as needs, data, and AI capabilities evolve",
+            "Advises business stakeholders on analytics and AI-assisted use cases, helping teams frame meaningful questions, interpret results, improve data literacy, and determine when human review is required",
+            "Partners with product managers and business leaders to prioritize opportunities, manage dependencies and risks, influence decisions, and communicate product value to executive stakeholders so analytic products are delivered incrementally and achieve intended business outcomes",
+            "May have responsibility for performance and coaching of staff and may have a participatory role in decisions regarding talent selection, development, and performance management for direct reports",
+            "Performs other duties as assigned",
+            "Translates business and technology knowledge into clear product direction, governed definitions, measures, relationships, rules, and solution guidance",
+            "Recommends effective practices and tools for product discovery, business analysis, semantic modeling, AI evaluation, testing, and documentation",
+            "May serve as a senior member of an agile product team and provides technical and professional guidance to less experienced team members",
+            "Uses AI-assisted tools effectively, validates outputs and failure conditions, protects sensitive information, communicates limitations, and maintains human accountability for business decisions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=5bb7DMf3oVC5pQNJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQoCMRBFsfUIVlMLbkSw0UpBFi1drCUbh2wkOxNmZkGv58mMYPOLx-fx5p_Z_NohJRY4TpoIVeFMhjmniBQQDuTzWw1WcKpYiiT9Q0tBK75wD4pewgBM0DLHjIv9YFZ055xqbqKar-cm8OiYsOeXe3Kvv7nr4AVL9ob3zXb9agrFpWsFvcFhREnBU-3RSfwvphWeCiSCGyXDB3RVjPoFWW_q58UAAAA&shmds=v1_Ac3VAozZvoqREbS79VxtjbwNbyl0A8Dl0LjuWYlggdqgzDVyDA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=5bb7DMf3oVC5pQNJAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5085cea58e855de72d997/images/wIggroMTJinq39qxclQYrCrOWNxB30-seatgQH8EM8Q.jpeg",
+      "extensions": [
+        "28 days ago",
+        "Work from home",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/great-american-insurance/Job/Senior-Business-Intelligence-Analyst-Enterprise-Analytics/-in-Remote,US?jid=21f42dac5eeff229",
+      "job_title": "Senior Business Intelligence Analyst - Enterprise Analytics",
+      "description": "Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries of American Financial Group. We combine a \"small company\" culture where your ideas will be heard with \"big company\" expertise to help you succeed. With over 30 specialty and property and casualty operations, there are always opportunities here to learn and grow.\n\n\n\n\nAt Great American, we value and recognize the benefits derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees feel included, empowered, and enabled to perform at their best.\n\n\n\n\nThis position is not eligible for employment visa sponsorship. Applicants must be authorized to work in the United States without the need for current or future sponsorship.\n\n\n\n\nBusiness Data & Analytics is a Corporate Shared Service comprised of the existing data and analytics resources in Predictive Analytics, Enterprise Data Management, Enterprise Analytics, Enterprise Telematics, and Business Transformation.\n\n\n\n\nCombining these units into one business technology and business data & analytics organization, provides a clearer line of sight across the P&C division for business decision-making and input to data and analytics investments; while better empowering, enabling and equipping our division-specific analytics teams the ability to outperform their peers.\n\n\n\n\nThe Enterprise Analytics team is looking for a Senior Business Intelligence Analyst! Remote applicants who are qualified will be considered. Local candidates to Cincinnati, OH will work on a hybrid schedule. \n\n\n\nEssential Job Functions and Responsibilities\n\n\n\n Analyzes complex business issues and translates business questions, decisions, and terminology into requirements for trusted analytic products that improve decision-making and measurable business outcomes, supported by reusable semantic models and AI-assisted capabilities.\n Partners with business stakeholders, data owners, analytics professionals, product managers, and cross-functional product teams to define the business concepts, measures, relationships, rules, and requirements that give analytic products consistent meaning across reports, dashboards, and AI-assisted experiences.\n Designs, develops, tests, and maintains reusable semantic models as core components of analytic products, organizing business entities, measures, relationships, definitions, and access rules for reporting, self-service analytics, and agent-assisted use cases.\n Creates and maintains the business-friendly metadata, data definitions, lineage, model diagrams, and usage guidance needed for people and AI-enabled tools to interpret and use analytic products consistently.\n Develops end-user guidance and training that support adoption and effective use of analytic products.\n Manages the analytic product lifecycle by defining success measures with business partners; monitoring adoption, quality, performance, and business impact; evaluating priority questions, expected answers, failure patterns, and escalation criteria for AI-assisted experiences; and refining products and supporting semantic models as needs, data, and AI capabilities evolve.\n Advises business stakeholders on analytics and AI-assisted use cases, helping teams frame meaningful questions, interpret results, improve data literacy, and determine when human review is required.\n Partners with product managers and business leaders to prioritize opportunities, manage dependencies and risks, influence decisions, and communicate product value to executive stakeholders so analytic products are delivered incrementally and achieve intended business outcomes.\n May have responsibility for performance and coaching of staff and may have a participatory role in decisions regarding talent selection, development, and performance management for direct reports.\n Performs other duties as assigned.\n\n\n\n\nJob Requirements\n\n\n\n Education: Bachelor's degree in Business, Information Technology, Computer Science or a related field.\n Experience: 4 or more years of advanced experience in business analysis, analytics development, business intelligence, data modeling, product delivery, or a related discipline, with demonstrated success translating complex business needs into analytic products that influence decisions and deliver measurable outcomes. Experience designing or maintaining BI applications, analytic products, or semantic models is required. Practical experience using AI-assisted tools to improve analysis, development, documentation, evaluation, or testing is preferred; machine-learning model development is not required.\n Scope of Job/Qualifications: Serves as a senior contributor on complex analytic products, combining business judgment, product thinking, and advanced analytics practices to shape priorities and influence senior and executive stakeholders. Translates business and technology knowledge into clear product direction, governed definitions, measures, relationships, rules, and solution guidance. Recommends effective practices and tools for product discovery, business analysis, semantic modeling, AI evaluation, testing, and documentation. May serve as a senior member of an agile product team and provides technical and professional guidance to less experienced team members. Uses AI-assisted tools effectively, validates outputs and failure conditions, protects sensitive information, communicates limitations, and maintains human accountability for business decisions. Demonstrates advanced analytical, communication, facilitation, and executive presentation skills.\n\n\n\n\nBusiness Unit:\n\n\nBusiness Data and Analytics\n\n\n\nSalary Range:\n\n\n$90,000.00 -$115,000.00\n\n\n\nBenefits:\n\n\n\n\nWe offer competitive benefits packages for full-time and part-time employees*. Full-time employees have access to medical, dental, and vision coverage, wellness plans, parental leave, adoption assistance, and tuition reimbursement. Full-time and eligible part-time employees also enjoy Paid Time Off and paid holidays, a 401(k) plan with company match, an employee stock purchase plan, and commuter benefits.\n\n\n\n\nCompensation varies by role, level, and location and is influenced by skills, experience, and business needs. Your recruiter will provide details about benefits and specific compensation ranges during the hiring process. Learn more at http://www.gaig.com/careers.\n\n\n\n*Excludes seasonal employees and interns.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/great-american-insurance/Job/Senior-Business-Intelligence-Analyst-Enterprise-Analytics/-in-Remote,US?jid=21f42dac5eeff229&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/senior-business-intelligence-analyst-product-analytics-waltham-ma--4e326586-8b61-4f53-9cc5-28d41e85d8f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Senior-Business-Intelligence-Analyst---Enterprise-Analytics_R9559?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6aa69d7a930bff471a2a26f5?visit=business-functional-analyst-jobs-in-pennsylvania,-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/growth-analytics-senior-business-intelligence-analyst-me--dd7cbd1f-ecdb-4f3e-9dae-b88cf16b5e00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/cvs-health/job/senior-analyst-business-analytics-5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/senior-financial-analyst-target-analytics-job-driving-business-success-in-a-dynamic-retail-environment?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hireloom",
+          "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/remote-senior-business-analyst-commercial-pharma-analytics-reporting-in-nj-remote-with-client-visits-5965dd34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIEFuYWx5c3QgLSBFbnRlcnByaXNlIEFuYWx5dGljcyIsImNvbXBhbnlfbmFtZSI6IkdyZWF0IEFtZXJpY2FuIEluc3VyYW5jZSBHcm91cCIsImh0aWRvY2lkIjoiNWJiN0RNZjNvVkM1cFFOSkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdXdFdkbmh4VkRrMlJWWnlRa0p0Y1d4Mk5GWlFZMVZ6Tm1GRGNrTmhXVGxOTkZocFdGUjNMV2hOTmkxS2VsUmpOMGRWYkdoelJqWTJSMDV5VEhWQlVWUjFja2xVVEVGb016VTNOa293UnpOaGJUaHdkbGhwYlVoUVZHWmxOSEpzTm1obFZrWnFTMEZEVDFsaFpUaFZjMFphTld4elpsUjNiVEpXWTFNdFZVczNWbmhVWlVjU0YxaEJhbXhoY0VRMlRuQnhibkYwYzFBeWNXNXliMEZWR2lKQlNFNHdSVGRIVFhWNVNsZHpOR3BPZFZOdmFsUTRRVFJQWVRWc2RtNXdaM1ZCIiwiZmN2IjoiMyIsImZjX2lkIjoiNWJiN0RNZjNvVkM1cFFOSkFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company_name": "Compassion International",
+      "location": "Anywhere",
+      "via": "Teal",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in a related field",
+            "10+ years of relevant experience in business intelligence, analytics, data management, information systems, AI, machine learning, or a related discipline",
+            "Experience working with complex datasets, data repositories, reporting tools, business intelligence solutions, and AI-powered technologies",
+            "Strong understanding of data architecture, enterprise systems, and how data flows across an organization",
+            "Demonstrated experience evaluating and validating AI solutions, including assessing accuracy, hallucinations, bias, fairness, consistency, drift, and overall performance",
+            "Technical proficiency with APIs, Python, and modern data and AI platforms",
+            "Proven ability to identify, implement, and optimize data-driven, technology-enabled, and AI-powered solutions that improve business processes and decision-making",
+            "Excellent communication skills, including the ability to explain complex technical concepts in clear, business-friendly language",
+            "Ability to work independently, build trusted partnerships, and collaborate effectively across technical and business teams to influence outcomes",
+            "Keeps current with emerging AI trends, technologies, and industry best practices",
+            "Passion for mission-driven work and commitment to using technology responsibly to support and protect children",
+            "Commitment to Compassion’s Christian mission, child-protection expectations, and Code of Conduct",
+            "Experience with Snowflake, Tableau, ServiceNow, or similar enterprise technology platforms",
+            "Background in enterprise architecture, systems development, application development, or other technical disciplines",
+            "Experience comparing, testing, and implementing AI models, generative AI tools, or large language model (LLM) solutions",
+            "Experience supporting governance, risk, audit, compliance, or corporate support functions"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The expected salary range is \\$106,400.00–\\$127,511.00",
+            "Employees in certain high-cost labor locations in the United States, such as San Francisco and Seattle, may qualify for a geographic differential",
+            "Generous paid time off",
+            "10% contribution to a 403(b) retirement fund on top of salary",
+            "Excellent healthcare coverage",
+            "Free short-term professional counseling",
+            "Regular chapel services, prayer groups, and department devotionals"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Senior Business Intelligence Analyst, you will serve as a strategic partner to Governance, Risk & Assurance (GRA) and the broader General Counsel Strategy Office (GCSO), helping teams across the organization transform data into actionable insights and better business decisions",
+            "You will build a deep understanding of Compassion's data landscape, systems, and business processes, using business intelligence, analytics, and emerging AI capabilities to identify opportunities for operational improvement, process automation, and informed decision-making",
+            "You will work hands-on with complex datasets and collaborate with stakeholders across Governance, Risk & Assurance, People & Culture, Global Security, Marketing, Global Program, IT, and enterprise data communities",
+            "This role offers an opportunity to shape how data and AI are leveraged within a growing function, helping teams move low-value work into systems and automation so they can focus on higher-impact activities",
+            "As the Operational Data Steward for GCSO, you will be a key resource for data governance, reporting, analytics, and business intelligence initiatives that support the division's strategic priorities",
+            "The role requires travel up to 10% of a normal schedule",
+            "The position also includes faith-based and child-protection responsibilities: maintaining a personal relationship with Jesus Christ, serving as a consistent witness, upholding Compassion’s ministry in prayer, advocating for children, prioritizing child protection in decision-making, following the Statement of Commitment to Child Protection and Code of Conduct, and reporting concerns of child abuse, neglect, or exploitation through internal processes",
+            "Employees are expected to uphold and engage in Compassion’s core Cultural Behaviors",
+            "Serve as the primary business intelligence and analytics partner for Governance, Risk & Assurance and the General Counsel Strategy Office",
+            "Build a deep understanding of Compassion's data ecosystem, including data sources, repositories, system relationships, and organizational data structures",
+            "Analyze complex datasets to identify trends, risks, opportunities, and actionable insights that support decision-making and strategic planning",
+            "Partner with business stakeholders to understand challenges, uncover opportunities, and recommend data-driven solutions",
+            "Design, develop, and maintain dashboards, reports, data models, and analytical tools supporting operational and strategic initiatives",
+            "Identify opportunities for automation, AI adoption, and improved use of technology across business functions",
+            "Support governance, policy administration, risk management, and audit initiatives through data analysis and business intelligence solutions",
+            "Collaborate with cross-functional partners across Global Security, People & Culture, Marketing, Global Program, IT, and other organizational teams to deliver insights and solve business problems",
+            "Participate in enterprise data and AI initiatives, including work with the AI Center of Excellence, BI Center of Excellence, and Data Opportunities Council",
+            "Translate complex technical findings into clear recommendations and presentations for leaders and stakeholders",
+            "Provide technical support and guidance related to reporting tools, databases, data structures, and business intelligence solutions",
+            "Continuously identify ways data and technology can improve organizational effectiveness and business outcomes",
+            "Serve as a trusted advisor who influences stakeholders, builds credibility, and drives adoption of data-informed practices",
+            "Maintain a personal relationship with Jesus Christ, act as a consistent witness, and faithfully uphold Compassion’s ministry in prayer",
+            "Advocate for children and prioritize child protection in decision-making; follow child-protection behavioral expectations and report concerns of abuse, neglect, or exploitation through Compassion’s internal process",
+            "Uphold and engage in Compassion’s core Cultural Behaviors"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=Aqr3R-To-L0ywTi3AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ7CMAwAxdonMHlgQqJBSCx0oh0QrDygcoOVBrl2FAep_Ian0i633V3121TNkyRqhvZjUcgM7lKIOQYST3AV5K8VOMBDBzDC7EdQgZtqYNo2YynJLs6ZcR2sYIm-9jo5FRp0dm8dbEVvI2ZKjIX60_k410nCftfplNAsLr11mmXRdRlCFOiUNeNL__-2eSKjAAAA&shmds=v1_Ac3VAoxag9Zy5oy4dPWh8-5qOMsPbqPWn_Aqbw9bKZ6rmfaJVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=Aqr3R-To-L0ywTi3AAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAAk1BMVEX///8AAADt7e1HR0fU1NTy9vqzs7PIyMh7e3vk6/MAVKXd5vDq6ur4+Pja2tp1dXWbm5vOzs5OTk4ATKIAXakAWae9vb1sbGzF1ufr8ffP3ezk5OSEhISOjo4NDQ1XV1elpaVFe7d0mMWft9auwtszcbFcib1okcIAO5wkaq+Cosq5z+O8xMw2NjYrKytgYGAgICAhJQ53AAABsElEQVQ4jcWTYXPiIBCGXzAkQQIhpyIhxqSaq62c1v//67poe53pl55+OYZhNxue3YV5Af7fkE87YP8AuJsv1PT7kYrPh92LegDEfjX3ZPSdmH5dPO+elvOluBNcHabl4vXo78SglF7MHzohjou7q+kqXcjqcCfG6zxz6xEvwqs2CCGlEMJL5VshEds2fbbkq/Ybt72aGkfE6Pdh8nGSIZkQJySrQvQhhvDtJOv81i5QmZQHlW5FBzTkUpg8/NHQ9I+mznjaqiuzBus+MpSNOfH+XDhWFLV1zFnWNbm1KPmG28blDE3PS2tY7t5GA2ZunOuB7IQZZcjAf4FOUAwGfIatQUNhijBaGZ9pmBoY7A3sxxT9AKsrqE+o8gH8YpFTY1udwLIgMCOwY1XibEEIFUqgQTUk0Ix9QyGOcwczUNa0daYJbDaEdDObFVTPbppSj5euO/ewp+6yzkfUvWOmNJtsdK5grhoK6zqWo367VtOd/rzZr0EVSe5SXON/tfgPT4dAFaQKQSlJmgitIr/9Wc2GNSSIKPckg+iV8NPeRz/JH0GuK5DWIi1panEbX62+A8DwHkIWL8+bAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "9 days ago",
+        "106,400–127,511 a year",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "source_link": "https://www.tealhq.com/job/senior-business-intelligence-analyst_7ea1a3115ff1cf7c9bda11635cd084ff76ec7",
+      "job_title": "Senior Business Intelligence Analyst",
+      "description": "About the position\n\nAs a Senior Business Intelligence Analyst, you will serve as a strategic partner to Governance, Risk & Assurance (GRA) and the broader General Counsel Strategy Office (GCSO), helping teams across the organization transform data into actionable insights and better business decisions. You will build a deep understanding of Compassion's data landscape, systems, and business processes, using business intelligence, analytics, and emerging AI capabilities to identify opportunities for operational improvement, process automation, and informed decision-making. You will work hands-on with complex datasets and collaborate with stakeholders across Governance, Risk & Assurance, People & Culture, Global Security, Marketing, Global Program, IT, and enterprise data communities.\\n\\nThis role offers an opportunity to shape how data and AI are leveraged within a growing function, helping teams move low-value work into systems and automation so they can focus on higher-impact activities. As the Operational Data Steward for GCSO, you will be a key resource for data governance, reporting, analytics, and business intelligence initiatives that support the division's strategic priorities. The role requires travel up to 10% of a normal schedule.\\n\\nThe expected salary range is \\$106,400.00–\\$127,511.00. Employees in certain high-cost labor locations in the United States, such as San Francisco and Seattle, may qualify for a geographic differential.\\n\\nThe position also includes faith-based and child-protection responsibilities: maintaining a personal relationship with Jesus Christ, serving as a consistent witness, upholding Compassion’s ministry in prayer, advocating for children, prioritizing child protection in decision-making, following the Statement of Commitment to Child Protection and Code of Conduct, and reporting concerns of child abuse, neglect, or exploitation through internal processes. Employees are expected to uphold and engage in Compassion’s core Cultural Behaviors.\n\nResponsibilities\n\nServe as the primary business intelligence and analytics partner for Governance, Risk & Assurance and the General Counsel Strategy Office.Build a deep understanding of Compassion's data ecosystem, including data sources, repositories, system relationships, and organizational data structures.Analyze complex datasets to identify trends, risks, opportunities, and actionable insights that support decision-making and strategic planning.Partner with business stakeholders to understand challenges, uncover opportunities, and recommend data-driven solutions.Design, develop, and maintain dashboards, reports, data models, and analytical tools supporting operational and strategic initiatives.Identify opportunities for automation, AI adoption, and improved use of technology across business functions.Support governance, policy administration, risk management, and audit initiatives through data analysis and business intelligence solutions.Collaborate with cross-functional partners across Global Security, People & Culture, Marketing, Global Program, IT, and other organizational teams to deliver insights and solve business problems.Participate in enterprise data and AI initiatives, including work with the AI Center of Excellence, BI Center of Excellence, and Data Opportunities Council.Translate complex technical findings into clear recommendations and presentations for leaders and stakeholders.Provide technical support and guidance related to reporting tools, databases, data structures, and business intelligence solutions.Continuously identify ways data and technology can improve organizational effectiveness and business outcomes.Serve as a trusted advisor who influences stakeholders, builds credibility, and drives adoption of data-informed practices.Maintain a personal relationship with Jesus Christ, act as a consistent witness, and faithfully uphold Compassion’s ministry in prayer.Advocate for children and prioritize child protection in decision-making; follow child-protection behavioral expectations and report concerns of abuse, neglect, or exploitation through Compassion’s internal process.Uphold and engage in Compassion’s core Cultural Behaviors.Requirements\n\nBachelor's degree in a related field.10+ years of relevant experience in business intelligence, analytics, data management, information systems, AI, machine learning, or a related discipline.Experience working with complex datasets, data repositories, reporting tools, business intelligence solutions, and AI-powered technologies.Strong understanding of data architecture, enterprise systems, and how data flows across an organization.Demonstrated experience evaluating and validating AI solutions, including assessing accuracy, hallucinations, bias, fairness, consistency, drift, and overall performance.Technical proficiency with APIs, Python, and modern data and AI platforms.Proven ability to identify, implement, and optimize data-driven, technology-enabled, and AI-powered solutions that improve business processes and decision-making.Excellent communication skills, including the ability to explain complex technical concepts in clear, business-friendly language.Ability to work independently, build trusted partnerships, and collaborate effectively across technical and business teams to influence outcomes.Keeps current with emerging AI trends, technologies, and industry best practices.Passion for mission-driven work and commitment to using technology responsibly to support and protect children.Commitment to Compassion’s Christian mission, child-protection expectations, and Code of Conduct.Nice-to-haves\n\nExperience with Snowflake, Tableau, ServiceNow, or similar enterprise technology platforms.Background in enterprise architecture, systems development, application development, or other technical disciplines.Experience comparing, testing, and implementing AI models, generative AI tools, or large language model (LLM) solutions.Experience supporting governance, risk, audit, compliance, or corporate support functions.Benefits\n\nGenerous paid time off.10% contribution to a 403(b) retirement fund on top of salary.Excellent healthcare coverage.Free short-term professional counseling.Regular chapel services, prayer groups, and department devotionals.",
+      "apply_options": [
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/senior-business-intelligence-analyst_7ea1a3115ff1cf7c9bda11635cd084ff76ec7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/senior-business-intelligence-analyst-co--c6147e58-38d5-4488-9d77-f3f820233a6d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/senior-business-intelligence-analyst-co--c6147e58-38d5-4488-9d77-f3f820233a6d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/senior-business-intelligence-analyst-compassion-international-colorado--jooble-6701704425942196771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://us.trabajo.org/job-4111-00c81ae1d977ac4b90f41611e52a74c2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJDb21wYXNzaW9uIEludGVybmF0aW9uYWwiLCJodGlkb2NpZCI6IkFxcjNSLVRvLUwweXdUaTNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZa3BCVW5aUVZrOUJjV2Q0V1RObWVrTlRRbDlUZEZaV05rVm1VR2hNU1VsWVRGTk9jVWhETnpOT1JqSTNPRWRHUlY5WWVIcFRhVmRTTVVGbWFXUkdaMmhzUlVKelVsbzJXREpPU0c5d1drRnNjM0JLYmpsTE5YTm5UWGhLYkd4TU1tUmlVVmxaTFZOblkyaENablpVYlZOdlZYQjZURFZqTTA5RmVEUkJTSGcxV214MlExWVNGMWhCYW14aGNFUTJUbkJ4Ym5GMGMxQXljVzV5YjBGVkdpSkJTRTR3UlRkSWEyaHJhVFUxUjA1UVVGVnNRWFp0ZFRocWVVaHRRMmRVTUVkUiIsImZjdiI6IjMiLCJmY19pZCI6IkFxcjNSLVRvLUwweXdUaTNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "[Remote] Principal Business Systems Analyst (Business Intelligence & Reporting)",
+      "company_name": "MKS Inc.",
+      "location": "Anywhere",
+      "via": "Jobright",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Information Systems, Engineering, Mathematics, or a related field",
+            "8+ years of progressive experience in IT, systems/data analysis, and SAP data warehouse environments",
+            "Strong understanding of data warehouse and ETL processes with ability to write SQL queries to analyze data; Experience working with SAP BW, SAP BW on HANA, SAP ECC, ORACLE or other major ERP systems",
+            "Experience working with Enterprise data warehouse platforms such as SAP BW architectures (BW 7.x, or BW on HANA, or BW/4HANA)",
+            "Proficiency with reporting and visualization tools such as SAP BusinessObjects, SAP Analytics Cloud, Power BI, or Tableau",
+            "Understanding of key business processes, including Sales & Distribution, Order-to-Cash, Procure-to-Pay, Materials Management, and Finance (FICO) within a manufacturing environment",
+            "Strong analytical, problem-solving, communication, and stakeholder management skills",
+            "Ability to work independently and handle incident resolution with limited documentation"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The role analyzes source data, identifies data gaps, and partners with business and technical teams to deliver and support high-quality BI solutions",
+            "Partnering with business stakeholders and cross-functional teams to gather, analyze, and document reporting and analytics requirements, translating business needs into functional specifications, user stories, and technical report designs",
+            "Designing, developing, testing, and implementing data and reporting solutions that support enterprise-wide business intelligence and analytics initiatives",
+            "Leading requirements definition, business process analysis, and documentation efforts, including Business Requirements Documents (BRDs) and Functional Specification Documents (FSDs), while obtaining stakeholder alignment and approval",
+            "Collaborating with project managers, architects, and technical teams to define solution roadmaps, delivery plans, and reporting strategies that align with organizational objectives",
+            "Leading testing activities, including integration testing and user acceptance testing (UAT), documenting test plans, managing issue resolution, and ensuring successful solution deployment",
+            "Serving as a subject matter expert for reporting and analytics solutions by troubleshooting data and reporting issues, validating data integrity, improving business processes, and delivering end-user training to drive adoption of BI capabilities"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=tDvSjQFw8wAnmU-uAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2NMQrCQBBFsc0NtJpKVDARwUYrbURFkAQrEdms42ZlM7NkRoi382jGxubz4MH7yaeXPC451qx4hVPjyfpoAmxe4glFoHiLYi2wJhM6hNHf7EgxBO-QLMIQcozcqCc3hinsuQRB09gKmGDL7AIOVpVqlGWWiYTUiRr1NrVcZ0xYcps9uZTf3KQyDcZgFG_zxaxNI7lJ_3goukubgic4k1e8Q9ElUL5MNpBuwwAAAA&shmds=v1_Ac3VAowLKI5OhAaGXQeDTXPkZV-fbu9Im1r9uc7oUnrXAezN2g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=tDvSjQFw8wAnmU-uAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5085cea58e855de72d997/images/5RZu4NgBiAYUeAPQ2HRYYGMJ3eqR3ywNSC_1eWdGIYQ.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Work from home",
+        "Full-time"
+      ],
+      "source_link": "https://jobright.ai/jobs/info/6ae218c16679108488c47674?visit=manufacturing-systems-engineer-business-systems-analyst-jobs-in-united-states",
+      "job_title": "[Remote] Principal Business Systems Analyst (Business Intelligence & Reporting)",
+      "description": "Note: The job is a remote job and is open to candidates in USA. MKS, Inc. is hiring a Principal Business Systems Analyst to gather business intelligence and analytics requirements and translate them into functional specifications, report designs, and dashboards. The role analyzes source data, identifies data gaps, and partners with business and technical teams to deliver and support high-quality BI solutions.\n\n\nResponsibilities\n\nPartnering with business stakeholders and cross-functional teams to gather, analyze, and document reporting and analytics requirements, translating business needs into functional specifications, user stories, and technical report designsDesigning, developing, testing, and implementing data and reporting solutions that support enterprise-wide business intelligence and analytics initiativesLeading requirements definition, business process analysis, and documentation efforts, including Business Requirements Documents (BRDs) and Functional Specification Documents (FSDs), while obtaining stakeholder alignment and approvalCollaborating with project managers, architects, and technical teams to define solution roadmaps, delivery plans, and reporting strategies that align with organizational objectivesLeading testing activities, including integration testing and user acceptance testing (UAT), documenting test plans, managing issue resolution, and ensuring successful solution deploymentServing as a subject matter expert for reporting and analytics solutions by troubleshooting data and reporting issues, validating data integrity, improving business processes, and delivering end-user training to drive adoption of BI capabilities\nSkills\n\nBachelor's degree in Computer Science, Information Systems, Engineering, Mathematics, or a related field8+ years of progressive experience in IT, systems/data analysis, and SAP data warehouse environmentsStrong understanding of data warehouse and ETL processes with ability to write SQL queries to analyze data; Experience working with SAP BW, SAP BW on HANA, SAP ECC, ORACLE or other major ERP systemsExperience working with Enterprise data warehouse platforms such as SAP BW architectures (BW 7.x, or BW on HANA, or BW/4HANA)Proficiency with reporting and visualization tools such as SAP BusinessObjects, SAP Analytics Cloud, Power BI, or TableauUnderstanding of key business processes, including Sales & Distribution, Order-to-Cash, Procure-to-Pay, Materials Management, and Finance (FICO) within a manufacturing environmentStrong analytical, problem-solving, communication, and stakeholder management skillsAbility to work independently and handle incident resolution with limited documentationExperience in SAP Datasphere or experience in Cloud based data warehouse solutions is desired\nCompany Overview\n\nMKS enables technologies that transform our world. It was founded in 1961, and is headquartered in Andover, Massachusetts, USA, with a workforce of 10001+ employees. Its website is https://www.mks.com.\nCompany H1B Sponsorship\n\nMKS Inc. has a track record of offering H1B sponsorships, with 2 in 2025, 6 in 2024, 5 in 2023, 8 in 2022, 6 in 2021, 4 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "apply_options": [
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ae218c16679108488c47674?visit=manufacturing-systems-engineer-business-systems-analyst-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs USA",
+          "link": "https://remoterush.mysmartpros.com/job/3259512?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workdock",
+          "link": "https://workdock.liveblog365.com/job/remote-business-intelligence-survey-analyst-higher-education?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJbUmVtb3RlXSBQcmluY2lwYWwgQnVzaW5lc3MgU3lzdGVtcyBBbmFseXN0IChCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgXHUwMDI2IFJlcG9ydGluZykiLCJjb21wYW55X25hbWUiOiJNS1MgSW5jLiIsImh0aWRvY2lkIjoidER2U2pRRnc4d0FubVUtdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFducDJZblZsUzB0d2JFVlVVRXRNWlVwdE5XTnhTVkYyVDA5TlRqaFJORlo2YkRsdGVESTBWSFJZUm1ReVZFZDBTRmhoV200eGVsWkVRMDlhT1RGYVRXOW9NVEExVVVGcU1WOHlURWh1YWtFd2FHSktNVWxEY0VWNVQydFJZek5YWVZsRmNYaFpSMmhyWW1OM1RXaFhVMlJ2UWxoV1FUZFVORUZxYlRKbFYzWk5WREZtTlhJU0YxaEJhbXhoY0VRMlRuQnhibkYwYzFBeWNXNXliMEZWR2lKQlNFNHdSVGRHWlZKM1ZVcDBWMDB5VEdoNk1IZGZOMHh2U2swNFJXSkpWMEYzIiwiZmN2IjoiMyIsImZjX2lkIjoidER2U2pRRnc4d0FubVUtdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Business Intelligence Analyst IV, Sutter Health Network",
+      "company_name": "Sutter Health",
+      "location": "Anywhere",
+      "via": "Workday",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Requires both domain or business and technical analytics expertise",
+            "Job Description: EDUCATION: Equivalent experience will be accepted in lieu of the required degree or diploma",
+            "Bachelor’s degree in Business Analytics, Business Administration, Healthcare Analytics/Management, Statistics, Economic, Finance, Computer Science, or related field TYPICAL EXPERIENCE: 8 years recent relevant experience SKILLS AND KNOWLEDGE: Progressive experience in Data Analytics, Business Intelligence, or Healthcare Strategy",
+            "Proven experience independently leading analytical projects and cross-functional teams",
+            "Demonstrable experience presenting complex data to executive-level audiences and driving strategic decisions",
+            "Deep domain expertise in healthcare operations, finance, or clinical quality",
+            "Experience building predictive models, forecasts, and advanced operational reports",
+            "Analytics: Advanced proficiency in statistical analysis, predictive modeling concepts, and financial/operational forecasting",
+            "Tools: Strong proficiency in data visualization platforms (Tableau, Power BI) and advanced Excel modeling",
+            "Data Access: Advanced SQL skills (SELECT, JOIN, GROUP BY) for independent data extraction and exploration",
+            "Consulting: Exceptional verbal and written communication skills; masterful presentation design (PowerPoint)",
+            "Project Management: Strong ability to prioritize urgent business needs, manage project lifecycles, and navigate organizational complexity",
+            "Job Shift: Days Schedule: Full Time Days of the Week: Monday - Friday Weekend Requirements: None Benefits: Yes Unions: No Position Status: Exempt Weekly Hours: 40 Employee Status: Regular Sutter Health is an equal opportunity employer EOE/M/F/Disability/Veterans"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Pay Range is $117,436.80 to $176,155.20 / annual salary",
+            "Bay Area Pay Range is $135,054.00 to $202,592.00 / annual salary",
+            "The compensation range may vary based on the geographic location where the position is filled",
+            "Total compensation considers multiple factors, including, but not limited to a candidate’s experience, education, skills, licensure, certifications, departmental equity, training, and organizational needs",
+            "Base pay is only one component of Sutter Health’s comprehensive total rewards program",
+            "Eligible positions also include a comprehensive benefits package"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Acting as the primary subject matter expert (SME) for major business domains, this role translates highly ambiguous business questions into actionable, technical data-driven solutions",
+            "Leads cross-functional project teams, builds predictive forecast models, and distills complex analytical findings into simplified, high-impact narratives for executive audiences",
+            "This position is a senior independent contributor and a critical analytical leader within their respective department or business unit",
+            "The bridge between raw data, technical teams and executive strategy",
+            "Focuses on business value—managing strategic projects, prototyping new analytical tools proofs of concept (POCs), and conducting deep-dive analyses into operating performance",
+            "This role operates with minimal oversight, exercising independent judgment to determine the best analytical methodologies to solve enterprise-wide challenges, and formally mentors other analysts"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=tkTrVS6xO3WqmyqHAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1XNsQ4BQRCA4WjvERQytXArEg0VDae45kIre2uyu6yZy85cnIfyjig1f_n9xXtU1LteIqEIVKSYUvRIDmFLNr1EoTrPoOlVMcMBbdIANeqT8x3mcOQWBG12AZhgz-wTjjdBtZO1MSKp9KJWoysdPwwTtjyYG7fyy0WCzdglq3hZrhZD2ZGfTv5XkeBEUfEKzddB-QC_k0aVsAAAAA&shmds=v1_Ac3VAoxV0ZLiisGKgEd-B9vtsV3OF5aKcHM33UrZgd7zRn3wvg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=tkTrVS6xO3WqmyqHAAAAAA%3D%3D",
+      "extensions": [
+        "18 days ago",
+        "Work from home",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Business-Intelligence-Analyst-IV--Sutter-Health-Network_R-141887",
+      "job_title": "Business Intelligence Analyst IV, Sutter Health Network",
+      "description": "We are so glad you are interested in joining Sutter Health! Organization: SHSO-Sutter Health System Office-Valley Position Overview: A strategic partner to Sutter Health's business and clinical leaders. Acting as the primary subject matter expert (SME) for major business domains, this role translates highly ambiguous business questions into actionable, technical data-driven solutions. Requires both domain or business and technical analytics expertise. Leads cross-functional project teams, builds predictive forecast models, and distills complex analytical findings into simplified, high-impact narratives for executive audiences. This position is a senior independent contributor and a critical analytical leader within their respective department or business unit. The bridge between raw data, technical teams and executive strategy. Focuses on business value—managing strategic projects, prototyping new analytical tools proofs of concept (POCs), and conducting deep-dive analyses into operating performance. This role operates with minimal oversight, exercising independent judgment to determine the best analytical methodologies to solve enterprise-wide challenges, and formally mentors other analysts. Job Description: EDUCATION: Equivalent experience will be accepted in lieu of the required degree or diploma. Bachelor’s degree in Business Analytics, Business Administration, Healthcare Analytics/Management, Statistics, Economic, Finance, Computer Science, or related field TYPICAL EXPERIENCE: 8 years recent relevant experience SKILLS AND KNOWLEDGE: Progressive experience in Data Analytics, Business Intelligence, or Healthcare Strategy. Proven experience independently leading analytical projects and cross-functional teams. Demonstrable experience presenting complex data to executive-level audiences and driving strategic decisions. Deep domain expertise in healthcare operations, finance, or clinical quality. Experience building predictive models, forecasts, and advanced operational reports. Analytics: Advanced proficiency in statistical analysis, predictive modeling concepts, and financial/operational forecasting. Tools: Strong proficiency in data visualization platforms (Tableau, Power BI) and advanced Excel modeling. Data Access: Advanced SQL skills (SELECT, JOIN, GROUP BY) for independent data extraction and exploration. Consulting: Exceptional verbal and written communication skills; masterful presentation design (PowerPoint). Project Management: Strong ability to prioritize urgent business needs, manage project lifecycles, and navigate organizational complexity. Job Shift: Days Schedule: Full Time Days of the Week: Monday - Friday Weekend Requirements: None Benefits: Yes Unions: No Position Status: Exempt Weekly Hours: 40 Employee Status: Regular Sutter Health is an equal opportunity employer EOE/M/F/Disability/Veterans. Pay Range is $117,436.80 to $176,155.20 / annual salary. Bay Area Pay Range is $135,054.00 to $202,592.00 / annual salary. The compensation range may vary based on the geographic location where the position is filled. Total compensation considers multiple factors, including, but not limited to a candidate’s experience, education, skills, licensure, certifications, departmental equity, training, and organizational needs. Base pay is only one component of Sutter Health’s comprehensive total rewards program. Eligible positions also include a comprehensive benefits package. Working at Sutter Health Sutter Health values and supports the unique talents and strengths that each employee brings to our organization. As a result, you are empowered to apply your passion for healing in innovative ways to care for patients and their families.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Business-Intelligence-Analyst-IV--Sutter-Health-Network_R-141887?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WFHQuillen",
+          "link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/business-intelligence-analyst-iv-sutter-health-network?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCBJViwgU3V0dGVyIEhlYWx0aCBOZXR3b3JrIiwiY29tcGFueV9uYW1lIjoiU3V0dGVyIEhlYWx0aCIsImh0aWRvY2lkIjoidGtUclZTNnhPM1dxbXlxSEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdsTlFNMjlYYkRaeGNtdGlXV3gwWldOWlN6UlVRbEZOU1dWMGVGaGpRVzVVWWt0Q2RVZDNiVVI0T1V4YU16ZEtTbEJpYTBWWE5ERXliRll0Vm5CVlpYcFNjSGwyTm5OWWRHdzBXVWwxVTJKUVJGcE5VRlZ0TTB4eFRVRmFXVTlsYjJrdFNuSkpNV0ZzUlZodGFtUm5ialkyWlZSRWR6aHVUekZvZEc5T01sQlpUQzFGUjFBU0YxaEJhbXhoY0VRMlRuQnhibkYwYzFBeWNXNXliMEZWR2lKQlNFNHdSVGRIZWpKU2JsWlVkbU50YW5Sd1VtTlhkRTV1WTE5VVpHcEdZV2RSIiwiZmN2IjoiMyIsImZjX2lkIjoidGtUclZTNnhPM1dxbXlxSEFBQUFBQT09In0="
+    },
+    {
+      "title": "DHA-EOSS Business Intelligence Analyst (FM/EDW Business Analyst)",
+      "company_name": "Quantum Sky Engineering LLC",
+      "location": "Aurora, CO",
+      "via": "Built In",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Citizenship: Must be a U.S. Citizen (mandatory for DHA IT network access and security vetting)",
+            "Formal Education: Bachelor’s degree from an accredited institution in Computer Science, Information Systems, Business Administration, Finance, Accounting, Engineering, or a related field",
+            "Experience Substitution Rule: In lieu of a bachelor’s degree, fifteen (15) years of dedicated Business Analyst experience may be substituted)",
+            "Years of Experience: Minimum of five (5) years of documented business analysis experience supporting large-scale enterprise IT systems of comparable size, scope, and complexity to the DHA EOSS contract",
+            "Core Competency: Proven experience writing formal System Requirements Specifications (SRS), business process flows, functional design specifications, and maintaining bi-directional Requirements Traceability Matrices (RTM)",
+            "Cybersecurity Certification: Must possess or obtain a DoD 8140.03 / DoDD 8570.01-M IAT Level II certification within three (3) months of hire",
+            "Must possess or be capable of obtaining a favorably adjudicated Tier 2 (T2) Public Trust / Non-Critical Sensitive IT-II background investigation (SF-85P / MBI) and receive a DoD Common Access Card (CAC) prior to accessing systems",
+            "Staff must have the flexibility to support cyclical surges (e.g., month-end close, fiscal year-end in September/October) with flex-time arrangements between pay periods as pre-approved by the COR"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation is unique to each candidate and relative to the skills and experience they bring to the position",
+            "The salary range for this position is typically between $110,000-$140,000",
+            "This does not guarantee a specific salary as compensation is based upon multiple factors such as education, experience, certifications, and other requirements, and may fall outside of the above-stated range",
+            "Highlights of our benefits include Health/Dental/Vision, 401(k) match, Paid Time Off, STD/LTD/Life Insurance, Referral Bonuses, professional development reimbursement, and parental leave"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will serve as the functional linchpin between operational stakeholders and technical engineering teams across the enterprise",
+            "You will analyze, document, and manage business and system requirements bridging the DHA Financial Management suite—centered on Oracle Federal Financials (OFF R12)—and the Enterprise Data Warehouse (EDW) business intelligence data marts",
+            "Your day-to-day focus will center on capturing business needs from DHA Contract Resource Management (CRM) financial managers, translating federal statutory mandates into system requirements, conducting rigorous cross-system gap analyses, maintaining end-to-end traceability, and supporting user acceptance testing across reporting repositories such as the Financial Reporting Data Mart (FRDM / Contractor Resource Center), Operations Reporting Data Mart (ORDM), Pharmacy Reporting Data Mart (PRDM), and the Capital and Direct Medical Education (CAP/DME) reporting area",
+            "Requirements Discovery & Comprehensive Gap Analysis",
+            "Actively interface with DHA CRM financial managers, DHA Office of General Counsel (OGC), and operational users to identify business problems and elicit functional system needs",
+            "Conduct comprehensive cross-system gap analysis whenever changes occur (e.g., analyzing how upstream configuration or accounting rule adjustments in Oracle Federal Financials affect downstream EDW staging, archival layers, and data mart reports)",
+            "Provide business analysis and requirements definitions for reporting reconciliations, data discrepancies, and workflow improvements",
+            "System Requirements Documentation & RTM Governance",
+            "Author, maintain, and update formal System Requirements Specifications (SRSs) for DHA ECS applications and operational interfaces (CDRL 0010), coordinating reviews to secure formal Government Contracting Officer Representative (COR) digital signatures",
+            "Build and maintain a bi-directional Requirements Traceability Matrix (RTM) for each application release, establishing complete traceability from initial stakeholder requirements through design specifications, software version builds, and test cases",
+            "Attach approved requirements packages and RTMs to Change Requests within the Solutions Business Manager (SBM) and Quality Center (QC) repositories to facilitate review by the Configuration Working Group (CWG) and Configuration Management Board (CMB)",
+            "Federal Mandates & Enterprise Initiative Analysis",
+            "Provide dedicated business analysis, functional data modeling, and test coordination for key contract initiatives:",
+            "Government Invoicing (G-Invoicing): Analyze Intragovernmental Transactions (IGT) Buy/Sell business rules, General Terms and Conditions (GT&C), orders, performance, and fund settlement integration with OFF",
+            "BEA SFIS, Data Act & SLOA Compliance: Perform annual business analysis of the DoD Business Enterprise Architecture (BEA) standard release; define system and reporting changes required to sustain Standard Financial Information Structure (SFIS), Data Act, and Standard Line of Accounting (SLOA) compliance across OFF and EDW",
+            "Central Accounting Reporting System (CARS): Define functional requirements for ingesting and processing the CARS Transactional Data Extract (CTDE) within OFF and EDW to automate daily cash and disbursement reconciliations for Agency Location Code 97000012",
+            "Line of Accounting (LOA) & Common Cost Accounting Structure (CCAS): Perform functional requirements discovery and document data dictionary additions across OFF and EDW to support cost accounting reporting",
+            "TRICARE Encounter Data System (TEDS) Interface: Analyze updates in TEDS healthcare and pharmacy claims records, mapping schema changes to OFF claims processing extensions and EDW reporting repositories",
+            "Capital and Direct Medical Education (CAP/DME): Support functional analysis, data ingestion validation, and specialized financial reporting for CAP/DME data submitted by Managed Care Support Contractors",
+            "CRM System Integration Test (CRMSIT): Collaborate directly with the CRM Financial Manager during biennial CRMSIT testing; identify specific test claim scenarios, define modified TED record values, and analyze payment calculation results",
+            "Testing, User Acceptance & Defect Management",
+            "Collaborate with Quality Assurance and Test Engineers to translate functional business requirements into rigorous test scenarios and scripts within HP Quality Center (QC) / ALM",
+            "Support Government User Acceptance Testing (UAT): assist users during test execution, capture test artifacts/screenshots, validate business logic, and help classify test defects as major, moderate, or minor",
+            "Verify that software modifications fully satisfy documented business requirements prior to CMB approval and production deployment",
+            "Reporting Validation & User Enablement",
+            "Validate ad hoc queries and standard reports generated via Oracle Analytics Server (OAS), BI Publisher, and SplashBI to ensure business logic accuracy and accounting integrity",
+            "Assist in developing application user training materials, user guides, and Standard Operating Procedures (SOPs) to support financial and operational users across DHA commands and MTFs",
+            "Ensure all functional reporting outputs adhere to Section 508 and WCAG 2.1 Level AA accessibility criteria"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Business+Intelligence+Analyst&htidocid=VEvJh-bzbZnlCXOXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WNuwrCQBAAsc0nWG2pojkRbLSKGl9EgqSwlEtYLqfnbri9QPw8_0wFwWaaGZjo1Ysum30ySfOigFUrllAEDhTQOWuQKoSEtHtKgMH2pNLN5V_9xBAmcOQSBLWvamCCHbNx2F_WITSyUErExUaCDraKK34oJiy5Uzcu5Yur1Npj43TA62w-7eKGzGh4bjWF9gHF_Qkpmc8SvSUDWbYGS5C0nr0ewzp_Axa2WNfEAAAA&shmds=v1_Ac3VAoyWew8KRfgRW9VvGAxlncC7HDqxCd34MRhFSk17KQaEwQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Business+Intelligence+Analyst&htidocid=VEvJh-bzbZnlCXOXAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae5085cea58e855de72d997/images/2AAB4lIp9Rpg7djwyUspDLMePyUJ69-KLwg7ow2ZlwQ.png",
+      "extensions": [
+        "12 days ago",
+        "110K–140K a year",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://builtin.com/job/dha-eoss-business-intelligence-analyst-fm-edw-business-analyst/11753877",
+      "job_title": "DHA-EOSS Business Intelligence Analyst (FM/EDW Business Analyst)",
+      "description": "DescriptionQuantum Sky is searching for a detail-oriented, collaborative Business Intelligence Analyst (FM/EDW Business Analyst) to support the Defense Health Agency (DHA) E-Commerce Operational Systems Support (EOSS) contract in Aurora, Colorado.\n\n\nIn this role, you will serve as the functional linchpin between operational stakeholders and technical engineering teams across the enterprise. You will analyze, document, and manage business and system requirements bridging the DHA Financial Management suite—centered on Oracle Federal Financials (OFF R12)—and the Enterprise Data Warehouse (EDW) business intelligence data marts.\n\n\nYour day-to-day focus will center on capturing business needs from DHA Contract Resource Management (CRM) financial managers, translating federal statutory mandates into system requirements, conducting rigorous cross-system gap analyses, maintaining end-to-end traceability, and supporting user acceptance testing across reporting repositories such as the Financial Reporting Data Mart (FRDM / Contractor Resource Center), Operations Reporting Data Mart (ORDM), Pharmacy Reporting Data Mart (PRDM), and the Capital and Direct Medical Education (CAP/DME) reporting area.\n\nResponsibilities:1. Requirements Discovery & Comprehensive Gap Analysis Actively interface with DHA CRM financial managers, DHA Office of General Counsel (OGC), and operational users to identify business problems and elicit functional system needs. Conduct comprehensive cross-system gap analysis whenever changes occur (e.g., analyzing how upstream configuration or accounting rule adjustments in Oracle Federal Financials affect downstream EDW staging, archival layers, and data mart reports).\n\n Provide business analysis and requirements definitions for reporting reconciliations, data discrepancies, and workflow improvements.\n\n2. System Requirements Documentation & RTM Governance Author, maintain, and update formal System Requirements Specifications (SRSs) for DHA ECS applications and operational interfaces (CDRL 0010), coordinating reviews to secure formal Government Contracting Officer Representative (COR) digital signatures.\n\n Build and maintain a bi-directional Requirements Traceability Matrix (RTM) for each application release, establishing complete traceability from initial stakeholder requirements through design specifications, software version builds, and test cases.\n\n Attach approved requirements packages and RTMs to Change Requests within the Solutions Business Manager (SBM) and Quality Center (QC) repositories to facilitate review by the Configuration Working Group (CWG) and Configuration Management Board (CMB).\n\n3. Federal Mandates & Enterprise Initiative AnalysisProvide dedicated business analysis, functional data modeling, and test coordination for key contract initiatives:\n\n Government Invoicing (G-Invoicing): Analyze Intragovernmental Transactions (IGT) Buy/Sell business rules, General Terms and Conditions (GT&C), orders, performance, and fund settlement integration with OFF.\n\n BEA SFIS, Data Act & SLOA Compliance: Perform annual business analysis of the DoD Business Enterprise Architecture (BEA) standard release; define system and reporting changes required to sustain Standard Financial Information Structure (SFIS), Data Act, and Standard Line of Accounting (SLOA) compliance across OFF and EDW.\n\n Central Accounting Reporting System (CARS): Define functional requirements for ingesting and processing the CARS Transactional Data Extract (CTDE) within OFF and EDW to automate daily cash and disbursement reconciliations for Agency Location Code 97000012.\n\n Line of Accounting (LOA) & Common Cost Accounting Structure (CCAS): Perform functional requirements discovery and document data dictionary additions across OFF and EDW to support cost accounting reporting.\n\n TRICARE Encounter Data System (TEDS) Interface: Analyze updates in TEDS healthcare and pharmacy claims records, mapping schema changes to OFF claims processing extensions and EDW reporting repositories.\n\n Capital and Direct Medical Education (CAP/DME): Support functional analysis, data ingestion validation, and specialized financial reporting for CAP/DME data submitted by Managed Care Support Contractors.\n\n CRM System Integration Test (CRMSIT): Collaborate directly with the CRM Financial Manager during biennial CRMSIT testing; identify specific test claim scenarios, define modified TED record values, and analyze payment calculation results.\n\n4. Testing, User Acceptance & Defect Management Collaborate with Quality Assurance and Test Engineers to translate functional business requirements into rigorous test scenarios and scripts within HP Quality Center (QC) / ALM.\n\n Support Government User Acceptance Testing (UAT): assist users during test execution, capture test artifacts/screenshots, validate business logic, and help classify test defects as major, moderate, or minor.\n\n Verify that software modifications fully satisfy documented business requirements prior to CMB approval and production deployment.\n\n5. Reporting Validation & User Enablement Validate ad hoc queries and standard reports generated via Oracle Analytics Server (OAS), BI Publisher, and SplashBI to ensure business logic accuracy and accounting integrity.\n\n Assist in developing application user training materials, user guides, and Standard Operating Procedures (SOPs) to support financial and operational users across DHA commands and MTFs.\n\n Ensure all functional reporting outputs adhere to Section 508 and WCAG 2.1 Level AA accessibility criteria.\n\nQualificationsRequired:\n\n Citizenship: Must be a U.S. Citizen (mandatory for DHA IT network access and security vetting).\n\n Formal Education: Bachelor’s degree from an accredited institution in Computer Science, Information Systems, Business Administration, Finance, Accounting, Engineering, or a related field.\n\n     Experience Substitution Rule: In lieu of a bachelor’s degree, fifteen (15) years of dedicated Business Analyst experience may be substituted).\n\n   Years of Experience: Minimum of five (5) years of documented business analysis experience supporting large-scale enterprise IT systems of comparable size, scope, and complexity to the DHA EOSS contract.\n\n Core Competency: Proven experience writing formal System Requirements Specifications (SRS), business process flows, functional design specifications, and maintaining bi-directional Requirements Traceability Matrices (RTM)\n\n Cybersecurity Certification: Must possess or obtain a DoD 8140.03 / DoDD 8570.01-M IAT Level II certification within three (3) months of hire.Desired:\n\n Financial ERP Systems: Functional understanding of Oracle Federal Financials / Oracle E-Business Suite (EBS) R12 modules (General Ledger, Purchasing, Payables, Receivables), U.S. Standard General Ledger (USSGL), and federal accounting flows.\n\n Data Warehousing & BI Understanding: Working familiarity with data warehouse architecture (staging, archive, dimensional marts), ETL data flows, and BI tools (Oracle Analytics Server, OBIEE, BI Publisher, SplashBI).\n\n Military Health System (MHS) Experience: Prior experience supporting DHA, TRICARE Encounter Data System (TEDS), MCSC healthcare claims processing, or pharmacy rebate reconciliations.\n\n Federal Standards Knowledge: Working knowledge of DoD SFIS, SLOA, Treasury CARS, or G-Invoicing data standards.\n\n Tools: Hands-on experience with Micro Focus / Serena Solutions Business Manager (SBM), HP Quality Center (QC) / ALM, Git, Jira, Confluence, and basic SQL querying for data validation.\n\n Professional Certifications: CBAP (Certified Business Analysis Professional), PMI-PBA (PMI Professional in Business Analysis), or similar credential is an asset.\n\nClearance: \n\n Must possess or be capable of obtaining a favorably adjudicated Tier 2 (T2) Public Trust / Non-Critical Sensitive IT-II background investigation (SF-85P / MBI) and receive a DoD Common Access Card (CAC) prior to accessing systems.Location:\n\n Aurora, COShift:\n\n Staff must have the flexibility to support cyclical surges (e.g., month-end close, fiscal year-end in September/October) with flex-time arrangements between pay periods as pre-approved by the COR.About Quantum SkyCompensation:\n\n Compensation is unique to each candidate and relative to the skills and experience they bring to the position. The salary range for this position is typically between $110,000-$140,000. This does not guarantee a specific salary as compensation is based upon multiple factors such as education, experience, certifications, and other requirements, and may fall outside of the above-stated range.Benefits:\n\n Highlights of our benefits include Health/Dental/Vision, 401(k) match, Paid Time Off, STD/LTD/Life Insurance, Referral Bonuses, professional development reimbursement, and parental leave.\nThe world the mission operates in is going post-quantum, contested, and machine-speed. Quantum Sky engineers the advantage across cyber, networks, software, and quantum because the mission demands dominance, not parity. We don't follow the map. We draw it. \n\n\nAt Quantum Sky, we believe that success starts with our people. We foster a collaborative, innovative, and mission-driven environment where every team member plays a critical role in shaping the future of technology. Are you ready to join #TeamQuantumSky? \n\n\nQuantum Sky Engineering LLC is an Equal Opportunity Employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, [sexual orientation, gender identity,] national origin, disability, status as a protected veteran, or any characteristic protected by applicable law.",
+      "apply_options": [
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/dha-eoss-business-intelligence-analyst-fm-edw-business-analyst/11753877?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/dha-eoss-business-intelligence-analyst-fm-edw-business-analyst-tyto-athene-aurora-co_89424604?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/dha-eoss-business-intelligence-analyst-fmedw-business-aurora-quantum-sky-cc620913614f3c1517900f84e9a5378c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IHireFinance",
+          "link": "https://www.ihirefinance.com/jobs/view/543666902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/7e545251-54b0-4664-bae3-954e3063715d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/dha-eoss-business-intelligence-analyst-fm-edw-business-analyst-quantum-sky-aurora--ss-us-1n33vkx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/dha-eoss-business-intelligence-analyst-fm-edw-business-analyst--aurora--e7cccfa16537e6fd03c6b9a7fa1503ac5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/e2e2b514-9676-41c4-8772-4191e5e190eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJESEEtRU9TUyBCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCAoRk0vRURXIEJ1c2luZXNzIEFuYWx5c3QpIiwiY29tcGFueV9uYW1lIjoiUXVhbnR1bSBTa3kgRW5naW5lZXJpbmcgTExDIiwiaHRpZG9jaWQiOiJWRXZKaC1iemJabmxDWE9YQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1ZweE5uZHNRa2R6TjJNdE9VNXlaMG90Ums5c2NGUmhSRmxUVlZwVlkzWlJjM1ZqTURCNU1WSjZNV2hHWDNVNGJsVkJVMGR3TTI1SVoyZFVRVzh0UjFCMVEzZHdTWEJCWkY5UWFUWmhiemhCTms0MWVVdFFXa3hMVG05UFdrNXRUV2MxVGxSblVtSXlibEF4UTBVemJHUldVRzVHYkVSTE5UTkxSblF6TlRscWFsRlhZazBTRjFoQmFteGhjRVEyVG5CeGJuRjBjMUF5Y1c1eWIwRlZHaUpCU0U0d1JUZEdWekpxYXpkbmJ6SmphMUJsWHpSMFVFOURSVWR2UkMxdGFHMW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJWRXZKaC1iemJabmxDWE9YQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVSRVlsZGxXVE10T0RSdUxVODNabDlvZWxVNFgzSlBURFppVDNCWGJUSmljRlV4UmtGTVFXeDZaSFJNVWtKdGNscElTMlZUVURZMVRVcERURlZpVjJKSlFqZEdWblp0WTBsb1pXZFpkRmw0ZGtkcUxXSjFZVm90U1dSbVgzQm5MVE50T0hCTk9GWkZXa0p0TUVwc1UxUlFlbTUwWnpSU00waE1kWFUyU1ZOcFJWbEpURk5SUkhRMFJHdE5VblJ1U2xkTGJGcE9WRmxpWlVWZmJtaGhkRzFFTjFwUWRUWlplRE5TY1VkQmN6RlBOWFl6TkZwalNYUlpWbUpaY0hOb1ptNVZTa1JFVDBzNGRESjFXVEJKUWtSelozbE1NbTlYVWxwUlFsZE1ORk54VG1kaVEyRndTWEk0TFRod2QycGFRMUZXVjFSdFJVZGFSVzkyTkdOQk1WTlFWMGRwVVRkVVUzQjZWeTFZTVc1YUxVUmFPR1ZLTVdOU09UbDRURGxQTW10alJGSlhOMDlKY25OYU0xQXdMV2RSZGxCa1drbE5PSEIwZGpSNE5HOWlOa1ZOUXpKVGQxWlVSRFUxV1VKaFZ6ZDZZV1pMVmkwdGJUSXpSRzVZZW5WUkVoZFlRV3BzWVhCRU5rNXdjVzV4ZEhOUU1uRnVjbTlCVlJvaVFVaE9NRVUzUms1cVQwUjZObU5xYldWc1NqVkxWMDR0VG14cGFuQllXaTF4UVEiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVxSURDdUlDUVVSRVlsZGxXVE10T0RSdUxVODNabDlvZWxVNFgzSlBURFppVDNCWGJUSmljRlV4UmtGTVFXeDZaSFJNVWtKdGNscElTMlZUVURZMVRVcERURlZpVjJKSlFqZEdWblp0WTBsb1pXZFpkRmw0ZGtkcUxXSjFZVm90U1dSbVgzQm5MVE50T0hCTk9GWkZXa0p0TUVwc1UxUlFlbTUwWnpSU00waE1kWFUyU1ZOcFJWbEpURk5SUkhRMFJHdE5VblJ1U2xkTGJGcE9WRmxpWlVWZmJtaGhkRzFFTjFwUWRUWlplRE5TY1VkQmN6RlBOWFl6TkZwalNYUlpWbUpaY0hOb1ptNVZTa1JFVDBzNGRESjFXVEJKUWtSelozbE1NbTlYVWxwUlFsZE1ORk54VG1kaVEyRndTWEk0TFRod2QycGFRMUZXVjFSdFJVZGFSVzkyTkdOQk1WTlFWMGRwVVRkVVUzQjZWeTFZTVc1YUxVUmFPR1ZLTVdOU09UbDRURGxQTW10alJGSlhOMDlKY25OYU0xQXdMV2RSZGxCa1drbE5PSEIwZGpSNE5HOWlOa1ZOUXpKVGQxWlVSRFUxV1VKaFZ6ZDZZV1pMVmkwdGJUSXpSRzVZZW5WUkVoZFlRV3BzWVhCRU5rNXdjVzV4ZEhOUU1uRnVjbTlCVlJvaVFVaE9NRVUzUms1cVQwUjZObU5xYldWc1NqVkxWMDR0VG14cGFuQllXaTF4UVEiLCJmY3YiOiIzIn0%3D&q=Business+Intelligence+Analyst&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Business Intelligence Analyst",
+    "page": 2,
+    "collected_at_utc": "2026-10-30T21:13:00.244326+00:00",
+    "request_fingerprint": "29da06f13439907c0293f3d4d0d35b0f79e99d09d979fc8290aa2b78a85f5db3",
+    "job_count": 8
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "search_metadata": {
+    "id": "6ae50c7aa29fedbd9f7a3fa0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oi9Bo8rmExK7CCZkaTwqb-5JsYKsn2CbNP7xJrHQsH0/6ae50c7aa29fedbd9f7a3fa0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oi9Bo8rmExK7CCZkaTwqb-5JsYKsn2CbNP7xJrHQsH0/6ae50c7aa29fedbd9f7a3fa0.md",
+    "created_at": "2026-10-30 21:30:34 UTC",
+    "processed_at": "2026-10-30 21:30:34 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Cloud+AI+Engineer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/oi9Bo8rmExK7CCZkaTwqb-5JsYKsn2CbNP7xJrHQsH0/6ae50c7aa29fedbd9f7a3fa0.html",
+    "total_time_taken": 0.92
+  },
+  "search_parameters": {
+    "q": "Cloud AI Engineer",
+    "engine": "google_jobs",
+    "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHgBvHK5ajyUR2pnPsdFGA-bSHbf1CAm601QVn5UsA8EG984SOFVeVwh6NXgK7GZw4amE4abHXWlQcnwPEaUhtO_bofnwoKbiGbZV2VSpSsB0j_4aDapBdWW95g7a2RXmVWl6-6M",
+        "q": "Cloud AI Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHgBvHK5ajyUR2pnPsdFGA-bSHbf1CAm601QVn5UsA8EG984SOFVeVwh6NXgK7GZw4amE4abHXWlQcnwPEaUhtO_bofnwoKbiGbZV2VSpSsB0j_4aDapBdWW95g7a2RXmVWl6-6M&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXU3Vg1Ai20z9onPTMzBvIHgBvHK5ajyUR2pnPsdFGA-bSHbf1CAm601QVn5UsA8EG984SOFVeVwh6NXgK7GZw4amE4abHXWlQcnwPEaUhtO_bofnwoKbiGbZV2VSpSsB0j_4aDapBdWW95g7a2RXmVWl6-6M&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdb5i9HY1MaPHxHRcD1K6hlTYX3AUuSR9jQCZ_67OKU5jKrKaRG0lW3MFTXOug9h9NfGSy2f4vUaddXeoBws3Ix4OfdUojf0ncEfjnzrC75axnbF8bZfQKhvJbvOEDhIgbMYA7jZA",
+        "q": "Cloud AI Engineer no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdb5i9HY1MaPHxHRcD1K6hlTYX3AUuSR9jQCZ_67OKU5jKrKaRG0lW3MFTXOug9h9NfGSy2f4vUaddXeoBws3Ix4OfdUojf0ncEfjnzrC75axnbF8bZfQKhvJbvOEDhIgbMYA7jZA&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQxKsJKAF6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+no+degree&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXjlEF3ml-oeQhxcD7WlMdb5i9HY1MaPHxHRcD1K6hlTYX3AUuSR9jQCZ_67OKU5jKrKaRG0lW3MFTXOug9h9NfGSy2f4vUaddXeoBws3Ix4OfdUojf0ncEfjnzrC75axnbF8bZfQKhvJbvOEDhIgbMYA7jZA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepgWsg7a0lMQbXF5a2aeXhvNWecaS_KmjNP9N6OZacJ4qkhGkBOOkXWtdl5WM2RXBJ-LgBUXBeavCzhHq3AlrDeY015i90gNovInHkDR6PwIOq66Y4fJh5V_9BHAmJGD0zvcU4vuS7X53iBCdO8uXNwB2IWjVCHT4M4IZa-nc5J57NY-I6ZO-t_9AsBavsvqLE44OUgpsCuMnIscrRK4amUMql6KCuNYKhybLK_8wRNDm_2gDdDWrUW5gsopA1nkhVQOU3fUmE8_nXpqcwjT7A7NSxjj-4qqEQLdmkKr95Qghv-ftE0V1BF4yy3oAUPV2aCNA6kU",
+            "q": "Cloud AI Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepgWsg7a0lMQbXF5a2aeXhvNWecaS_KmjNP9N6OZacJ4qkhGkBOOkXWtdl5WM2RXBJ-LgBUXBeavCzhHq3AlrDeY015i90gNovInHkDR6PwIOq66Y4fJh5V_9BHAmJGD0zvcU4vuS7X53iBCdO8uXNwB2IWjVCHT4M4IZa-nc5J57NY-I6ZO-t_9AsBavsvqLE44OUgpsCuMnIscrRK4amUMql6KCuNYKhybLK_8wRNDm_2gDdDWrUW5gsopA1nkhVQOU3fUmE8_nXpqcwjT7A7NSxjj-4qqEQLdmkKr95Qghv-ftE0V1BF4yy3oAUPV2aCNA6kU&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepgWsg7a0lMQbXF5a2aeXhvNWecaS_KmjNP9N6OZacJ4qkhGkBOOkXWtdl5WM2RXBJ-LgBUXBeavCzhHq3AlrDeY015i90gNovInHkDR6PwIOq66Y4fJh5V_9BHAmJGD0zvcU4vuS7X53iBCdO8uXNwB2IWjVCHT4M4IZa-nc5J57NY-I6ZO-t_9AsBavsvqLE44OUgpsCuMnIscrRK4amUMql6KCuNYKhybLK_8wRNDm_2gDdDWrUW5gsopA1nkhVQOU3fUmE8_nXpqcwjT7A7NSxjj-4qqEQLdmkKr95Qghv-ftE0V1BF4yy3oAUPV2aCNA6kU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYkgkNpedaKD-iuNpWXs_aYoKgjYp2sQZn4tVvRTwMCwWoPuZ9NrMn0SqLplrQCib5fWHTw-l9ZPqKy6shcnJVHHNIyCbyb1B8Mp1m7EJRZ0Hw9mYTJIJsAyNaXuOMtriQhvNJir22rYLiqOfSsoSv61U_c99Bs61TdxQNGI5MyVHdRWnIPFVvvQLoXlpM2daxLTv0hLmd2zO345CgbExDPKttLbFB3F32FFnt_OqkUZFZG2Hy3P8_CAgTIQF9CiYwyBNg0Q_45OiL5Nbm-t_8BpWlndvEU-Oo6yiG7_1wEzOzqwAd16PX6ikjMId1NB-YAM2BZA",
+            "q": "Cloud AI Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYkgkNpedaKD-iuNpWXs_aYoKgjYp2sQZn4tVvRTwMCwWoPuZ9NrMn0SqLplrQCib5fWHTw-l9ZPqKy6shcnJVHHNIyCbyb1B8Mp1m7EJRZ0Hw9mYTJIJsAyNaXuOMtriQhvNJir22rYLiqOfSsoSv61U_c99Bs61TdxQNGI5MyVHdRWnIPFVvvQLoXlpM2daxLTv0hLmd2zO345CgbExDPKttLbFB3F32FFnt_OqkUZFZG2Hy3P8_CAgTIQF9CiYwyBNg0Q_45OiL5Nbm-t_8BpWlndvEU-Oo6yiG7_1wEzOzqwAd16PX6ikjMId1NB-YAM2BZA&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYkgkNpedaKD-iuNpWXs_aYoKgjYp2sQZn4tVvRTwMCwWoPuZ9NrMn0SqLplrQCib5fWHTw-l9ZPqKy6shcnJVHHNIyCbyb1B8Mp1m7EJRZ0Hw9mYTJIJsAyNaXuOMtriQhvNJir22rYLiqOfSsoSv61U_c99Bs61TdxQNGI5MyVHdRWnIPFVvvQLoXlpM2daxLTv0hLmd2zO345CgbExDPKttLbFB3F32FFnt_OqkUZFZG2Hy3P8_CAgTIQF9CiYwyBNg0Q_45OiL5Nbm-t_8BpWlndvEU-Oo6yiG7_1wEzOzqwAd16PX6ikjMId1NB-YAM2BZA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2DJM3NiJhymQNGXiu34jHsvxSqOkbCFvVc0MTZfLXsLZFQtlhEz281qDk-3J1yOPbKETL_KwCo2Ak6aYFT8uUHFZoQVom8F-I48ySN0iYvrbdOYvdCBoe3j7AbwZFL-zMWkrA3xwm7sfAGZDmRYLK9gN1H_o-OxXTOzgq0s-L1JTH2-EP6ARhhFM4it71gOlbPlPKBELBRScr1Cvz88CH4wCdwxK7bf4z0f-Wy40JfSuOLmGAzw8GKODuTYGY_KXsVzVTVo6AxSDSubEmYnZk0zA_IpxCJcqayAjRz2vjOHk7dGsPDlWPxKAC8AgcfpOk7t9x-A",
+            "q": "Cloud AI Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2DJM3NiJhymQNGXiu34jHsvxSqOkbCFvVc0MTZfLXsLZFQtlhEz281qDk-3J1yOPbKETL_KwCo2Ak6aYFT8uUHFZoQVom8F-I48ySN0iYvrbdOYvdCBoe3j7AbwZFL-zMWkrA3xwm7sfAGZDmRYLK9gN1H_o-OxXTOzgq0s-L1JTH2-EP6ARhhFM4it71gOlbPlPKBELBRScr1Cvz88CH4wCdwxK7bf4z0f-Wy40JfSuOLmGAzw8GKODuTYGY_KXsVzVTVo6AxSDSubEmYnZk0zA_IpxCJcqayAjRz2vjOHk7dGsPDlWPxKAC8AgcfpOk7t9x-A&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2DJM3NiJhymQNGXiu34jHsvxSqOkbCFvVc0MTZfLXsLZFQtlhEz281qDk-3J1yOPbKETL_KwCo2Ak6aYFT8uUHFZoQVom8F-I48ySN0iYvrbdOYvdCBoe3j7AbwZFL-zMWkrA3xwm7sfAGZDmRYLK9gN1H_o-OxXTOzgq0s-L1JTH2-EP6ARhhFM4it71gOlbPlPKBELBRScr1Cvz88CH4wCdwxK7bf4z0f-Wy40JfSuOLmGAzw8GKODuTYGY_KXsVzVTVo6AxSDSubEmYnZk0zA_IpxCJcqayAjRz2vjOHk7dGsPDlWPxKAC8AgcfpOk7t9x-A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjYeMaV5vpADwgT1oBu7AycHnbFqX2Y9Fsq1swug2jfa4PdkfRY2pQJbIUKZMlFSf6J7KpM45Nno_Umh-cfRTKl9ih5xBOKfOq1dE7D24b2lp-6Xha_TDqgEQXGXYZmsl2s9T_0m-LPSGYDkc6H30tIgqpFmNttIjmyZbJlJLS5-uCVcw3Np4Az7qvZSxr-cK99rJxma8DKpISNTL5U7X_NTQbnIaDbLOyH3m31TmlqUv8ZQ1biIdLMCuY_6bsWSPykd4Awo2GeIO3-lehFUj6zuENpqFHVKoOToPD0QZtxn3wyZ6OYEepgfG9Jh8m3h8KcJ2I1o",
+            "q": "Cloud AI Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjYeMaV5vpADwgT1oBu7AycHnbFqX2Y9Fsq1swug2jfa4PdkfRY2pQJbIUKZMlFSf6J7KpM45Nno_Umh-cfRTKl9ih5xBOKfOq1dE7D24b2lp-6Xha_TDqgEQXGXYZmsl2s9T_0m-LPSGYDkc6H30tIgqpFmNttIjmyZbJlJLS5-uCVcw3Np4Az7qvZSxr-cK99rJxma8DKpISNTL5U7X_NTQbnIaDbLOyH3m31TmlqUv8ZQ1biIdLMCuY_6bsWSPykd4Awo2GeIO3-lehFUj6zuENpqFHVKoOToPD0QZtxn3wyZ6OYEepgfG9Jh8m3h8KcJ2I1o&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjYeMaV5vpADwgT1oBu7AycHnbFqX2Y9Fsq1swug2jfa4PdkfRY2pQJbIUKZMlFSf6J7KpM45Nno_Umh-cfRTKl9ih5xBOKfOq1dE7D24b2lp-6Xha_TDqgEQXGXYZmsl2s9T_0m-LPSGYDkc6H30tIgqpFmNttIjmyZbJlJLS5-uCVcw3Np4Az7qvZSxr-cK99rJxma8DKpISNTL5U7X_NTQbnIaDbLOyH3m31TmlqUv8ZQ1biIdLMCuY_6bsWSPykd4Awo2GeIO3-lehFUj6zuENpqFHVKoOToPD0QZtxn3wyZ6OYEepgfG9Jh8m3h8KcJ2I1o&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepgWsg7a0lMQbXF5a2aeXhvNWecaS_KmjNP9N6OZacJ4qkhGkBOOkXWtdl5WM2RXBJ-LgBUXBeavCzhHq3AlrDeY015i90gNovInHkDR6PwIOq66Y4fJh5V_9BHAmJGD0zvcU4vuS7X53iBCdO8uXNwB2IWjVCHT4M4IZa-nc5J57NY-I6ZO-t_9AsBavsvqLE44OUgpsCuMnIscrRK4amUMql6KCuNYKhybLK_8wRNDm_2gDdDWrUW5gsopA1nkhVQOU3fUmE8_nXpqcwjT7A7NSxjj-4qqEQLdmkKr95Qghv-ftE0V1BF4yy3oAUPV2aCNA6kU",
+            "q": "Cloud AI Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepgWsg7a0lMQbXF5a2aeXhvNWecaS_KmjNP9N6OZacJ4qkhGkBOOkXWtdl5WM2RXBJ-LgBUXBeavCzhHq3AlrDeY015i90gNovInHkDR6PwIOq66Y4fJh5V_9BHAmJGD0zvcU4vuS7X53iBCdO8uXNwB2IWjVCHT4M4IZa-nc5J57NY-I6ZO-t_9AsBavsvqLE44OUgpsCuMnIscrRK4amUMql6KCuNYKhybLK_8wRNDm_2gDdDWrUW5gsopA1nkhVQOU3fUmE8_nXpqcwjT7A7NSxjj-4qqEQLdmkKr95Qghv-ftE0V1BF4yy3oAUPV2aCNA6kU&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepgWsg7a0lMQbXF5a2aeXhvNWecaS_KmjNP9N6OZacJ4qkhGkBOOkXWtdl5WM2RXBJ-LgBUXBeavCzhHq3AlrDeY015i90gNovInHkDR6PwIOq66Y4fJh5V_9BHAmJGD0zvcU4vuS7X53iBCdO8uXNwB2IWjVCHT4M4IZa-nc5J57NY-I6ZO-t_9AsBavsvqLE44OUgpsCuMnIscrRK4amUMql6KCuNYKhybLK_8wRNDm_2gDdDWrUW5gsopA1nkhVQOU3fUmE8_nXpqcwjT7A7NSxjj-4qqEQLdmkKr95Qghv-ftE0V1BF4yy3oAUPV2aCNA6kU&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYkgkNpedaKD-iuNpWXs_aYoKgjYp2sQZn4tVvRTwMCwWoPuZ9NrMn0SqLplrQCib5fWHTw-l9ZPqKy6shcnJVHHNIyCbyb1B8Mp1m7EJRZ0Hw9mYTJIJsAyNaXuOMtriQhvNJir22rYLiqOfSsoSv61U_c99Bs61TdxQNGI5MyVHdRWnIPFVvvQLoXlpM2daxLTv0hLmd2zO345CgbExDPKttLbFB3F32FFnt_OqkUZFZG2Hy3P8_CAgTIQF9CiYwyBNg0Q_45OiL5Nbm-t_8BpWlndvEU-Oo6yiG7_1wEzOzqwAd16PX6ikjMId1NB-YAM2BZA",
+            "q": "Cloud AI Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYkgkNpedaKD-iuNpWXs_aYoKgjYp2sQZn4tVvRTwMCwWoPuZ9NrMn0SqLplrQCib5fWHTw-l9ZPqKy6shcnJVHHNIyCbyb1B8Mp1m7EJRZ0Hw9mYTJIJsAyNaXuOMtriQhvNJir22rYLiqOfSsoSv61U_c99Bs61TdxQNGI5MyVHdRWnIPFVvvQLoXlpM2daxLTv0hLmd2zO345CgbExDPKttLbFB3F32FFnt_OqkUZFZG2Hy3P8_CAgTIQF9CiYwyBNg0Q_45OiL5Nbm-t_8BpWlndvEU-Oo6yiG7_1wEzOzqwAd16PX6ikjMId1NB-YAM2BZA&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYkgkNpedaKD-iuNpWXs_aYoKgjYp2sQZn4tVvRTwMCwWoPuZ9NrMn0SqLplrQCib5fWHTw-l9ZPqKy6shcnJVHHNIyCbyb1B8Mp1m7EJRZ0Hw9mYTJIJsAyNaXuOMtriQhvNJir22rYLiqOfSsoSv61U_c99Bs61TdxQNGI5MyVHdRWnIPFVvvQLoXlpM2daxLTv0hLmd2zO345CgbExDPKttLbFB3F32FFnt_OqkUZFZG2Hy3P8_CAgTIQF9CiYwyBNg0Q_45OiL5Nbm-t_8BpWlndvEU-Oo6yiG7_1wEzOzqwAd16PX6ikjMId1NB-YAM2BZA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2DJM3NiJhymQNGXiu34jHsvxSqOkbCFvVc0MTZfLXsLZFQtlhEz281qDk-3J1yOPbKETL_KwCo2Ak6aYFT8uUHFZoQVom8F-I48ySN0iYvrbdOYvdCBoe3j7AbwZFL-zMWkrA3xwm7sfAGZDmRYLK9gN1H_o-OxXTOzgq0s-L1JTH2-EP6ARhhFM4it71gOlbPlPKBELBRScr1Cvz88CH4wCdwxK7bf4z0f-Wy40JfSuOLmGAzw8GKODuTYGY_KXsVzVTVo6AxSDSubEmYnZk0zA_IpxCJcqayAjRz2vjOHk7dGsPDlWPxKAC8AgcfpOk7t9x-A",
+            "q": "Cloud AI Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2DJM3NiJhymQNGXiu34jHsvxSqOkbCFvVc0MTZfLXsLZFQtlhEz281qDk-3J1yOPbKETL_KwCo2Ak6aYFT8uUHFZoQVom8F-I48ySN0iYvrbdOYvdCBoe3j7AbwZFL-zMWkrA3xwm7sfAGZDmRYLK9gN1H_o-OxXTOzgq0s-L1JTH2-EP6ARhhFM4it71gOlbPlPKBELBRScr1Cvz88CH4wCdwxK7bf4z0f-Wy40JfSuOLmGAzw8GKODuTYGY_KXsVzVTVo6AxSDSubEmYnZk0zA_IpxCJcqayAjRz2vjOHk7dGsPDlWPxKAC8AgcfpOk7t9x-A&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSpanbqtbnvKv7zwW-AWS2DJM3NiJhymQNGXiu34jHsvxSqOkbCFvVc0MTZfLXsLZFQtlhEz281qDk-3J1yOPbKETL_KwCo2Ak6aYFT8uUHFZoQVom8F-I48ySN0iYvrbdOYvdCBoe3j7AbwZFL-zMWkrA3xwm7sfAGZDmRYLK9gN1H_o-OxXTOzgq0s-L1JTH2-EP6ARhhFM4it71gOlbPlPKBELBRScr1Cvz88CH4wCdwxK7bf4z0f-Wy40JfSuOLmGAzw8GKODuTYGY_KXsVzVTVo6AxSDSubEmYnZk0zA_IpxCJcqayAjRz2vjOHk7dGsPDlWPxKAC8AgcfpOk7t9x-A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjYeMaV5vpADwgT1oBu7AycHnbFqX2Y9Fsq1swug2jfa4PdkfRY2pQJbIUKZMlFSf6J7KpM45Nno_Umh-cfRTKl9ih5xBOKfOq1dE7D24b2lp-6Xha_TDqgEQXGXYZmsl2s9T_0m-LPSGYDkc6H30tIgqpFmNttIjmyZbJlJLS5-uCVcw3Np4Az7qvZSxr-cK99rJxma8DKpISNTL5U7X_NTQbnIaDbLOyH3m31TmlqUv8ZQ1biIdLMCuY_6bsWSPykd4Awo2GeIO3-lehFUj6zuENpqFHVKoOToPD0QZtxn3wyZ6OYEepgfG9Jh8m3h8KcJ2I1o",
+            "q": "Cloud AI Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjYeMaV5vpADwgT1oBu7AycHnbFqX2Y9Fsq1swug2jfa4PdkfRY2pQJbIUKZMlFSf6J7KpM45Nno_Umh-cfRTKl9ih5xBOKfOq1dE7D24b2lp-6Xha_TDqgEQXGXYZmsl2s9T_0m-LPSGYDkc6H30tIgqpFmNttIjmyZbJlJLS5-uCVcw3Np4Az7qvZSxr-cK99rJxma8DKpISNTL5U7X_NTQbnIaDbLOyH3m31TmlqUv8ZQ1biIdLMCuY_6bsWSPykd4Awo2GeIO3-lehFUj6zuENpqFHVKoOToPD0QZtxn3wyZ6OYEepgfG9Jh8m3h8KcJ2I1o&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIPsOOxZsKZRlVOd30LhNjYeMaV5vpADwgT1oBu7AycHnbFqX2Y9Fsq1swug2jfa4PdkfRY2pQJbIUKZMlFSf6J7KpM45Nno_Umh-cfRTKl9ih5xBOKfOq1dE7D24b2lp-6Xha_TDqgEQXGXYZmsl2s9T_0m-LPSGYDkc6H30tIgqpFmNttIjmyZbJlJLS5-uCVcw3Np4Az7qvZSxr-cK99rJxma8DKpISNTL5U7X_NTQbnIaDbLOyH3m31TmlqUv8ZQ1biIdLMCuY_6bsWSPykd4Awo2GeIO3-lehFUj6zuENpqFHVKoOToPD0QZtxn3wyZ6OYEepgfG9Jh8m3h8KcJ2I1o&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmrCMm2-ES_bE-SXmXdUcDvtPGz-J8H8O29W4grlaU52CkLKPj1cGvum6IzgvUzzOsoBiW_JsUH1cpmzrFGavz4dcbs3KsK8iRbSvX0sHYp2g1BZs_fWy2_uAIvgI9NRAsIvJUT3qZ2TuuhruPMG_MzndZYHz7DXPnusEHzOJeO5pQ_k2RIndeLNuMEVFGrNBYmkN42SMCIMDmHh7MDgxqSMkcq8_1NMEWKn5kwKV-G4xPzR04O2vwgZqsoQT-9Gg5Gc-gt-lQgpDUnBuua6Rr1KOww6A",
+            "q": "Cloud AI Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmrCMm2-ES_bE-SXmXdUcDvtPGz-J8H8O29W4grlaU52CkLKPj1cGvum6IzgvUzzOsoBiW_JsUH1cpmzrFGavz4dcbs3KsK8iRbSvX0sHYp2g1BZs_fWy2_uAIvgI9NRAsIvJUT3qZ2TuuhruPMG_MzndZYHz7DXPnusEHzOJeO5pQ_k2RIndeLNuMEVFGrNBYmkN42SMCIMDmHh7MDgxqSMkcq8_1NMEWKn5kwKV-G4xPzR04O2vwgZqsoQT-9Gg5Gc-gt-lQgpDUnBuua6Rr1KOww6A&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmrCMm2-ES_bE-SXmXdUcDvtPGz-J8H8O29W4grlaU52CkLKPj1cGvum6IzgvUzzOsoBiW_JsUH1cpmzrFGavz4dcbs3KsK8iRbSvX0sHYp2g1BZs_fWy2_uAIvgI9NRAsIvJUT3qZ2TuuhruPMG_MzndZYHz7DXPnusEHzOJeO5pQ_k2RIndeLNuMEVFGrNBYmkN42SMCIMDmHh7MDgxqSMkcq8_1NMEWKn5kwKV-G4xPzR04O2vwgZqsoQT-9Gg5Gc-gt-lQgpDUnBuua6Rr1KOww6A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmWb9xQYBcya_LTgFoh4Tgbd4CyuXhktGCuS5Cx3mDW3z3KxWkPQvGcPuB6_9WYycEtMdf9FD15Vn1S5mE2k1ExBJUjgI0RJkg1Vj4NLYWtw7EghNoR61UhQP2amKX50ZN7EzufBJkjcFIqe0fP0VFsdc4y8AJwv0BoodXv6Q98Sdh3BfVnUZTRTk020LyVou45R2hr6DrLTWWI8n5vXtT9hLE7-L-bKfAzL0xh3hSyrWUveMUEYLO3dcQDkgVzGcDnD2a2Nw-o410s7L7qq1U0ML-fdw",
+            "q": "Cloud AI Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmWb9xQYBcya_LTgFoh4Tgbd4CyuXhktGCuS5Cx3mDW3z3KxWkPQvGcPuB6_9WYycEtMdf9FD15Vn1S5mE2k1ExBJUjgI0RJkg1Vj4NLYWtw7EghNoR61UhQP2amKX50ZN7EzufBJkjcFIqe0fP0VFsdc4y8AJwv0BoodXv6Q98Sdh3BfVnUZTRTk020LyVou45R2hr6DrLTWWI8n5vXtT9hLE7-L-bKfAzL0xh3hSyrWUveMUEYLO3dcQDkgVzGcDnD2a2Nw-o410s7L7qq1U0ML-fdw&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmWb9xQYBcya_LTgFoh4Tgbd4CyuXhktGCuS5Cx3mDW3z3KxWkPQvGcPuB6_9WYycEtMdf9FD15Vn1S5mE2k1ExBJUjgI0RJkg1Vj4NLYWtw7EghNoR61UhQP2amKX50ZN7EzufBJkjcFIqe0fP0VFsdc4y8AJwv0BoodXv6Q98Sdh3BfVnUZTRTk020LyVou45R2hr6DrLTWWI8n5vXtT9hLE7-L-bKfAzL0xh3hSyrWUveMUEYLO3dcQDkgVzGcDnD2a2Nw-o410s7L7qq1U0ML-fdw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oryXNzdtt1m8j45VlGhmqhOqI66DPx-et6NTDFOuCOutq3LRgFXD8bVreK3kjAuhTxtJfwWxoUjvtsQFCjovj5FWtVTWIxmrABsDKgVduBibHXQzZee6WT9pBl_PNUki82Bu61yezL5YNj--9dnM74lUf5oIpYQ6Vw7Qf-2FIg4LwOlzYP8eUKx83C0z7zSF5VVwbVQAqaJ4BIT4wfPV4dyY31GmrTIxSdiIy2GqBrhc_ZCI42JE-3nab_eg2yhY726PWfQTehyt42GqlJaD9CKOETp_alkWDiiYHc_rhhfreeuLPw",
+            "q": "Cloud AI Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oryXNzdtt1m8j45VlGhmqhOqI66DPx-et6NTDFOuCOutq3LRgFXD8bVreK3kjAuhTxtJfwWxoUjvtsQFCjovj5FWtVTWIxmrABsDKgVduBibHXQzZee6WT9pBl_PNUki82Bu61yezL5YNj--9dnM74lUf5oIpYQ6Vw7Qf-2FIg4LwOlzYP8eUKx83C0z7zSF5VVwbVQAqaJ4BIT4wfPV4dyY31GmrTIxSdiIy2GqBrhc_ZCI42JE-3nab_eg2yhY726PWfQTehyt42GqlJaD9CKOETp_alkWDiiYHc_rhhfreeuLPw&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oryXNzdtt1m8j45VlGhmqhOqI66DPx-et6NTDFOuCOutq3LRgFXD8bVreK3kjAuhTxtJfwWxoUjvtsQFCjovj5FWtVTWIxmrABsDKgVduBibHXQzZee6WT9pBl_PNUki82Bu61yezL5YNj--9dnM74lUf5oIpYQ6Vw7Qf-2FIg4LwOlzYP8eUKx83C0z7zSF5VVwbVQAqaJ4BIT4wfPV4dyY31GmrTIxSdiIy2GqBrhc_ZCI42JE-3nab_eg2yhY726PWfQTehyt42GqlJaD9CKOETp_alkWDiiYHc_rhhfreeuLPw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkRzQ-GS03Aexu03DU50f09MhEibu7AiWq_60gUwI3pdC7SX3QH8-EJq3SeqYWjGCS_lSGPhNZgCz_TDQ-cWKy3TjjZO4F_w7sy7nmH-DLnqib3snMDqFfFRxJ_VMMCquUOz6oJGJAYUK6v7C9S1fnSxNHXqJSaJlHqUVwFMknKHdP-FrVXv_PQuCMA-6MuyaBISwUSZBNM85pv2gcBkCbFw2Q_RDANxp5U6KUbOrin8X_TiPK0M0VZLWFJNxNlNVij3RbOclLQsUh8uoLroqnqqgfdZBWFvLE2OjX2auXn3jgmGvA",
+            "q": "Cloud AI Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkRzQ-GS03Aexu03DU50f09MhEibu7AiWq_60gUwI3pdC7SX3QH8-EJq3SeqYWjGCS_lSGPhNZgCz_TDQ-cWKy3TjjZO4F_w7sy7nmH-DLnqib3snMDqFfFRxJ_VMMCquUOz6oJGJAYUK6v7C9S1fnSxNHXqJSaJlHqUVwFMknKHdP-FrVXv_PQuCMA-6MuyaBISwUSZBNM85pv2gcBkCbFw2Q_RDANxp5U6KUbOrin8X_TiPK0M0VZLWFJNxNlNVij3RbOclLQsUh8uoLroqnqqgfdZBWFvLE2OjX2auXn3jgmGvA&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkRzQ-GS03Aexu03DU50f09MhEibu7AiWq_60gUwI3pdC7SX3QH8-EJq3SeqYWjGCS_lSGPhNZgCz_TDQ-cWKy3TjjZO4F_w7sy7nmH-DLnqib3snMDqFfFRxJ_VMMCquUOz6oJGJAYUK6v7C9S1fnSxNHXqJSaJlHqUVwFMknKHdP-FrVXv_PQuCMA-6MuyaBISwUSZBNM85pv2gcBkCbFw2Q_RDANxp5U6KUbOrin8X_TiPK0M0VZLWFJNxNlNVij3RbOclLQsUh8uoLroqnqqgfdZBWFvLE2OjX2auXn3jgmGvA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmrCMm2-ES_bE-SXmXdUcDvtPGz-J8H8O29W4grlaU52CkLKPj1cGvum6IzgvUzzOsoBiW_JsUH1cpmzrFGavz4dcbs3KsK8iRbSvX0sHYp2g1BZs_fWy2_uAIvgI9NRAsIvJUT3qZ2TuuhruPMG_MzndZYHz7DXPnusEHzOJeO5pQ_k2RIndeLNuMEVFGrNBYmkN42SMCIMDmHh7MDgxqSMkcq8_1NMEWKn5kwKV-G4xPzR04O2vwgZqsoQT-9Gg5Gc-gt-lQgpDUnBuua6Rr1KOww6A",
+            "q": "Cloud AI Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmrCMm2-ES_bE-SXmXdUcDvtPGz-J8H8O29W4grlaU52CkLKPj1cGvum6IzgvUzzOsoBiW_JsUH1cpmzrFGavz4dcbs3KsK8iRbSvX0sHYp2g1BZs_fWy2_uAIvgI9NRAsIvJUT3qZ2TuuhruPMG_MzndZYHz7DXPnusEHzOJeO5pQ_k2RIndeLNuMEVFGrNBYmkN42SMCIMDmHh7MDgxqSMkcq8_1NMEWKn5kwKV-G4xPzR04O2vwgZqsoQT-9Gg5Gc-gt-lQgpDUnBuua6Rr1KOww6A&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmrCMm2-ES_bE-SXmXdUcDvtPGz-J8H8O29W4grlaU52CkLKPj1cGvum6IzgvUzzOsoBiW_JsUH1cpmzrFGavz4dcbs3KsK8iRbSvX0sHYp2g1BZs_fWy2_uAIvgI9NRAsIvJUT3qZ2TuuhruPMG_MzndZYHz7DXPnusEHzOJeO5pQ_k2RIndeLNuMEVFGrNBYmkN42SMCIMDmHh7MDgxqSMkcq8_1NMEWKn5kwKV-G4xPzR04O2vwgZqsoQT-9Gg5Gc-gt-lQgpDUnBuua6Rr1KOww6A&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmWb9xQYBcya_LTgFoh4Tgbd4CyuXhktGCuS5Cx3mDW3z3KxWkPQvGcPuB6_9WYycEtMdf9FD15Vn1S5mE2k1ExBJUjgI0RJkg1Vj4NLYWtw7EghNoR61UhQP2amKX50ZN7EzufBJkjcFIqe0fP0VFsdc4y8AJwv0BoodXv6Q98Sdh3BfVnUZTRTk020LyVou45R2hr6DrLTWWI8n5vXtT9hLE7-L-bKfAzL0xh3hSyrWUveMUEYLO3dcQDkgVzGcDnD2a2Nw-o410s7L7qq1U0ML-fdw",
+            "q": "Cloud AI Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmWb9xQYBcya_LTgFoh4Tgbd4CyuXhktGCuS5Cx3mDW3z3KxWkPQvGcPuB6_9WYycEtMdf9FD15Vn1S5mE2k1ExBJUjgI0RJkg1Vj4NLYWtw7EghNoR61UhQP2amKX50ZN7EzufBJkjcFIqe0fP0VFsdc4y8AJwv0BoodXv6Q98Sdh3BfVnUZTRTk020LyVou45R2hr6DrLTWWI8n5vXtT9hLE7-L-bKfAzL0xh3hSyrWUveMUEYLO3dcQDkgVzGcDnD2a2Nw-o410s7L7qq1U0ML-fdw&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXod6hVpOOKIJc3QX6wAYO6TAOdHVzzvF-jg9aczUJjSmWb9xQYBcya_LTgFoh4Tgbd4CyuXhktGCuS5Cx3mDW3z3KxWkPQvGcPuB6_9WYycEtMdf9FD15Vn1S5mE2k1ExBJUjgI0RJkg1Vj4NLYWtw7EghNoR61UhQP2amKX50ZN7EzufBJkjcFIqe0fP0VFsdc4y8AJwv0BoodXv6Q98Sdh3BfVnUZTRTk020LyVou45R2hr6DrLTWWI8n5vXtT9hLE7-L-bKfAzL0xh3hSyrWUveMUEYLO3dcQDkgVzGcDnD2a2Nw-o410s7L7qq1U0ML-fdw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oryXNzdtt1m8j45VlGhmqhOqI66DPx-et6NTDFOuCOutq3LRgFXD8bVreK3kjAuhTxtJfwWxoUjvtsQFCjovj5FWtVTWIxmrABsDKgVduBibHXQzZee6WT9pBl_PNUki82Bu61yezL5YNj--9dnM74lUf5oIpYQ6Vw7Qf-2FIg4LwOlzYP8eUKx83C0z7zSF5VVwbVQAqaJ4BIT4wfPV4dyY31GmrTIxSdiIy2GqBrhc_ZCI42JE-3nab_eg2yhY726PWfQTehyt42GqlJaD9CKOETp_alkWDiiYHc_rhhfreeuLPw",
+            "q": "Cloud AI Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oryXNzdtt1m8j45VlGhmqhOqI66DPx-et6NTDFOuCOutq3LRgFXD8bVreK3kjAuhTxtJfwWxoUjvtsQFCjovj5FWtVTWIxmrABsDKgVduBibHXQzZee6WT9pBl_PNUki82Bu61yezL5YNj--9dnM74lUf5oIpYQ6Vw7Qf-2FIg4LwOlzYP8eUKx83C0z7zSF5VVwbVQAqaJ4BIT4wfPV4dyY31GmrTIxSdiIy2GqBrhc_ZCI42JE-3nab_eg2yhY726PWfQTehyt42GqlJaD9CKOETp_alkWDiiYHc_rhhfreeuLPw&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRM_chQ1cdboTCnPdups3oryXNzdtt1m8j45VlGhmqhOqI66DPx-et6NTDFOuCOutq3LRgFXD8bVreK3kjAuhTxtJfwWxoUjvtsQFCjovj5FWtVTWIxmrABsDKgVduBibHXQzZee6WT9pBl_PNUki82Bu61yezL5YNj--9dnM74lUf5oIpYQ6Vw7Qf-2FIg4LwOlzYP8eUKx83C0z7zSF5VVwbVQAqaJ4BIT4wfPV4dyY31GmrTIxSdiIy2GqBrhc_ZCI42JE-3nab_eg2yhY726PWfQTehyt42GqlJaD9CKOETp_alkWDiiYHc_rhhfreeuLPw&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkRzQ-GS03Aexu03DU50f09MhEibu7AiWq_60gUwI3pdC7SX3QH8-EJq3SeqYWjGCS_lSGPhNZgCz_TDQ-cWKy3TjjZO4F_w7sy7nmH-DLnqib3snMDqFfFRxJ_VMMCquUOz6oJGJAYUK6v7C9S1fnSxNHXqJSaJlHqUVwFMknKHdP-FrVXv_PQuCMA-6MuyaBISwUSZBNM85pv2gcBkCbFw2Q_RDANxp5U6KUbOrin8X_TiPK0M0VZLWFJNxNlNVij3RbOclLQsUh8uoLroqnqqgfdZBWFvLE2OjX2auXn3jgmGvA",
+            "q": "Cloud AI Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=e1e629a7a800150e&gl=us&hl=en&sxsrf=AKL5yDgjKy-h8H_lgLD0mSUct6ta5ofZxg:1793395835021&q=Cloud+AI+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkRzQ-GS03Aexu03DU50f09MhEibu7AiWq_60gUwI3pdC7SX3QH8-EJq3SeqYWjGCS_lSGPhNZgCz_TDQ-cWKy3TjjZO4F_w7sy7nmH-DLnqib3snMDqFfFRxJ_VMMCquUOz6oJGJAYUK6v7C9S1fnSxNHXqJSaJlHqUVwFMknKHdP-FrVXv_PQuCMA-6MuyaBISwUSZBNM85pv2gcBkCbFw2Q_RDANxp5U6KUbOrin8X_TiPK0M0VZLWFJNxNlNVij3RbOclLQsUh8uoLroqnqqgfdZBWFvLE2OjX2auXn3jgmGvA&udm=8&sa=X&ved=2ahUKEwjimMCN2OKXAxVhI0QIHXaiLKEQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Cloud+AI+Engineer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXv0ca1x7zXIvfaQ9pxmNWFkRzQ-GS03Aexu03DU50f09MhEibu7AiWq_60gUwI3pdC7SX3QH8-EJq3SeqYWjGCS_lSGPhNZgCz_TDQ-cWKy3TjjZO4F_w7sy7nmH-DLnqib3snMDqFfFRxJ_VMMCquUOz6oJGJAYUK6v7C9S1fnSxNHXqJSaJlHqUVwFMknKHdP-FrVXv_PQuCMA-6MuyaBISwUSZBNM85pv2gcBkCbFw2Q_RDANxp5U6KUbOrin8X_TiPK0M0VZLWFJNxNlNVij3RbOclLQsUh8uoLroqnqqgfdZBWFvLE2OjX2auXn3jgmGvA&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Cloud Engineer — Secure AI & GenAI Platform",
+      "company_name": "Booz Allen Hamilton",
+      "location": "McLean, VA",
+      "via": "JobLeads",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "U.S. citizenship is required for facility work"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will work across AWS, Azure, or GCP, implementing automation, infrastructure as code, and scalable deployment pipelines",
+            "You will collaborate with application developers, data scientists, security teams, and customers to translate requirements into reliable solutions"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=Y6-fFMdXk5BAj3lJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMPwrCMBSAcVx7BKfn4iDaiOCiU_1DVRQEwbUk8ZlG0vdKkkJx8hCewYN5Euvyfdsv-fSSzdpxc4MtGUuIHr6vN1xQNx4h28MQcqTuZyfjnX0FEziwgoDS6xKYIGc2DvvLMsY6LIQIwaUmRBmtTjVXggkVt-LBKvxThFJ6rDsNi9l82qY1mdFgxfyEzDkk2MnKutjBluCkjyhpDNfsB2FvgbapAAAA&shmds=v1_Ac3VAoyqv50cNPPfX-sgWlX27XA4B1v1wK7jYqT5zBBv7ca55Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=Y6-fFMdXk5BAj3lJAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "87K–198K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.jobleads.com/us/job/cloud-engineer-secure-ai-genai-platform--mclean--e9009251d072b7e5e152947922ec19a57",
+      "job_title": "Cloud Engineer — Secure AI & GenAI Platform",
+      "description": "Booz Allen Hamilton is seeking a skilled Cloud Engineer to design, build, and operate secure cloud platforms supporting AI workloads for mission-critical customers. You will work across AWS, Azure, or GCP, implementing automation, infrastructure as code, and scalable deployment pipelines. You will collaborate with application developers, data scientists, security teams, and customers to translate requirements into reliable solutions.\n\nU.S. citizenship is required for facility work.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/cloud-engineer-secure-ai-genai-platform--mclean--e9009251d072b7e5e152947922ec19a57?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBFbmdpbmVlciDigJQgU2VjdXJlIEFJIFx1MDAyNiBHZW5BSSBQbGF0Zm9ybSIsImNvbXBhbnlfbmFtZSI6IkJvb3ogQWxsZW4gSGFtaWx0b24iLCJodGlkb2NpZCI6Ilk2LWZGTWRYazVCQWozbEpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXamxyWnpWTVJEbG1MVU0yZFVWVWNqRnNRbGhCYVhaSE5ESmFSRTl4WVVOemVVVk5RWE4xTmkxSFgxWnJOMmQ1TmpsQlpXY3hjMVZPZURCMk5IQk5lbkJpVFdWRWNGOWlVRVJYVTJoMmFsaE5SVmxaUkZKRGNuY3piRjgwVmpJeE1uWk1UMjlrVm1GZlNWSjJjVzlPU1hSdWNqQkRNRUZsTFVWeFVXNUVVRTFYU0dGc2JWb1NGbVYzZW14aGNVcDJOR05oVVRoblh6SjRURXRLUTJjYUlrRklUakJGTjBoUkxYSkJUREpRTlVsU1lqSjBaVE5NVjNOVWJUY3RhRzl3U21jIiwiZmN2IjoiMyIsImZjX2lkIjoiWTYtZkZNZFhrNUJBajNsSkFBQUFBQT09In0="
+    },
+    {
+      "title": "Lead AI Cloud Engineer",
+      "company_name": "Northern Trust Corp",
+      "location": "Barrington, IL",
+      "via": "Monster",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=IaNjtNBBWk80EtF_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CU5ZXMT2RHDRSYtIpTi5l2sb7k5qciQp9D_8YfENr_iuirJFP8KlgXrieYQbhUSIAiU8uAdFL0MEJrgzhwnX52iW9eSc6lQFNW9pqAb-OCbseXFv7vVfp9EL5skbdofjfqkyhe3myWIRheAlsxrULBkSwdWLJArGtIOm_QFEUHV9lgAAAA&shmds=v1_Ac3VAoxjVO-yHal7mcWX1iOA8S-jfrZWHgmY-saEXdCctdHRSw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=IaNjtNBBWk80EtF_AAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "137K–234K a year",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.monster.com/job-openings/lead-ai-cloud-engineer-barrington-il--b08fee31-2029-4c83-9a8b-33dd71681462",
+      "job_title": "Lead AI Cloud Engineer",
+      "description": "About Northern Trust\n\nAs a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions.\n\nSince 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we call partners, and to provide to our clients and the communities we serve worldwide.\n\nWith more than 135 years of financial experience and over 24,000 partners, we serve the world's most sophisticated clients using leading technology and exceptional service.\n\nPosition Summary\n\nNorthern Trust is seeking an experienced AI Full Stack Cloud Engineer to design, build, deploy, and support enterprise AI solutions across the Digital Coworkers ecosystem and Generative AI Foundation Platform (GAI). This role combines full stack application development, cloud engineering, AI integration, platform engineering, and enterprise solution delivery. The successful candidate will develop scalable, secure, and governed AI-powered business solutions leveraging cloud-native technologies, large language models, enterprise APIs, workflow automation capabilities, and Digital Coworker frameworks. The individual will work closely with AI Engineers, Cloud Engineers, Product Managers, Technical Account Managers, Architects, Scrum Masters, and business stakeholders to accelerate AI adoption and deliver measurable business value across Northern Trust.\n\nApplicants must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Northern Trust will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H-1B, L-1, TN, O-1, E-3, H-1B1, F-1, J-1, OPT, CPT or any other employment-based visa)\n\nPrimary Responsibilities\n\nFull Stack Application Development\n\nDesign and develop full stack applications supporting Digital Coworkers and GAI platform capabilities.Build modern web applications, APIs, microservices, and enterprise integration services.Develop reusable software components supporting multiple AI-driven products and business domains.Create scalable user experiences that simplify enterprise AI adoption and workflow automation.Participate in architecture reviews, code reviews, and technical design discussions.GAI Foundation Platform & Digital Coworker Engineering\n\nBuild AI-powered business solutions leveraging the Generative AI Foundation Platform.Develop and support Digital Coworkers across Transfer Agency, Reconciliation, Omnium, and future AI business initiatives.Integrate AI services, enterprise APIs, workflow orchestration platforms, and cloud-native services.Support production deployment, monitoring, scalability, reliability, and operational readiness.Collaborate with AI Engineers and platform teams to deliver enterprise-ready AI capabilities.AI Engineering & Platform Integration\n\nIntegrate applications with Large Language Models (LLMs), Retrieval Augmented Generation (RAG) solutions, AI agents, and orchestration frameworks.Develop enterprise AI integrations using approved AI services and AI platform capabilities.Support AI lifecycle activities including testing, deployment, monitoring, governance, and operational readiness.Contribute to responsible AI and enterprise AI governance initiatives.Partner with business and technology teams to identify opportunities for AI-enabled transformation.Cloud Engineering & Infrastructure\n\nDesign and deploy cloud-native solutions leveraging Microsoft Azure services.Develop Infrastructure as Code (IaC) using Terraform and related automation frameworks.Build and maintain CI/CD pipelines supporting enterprise application delivery.Implement monitoring, logging, resiliency, and performance optimization practices.Support secure and governed cloud engineering standards.Engineering Excellence\n\nPromote software engineering best practices, coding standards, and reusable architecture patterns.Develop technical documentation, deployment guides, operational runbooks, and support procedures.Support continuous improvement initiatives across engineering and delivery teams.Work independently while effectively collaborating across multiple functions and organizations.Applicants must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Northern Trust will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H-1B, L-1, TN, O-1, E-3, H-1B1, F-1, J-1, OPT, CPT or any other employment-based visa)\n\nRequired Qualifications\n\nBachelor's degree in Computer Science, Information Technology, Engineering, Software Development, or a related discipline; equivalent professional experience will be considered.7+ years of software engineering experience supporting enterprise applications.5+ years of cloud engineering experience supporting Azure or comparable cloud platforms.Demonstrated experience designing and developing APIs, microservices, and distributed systems.Experience building enterprise applications using modern software engineering practices.Strong experience collaborating across engineering, architecture, operations, security, and business teams.Strong written and verbal communication skills.Ability to operate effectively in a regulated enterprise environment with governance, controls, auditability, and operational readiness expectations.Experience working independently while managing multiple priorities and deliverables.Applicants must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Northern Trust will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H-1B, L-1, TN, O-1, E-3, H-1B1, F-1, J-1, OPT, CPT or any other employment-based visa)\n\nTechnical Knowledge & Tools\n\nTechnical / Domain Knowledge\n\nDelivery & Collaboration Tools\n\nFull stack application development; cloud engineering; Azure services; Infrastructure as Code (Terraform); CI/CD; distributed systems; microservices; API development; AI/ML concepts; LLMs; RAG; AI agents; vector databases; prompt engineering; digital coworkers; workflow automation; platform integrations; enterprise security and controls.\n\nAzure DevOps, GitHub, Jira, Confluence, Microsoft Teams, ServiceNow, Terraform, Power BI, CI/CD pipelines, monitoring platforms, release management tools, API management platforms, and operational support tooling.\n\nPreferred Qualifications\n\nExperience supporting enterprise AI platforms and AI-enabled business solutions.Experience building AI-powered applications using Microsoft AI services.Experience supporting Digital Coworkers, intelligent automation platforms, or workflow orchestration solutions.Experience integrating Azure OpenAI, Copilot technologies, AI services, or agentic AI solutions.Experience within financial services or another regulated industry.Familiarity with enterprise AI governance, Responsible AI, model lifecycle management, and operational controls.Experience supporting globally distributed engineering teams.Experience leveraging Snowflake, Databricks, vector databases, and enterprise integration platforms.Experience integrating with ServiceNow, Identity Management systems, and operational support processes.Leadership Competencies\n\nTechnical curiosity and continuous learning\n\nExecutive presence and concise communication\n\nSystems thinking and architectural mindset\n\nStrong collaboration across business and technology\n\nProblem solving and analytical thinking\n\nInnovation and creative solution development\n\nOwnership mindset and accountability\n\nInfluencing without authority\n\nEngineering excellence and quality focus\n\nDelivery discipline and operational readiness\n\nRole Impact\n\nThis role is designed to help the Digital Coworkers and GAI Foundation Platform teams scale enterprise AI delivery through secure software engineering, cloud-native architecture, AI integration, and platform innovation. The successful candidate will help transform AI strategy into production-ready business capabilities while reinforcing scalability, reliability, governance, operational excellence, and measurable business value.\n\nEqual Employment Opportunity Statement\n\nNorthern Trust is committed to a diverse and inclusive workplace. This job description is intended to describe the general nature and level of work performed and is not an exhaustive list of responsibilities, duties, or skills required. Responsibilities may evolve based on business needs.\n\nSalary Range:\n\n$137,400 - 233,600 USD\n\nSalary range is a good faith estimate of base pay. Northern Trust provides a comprehensive benefits package including retirement benefits (401k and pension), health and welfare benefits (medical, dental, vision, spending accounts and disability), paid time off, parental and caregiver leave, life & accident insurance, and other voluntary and well-being benefits. Northern Trust also provides a discretionary bonus program that may include an equity component.\n\nWork Authorization\n\nApplicants must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Northern Trust will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H-1B, L-1, TN, O-1, E-3, H-1B1, F-1, J-1, OPT, CPT or any other employment-based visa).\n\nWorking with Us\n\nAs a Northern Trust partner, you will be part of a flexible and collaborative work culture, which has a strong history of financial strength and stability. Movement within the organization is encouraged, senior leaders are accessible, and you can take pride in working for a company committed to an inclusive workplace and assisting the communities we serve.\n\nPhilanthropy is deeply rooted in Northern Trust's history and is an essential element of our culture. Employees around the world give their time and talent to work for the greater good of their communities.\n\nReasonable Accommodation\n\nNorthern Trust is committed to working with and providing adjustments to individuals with health conditions and disabilities. If you need a reasonable accommodation for any part of the employment process, please email our HR Service Center at MyHRHelp@ntrs.com, or alternatively you can discuss your individual requirements with the recruiter you are working with.\n\n\nSkills:\nAnalysis Skills, Application Programming Interface (API), Artificial Intelligence (AI), Artificial Intelligence (AI) Agents, Asset Management, Atlassian JIRA, Automation, Banking Services, Business Solutions, Cloud Applications, Cloud Architecture, Cloud Computing, Code Reviews, Communication Skills, Computer Science, Continuous Deployment/Delivery, Continuous Improvement, Continuous Integration, Cross-Functional, DevOps, Distributed Computing, Ecosystems, Engineering, Enterprise Applications, Enterprise Protection, Equal Employment Opportunity (EEO), Financial Services, GitHub, Identity Data Management, Information Technology & Information Systems, Internet Application, Leadership, Machine Tool, Microservices, Microsoft Product Family, Microsoft Windows Azure, Modeling Languages, Multitasking, Operational Measurement, Operational Support, Operations Processes, Operations Security (OPSEC), Performance Tuning/Optimization, Power BI, Presentation/Verbal Skills, Problem Solving Skills, Production Control, Production Support, Reconciliation, Release Management/Engineering, Sales Management, Scalable System Development, ScrumMaster, ServiceNow, Snowflake Schema, Software Administration, Software Design, Software Development, Software Engineering, System Architecture, System Operations, Technical Leadership, Technical Writing, Technical/Engineering Design, User Interface/Experience (UI/UX), Wealth Management, Writing Skills\n\n\nNorthern Trust Corp",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/lead-ai-cloud-engineer-barrington-il--b08fee31-2029-4c83-9a8b-33dd71681462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/lead-ai-cloud-engineer_7ea1a14c71eab8eba78b28d7317bb3d9f51ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/lead-ai-cloud-engineer-barrington-il--b08fee31-2029-4c83-9a8b-33dd71681462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hiring Cafe",
+          "link": "https://hiringcafe.com/job/lead-ai-cloud-engineer-northern-trust-chicago-illinois-2db1e32iywxi9he4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/4f89d7aa-8919-4307-bf23-c90d92061283?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/es/view?id=642551071877041236&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/6779103332276371456?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/lead-ai-cloud-engineer-northern-trust-barrington-il--jooble--4772952285415165978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEFJIENsb3VkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTm9ydGhlcm4gVHJ1c3QgQ29ycCIsImh0aWRvY2lkIjoiSWFOanROQkJXazgwRXRGX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdWWkdXVE5oZGxVeU5rTjRPRTloWkZkNVpsSkNXbWhNYlVOelUxTnpPR2xvV2xsYWJVcEdkV1ZyT1RsbE5FUTBUM2hFUnpkV2FHeFpVamhVT1RBMmVtRk9aVlJhY2s0MGRHeEdja3RQY3pOM05WWmpPRnB5UlRGdFpGUndVRkJNTnkxS09WQmhkV0pZVFRKcGVUbHhibmN3ZG1GQll6aHpUbnBPTUVGa2FVZHNXV2R3Ym5VU0ZtVjNlbXhoY1VwMk5HTmhVVGhuWHpKNFRFdEtRMmNhSWtGSVRqQkZOMFYyYkRWSGRYUkJVMWxtYjFsbmFsaEtTaTF5TFZoR2RFdDNNbEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJJYU5qdE5CQldrODBFdEZfQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Principal Innovation Developer – Cloud & AI",
+      "company_name": "HPE",
+      "location": "Andover, MA",
+      "via": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor’s or Master’s degree in Computer Science, Information Systems, AI/ML, or related technical field",
+            "Typically 10-15 years of software development experience, with at least 3-5 years focused on cloud-native and AI/ML systems",
+            "Required Knowledge and Skills",
+            "Strong programming proficiency in Python and experience with ML libraries (PyTorch, TensorFlow, Transformers)",
+            "Deep understanding of distributed systems, microservices, and event-driven architectures",
+            "Hands-on experience with Kubernetes, Docker, REST APIs, and cloud-native application development",
+            "Experience implementing Generative AI solutions using LLMs, RAG, LangGraph, or similar frameworks",
+            "Working knowledge of multiple technologies to include vector databases, graph, NOSQL and RDBMS systems",
+            "Experience deploying cloud solutions on AWS, Azure, or GCP",
+            "Strong understanding of AI Governance and Security alignment, and responsible AI principles",
+            "Proficiency in Agile development methodologies, including Scrum or Kanban",
+            "Experience contributing to large-scale cloud service development environments",
+            "Accessibility"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Health & Wellbeing",
+            "We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing",
+            "Personal & Professional Development",
+            "We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division",
+            "– United States of America: Annual Salary USD 165,500 - 313,500 in Colorado // 178,000 - 339,000 in Massachusetts // 157,000 - 361,000 in North Carolina & Texas",
+            "The listed salary range reflects base salary",
+            "Variable incentives may also be offered",
+            "Information about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As an Innovation Engineer in the Hybrid Cloud CTO organization, you will play a senior individual contributor role responsible for driving complex, high-impact incubation projects across AI, cloud-native architectures, and emerging software technologies",
+            "Working alongside technical leads and cross-functional partners, you will design, implement, and validate advanced solutions that accelerate HPE’s transformation and deliver innovative capabilities to internal teams and external customers",
+            "You will apply deep expertise in distributed systems, Generative AI, microservices, and cloud technologies to create robust, scalable, and secure services",
+            "This role demands the ability to blend hands‑on development with architectural leadership, proactively generate and advance innovative concepts, and uphold technical excellence across a diverse portfolio of projects",
+            "Serve as a senior technical contributor on complex AI and cloud-native incubation projects, owning design and implementation of key components",
+            "Lead teams of up to 5-6 engineers of multiple disciplines through the full lifecycle of concept development while collaborating with multiple stakeholders",
+            "Evaluate and integrate emerging software technologies, including Generative AI frameworks (LLMs, RAG, LangGraph, Knowledge Graphs, ADK, A2A)",
+            "Design, build, and validate microservices and cloud-native systems deployed across public cloud, datacenter, and edge environments",
+            "Contribute to technical architecture decisions, ensuring solutions meet requirements for scale, performance, security, and reliability",
+            "Collaborate closely with internal customers, technical leads, and business stakeholders to align emerging technologies with strategic objectives",
+            "Conduct research spikes, proofs-of-concept, and experiments that evaluate feasibility and technical trade-offs",
+            "Implement high-quality code following best practices in AI assisted code generation (GitHub CoPilot), testing, validation, CI/CD, and observability",
+            "Provide mentorship and knowledge-sharing to team members of all levels on advanced software and AI topics",
+            "Work effectively across multiple parallel projects in a dynamic environment with frequent context switching"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=-X_DiJB8LfTVhyqfAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVw7Ojrd5CDaiOBip2JFKwh9g5KmRxuJdyEXS0ffwcH380msyz99_MlnlhRVsGSs1w5KIh50tExQ4ICOPQb4vt5wdPxsYQl5CRu4cgOCOpgeJnhm7hwusj5GLwelRFzaSZwuJjX8UEzY8Kju3Mg_tfQ6oHc6Yr3bb8fUU7eaX6oTWIKcWh4wrOGW_wA3C5YumgAAAA&shmds=v1_Ac3VAowizuZIj_9U6WHpKmhjD7I32jbZT4Kviz5fkQ1yldaP4g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=-X_DiJB8LfTVhyqfAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEX___8AAADU1NTX19cApoBZWVn6-vppaWkAonpBup3Y8uzl-PRawaeNjY0Lr420tLRfX1_d3d1MTEzNzc3j4-N9g4ElJSVGRkbHx8d5eXkvLy-VlZULCwutrq5Jv6UvtpYAm288PDy8vb2fn5_u8vF8mx8GAAAA5ElEQVRIie2T2Q6CMBBFO1PBBRdERJRFRf__G520dii0IeFBn3oeCNzMadJbKkQgEAj8lRhlzh9HifTMpeHIuQXGKkOAjEUAoDSFnrPJLdCI0Uhc2lNFPEu8RIoLBanOIybLJ0T8BiUlNFcAOOWgXnMknkxyBTj4WyXxVu00Ve2IFUAjRLu2uG-MOGAkFup9v7BYTYmNREKWGajdkbhiHiw-u4Omq93jgE6LSc9UOT2N0KKvHM9xZKli-XqLeSIOh0jcMm0yIZ4c0deq5ycvh6LVKbfqvVbfm8NsBjjbDQQCgd_yAS7VDKnY6qSAAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "12 days ago",
+        "Full-time",
+        "Health insurance"
+      ],
+      "source_link": "https://careers.hpe.com/us/en/job/1216535/Principal-Innovation-Developer-Cloud-AI",
+      "job_title": "Principal Innovation Developer – Cloud & AI",
+      "description": "Principal Innovation Developer – Cloud & AI\n\n  \n\n\n\n\n\n\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n\n\nWho We Are:\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n\n\n\n\nJob Description:\n\n   \n\nThis role has been designed as “Hybrid” with an expectation that you will work on average 2-3 days per week from an HPE office.\n\n\nWho We AreHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We value diverse backgrounds and succeed together. If you are looking to stretch and grow your career, our culture will embrace you. \n\n\nAbout the RoleAs an Innovation Engineer in the Hybrid Cloud CTO organization, you will play a senior individual contributor role responsible for driving complex, high-impact incubation projects across AI, cloud-native architectures, and emerging software technologies. Working alongside technical leads and cross-functional partners, you will design, implement, and validate advanced solutions that accelerate HPE’s transformation and deliver innovative capabilities to internal teams and external customers.\n\n\nYou will apply deep expertise in distributed systems, Generative AI, microservices, and cloud technologies to create robust, scalable, and secure services.  This role demands the ability to blend hands‑on development with architectural leadership, proactively generate and advance innovative concepts, and uphold technical excellence across a diverse portfolio of projects.\n\n\nPrimary Responsibilities· Serve as a senior technical contributor on complex AI and cloud-native incubation projects, owning design and implementation of key components.\n\n·  Lead teams of up to 5-6 engineers of multiple disciplines through the full lifecycle of concept development while collaborating with multiple stakeholders.\n\n· Evaluate and integrate emerging software technologies, including Generative AI frameworks (LLMs, RAG, LangGraph, Knowledge Graphs, ADK, A2A).\n\n· Design, build, and validate microservices and cloud-native systems deployed across public cloud, datacenter, and edge environments.\n\n· Contribute to technical architecture decisions, ensuring solutions meet requirements for scale, performance, security, and reliability.\n\n· Collaborate closely with internal customers, technical leads, and business stakeholders to align emerging technologies with strategic objectives.\n\n· Conduct research spikes, proofs-of-concept, and experiments that evaluate feasibility and technical trade-offs.\n\n· Implement high-quality code following best practices in AI assisted code generation (GitHub CoPilot), testing, validation, CI/CD, and observability.\n\n· Provide mentorship and knowledge-sharing to team members of all levels  on advanced software and AI topics.\n\n· Work effectively across multiple parallel projects in a dynamic environment with frequent context switching.\n\n\nEducation and Experience· Bachelor’s or Master’s degree in Computer Science, Information Systems, AI/ML, or related technical field.\n\n· Typically 10-15 years of software development experience, with at least 3-5 years focused on cloud-native and AI/ML systems.\n\n\nRequired Knowledge and Skills· Strong programming proficiency in Python and experience with ML libraries (PyTorch, TensorFlow, Transformers).\n\n· Deep understanding of distributed systems, microservices, and event-driven architectures.\n\n· Hands-on experience with Kubernetes, Docker, REST APIs, and cloud-native application development.\n\n· Experience implementing Generative AI solutions using LLMs, RAG, LangGraph, or similar frameworks.\n\n· Working knowledge of multiple technologies to include vector databases, graph, NOSQL and RDBMS systems\n\n· Experience deploying cloud solutions on AWS, Azure, or GCP.\n\n· Strong understanding of AI Governance and Security alignment, and responsible AI principles.\n\n· Proficiency in Agile development methodologies, including Scrum or Kanban.\n\n· Experience contributing to large-scale cloud service development environments.\n\n\nPreferred Knowledge and Experience· Experience with multi-agent systems and agent orchestration frameworks.\n\n· Knowledge of Model Context Protocol (MCP) server development.\n\n· Understanding of Google ADK and A2A protocol implementations.\n\n· Knowledge graph design, construction, and querying.\n\n· Familiarity with ML Ops tools (MLflow, Weights & Biases, LangSmith).\n\n· Experience with observability platforms like Prometheus, Grafana, or OpenTelemetry.\n\n\n\n\n\nAccessibility\n\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked here.\n\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n\n\n\n\nWhat We Can Offer You:\n\nHealth & Wellbeing\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n\n\nPersonal & Professional Development\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n\n\nUnconditional Inclusion\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n\n\n\n\nLet's Stay Connected:\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. \n\n\n\n\n\n#unitedstates#hybridcloud\n\n\n\nJob:\n\nEngineeringJob Level:\n\nTCP_05    \n\nThe expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.\n – United States of America: Annual Salary USD 165,500 - 313,500 in Colorado // 178,000 - 339,000 in Massachusetts // 157,000 - 361,000 in North Carolina & Texas\nThe listed salary range reflects base salary. Variable incentives may also be offered.\n\n\n\nInformation about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html\n\n\n\n\n\nThe estimated job application period closure is December 15 2026; this timeline is provided for transparency and internal planning purposes.\n\n\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\nHewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.\n\n   \n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n   \n\nRecruitment Fraud Alert\n\n\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\n\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
+      "apply_options": [
+        {
+          "title": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+          "link": "https://careers.hpe.com/us/en/job/1216535/Principal-Innovation-Developer-Cloud-AI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=106616c25157ae50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/gNsqs4ws1yPvNDqmN-lYluvT1WKe1Pd3B7e_dMp_Ke0TQb6Cg7kGRQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/principal-innovation-developer-cloud-ai--andover--e9729034552b0b5352a8bcc017cc57df2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/principal-innovation-developer-%E2%80%93-cloud-ai-at-hewlett-packard-enterprise-4481501063?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jv?jl=1010300344572&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobstore",
+          "link": "https://www.jobstore.com/us/job/l37196735/principal-innovation-developer-cloud-ai-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/principal-innovation-developer-cloud-ai-hpe-andover-massachusetts-united-states-of-america--t7xk-893465038?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgSW5ub3ZhdGlvbiBEZXZlbG9wZXIg4oCTIENsb3VkIFx1MDAyNiBBSSIsImNvbXBhbnlfbmFtZSI6IkhQRSIsImh0aWRvY2lkIjoiLVhfRGlKQjhMZlRWaHlxZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdWQnRTMlJJZG5oNmIwSmxWazVSZVZWWGMxVXRVSGh6WlMxVWJGUlpWalUwU21ReldtTkdia015Wm01dVRUazRNVk4zY0hGSFpWcHVaRE5oVEU5NmNERk5Sak16U1RReGQyVkhPVFJ6TkVzMVJuRTBNalZNYkdaU2NVaERhMkZrUjJFeWNUWkxkMFZsTlVrM1pFdHRZMWxXTFcwemNWSTFaemsxU1ZaaWRqTTFObEZRTlY4U0ZtVjNlbXhoY1VwMk5HTmhVVGhuWHpKNFRFdEtRMmNhSWtGSVRqQkZOMGhDYlRaVVkyZGZOelpaUzFwNVpVdDVNM0pPYW13eWVFSlpSbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiItWF9EaUpCOExmVFZoeXFmQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Platform Application Engineer, Cloud AI Infrastructure",
+      "company_name": "Google",
+      "location": "Kirkland, WA",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Management Information Systems, or other technical field, or equivalent practical experience",
+            "4 years of debug or validation experience with CPU, dGPU, or TPU",
+            "4 years of experience with technical infrastructure (deployment, maintenance, and troubleshooting), and quality and reliability of technical infrastructure",
+            "3 years of experience with hardware debug (silicon debug, platform debug, IO interface, or memory analysis)",
+            "Experience debugging technical issues across the stack (hardware faults, low-level software, networking, virtualization, kernel drivers, firmware, or performance)",
+            "Experience with Linux/Unix systems and debugging issues across the hardware/software boundary on enterprise-grade server infrastructure"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Health, dental, vision, life, disability insurance",
+            "Retirement Benefits: 401(k) with company match",
+            "Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment",
+            "Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance",
+            "Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks",
+            "Baby Bonding Leave: 18 weeks",
+            "Holidays: 13 paid days per year",
+            "Individual pay is determined by factors including job-related skills, experience, and relevant education or training",
+            "US: $159000 - $230000 (USD) + 15% bonus target + equity + benefits"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Platform Application Engineer (Hardware Engineer), you will be focused on solving customer observations by, driving deep hardware analysis, debug, and issue resolution through to root cause",
+            "You will dive deep into complex technical challenges, troubleshoot critical issues across the platform, and provide resolutions in both short-term and long-term platform solutions",
+            "In this role, you will represent the customer solution, collaborating tightly with engineering and product teams to drive continuous improvement in our products and services",
+            "Manage customer’s problems through effective diagnosis, resolution, or implementation of new investigation tools to increase productivity on AI/ML infrastructure",
+            "Work closely with multiple Product, Quality, and Engineering teams to improve the product, and interact with our Site Reliability Engineering (SRE) teams to understand behaviours",
+            "Debug platform hardware and silicon-related issues to drive root-cause resolution and develop permanent improvements",
+            "Drive understanding of AI/ML workloads and underlying hardware architectures by troubleshooting, reproducing, determining the cause for customer reported issues, and building tools for faster diagnosis",
+            "Act as a consultant and subject matter expert for internal stakeholders in Engineering and Quality organizations to resolve complex deployment and operational obstacles in AI infrastructure environments"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=11pZ9wf6NE5pR9kYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCMBBAce0HODjdLLURwUWnIiJVBDfHkqbXNJrehVwK_SA_1IrL29572WeR3R9ep47jAGUI3hmdHBOcyTpCjDmcPI8tlBVU1EUtKY4mjRFhA1duQFBH08NsXJitx9WxTynIQSkRX1hJc84UhgfFhA1P6sWN_FBLryOG-Y31br-dikB2vfxHwBHcXHx7TW0Oz_ILuVpjMqcAAAA&shmds=v1_Ac3VAozVINhnAd6ZPvcwEEmc2sZ6H-yctNO_9eqZZ_TgZBDeLg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=11pZ9wf6NE5pR9kYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c7aa29fedbd9f7a3fa0/images/r9UGLNY4e2zSEM-01qEB8clZa3AfnoABKpr-YogVQMk.jpeg",
+      "extensions": [
+        "159K–230K a year",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=206e6197f6252085",
+      "job_title": "Platform Application Engineer, Cloud AI Infrastructure",
+      "description": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: \n \n\n \n  Health, dental, vision, life, disability insurance\n  Retirement Benefits: 401(k) with company match\n  Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n  Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\n  Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\n  Baby Bonding Leave: 18 weeks\n  Holidays: 13 paid days per year\n \n \n\n  Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Austin, TX, USA; Kirkland, WA, USA. \n  Minimum qualifications:\n \n  Bachelor's degree in Computer Science, Management Information Systems, or other technical field, or equivalent practical experience.\n\n  4 years of debug or validation experience with CPU, dGPU, or TPU.\n  4 years of experience with technical infrastructure (deployment, maintenance, and troubleshooting), and quality and reliability of technical infrastructure.\n  3 years of experience with hardware debug (silicon debug, platform debug, IO interface, or memory analysis).\n  Experience debugging technical issues across the stack (hardware faults, low-level software, networking, virtualization, kernel drivers, firmware, or performance).\n  Experience with Linux/Unix systems and debugging issues across the hardware/software boundary on enterprise-grade server infrastructure.\n \n \n\n  Preferred qualifications:\n \n  Experience working with distributed systems, and familiarity with common solutions, design patterns, or best practices.\n  Experience working directly with AI/ML computing hardware, including GPUs or other accelerators.\n  Familiarity with containerization and orchestration technologies like Kubernetes or Slurm in an on-prem or cloud environment.\n  Experience with systems automation, and with systems design and debug.\n  Experience with ML frameworks (e.g., TensorFlow, PyTorch), and understanding of the AI/ML training and inference lifecycle.\n  Advanced understanding of memory and high-speed input/output (IO) technologies.\n \n \n  About the job Our AI Infrastructure Engineering Support team is dedicated to ensuring our customers get the most out of their Google Cloud hardware investment. As a Platform Application Engineer (Hardware Engineer), you will be focused on solving customer observations by, driving deep hardware analysis, debug, and issue resolution through to root cause. You will dive deep into complex technical challenges, troubleshoot critical issues across the platform, and provide resolutions in both short-term and long-term platform solutions. In this role, you will represent the customer solution, collaborating tightly with engineering and product teams to drive continuous improvement in our products and services. \n  Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n\n Individual pay is determined by factors including job-related skills, experience, and relevant education or training. \n  \n\n  \n\n   US: $159000 - $230000 (USD) + 15% bonus target + equity + benefits \n  \n\n  \n\n   Learn more about benefits at Google.\n \n \n   Responsibilities\n  \n   Manage customer’s problems through effective diagnosis, resolution, or implementation of new investigation tools to increase productivity on AI/ML infrastructure.\n   Work closely with multiple Product, Quality, and Engineering teams to improve the product, and interact with our Site Reliability Engineering (SRE) teams to understand behaviours.\n   Debug platform hardware and silicon-related issues to drive root-cause resolution and develop permanent improvements.\n   Drive understanding of AI/ML workloads and underlying hardware architectures by troubleshooting, reproducing, determining the cause for customer reported issues, and building tools for faster diagnosis.\n   Act as a consultant and subject matter expert for internal stakeholders in Engineering and Quality organizations to resolve complex deployment and operational obstacles in AI infrastructure environments.\n  \n Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=206e6197f6252085&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/google/Job/Senior-Platform-Application-Engineer,-Cloud-AI-Infrastructure/-in-Kirkland,WA?jid=13b46c01d4417470&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/platform-application-engineer-cloud-ai-infrastructure_7ea1a4d2002f9d3eaf1960b4aad95095cc407?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/platform-application-engineer-cloud-ai-infrastructure-kirkland-wa--31ae9849-e878-40e2-9e80-1b16c28a3352?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ae22368de23f466ec8c30b9?visit=senior-computer-vision-applied-ai-engineer-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/senior-platform-application-engineer-cloud-ai-infrastructure-google-JV_IC1150472_KO0,60_KE61,67.htm?jl=1010309552330&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/computer-systems-engineer-or-architect/wa/kirkland/senior-platform-application-en-f854f7c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/platform-application-engineer-cloud-ai-infrastructure-at-google-4470302289?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQbGF0Zm9ybSBBcHBsaWNhdGlvbiBFbmdpbmVlciwgQ2xvdWQgQUkgSW5mcmFzdHJ1Y3R1cmUiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJodGlkb2NpZCI6IjExcFo5d2Y2TkU1cFI5a1lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZV014WVc1eFZVRlVSemxVTldWcGRXTk1NbVl6Tkd4VlYwc3RVMmhmUW1SbExWTk1NRW96ZGtNM2VHb3pZMlpvTWpSV1NVVTNMVGN5UlZkWVMyVkNjR3hyTFY5UVJFOXdTRFpOYzJGV2JIcGlVMnRtYW5wQk56Tm5iSEZRVUVsWVVEZHVjVmMwZVdjMWNVRkhlRU5WWWt4NGVWaGhMVkUyV1Vnd2FrRXlZMVJIVTBwZlVHa1NGbVYzZW14aGNVcDJOR05oVVRoblh6SjRURXRLUTJjYUlrRklUakJGTjBkWlVHRkpaRmd3VUZwTmVVMXhabFZIV2pkWFFuRk1iV1JrZG1jIiwiZmN2IjoiMyIsImZjX2lkIjoiMTFwWjl3ZjZORTVwUjlrWUFBQUFBQT09In0="
+    },
+    {
+      "title": "CLOUD - AI/ML Engineer (Part Time)",
+      "company_name": "Steel Point Solutions",
+      "location": "Fort Meade, MD",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Data Science, Engineering, Mathematics, or a related field",
+            "3+ years of experience in AI/ML engineering, including hands-on experience with model development and deployment",
+            "3+ years of experience with data processing and manipulation using tools such as Pandas, NumPy, and SQL",
+            "Proven experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, Keras)",
+            "Candidate Must Have an Active Top Secret SCI Poly Security Clearance",
+            "Machine Learning: Strong knowledge of machine learning algorithms, techniques, and best practices",
+            "Data Engineering: Proficiency in data processing, feature engineering, and working with large datasets",
+            "Technical Skills: Experience with AI/ML frameworks and libraries, and programming languages such as Python, R, or Java",
+            "Problem-Solving: Strong analytical and problem-solving skills to address complex AI/ML challenges and optimize model performance",
+            "Collaboration: Ability to work effectively with cross-functional teams, including data scientists, engineers, and business stakeholders",
+            "Communication: Excellent verbal and written communication skills, with the ability to convey complex technical concepts to non-technical audiences",
+            "Ethical Awareness: Understanding of ethical considerations and regulations related to AI/ML technologies, including fairness and privacy"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The AI/ML Engineer serves in a part-time, 1099 independent contractor capacity and is responsible for designing, developing, and deploying machine learning models and artificial intelligence solutions that drive Steel Point's data-driven initiatives",
+            "The AI/ML Engineer will collaborate with data scientists, software engineers, and other stakeholders to integrate, optimize, and scale AI/ML systems within existing infrastructure",
+            "Model Development: Design, develop, and train machine learning models, including supervised, unsupervised, and reinforcement learning algorithms",
+            "Data Processing: Prepare and preprocess large datasets for training and validation of AI/ML models, including data cleaning, feature engineering, and transformation",
+            "Algorithm Implementation: Implement and optimize AI/ML algorithms using industry-standard libraries and frameworks (e.g., TensorFlow, PyTorch, Scikit-Learn)",
+            "Deployment: Deploy AI/ML models into production environments, ensuring scalability, reliability, and performance",
+            "Performance Monitoring: Monitor and evaluate model performance, making necessary adjustments and improvements to enhance accuracy and efficiency",
+            "Collaboration: Work closely with data scientists, software engineers, and business stakeholders to understand requirements and integrate AI/ML solutions into applications and systems",
+            "Documentation: Create and maintain documentation for AI/ML models, including design, development, and deployment processes",
+            "Innovation: Stay updated with the latest advancements in AI/ML technologies and methodologies, applying new techniques to improve existing models and solutions",
+            "Ethics and Compliance: Ensure AI/ML solutions adhere to ethical guidelines and regulatory requirements, including fairness, transparency, and privacy"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=aAZpgCPXD8uLMh_rAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNPQrCQBBAYWxzBKvp_EGzIliolRgVJcFAtA6bOGxWNjthZ4Rcx5sam9d8xYu-o2h7TO_PBJZwuKoshZM31iMGmOY6CDxsi7MBb1QBow51A-ThQmQcjveNSMc7pZhdbFi02DquqVXksaJevanif0pudMDOacFyvVn1cefNfFIIooOcrBcoyH3EkmewHs40jDPUL1xAlvwA8PjRqKQAAAA&shmds=v1_Ac3VAowyFAjgWH7LkCoxlmTLmF2LLZtSQggSRnXKwfrxXCR0Dg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=aAZpgCPXD8uLMh_rAAAAAA%3D%3D",
+      "extensions": [
+        "140.00–142.21 a day",
+        "Part-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=c5310f45f29b3f2f",
+      "job_title": "CLOUD - AI/ML Engineer (Part Time)",
+      "description": "Steel Point Solutions is an amazing SBA Certified (8a), HUBZone, Small Disadvantaged Business (SDB) and a Woman Owned Small Business (WOSB) company. Established in 2013 with a vision of offering world class, integrated business solutions for all levels of Government and commercial enterprises. We are represented by a team of talented and qualified professionals who know how essential efficient, cost-effective integrated solutions are to your organization's success. Leveraging these resources, we strive daily to lead the industry in program management and service delivery.\n\n\n  Role Summary\n\n\n The AI/ML Engineer serves in a part-time, 1099 independent contractor capacity and is responsible for designing, developing, and deploying machine learning models and artificial intelligence solutions that drive Steel Point's data-driven initiatives. This role involves creating algorithms, working with large datasets, and implementing AI/ML solutions to solve complex business challenges. The AI/ML Engineer will collaborate with data scientists, software engineers, and other stakeholders to integrate, optimize, and scale AI/ML systems within existing infrastructure.\n\n\n \n\n \n\n\n  Key Roles & Responsibilities\n\n\n \n  Model Development: Design, develop, and train machine learning models, including supervised, unsupervised, and reinforcement learning algorithms.\n  Data Processing: Prepare and preprocess large datasets for training and validation of AI/ML models, including data cleaning, feature engineering, and transformation.\n  Algorithm Implementation: Implement and optimize AI/ML algorithms using industry-standard libraries and frameworks (e.g., TensorFlow, PyTorch, Scikit-Learn).\n  Deployment: Deploy AI/ML models into production environments, ensuring scalability, reliability, and performance.\n  Performance Monitoring: Monitor and evaluate model performance, making necessary adjustments and improvements to enhance accuracy and efficiency.\n  Collaboration: Work closely with data scientists, software engineers, and business stakeholders to understand requirements and integrate AI/ML solutions into applications and systems.\n  Documentation: Create and maintain documentation for AI/ML models, including design, development, and deployment processes.\n  Innovation: Stay updated with the latest advancements in AI/ML technologies and methodologies, applying new techniques to improve existing models and solutions.\n  Ethics and Compliance: Ensure AI/ML solutions adhere to ethical guidelines and regulatory requirements, including fairness, transparency, and privacy.\n \n Required Qualifications\n\n\n \n  Bachelor's degree in Computer Science, Data Science, Engineering, Mathematics, or a related field.\n  3+ years of experience in AI/ML engineering, including hands-on experience with model development and deployment.\n  3+ years of experience with data processing and manipulation using tools such as Pandas, NumPy, and SQL.\n  Proven experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, Keras)\n  Candidate Must Have an Active Top Secret SCI Poly Security Clearance.\n \n Preferred Qualifications\n\n\n \n  A Master's degree or PhD in a relevant field is preferred\n  Certifications:\n   \n    AI/ML-related certifications (e.g., Google Cloud Certified - Professional Machine Learning Engineer, AWS Certified Machine Learning - Specialty) are preferred.\n    Certifications in data science or analytics (e.g., Certified Data Scientist) are a plus.\n   \n \n Skills and Competencies\n\n\n \n  Machine Learning: Strong knowledge of machine learning algorithms, techniques, and best practices.\n  Data Engineering: Proficiency in data processing, feature engineering, and working with large datasets.\n  Technical Skills: Experience with AI/ML frameworks and libraries, and programming languages such as Python, R, or Java.\n  Problem-Solving: Strong analytical and problem-solving skills to address complex AI/ML challenges and optimize model performance.\n  Collaboration: Ability to work effectively with cross-functional teams, including data scientists, engineers, and business stakeholders.\n  Communication: Excellent verbal and written communication skills, with the ability to convey complex technical concepts to non-technical audiences.\n  Ethical Awareness: Understanding of ethical considerations and regulations related to AI/ML technologies, including fairness and privacy.\n \n \n\n \n\n\n  Candidates from Historically Underutilized Business Zones (HUBZone) are strongly encouraged to apply. To determine whether you reside in a HUBZone, visit: https://maps.certify.sba.gov/hubzone/map.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=c5310f45f29b3f2f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/7b0375e6-2a24-43a0-8bc5-f851552d1d20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/ai-ml-engineer_7ea1a7bdcc3fbaab58441e957ccc0d1af4d2b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/cloud-ai-ml-engineer-part-time-at-steel-point-solutions-4459883259?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Steel-Point-Solutions/Job/CLOUD-AI-ML-Engineer-(Part-Time)/-in-Fort-Meade,MD?jid=afd87b7883fb72ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IT JobServe",
+          "link": "https://it.jobserve.com/job-in-Fort-Meade-Maryland-USA/CLOUD-AI-ML-ENGINEER-f56783e13f96708d74/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Haystack",
+          "link": "https://haystackapp.io/jobs/83c9e153-28c1-4860-b3d4-44a546e8e2c2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/0bcd0734-ad73-4584-872f-457f4de06370?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDTE9VRCAtIEFJL01MIEVuZ2luZWVyIChQYXJ0IFRpbWUpIiwiY29tcGFueV9uYW1lIjoiU3RlZWwgUG9pbnQgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJhQVpwZ0NQWEQ4dUxNaF9yQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV2tGRGJrazJkalZCTWtkT2EyVjZXVTB5T1VSVlRIQTJVMVpCYWpONGVVOWZhVlJNWVRCMGMwRnNOazR3WTFCVk5XbFFiSEJDVTNsMVkyYzJVVTE1ZEdSakxURjRRMUZKZW5oamNHSkNORmxRYlV0c1ltWnFNbGgwV0hKc1dFMVpOM1pZU0RNd1puazNhRE10YVRGVU5FMXhOa3B5U1dGWVNIYzFhVkpIYm1saU5WWkZTbVVTRm1WM2VteGhjVXAyTkdOaFVUaG5Yeko0VEV0S1EyY2FJa0ZJVGpCRk4wWkxXa2xpTFZSVFFtbFVVbXhwUW01S01FMUNRV0Z4VjBaRWJHYyIsImZjdiI6IjMiLCJmY19pZCI6ImFBWnBnQ1BYRDh1TE1oX3JBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Cloud Infrastructure Engineer (AI/ML)",
+      "company_name": "Ge Healthcare",
+      "location": "East Cleveland, OH",
+      "via": "Koch Davis",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience supporting production systems in AWSExperience with AWS: EC2, ECS, EKS, Lambda; S3, EFS; DynamoDB; SageMakerExperience with IaC tools: Ansible, Terraform, CloudFormation, or AWS CDKFamiliarity with Docker, Docker Compose, and Kubernetes",
+            "Experience building CI/CD systems (GitHub Actions, GitLab CI, Jenkins)",
+            "Strong Linux systems administration",
+            "Experience with monitoring/observability (Prometheus, Datadog, or similar)",
+            "AWS cloud services (EC2, ECS, EKS, Lambda, S3, EFS, DynamoDB, SageMaker)",
+            "Infrastructure as Code (Ansible, Terraform, CloudFormation, AWS CDK)",
+            "Containerization and orchestration (Docker, Kubernetes)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation / Benefitsrelocation assistanceprofessional developmentchallenging careerscompetitive compensationinclusive culture"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role you help build reliable cloud infrastructure that enables researchers to innovate faster",
+            "You work at the intersection of cloud engineering, MLOps, and research computing to deploy scalable AWS environments and enable impactful research",
+            "You collaborate across researchers, engineers, and infrastructure partners to deliver practical, well-documented engineering solutions",
+            "Your work supports reproducible experiments and robust production workflows in a mission-driven setting",
+            "This is an opportunity to shape how research teams train and deploy models at scale",
+            "Migrate, optimize, and support research workloads on AWS with DevOps and infrastructure teams",
+            "Design, build, and maintain MLOps pipelines for model training, evaluation, deployment, and monitoring",
+            "Develop prototypes and internal tools to accelerate experimentation and research workflows",
+            "Translate research objectives into scalable, maintainable engineering solutions",
+            "Promote engineering best practices: code quality, testing, documentation, version control, data governance, and experiment tracking",
+            "Manage multiple projects balancing fast-paced research needs with long-term engineering sustainability",
+            "Provide technical guidance and mentorship to early-career engineers and share knowledge across teams",
+            "Collaborate with research scientists, product teams, and infrastructure partners to deliver impactful solutions",
+            "Key requirements2 to 4 years in DevOps, SRE, cloud infrastructure, or related roles",
+            "Understanding of software engineering practices: API development (REST/gRPC), testing, and maintainable code",
+            "Experience collaborating with research teams and adapting to evolving requirementscollaborationmentorshipstrong communication"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=-NXdugFjeekUd0xZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBCAYVz7CE4HLiraiOCiLlJKW1F8hJKmZ1KJdyWXSh_HR7Uu__Itf_KdJefM89BCRc-gJYbBxCEg5GQ7QgywvFTqflvBFq7cgKAOxgETFMzW4_zkYuzlqJSIT61EHTuTGn4rJmx4VC9u5J9anA7Yex2x3h92Y9qTXS8KhBK1j85MCB1BPi1A5vGDXlO7gUf5A6auA2CjAAAA&shmds=v1_Ac3VAow_7uPE9x2gfhpkwFCH_TP68kdppmjYPQ-eo0j6m_Ixww&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=-NXdugFjeekUd0xZAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full-time"
+      ],
+      "source_link": "https://kochdavisjobs.com/jobs/e17b22cbceca11d528168a86",
+      "job_title": "Cloud Infrastructure Engineer (AI/ML)",
+      "description": "Overview:\n\nIn this role you help build reliable cloud infrastructure that enables researchers to innovate faster. You work at the intersection of cloud engineering, MLOps, and research computing to deploy scalable AWS environments and enable impactful research. You collaborate across researchers, engineers, and infrastructure partners to deliver practical, well-documented engineering solutions. Your work supports reproducible experiments and robust production workflows in a mission-driven setting. This is an opportunity to shape how research teams train and deploy models at scale. Compensation / Benefitsrelocation assistanceprofessional developmentchallenging careerscompetitive compensationinclusive culture\n\nResponsibilities:\n\nMigrate, optimize, and support research workloads on AWS with DevOps and infrastructure teamsDesign, build, and maintain MLOps pipelines for model training, evaluation, deployment, and monitoringDevelop prototypes and internal tools to accelerate experimentation and research workflowsTranslate research objectives into scalable, maintainable engineering solutionsPromote engineering best practices: code quality, testing, documentation, version control, data governance, and experiment trackingManage multiple projects balancing fast-paced research needs with long-term engineering sustainabilityProvide technical guidance and mentorship to early-career engineers and share knowledge across teamsCollaborate with research scientists, product teams, and infrastructure partners to deliver impactful solutionsKey requirements2 to 4 years in DevOps, SRE, cloud infrastructure, or related rolesExperience supporting production systems in AWSExperience with AWS: EC2, ECS, EKS, Lambda; S3, EFS; DynamoDB; SageMakerExperience with IaC tools: Ansible, Terraform, CloudFormation, or AWS CDKFamiliarity with Docker, Docker Compose, and KubernetesExperience building CI/CD systems (GitHub Actions, GitLab CI, Jenkins)Strong Linux systems administrationExperience with monitoring/observability (Prometheus, Datadog, or similar)Understanding of software engineering practices: API development (REST/gRPC), testing, and maintainable codeExperience collaborating with research teams and adapting to evolving requirementscollaborationmentorshipstrong communicationAWS cloud services (EC2, ECS, EKS, Lambda, S3, EFS, DynamoDB, SageMaker)Infrastructure as Code (Ansible, Terraform, CloudFormation, AWS CDK)Containerization and orchestration (Docker, Kubernetes)",
+      "apply_options": [
+        {
+          "title": "Koch Davis",
+          "link": "https://kochdavisjobs.com/jobs/e17b22cbceca11d528168a86?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-oh-east-cleveland-cloud-infrastructure-engineer-ai-ml-ge-healthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBJbmZyYXN0cnVjdHVyZSBFbmdpbmVlciAoQUkvTUwpIiwiY29tcGFueV9uYW1lIjoiR2UgSGVhbHRoY2FyZSIsImh0aWRvY2lkIjoiLU5YZHVnRmplZWtVZDB4WkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdVbFBVSFppWDI1YVlXVXRjMUY0YlZCd1JHSlhRVEk1ZWpaQ1RESmxhMGRUWlcxSFFrUkpkRmhLTW5VMlVIRjNRelJhZVRoZmNtdEZRbmQyYm1wWWRqRjVNRU16UW14eWNVbGFOREpaVlZSblRWUXpOR3R5WlhWRFQxaG1URmd0WXpWclIyVjRVMFpOYkZSS2JqRk1hV0k1UmkxalRGSTNSREJPTmkxaFNuSXlZblpvVkVJU0ZtVjNlbXhoY1VwMk5HTmhVVGhuWHpKNFRFdEtRMmNhSWtGSVRqQkZOMFpuWTJoRWJGQmFURlJKYXpoVFIzZzBjVFYxTkd3eFdYVnNlbEUiLCJmY3YiOiIzIiwiZmNfaWQiOiItTlhkdWdGamVla1VkMHhaQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Artificial Intelligence & Cloud Engineer",
+      "company_name": "Vets Hired",
+      "location": "Norfolk, VA",
+      "via": "ZipRecruiter",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor's degree in Computer Science, Software Engineering, or a related technical field",
+            "7+ years of professional software engineering experience",
+            "At least 2 years of production experience in AI, ML, or NLP development",
+            "Experience building multi-agent systems using LangGraph, AutoGen, or equivalent frameworks",
+            "Strong understanding of RAG architecture, vector databases, embeddings, and information retrieval",
+            "Strong programming skills in Python or a similar programming language",
+            "Experience developing RESTful APIs",
+            "Hands-on experience deploying and managing AWS or OCI cloud services",
+            "Proficiency with Linux operating systems and command-line interfaces",
+            "Expertise in text analytics and prompt engineering",
+            "Experience with data normalization and cleaning",
+            "Active Secret security clearance",
+            "Current CompTIA Security+ certification or higher",
+            "Knowledge of AI security practices, model guardrails, and secure data handling",
+            "Experience working in Agile and cross-functional development environments",
+            "Strong problem-solving skills and ability to learn emerging AI technologies quickly"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The engineer will develop production-grade AI applications and microservices while collaborating with data scientists, designers, and subject matter experts in an Agile environment",
+            "Architect and implement scalable multi-agent AI systems",
+            "Develop advanced routing and hierarchical multi-agent architectures",
+            "Build, optimize, and maintain production-grade Retrieval-Augmented Generation (RAG) pipelines",
+            "Develop semantic search and information retrieval systems",
+            "Design data preprocessing workflows, chunking strategies, and vector database infrastructure",
+            "Deploy, secure, monitor, and maintain AI applications and microservices in cloud environments",
+            "Integrate AI capabilities into user-facing products",
+            "Collaborate with data scientists, UI/UX designers, and subject matter experts",
+            "Establish security best practices for large language model implementations",
+            "Protect sensitive information through secure data handling and privacy controls",
+            "Implement AI model guardrails and other AI security measures",
+            "Develop robust RESTful APIs supporting AI and cloud applications",
+            "Support Linux-based development and cloud environments",
+            "Apply text analytics, prompt engineering, data normalization, and data-cleaning techniques",
+            "Support cybersecurity risk management and system hardening activities",
+            "Evaluate and adopt emerging AI technologies and engineering practices"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=fWuiq0DMAojXnN-TAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCQAwAYFz7BjplchDtieCigxQRfwbHruV6ptdovJRLhL6Kbyt-w1d8J8WhykYdBfIM12TITBFTQJjDkeXzgFOKlBAzrOAmLSj6HHqQBGeRyDjb92aD7pxT5TKqeaNQBnk7SdjK6J7S6r9Ge59xYG_YbLbrsRxSXExrNIULZXwAJbhL7oRfS6irH7VtwbucAAAA&shmds=v1_Ac3VAowtwCQxUQThq79D2qXFKLPP3u_G8MDHZUS4Tkkp262M2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=fWuiq0DMAojXnN-TAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ae50c7aa29fedbd9f7a3fa0/images/kzfEPgJ1cmZz4Qoli8ihGZODVoxubwZjJgEBYWrlLOg.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "source_link": "https://www.ziprecruiter.com/c/vets-hired/Job/Artificial-Intelligence-&-Cloud-Engineer/-in-Norfolk,VA?jid=843455972c615297",
+      "job_title": "Artificial Intelligence & Cloud Engineer",
+      "description": "Job Summary The Artificial Intelligence & Cloud Engineer designs, builds, secures, and scales AI-powered systems within cloud environments. The role combines artificial intelligence, machine learning, cloud engineering, software development, retrieval systems, multi-agent architectures, vector databases, and secure AI deployment. The engineer will develop production-grade AI applications and microservices while collaborating with data scientists, designers, and subject matter experts in an Agile environment.\n\nKey Responsibilities Architect and implement scalable multi-agent AI systems.Develop advanced routing and hierarchical multi-agent architectures.Build, optimize, and maintain production-grade Retrieval-Augmented Generation (RAG) pipelines.Develop semantic search and information retrieval systems.Design data preprocessing workflows, chunking strategies, and vector database infrastructure.Deploy, secure, monitor, and maintain AI applications and microservices in cloud environments.Integrate AI capabilities into user-facing products.Collaborate with data scientists, UI/UX designers, and subject matter experts.Establish security best practices for large language model implementations.Protect sensitive information through secure data handling and privacy controls.Implement AI model guardrails and other AI security measures.Develop robust RESTful APIs supporting AI and cloud applications.Support Linux-based development and cloud environments.Apply text analytics, prompt engineering, data normalization, and data-cleaning techniques.Support cybersecurity risk management and system hardening activities.Evaluate and adopt emerging AI technologies and engineering practices.Required Qualifications Bachelor's degree in Computer Science, Software Engineering, or a related technical field.7+ years of professional software engineering experience.At least 2 years of production experience in AI, ML, or NLP development.Experience building multi-agent systems using LangGraph, AutoGen, or equivalent frameworks.Strong understanding of RAG architecture, vector databases, embeddings, and information retrieval.Strong programming skills in Python or a similar programming language.Experience developing RESTful APIs.Hands-on experience deploying and managing AWS or OCI cloud services.Proficiency with Linux operating systems and command-line interfaces.Expertise in text analytics and prompt engineering.Experience with data normalization and cleaning.Active Secret security clearance.Current CompTIA Security+ certification or higher.Knowledge of AI security practices, model guardrails, and secure data handling.Experience working in Agile and cross-functional development environments.Strong problem-solving skills and ability to learn emerging AI technologies quickly.Preferred Qualifications Experience with NAVSEA Cyber RMF processes and system security hardening.Familiarity with Rust, Go, or JavaScript.Industry-recognized cloud certifications, such as AWS Certified Machine Learning – Specialty or OCI AI credentials.Experience with open-source LLM evaluation and observability frameworks.",
+      "apply_options": [
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/vets-hired/Job/Artificial-Intelligence-&-Cloud-Engineer/-in-Norfolk,VA?jid=843455972c615297&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Teal",
+          "link": "https://www.tealhq.com/job/artificial-intelligence-cloud-engineer_7ea1a88687e5664f7a8371911a88363259b6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/artificial-intelligence-cloud-engineer-norfolk-va--f614884b-ab75-4a62-86e4-d6d6eda210f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/caci-international/norfolk/artificial-intelligence-cloud-engineer-130635259/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Vets Hired",
+          "link": "https://vets-hired-2.careers-page.com/jobs/6f1657cc-9259-48d8-b6c0-0c429ca520ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Tracker & Monitor By Irfan Miral",
+          "link": "https://rolewatch.irfanmiral.com/jobs/artificial-intelligence-cloud-engineer-vets-hired-avdrdcgr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2200174545158012928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/artificial-intelligence-cloud-engineer-vets-hired-norfolk--lensa-2365_2dcbc20a0701f5c4e30f598cd70b1b63593b61d8c7b00ce3e7476df99c1a5501?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSBcdTAwMjYgQ2xvdWQgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJWZXRzIEhpcmVkIiwiaHRpZG9jaWQiOiJmV3VpcTBETUFvalhuTi1UQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV1RGM1RWOHpWelI1YkhCZmIzRllhbUZZUzFZMVNIcFRYME5uYzA1b2NrNTRTa2xKUTJ0RVN6ZFNVRWxtVDIxRlIwSnpOa0pKY25GNlluVXpUVXRtVEVkblJXUXpkWFpDZWpKbE0yd3dZakpvY1VsbllraFVNbnBFTm5wcGVWY3lhemh4VmxJdGNuSnBOR2hFTXpoQk1YaE9jR0pDV1UxWlZ6ZHlSakJLVEVKeE5ucFNZekVTRm1WM2VteGhjVXAyTkdOaFVUaG5Yeko0VEV0S1EyY2FJa0ZJVGpCRk4wVkNjMjVvWlhaalFrNU5iVzU0UzIxTlgxUXlUMHBvUWt0V1UwRSIsImZjdiI6IjMiLCJmY19pZCI6ImZXdWlxMERNQW9qWG5OLVRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Cloud Data and AI Engineers",
+      "company_name": "Varmoda",
+      "location": "Reston, VA",
+      "via": "Monster",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "The role requires strong customer-facing architecture experience, deep GCP data expertise, and familiarity with U.S. Public Sector security environments",
+            "10+ years of experience with relational/distributed databases such as PostgreSQL, AlloyDB, Oracle, and Cloud SQL",
+            "Strong expertise across the GCP data ecosystem",
+            "Experience with database performance tuning, replication, and migrations",
+            "Experience developing and deploying AI/ML and LLM solutions",
+            "Strong B2B/customer-facing cloud architecture and advisory experience",
+            "U.S. Citizenship required",
+            "Ability to support on-site/customer deployments in Reston, VA as needed",
+            "Certifications & Clearance",
+            "U.S. Citizenship: Required",
+            "Artificial Intelligence (AI), Business-to-Business (B2B), Capability Maturity Model Integration (CMMI), Cloud Architecture, Cloud Computing, Customer Relations, Database Programming, Database Technology, Distributed Databases, Ecosystems, Federal Government, Financial Services, GCP (Good Clinical Practices), Government, ISO (International Organization for Standardization), ISO 9001, Operations Planning, Oracle, Performance Tuning/Optimization, PostgreSQL, Public Cloud, Public Finance, Python Programming/Scripting Language, Relational Databases (RDBMS), Replication and Remote Mirroring, SQL (Structured Query Language), Salesforce.com, Sensitive Compartmented Information (SCI), ServiceNow, Software Engineering, Top Secret Clearance, United States Citizen, United States Department of Defense (DoD)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Growth opportunity within a fast-scaling federal IT firm",
+            "Direct impact on citizen-facing federal programs",
+            "Competitive benefits including 401k, health insurance, Paid Time Off, Life Insurance and others — customize per role/location (https://www.varmoda.com/benefits.html)",
+            "Veteran-friendly (V3) workplace culture"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Architect GCP data and lakehouse solutions using BigQuery, Dataflow, Dataproc, Composer, Pub/Sub, and dbt",
+            "Design and optimize relational and distributed database solutions",
+            "Develop and operationalize ML models and LLM pipelines using Python, PyTorch, TensorFlow, and MLOps tools",
+            "Lead customer architecture discussions, workshops, and cloud implementation engagements",
+            "Support secure Public Sector solutions, including DoD IL5/IL6 environments"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=CwGlC6HDjDH_pDXiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFy7uzjdLNpIwUWnoiI6OnQtl_ZIIuldyZ3QT_CzxTe86ruqmkuWzwhXNATkEdoH3DgkJioKe3iKByUsQwRhuIuETJtzNJv15JxqroMaWhrqQSYnTF4W9xav_3qNWGjOaNQ3x8NSzxy26w7LJCNCYniRmvAOuvYH4XqISIsAAAA&shmds=v1_Ac3VAozNY1GfK3SAQClbX6YiWqaZWjfoYv0Qgom5OqPt1j8sHQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=CwGlC6HDjDH_pDXiAAAAAA%3D%3D",
+      "extensions": [
+        "17 days ago",
+        "110K–120K a year",
+        "Full-time",
+        "Dental insurance",
+        "Paid time off",
+        "Health insurance"
+      ],
+      "source_link": "https://www.monster.com/job-openings/cloud-data-and-ai-engineers-reston-va--cc4e3c4c-8da3-40ee-8afa-dc456b1d827d",
+      "job_title": "Cloud Data and AI Engineers",
+      "description": "Varmoda is seeking a Lead Cloud Data & AI Engineer / Solutions Architect (GCP) to design and deliver scalable cloud data, AI/ML, and lakehouse solutions on GCP. The role requires strong customer-facing architecture experience, deep GCP data expertise, and familiarity with U.S. Public Sector security environments.\n\n Key Responsibilities\n\n Architect GCP data and lakehouse solutions using BigQuery, Dataflow, Dataproc, Composer, Pub/Sub, and dbt. Design and optimize relational and distributed database solutions. Develop and operationalize ML models and LLM pipelines using Python, PyTorch, TensorFlow, and MLOps tools. Lead customer architecture discussions, workshops, and cloud implementation engagements. Support secure Public Sector solutions, including DoD IL5/IL6 environments. Required Qualifications\n\n 10+ years of experience with relational/distributed databases such as PostgreSQL, AlloyDB, Oracle, and Cloud SQL. Strong expertise across the GCP data ecosystem. Experience with database performance tuning, replication, and migrations. Experience developing and deploying AI/ML and LLM solutions. Strong B2B/customer-facing cloud architecture and advisory experience. U.S. Citizenship required. Ability to support on-site/customer deployments in Reston, VA as needed. Preferred Qualifications\n\n Active TS/SCI with Polygraph strongly preferred. GCP Professional certifications in Data Engineering, ML Engineering, Cloud Architecture, or Database Engineering. Public Sector cloud implementation experience. Familiarity with DoD IL5/IL6 requirements. Certifications & Clearance\n\n U.S. Citizenship: Required TS/SCI + Polygraph: Strongly preferred, not mandatory GCP Professional Certifications: PreferredAbout Varmoda\n\nVarmoda is a federal IT solutions provider founded in 2020 and headquartered in McLean, Virginia, delivering citizen-centric public services across Financial Assistance, Public Benefits, and Security & Defense domains. Our five-layer architecture — Salesforce (Engagement), Databricks (Data), ServiceNow (Orchestration), Pega (Decisioning), and Oracle HR (Capacity) — puts data at the common thread of every solution we build for federal agencies and the citizens they serve. Varmoda holds CMMI Maturity Level 3, ISO 9001, ISO 20000, and ISO 27001 certifications, and is recognized as a V3 veteran-friendly employer.\n\nWhy Varmoda\n\nGrowth opportunity within a fast-scaling federal IT firmDirect impact on citizen-facing federal programsCompetitive benefits including 401k, health insurance, Paid Time Off, Life Insurance and others — customize per role/location (https://www.varmoda.com/benefits.html)Veteran-friendly (V3) workplace culture\nSkills:\nArtificial Intelligence (AI), Business-to-Business (B2B), Capability Maturity Model Integration (CMMI), Cloud Architecture, Cloud Computing, Customer Relations, Database Programming, Database Technology, Distributed Databases, Ecosystems, Federal Government, Financial Services, GCP (Good Clinical Practices), Government, ISO (International Organization for Standardization), ISO 9001, Operations Planning, Oracle, Performance Tuning/Optimization, PostgreSQL, Public Cloud, Public Finance, Python Programming/Scripting Language, Relational Databases (RDBMS), Replication and Remote Mirroring, SQL (Structured Query Language), Salesforce.com, Sensitive Compartmented Information (SCI), ServiceNow, Software Engineering, Top Secret Clearance, United States Citizen, United States Department of Defense (DoD)\n\n\nVarmoda",
+      "apply_options": [
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/cloud-data-and-ai-engineers-reston-va--cc4e3c4c-8da3-40ee-8afa-dc456b1d827d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/be3728bf-18bb-452d-b0e8-18dbce57797c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobright",
+          "link": "https://jobright.ai/jobs/info/6ada37214c3adc437ceca7ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/cloud-data-and-ai-engineers-reston-va--cc4e3c4c-8da3-40ee-8afa-dc456b1d827d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/varmoda/Job/Cloud-Data-and-AI-Engineers/-in-Reston,VA?jid=e5fe41449ad5a69c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobMESH",
+          "link": "https://jobmesh.io/job/cd54b2e6-6596-4b53-ac72-e9018318f8e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Match Moth",
+          "link": "https://www.matchmoth.com/listing/77f7abe60961c77b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LifeworQ",
+          "link": "https://lifeworq.com/job/c007eef5-fdc2-4337-b7ed-110e52fdce09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBEYXRhIGFuZCBBSSBFbmdpbmVlcnMiLCJjb21wYW55X25hbWUiOiJWYXJtb2RhIiwiaHRpZG9jaWQiOiJDd0dsQzZIRGpESF9wRFhpQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV25reE1rcEVMVkppY3pob1psbFVNRk54VjBneVVHeERUR1p4VUVGS2JqWXRRbE00UVRGa1l6ZGxSV2RmVUVZd2NrOWtUVkF0UkRWS1QxbzBPREoxU0VWeWNqQTNTazQ1UW5kU1pUVmxNV3B1WDFnMFZFZ3pNM1JFTjNaQk1EZGhkVk42Umpoa1JHcGxiVFZtZVhseFVrOVpVM2hVY0dZd1RUUTNOMWxqTVMxRVQxUktiVklTRm1WM2VteGhjVXAyTkdOaFVUaG5Yeko0VEV0S1EyY2FJa0ZJVGpCRk4wVkZkRW90VkRKWE9HcEZhRVZQYTFKNmJETlpjVXRzWVdWaFNGRSIsImZjdiI6IjMiLCJmY19pZCI6IkN3R2xDNkhEakRIX3BEWGlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Cyber - AI Cloud Security Engineer - Senior Consultant",
+      "company_name": "Deloitte",
+      "location": "Cincinnati, OH",
+      "via": "Indeed",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ability to work independently and collaborate as part of a team",
+            "Effective written and verbal communication skills",
+            "Meticulous attention to detail and quality of work product",
+            "Ability to build and sustain professional relationships",
+            "Ability to lead projects or workstreams",
+            "Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment",
+            "Strong interpersonal skills and professional demeanor",
+            "Ability to meet deadlines",
+            "Ability to provide clear guidance to others",
+            "Bachelor's degree in Information Technology, Computer Science, Artificial Intelligence, Cybersecurity, Computer Engineering, or Software Engineering; equivalent professional work experience in software engineering, AI engineering, cybersecurity, cloud security, application security, or technology consulting may be considered in lieu of a degree",
+            "3+ years of professional experience in software engineering, AI engineering, cybersecurity, cloud security, application security, or technology consulting, including hands-on experience designing and implementing software, AI, cloud security, or cybersecurity solutions",
+            "Hands-on experience using at least one of the following AI platforms: Anthropic Claude, Claude Code, OpenAI, Google Gemini, Amazon Bedrock, or Vertex AI",
+            "Experience designing or implementing cloud security architecture, secure application development, development, security, and operations (DevSecOps), infrastructure security, or AI security controls",
+            "Experience developing and deploying APIs, database-backed services, distributed systems, or cloud applications using Python, TypeScript, JavaScript, Go, or Java, including automated testing, deployment, and observability",
+            "Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve",
+            "Limited immigration sponsorship may be available"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
+            "A reasonable estimate of the current range is $105,400 to $207,800",
+            "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You will apply hands-on software engineering, cybersecurity, and cloud architecture experience to lead delivery of production-quality solutions that help clients build resilient AI platforms and embed security throughout the technology lifecycle",
+            "As an AI Cloud Security Engineer, Senior Consultant on the Cyber and Cloud Security team, you will be responsible for:",
+            "Designing secure architectures for generative AI, agentic AI, retrieval-augmented generation (RAG), model-serving, and AI-enabled enterprise applications; defining security boundaries and applying AI Zero Trust controls across models, agents, tools, application programming interfaces (APIs), data, cloud workloads, development pipelines, and runtime environments",
+            "Embedding security across the AI software development lifecycle through threat modeling, security gates, model and prompt versioning, evaluation datasets, approval workflows, release criteria, and testing for prompt injection, data leakage, unsafe tool use, model abuse, and policy violations",
+            "Designing and implementing secure AI workloads across Amazon Web Services, Microsoft Azure, Google Cloud, and hybrid environments, including cloud landing zones, network isolation, private connectivity, logging, encryption, key management, data protection, containers, serverless workloads, Kubernetes, and infrastructure-as-code controls",
+            "Building AI-assisted capabilities to identify, analyze, prioritize, test, and remediate vulnerabilities across code, applications, APIs, cloud configurations, infrastructure, dependencies, containers, and AI workloads; implementing human approval and validation before high-impact remediation is deployed",
+            "Developing production AI security applications and platforms using user experiences, APIs, backend services, microservices, event-driven workflows, RAG, model integrations, observability, and unit, integration, end-to-end, performance, security, and AI evaluation testing",
+            "Leading client discovery, architecture sessions, technical workshops, design reviews, deployment, and operational handoff; creating reusable reference architectures, technical standards, playbooks, and accelerators; mentoring engineers and contributing to practice development",
+            "The team builds reusable platforms, accelerators, reference architectures, and implementation patterns that help clients secure AI innovation from design through production"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=D-ynCqJzU3LsdMPZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MSwrCMBBAcdsjdDVr0UYEN7qSKH5AXPQAJY1DGokzJTOFeiOPaXXzFu_BKz6z4mbfLWZYwv4CNvHwgBr9kKO-4UghEv5jjRQ5g2WSIakjndyVWxB02XfABCfmkLDcdaq9bI0RSVUQdRp95fllmLDl0Ty5lR8a6VzGPjnFZr1ZjVVPYV4eMHFURYgENpKPRNNgAffzF6p9znarAAAA&shmds=v1_Ac3VAoxPgC4b0zIASjjqOk-Q2R0CnLPSRK_KXJwWedBlDzXwXQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=D-ynCqJzU3LsdMPZAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABAUCBwgD_8QAORAAAQMDAQMHBw0AAAAAAAAAAQACAwQFEQYSIXEHExYxNnSzMkFRkZTB0QgUFRciIzdVVmFygeH_xAAWAQEBAQAAAAAAAAAAAAAAAAAABAL_xAAZEQEAAwEBAAAAAAAAAAAAAAAAAgMRAQT_2gAMAwEAAhEDEQA_ANGoiyjjfLI2OJjnyPIa1rRkuJ6gAgxRW3RjUH5FdPY5PgolbbK-34-f0NTTZ6ufhczPrCCIiIgIiICttI9q7L3-DxGqpVtpHtXZe_weI1B1xqi-U-m7FVXesjllgpgC9kQBccuA3ZIHnVLpPWundf01TS00bnOY3M1HWRDOyd2cbwQvLlk_Da9fwZ4jVpr5Pwk-sAc3nZFHLznD7Pvwg8-WjRFPpO8wVNrYWW6vDiyPrETx5TR-28Ef2tcroT5SRZ0btTTjbNaSOGwc-5c9oCIiArbSPauy9_g8RqqVnDLJBKyWF7o5I3BzHtOC0jqIPpQdl6psUGpbDVWiqllihqQ0OfFjaGHA7s7vMqTSejNO8n1HU1MExaXt-_rKyUZ2RvxncAFzR0x1P-obr7ZJ8VAuF2uVzx9I3Crq8HI5-Zz8esoNk641db9ccoFspGuDrLSPMcZfuEzzvLuBIaB_qma8t1u6M1MksEMT4QOYc1oaQ7IwBx9C071KRU11ZVMYyqqp5ms8kSSFwHDKku80rLYz5LMY7He6joiKtsREQEREBERAREQf_9k.jpeg",
+      "extensions": [
+        "22 days ago",
+        "105K–208K a year",
+        "Full-time"
+      ],
+      "source_link": "https://www.indeed.com/viewjob?jk=b5f61450456c189f",
+      "job_title": "Cyber - AI Cloud Security Engineer - Senior Consultant",
+      "description": "Deloitte is seeking an AI Cloud Security Engineer, Senior Consultant to design, build, and secure next-generation AI-enabled products, platforms, and cloud environments. This engineering-focused Senior Consultant role combines artificial intelligence (AI) security architecture, AI Zero Trust, secure AI software development, cloud security engineering, and AI-enabled vulnerability discovery and remediation. \n \n\n \n\n  You will apply hands-on software engineering, cybersecurity, and cloud architecture experience to lead delivery of production-quality solutions that help clients build resilient AI platforms and embed security throughout the technology lifecycle. \n \n\n \n\n  Recruiting for this role ends on 12/31/2026. \n \n\n \nWork you'll do\n \n\n \n\n  As an AI Cloud Security Engineer, Senior Consultant on the Cyber and Cloud Security team, you will be responsible for: \n \n\n \n  Designing secure architectures for generative AI, agentic AI, retrieval-augmented generation (RAG), model-serving, and AI-enabled enterprise applications; defining security boundaries and applying AI Zero Trust controls across models, agents, tools, application programming interfaces (APIs), data, cloud workloads, development pipelines, and runtime environments\n  Embedding security across the AI software development lifecycle through threat modeling, security gates, model and prompt versioning, evaluation datasets, approval workflows, release criteria, and testing for prompt injection, data leakage, unsafe tool use, model abuse, and policy violations\n  Designing and implementing secure AI workloads across Amazon Web Services, Microsoft Azure, Google Cloud, and hybrid environments, including cloud landing zones, network isolation, private connectivity, logging, encryption, key management, data protection, containers, serverless workloads, Kubernetes, and infrastructure-as-code controls\n  Building AI-assisted capabilities to identify, analyze, prioritize, test, and remediate vulnerabilities across code, applications, APIs, cloud configurations, infrastructure, dependencies, containers, and AI workloads; implementing human approval and validation before high-impact remediation is deployed\n  Developing production AI security applications and platforms using user experiences, APIs, backend services, microservices, event-driven workflows, RAG, model integrations, observability, and unit, integration, end-to-end, performance, security, and AI evaluation testing\n  Leading client discovery, architecture sessions, technical workshops, design reviews, deployment, and operational handoff; creating reusable reference architectures, technical standards, playbooks, and accelerators; mentoring engineers and contributing to practice development\n \n \n\n  A successful candidate would possess these skills: \n \n\n \n  Ability to work independently and collaborate as part of a team\n  Effective written and verbal communication skills\n  Meticulous attention to detail and quality of work product\n  Ability to build and sustain professional relationships\n  Ability to lead projects or workstreams\n  Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment\n  Strong interpersonal skills and professional demeanor\n  Ability to meet deadlines\n  Ability to provide clear guidance to others\n \n \nThe team\n \n\n \n\n  Deloitte's Cyber and Cloud Security teams help organizations adopt emerging technologies securely and at scale. Our professionals work across security architecture, cloud engineering, application security, AI, risk, and technology transformation to help clients design resilient platforms and embed security into how technology is built and operated. \n \n\n \n\n  This future-focused engineering capability operates at the intersection of AI, cybersecurity, cloud, and software delivery. The team builds reusable platforms, accelerators, reference architectures, and implementation patterns that help clients secure AI innovation from design through production. \n \n\n \nQualifications\n \n\n \n\n  Required: \n \n\n \n  Bachelor's degree in Information Technology, Computer Science, Artificial Intelligence, Cybersecurity, Computer Engineering, or Software Engineering; equivalent professional work experience in software engineering, AI engineering, cybersecurity, cloud security, application security, or technology consulting may be considered in lieu of a degree\n  3+ years of professional experience in software engineering, AI engineering, cybersecurity, cloud security, application security, or technology consulting, including hands-on experience designing and implementing software, AI, cloud security, or cybersecurity solutions\n  Hands-on experience using at least one of the following AI platforms: Anthropic Claude, Claude Code, OpenAI, Google Gemini, Amazon Bedrock, or Vertex AI\n  Experience designing or implementing cloud security architecture, secure application development, development, security, and operations (DevSecOps), infrastructure security, or AI security controls\n  Experience developing and deploying APIs, database-backed services, distributed systems, or cloud applications using Python, TypeScript, JavaScript, Go, or Java, including automated testing, deployment, and observability\n  Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve.\n  Limited immigration sponsorship may be available.\n \n \n\n  Preferred: \n \n\n \n  Production experience securing Anthropic Claude, Claude Code, OpenAI, Google Gemini, Amazon Bedrock, or Vertex AI\n  Experience designing AI Zero Trust architectures or implementing security controls for models, agents, tools, data, and AI runtime environments\n  Experience conducting AI red teaming, adversarial testing, model evaluation, prompt security testing, RAG security testing, or responsible AI control testing\n  Experience developing applications using React, Next.js, Node.js, FastAPI, GraphQL, Representational State Transfer (REST) APIs, microservices, or event-driven systems\n  Experience implementing policy-as-code, infrastructure-as-code security, or automated remediation using Terraform, Open Policy Agent, Checkov, tfsec, Kyverno, static application security testing (SAST), dynamic application security testing (DAST), software composition analysis, secrets scanning, or container security tools\n  Experience securing Kubernetes, containers, serverless platforms, cloud-native applications, or software supply chains\n \n \n\n  The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $105,400 to $207,800. \n \n\n \n\n  You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance. \n \n\n \n\n  #CyberES27",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=b5f61450456c189f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/cyber-ai-cloud-security-engineer-manager-cincinnati-oh--fd3750c1-fc2f-4494-b824-f23300e7e9e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Avani-Technology-Solutions/Job/Cloud-DevOps-Security/-in-Cincinnati,OH?jid=77bdc96862c9aac5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.com/job/lm01-nAezVx9IMEtPaXI202IxinpnmZbu991fD5katOeM_quPPVC_g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/cyber-ai-cloud-security-engineer-senior-consultant--cincinnati--e9f4c1890cbc760cb57070f254f35c1a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dejobs.org",
+          "link": "https://dejobs.org/x/x/92877955A7D740DEAECD2869688625E5/job/?utm_campaign=job-3675156&utm_content=apply_button&utm_medium=job_detail&utm_source=wearedevelopers&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/cyber-or-information-security-engineer-or-analyst/oh/cincinnati/senior-cloud-security-infrastr-9d65ecd9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CareerBuilder",
+          "link": "https://www.careerbuilder.com/job-details/cloud-security-engineer-manager-cincinnati-oh--bd79e3df-b9e8-4ea8-8ef0-9bcfbe18ab9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDeWJlciAtIEFJIENsb3VkIFNlY3VyaXR5IEVuZ2luZWVyIC0gU2VuaW9yIENvbnN1bHRhbnQiLCJjb21wYW55X25hbWUiOiJEZWxvaXR0ZSIsImh0aWRvY2lkIjoiRC15bkNxSnpVM0xzZE1QWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFltRmhOeTF0TlRrNGJuUk1hVU5OT0dsbmJreHdSemRMY0UxcmQwUnJUbGhTUTFSaWRGUjBZblJOYVZneFF6TnFMWGw2Y1VKMVYzZG5kaTFNTkRRNVIxTkhaMDlCZEdwZmRqZGFabnBEY0V4aGJFdHlUamRhYWtWSGJtczFhbW80ZDFVdFdWbEVVWGxJVW00M1ZYVlFaMmhEYTJwVU0wVmlaa0pFTFhZMFZsWlJSalpOVkc4U0ZtVjNlbXhoY1VwMk5HTmhVVGhuWHpKNFRFdEtRMmNhSWtGSVRqQkZOMGRVV1RkbFNEVTRWbFU1TmpWVldHUTBRMjlYWkdKS1dYRXpTbEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJELXluQ3FKelUzTHNkTVBaQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Principal Cloud Engineer - AI Platform",
+      "company_name": "Buildertrend",
+      "location": "Anywhere",
+      "via": "Jobgether",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "10+ years of experience architecting enterprise-grade GCP environments, with advanced knowledge of GCP-native networking, including VPC Service Controls and Private Service Connect, as well as IAM perimeters and Workload Identity",
+            "Previous experience at a B2B SaaS company",
+            "Strong infrastructure as code practice",
+            "Hands-on experience running AI or ML workloads in production, such as model serving, agent runtimes or inference gateways, and understand how their needs differ from traditional web applications",
+            "Practical depth in workload identity and machine-to-machine authorization, including service accounts, short-lived credentials, certificate-based identity, and token delegation, and the challenges of on-behalf-of authorization flows",
+            "Track record-owning production incidents, including calling deployments under pressure and updating executives during an outage",
+            "Experience with agent development frameworks, agent runtime platforms and the emerging tooling around them",
+            "Experience with automated secrets rotation, policy as code and governance that limits unauthorized “Shadow AI” deployments, with an eye on the new attack surfaces AI creates",
+            "No more juggling disconnected tools or guessing on profitability"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Compensation: $175,000-$250,000 per year",
+            "Exceptional health packages, including medical, dental, and vision coverage, plus life insurance and short- and long-term disability benefits",
+            "A 401(k) plan with Buildertrend matching contributions to help you plan for the future",
+            "Generous paid time off, 11 paid holidays, plus personal days to make sure you have time to recharge",
+            "Parental leave and paid sabbaticals to support you during life’s big moments",
+            "Volunteer time off – because giving back matters",
+            "Wellness program and onsite fitness center to keep you feeling your best",
+            "Opportunities for hybrid or remote work to give you the flexibility you need",
+            "Technology reimbursement to help cover costs for the tech you need to do your job from home",
+            "Free daily lunches when you're at our HQ office, plus monthly events to connect with your team"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Principal Cloud Engineer, AI Platform at Buildertrend, you’ll shape the cloud foundation that allows AI agents to support real customer workflows while protecting data, controlling costs and maintaining performance",
+            "You’ll own critical platform architecture, establish standards that help engineering teams move independently and make the technical decisions that determine how safely we scale AI across our products",
+            "Your work will help builders and remodelers spend less time managing processes and more time growing their businesses",
+            "Design and maintain the infrastructure behind production AI agents, including workload identity, ingress and egress gateways, network isolation and platform-level sensitive data redaction",
+            "Lead decisions on Google Cloud Platform (GCP) networking, private connectivity, zero-trust egress and service perimeters to protect workloads without limiting the platform’s ability to grow",
+            "Develop reusable Terraform modules and CI/CD pipelines that help product teams deploy safely and independently, including temporary environments for validating changes before merge",
+            "Establish a centralized, approved path for large language models (LLM) access, including routing, virtual keys, provider onboarding, observability and cost attribution",
+            "Document platform and vendor decisions with total cost of ownership, barriers to entry, trade-offs and open questions clearly defined so teams can make informed decisions and build on a consistent foundation",
+            "Serve as a technical counterpart to major cloud and AI providers, escalate complex issues and validate roadmap commitments before they influence platform architecture",
+            "Take incident command during critical production issues, make informed go/no-go decisions under pressure and communicate risks and status clearly to technical leaders and executives",
+            "Implement safeguards for credentials, secrets and AI usage, including automated secrets rotation and policy-as-code controls that reduce the risk of unauthorized AI deployments",
+            "Lead blameless postmortems, identify systemic weaknesses and turn incident findings into measurable improvements in platform security, resilience and operational readiness",
+            "Embrace using AI as a tool to enhance your work, while remaining open to learning, applying critical thinking, and owning the quality of your final work",
+            "Approach incidents without blame, communicate directly, take ownership of platform outcomes and turn lessons learned into practical improvements that help other engineers deliver reliable software",
+            "As the leading residential construction management platform, we give contractors the power to control their financials, schedules, team workflows and client relationships – all in one system"
+          ]
+        }
+      ],
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=zeL9o3k5bWuMRqPmAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CJ1uFmxEcFEcVER06uZY0vRMIuldyF2hj-LjWpcfvuWvvqvq1JZILmab4Jp4GuBGPhJigQ2cH9Amq28u46In9yBoiwvABHdmn7A-BtUsB2NEUuNFrUbXOB4NE_Y8mw_38k8nwRbMyw273X47N5n8ur5MMQ1YtCANEAleVkIkr0w_vTERTZsAAAA&shmds=v1_Ac3VAozrRPptCIz_hssh0cELIS8XhffEaI5RBjM8dPdqLYmfvQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=zeL9o3k5bWuMRqPmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEBAAMBAAAAAAAAAAAAAAAABwQGCAX_xAAtEAABBAECBAQFBQAAAAAAAAABAAIDBAUGEQcSITETMkFxFFFhgcEVIlKRsf_EABkBAQACAwAAAAAAAAAAAAAAAAACBAEDBf_EAB4RAAICAwADAQAAAAAAAAAAAAABAhEDBDESYaET_9oADAMBAAIRAxEAPwCRIiLqFIIqLBwpsy6PbqP9YhEZofG-B8Md9uTn5ebm7-m-ynSjGSlwk4tdCIikRCIiAIiIDqTSdKPJcM8VQmc9sVrERwvczzAOiAO316rUrXBXTVarLPLlspFHEwvfI6SLZrR1JP7Oy23Sd1mO4aYq7KCY62IjmcB3IbECf8XPmoNbah1BLOb2TsNrzbg1IZCyEN_jyjuPfdUscZuTp0WZuK6eZJj3Sst2qDJZaEEhAle0B3LueUke3f5LBKp2hHQWNOeD4IAa97JR6PJ67_0dlOclXFTIWazTu2GVzB7AkBXqpHK19v8AbNkxNV4v4Y6IiwXAiIgLtw91xi2cNrEWWewvxNcxSwE9Zoz0YAPXfcN91KMHpW5mK_xULoq9cvIb4hJ6fT57dl4HTcHYdFsVHWWTo04qsEdXkiaGs3jPQfYqEMai2zTty2HjSwVfs3qtBT0vgyHyHw4t3Pce8jj-T2ClFud1m1LPJ5pXl5-53WTlMxeysgfenLw3ysHRrfYLBK2Sd8K2jpyweU8jucuhERYL4REQBERAEREAREQH_9k.jpeg",
+      "extensions": [
+        "18 days ago",
+        "Work from home",
+        "Full-time",
+        "No degree mentioned",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://jobgether.com/offer/6acda64849c73d7b997493fc-principal-cloud-engineer---ai-platform",
+      "job_title": "Principal Cloud Engineer - AI Platform",
+      "description": "This a Full Remote job, the offer is available from: United States, Nebraska (USA)\n\n \n\nCompensation: $175,000-$250,000 per year\nLocation: United States – Remote or Omaha, NE - Hybrid\n\nThe job: \n\nAs a Principal Cloud Engineer, AI Platform at Buildertrend, you’ll shape the cloud foundation that allows AI agents to support real customer workflows while protecting data, controlling costs and maintaining performance. You’ll own critical platform architecture, establish standards that help engineering teams move independently and make the technical decisions that determine how safely we scale AI across our products. AI agents are already changing how work gets done, and the infrastructure behind them determines whether that change is secure, reliable and sustainable. Your work will help builders and remodelers spend less time managing processes and more time growing their businesses.\n\nWhat you will do: \n\nDesign and maintain the infrastructure behind production AI agents, including workload identity, ingress and egress gateways, network isolation and platform-level sensitive data redaction.Lead decisions on Google Cloud Platform (GCP) networking, private connectivity, zero-trust egress and service perimeters to protect workloads without limiting the platform’s ability to grow.Develop reusable Terraform modules and CI/CD pipelines that help product teams deploy safely and independently, including temporary environments for validating changes before merge.Establish a centralized, approved path for large language models (LLM) access, including routing, virtual keys, provider onboarding, observability and cost attribution.Document platform and vendor decisions with total cost of ownership, barriers to entry, trade-offs and open questions clearly defined so teams can make informed decisions and build on a consistent foundation.Serve as a technical counterpart to major cloud and AI providers, escalate complex issues and validate roadmap commitments before they influence platform architecture.Take incident command during critical production issues, make informed go/no-go decisions under pressure and communicate risks and status clearly to technical leaders and executives.Implement safeguards for credentials, secrets and AI usage, including automated secrets rotation and policy-as-code controls that reduce the risk of unauthorized AI deployments.Lead blameless postmortems, identify systemic weaknesses and turn incident findings into measurable improvements in platform security, resilience and operational readiness.Embrace using AI as a tool to enhance your work, while remaining open to learning, applying critical thinking, and owning the quality of your final work.Who you are and what you need: \n\n10+ years of experience architecting enterprise-grade GCP environments, with advanced knowledge of GCP-native networking, including VPC Service Controls and Private Service Connect, as well as IAM perimeters and Workload Identity.Previous experience at a B2B SaaS company.Strong infrastructure as code practice.Hands-on experience running AI or ML workloads in production, such as model serving, agent runtimes or inference gateways, and understand how their needs differ from traditional web applications.Practical depth in workload identity and machine-to-machine authorization, including service accounts, short-lived credentials, certificate-based identity, and token delegation, and the challenges of on-behalf-of authorization flows.Track record-owning production incidents, including calling deployments under pressure and updating executives during an outage.Experience with agent development frameworks, agent runtime platforms and the emerging tooling around them.Approach incidents without blame, communicate directly, take ownership of platform outcomes and turn lessons learned into practical improvements that help other engineers deliver reliable software.Experience with automated secrets rotation, policy as code and governance that limits unauthorized “Shadow AI” deployments, with an eye on the new attack surfaces AI creates.\nWe are giving you:                                                                       \n\nExceptional health packages, including medical, dental, and vision coverage, plus life insurance and short- and long-term disability benefitsA 401(k) plan with Buildertrend matching contributions to help you plan for the futureGenerous paid time off, 11 paid holidays, plus personal days to make sure you have time to rechargeParental leave and paid sabbaticals to support you during life’s big momentsVolunteer time off – because giving back matters\nWellness program and onsite fitness center to keep you feeling your bestOpportunities for hybrid or remote work to give you the flexibility you needTechnology reimbursement to help cover costs for the tech you need to do your job from homeFree daily lunches when you're at our HQ office, plus monthly events to connect with your teamWho we are: \n\nGreat builders don’t just manage projects – they run successful businesses. That’s where Buildertrend comes in. As the leading residential construction management platform, we give contractors the power to control their financials, schedules, team workflows and client relationships – all in one system. No more juggling disconnected tools or guessing on profitability. With nearly two decades of industry expertise, Buildertrend helps builders work smarter, scale faster and stay ahead of the competition. If you want to learn more about us, check out: https://buildertrend.com/about/\n\nWorking at Buildertrend: \n\nAt Buildertrend, we fully recognize that we all work so we can live better lives—we appreciate and respect that this is a job and not your whole life. What makes Buildertrend so special is a commitment to ensuring you can have the best job, work with the best people, and live your best life outside of work. Our goal is to create a culture where everyone can make an impact on our customers, communities, and each other. In short: We want you to be who you are, love what you do, and build your best life.\n\nBuildertrend Solutions, Inc. is committed to a policy of Equal Employment Opportunity and will not discriminate against an applicant or employee based on race, including natural or protective hairstyle, color, religion, creed, national origin or ancestry, ethnicity, sex (including gender, pregnancy and pregnancy-related conditions, childbirth, breastfeeding, sexual orientation, gender identity, gender expression, sexual orientation, reproductive decision-making), age, physical or mental disability, veteran or military status, genetic information, citizenship, marital status, or any other legally recognized protected basis under federal, state, or local law. The information collected by this application is solely to determine suitability for employment, verify identity, and maintain employment statistics on applicants.\n\nApplicants with disabilities may be entitled to reasonable accommodation under the Americans with Disabilities Act and certain state or local laws. A “reasonable accommodation” is a change in the way things are normally done which will ensure an equal employment opportunity without imposing undue hardship on Buildertrend Solutions, Inc. Please inform the company's personnel representative if you need assistance completing this application or to otherwise participate in the application process. To see the complete list of Essential Job Functions, visit https://buildertrend.com/essential-job-functions-notice/\n\nThis offer from \"Buildertrend\" has been enriched by Jobgether.com and got a 0% flex score.",
+      "apply_options": [
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6acda64849c73d7b997493fc-principal-cloud-engineer---ai-platform?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Fairygodboss",
+          "link": "https://fairygodboss.com/jobs/cvshealth/principal-software-engineer-applied-ai-fc30ce13abe1941bfe9adb19bd22c077?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQ2xvdWQgRW5naW5lZXIgLSBBSSBQbGF0Zm9ybSIsImNvbXBhbnlfbmFtZSI6IkJ1aWxkZXJ0cmVuZCIsImh0aWRvY2lkIjoiemVMOW8zazViV3VNUnFQbUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlqQnZWRnAwT1VWU2MzTnpNVWwyYUdnNWRHSXpVelJVWldkQ1dYSnFWVEphTjA1a1FUSm5aWHBoT0VVMFJrUmlWVWswWVVWMGRUVjRXSEJHV0ZsNFh6RkxURmhXYlUxTlFYTkdhWEk0TUVwWlFWQk5lV2swYzBGQ2MyVklka2RCZWw5U2MyTmZRa3d5Y1RsVFpqa3hNamh2Y1d4RlNVcDBXVEZRVjNWdVVpMVpVbTg1V0RjU0ZtVjNlbXhoY1VwMk5HTmhVVGhuWHpKNFRFdEtRMmNhSWtGSVRqQkZOMFZ2VERkWVMyOU9SM2N6YjJnemEyaG5jRGx3V0VkeVIxRnZjbEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6ZUw5bzNrNWJXdU1ScVBtQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2WUVDcmNFUVVSRVlsZGxXVVJOT1ZKNVZqY3pla3N6YldoTmJWYzNjMGxsWmkxNmVVYzJSRkIwU2s5RFdIVk1kMnd6Ykd0MVJVeFZTVE5wYmtwMlZGcFhkMDEzWVZrNFIzaEdha051VFhSQlpFRlFWR1pST0VoQmRVUjRkalp0VW1wSU5sVlBUa2hST1VOSVFscDJabUUxZVRKMFIzVjRNbXhJVTBWalpYcGlXVU5IUjNRNU1EWnJlVkJzVTJaMU5EaHFNalp1UzJ0cmVqRlNVMnBoYldSaFZuaDFXV05vTldwRFdHcHpWVTl3U0c0emNrbzJPVXRsYUc4d1UxODRaR3RNY25kQ2RUZzVjSHBoVEVsRFJYcFFXVlZUUlZGek9HdGZSblZPTkVkRFJUSXpUbUpLUW1aVE5uUTNZV1Z0WXpSMlMyY3RTVTVYVURKZlJETXhOVFZ1TVY5eFpYVkRkSGhTYm1sUmMzRmxSSEozYmxad1YzWlpXakk1TTJkNFVXMXhXbFJoY25rd00xRXpRM0EzVTBwaWRUVmxiM0ZCTVhCR0xWTmZSelZSWTNoSlRGcFVSVzk2TTNKSmRuVmFNVkp4T1VsWmFYbDNXRUp0TlV3MFREQmxOVGR5TlVwWVZEZEhURmxIUWkxck9EWkNZMUJaZERFMlNrOXJhVU4yVDB0RGRUWlpOazFHZHpCU1prSmFYMDVRU21KaFlWUlNjMkUyUVc1bE0wUTVNVkpDYUMwNGVHZEtlRVpIT0RsTGEyZDJkSFkwV1hoNlZIZDNSVGcyUWxGekxYRmxNRFZpWVRONFVHWkhWVlZOUWxGV2VqTTFZMkY2U2tOUWRUaG5NRGRrU2w5T04zUkpPVTk0VlV0WlJEbFBNV3BxVEVsV1dWRnhWMEZLVVdKaGJ6SjFaMVJOVWxWd2VGOXZTbEYwYlhoSmJUbFBRM2R3UjJWR2EyUmtUMVUyWVd4aFVsQTRlRlZ0TFVaNlh6aHNZakJzZG5WYWRsVlpWekpSRWhabGQzcHNZWEZLZGpSallWRTRaMTh5ZUV4TFNrTm5HaUpCU0U0d1JUZElhbVZCVVZjeWFsWnpiSEpUU0hkT1NURlVVMWt0WTNkRGRGTm4iLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkV2WUVDcmNFUVVSRVlsZGxXVVJOT1ZKNVZqY3pla3N6YldoTmJWYzNjMGxsWmkxNmVVYzJSRkIwU2s5RFdIVk1kMnd6Ykd0MVJVeFZTVE5wYmtwMlZGcFhkMDEzWVZrNFIzaEdha051VFhSQlpFRlFWR1pST0VoQmRVUjRkalp0VW1wSU5sVlBUa2hST1VOSVFscDJabUUxZVRKMFIzVjRNbXhJVTBWalpYcGlXVU5IUjNRNU1EWnJlVkJzVTJaMU5EaHFNalp1UzJ0cmVqRlNVMnBoYldSaFZuaDFXV05vTldwRFdHcHpWVTl3U0c0emNrbzJPVXRsYUc4d1UxODRaR3RNY25kQ2RUZzVjSHBoVEVsRFJYcFFXVlZUUlZGek9HdGZSblZPTkVkRFJUSXpUbUpLUW1aVE5uUTNZV1Z0WXpSMlMyY3RTVTVYVURKZlJETXhOVFZ1TVY5eFpYVkRkSGhTYm1sUmMzRmxSSEozYmxad1YzWlpXakk1TTJkNFVXMXhXbFJoY25rd00xRXpRM0EzVTBwaWRUVmxiM0ZCTVhCR0xWTmZSelZSWTNoSlRGcFVSVzk2TTNKSmRuVmFNVkp4T1VsWmFYbDNXRUp0TlV3MFREQmxOVGR5TlVwWVZEZEhURmxIUWkxck9EWkNZMUJaZERFMlNrOXJhVU4yVDB0RGRUWlpOazFHZHpCU1prSmFYMDVRU21KaFlWUlNjMkUyUVc1bE0wUTVNVkpDYUMwNGVHZEtlRVpIT0RsTGEyZDJkSFkwV1hoNlZIZDNSVGcyUWxGekxYRmxNRFZpWVRONFVHWkhWVlZOUWxGV2VqTTFZMkY2U2tOUWRUaG5NRGRrU2w5T04zUkpPVTk0VlV0WlJEbFBNV3BxVEVsV1dWRnhWMEZLVVdKaGJ6SjFaMVJOVWxWd2VGOXZTbEYwYlhoSmJUbFBRM2R3UjJWR2EyUmtUMVUyWVd4aFVsQTRlRlZ0TFVaNlh6aHNZakJzZG5WYWRsVlpWekpSRWhabGQzcHNZWEZLZGpSallWRTRaMTh5ZUV4TFNrTm5HaUpCU0U0d1JUZElhbVZCVVZjeWFsWnpiSEpUU0hkT1NURlVVMWt0WTNkRGRGTm4iLCJmY3YiOiIzIn0%3D&q=Cloud+AI+Engineer&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+  },
+  "crawl_metadata": {
+    "query": "Cloud AI Engineer",
+    "page": 1,
+    "collected_at_utc": "2026-10-30T21:30:34.631510+00:00",
+    "request_fingerprint": "353f5e531c2a90cd0fdcbd55168fd53b9043f2db19e04416422e41268600daa9",
+    "job_count": 10
+  }
+}
