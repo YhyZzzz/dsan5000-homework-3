@@ -1,0 +1,78 @@
+{
+  "job_key": "job-05db80f4bec336468186",
+  "cache_identity": "92d757926a52c7be51522c18f2146cf7be7809a025fc9aa9087d8b72d38d43cb",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:34.839245+00:00",
+  "wall_seconds": 17.79110916692298,
+  "prompt_eval_count": 914,
+  "eval_count": 224,
+  "total_duration_ns": 17790212750,
+  "load_duration_ns": 2190166,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Part-time\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"3+ years of experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Vancouver, WA\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Biotechnology\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"RNA-seq\",\"FASTQ\",\"BAM\",\"mzML\",\"BLAST\",\"genomic interval tools\",\"variant annotators\",\"phylogenetic software\",\"differential expression pipelines\",\"Chain of Thought\",\"Rubric Engineering\",\"automated LLM evaluation\"],\"benefits\":[],\"job_types\":[\"Part-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Part-time",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "3+ years of experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Vancouver, WA",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Biotechnology",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "RNA-seq",
+      "FASTQ",
+      "BAM",
+      "mzML",
+      "BLAST",
+      "genomic interval tools",
+      "variant annotators",
+      "phylogenetic software",
+      "differential expression pipelines",
+      "Chain of Thought",
+      "Rubric Engineering",
+      "automated LLM evaluation"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Part-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "job_key": "job-01b8da0eb42116ad9550",
+  "cache_identity": "606f0ead55641f1efc347b05c598228705a6329748909f3617abaaf9ccc84df1",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:37:45.081996+00:00",
+  "wall_seconds": 34.204892416950315,
+  "prompt_eval_count": 1525,
+  "eval_count": 353,
+  "total_duration_ns": 34203794042,
+  "load_duration_ns": 1900250,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$50-$60 per hour\",\"min\":50,\"max\":60,\"period\":\"hour\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3+ years of experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Consumer packaged goods\",\"value\":\"Retail/Consumer goods\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Syndicated data\",\"Analytics\",\"Category management\",\"POS data\",\"Panel data\",\"Excel\",\"Power Point\",\"Critical thinking\",\"Project management\",\"Process skills\",\"Microsoft Skills\",\"Data integrity\",\"Data analysis\",\"Translation\",\"Implications\",\"Consultative manner\",\"Client satisfaction\",\"Data integrity\",\"Data analysis\",\"Data translation\",\"Data implications\",\"Data insights\",\"Data recommendations\",\"Data integrity\",\"Data analysis\",\"Data translation\",\"Data implications\",\"Data insights\",\"Data recommendations\",\"Data integrity\",\"Data analysis\",\"Data translation\",\"Data implications\",\"Data insights\",\"Data recommendations\",\"Data integrity\",\"Data analysis\",\"Data translation\",\"Data implications\",\"Data insights\",\"Data recommendations\",\"Data integrity\",\"Data analysis\",\"Data translation\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Systematic approach\",\"Effective data integrity\",\"Planning and organizing\",\"Client focus\",\"Resilient\",\"Manages ambiguity\",\"Strategic insight\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":\"10/13/2026\"}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$50-$60 per hour",
+      "min": 50.0,
+      "max": 60.0,
+      "period": "hour",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3+ years of experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Consumer packaged goods",
+      "value": "Retail/Consumer goods"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Syndicated data",
+      "Analytics",
+      "Category management",
+      "POS data",
+      "Panel data",
+      "Excel",
+      "Power Point",
+      "Critical thinking",
+      "Project management",
+      "Process skills",
+      "Microsoft Skills",
+      "Data integrity",
+      "Data analysis",
+      "Translation",
+      "Implications",
+      "Consultative manner",
+      "Client satisfaction",
+      "Data integrity",
+      "Data analysis",
+      "Data translation",
+      "Data implications",
+      "Data insights",
+      "Data recommendations",
+      "Data integrity",
+      "Data analysis",
+      "Data translation",
+      "Data implications",
+      "Data insights",
+      "Data recommendations",
+      "Data integrity",
+      "Data analysis",
+      "Data translation",
+      "Data implications",
+      "Data insights",
+      "Data recommendations",
+      "Data integrity",
+      "Data analysis",
+      "Data translation",
+      "Data implications",
+      "Data insights",
+      "Data recommendations",
+      "Data integrity",
+      "Data analysis",
+      "Data translation"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Systematic approach",
+      "Effective data integrity",
+      "Planning and organizing",
+      "Client focus",
+      "Resilient",
+      "Manages ambiguity",
+      "Strategic insight"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": "10/13/2026"
+    }
+  }
+}

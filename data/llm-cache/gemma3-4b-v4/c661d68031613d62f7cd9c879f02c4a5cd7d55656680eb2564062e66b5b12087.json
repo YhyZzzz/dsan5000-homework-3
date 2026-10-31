@@ -1,0 +1,95 @@
+{
+  "job_key": "job-00e085f93793d7472a21",
+  "cache_identity": "c661d68031613d62f7cd9c879f02c4a5cd7d55656680eb2564062e66b5b12087",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:37:21.869842+00:00",
+  "wall_seconds": 34.05601241590921,
+  "prompt_eval_count": 2211,
+  "eval_count": 292,
+  "total_duration_ns": 34055177417,
+  "load_duration_ns": 2420625,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$197,300 - $225,100 for Data Engineer 4\",\"min\":197300,\"max\":225100,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"At least 4 years of experience in application development\",\"min_years\":4,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Financial Services\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor's Degree or higher\"],\"skills\":[\"Python\",\"SQL\",\"Scala\",\"Java\",\"Spark\",\"Cloud\",\"Data Warehousing\",\"NoSQL databases\",\"Relational databases\",\"Data Modeling\",\"Data Pipelines\",\"Data Warehousing Solutions\",\"Snowflake\",\"Redshift\",\"EMR\",\"Glue\",\"Databricks\",\"Airflow\",\"Dagster\",\"Monte Carlo\",\"Splunk\"],\"benefits\":[\"Health insurance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Collaborative\",\"Innovative\",\"Data-driven\",\"Technical\",\"Mentoring\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$197,300 - $225,100 for Data Engineer 4",
+      "min": 197300.0,
+      "max": 225100.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "At least 4 years of experience in application development",
+      "min_years": 4.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Financial Services",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor's Degree or higher"
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Java",
+      "Spark",
+      "Cloud",
+      "Data Warehousing",
+      "NoSQL databases",
+      "Relational databases",
+      "Data Modeling",
+      "Data Pipelines",
+      "Data Warehousing Solutions",
+      "Snowflake",
+      "Redshift",
+      "EMR",
+      "Glue",
+      "Databricks",
+      "Airflow",
+      "Dagster",
+      "Monte Carlo",
+      "Splunk"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Collaborative",
+      "Innovative",
+      "Data-driven",
+      "Technical",
+      "Mentoring"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

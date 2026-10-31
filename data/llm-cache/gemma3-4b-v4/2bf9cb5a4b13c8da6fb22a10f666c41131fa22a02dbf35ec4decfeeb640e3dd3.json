@@ -1,0 +1,92 @@
+{
+  "job_key": "job-100b1cfb651bde3bf252",
+  "cache_identity": "2bf9cb5a4b13c8da6fb22a10f666c41131fa22a02dbf35ec4decfeeb640e3dd3",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:42:29.353029+00:00",
+  "wall_seconds": 42.259466916904785,
+  "prompt_eval_count": 2879,
+  "eval_count": 517,
+  "total_duration_ns": 42258550042,
+  "load_duration_ns": 1874333,
+  "done_reason": "stop",
+  "raw_response": "{\n  \"salary\": {\n    \"quote\": \"75–110 an hour\",\n    \"min\": 75,\n    \"max\": 110,\n    \"period\": \"hour\",\n    \"currency\": \"USD\"\n  },\n  \"experience\": {\n    \"quote\": \"Eight or more years of experience\",\n    \"min_years\": 8,\n    \"max_years\": null,\n    \"level\": null\n  },\n  \"work\": {\n    \"quote\": \"fully remote position\",\n    \"value\": \"remote\"\n  },\n  \"visa\": {\n    \"quote\": null,\n    \"value\": null\n  },\n  \"industry\": {\n    \"quote\": null,\n    \"value\": null\n  },\n  \"education_degrees\": [\n    \"Bachelor's degree\"\n  ],\n  \"skills\": [\n    \"Microsoft 365\",\n    \"Power Platform\",\n    \"Dataverse\",\n    \"Teams\",\n    \"Outlook\",\n    \"SharePoint\",\n    \"Microsoft Graph\",\n    \"Azure services\",\n    \"AI governance\",\n    \"Responsible AI\",\n    \"API security\",\n    \"endpoint security\",\n    \"logging\",\n    \"monitoring\",\n    \"billing controls\",\n    \"operational readiness\"\n  ],\n  \"benefits\": [\n    \"Medical\",\n    \"dental & vision\",\n    \"Critical Illness, Accident, and Hospital\",\n    \"401(k) Retirement Plan\",\n    \"Life Insurance\",\n    \"Short and long-term disability\",\n    \"Health Spending Account\",\n    \"Transportation benefits\",\n    \"Employee Assistance Program\"\n  ],\n  \"job_types\": [\n    \"Contract\"\n  ],\n  \"certifications\": [],\n  \"soft_skills\": [],\n  \"company_values\": [],\n  \"collaboration_tools\": [],\n  \"required_languages\": [],\n  \"company_employees\": null,\n  \"team_size\": null,\n  \"travel_percent_max\": null,\n  \"dates\": {\n    \"application_deadline\": \"Oct 9, 2026\",\n    \"expected_start_date\": null,\n    \"posting_expiry_date\": null\n  }\n}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "75–110 an hour",
+      "min": 75.0,
+      "max": 110.0,
+      "period": "hour",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Eight or more years of experience",
+      "min_years": 8.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "fully remote position",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": null,
+      "value": null
+    },
+    "education_degrees": [
+      "Bachelor's degree"
+    ],
+    "skills": [
+      "Microsoft 365",
+      "Power Platform",
+      "Dataverse",
+      "Teams",
+      "Outlook",
+      "SharePoint",
+      "Microsoft Graph",
+      "Azure services",
+      "AI governance",
+      "Responsible AI",
+      "API security",
+      "endpoint security",
+      "logging",
+      "monitoring",
+      "billing controls",
+      "operational readiness"
+    ],
+    "benefits": [
+      "Medical",
+      "dental & vision",
+      "Critical Illness, Accident, and Hospital",
+      "401(k) Retirement Plan",
+      "Life Insurance",
+      "Short and long-term disability",
+      "Health Spending Account",
+      "Transportation benefits",
+      "Employee Assistance Program"
+    ],
+    "job_types": [
+      "Contract"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": "Oct 9, 2026",
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

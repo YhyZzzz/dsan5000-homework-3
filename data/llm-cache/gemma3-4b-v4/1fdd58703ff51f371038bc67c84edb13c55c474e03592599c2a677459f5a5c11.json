@@ -1,0 +1,86 @@
+{
+  "job_key": "job-135576c39596d11fa076",
+  "cache_identity": "1fdd58703ff51f371038bc67c84edb13c55c474e03592599c2a677459f5a5c11",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:43:33.875495+00:00",
+  "wall_seconds": 25.940851249964908,
+  "prompt_eval_count": 1465,
+  "eval_count": 293,
+  "total_duration_ns": 25915046125,
+  "load_duration_ns": 2325875,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Competitive compensation\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"One or more years of analyst-level work experience\",\"min_years\":1,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"hybrid, requiring three days per week in our Lenexa, Kansas office once initial training and team integration are complete. The role also involves some travel, up to about 10%\",\"value\":\"hybrid\"},\"visa\":{\"quote\":\"no visa sponsorship available\",\"value\":null},\"industry\":{\"quote\":\"insurance\",\"value\":\"Manufacturing\"},\"education_degrees\":[\"BA/BS\"],\"skills\":[\"Excel\",\"Data Interpretation\",\"Financial Statement Analysis\",\"Risk Management\"],\"benefits\":[\"Comprehensive total benefits package\",\"Dental insurance\",\"Vision coverage\",\"Life insurance\",\"Accidental Death & Dismemberment (AD&D) policies\",\"Long-Term Disability Coverage\",\"Employee Assistance Program\",\"Competitive compensation\",\"Annual bonus program opportunity\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Problem-solving\",\"Intellectually Curious\",\"Growth Oriented\",\"Teamwork\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":3000,\"team_size\":null,\"travel_percent_max\":10,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Competitive compensation",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "One or more years of analyst-level work experience",
+      "min_years": 1.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid, requiring three days per week in our Lenexa, Kansas office once initial training and team integration are complete. The role also involves some travel, up to about 10%",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": "no visa sponsorship available",
+      "value": null
+    },
+    "industry": {
+      "quote": "insurance",
+      "value": "Manufacturing"
+    },
+    "education_degrees": [
+      "BA/BS"
+    ],
+    "skills": [
+      "Excel",
+      "Data Interpretation",
+      "Financial Statement Analysis",
+      "Risk Management"
+    ],
+    "benefits": [
+      "Comprehensive total benefits package",
+      "Dental insurance",
+      "Vision coverage",
+      "Life insurance",
+      "Accidental Death & Dismemberment (AD&D) policies",
+      "Long-Term Disability Coverage",
+      "Employee Assistance Program",
+      "Competitive compensation",
+      "Annual bonus program opportunity"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Intellectually Curious",
+      "Growth Oriented",
+      "Teamwork"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": 3000,
+    "team_size": null,
+    "travel_percent_max": 10.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

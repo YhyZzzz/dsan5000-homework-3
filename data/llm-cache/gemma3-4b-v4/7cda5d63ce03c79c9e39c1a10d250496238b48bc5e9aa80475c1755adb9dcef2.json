@@ -1,0 +1,132 @@
+{
+  "job_key": "job-087ef3ca4096e07e8529",
+  "cache_identity": "7cda5d63ce03c79c9e39c1a10d250496238b48bc5e9aa80475c1755adb9dcef2",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:39:54.520595+00:00",
+  "wall_seconds": 44.211490000016056,
+  "prompt_eval_count": 2260,
+  "eval_count": 518,
+  "total_duration_ns": 44210639291,
+  "load_duration_ns": 1852500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"The annual base Pay Range for this position is $92,000 - $125,000.\",\"min\":92000,\"max\":125000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"5+ years of experience in data analytics, business intelligence, product analytics or a related analytical discipline\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Remote-first opportunity for US-based employees with the option to work in-person out of our Manhattan office\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"marketing analytics\",\"value\":\"Technology\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"SQL\",\"dbt\",\"data modeling\",\"Tableau\",\"business intelligence\",\"attribution\",\"incrementality\",\"media mix\",\"funnel analysis\",\"AI-enabled analytical agents\",\"customer analytics\",\"product analytics\",\"behavioral data\",\"marketing measurement\",\"data quality\",\"root cause analysis\",\"executive-level summaries\",\"data-driven marketing culture\",\"data infrastructure\",\"data modeling\",\"data analysis\",\"data visualization\",\"data interpretation\",\"business acumen\",\"strategic decisions\",\"analytical recommendations\",\"data-driven decisions\",\"data-driven marketing\",\"data-driven culture\",\"data-driven insights\",\"data-driven recommendations\",\"data-driven strategy\",\"data-driven culture\",\"data-driven insights\",\"data-driven recommendations\",\"data-driven strategy\",\"data-driven culture\",\"data-driven insights\",\"data-driven recommendations\",\"data-driven strategy\",\"data-driven culture\",\"data-driven insights\",\"data-driven recommendations\",\"data-driven strategy\"],\"benefits\":[\"Flexible working culture\",\"Incentive programs\",\"Unlimited PTO\",\"Generous paid parental leave\",\"Company-sponsored 401k match\",\"Learning and wellness subscription stipend\",\"Beautiful Union Square office with a casual dress code\",\"Industry-leading, employer-sponsored insurance for you and your dependents, with several 100% Zip-covered choices available\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"critical thinking\",\"cognitive flexibility\",\"mentoring\",\"leadership\",\"influence\",\"communication\",\"collaboration\"],\"company_values\":[\"Customer First\",\"Own it\",\"Stronger Together\",\"Change the Game\"],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "The annual base Pay Range for this position is $92,000 - $125,000.",
+      "min": 92000.0,
+      "max": 125000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "5+ years of experience in data analytics, business intelligence, product analytics or a related analytical discipline",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Remote-first opportunity for US-based employees with the option to work in-person out of our Manhattan office",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "marketing analytics",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "SQL",
+      "dbt",
+      "data modeling",
+      "Tableau",
+      "business intelligence",
+      "attribution",
+      "incrementality",
+      "media mix",
+      "funnel analysis",
+      "AI-enabled analytical agents",
+      "customer analytics",
+      "product analytics",
+      "behavioral data",
+      "marketing measurement",
+      "data quality",
+      "root cause analysis",
+      "executive-level summaries",
+      "data-driven marketing culture",
+      "data infrastructure",
+      "data modeling",
+      "data analysis",
+      "data visualization",
+      "data interpretation",
+      "business acumen",
+      "strategic decisions",
+      "analytical recommendations",
+      "data-driven decisions",
+      "data-driven marketing",
+      "data-driven culture",
+      "data-driven insights",
+      "data-driven recommendations",
+      "data-driven strategy",
+      "data-driven culture",
+      "data-driven insights",
+      "data-driven recommendations",
+      "data-driven strategy",
+      "data-driven culture",
+      "data-driven insights",
+      "data-driven recommendations",
+      "data-driven strategy",
+      "data-driven culture",
+      "data-driven insights",
+      "data-driven recommendations",
+      "data-driven strategy"
+    ],
+    "benefits": [
+      "Flexible working culture",
+      "Incentive programs",
+      "Unlimited PTO",
+      "Generous paid parental leave",
+      "Company-sponsored 401k match",
+      "Learning and wellness subscription stipend",
+      "Beautiful Union Square office with a casual dress code",
+      "Industry-leading, employer-sponsored insurance for you and your dependents, with several 100% Zip-covered choices available"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "critical thinking",
+      "cognitive flexibility",
+      "mentoring",
+      "leadership",
+      "influence",
+      "communication",
+      "collaboration"
+    ],
+    "company_values": [
+      "Customer First",
+      "Own it",
+      "Stronger Together",
+      "Change the Game"
+    ],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

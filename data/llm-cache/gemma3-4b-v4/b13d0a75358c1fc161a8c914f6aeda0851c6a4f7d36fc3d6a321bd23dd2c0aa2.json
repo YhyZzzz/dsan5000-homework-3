@@ -1,0 +1,80 @@
+{
+  "job_key": "job-1a82ca8d06fd55b7ca4e",
+  "cache_identity": "b13d0a75358c1fc161a8c914f6aeda0851c6a4f7d36fc3d6a321bd23dd2c0aa2",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:53:12.288458+00:00",
+  "wall_seconds": 26.294912249897607,
+  "prompt_eval_count": 1566,
+  "eval_count": 263,
+  "total_duration_ns": 26294239959,
+  "load_duration_ns": 2031125,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"176K–227K a year\",\"min\":176000,\"max\":227000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3–5 years of relevant experience, including at least 2–3 years working extensively with product analytics, experimentation, or data-driven products\",\"min_years\":3,\"max_years\":5,\"level\":null},\"work\":{\"quote\":\"Seattle, WA (+2 others)\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Fraud\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"SQL\",\"Python\",\"product analytics\",\"experimentation\",\"backtesting\",\"dashboard\",\"reporting frameworks\",\"core product metrics\",\"communication\",\"stakeholder management\"],\"benefits\":[\"Health insurance\",\"Dental insurance\",\"401(k)\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "176K–227K a year",
+      "min": 176000.0,
+      "max": 227000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3–5 years of relevant experience, including at least 2–3 years working extensively with product analytics, experimentation, or data-driven products",
+      "min_years": 3.0,
+      "max_years": 5.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Seattle, WA (+2 others)",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Fraud",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "product analytics",
+      "experimentation",
+      "backtesting",
+      "dashboard",
+      "reporting frameworks",
+      "core product metrics",
+      "communication",
+      "stakeholder management"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Dental insurance",
+      "401(k)"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

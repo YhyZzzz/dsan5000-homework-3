@@ -1,0 +1,80 @@
+{
+  "job_key": "job-01f2bce75123a3dbabee",
+  "cache_identity": "4c3f151152ae3c81cdab26349ad9d213f5d901fa7d4f9b0822d3357f180afd18",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:37:40.003547+00:00",
+  "wall_seconds": 18.120799999916926,
+  "prompt_eval_count": 805,
+  "eval_count": 218,
+  "total_duration_ns": 18089416459,
+  "load_duration_ns": 2723542,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":null,\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"years' experience in any one of the above technology\",\"min_years\":1,\"max_years\":null,\"level\":null},\"work\":{\"quote\":null,\"value\":\"onsite\"},\"visa\":{\"quote\":\"Should be Mexican Citizen eligible for TN visa sponsorship\",\"value\":\"not_available\"},\"industry\":{\"quote\":null,\"value\":\"Technology\"},\"education_degrees\":[\"CIS\",\"Engineering\",\"Science\",\"Mathematics\",\"Statistics\"],\"skills\":[\"AWS\",\"Kubernetes\",\"Docker\",\"Linux\",\"Infrastructure as Code\",\"Governance\",\"Risk Mitigation\",\"Communication Skills\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication Skills\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": null,
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "years' experience in any one of the above technology",
+      "min_years": 1.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": null,
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "Should be Mexican Citizen eligible for TN visa sponsorship",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": null,
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "CIS",
+      "Engineering",
+      "Science",
+      "Mathematics",
+      "Statistics"
+    ],
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Linux",
+      "Infrastructure as Code",
+      "Governance",
+      "Risk Mitigation",
+      "Communication Skills"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication Skills"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

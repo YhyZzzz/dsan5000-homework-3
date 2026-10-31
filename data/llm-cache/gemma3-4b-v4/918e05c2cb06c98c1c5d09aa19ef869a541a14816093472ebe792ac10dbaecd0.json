@@ -1,0 +1,127 @@
+{
+  "job_key": "job-b7736201ef27019079ec",
+  "cache_identity": "918e05c2cb06c98c1c5d09aa19ef869a541a14816093472ebe792ac10dbaecd0",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:35:25.189201+00:00",
+  "wall_seconds": 25.024303041980602,
+  "prompt_eval_count": 2122,
+  "eval_count": 436,
+  "total_duration_ns": 25019914917,
+  "load_duration_ns": 2571500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$80.00 - $89.00/hr\",\"min\":80.00,\"max\":89.00,\"period\":\"hour\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"8+ years overall, including 2+ years of hands-on GenAI/LLM development\",\"min_years\":8,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"hybrid position in Long Island City,NY\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":null,\"value\":null},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"GenAI\",\"LLM\",\"RAG\",\"embeddings\",\"vector search\",\"prompt engineering\",\"LangChain\",\"LangGraph\",\"Databricks\",\"AI Functions\",\"AI Search\",\"MLflow\",\"AI evaluation frameworks\",\"hallucination testing\",\"human-in-the-loop workflows\",\"AI observability\",\"API integration\",\"Python\",\"SQL\",\"document extraction\",\"OCR\",\"image processing\",\"classification\",\"summarization\",\"agentic AI use cases\",\"chatbots\",\"data orchestration workflows\",\"AI-assisted/spec-driven development\",\"production deployment\",\"enterprise AI applications\",\"corporate acumen\",\"architectural validation\",\"partner & stakeholder engagement\",\"quality assurance\",\"strategic thinking\",\"process-oriented\",\"scalable\",\"alignment\",\"functional requirements\",\"non-functional requirements\",\"structured data\",\"unstructured data\",\"cost optimization\"],\"benefits\":[\"Medical\",\"dental & vision\",\"Critical Illness, Accident, and Hospital\",\"401(k) Retirement Plan\",\"Life Insurance\",\"Short and long-term disability\",\"Health Spending Account\",\"Transportation benefits\",\"Employee Assistance Program\"],\"job_types\":[\"Contractor\"],\"certifications\":[],\"soft_skills\":[\"strategic thinking\",\"consultative mindset\",\"process-oriented\",\"scalable\",\"alignment\",\"functional requirements\",\"non-functional requirements\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":\"Nov 5, 2026\",\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$80.00 - $89.00/hr",
+      "min": 80.0,
+      "max": 89.0,
+      "period": "hour",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "8+ years overall, including 2+ years of hands-on GenAI/LLM development",
+      "min_years": 8.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid position in Long Island City,NY",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": null,
+      "value": null
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "GenAI",
+      "LLM",
+      "RAG",
+      "embeddings",
+      "vector search",
+      "prompt engineering",
+      "LangChain",
+      "LangGraph",
+      "Databricks",
+      "AI Functions",
+      "AI Search",
+      "MLflow",
+      "AI evaluation frameworks",
+      "hallucination testing",
+      "human-in-the-loop workflows",
+      "AI observability",
+      "API integration",
+      "Python",
+      "SQL",
+      "document extraction",
+      "OCR",
+      "image processing",
+      "classification",
+      "summarization",
+      "agentic AI use cases",
+      "chatbots",
+      "data orchestration workflows",
+      "AI-assisted/spec-driven development",
+      "production deployment",
+      "enterprise AI applications",
+      "corporate acumen",
+      "architectural validation",
+      "partner & stakeholder engagement",
+      "quality assurance",
+      "strategic thinking",
+      "process-oriented",
+      "scalable",
+      "alignment",
+      "functional requirements",
+      "non-functional requirements",
+      "structured data",
+      "unstructured data",
+      "cost optimization"
+    ],
+    "benefits": [
+      "Medical",
+      "dental & vision",
+      "Critical Illness, Accident, and Hospital",
+      "401(k) Retirement Plan",
+      "Life Insurance",
+      "Short and long-term disability",
+      "Health Spending Account",
+      "Transportation benefits",
+      "Employee Assistance Program"
+    ],
+    "job_types": [
+      "Contractor"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "strategic thinking",
+      "consultative mindset",
+      "process-oriented",
+      "scalable",
+      "alignment",
+      "functional requirements",
+      "non-functional requirements"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": "Nov 5, 2026",
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

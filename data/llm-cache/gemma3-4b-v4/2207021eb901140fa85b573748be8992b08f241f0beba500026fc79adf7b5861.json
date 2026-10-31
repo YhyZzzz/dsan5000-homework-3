@@ -1,0 +1,92 @@
+{
+  "job_key": "job-13c599a1f24f60b65d78",
+  "cache_identity": "2207021eb901140fa85b573748be8992b08f241f0beba500026fc79adf7b5861",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:43:42.784867+00:00",
+  "wall_seconds": 27.834853541920893,
+  "prompt_eval_count": 1474,
+  "eval_count": 317,
+  "total_duration_ns": 27833838750,
+  "load_duration_ns": 2787125,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$83,430.00 - $222,480.00\",\"min\":83430,\"max\":222480,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"5+ years of experience working with SQL and relational database management systems\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"on-premise as well supporting migrations of existing workloads to the cloud\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Healthcare\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Bachelor's degree\"],\"skills\":[\"SQL\",\"relational database management systems\",\"Cloud technologies\",\"Microsoft SQL server\",\"Databricks\",\"Azure\",\"Python\",\"PySpark\",\"dimensional data modeling\",\"schema design\",\"data warehousing\",\"troubleshooting data issues\",\"performance improvement techniques\"],\"benefits\":[\"medical\",\"dental\",\"vision\",\"paid time off\",\"retirement savings options\",\"wellness programs\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"oral and written communication skills\",\"team-based support environment\",\"process improvements\",\"best practices\",\"ownership\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":\"10/30/2026\",\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$83,430.00 - $222,480.00",
+      "min": 83430.0,
+      "max": 222480.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "5+ years of experience working with SQL and relational database management systems",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "on-premise as well supporting migrations of existing workloads to the cloud",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Healthcare",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Bachelor's degree"
+    ],
+    "skills": [
+      "SQL",
+      "relational database management systems",
+      "Cloud technologies",
+      "Microsoft SQL server",
+      "Databricks",
+      "Azure",
+      "Python",
+      "PySpark",
+      "dimensional data modeling",
+      "schema design",
+      "data warehousing",
+      "troubleshooting data issues",
+      "performance improvement techniques"
+    ],
+    "benefits": [
+      "medical",
+      "dental",
+      "vision",
+      "paid time off",
+      "retirement savings options",
+      "wellness programs"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "oral and written communication skills",
+      "team-based support environment",
+      "process improvements",
+      "best practices",
+      "ownership"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": "10/30/2026",
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

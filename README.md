@@ -73,11 +73,28 @@ quarto render HW-3.2-cleaning-1.ipynb --no-execute
 
 The cleaning implementation is in `manual_cleaning.py` and is also displayed in the notebook's implementation appendix, so the standalone HTML includes the extraction logic. Multivalued CSV columns are JSON arrays; missing scalars are blank. Salary assumptions, uncertain duplicate matches, multiple pay bands, and quality flags are documented in the notebook. The `reports/manual-cleaning-*` files contain coverage, provenance for every raw occurrence, duplicate links, review cases, regression examples, and the final audit.
 
+Part 3 uses **Gemma 3 4B (`gemma3:4b`, Q4_K_M)** locally on an Apple M3 Pro with 36 GB memory. **The final scope is a frozen 122-posting sample out of 819 (14.9%), not full-population LLM cleaning.** The sample preserves 133 original occurrences and covers 29/30 search queries; Robotics Engineer is absent. `reports/llm-sample-selection.json` records the exact keys and cache identities. It is an availability sample of completed responses plus prototypes, not a designed probability sample. Small, uneven categories limit subgroup analysis.
+
+Reproduce the submitted sample **without making any model requests**:
+
+```bash
+python run_part3.py --stage report
+quarto render HW-3.3-cleaning-2.ipynb --no-execute
+```
+
+The notebook uses only the same 122 keys from the unchanged 819-row Part 2 CSV for comparisons. Reporting refuses missing/invalid declared caches and validates list/numeric/date CSV round trips. `reports/llm-sample-membership.csv` maps the selected rows to raw occurrences; `reports/llm-sample-query-coverage.csv` includes all 30 query categories, including the zero-count category. The audit explicitly records `COMPLETE_FOR_DECLARED_SAMPLE` and `population_complete=false`.
+
+`llm_cleaning.py` implements prompts, schemas, local requests, cache/resume behavior, sample validation, and export; it is embedded in the HTML appendix. `reports/llm-*` also contains the selected five-job prototype, actual token counts, request timing, production wall time, evidence flags, matched comparisons, and reflection. Multivalued CSV fields are JSON arrays, missing scalars are blank, and salary assumptions are flagged. Coverage and extractor agreement are not accuracy measures.
+
+All 122 final rows use the same v4 evidence-first prompt and Gemma 3 4B model. The selected model has no separate reasoning mode. Production used four independent requests through a temporary local server on port 11435. Local cloud API spend was $0; hardware/electricity and interrupted calls without returned counters are excluded from token estimates.
+
+The wrapper supports explicit inference with `--stage pilot` or `--stage extract` and `--workers`. Reporting uses the frozen sample and requires no running model service. The runner drains active requests on Ctrl+C and resumes valid caches. The measured service had four parallel slots, context 16384, and flash attention enabled.
+
 Final submission checklist:
 
 - [x] Part 1: 30 titles, 90 real response files, 847 raw job records, completed collection audit, executed notebook, self-contained HTML.
 - [x] Part 2: deterministic cleaning notebook, `data/processed-jobs-1.csv` (819 postings, 84 columns), provenance and quality reports, self-contained HTML.
-- [ ] Part 3: LLM cleaning notebook and reflection, `data/processed-jobs-2.csv`, self-contained HTML.
+- [x] Part 3 (declared sample scope): executed LLM notebook/reflection, `data/processed-jobs-2.csv` (122 postings, 92 columns), frozen selection/provenance/quality reports, self-contained HTML. The remaining 697 postings are not LLM-cleaned.
 - [ ] Part 4: visual EDA of both datasets and comparison, executed notebook, self-contained HTML.
 - [ ] Optional Part 5, if completed: fictitious Jane Doe resume/cover-letter pipeline and rendered HTML.
 - [ ] `commit-history.txt` exported **after** the final homework commit; open it and confirm every part appears.

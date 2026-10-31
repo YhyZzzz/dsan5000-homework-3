@@ -1,0 +1,112 @@
+{
+  "job_key": "job-16be5eacf4cc31ae0aa1",
+  "cache_identity": "81d674837be83870463b56f9dcfbe31cd38d4488f3f02d2d78d2d1c6c5b0d71e",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:45:04.603761+00:00",
+  "wall_seconds": 29.133029042044654,
+  "prompt_eval_count": 2190,
+  "eval_count": 320,
+  "total_duration_ns": 29115964708,
+  "load_duration_ns": 2262500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Competitive compensation\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"minimum 3 years of prior relevant experience, or equivalent experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Full-time\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Insurance\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor's degree\"],\"skills\":[\"Data Architecture\",\"Data Modeling\",\"Data Warehousing\",\"Data Lakes\",\"ETL/ELT\",\"Snowflake\",\"Azure\",\"Databricks\",\"ADLS Gen2\",\"Azure Data Factory\",\"SQL\",\"Data Governance\",\"Metadata\",\"Lineage\",\"Data Quality\",\"Security\",\"Data Ownership\",\"Master Data\",\"Reference Data\",\"Data Integration\",\"Data Platform\",\"Cloud Data Platforms\",\"Data Lakehouse\",\"Data Warehouse\",\"Data Engineering\",\"Data Science\",\"AI\",\"Machine Learning\"],\"benefits\":[\"Competitive compensation\",\"Comprehensive benefits programs\",\"Career development opportunities\",\"Ongoing learning\",\"Collaborative culture\",\"Accessible leadership\",\"Meaningful work\",\"Global reach\",\"Local impact\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Analytical\",\"Problem-solving\",\"Communication\",\"Stakeholder management\",\"Leadership\",\"Influence\",\"Collaboration\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Competitive compensation",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "minimum 3 years of prior relevant experience, or equivalent experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Full-time",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Insurance",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor's degree"
+    ],
+    "skills": [
+      "Data Architecture",
+      "Data Modeling",
+      "Data Warehousing",
+      "Data Lakes",
+      "ETL/ELT",
+      "Snowflake",
+      "Azure",
+      "Databricks",
+      "ADLS Gen2",
+      "Azure Data Factory",
+      "SQL",
+      "Data Governance",
+      "Metadata",
+      "Lineage",
+      "Data Quality",
+      "Security",
+      "Data Ownership",
+      "Master Data",
+      "Reference Data",
+      "Data Integration",
+      "Data Platform",
+      "Cloud Data Platforms",
+      "Data Lakehouse",
+      "Data Warehouse",
+      "Data Engineering",
+      "Data Science",
+      "AI",
+      "Machine Learning"
+    ],
+    "benefits": [
+      "Competitive compensation",
+      "Comprehensive benefits programs",
+      "Career development opportunities",
+      "Ongoing learning",
+      "Collaborative culture",
+      "Accessible leadership",
+      "Meaningful work",
+      "Global reach",
+      "Local impact"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Analytical",
+      "Problem-solving",
+      "Communication",
+      "Stakeholder management",
+      "Leadership",
+      "Influence",
+      "Collaboration"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

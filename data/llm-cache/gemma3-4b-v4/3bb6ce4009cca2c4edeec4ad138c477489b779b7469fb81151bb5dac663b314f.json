@@ -1,0 +1,81 @@
+{
+  "job_key": "job-0f6a7f67198d8a20aad4",
+  "cache_identity": "3bb6ce4009cca2c4edeec4ad138c477489b779b7469fb81151bb5dac663b314f",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:42:22.648235+00:00",
+  "wall_seconds": 44.73805183393415,
+  "prompt_eval_count": 3002,
+  "eval_count": 484,
+  "total_duration_ns": 44737302000,
+  "load_duration_ns": 1818000,
+  "done_reason": "stop",
+  "raw_response": "{\n  \"salary\": {\n    \"quote\": \"$86,500 to $253,000\",\n    \"min\": 86500,\n    \"max\": 253000,\n    \"period\": null,\n    \"currency\": \"USD\"\n  },\n  \"experience\": {\n    \"quote\": \"Minimum of 5 years of consulting experience in Data & AI Strategy and Advisory\\nMinimum of 5 years of experience executing data-driven projects, programs, and innovation to clients\",\n    \"min_years\": 5,\n    \"max_years\": null,\n    \"level\": null\n  },\n  \"work\": {\n    \"quote\": \"Ability to travel up to 100%\",\n    \"value\": \"remote\"\n  },\n  \"visa\": {\n    \"quote\": null,\n    \"value\": null\n  },\n  \"industry\": {\n    \"quote\": null,\n    \"value\": \"Technology\"\n  },\n  \"education_degrees\": [\n    \"Bachelor's degree\"\n  ],\n  \"skills\": [\n    \"Data & AI Strategy\",\n    \"AI Strategy\",\n    \"Cloud-based data/AI platforms\",\n    \"Data-driven projects\",\n    \"Data pipelines\",\n    \"Responsible AI\"\n  ],\n  \"benefits\": [],\n  \"job_types\": [\n    \"Full-time\"\n  ],\n  \"certifications\": [],\n  \"soft_skills\": [\n    \"Leadership\",\n    \"People skills\",\n    \"Collaboration\",\n    \"Inclusive environment\",\n    \"Client relationships\"\n  ],\n  \"company_values\": [\n    \"Innovation\",\n    \"Value creation\"\n  ],\n  \"collaboration_tools\": [],\n  \"required_languages\": [],\n  \"company_employees\": null,\n  \"team_size\": null,\n  \"travel_percent_max\": 100,\n  \"dates\": {\n    \"application_deadline\": null,\n    \"expected_start_date\": null,\n    \"posting_expiry_date\": null\n  }\n}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$86,500 to $253,000",
+      "min": 86500.0,
+      "max": 253000.0,
+      "period": null,
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Minimum of 5 years of consulting experience in Data & AI Strategy and Advisory\nMinimum of 5 years of experience executing data-driven projects, programs, and innovation to clients",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Ability to travel up to 100%",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": null,
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor's degree"
+    ],
+    "skills": [
+      "Data & AI Strategy",
+      "AI Strategy",
+      "Cloud-based data/AI platforms",
+      "Data-driven projects",
+      "Data pipelines",
+      "Responsible AI"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Leadership",
+      "People skills",
+      "Collaboration",
+      "Inclusive environment",
+      "Client relationships"
+    ],
+    "company_values": [
+      "Innovation",
+      "Value creation"
+    ],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": 100.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

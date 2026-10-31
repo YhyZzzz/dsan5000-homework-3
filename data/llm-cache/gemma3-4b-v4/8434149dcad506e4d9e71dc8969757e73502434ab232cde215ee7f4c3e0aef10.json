@@ -1,0 +1,104 @@
+{
+  "job_key": "job-1178f24a4509dd974982",
+  "cache_identity": "8434149dcad506e4d9e71dc8969757e73502434ab232cde215ee7f4c3e0aef10",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:42:47.838627+00:00",
+  "wall_seconds": 30.380600541015156,
+  "prompt_eval_count": 1428,
+  "eval_count": 342,
+  "total_duration_ns": 30354355167,
+  "load_duration_ns": 2260833,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$90,000 - $210,000\",\"min\":90000,\"max\":210000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"Two (2) years of professional experience or PhD in statistics or related field\",\"min_years\":2,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":\"Active Top Secret Security Clearance with SSBI and SCI eligibility\",\"value\":\"not_available\"},\"industry\":{\"quote\":\"intelligence field\",\"value\":\"Government\"},\"education_degrees\":[\"Masters\",\"PhD\"],\"skills\":[\"Bayesian statistics\",\"time series analysis\",\"Python\",\"R\",\"C++\",\"MATLAB\",\"classification\",\"clustering\",\"anomaly detection\",\"density estimation\",\"data mining\",\"pattern recognition\",\"knowledge discovery\",\"SQL\",\"ELK stack\",\"data visualization\",\"Jupyter\",\"Markdown\",\"spatial statistics\",\"multivariate statistics\",\"Gaussian Process\",\"Random Forest\",\"Support Vector Machine\",\"Natural Language Processing\",\"Neural Networks\"],\"benefits\":[\"company equity\",\"retirement plan\",\"company-paid health care benefits\",\"flexible paid time off policy\",\"opportunity for a raise and bonus during the year\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"teamwork\",\"problem-solving\",\"communication\",\"creativity\",\"enthusiasm\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":10,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$90,000 - $210,000",
+      "min": 90000.0,
+      "max": 210000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Two (2) years of professional experience or PhD in statistics or related field",
+      "min_years": 2.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": "Active Top Secret Security Clearance with SSBI and SCI eligibility",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": "intelligence field",
+      "value": "Government"
+    },
+    "education_degrees": [
+      "Masters",
+      "PhD"
+    ],
+    "skills": [
+      "Bayesian statistics",
+      "time series analysis",
+      "Python",
+      "R",
+      "C++",
+      "MATLAB",
+      "classification",
+      "clustering",
+      "anomaly detection",
+      "density estimation",
+      "data mining",
+      "pattern recognition",
+      "knowledge discovery",
+      "SQL",
+      "ELK stack",
+      "data visualization",
+      "Jupyter",
+      "Markdown",
+      "spatial statistics",
+      "multivariate statistics",
+      "Gaussian Process",
+      "Random Forest",
+      "Support Vector Machine",
+      "Natural Language Processing",
+      "Neural Networks"
+    ],
+    "benefits": [
+      "company equity",
+      "retirement plan",
+      "company-paid health care benefits",
+      "flexible paid time off policy",
+      "opportunity for a raise and bonus during the year"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "teamwork",
+      "problem-solving",
+      "communication",
+      "creativity",
+      "enthusiasm"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": 10.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

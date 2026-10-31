@@ -1,0 +1,98 @@
+{
+  "job_key": "job-15172ea2bc5fab3ca1a3",
+  "cache_identity": "1e4fdddb97f258700ac229f9ebd3af3394b07dc45547ded18689bbf28311565d",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:44:05.738660+00:00",
+  "wall_seconds": 27.388898915960453,
+  "prompt_eval_count": 1678,
+  "eval_count": 312,
+  "total_duration_ns": 27350531250,
+  "load_duration_ns": 13126667,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$63,300-$94,900\",\"min\":63300,\"max\":94900,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3- 5 years of relevant experience\",\"min_years\":3,\"max_years\":5,\"level\":null},\"work\":{\"quote\":\"Required in office 4 days a week out of our headquarters in Hanover, MD\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Risk Management\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Excel\",\"Risk Management\",\"Insurance\",\"Audit\",\"Compliance\",\"Finance/Accounting\",\"Data Analysis\",\"Regulatory Compliance\",\"Communication\",\"Problem Solving\",\"Analytical Thinking\",\"Reporting\",\"Data Integrity\",\"Reconciliation\"],\"benefits\":[\"Medical\",\"Dental\",\"Vision\",\"Hospital plans\",\"401(k)\",\"Life Insurance\",\"Short-term disability\",\"Long-term disability\",\"Health & Dependent Care Spending Accounts (HSA & DCFSA)\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Interpersonal Skills\",\"Critical Thinking\",\"Problem Solving\",\"Analytical Skills\",\"Organization\",\"Detail-Oriented\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$63,300-$94,900",
+      "min": 63300.0,
+      "max": 94900.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3- 5 years of relevant experience",
+      "min_years": 3.0,
+      "max_years": 5.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Required in office 4 days a week out of our headquarters in Hanover, MD",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Risk Management",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Excel",
+      "Risk Management",
+      "Insurance",
+      "Audit",
+      "Compliance",
+      "Finance/Accounting",
+      "Data Analysis",
+      "Regulatory Compliance",
+      "Communication",
+      "Problem Solving",
+      "Analytical Thinking",
+      "Reporting",
+      "Data Integrity",
+      "Reconciliation"
+    ],
+    "benefits": [
+      "Medical",
+      "Dental",
+      "Vision",
+      "Hospital plans",
+      "401(k)",
+      "Life Insurance",
+      "Short-term disability",
+      "Long-term disability",
+      "Health & Dependent Care Spending Accounts (HSA & DCFSA)"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Interpersonal Skills",
+      "Critical Thinking",
+      "Problem Solving",
+      "Analytical Skills",
+      "Organization",
+      "Detail-Oriented"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "job_key": "job-18d3152e7d3f0fc4f8d2",
+  "cache_identity": "edd359db7b484394a715dead5347683f8cc97385ba7e4319e8f3ddaa744d6253",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:52:54.062899+00:00",
+  "wall_seconds": 29.865841749939136,
+  "prompt_eval_count": 1456,
+  "eval_count": 246,
+  "total_duration_ns": 29849965625,
+  "load_duration_ns": 1305520250,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Not specified\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"Experienced\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Hybrid\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Research Computing\",\"value\":\"Education\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"AI/ML\",\"climate science\",\"computational solutions\",\"HPC\",\"GPU-accelerated systems\",\"distributed computing\",\"NVIDIA Nsight\",\"profiling\",\"tuning\",\"porting\",\"scientific applications\",\"data acquisition\",\"data ingestion\",\"data integration\",\"scientific software environments\",\"research datasets\",\"grant support\",\"technical training\",\"web-based documentation\",\"information security\",\"risk analysis\",\"quality control\",\"technical expertise\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Not specified",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "Experienced",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Hybrid",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Research Computing",
+      "value": "Education"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "AI/ML",
+      "climate science",
+      "computational solutions",
+      "HPC",
+      "GPU-accelerated systems",
+      "distributed computing",
+      "NVIDIA Nsight",
+      "profiling",
+      "tuning",
+      "porting",
+      "scientific applications",
+      "data acquisition",
+      "data ingestion",
+      "data integration",
+      "scientific software environments",
+      "research datasets",
+      "grant support",
+      "technical training",
+      "web-based documentation",
+      "information security",
+      "risk analysis",
+      "quality control",
+      "technical expertise"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

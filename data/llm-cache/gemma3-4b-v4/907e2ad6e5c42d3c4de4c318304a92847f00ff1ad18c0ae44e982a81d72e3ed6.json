@@ -1,0 +1,71 @@
+{
+  "job_key": "job-16c04dd63430b7a71a5f",
+  "cache_identity": "907e2ad6e5c42d3c4de4c318304a92847f00ff1ad18c0ae44e982a81d72e3ed6",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:44:58.645101+00:00",
+  "wall_seconds": 17.045761917019263,
+  "prompt_eval_count": 774,
+  "eval_count": 204,
+  "total_duration_ns": 17015918416,
+  "load_duration_ns": 2287041,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"6+ years of experience\",\"min\":6,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"6+ years of experience\",\"min_years\":6,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Work from home\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Marketing Analytics BI Consultant\",\"value\":\"Consulting/Staffing\"},\"education_degrees\":[\"Bachelor's degree\"],\"skills\":[\"Power BI\",\"DAX\",\"Data Modeling\",\"ROI measurement\",\"Proposal scorecards\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":\"4 days ago\"}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "6+ years of experience",
+      "min": 6.0,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "6+ years of experience",
+      "min_years": 6.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Work from home",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Marketing Analytics BI Consultant",
+      "value": "Consulting/Staffing"
+    },
+    "education_degrees": [
+      "Bachelor's degree"
+    ],
+    "skills": [
+      "Power BI",
+      "DAX",
+      "Data Modeling",
+      "ROI measurement",
+      "Proposal scorecards"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": "4 days ago"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "job_key": "job-09ee858103eca58221a8",
+  "cache_identity": "d6873bde57edfcb08fd5fba0a37bd5297555db0ba911ed64f5ed83b80bda32fe",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:39:58.327380+00:00",
+  "wall_seconds": 24.7122617920395,
+  "prompt_eval_count": 1648,
+  "eval_count": 255,
+  "total_duration_ns": 24704024834,
+  "load_duration_ns": 1903417,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$242,634—$499,541 USD\",\"min\":242634,\"max\":499541,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"12+ years of industry experience\",\"min_years\":12,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"work from home\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Big Data\",\"value\":\"Technology\"},\"education_degrees\":[\"Bachelor’s degree in Computer Science, a related technical field, or equivalent experience\"],\"skills\":[\"Flink\",\"Spark\",\"Presto\",\"Kubernetes\",\"Ray\",\"PyTorch/TensorFlow\",\"Java\",\"Go\",\"Scala\",\"Python\",\"AWS\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Collaboration\",\"Communication\",\"Leadership\",\"Strategic Thinking\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$242,634—$499,541 USD",
+      "min": 242634.0,
+      "max": 499541.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "12+ years of industry experience",
+      "min_years": 12.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "work from home",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Big Data",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor’s degree in Computer Science, a related technical field, or equivalent experience"
+    ],
+    "skills": [
+      "Flink",
+      "Spark",
+      "Presto",
+      "Kubernetes",
+      "Ray",
+      "PyTorch/TensorFlow",
+      "Java",
+      "Go",
+      "Scala",
+      "Python",
+      "AWS"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Collaboration",
+      "Communication",
+      "Leadership",
+      "Strategic Thinking"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

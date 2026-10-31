@@ -1,0 +1,96 @@
+{
+  "job_key": "job-1a928b557a7eafd0c9fa",
+  "cache_identity": "8f67e68141bd868b0ef50dbf26b99a2af97fa03985354d402082879c38b37da5",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:53:34.792762+00:00",
+  "wall_seconds": 35.648524833028205,
+  "prompt_eval_count": 1857,
+  "eval_count": 340,
+  "total_duration_ns": 35647700334,
+  "load_duration_ns": 2114250,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"120K–180K a year\",\"min\":120000,\"max\":180000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"5+ years of experience in data engineering or analytics development\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"hybrid team with over 1,500 employees across North America\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"financial services\",\"value\":\"Finance\"},\"education_degrees\":[],\"skills\":[\"SQL\",\"Python\",\"dbt\",\"Airflow\",\"AWS\",\"Tableau\",\"Looker\",\"Power BI\",\"Git\",\"GitHub\",\"data mart architecture\",\"data pipeline\",\"data modeling\",\"data visualization\",\"data engineering\",\"data analysis\",\"data governance\"],\"benefits\":[\"Top-tier health benefits and life insurance\",\"Long-term group savings with employer match\",\"20 vacation days, 4 wellness days, and unlimited sick and mental health days per year\",\"90 days away: work outside Canada for up to 90 days per year\",\"Employee resource groups\",\"Health insurance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"communication\",\"interpersonal\",\"collaboration\",\"problem-solving\",\"analytical\",\"leadership\",\"mentoring\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":1500,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "120K–180K a year",
+      "min": 120000.0,
+      "max": 180000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "5+ years of experience in data engineering or analytics development",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid team with over 1,500 employees across North America",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "financial services",
+      "value": "Finance"
+    },
+    "education_degrees": [],
+    "skills": [
+      "SQL",
+      "Python",
+      "dbt",
+      "Airflow",
+      "AWS",
+      "Tableau",
+      "Looker",
+      "Power BI",
+      "Git",
+      "GitHub",
+      "data mart architecture",
+      "data pipeline",
+      "data modeling",
+      "data visualization",
+      "data engineering",
+      "data analysis",
+      "data governance"
+    ],
+    "benefits": [
+      "Top-tier health benefits and life insurance",
+      "Long-term group savings with employer match",
+      "20 vacation days, 4 wellness days, and unlimited sick and mental health days per year",
+      "90 days away: work outside Canada for up to 90 days per year",
+      "Employee resource groups",
+      "Health insurance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "communication",
+      "interpersonal",
+      "collaboration",
+      "problem-solving",
+      "analytical",
+      "leadership",
+      "mentoring"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": 1500,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

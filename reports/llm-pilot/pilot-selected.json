@@ -1,0 +1,169 @@
+{
+  "model_profile": {
+    "model": "gemma3:4b",
+    "digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+    "size_bytes": 3350272403,
+    "details": {
+      "parent_model": "dhiltgen/gemma3:4b-it-q4_K_M-llamacpp",
+      "format": "gguf",
+      "family": "gemma3",
+      "families": [
+        "gemma3",
+        "clip"
+      ],
+      "parameter_size": "3.9B",
+      "quantization_level": "Q4_K_M",
+      "runner": "llamacpp"
+    },
+    "thinking": null,
+    "capabilities": [
+      "completion",
+      "vision"
+    ],
+    "ollama_version": "0.40.3"
+  },
+  "prompt_version": "v4-open-mention-lists",
+  "jobs": [
+    {
+      "job_key": "job-138b0c02a50f3e3d9ee9",
+      "job_title": "Senior Natural Language Processing (NLP) Engineer",
+      "salary_annual_mid": 300000.0,
+      "experience_years_min": null,
+      "skills": [
+        "AWS",
+        "Linux",
+        "NLP",
+        "Transformers"
+      ],
+      "work_arrangement": "onsite",
+      "visa_sponsorship": null,
+      "llm_postprocessing_issues": "[\"salary:exact_amount_bounds_completed\",\"salary:period_not_explicitly_supported\",\"skills:unsupported_mention:Python\",\"skills:unsupported_mention:SQL\",\"expected_start_date:unsupported_date\"]",
+      "wall_seconds": 15.2332310420461,
+      "prompt_tokens": 1216,
+      "output_tokens": 238
+    },
+    {
+      "job_key": "job-c003279d400de6fd489d",
+      "job_title": "Computational Scientist",
+      "salary_annual_mid": 129828.0,
+      "experience_years_min": null,
+      "skills": [
+        "AI",
+        "Computer Science",
+        "Data Science",
+        "Deep learning",
+        "LLM",
+        "Machine learning",
+        "NLP",
+        "Statistics",
+        "Transformers"
+      ],
+      "work_arrangement": null,
+      "visa_sponsorship": null,
+      "llm_postprocessing_issues": "[\"experience:unsupported_or_missing_quote\",\"work:unsupported_or_missing_quote\",\"salary:period_not_explicitly_supported\"]",
+      "wall_seconds": 17.6519708330743,
+      "prompt_tokens": 1551,
+      "output_tokens": 276
+    },
+    {
+      "job_key": "job-9b47b21a1cbf0444afc7",
+      "job_title": "Quantitative Risk Analyst (Mid-level) - AML Modeling",
+      "salary_annual_mid": 136505.0,
+      "experience_years_min": null,
+      "skills": [
+        "AML",
+        "Python",
+        "R",
+        "SAS",
+        "SQL",
+        "Statistics",
+        "customer risk scoring",
+        "financial crime analytics",
+        "mathematics",
+        "model development/validation",
+        "modeling",
+        "risk management",
+        "transaction monitoring"
+      ],
+      "work_arrangement": "hybrid",
+      "visa_sponsorship": null,
+      "llm_postprocessing_issues": "[\"experience:unsupported_or_missing_quote\",\"salary:period_not_explicitly_supported\"]",
+      "wall_seconds": 20.992869416018948,
+      "prompt_tokens": 1996,
+      "output_tokens": 354
+    },
+    {
+      "job_key": "job-b7736201ef27019079ec",
+      "job_title": "AI Solution Architect (W2 Only / No C2C)",
+      "salary_annual_mid": 175760.0,
+      "experience_years_min": 8.0,
+      "skills": [
+        "AI Functions",
+        "AI Search",
+        "AI evaluation frameworks",
+        "AI observability",
+        "AI-assisted/spec-driven development",
+        "API integration",
+        "Databricks",
+        "GenAI",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "MLflow",
+        "OCR",
+        "Optimization",
+        "Python",
+        "RAG",
+        "agentic AI use cases",
+        "architectural validation",
+        "chatbots",
+        "classification",
+        "corporate acumen",
+        "data orchestration workflows",
+        "document extraction",
+        "embeddings",
+        "enterprise AI applications",
+        "functional requirements",
+        "hallucination testing",
+        "human-in-the-loop workflows",
+        "image processing",
+        "non-functional requirements",
+        "partner & stakeholder engagement",
+        "process-oriented",
+        "production deployment",
+        "prompt engineering",
+        "quality assurance",
+        "scalable",
+        "strategic thinking",
+        "structured data",
+        "summarization",
+        "unstructured data",
+        "vector search"
+      ],
+      "work_arrangement": "hybrid",
+      "visa_sponsorship": null,
+      "llm_postprocessing_issues": "[\"skills:unsupported_mention:SQL\",\"skills:unsupported_mention:alignment\",\"education_degrees:unsupported_mention:Bachelor\",\"soft_skills:unsupported_mention:alignment\",\"application_deadline:unsupported_date\"]",
+      "wall_seconds": 25.024303041980602,
+      "prompt_tokens": 2122,
+      "output_tokens": 436
+    },
+    {
+      "job_key": "job-812efcc9f3732f7f5ccf",
+      "job_title": "Consumer Insights Analyst",
+      "salary_annual_mid": null,
+      "experience_years_min": null,
+      "skills": [
+        "computer or smartphone skills",
+        "honest opinions"
+      ],
+      "work_arrangement": "remote",
+      "visa_sponsorship": null,
+      "llm_postprocessing_issues": "[\"salary:period_not_explicitly_supported\",\"education_degrees:unsupported_mention:Bachelor\"]",
+      "wall_seconds": 10.246952040935867,
+      "prompt_tokens": 1088,
+      "output_tokens": 216
+    }
+  ],
+  "failed": 0,
+  "wall_seconds": 25.506064582965337
+}

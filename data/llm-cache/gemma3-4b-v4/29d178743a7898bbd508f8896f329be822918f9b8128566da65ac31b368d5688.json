@@ -1,0 +1,69 @@
+{
+  "job_key": "job-223095affbcd4fa2b486",
+  "cache_identity": "29d178743a7898bbd508f8896f329be822918f9b8128566da65ac31b368d5688",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:56:43.010054+00:00",
+  "wall_seconds": 16.007439707987942,
+  "prompt_eval_count": 703,
+  "eval_count": 211,
+  "total_duration_ns": 16006787000,
+  "load_duration_ns": 2144334,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"99K–148K a year\",\"min\":99000,\"max\":148000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"PhD-level researchers\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"four days on-site\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"defense, healthcare, cybersecurity, and public sector domains\",\"value\":\"Government\"},\"education_degrees\":[\"PhD\"],\"skills\":[\"Gurobi\",\"Python\",\"simulation platforms\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "99K–148K a year",
+      "min": 99000.0,
+      "max": 148000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "PhD-level researchers",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "four days on-site",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "defense, healthcare, cybersecurity, and public sector domains",
+      "value": "Government"
+    },
+    "education_degrees": [
+      "PhD"
+    ],
+    "skills": [
+      "Gurobi",
+      "Python",
+      "simulation platforms"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

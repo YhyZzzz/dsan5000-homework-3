@@ -1,0 +1,115 @@
+{
+  "job_key": "job-118fd3866e35bf07a767",
+  "cache_identity": "bc44fd8a82a76ec1a0468a57d27918bb89e5f81b1668684d4f62c9c2f079f3fc",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:42:51.428810+00:00",
+  "wall_seconds": 31.8674528329866,
+  "prompt_eval_count": 2056,
+  "eval_count": 364,
+  "total_duration_ns": 31837194625,
+  "load_duration_ns": 2219542,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$110,000 - $130,000\",\"min\":110000,\"max\":130000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"2+ years of progressive experience\",\"min_years\":2,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"hybrid position requiring 3 days in office\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Marketing\",\"value\":\"Retail/Consumer goods\"},\"education_degrees\":[\"Computer Science\",\"Mathematics\",\"Statistics\",\"Data Science\",\"Economics\"],\"skills\":[\"Python\",\"pandas\",\"scikit-learn\",\"SQL\",\"Spark\",\"PySpark\",\"gradient boosting\",\"neural networks\",\"TensorFlow/Keras\",\"PyTorch\",\"A/B Testing\",\"Experimentation\",\"Causal inference\",\"uplift modeling\",\"feature engineering\",\"model deployment\",\"Git\",\"Airflow\",\"Databricks Jobs\",\"model monitoring\",\"drift detection\",\"data analysis\",\"data modeling\",\"data science\",\"data sets\",\"debugging skills\",\"business intelligence\",\"business model\",\"campaigns\",\"sales\",\"storytelling\",\"AI coding assistants\"],\"benefits\":[\"competitive pay\",\"flexible time off\",\"benefits package (including medical, dental, vision)\",\"Employee Stock Purchase Program\",\"401k match\"],\"job_types\":[\"Full-time\",\"Hybrid\"],\"certifications\":[],\"soft_skills\":[\"Leadership\",\"Organizational Skills\",\"Communication\",\"Teamwork\",\"Problem-solving\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$110,000 - $130,000",
+      "min": 110000.0,
+      "max": 130000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2+ years of progressive experience",
+      "min_years": 2.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid position requiring 3 days in office",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Marketing",
+      "value": "Retail/Consumer goods"
+    },
+    "education_degrees": [
+      "Computer Science",
+      "Mathematics",
+      "Statistics",
+      "Data Science",
+      "Economics"
+    ],
+    "skills": [
+      "Python",
+      "pandas",
+      "scikit-learn",
+      "SQL",
+      "Spark",
+      "PySpark",
+      "gradient boosting",
+      "neural networks",
+      "TensorFlow/Keras",
+      "PyTorch",
+      "A/B Testing",
+      "Experimentation",
+      "Causal inference",
+      "uplift modeling",
+      "feature engineering",
+      "model deployment",
+      "Git",
+      "Airflow",
+      "Databricks Jobs",
+      "model monitoring",
+      "drift detection",
+      "data analysis",
+      "data modeling",
+      "data science",
+      "data sets",
+      "debugging skills",
+      "business intelligence",
+      "business model",
+      "campaigns",
+      "sales",
+      "storytelling",
+      "AI coding assistants"
+    ],
+    "benefits": [
+      "competitive pay",
+      "flexible time off",
+      "benefits package (including medical, dental, vision)",
+      "Employee Stock Purchase Program",
+      "401k match"
+    ],
+    "job_types": [
+      "Full-time",
+      "Hybrid"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Leadership",
+      "Organizational Skills",
+      "Communication",
+      "Teamwork",
+      "Problem-solving"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

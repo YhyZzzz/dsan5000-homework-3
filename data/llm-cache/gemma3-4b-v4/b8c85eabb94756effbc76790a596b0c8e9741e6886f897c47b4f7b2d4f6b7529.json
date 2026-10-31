@@ -1,0 +1,104 @@
+{
+  "job_key": "job-21ad2aba3fcb14a6439f",
+  "cache_identity": "b8c85eabb94756effbc76790a596b0c8e9741e6886f897c47b4f7b2d4f6b7529",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:56:34.302398+00:00",
+  "wall_seconds": 27.634900167002343,
+  "prompt_eval_count": 2467,
+  "eval_count": 355,
+  "total_duration_ns": 27634188958,
+  "load_duration_ns": 2126250,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$78,000.00 - $119,000.00 per year\",\"min\":78000.00,\"max\":119000.00,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"5-10 years of total work experience\",\"min_years\":5,\"max_years\":10,\"level\":null},\"work\":{\"quote\":\"Remote\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Healthcare\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Bachelor’s\",\"Master’s\"],\"skills\":[\"SQL\",\"Tableau\",\"Alteryx\",\"GCP/Big Query\",\"Data Warehousing\",\"Microsoft Excel\",\"Business Acumen\",\"Revenue Cycle\",\"Data Science\",\"Statistics\",\"Data Analysis\",\"Business Intelligence\",\"Data-driven insights\",\"Analytical thinking\",\"Communication\",\"Leadership\",\"Team Development\",\"Problem Solving\",\"Strategic thinking\"],\"benefits\":[\"401(k) match\",\"Healthcare coverage\",\"Paid time off\",\"PTO cash out\",\"Family resources\",\"EAP counseling sessions\",\"Access Headspace®\",\"Backup child and elder care\",\"Maternity/paternity leave\"],\"job_types\":[\"Manager\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Leadership\",\"Team Development\",\"Problem Solving\",\"Strategic thinking\",\"Business Acumen\",\"Analytical thinking\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":30,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":\"08/20/2026\"}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$78,000.00 - $119,000.00 per year",
+      "min": 78000.0,
+      "max": 119000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "5-10 years of total work experience",
+      "min_years": 5.0,
+      "max_years": 10.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Remote",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Healthcare",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Bachelor’s",
+      "Master’s"
+    ],
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Alteryx",
+      "GCP/Big Query",
+      "Data Warehousing",
+      "Microsoft Excel",
+      "Business Acumen",
+      "Revenue Cycle",
+      "Data Science",
+      "Statistics",
+      "Data Analysis",
+      "Business Intelligence",
+      "Data-driven insights",
+      "Analytical thinking",
+      "Communication",
+      "Leadership",
+      "Team Development",
+      "Problem Solving",
+      "Strategic thinking"
+    ],
+    "benefits": [
+      "401(k) match",
+      "Healthcare coverage",
+      "Paid time off",
+      "PTO cash out",
+      "Family resources",
+      "EAP counseling sessions",
+      "Access Headspace®",
+      "Backup child and elder care",
+      "Maternity/paternity leave"
+    ],
+    "job_types": [
+      "Manager"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Team Development",
+      "Problem Solving",
+      "Strategic thinking",
+      "Business Acumen",
+      "Analytical thinking"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": 30.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": "08/20/2026"
+    }
+  }
+}

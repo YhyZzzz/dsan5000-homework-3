@@ -1,0 +1,69 @@
+{
+  "job_key": "job-1a2ed2584cbc2d68f8c0",
+  "cache_identity": "6fd1a16bb0e06bec43702fa2b12a34f1b48b7c17f9380fac0a9d36ba24e85568",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:52:48.566933+00:00",
+  "wall_seconds": 24.306974416947924,
+  "prompt_eval_count": 707,
+  "eval_count": 202,
+  "total_duration_ns": 24306172542,
+  "load_duration_ns": 1259045125,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"3-6 anni di esperienza\",\"min\":3,\"max\":6,\"period\":null,\"currency\":\"USD\"},\"experience\":{\"quote\":\"3-6 anni di esperienza\",\"min_years\":3,\"max_years\":6,\"level\":null},\"work\":{\"quote\":\"progetti di trasformazione digitale in Italia o all’estero\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"AI e Data Science\",\"value\":\"Technology\"},\"education_degrees\":[\"Laurea specialistica\"],\"skills\":[\"machine learning\",\"Python\",\"R\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "3-6 anni di esperienza",
+      "min": 3.0,
+      "max": 6.0,
+      "period": null,
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3-6 anni di esperienza",
+      "min_years": 3.0,
+      "max_years": 6.0,
+      "level": null
+    },
+    "work": {
+      "quote": "progetti di trasformazione digitale in Italia o all’estero",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "AI e Data Science",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Laurea specialistica"
+    ],
+    "skills": [
+      "machine learning",
+      "Python",
+      "R"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

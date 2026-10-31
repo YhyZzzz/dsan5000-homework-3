@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "csv_rows": 122,
+  "csv_columns": 92,
+  "sample_source_occurrences": 133,
+  "population_rows": 819,
+  "excluded_rows": 697,
+  "query_categories": 30,
+  "covered_query_categories": 29,
+  "matched_keys_verified": true,
+  "executed_code_cells": 8,
+  "notebook_error_outputs": 0,
+  "html_embedded_images": 2,
+  "html_external_resources": 0,
+  "part1_part2_unchanged": true,
+  "credential_scan_passed": true,
+  "large_file_check_passed": true,
+  "html_sha256": "8750c259af9e3015dcba7a9abc3ce233c48576127dc6af56cfe206d1aee780d5",
+  "csv_sha256": "abafab46eae8acc0dac6cbc39ffaeae0066c2879f7f23e2e539ae7b7c0b5682d"
+}

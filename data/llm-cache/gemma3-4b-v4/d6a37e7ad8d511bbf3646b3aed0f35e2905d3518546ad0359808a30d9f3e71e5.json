@@ -1,0 +1,88 @@
+{
+  "job_key": "job-0521740a9a7089c6535d",
+  "cache_identity": "d6a37e7ad8d511bbf3646b3aed0f35e2905d3518546ad0359808a30d9f3e71e5",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:32.899128+00:00",
+  "wall_seconds": 25.77859604207333,
+  "prompt_eval_count": 1729,
+  "eval_count": 294,
+  "total_duration_ns": 25753321625,
+  "load_duration_ns": 2578458,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$63,150.00/Year - $90,000.00/Year\",\"min\":63150,\"max\":90000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"2 years of experience in data analytics or marketing engineering\",\"min_years\":2,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"in-person interview\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"Visa sponsorship not available\",\"value\":null},\"industry\":{\"quote\":\"marketing\",\"value\":\"Retail/Consumer goods\"},\"education_degrees\":[\"Bachelor's Degree\"],\"skills\":[\"SQL\",\"Python\",\"Tableau\",\"PowerBI\",\"Adobe Experience Platform\",\"A/B testing\",\"statistical methods\",\"data storytelling\",\"data manipulation\",\"AI literacy\"],\"benefits\":[\"flexible spending accounts\",\"HSA\",\"401(k) Plan with company match\",\"ESPP\",\"career opportunities\",\"flexible time away plan\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"cross-functional awareness\",\"data storytelling\",\"relationship building\",\"data platform mastery\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$63,150.00/Year - $90,000.00/Year",
+      "min": 63150.0,
+      "max": 90000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2 years of experience in data analytics or marketing engineering",
+      "min_years": 2.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "in-person interview",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "Visa sponsorship not available",
+      "value": null
+    },
+    "industry": {
+      "quote": "marketing",
+      "value": "Retail/Consumer goods"
+    },
+    "education_degrees": [
+      "Bachelor's Degree"
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "PowerBI",
+      "Adobe Experience Platform",
+      "A/B testing",
+      "statistical methods",
+      "data storytelling",
+      "data manipulation",
+      "AI literacy"
+    ],
+    "benefits": [
+      "flexible spending accounts",
+      "HSA",
+      "401(k) Plan with company match",
+      "ESPP",
+      "career opportunities",
+      "flexible time away plan"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "cross-functional awareness",
+      "data storytelling",
+      "relationship building",
+      "data platform mastery"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

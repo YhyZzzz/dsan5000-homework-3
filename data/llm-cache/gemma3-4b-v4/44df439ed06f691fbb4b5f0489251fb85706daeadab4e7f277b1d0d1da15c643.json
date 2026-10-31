@@ -1,0 +1,74 @@
+{
+  "job_key": "job-812efcc9f3732f7f5ccf",
+  "cache_identity": "44df439ed06f691fbb4b5f0489251fb85706daeadab4e7f277b1d0d1da15c643",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:35:25.651472+00:00",
+  "wall_seconds": 10.246952040935867,
+  "prompt_eval_count": 1088,
+  "eval_count": 216,
+  "total_duration_ns": 10239355166,
+  "load_duration_ns": 1819541,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"up to $25 per completed survey\",\"min\":25,\"max\":25,\"period\":\"hour\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"No previous experience required\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Work from home or anywhere with internet access\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"market research\",\"value\":\"Retail/Consumer goods\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"computer or smartphone skills\",\"honest opinions\"],\"benefits\":[\"same-day payments\",\"flexible online job\",\"side hustle\",\"part-time job\"],\"job_types\":[\"Full-time\",\"Remote\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "up to $25 per completed survey",
+      "min": 25.0,
+      "max": 25.0,
+      "period": "hour",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "No previous experience required",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Work from home or anywhere with internet access",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "market research",
+      "value": "Retail/Consumer goods"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "computer or smartphone skills",
+      "honest opinions"
+    ],
+    "benefits": [
+      "same-day payments",
+      "flexible online job",
+      "side hustle",
+      "part-time job"
+    ],
+    "job_types": [
+      "Full-time",
+      "Remote"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

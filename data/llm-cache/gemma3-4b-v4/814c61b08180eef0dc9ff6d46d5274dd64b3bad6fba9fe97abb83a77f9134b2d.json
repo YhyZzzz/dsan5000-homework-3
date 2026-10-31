@@ -1,0 +1,90 @@
+{
+  "job_key": "job-21a3a02d4fe3bc8f4512",
+  "cache_identity": "814c61b08180eef0dc9ff6d46d5274dd64b3bad6fba9fe97abb83a77f9134b2d",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:56:28.199458+00:00",
+  "wall_seconds": 25.643578625051305,
+  "prompt_eval_count": 1521,
+  "eval_count": 307,
+  "total_duration_ns": 25642794958,
+  "load_duration_ns": 2168542,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Starting Range of Pay is from $67,184 - $78,624, annually\",\"min\":67184,\"max\":78624,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"A minimum of two years of experience providing data analysis to an organization, work within a banking environment is preferred\",\"min_years\":2,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"hybrid schedule to include remote work and in office. In-office attendance requires a minimum of three (3) days per week\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"banking\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor\",\"MIS\"],\"skills\":[\"Power BI\",\"Looker Studio\",\"Data Analytics\",\"Data Analysis\",\"SQL\",\"Reporting\",\"Data\",\"Data Modeling\",\"Customer Surveys\",\"Customer Loyalty\",\"Customer Onboarding\",\"Marketing\",\"Marketing Reporting\",\"Event Causing Relative Data\",\"Leading Indicators\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Collaboration\",\"Problem Solving\",\"Analytical Skills\",\"Critical Thinking\",\"Time Management\",\"Data Interpretation\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Starting Range of Pay is from $67,184 - $78,624, annually",
+      "min": 67184.0,
+      "max": 78624.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "A minimum of two years of experience providing data analysis to an organization, work within a banking environment is preferred",
+      "min_years": 2.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid schedule to include remote work and in office. In-office attendance requires a minimum of three (3) days per week",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "banking",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor",
+      "MIS"
+    ],
+    "skills": [
+      "Power BI",
+      "Looker Studio",
+      "Data Analytics",
+      "Data Analysis",
+      "SQL",
+      "Reporting",
+      "Data",
+      "Data Modeling",
+      "Customer Surveys",
+      "Customer Loyalty",
+      "Customer Onboarding",
+      "Marketing",
+      "Marketing Reporting",
+      "Event Causing Relative Data",
+      "Leading Indicators"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Problem Solving",
+      "Analytical Skills",
+      "Critical Thinking",
+      "Time Management",
+      "Data Interpretation"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "job_key": "job-04c3884a483cd7009a82",
+  "cache_identity": "58dfbb7d4496025d7a342008c0ca37ad4ad8b6ae9ca35457d97ee01bbe9f2a10",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:17.043514+00:00",
+  "wall_seconds": 18.34680145897437,
+  "prompt_eval_count": 687,
+  "eval_count": 194,
+  "total_duration_ns": 18315992791,
+  "load_duration_ns": 18002708,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"substantial experience\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"substantial experience in data analysis and management\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"full-time role\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"nonprofit organization\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[],\"skills\":[\"data analysis\",\"data management\",\"BI tools\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"collaborative team environment\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "substantial experience",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "substantial experience in data analysis and management",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "full-time role",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "nonprofit organization",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [],
+    "skills": [
+      "data analysis",
+      "data management",
+      "BI tools"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "collaborative team environment"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

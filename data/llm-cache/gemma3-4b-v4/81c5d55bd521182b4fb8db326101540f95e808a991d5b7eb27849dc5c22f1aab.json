@@ -1,0 +1,88 @@
+{
+  "job_key": "job-1edf3f41a52fa0c3925a",
+  "cache_identity": "81c5d55bd521182b4fb8db326101540f95e808a991d5b7eb27849dc5c22f1aab",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:55:18.103549+00:00",
+  "wall_seconds": 24.295916666975245,
+  "prompt_eval_count": 2091,
+  "eval_count": 283,
+  "total_duration_ns": 24295168917,
+  "load_duration_ns": 2506167,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Eight (8) years of relevant experience in Accounting, Forensic Accounting, Finance, Legal Studies, Fraud Investigation or other related occupation to the work assigned to this position\",\"min\":8,\"max\":null,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"Eight (8) years of relevant experience in Accounting, Forensic Accounting, Finance, Legal Studies, Fraud Investigation or other related occupation to the work assigned to this position\",\"min_years\":8,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work.\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Government\",\"value\":\"Government\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Accounting\",\"Forensic Accounting\",\"Finance\",\"Legal Studies\",\"Fraud Investigation\",\"Data Analysis\",\"Contract Review\",\"Criminal Investigations\",\"Expert Witness\",\"Training\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[\"CPA\",\"CIA\",\"CFE\"],\"soft_skills\":[\"Investigation\",\"Interviewing\",\"Case Triage\",\"Communication\",\"Collaboration\",\"Leadership\",\"Training\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Eight (8) years of relevant experience in Accounting, Forensic Accounting, Finance, Legal Studies, Fraud Investigation or other related occupation to the work assigned to this position",
+      "min": 8.0,
+      "max": null,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Eight (8) years of relevant experience in Accounting, Forensic Accounting, Finance, Legal Studies, Fraud Investigation or other related occupation to the work assigned to this position",
+      "min_years": 8.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work.",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Government",
+      "value": "Government"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Accounting",
+      "Forensic Accounting",
+      "Finance",
+      "Legal Studies",
+      "Fraud Investigation",
+      "Data Analysis",
+      "Contract Review",
+      "Criminal Investigations",
+      "Expert Witness",
+      "Training"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [
+      "CPA",
+      "CIA",
+      "CFE"
+    ],
+    "soft_skills": [
+      "Investigation",
+      "Interviewing",
+      "Case Triage",
+      "Communication",
+      "Collaboration",
+      "Leadership",
+      "Training"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

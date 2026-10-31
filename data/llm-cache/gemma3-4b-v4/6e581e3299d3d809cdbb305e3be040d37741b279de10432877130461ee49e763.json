@@ -1,0 +1,89 @@
+{
+  "job_key": "job-009b1ff29cb22f89e6e0",
+  "cache_identity": "6e581e3299d3d809cdbb305e3be040d37741b279de10432877130461ee49e763",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:37:18.107511+00:00",
+  "wall_seconds": 30.30024691601284,
+  "prompt_eval_count": 1258,
+  "eval_count": 290,
+  "total_duration_ns": 30296544000,
+  "load_duration_ns": 5610917,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$100K/Yr - $125K/Yr Base + Annual Bonus\",\"min\":100000,\"max\":125000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"4-5 years of experience in marketing analytics, data analytics, or related fields\",\"min_years\":4,\"max_years\":5,\"level\":null},\"work\":{\"quote\":\"Remote, US\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"fintech, financial services, or digital first consumer businesses\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor’s\"],\"skills\":[\"SQL\",\"Tableau\",\"marketing analytics\",\"data analytics\",\"attribution\",\"performance analytics\",\"customer segmentation\",\"behavioral analysis\",\"lifecycle performance assessments\",\"BigQuery\",\"GA4\",\"predictive modeling\",\"statistical analysis\"],\"benefits\":[\"Annual Bonus\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"communication skills\",\"analytical thinking\",\"problem-solving abilities\",\"attention to detail\",\"collaboration\",\"initiative\",\"managing priorities\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$100K/Yr - $125K/Yr Base + Annual Bonus",
+      "min": 100000.0,
+      "max": 125000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "4-5 years of experience in marketing analytics, data analytics, or related fields",
+      "min_years": 4.0,
+      "max_years": 5.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Remote, US",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "fintech, financial services, or digital first consumer businesses",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor’s"
+    ],
+    "skills": [
+      "SQL",
+      "Tableau",
+      "marketing analytics",
+      "data analytics",
+      "attribution",
+      "performance analytics",
+      "customer segmentation",
+      "behavioral analysis",
+      "lifecycle performance assessments",
+      "BigQuery",
+      "GA4",
+      "predictive modeling",
+      "statistical analysis"
+    ],
+    "benefits": [
+      "Annual Bonus"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "communication skills",
+      "analytical thinking",
+      "problem-solving abilities",
+      "attention to detail",
+      "collaboration",
+      "initiative",
+      "managing priorities"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

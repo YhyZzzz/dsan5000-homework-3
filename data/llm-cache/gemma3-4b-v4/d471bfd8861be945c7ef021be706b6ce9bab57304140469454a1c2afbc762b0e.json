@@ -1,0 +1,90 @@
+{
+  "job_key": "job-1b0139799c24bef23741",
+  "cache_identity": "d471bfd8861be945c7ef021be706b6ce9bab57304140469454a1c2afbc762b0e",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:54:03.488794+00:00",
+  "wall_seconds": 46.32457295793574,
+  "prompt_eval_count": 1810,
+  "eval_count": 485,
+  "total_duration_ns": 46323633292,
+  "load_duration_ns": 1965667,
+  "done_reason": "stop",
+  "raw_response": "{\n  \"salary\": {\n    \"quote\": \"Competitive salary\",\n    \"min\": null,\n    \"max\": null,\n    \"period\": null,\n    \"currency\": null\n  },\n  \"experience\": {\n    \"quote\": \"MSc/PhD preferred with Front Office Gas & Power valuation/structuring or optimization experience.\",\n    \"min_years\": 0,\n    \"max_years\": null,\n    \"level\": null\n  },\n  \"work\": {\n    \"quote\": \"Part-time\",\n    \"value\": \"hybrid\"\n  },\n  \"visa\": {\n    \"quote\": null,\n    \"value\": null\n  },\n  \"industry\": {\n    \"quote\": \"Energy\",\n    \"value\": \"Energy/Utilities\"\n  },\n  \"education_degrees\": [\n    \"MSc\",\n    \"PhD\"\n  ],\n  \"skills\": [\n    \"Python\",\n    \"Option Pricing\",\n    \"Curve Modelling\",\n    \"Volatilty Modelling\",\n    \"Optimization\",\n    \"Analytics\"\n  ],\n  \"benefits\": [\n    \"Pension Plan\",\n    \"Savings Plan\",\n    \"Workplace Flexibility\",\n    \"Health Insurance\",\n    \"Dental Insurance\",\n    \"Comprehensive Medical, Dental, and Vision Plans\",\n    \"Employee Health Advisory Program\",\n    \"Disability Plan\"\n  ],\n  \"job_types\": [\n    \"Part-time\"\n  ],\n  \"certifications\": [],\n  \"soft_skills\": [\n    \"Communication\",\n    \"Detail-Oriented\",\n    \"Proactive\"\n  ],\n  \"company_values\": [\n    \"Innovation\",\n    \"Diversity\",\n    \"Sustainability\"\n  ],\n  \"collaboration_tools\": [],\n  \"required_languages\": [],\n  \"company_employees\": null,\n  \"team_size\": null,\n  \"travel_percent_max\": null,\n  \"dates\": {\n    \"application_deadline\": null,\n    \"expected_start_date\": \"10 days ago\",\"posting_expiry_date\": null\n  }\n}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Competitive salary",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "MSc/PhD preferred with Front Office Gas & Power valuation/structuring or optimization experience.",
+      "min_years": 0.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Part-time",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Energy",
+      "value": "Energy/Utilities"
+    },
+    "education_degrees": [
+      "MSc",
+      "PhD"
+    ],
+    "skills": [
+      "Python",
+      "Option Pricing",
+      "Curve Modelling",
+      "Volatilty Modelling",
+      "Optimization",
+      "Analytics"
+    ],
+    "benefits": [
+      "Pension Plan",
+      "Savings Plan",
+      "Workplace Flexibility",
+      "Health Insurance",
+      "Dental Insurance",
+      "Comprehensive Medical, Dental, and Vision Plans",
+      "Employee Health Advisory Program",
+      "Disability Plan"
+    ],
+    "job_types": [
+      "Part-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Detail-Oriented",
+      "Proactive"
+    ],
+    "company_values": [
+      "Innovation",
+      "Diversity",
+      "Sustainability"
+    ],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": "10 days ago",
+      "posting_expiry_date": null
+    }
+  }
+}

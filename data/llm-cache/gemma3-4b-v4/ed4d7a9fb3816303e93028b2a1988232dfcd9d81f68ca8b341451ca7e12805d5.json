@@ -1,0 +1,90 @@
+{
+  "job_key": "job-0a1a16441ad01df21c64",
+  "cache_identity": "ed4d7a9fb3816303e93028b2a1988232dfcd9d81f68ca8b341451ca7e12805d5",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:40:19.538931+00:00",
+  "wall_seconds": 27.729037332930602,
+  "prompt_eval_count": 1438,
+  "eval_count": 276,
+  "total_duration_ns": 27728221666,
+  "load_duration_ns": 2076458,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$150K-$170K per year base plus annual bonus\",\"min\":150000,\"max\":170000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3+ years of experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"hybrid work mode (2-3 days onsite)\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Cloud Infrastructure & Automation\",\"value\":\"Technology\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Terraform\",\"Python\",\"SQL\",\"AWS\",\"Lang. Chain\",\"Amazon Bedrock Agents\",\"RAG pipelines\",\"AIOps\",\"LLMOps\",\"Agent Ops\",\"Prompt Engineering\",\"Model Selection\",\"Evaluation\",\"Cost Management\",\"Responsible AI\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Leadership\",\"Mentoring\",\"Architecture Governance\"],\"company_values\":[],\"collaboration_tools\":[\"Git. Hub\",\"Jenkins\",\"Artifactory\",\"Sonar. Qube\"],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$150K-$170K per year base plus annual bonus",
+      "min": 150000.0,
+      "max": 170000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3+ years of experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid work mode (2-3 days onsite)",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Cloud Infrastructure & Automation",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Terraform",
+      "Python",
+      "SQL",
+      "AWS",
+      "Lang. Chain",
+      "Amazon Bedrock Agents",
+      "RAG pipelines",
+      "AIOps",
+      "LLMOps",
+      "Agent Ops",
+      "Prompt Engineering",
+      "Model Selection",
+      "Evaluation",
+      "Cost Management",
+      "Responsible AI"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Leadership",
+      "Mentoring",
+      "Architecture Governance"
+    ],
+    "company_values": [],
+    "collaboration_tools": [
+      "Git. Hub",
+      "Jenkins",
+      "Artifactory",
+      "Sonar. Qube"
+    ],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

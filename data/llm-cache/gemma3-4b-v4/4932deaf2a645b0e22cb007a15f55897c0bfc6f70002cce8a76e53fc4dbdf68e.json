@@ -1,0 +1,67 @@
+{
+  "job_key": "job-147336e6ea33f04961e4",
+  "cache_identity": "4932deaf2a645b0e22cb007a15f55897c0bfc6f70002cce8a76e53fc4dbdf68e",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:43:51.889740+00:00",
+  "wall_seconds": 18.000487499986775,
+  "prompt_eval_count": 707,
+  "eval_count": 195,
+  "total_duration_ns": 17991332625,
+  "load_duration_ns": 2981042,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"225K–243K a year\",\"min\":225000,\"max\":243000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":null,\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":null,\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Financial Services\",\"value\":\"Finance\"},\"education_degrees\":[],\"skills\":[\"Quantitative Finance\",\"Software Engineering\",\"AI\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "225K–243K a year",
+      "min": 225000.0,
+      "max": 243000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": null,
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": null,
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Financial Services",
+      "value": "Finance"
+    },
+    "education_degrees": [],
+    "skills": [
+      "Quantitative Finance",
+      "Software Engineering",
+      "AI"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

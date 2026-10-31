@@ -1,0 +1,95 @@
+{
+  "job_key": "job-9b47b21a1cbf0444afc7",
+  "cache_identity": "b5955d9aef921bda41b3eb9600079a6acd86f40952bd1adfa40db1d340861138",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:35:21.159791+00:00",
+  "wall_seconds": 20.992869416018948,
+  "prompt_eval_count": 1996,
+  "eval_count": 354,
+  "total_duration_ns": 20990485208,
+  "load_duration_ns": 3409667,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$93,770 - $179,240\",\"min\":93770,\"max\":179240,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"4 years related quantitative analysis experience in a discipline relevant to risk management to include statistical analysis, modeling, mathematics or other quantitative discipline.OR advanced degree/designation in...\",\"min_years\":4,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"This position can be based in one of the following locations: San Antonio, TX, Plano, TX, Phoenix, AZ, Colorado Springs, CO, Charlotte, NC, or Tampa, FL\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"financial institution\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor's\",\"Master's\"],\"skills\":[\"SQL\",\"Python\",\"SAS\",\"R\",\"statistical analysis\",\"modeling\",\"mathematics\",\"risk management\",\"AML\",\"transaction monitoring\",\"customer risk scoring\",\"financial crime analytics\",\"model development/validation\"],\"benefits\":[\"comprehensive medical, dental and vision plans\",\"401(k)\",\"pension\",\"life insurance\",\"parental benefits\",\"adoption assistance\",\"paid time off\",\"wellness programs\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"analytical\",\"problem-solving\",\"attention to detail\",\"communication\",\"collaboration\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$93,770 - $179,240",
+      "min": 93770.0,
+      "max": 179240.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "4 years related quantitative analysis experience in a discipline relevant to risk management to include statistical analysis, modeling, mathematics or other quantitative discipline.OR advanced degree/designation in...",
+      "min_years": 4.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "This position can be based in one of the following locations: San Antonio, TX, Plano, TX, Phoenix, AZ, Colorado Springs, CO, Charlotte, NC, or Tampa, FL",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "financial institution",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "SAS",
+      "R",
+      "statistical analysis",
+      "modeling",
+      "mathematics",
+      "risk management",
+      "AML",
+      "transaction monitoring",
+      "customer risk scoring",
+      "financial crime analytics",
+      "model development/validation"
+    ],
+    "benefits": [
+      "comprehensive medical, dental and vision plans",
+      "401(k)",
+      "pension",
+      "life insurance",
+      "parental benefits",
+      "adoption assistance",
+      "paid time off",
+      "wellness programs"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "analytical",
+      "problem-solving",
+      "attention to detail",
+      "communication",
+      "collaboration"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

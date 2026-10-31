@@ -1,0 +1,83 @@
+{
+  "job_key": "job-c003279d400de6fd489d",
+  "cache_identity": "b0a3d3e06e291bcb4e5c1e43d92731acc725c50f9aef3fcc0aa506dcc237d267",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:35:17.820442+00:00",
+  "wall_seconds": 17.6519708330743,
+  "prompt_eval_count": 1551,
+  "eval_count": 276,
+  "total_duration_ns": 17651320750,
+  "load_duration_ns": 3087417,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$129,828\",\"min\":129828,\"max\":129828,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"the equivalent of two (2) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics; or the equivalent of four (4) years of full-time work experience\",\"min_years\":2,\"max_years\":4,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Cancer Institute\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Master's\",\"Bachelor's\"],\"skills\":[\"Machine Learning\",\"Data Science\",\"Computer Science\",\"Statistics\",\"NLP\",\"AI\",\"Deep Learning\",\"Large Language Models\",\"Transformers\"],\"benefits\":[\"Comprehensive benefits package\"],\"job_types\":[\"Regular\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[\"Innovation\",\"Integrity\",\"Teamwork\",\"Commitment\"], \"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$129,828",
+      "min": 129828.0,
+      "max": 129828.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "the equivalent of two (2) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics; or the equivalent of four (4) years of full-time work experience",
+      "min_years": 2.0,
+      "max_years": 4.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Cancer Institute",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Master's",
+      "Bachelor's"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Science",
+      "Computer Science",
+      "Statistics",
+      "NLP",
+      "AI",
+      "Deep Learning",
+      "Large Language Models",
+      "Transformers"
+    ],
+    "benefits": [
+      "Comprehensive benefits package"
+    ],
+    "job_types": [
+      "Regular"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [
+      "Innovation",
+      "Integrity",
+      "Teamwork",
+      "Commitment"
+    ],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

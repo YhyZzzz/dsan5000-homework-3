@@ -1,0 +1,97 @@
+{
+  "job_key": "job-205c7d0471b723c814cf",
+  "cache_identity": "6a6829373ce4f5673fa4876fc3fcee339f95c52743299ded168b83a283a2034f",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:56:06.499929+00:00",
+  "wall_seconds": 27.14201666705776,
+  "prompt_eval_count": 1773,
+  "eval_count": 304,
+  "total_duration_ns": 27141311958,
+  "load_duration_ns": 1854500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$100,000 - $140,000\",\"min\":100000,\"max\":140000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"1–3 years of experience in banking, consulting, or analytics is required\",\"min_years\":1,\"max_years\":3,\"level\":null},\"work\":{\"quote\":\"Fully remote\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Banking\",\"value\":\"Finance\"},\"education_degrees\":[],\"skills\":[\"Python\",\"SQL\",\"Data Analysis\",\"Business Transformation\",\"Process Improvement\",\"Reporting\",\"Analytics\",\"Data Governance\",\"Data Validation\",\"Data Integration\",\"Communication\",\"Problem Solving\",\"Attention to Detail\",\"Organizational Ability\",\"Management Reporting\"], \"benefits\":[\"Medical\",\"Prescription\",\"Dental\",\"Vision\",\"Healthcare Savings\",\"401(k)\",\"Life Insurance\",\"Disability Insurance\",\"Mental Health Programs\"], \"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Collaborative\",\"Team-oriented\",\"Intellectual Curiosity\",\"Detail-oriented\",\"Self-starter\",\"Communication\",\"Problem-solving\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$100,000 - $140,000",
+      "min": 100000.0,
+      "max": 140000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "1–3 years of experience in banking, consulting, or analytics is required",
+      "min_years": 1.0,
+      "max_years": 3.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Banking",
+      "value": "Finance"
+    },
+    "education_degrees": [],
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Business Transformation",
+      "Process Improvement",
+      "Reporting",
+      "Analytics",
+      "Data Governance",
+      "Data Validation",
+      "Data Integration",
+      "Communication",
+      "Problem Solving",
+      "Attention to Detail",
+      "Organizational Ability",
+      "Management Reporting"
+    ],
+    "benefits": [
+      "Medical",
+      "Prescription",
+      "Dental",
+      "Vision",
+      "Healthcare Savings",
+      "401(k)",
+      "Life Insurance",
+      "Disability Insurance",
+      "Mental Health Programs"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Collaborative",
+      "Team-oriented",
+      "Intellectual Curiosity",
+      "Detail-oriented",
+      "Self-starter",
+      "Communication",
+      "Problem-solving"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "job_key": "job-0df55b63e3e95771ed55",
+  "cache_identity": "49cc0c72a833b66864251e62ff1785df11e952e062db63a8f66ebd631bc2c86a",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:41:21.001544+00:00",
+  "wall_seconds": 18.960862374980934,
+  "prompt_eval_count": 904,
+  "eval_count": 249,
+  "total_duration_ns": 18930901500,
+  "load_duration_ns": 2431708,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"90K–126K a year\",\"min\":90000,\"max\":126000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"5 years required\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"on-site role at our lab in San Carlos, CA\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"autoimmune diseases, epigenetics, and/or transcriptomics\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"PhD\",\"Masters\"],\"skills\":[\"Python\",\"R\",\"data science\",\"machine learning\",\"NGS data\",\"statistical\",\"modeling\",\"bioinformatics\",\"computational biology\",\"data visualization\",\"cloud computing\",\"workflow managers\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "90K–126K a year",
+      "min": 90000.0,
+      "max": 126000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "5 years required",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "on-site role at our lab in San Carlos, CA",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "autoimmune diseases, epigenetics, and/or transcriptomics",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "PhD",
+      "Masters"
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "data science",
+      "machine learning",
+      "NGS data",
+      "statistical",
+      "modeling",
+      "bioinformatics",
+      "computational biology",
+      "data visualization",
+      "cloud computing",
+      "workflow managers"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "job_key": "job-15643e21f8c075989217",
+  "cache_identity": "922473365a5e6a94739241f51d7e466c7adf629e1914e658df9f6d6e3e3520a8",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:44:09.635180+00:00",
+  "wall_seconds": 17.740625542006455,
+  "prompt_eval_count": 768,
+  "eval_count": 222,
+  "total_duration_ns": 17739695917,
+  "load_duration_ns": 2203750,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$180,000 to $260,000 annually\",\"min\":180000,\"max\":260000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"over 4 years of coding experience\",\"min_years\":4,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Full-time\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Computer Vision Deep Learning & AI\",\"value\":\"Technology\"},\"education_degrees\":[\"Master's\"],\"skills\":[\"C/C++\",\"Python\",\"Deep Learning\"],\"benefits\":[\"Health insurance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$180,000 to $260,000 annually",
+      "min": 180000.0,
+      "max": 260000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "over 4 years of coding experience",
+      "min_years": 4.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Full-time",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Computer Vision Deep Learning & AI",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Master's"
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Deep Learning"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

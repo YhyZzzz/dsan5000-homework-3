@@ -1,0 +1,92 @@
+{
+  "job_key": "job-215151dcf7c110b6eb1d",
+  "cache_identity": "b2397dbd07fe1b40e1cb8b97c383ee936d796197ee8e322169f446a4a0491440",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:56:12.753873+00:00",
+  "wall_seconds": 27.739212000044063,
+  "prompt_eval_count": 1958,
+  "eval_count": 295,
+  "total_duration_ns": 27738412666,
+  "load_duration_ns": 1945458,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$83,538.00 - $137,241.00 / year\",\"min\":83538,\"max\":137241,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"2-3 years of professional software development experience\",\"min_years\":2,\"max_years\":3,\"level\":null},\"work\":{\"quote\":\"hybrid work culture (3 days in the office)\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"connectivity\",\"value\":\"Technology\"},\"education_degrees\":[\"Bachelor's degree\",\"computer science or related field\"],\"skills\":[\"Python\",\"JavaScript\",\"GIT\",\"NodeJS\",\"SQL\",\"Confluent Kafka\",\"Flink\",\"Kafka Streams\",\"Schema Registry\",\"Kafka Connect\",\"BigQuery\",\"Google Cloud\",\"Docker\",\"CI/CD\",\"prompt engineering\",\"networking\",\"modeling\",\"simulation\",\"digital twin\",\"Batfish\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"communication skills\",\"intellectual curiosity\",\"willingness to give and receive feedback\",\"team player\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$83,538.00 - $137,241.00 / year",
+      "min": 83538.0,
+      "max": 137241.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2-3 years of professional software development experience",
+      "min_years": 2.0,
+      "max_years": 3.0,
+      "level": null
+    },
+    "work": {
+      "quote": "hybrid work culture (3 days in the office)",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "connectivity",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor's degree",
+      "computer science or related field"
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "GIT",
+      "NodeJS",
+      "SQL",
+      "Confluent Kafka",
+      "Flink",
+      "Kafka Streams",
+      "Schema Registry",
+      "Kafka Connect",
+      "BigQuery",
+      "Google Cloud",
+      "Docker",
+      "CI/CD",
+      "prompt engineering",
+      "networking",
+      "modeling",
+      "simulation",
+      "digital twin",
+      "Batfish"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "communication skills",
+      "intellectual curiosity",
+      "willingness to give and receive feedback",
+      "team player"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

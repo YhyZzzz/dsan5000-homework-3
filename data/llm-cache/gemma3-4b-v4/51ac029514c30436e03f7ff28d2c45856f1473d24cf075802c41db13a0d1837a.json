@@ -1,0 +1,91 @@
+{
+  "job_key": "job-0ca7ee9b7e6f39698b92",
+  "cache_identity": "51ac029514c30436e03f7ff28d2c45856f1473d24cf075802c41db13a0d1837a",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:41:02.036585+00:00",
+  "wall_seconds": 26.05771091603674,
+  "prompt_eval_count": 1589,
+  "eval_count": 274,
+  "total_duration_ns": 26056847500,
+  "load_duration_ns": 2000959,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"0–3 years of experience\",\"min\":0,\"max\":3,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"0–3 years of experience in a quantitative, analytical, or financial modeling role\",\"min_years\":0,\"max_years\":3,\"level\":null},\"work\":{\"quote\":\"Hybrid and flexible working arrangements\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"energy markets\",\"value\":\"Energy/Utilities\"},\"education_degrees\":[\"B.S.\",\"M.S.\",\"Ph.D.\"],\"skills\":[\"Python\",\"C++\",\"SQL\",\"numerical methods\",\"optimization\",\"stochastic processes\",\"analytical\",\"problem-solving\"],\"benefits\":[\"wellbeing leave day\",\"annual leave\",\"paid parental leave\",\"paid transition leave\",\"paid volunteer leave\",\"donation matching\",\"medical insurance\",\"prescription drug insurance\",\"dental insurance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"communication skills\",\"intellectual curiosity\",\"collaboration\",\"attention to detail\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "0–3 years of experience",
+      "min": 0.0,
+      "max": 3.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "0–3 years of experience in a quantitative, analytical, or financial modeling role",
+      "min_years": 0.0,
+      "max_years": 3.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Hybrid and flexible working arrangements",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "energy markets",
+      "value": "Energy/Utilities"
+    },
+    "education_degrees": [
+      "B.S.",
+      "M.S.",
+      "Ph.D."
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "numerical methods",
+      "optimization",
+      "stochastic processes",
+      "analytical",
+      "problem-solving"
+    ],
+    "benefits": [
+      "wellbeing leave day",
+      "annual leave",
+      "paid parental leave",
+      "paid transition leave",
+      "paid volunteer leave",
+      "donation matching",
+      "medical insurance",
+      "prescription drug insurance",
+      "dental insurance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "communication skills",
+      "intellectual curiosity",
+      "collaboration",
+      "attention to detail"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

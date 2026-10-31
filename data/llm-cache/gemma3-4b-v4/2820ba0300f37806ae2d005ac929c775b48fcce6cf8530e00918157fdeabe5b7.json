@@ -1,0 +1,107 @@
+{
+  "job_key": "job-0a453d096a33490b566d",
+  "cache_identity": "2820ba0300f37806ae2d005ac929c775b48fcce6cf8530e00918157fdeabe5b7",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:40:27.520945+00:00",
+  "wall_seconds": 33.17239866696764,
+  "prompt_eval_count": 2378,
+  "eval_count": 359,
+  "total_duration_ns": 33140827916,
+  "load_duration_ns": 9858666,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$86,250.00 - $172,500.00\",\"min\":86250,\"max\":172500,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3+ years of relevant / direct industry experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"In-office company\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Financial Services\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelors\"],\"skills\":[\"Python\",\"Spark\",\"Scala\",\"SQL\",\"Oracle\",\"Teradata\",\"Apache Iceberg\",\"Apache Airflow\",\"Trino\",\"Azure\",\"AWS\",\"Data Lakehouse Architecture\",\"Data Mining\",\"Data Science\",\"Machine Learning (ML)\",\"Structured Query Language (SQL)\",\"Big Data Management and Analytics\",\"Business Intelligence\",\"Data Analysis - Software\",\"Data Architecture\",\"Database Structures\",\"Effective Communications\",\"Problem Solving\",\"Software Development Life Cycle\"],\"benefits\":[\"medical/prescription drug coverage\",\"dental insurance\",\"vision options\",\"employee and spouse/child life insurance\",\"short and long-term disability protection\",\"401(k)\",\"pension\",\"stock purchase plans\",\"dependent care reimbursement account\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Collaborative mindset\",\"Strong communication\",\"Problem-solving\",\"Critical thinking\",\"Analytical Thinking\",\"Competitive Advantages\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$86,250.00 - $172,500.00",
+      "min": 86250.0,
+      "max": 172500.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3+ years of relevant / direct industry experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "In-office company",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Financial Services",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelors"
+    ],
+    "skills": [
+      "Python",
+      "Spark",
+      "Scala",
+      "SQL",
+      "Oracle",
+      "Teradata",
+      "Apache Iceberg",
+      "Apache Airflow",
+      "Trino",
+      "Azure",
+      "AWS",
+      "Data Lakehouse Architecture",
+      "Data Mining",
+      "Data Science",
+      "Machine Learning (ML)",
+      "Structured Query Language (SQL)",
+      "Big Data Management and Analytics",
+      "Business Intelligence",
+      "Data Analysis - Software",
+      "Data Architecture",
+      "Database Structures",
+      "Effective Communications",
+      "Problem Solving",
+      "Software Development Life Cycle"
+    ],
+    "benefits": [
+      "medical/prescription drug coverage",
+      "dental insurance",
+      "vision options",
+      "employee and spouse/child life insurance",
+      "short and long-term disability protection",
+      "401(k)",
+      "pension",
+      "stock purchase plans",
+      "dependent care reimbursement account"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Collaborative mindset",
+      "Strong communication",
+      "Problem-solving",
+      "Critical thinking",
+      "Analytical Thinking",
+      "Competitive Advantages"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

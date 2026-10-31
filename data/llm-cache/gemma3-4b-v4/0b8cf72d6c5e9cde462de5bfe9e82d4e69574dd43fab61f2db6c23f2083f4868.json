@@ -1,0 +1,92 @@
+{
+  "job_key": "job-1f802d345622b30ec206",
+  "cache_identity": "0b8cf72d6c5e9cde462de5bfe9e82d4e69574dd43fab61f2db6c23f2083f4868",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:55:28.106295+00:00",
+  "wall_seconds": 23.303502166992985,
+  "prompt_eval_count": 1350,
+  "eval_count": 295,
+  "total_duration_ns": 23302744625,
+  "load_duration_ns": 2685083,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"18 days ago\",\"min\":98000,\"max\":147000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"Three (3) years of data science experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Hybrid eligible\",\"value\":\"hybrid\"},\"visa\":{\"quote\":\"Company H1B Sponsorship\",\"value\":\"not_available\"},\"industry\":{\"quote\":\"genomics clinical laboratory, genomics health tech or applied genomics research setting\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Master of Science\"],\"skills\":[\"Computational Biology\",\"Statistics\",\"Data Science\",\"Python\",\"SQL\",\"Genetic testing\",\"Data mining\",\"Data visualization\",\"Data interpretation\",\"Clinical data\",\"Data management\",\"Quality control\"],\"benefits\":[\"Paid time off\",\"Health insurance\",\"Dental insurance\",\"Company provided life and disability insurance\",\"Paid parental leave\",\"403b employer match\",\"Wellness program\",\"Professional development tools\",\"Annual employee bonus program\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Collaboration\",\"Data-driven decision-making\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "18 days ago",
+      "min": 98000.0,
+      "max": 147000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Three (3) years of data science experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Hybrid eligible",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": "Company H1B Sponsorship",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": "genomics clinical laboratory, genomics health tech or applied genomics research setting",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Master of Science"
+    ],
+    "skills": [
+      "Computational Biology",
+      "Statistics",
+      "Data Science",
+      "Python",
+      "SQL",
+      "Genetic testing",
+      "Data mining",
+      "Data visualization",
+      "Data interpretation",
+      "Clinical data",
+      "Data management",
+      "Quality control"
+    ],
+    "benefits": [
+      "Paid time off",
+      "Health insurance",
+      "Dental insurance",
+      "Company provided life and disability insurance",
+      "Paid parental leave",
+      "403b employer match",
+      "Wellness program",
+      "Professional development tools",
+      "Annual employee bonus program"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Data-driven decision-making"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "job_key": "job-0618aae15260352f2adb",
+  "cache_identity": "375d5f14367200e1a1a15bd5206ba4ac5958ac94985fd7155e91cb4c36dc0ebc",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:42.700814+00:00",
+  "wall_seconds": 15.977481374982744,
+  "prompt_eval_count": 711,
+  "eval_count": 208,
+  "total_duration_ns": 15946514333,
+  "load_duration_ns": 9915083,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"null\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"PhD-level\",\"min_years\":null,\"max_years\":null,\"level\":\"Senior\"},\"work\":{\"quote\":\"oversee and advance analysis of high-dimensional data\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"null\",\"value\":null},\"industry\":{\"quote\":\"Biotechnology\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"PhD\"],\"skills\":[\"Single-cell RNA-seq\",\"analytics\",\"pipeline building\",\"collaboration\",\"regulatory filings\",\"patent\",\"publications\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":\"21 days ago\",\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "null",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "PhD-level",
+      "min_years": null,
+      "max_years": null,
+      "level": "Senior"
+    },
+    "work": {
+      "quote": "oversee and advance analysis of high-dimensional data",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "null",
+      "value": null
+    },
+    "industry": {
+      "quote": "Biotechnology",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "PhD"
+    ],
+    "skills": [
+      "Single-cell RNA-seq",
+      "analytics",
+      "pipeline building",
+      "collaboration",
+      "regulatory filings",
+      "patent",
+      "publications"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": "21 days ago",
+      "posting_expiry_date": null
+    }
+  }
+}

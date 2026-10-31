@@ -1,0 +1,113 @@
+{
+  "job_key": "job-102626b0b3aad2b76a66",
+  "cache_identity": "3ad88233fe872c58e8b649492f1e8c3c9169d0c757712d903c562a42729b4d01",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:42:19.550426+00:00",
+  "wall_seconds": 27.55273237498477,
+  "prompt_eval_count": 1584,
+  "eval_count": 384,
+  "total_duration_ns": 27523945292,
+  "load_duration_ns": 2153375,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"92.86 an hour\",\"min\":92.86,\"max\":92.86,\"period\":\"hour\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"15-20 Years of experience\",\"min_years\":15,\"max_years\":20,\"level\":null},\"work\":{\"quote\":\"Hybrid location\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"IT Services and Consultant\",\"value\":\"Consulting/Staffing\"},\"education_degrees\":[],\"skills\":[\"Amazon Web Services (AWS)\",\"Artificial Intelligence (AI)\",\"Artificial Intelligence (AI) Agents\",\"Artificial Intelligence (AI) Programming Languages\",\"Audiovisual\",\"Data Management\",\"Data Modeling\",\"Information Retrieval\",\"Information Technology Consulting\",\"Input/Output\",\"Instructional Design\",\"Kernel Programming\",\"Memory Management\",\"Microsoft Windows Azure\",\"Neo4j\",\"Open Source\",\"PostgreSQL\",\"Product Strategy\",\"Proof of Concept\",\"Quality Monitoring\",\"System Architecture\",\"Team Player\",\"Telemetry\",\"Training/Teaching\",\"Training/Teaching Curriculum\",\"RAGAS\",\"DeepEval\",\"Langchain\",\"LangGraph\",\"AutoGen\",\"Semantic Kernel\",\"Claude Code\",\"Cursor\",\"Blitzy Platforms\",\"Open Telemetry\",\"MCP - Microsoft Certified Professional\",\"Knowledge Graphs\",\"LLM evaluation frameworks\",\"Distributed tracing\",\"Adaptive Learning Engines\",\"LLM orchestration layers\",\"Generative AI\",\"Content Generation Pipelines\",\"Multi-agent orchestration patterns\"], \"benefits\":[\"401K\",\"Employee Referral Program\",\"Life Insurance\",\"Health Plan\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "92.86 an hour",
+      "min": 92.86,
+      "max": 92.86,
+      "period": "hour",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "15-20 Years of experience",
+      "min_years": 15.0,
+      "max_years": 20.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Hybrid location",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "IT Services and Consultant",
+      "value": "Consulting/Staffing"
+    },
+    "education_degrees": [],
+    "skills": [
+      "Amazon Web Services (AWS)",
+      "Artificial Intelligence (AI)",
+      "Artificial Intelligence (AI) Agents",
+      "Artificial Intelligence (AI) Programming Languages",
+      "Audiovisual",
+      "Data Management",
+      "Data Modeling",
+      "Information Retrieval",
+      "Information Technology Consulting",
+      "Input/Output",
+      "Instructional Design",
+      "Kernel Programming",
+      "Memory Management",
+      "Microsoft Windows Azure",
+      "Neo4j",
+      "Open Source",
+      "PostgreSQL",
+      "Product Strategy",
+      "Proof of Concept",
+      "Quality Monitoring",
+      "System Architecture",
+      "Team Player",
+      "Telemetry",
+      "Training/Teaching",
+      "Training/Teaching Curriculum",
+      "RAGAS",
+      "DeepEval",
+      "Langchain",
+      "LangGraph",
+      "AutoGen",
+      "Semantic Kernel",
+      "Claude Code",
+      "Cursor",
+      "Blitzy Platforms",
+      "Open Telemetry",
+      "MCP - Microsoft Certified Professional",
+      "Knowledge Graphs",
+      "LLM evaluation frameworks",
+      "Distributed tracing",
+      "Adaptive Learning Engines",
+      "LLM orchestration layers",
+      "Generative AI",
+      "Content Generation Pipelines",
+      "Multi-agent orchestration patterns"
+    ],
+    "benefits": [
+      "401K",
+      "Employee Referral Program",
+      "Life Insurance",
+      "Health Plan"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

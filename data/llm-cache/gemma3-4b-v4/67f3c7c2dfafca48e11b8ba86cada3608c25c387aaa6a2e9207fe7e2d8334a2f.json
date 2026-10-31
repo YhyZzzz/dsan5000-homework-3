@@ -1,0 +1,84 @@
+{
+  "job_key": "job-138b0c02a50f3e3d9ee9",
+  "cache_identity": "67f3c7c2dfafca48e11b8ba86cada3608c25c387aaa6a2e9207fe7e2d8334a2f",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:35:15.394896+00:00",
+  "wall_seconds": 15.2332310420461,
+  "prompt_eval_count": 1216,
+  "eval_count": 238,
+  "total_duration_ns": 15225568500,
+  "load_duration_ns": 2753166,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$300k + substantial equity\",\"min\":300000,\"max\":null,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"Has experience\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"New York, NY\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"conversational AI\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Ph.D.\"],\"skills\":[\"NLP\",\"Transformers\",\"Linux/Unix\",\"AWS\",\"Python\",\"SQL\"],\"benefits\":[\"Health insurance\",\"Dental insurance\",\"Vision insurance\",\"401k\",\"Unlimited vacation\",\"Monthly fitness stipend\",\"Stock options\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Driven\",\"Excited\",\"Productive\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":\"ASAP\",\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$300k + substantial equity",
+      "min": 300000.0,
+      "max": null,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Has experience",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "New York, NY",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "conversational AI",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Ph.D."
+    ],
+    "skills": [
+      "NLP",
+      "Transformers",
+      "Linux/Unix",
+      "AWS",
+      "Python",
+      "SQL"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Dental insurance",
+      "Vision insurance",
+      "401k",
+      "Unlimited vacation",
+      "Monthly fitness stipend",
+      "Stock options"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Driven",
+      "Excited",
+      "Productive"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": "ASAP",
+      "posting_expiry_date": null
+    }
+  }
+}

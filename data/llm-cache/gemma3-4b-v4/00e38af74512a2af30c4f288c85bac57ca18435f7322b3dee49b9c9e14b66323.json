@@ -1,0 +1,85 @@
+{
+  "job_key": "job-0d4ecfca57a1f3cd42c9",
+  "cache_identity": "00e38af74512a2af30c4f288c85bac57ca18435f7322b3dee49b9c9e14b66323",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:41:09.292628+00:00",
+  "wall_seconds": 20.364835208049044,
+  "prompt_eval_count": 1251,
+  "eval_count": 239,
+  "total_duration_ns": 20343267083,
+  "load_duration_ns": 1940041,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"2 years bank experience\",\"min\":2,\"max\":null,\"period\":null,\"currency\":\"USD\"},\"experience\":{\"quote\":\"2 years bank experience\",\"min_years\":2,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"United States\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Banking\",\"value\":\"Finance\"},\"education_degrees\":[\"High School diploma or equivalent\"],\"skills\":[\"NCP Certification\",\"APRP Certification\",\"AAP Certification\",\"Confidentiality\",\"Judgment\",\"Decision-making\"],\"benefits\":[\"Medical insurance\",\"Dental insurance\",\"Vision insurance\",\"Life insurance\",\"401(k)\",\"PTO\",\"Paid time off\",\"11 1/2 Paid Holidays\"],\"job_types\":[\"Full-time\"],\"certifications\":[\"NCP\",\"APRP\",\"AAP\"],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "2 years bank experience",
+      "min": 2.0,
+      "max": null,
+      "period": null,
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2 years bank experience",
+      "min_years": 2.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "United States",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Banking",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "High School diploma or equivalent"
+    ],
+    "skills": [
+      "NCP Certification",
+      "APRP Certification",
+      "AAP Certification",
+      "Confidentiality",
+      "Judgment",
+      "Decision-making"
+    ],
+    "benefits": [
+      "Medical insurance",
+      "Dental insurance",
+      "Vision insurance",
+      "Life insurance",
+      "401(k)",
+      "PTO",
+      "Paid time off",
+      "11 1/2 Paid Holidays"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [
+      "NCP",
+      "APRP",
+      "AAP"
+    ],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

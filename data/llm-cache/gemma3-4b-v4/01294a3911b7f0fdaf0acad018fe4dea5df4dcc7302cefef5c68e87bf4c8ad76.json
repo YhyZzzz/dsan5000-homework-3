@@ -1,0 +1,90 @@
+{
+  "job_key": "job-1d0bd16b98eb442288aa",
+  "cache_identity": "01294a3911b7f0fdaf0acad018fe4dea5df4dcc7302cefef5c68e87bf4c8ad76",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:54:22.472044+00:00",
+  "wall_seconds": 28.75510733295232,
+  "prompt_eval_count": 2229,
+  "eval_count": 287,
+  "total_duration_ns": 28754255333,
+  "load_duration_ns": 2251833,
+  "done_reason": "stop",
+  "raw_response": "{\n\"salary\":{\"quote\":\"$100-130k annual\",\"min\":100,\"max\":130,\"period\":\"year\",\"currency\":\"USD\"},\n\"experience\":{\"quote\":\"3+ years of experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\n\"work\":{\"quote\":\"primarily an individual-contributor position\",\"value\":\"hybrid\"},\n\"visa\":{\"quote\":null,\"value\":null},\n\"industry\":{\"quote\":\"Biola University\",\"value\":\"Education\"},\n\"education_degrees\":[\"Master's\",\"Bachelor's\"],\"skills\":[\"Python\",\"R\",\"SQL\",\"regression\",\"ANOVA\",\"categorical data analysis\",\"multivariate methods\",\"experimental design\",\"survey analysis\",\"power analysis\",\"data management\",\"data visualization\",\"technical summaries\",\"reports\"],\n\"benefits\":[],\n\"job_types\":[\"Full-time\",\"Part-time\"],\n\"certifications\":[],\n\"soft_skills\":[\"organizational skills\",\"communication skills\",\"client relationship management\",\"project management\",\"initiative\",\"technical direction\",\"mentoring\"],\n\"company_values\":[],\n\"collaboration_tools\":[],\n\"required_languages\":[],\n\"company_employees\":null,\n\"team_size\":null,\n\"travel_percent_max\":null,\n\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$100-130k annual",
+      "min": 100.0,
+      "max": 130.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3+ years of experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "primarily an individual-contributor position",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Biola University",
+      "value": "Education"
+    },
+    "education_degrees": [
+      "Master's",
+      "Bachelor's"
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "regression",
+      "ANOVA",
+      "categorical data analysis",
+      "multivariate methods",
+      "experimental design",
+      "survey analysis",
+      "power analysis",
+      "data management",
+      "data visualization",
+      "technical summaries",
+      "reports"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time",
+      "Part-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "organizational skills",
+      "communication skills",
+      "client relationship management",
+      "project management",
+      "initiative",
+      "technical direction",
+      "mentoring"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

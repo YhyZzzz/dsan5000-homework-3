@@ -1,0 +1,79 @@
+{
+  "job_key": "job-068f7816b6349ea7252b",
+  "cache_identity": "85b9b150db748a210dd2bde31925ccbe5196f0c75b66cc13b3b38dd411e555bc",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:52.710784+00:00",
+  "wall_seconds": 19.800083665992133,
+  "prompt_eval_count": 1166,
+  "eval_count": 209,
+  "total_duration_ns": 19774339208,
+  "load_duration_ns": 1961417,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"6 years\",\"min\":6,\"max\":null,\"period\":null,\"currency\":\"USD\"},\"experience\":{\"quote\":\"6 years\",\"min_years\":6,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"3-5 days per week onsite\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Finance\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor\",\"Masters\"],\"skills\":[\"R programming\",\"Tableau\",\"Python\",\"SQL\",\"DBeaver\",\"SQL client software\",\"BitBucket\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Analytical\",\"Problem-solving\",\"Communication\",\"Relationship management\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "6 years",
+      "min": 6.0,
+      "max": null,
+      "period": null,
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "6 years",
+      "min_years": 6.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "3-5 days per week onsite",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Finance",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor",
+      "Masters"
+    ],
+    "skills": [
+      "R programming",
+      "Tableau",
+      "Python",
+      "SQL",
+      "DBeaver",
+      "SQL client software",
+      "BitBucket"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Analytical",
+      "Problem-solving",
+      "Communication",
+      "Relationship management"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

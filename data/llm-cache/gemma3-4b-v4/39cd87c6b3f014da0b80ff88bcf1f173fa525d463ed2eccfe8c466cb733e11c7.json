@@ -1,0 +1,99 @@
+{
+  "job_key": "job-1b05da426ef2b7841fe0",
+  "cache_identity": "39cd87c6b3f014da0b80ff88bcf1f173fa525d463ed2eccfe8c466cb733e11c7",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:53:53.638441+00:00",
+  "wall_seconds": 31.690156541997567,
+  "prompt_eval_count": 2560,
+  "eval_count": 347,
+  "total_duration_ns": 31688703708,
+  "load_duration_ns": 2254625,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$133,000.00 – $217,700.00\",\"min\":133000,\"max\":217700,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"8 + years\",\"min_years\":8,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"in-office\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"will not provide sponsorship\",\"value\":\"not_available\"},\"industry\":{\"quote\":\"Financial Services\",\"value\":\"Finance\"},\"education_degrees\":[\"Masters\"],\"skills\":[\"Spark/PySpark\",\"SQL\",\"Python\",\"Machine Learning\",\"Anomaly Detection\",\"Behavioral Modeling\",\"Network Analysis\",\"Scikit-learn\",\"XGBoost\",\"LightGBM\",\"Pandas\",\"NumPy\",\"Statistics\",\"Experimentation\",\"Model Validation\"],\"benefits\":[\"medical/prescription drug coverage\",\"dental and vision options\",\"employee and spouse/child life insurance\",\"short and long-term disability protection\",\"401(k)\",\"pension\",\"stock purchase plans\",\"dependent care reimbursement account\",\"educational assistance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Analytical Thinking\",\"Competitive Advantages\",\"Data Analytics\",\"Data Mining\",\"Data Science\",\"Machine Learning\",\"Modeling: Data, Process, Events, Objects, Prototyping, Query and Database Access Tools\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$133,000.00 – $217,700.00",
+      "min": 133000.0,
+      "max": 217700.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "8 + years",
+      "min_years": 8.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "in-office",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "will not provide sponsorship",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": "Financial Services",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Masters"
+    ],
+    "skills": [
+      "Spark/PySpark",
+      "SQL",
+      "Python",
+      "Machine Learning",
+      "Anomaly Detection",
+      "Behavioral Modeling",
+      "Network Analysis",
+      "Scikit-learn",
+      "XGBoost",
+      "LightGBM",
+      "Pandas",
+      "NumPy",
+      "Statistics",
+      "Experimentation",
+      "Model Validation"
+    ],
+    "benefits": [
+      "medical/prescription drug coverage",
+      "dental and vision options",
+      "employee and spouse/child life insurance",
+      "short and long-term disability protection",
+      "401(k)",
+      "pension",
+      "stock purchase plans",
+      "dependent care reimbursement account",
+      "educational assistance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Competitive Advantages",
+      "Data Analytics",
+      "Data Mining",
+      "Data Science",
+      "Machine Learning",
+      "Modeling: Data, Process, Events, Objects, Prototyping, Query and Database Access Tools"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

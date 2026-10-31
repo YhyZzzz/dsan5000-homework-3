@@ -1,0 +1,126 @@
+{
+  "job_key": "job-01bf8e1e6d785841d1a6",
+  "cache_identity": "710436a40c5100bed68d896bde185fdc2f08bed2bb0f2c00c687ade6c133b639",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:37:58.692634+00:00",
+  "wall_seconds": 40.58128074998967,
+  "prompt_eval_count": 2284,
+  "eval_count": 395,
+  "total_duration_ns": 40564741833,
+  "load_duration_ns": 2612000,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$164,780 - $314,960\",\"min\":164780,\"max\":314960,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"8 years of experience in a predictive analytics or data analysis OR Advanced Degree (e.g., Masters, PhD)\",\"min_years\":8,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"flexible work environment that requires an individual to be in the office 4 days per week\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Financial Services\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor\",\"Masters\",\"PhD\"],\"skills\":[\"Python\",\"SQL\",\"Machine Learning\",\"Simulation\",\"Optimization\",\"Statistical Modeling\",\"Data Analysis\",\"Data Manipulation\",\"Data Preprocessing\",\"Cloud\",\"Database\",\"HQL\",\"NoSQL\",\"JSON/XML\",\"Text Documents\",\"Image\",\"Linear Models\",\"Logistic Models\",\"Discriminant Analysis\",\"Support Vector Machines\",\"Decision Trees\",\"Forest Models\",\"K-Means Clustering\",\"Hierarchical Clustering\",\"DBSCAN\",\"Data Engineering\",\"IT\",\"Model Risk Management\",\"Model Development Control\",\"MDC\",\"MRM\",\"Data Science\",\"Data Scientists\",\"Business Insights\",\"Automation\",\"Revenue Generation\",\"Expense Reduction\",\"Risk Reduction\",\"Mentoring\",\"Leadership\",\"Communication\",\"Consulting\",\"Regulatory Implications\",\"Model Lifecycle\"],\"benefits\":[],\"job_types\":[\"Lead\",\"Data Scientist\"],\"certifications\":[],\"soft_skills\":[\"Project Management\",\"Communication\",\"Mentoring\",\"Leadership\",\"Consulting\",\"Teamwork\",\"Collaboration\"],\"company_values\":[\"Honesty\",\"Integrity\",\"Loyalty\",\"Service\"],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$164,780 - $314,960",
+      "min": 164780.0,
+      "max": 314960.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "8 years of experience in a predictive analytics or data analysis OR Advanced Degree (e.g., Masters, PhD)",
+      "min_years": 8.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "flexible work environment that requires an individual to be in the office 4 days per week",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Financial Services",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor",
+      "Masters",
+      "PhD"
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Simulation",
+      "Optimization",
+      "Statistical Modeling",
+      "Data Analysis",
+      "Data Manipulation",
+      "Data Preprocessing",
+      "Cloud",
+      "Database",
+      "HQL",
+      "NoSQL",
+      "JSON/XML",
+      "Text Documents",
+      "Image",
+      "Linear Models",
+      "Logistic Models",
+      "Discriminant Analysis",
+      "Support Vector Machines",
+      "Decision Trees",
+      "Forest Models",
+      "K-Means Clustering",
+      "Hierarchical Clustering",
+      "DBSCAN",
+      "Data Engineering",
+      "IT",
+      "Model Risk Management",
+      "Model Development Control",
+      "MDC",
+      "MRM",
+      "Data Science",
+      "Data Scientists",
+      "Business Insights",
+      "Automation",
+      "Revenue Generation",
+      "Expense Reduction",
+      "Risk Reduction",
+      "Mentoring",
+      "Leadership",
+      "Communication",
+      "Consulting",
+      "Regulatory Implications",
+      "Model Lifecycle"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Lead",
+      "Data Scientist"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Project Management",
+      "Communication",
+      "Mentoring",
+      "Leadership",
+      "Consulting",
+      "Teamwork",
+      "Collaboration"
+    ],
+    "company_values": [
+      "Honesty",
+      "Integrity",
+      "Loyalty",
+      "Service"
+    ],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

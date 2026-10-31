@@ -1,0 +1,87 @@
+{
+  "job_key": "job-1612aa43e504f966dba5",
+  "cache_identity": "45087a7fddca0f04e8264c34058af7fbfee315866d1b13fab8b9fef6730680ce",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:44:35.460901+00:00",
+  "wall_seconds": 22.74659045797307,
+  "prompt_eval_count": 1665,
+  "eval_count": 249,
+  "total_duration_ns": 22714447250,
+  "load_duration_ns": 5005917,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"2 – 5 years of hands-on experience\",\"min\":2,\"max\":5,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"2–5 years of hands-on experience\",\"min_years\":2,\"max_years\":5,\"level\":null},\"work\":{\"quote\":\"Fully remote\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"manufacturing, retail, or healthcare\",\"value\":null},\"education_degrees\":[\"Bachelor’s\"],\"skills\":[\"Microsoft Excel\",\"formulas\",\"pivot tables\",\"lookups\",\"SAP\",\"Oracle Fusion\",\"JD Edwards\",\"SQL\",\"Power BI\",\"Tableau\",\"data governance\",\"data privacy\",\"compliance standards\",\"data management\",\"data analytics\",\"ERP systems\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"attention to detail\",\"analytical thinking\",\"communication\",\"problem-solving abilities\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "2 – 5 years of hands-on experience",
+      "min": 2.0,
+      "max": 5.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2–5 years of hands-on experience",
+      "min_years": 2.0,
+      "max_years": 5.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "manufacturing, retail, or healthcare",
+      "value": null
+    },
+    "education_degrees": [
+      "Bachelor’s"
+    ],
+    "skills": [
+      "Microsoft Excel",
+      "formulas",
+      "pivot tables",
+      "lookups",
+      "SAP",
+      "Oracle Fusion",
+      "JD Edwards",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "data governance",
+      "data privacy",
+      "compliance standards",
+      "data management",
+      "data analytics",
+      "ERP systems"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "attention to detail",
+      "analytical thinking",
+      "communication",
+      "problem-solving abilities"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

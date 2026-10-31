@@ -1,0 +1,72 @@
+{
+  "job_key": "job-1a8b435dc2ff016bd879",
+  "cache_identity": "1080d7967edbfe3bc891b547a1e572ce6a48e19a00192225c768a2ade41bf437",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:53:17.156198+00:00",
+  "wall_seconds": 23.07441179198213,
+  "prompt_eval_count": 879,
+  "eval_count": 238,
+  "total_duration_ns": 23073655000,
+  "load_duration_ns": 1919666,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"58,240–87,360 a year\",\"min\":58240,\"max\":87360,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"A degree in a quantitative or related field\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Hybrid / on-site · Long Island, NY\",\"value\":\"hybrid\"},\"visa\":{\"quote\":\"candidates on OPT, CPT, or STEM-OPT work authorization\",\"value\":\"not_available\"},\"industry\":{\"quote\":\"technology staffing partner\",\"value\":\"Technology\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"SQL\",\"Python\",\"Excel\",\"Power BI\",\"Tableau\",\"data visualization\"],\"benefits\":[],\"job_types\":[\"Junior Data Analyst\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "58,240–87,360 a year",
+      "min": 58240.0,
+      "max": 87360.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "A degree in a quantitative or related field",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Hybrid / on-site · Long Island, NY",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": "candidates on OPT, CPT, or STEM-OPT work authorization",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": "technology staffing partner",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Power BI",
+      "Tableau",
+      "data visualization"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Junior Data Analyst"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

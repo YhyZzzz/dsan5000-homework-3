@@ -1,0 +1,69 @@
+{
+  "job_key": "job-0edefe692ac6c243cbd4",
+  "cache_identity": "921ef43668413a4fc127055e950a9fb8497be14700799b22ad57effbc02f427d",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:41:45.358592+00:00",
+  "wall_seconds": 16.50966125004925,
+  "prompt_eval_count": 702,
+  "eval_count": 196,
+  "total_duration_ns": 16499904541,
+  "load_duration_ns": 2802583,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"174K–252K a year\",\"min\":174000,\"max\":252000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"null\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"null\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"null\",\"value\":null},\"industry\":{\"quote\":\"AI/ML\",\"value\":\"Technology\"},\"education_degrees\":[\"null\"],\"skills\":[\"NLP\",\"ML\",\"CV\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "174K–252K a year",
+      "min": 174000.0,
+      "max": 252000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "null",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "null",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "null",
+      "value": null
+    },
+    "industry": {
+      "quote": "AI/ML",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "null"
+    ],
+    "skills": [
+      "NLP",
+      "ML",
+      "CV"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

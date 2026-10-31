@@ -1,0 +1,102 @@
+{
+  "job_key": "job-226082655a14470286df",
+  "cache_identity": "db7bca690f0740de2abf70d354630ea69fb3c270ab3944e7f4f738ac2f22803c",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:56:50.257768+00:00",
+  "wall_seconds": 15.896429582964629,
+  "prompt_eval_count": 1693,
+  "eval_count": 354,
+  "total_duration_ns": 15895600167,
+  "load_duration_ns": 1907417,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"124,000 USD - 195,500 USD for Level 2, and 152,000 USD - 241,500 USD for Level 3\",\"min\":124000,\"max\":195500,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"2 years of relevant software development experience\",\"min_years\":2,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Full-time\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"AI computing\",\"value\":\"Technology\"},\"education_degrees\":[\"Computer Science\",\"Computer Engineering\",\"EECS\",\"AI\"],\"skills\":[\"C++\",\"Python\",\"CUDA\",\"TileIR\",\"CuTeDSL\",\"Cutlass\",\"Triton\",\"PyTorch\",\"JAX\",\"TensorFlow\",\"ONNX\",\"TensorRT\",\"TensorRT-LLM\",\"vLLM\",\"SGLang\",\"FlashInfer\",\"Transformers\",\"Recommenders\",\"ASR\",\"TTS\",\"Visual Understanding\",\"Quantization\",\"Scheduling\",\"Memory Management\",\"Distributed Inference\",\"Graph Compilers\",\"TorchDynamo\",\"TorchInductor\",\"Jetson systems\",\"Edge AI accelerators\"],\"benefits\":[\"Equity\",\"Health insurance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":\"October 16, 2026\",\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "124,000 USD - 195,500 USD for Level 2, and 152,000 USD - 241,500 USD for Level 3",
+      "min": 124000.0,
+      "max": 195500.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2 years of relevant software development experience",
+      "min_years": 2.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Full-time",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "AI computing",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Computer Science",
+      "Computer Engineering",
+      "EECS",
+      "AI"
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "CUDA",
+      "TileIR",
+      "CuTeDSL",
+      "Cutlass",
+      "Triton",
+      "PyTorch",
+      "JAX",
+      "TensorFlow",
+      "ONNX",
+      "TensorRT",
+      "TensorRT-LLM",
+      "vLLM",
+      "SGLang",
+      "FlashInfer",
+      "Transformers",
+      "Recommenders",
+      "ASR",
+      "TTS",
+      "Visual Understanding",
+      "Quantization",
+      "Scheduling",
+      "Memory Management",
+      "Distributed Inference",
+      "Graph Compilers",
+      "TorchDynamo",
+      "TorchInductor",
+      "Jetson systems",
+      "Edge AI accelerators"
+    ],
+    "benefits": [
+      "Equity",
+      "Health insurance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": "October 16, 2026",
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

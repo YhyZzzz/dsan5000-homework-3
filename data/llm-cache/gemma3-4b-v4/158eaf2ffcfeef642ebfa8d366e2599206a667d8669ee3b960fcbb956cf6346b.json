@@ -1,0 +1,67 @@
+{
+  "job_key": "job-06bd5f2dfff3ada64d6f",
+  "cache_identity": "158eaf2ffcfeef642ebfa8d366e2599206a667d8669ee3b960fcbb956cf6346b",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:51.335475+00:00",
+  "wall_seconds": 16.489352583070286,
+  "prompt_eval_count": 665,
+  "eval_count": 187,
+  "total_duration_ns": 16488436625,
+  "load_duration_ns": 1791584,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"3–6 yrs\",\"min\":3,\"max\":6,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"ML fundamentals\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Prod ML experience\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"CloudHedge Technologies\",\"value\":\"Technology\"},\"education_degrees\":[],\"skills\":[\"Code / AST modeling\",\"Inference optimization\",\"ML fundamentals\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "3–6 yrs",
+      "min": 3.0,
+      "max": 6.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "ML fundamentals",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Prod ML experience",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "CloudHedge Technologies",
+      "value": "Technology"
+    },
+    "education_degrees": [],
+    "skills": [
+      "Code / AST modeling",
+      "Inference optimization",
+      "ML fundamentals"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

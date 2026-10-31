@@ -1,0 +1,86 @@
+{
+  "job_key": "job-1cc2d461e1d0fde32b01",
+  "cache_identity": "2218d2a31deef3276654f9570a32aeaa6387c4c1ffac1036276a92491644d650",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:54:12.092022+00:00",
+  "wall_seconds": 27.84085145802237,
+  "prompt_eval_count": 1156,
+  "eval_count": 269,
+  "total_duration_ns": 27840119542,
+  "load_duration_ns": 2591583,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"115K–150K a year\",\"min\":115000,\"max\":150000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"5+ years of experience in Data Engineering or a related field\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote oppurtunitiy\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"utility and energy industry\",\"value\":\"Energy/Utilities\"},\"education_degrees\":[\"Master's\"],\"skills\":[\"Python\",\"SQL\",\"Databricks\",\"Spark\",\"AWS\",\"PostgreSQL\"],\"benefits\":[\"Medical\",\"Dental\",\"Vision Insurance\",\"Vacation Time\",\"Stock Options\",\"Salary bonus\",\"PTO & Paid Holidays\",\"401(k) with Company Match\",\"Remote Strong Growth & Leadership Opportunity\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Collaboration\",\"Mentorship\",\"Innovation\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "115K–150K a year",
+      "min": 115000.0,
+      "max": 150000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "5+ years of experience in Data Engineering or a related field",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote oppurtunitiy",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "utility and energy industry",
+      "value": "Energy/Utilities"
+    },
+    "education_degrees": [
+      "Master's"
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Databricks",
+      "Spark",
+      "AWS",
+      "PostgreSQL"
+    ],
+    "benefits": [
+      "Medical",
+      "Dental",
+      "Vision Insurance",
+      "Vacation Time",
+      "Stock Options",
+      "Salary bonus",
+      "PTO & Paid Holidays",
+      "401(k) with Company Match",
+      "Remote Strong Growth & Leadership Opportunity"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Collaboration",
+      "Mentorship",
+      "Innovation"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

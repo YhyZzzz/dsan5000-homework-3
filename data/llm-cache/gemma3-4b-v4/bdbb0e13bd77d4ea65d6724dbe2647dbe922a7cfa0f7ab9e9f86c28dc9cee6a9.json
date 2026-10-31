@@ -1,0 +1,91 @@
+{
+  "job_key": "job-122d2fa12eca74798082",
+  "cache_identity": "bdbb0e13bd77d4ea65d6724dbe2647dbe922a7cfa0f7ab9e9f86c28dc9cee6a9",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:43:07.923612+00:00",
+  "wall_seconds": 28.846976917004213,
+  "prompt_eval_count": 1777,
+  "eval_count": 328,
+  "total_duration_ns": 28846046291,
+  "load_duration_ns": 1751375,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$100,000 - $130,000\",\"min\":100000,\"max\":130000,\"period\":\"hour\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3+ years of professional experience\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Agricultural waste-to-energy\",\"value\":\"Energy/Utilities\"},\"education_degrees\":[],\"skills\":[\"SQL Server\",\"T-SQL\",\"Azure Data Factory\",\"Synapse pipelines\",\"Fabric Data Factory\",\"SSIS\",\"Power BI\",\"Python\",\"C#\",\"Spark\",\"Git\",\"Data Quality\",\"Data Monitoring\",\"Data Warehousing\",\"Dimensional Modeling\"],\"benefits\":[\"Three weeks of paid vacation\",\"Paid sick time\",\"Eight and a half paid holidays per year\",\"Two paid flexible holidays per year\",\"ICHRA Health Insurance Reimbursement\",\"100% Employer Paid Dental and Vision Insurance\",\"100% Employer Paid Life Insurance\",\"100% Employer Paid Medical Clinic Membership or Cash Equivalent\"],\"job_types\":[\"Full-time\"],\"certifications\":[\"DP-600\",\"DP-700\"],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$100,000 - $130,000",
+      "min": 100000.0,
+      "max": 130000.0,
+      "period": "hour",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3+ years of professional experience",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Agricultural waste-to-energy",
+      "value": "Energy/Utilities"
+    },
+    "education_degrees": [],
+    "skills": [
+      "SQL Server",
+      "T-SQL",
+      "Azure Data Factory",
+      "Synapse pipelines",
+      "Fabric Data Factory",
+      "SSIS",
+      "Power BI",
+      "Python",
+      "C#",
+      "Spark",
+      "Git",
+      "Data Quality",
+      "Data Monitoring",
+      "Data Warehousing",
+      "Dimensional Modeling"
+    ],
+    "benefits": [
+      "Three weeks of paid vacation",
+      "Paid sick time",
+      "Eight and a half paid holidays per year",
+      "Two paid flexible holidays per year",
+      "ICHRA Health Insurance Reimbursement",
+      "100% Employer Paid Dental and Vision Insurance",
+      "100% Employer Paid Life Insurance",
+      "100% Employer Paid Medical Clinic Membership or Cash Equivalent"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [
+      "DP-600",
+      "DP-700"
+    ],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

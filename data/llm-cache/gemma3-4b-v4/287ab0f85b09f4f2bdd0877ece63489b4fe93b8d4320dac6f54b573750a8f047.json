@@ -1,0 +1,108 @@
+{
+  "job_key": "job-05321be0aaddac53e808",
+  "cache_identity": "287ab0f85b09f4f2bdd0877ece63489b4fe93b8d4320dac6f54b573750a8f047",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:38:42.621778+00:00",
+  "wall_seconds": 29.680985667044297,
+  "prompt_eval_count": 2085,
+  "eval_count": 361,
+  "total_duration_ns": 29661036708,
+  "load_duration_ns": 1917166,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$105,400.00 - $124,000.00\",\"min\":105400,\"max\":124000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"at least 5 years of relevant experience\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"working from a U.S. Bank Location three (3) or more days per week\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Financial Industry\",\"value\":\"Finance\"},\"education_degrees\":[\"Bachelor’s degree\",\"MA/MS\",\"PhD\"],\"skills\":[\"statistical modeling\",\"computer science\",\"machine learning\",\"Random Forest\",\"GBM\",\"XGBoost\",\"deep learning\",\"NLP\",\"computer vision\",\"LLM\",\"Python\",\"Numpy\",\"Pandas\",\"scikit-learn\",\"PyTorch\",\"Tensorflow/Keras\",\"MXNet\",\"LangChain\",\"Llamaindex\",\"RAG\",\"Agentic AI\",\"Model Risk Management\",\"OCC SR 11-7\",\"project management\",\"communication\",\"teamwork\",\"leadership\"],\"benefits\":[\"Healthcare\",\"401(k)\",\"paid vacation\",\"sick and safe leave\",\"adoption assistance\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"independence\",\"teamwork\",\"leadership\",\"communication\",\"project management\",\"written and verbal communication\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$105,400.00 - $124,000.00",
+      "min": 105400.0,
+      "max": 124000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "at least 5 years of relevant experience",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "working from a U.S. Bank Location three (3) or more days per week",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Financial Industry",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Bachelor’s degree",
+      "MA/MS",
+      "PhD"
+    ],
+    "skills": [
+      "statistical modeling",
+      "computer science",
+      "machine learning",
+      "Random Forest",
+      "GBM",
+      "XGBoost",
+      "deep learning",
+      "NLP",
+      "computer vision",
+      "LLM",
+      "Python",
+      "Numpy",
+      "Pandas",
+      "scikit-learn",
+      "PyTorch",
+      "Tensorflow/Keras",
+      "MXNet",
+      "LangChain",
+      "Llamaindex",
+      "RAG",
+      "Agentic AI",
+      "Model Risk Management",
+      "OCC SR 11-7",
+      "project management",
+      "communication",
+      "teamwork",
+      "leadership"
+    ],
+    "benefits": [
+      "Healthcare",
+      "401(k)",
+      "paid vacation",
+      "sick and safe leave",
+      "adoption assistance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "independence",
+      "teamwork",
+      "leadership",
+      "communication",
+      "project management",
+      "written and verbal communication"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

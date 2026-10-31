@@ -1,0 +1,105 @@
+{
+  "job_key": "job-13321a3caf2288b1a809",
+  "cache_identity": "f710b0b16c35b5517f52080d3a501ddf78f55460cd2812b96efeabd5230ee440",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:43:38.328768+00:00",
+  "wall_seconds": 35.63137858302798,
+  "prompt_eval_count": 2073,
+  "eval_count": 394,
+  "total_duration_ns": 35604264833,
+  "load_duration_ns": 14336542,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$97,677.00 - $173,000.00\",\"min\":97677,\"max\":173000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"1 year of experience as a Quantitative Model Analyst or related\",\"min_years\":1,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Position may allow working from home within a commuting distance from worksite location\",\"value\":\"remote\"},\"visa\":{\"quote\":\"This position is not eligible for visa sponsorship\",\"value\":null},\"industry\":{\"quote\":\"commercial bank\",\"value\":\"Finance\"},\"education_degrees\":[\"Master's\",\"Bachelor\"],\"skills\":[\"regression analysis\",\"time series analysis\",\"scenario analysis\",\"model performance testing\",\"credit risk models\",\"PD\",\"LGD\",\"EAD\",\"statistical analysis\",\"SAS\",\"Python\",\"SQL\",\"Tableau\",\"Power BI\",\"CCAR\",\"CECL\",\"portfolio performance\",\"economic data\",\"regulatory reporting\",\"model governance\",\"validation\",\"documentation\",\"data integrity\",\"risk assessments\",\"model limitations\",\"model monitoring\",\"model remediation\",\"data environments\"],\"benefits\":[\"Healthcare (medical, dental, vision)\",\"Basic term and optional term life insurance\",\"Short-term and long-term disability\",\"Pregnancy disability and parental leave\",\"401(k) and employer-funded retirement plan\",\"Paid vacation (from two to five weeks depending on salary grade and tenure)\",\"Up to 11 paid holiday opportunities\",\"Adoption assistance\",\"Sick and Safe Leave accruals\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$97,677.00 - $173,000.00",
+      "min": 97677.0,
+      "max": 173000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "1 year of experience as a Quantitative Model Analyst or related",
+      "min_years": 1.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Position may allow working from home within a commuting distance from worksite location",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": "This position is not eligible for visa sponsorship",
+      "value": null
+    },
+    "industry": {
+      "quote": "commercial bank",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Master's",
+      "Bachelor"
+    ],
+    "skills": [
+      "regression analysis",
+      "time series analysis",
+      "scenario analysis",
+      "model performance testing",
+      "credit risk models",
+      "PD",
+      "LGD",
+      "EAD",
+      "statistical analysis",
+      "SAS",
+      "Python",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "CCAR",
+      "CECL",
+      "portfolio performance",
+      "economic data",
+      "regulatory reporting",
+      "model governance",
+      "validation",
+      "documentation",
+      "data integrity",
+      "risk assessments",
+      "model limitations",
+      "model monitoring",
+      "model remediation",
+      "data environments"
+    ],
+    "benefits": [
+      "Healthcare (medical, dental, vision)",
+      "Basic term and optional term life insurance",
+      "Short-term and long-term disability",
+      "Pregnancy disability and parental leave",
+      "401(k) and employer-funded retirement plan",
+      "Paid vacation (from two to five weeks depending on salary grade and tenure)",
+      "Up to 11 paid holiday opportunities",
+      "Adoption assistance",
+      "Sick and Safe Leave accruals"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

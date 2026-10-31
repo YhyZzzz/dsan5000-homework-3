@@ -1,0 +1,97 @@
+{
+  "job_key": "job-081e94c0880929b545d1",
+  "cache_identity": "66874fec4bee34b99f7c1c34eb7907498418205d2f37a401c1ba78a1af2fd603",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:39:23.910916+00:00",
+  "wall_seconds": 31.17772708402481,
+  "prompt_eval_count": 1365,
+  "eval_count": 363,
+  "total_duration_ns": 31171810666,
+  "load_duration_ns": 2511125,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"170K–180K a year\",\"min\":170000,\"max\":180000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"10+ years of experience\",\"min_years\":10,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"on-site/customer deployments in Reston, VA as needed\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"U.S. Citizenship: Required TS/SCI + Polygraph: Strongly preferred\",\"value\":\"not_available\"},\"industry\":{\"quote\":\"Federal Government\",\"value\":\"Government\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Artificial Intelligence (AI)\",\"Business-to-Business (B2B)\",\"Capability Maturity Model Integration (CMMI)\",\"Cloud Architecture\",\"Cloud Computing\",\"Customer Relations\",\"Database Programming\",\"Database Technology\",\"Distributed Databases\",\"Ecosystems\",\"Financial Services\",\"GCP (Good Clinical Practices)\",\"Government\",\"ISO (International Organization for Standardization)\",\"ISO 9001\",\"Oracle\",\"PostgreSQL\",\"Public Cloud\",\"Python Programming/Scripting Language\",\"SQL (Structured Query Language)\",\"Salesforce.com\",\"ServiceNow\",\"Software Engineering\",\"Top Secret Clearance\",\"United States Department of Defense (DoD)\"],\"benefits\":[\"Dental insurance\",\"Paid time off\",\"Health insurance\"],\"job_types\":[\"Full-time\"],\"certifications\":[\"GCP Professional certifications\"],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "170K–180K a year",
+      "min": 170000.0,
+      "max": 180000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "10+ years of experience",
+      "min_years": 10.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "on-site/customer deployments in Reston, VA as needed",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "U.S. Citizenship: Required TS/SCI + Polygraph: Strongly preferred",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": "Federal Government",
+      "value": "Government"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Artificial Intelligence (AI)",
+      "Business-to-Business (B2B)",
+      "Capability Maturity Model Integration (CMMI)",
+      "Cloud Architecture",
+      "Cloud Computing",
+      "Customer Relations",
+      "Database Programming",
+      "Database Technology",
+      "Distributed Databases",
+      "Ecosystems",
+      "Financial Services",
+      "GCP (Good Clinical Practices)",
+      "Government",
+      "ISO (International Organization for Standardization)",
+      "ISO 9001",
+      "Oracle",
+      "PostgreSQL",
+      "Public Cloud",
+      "Python Programming/Scripting Language",
+      "SQL (Structured Query Language)",
+      "Salesforce.com",
+      "ServiceNow",
+      "Software Engineering",
+      "Top Secret Clearance",
+      "United States Department of Defense (DoD)"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Paid time off",
+      "Health insurance"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [
+      "GCP Professional certifications"
+    ],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

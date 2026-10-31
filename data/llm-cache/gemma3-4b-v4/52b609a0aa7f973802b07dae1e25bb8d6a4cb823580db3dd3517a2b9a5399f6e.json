@@ -1,0 +1,63 @@
+{
+  "job_key": "job-1e47ef4f03bf63d2ae81",
+  "cache_identity": "52b609a0aa7f973802b07dae1e25bb8d6a4cb823580db3dd3517a2b9a5399f6e",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:54:53.802687+00:00",
+  "wall_seconds": 14.639241500059143,
+  "prompt_eval_count": 671,
+  "eval_count": 171,
+  "total_duration_ns": 14638399875,
+  "load_duration_ns": 1995875,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":null,\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"null\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"null\",\"value\":null},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Broad Scalable Services\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[],\"skills\":[],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": null,
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "null",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "null",
+      "value": null
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Broad Scalable Services",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [],
+    "skills": [],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

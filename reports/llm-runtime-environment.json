@@ -1,0 +1,12 @@
+{
+  "chip": "Apple M3 Pro",
+  "memory_gib": 36,
+  "compute_path": "local Ollama",
+  "cloud_api_cost_usd": 0,
+  "privacy": "job text sent only to a loopback endpoint",
+  "task_server": "http://127.0.0.1:11435",
+  "parallel_slots": 4,
+  "context_tokens": 16384,
+  "flash_attention": true,
+  "permanent_server_configuration_changed": false
+}

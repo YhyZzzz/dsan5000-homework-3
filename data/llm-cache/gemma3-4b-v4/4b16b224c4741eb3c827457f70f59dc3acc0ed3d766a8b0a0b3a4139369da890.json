@@ -1,0 +1,96 @@
+{
+  "job_key": "job-0b4062907dbc2b778b52",
+  "cache_identity": "4b16b224c4741eb3c827457f70f59dc3acc0ed3d766a8b0a0b3a4139369da890",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:40:38.689250+00:00",
+  "wall_seconds": 29.205485915997997,
+  "prompt_eval_count": 1660,
+  "eval_count": 323,
+  "total_duration_ns": 29187084584,
+  "load_duration_ns": 2070584,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"144K–268K a year\",\"min\":144000,\"max\":268000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"Proven expertise architecting enterprise-scale data, AI/ML, and Generative AI solutions\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"This job can be performed from anywhere in the US\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":null,\"value\":null},\"education_degrees\":[],\"skills\":[\"Databricks\",\"AWS\",\"Azure\",\"GCP\",\"Spark\",\"Delta Lake\",\"MLflow\",\"Unity Catalog\",\"Data Migration\",\"Data Modeling\",\"Lakehouse\",\"Reporting\",\"Analytics\",\"AI/ML\",\"Generative AI\",\"RAG\",\"MLOps/LLMOps\",\"Data Governance\",\"Data Security\",\"Data Privacy\",\"Responsible AI\",\"SAP BTP\",\"SAP Business Data Cloud\",\"SAP IS-U\",\"Fivetran\",\"Kafka\",\"Amazon EventBridge/SQS\",\"Semantic Layers\",\"BI Delivery\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[\"Databricks Certified Data Engineer\",\"Databricks Certified Machine Learning Professional\"],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":4,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "144K–268K a year",
+      "min": 144000.0,
+      "max": 268000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Proven expertise architecting enterprise-scale data, AI/ML, and Generative AI solutions",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "This job can be performed from anywhere in the US",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": null,
+      "value": null
+    },
+    "education_degrees": [],
+    "skills": [
+      "Databricks",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Spark",
+      "Delta Lake",
+      "MLflow",
+      "Unity Catalog",
+      "Data Migration",
+      "Data Modeling",
+      "Lakehouse",
+      "Reporting",
+      "Analytics",
+      "AI/ML",
+      "Generative AI",
+      "RAG",
+      "MLOps/LLMOps",
+      "Data Governance",
+      "Data Security",
+      "Data Privacy",
+      "Responsible AI",
+      "SAP BTP",
+      "SAP Business Data Cloud",
+      "SAP IS-U",
+      "Fivetran",
+      "Kafka",
+      "Amazon EventBridge/SQS",
+      "Semantic Layers",
+      "BI Delivery"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [
+      "Databricks Certified Data Engineer",
+      "Databricks Certified Machine Learning Professional"
+    ],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": 4.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

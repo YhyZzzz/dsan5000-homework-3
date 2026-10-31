@@ -1,0 +1,100 @@
+{
+  "job_key": "job-15e7e0fbff614e044e2a",
+  "cache_identity": "c91e41b0978a03908660f2323c3c8d4a70433378023cf7c40625041987e6426f",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:44:41.585837+00:00",
+  "wall_seconds": 31.945348749984987,
+  "prompt_eval_count": 1429,
+  "eval_count": 326,
+  "total_duration_ns": 31944399833,
+  "load_duration_ns": 1762083,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Minimum of 5 years industry experience\",\"min\":null,\"max\":null,\"period\":null,\"currency\":\"USD\"},\"experience\":{\"quote\":\"Minimum of 5 years industry experience. Thereof, minimum 3 years working with bioinformatics, cheminformatics, and/or ML techniques\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"working in multi-disciplinary and cross-culture teams\",\"value\":\"hybrid\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Pharmaceutical, Biotech, or Life Science industry\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Chemistry\",\"Biochemistry\",\"Cheminformatics\",\"Chemical Engineering\",\"Computer Science\"],\"skills\":[\"data science\",\"data analysis\",\"data processing\",\"statistics\",\"AI/ML\",\"Python\",\"Java\",\"JavaScript\",\"C++\",\"Palantir Foundry\",\"AWS computing platforms\",\"Cheminformatics\",\"Bioinformatics\",\"ML techniques\",\"computational chemistry\",\"computational biology\",\"machine-driven drug discovery\",\"data curation\",\"model building\",\"agile development process\",\"UI/UX\",\"communication skills\",\"curiosity\",\"innovation\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"teamwork\",\"cross-culture\",\"communication skills\",\"curious\",\"innovative\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Minimum of 5 years industry experience",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Minimum of 5 years industry experience. Thereof, minimum 3 years working with bioinformatics, cheminformatics, and/or ML techniques",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "working in multi-disciplinary and cross-culture teams",
+      "value": "hybrid"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Pharmaceutical, Biotech, or Life Science industry",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Chemistry",
+      "Biochemistry",
+      "Cheminformatics",
+      "Chemical Engineering",
+      "Computer Science"
+    ],
+    "skills": [
+      "data science",
+      "data analysis",
+      "data processing",
+      "statistics",
+      "AI/ML",
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++",
+      "Palantir Foundry",
+      "AWS computing platforms",
+      "Cheminformatics",
+      "Bioinformatics",
+      "ML techniques",
+      "computational chemistry",
+      "computational biology",
+      "machine-driven drug discovery",
+      "data curation",
+      "model building",
+      "agile development process",
+      "UI/UX",
+      "communication skills",
+      "curiosity",
+      "innovation"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "teamwork",
+      "cross-culture",
+      "communication skills",
+      "curious",
+      "innovative"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

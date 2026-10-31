@@ -1,0 +1,100 @@
+{
+  "job_key": "job-0ca4bf94a1bca512a356",
+  "cache_identity": "fce34777f4539b4f7b25e4a9f6382cb1fb8c875545bce5bf182281bd0657d9ce",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:40:59.274518+00:00",
+  "wall_seconds": 31.7430104999803,
+  "prompt_eval_count": 2000,
+  "eval_count": 361,
+  "total_duration_ns": 31711717500,
+  "load_duration_ns": 15056916,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$99,000 - $232,000\",\"min\":99000,\"max\":232000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"At least 5 years of experience\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Up to 80%\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Industry/Sector\",\"value\":\"Consulting/Staffing\"},\"education_degrees\":[\"Bachelor's Degree\"],\"skills\":[\"SQL\",\"Data Visualization\",\"Data Warehousing\",\"Big Data Engineering\",\"Cloud Data Architectures\",\"Data Governance\",\"Data Management\",\"Data Analytics\",\"Advanced Analytics\",\"Data-Driven Strategies\"],\"benefits\":[\"Medical insurance\",\"Dental insurance\",\"Health insurance\",\"Paid time off\",\"401k\",\"Holiday pay\",\"Personal and family sick leave\"],\"job_types\":[\"Full-time\"],\"certifications\":[\"AWS Certified Data Analytics / Solutions Architect\",\"Azure Data Engineer / Azure Solutions Architect\",\"Google Professional Data Engineer\",\"DAMA CDMP\",\"Informatica Certified Professional\",\"Collibra Certified Ranger/Steward/Expert\",\"SAP Certified Application Associate - SAP Master Data Governance (MDG)\",\"SnowPro Core / SnowPro Advanced\",\"Databricks Certified Data Engineer / Data Analyst / ML\"],\"soft_skills\":[\"Leadership\",\"Coaching\",\"Collaboration\",\"Communication\",\"Problem-solving\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":80,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$99,000 - $232,000",
+      "min": 99000.0,
+      "max": 232000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "At least 5 years of experience",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Up to 80%",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Industry/Sector",
+      "value": "Consulting/Staffing"
+    },
+    "education_degrees": [
+      "Bachelor's Degree"
+    ],
+    "skills": [
+      "SQL",
+      "Data Visualization",
+      "Data Warehousing",
+      "Big Data Engineering",
+      "Cloud Data Architectures",
+      "Data Governance",
+      "Data Management",
+      "Data Analytics",
+      "Advanced Analytics",
+      "Data-Driven Strategies"
+    ],
+    "benefits": [
+      "Medical insurance",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "401k",
+      "Holiday pay",
+      "Personal and family sick leave"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [
+      "AWS Certified Data Analytics / Solutions Architect",
+      "Azure Data Engineer / Azure Solutions Architect",
+      "Google Professional Data Engineer",
+      "DAMA CDMP",
+      "Informatica Certified Professional",
+      "Collibra Certified Ranger/Steward/Expert",
+      "SAP Certified Application Associate - SAP Master Data Governance (MDG)",
+      "SnowPro Core / SnowPro Advanced",
+      "Databricks Certified Data Engineer / Data Analyst / ML"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Coaching",
+      "Collaboration",
+      "Communication",
+      "Problem-solving"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": 80.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

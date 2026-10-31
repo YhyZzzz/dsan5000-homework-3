@@ -1,0 +1,73 @@
+{
+  "job_key": "job-0c2bc0e3fa95d5c83689",
+  "cache_identity": "60d6e203eb8260e0158c05b85778f78d3a5d566d180e2d9c4c468b284a9e59da",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:40:35.971710+00:00",
+  "wall_seconds": 18.702708708005957,
+  "prompt_eval_count": 1070,
+  "eval_count": 214,
+  "total_duration_ns": 18691093791,
+  "load_duration_ns": 1809250,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Not Disclosed\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"Not Disclosed\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Not Disclosed\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"Not Disclosed\",\"value\":null},\"industry\":{\"quote\":\"Robotics\",\"value\":\"Technology\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Physics-based simulation\",\"Sim-to-real transfer\",\"Machine learning\",\"Reinforcement learning\",\"Hardware-in-the-loop\",\"Rigid body dynamics\",\"Deformable body dynamics\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Not Disclosed",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "Not Disclosed",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Not Disclosed",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "Not Disclosed",
+      "value": null
+    },
+    "industry": {
+      "quote": "Robotics",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Physics-based simulation",
+      "Sim-to-real transfer",
+      "Machine learning",
+      "Reinforcement learning",
+      "Hardware-in-the-loop",
+      "Rigid body dynamics",
+      "Deformable body dynamics"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

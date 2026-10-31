@@ -1,0 +1,23 @@
+{
+  "model": "gemma3:4b",
+  "digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "size_bytes": 3350272403,
+  "details": {
+    "parent_model": "dhiltgen/gemma3:4b-it-q4_K_M-llamacpp",
+    "format": "gguf",
+    "family": "gemma3",
+    "families": [
+      "gemma3",
+      "clip"
+    ],
+    "parameter_size": "3.9B",
+    "quantization_level": "Q4_K_M",
+    "runner": "llamacpp"
+  },
+  "thinking": null,
+  "capabilities": [
+    "completion",
+    "vision"
+  ],
+  "ollama_version": "0.40.3"
+}

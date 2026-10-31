@@ -1,0 +1,25 @@
+{
+  "stage": "pilot",
+  "model": "gemma3:4b",
+  "prompt_version": "v5-fast-no-reasoning",
+  "selected_postings": 5,
+  "processed": 5,
+  "validated": 3,
+  "cache_hits": 0,
+  "workers": 4,
+  "base_url": "http://127.0.0.1:11435",
+  "interrupted": false,
+  "failed": 2,
+  "failures": [
+    {
+      "job_key": "job-b7736201ef27019079ec",
+      "error_type": "ValueError"
+    },
+    {
+      "job_key": "job-9b47b21a1cbf0444afc7",
+      "error_type": "ValueError"
+    }
+  ],
+  "wall_seconds": 24.487206791061908,
+  "updated_at_utc": "2026-10-31T00:57:40.182925+00:00"
+}

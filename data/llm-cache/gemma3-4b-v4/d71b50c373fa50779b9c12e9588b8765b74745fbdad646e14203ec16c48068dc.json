@@ -1,0 +1,118 @@
+{
+  "job_key": "job-1c457548745f5cee0d0b",
+  "cache_identity": "d71b50c373fa50779b9c12e9588b8765b74745fbdad646e14203ec16c48068dc",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:54:08.001173+00:00",
+  "wall_seconds": 33.149469499941915,
+  "prompt_eval_count": 1558,
+  "eval_count": 343,
+  "total_duration_ns": 33148675958,
+  "load_duration_ns": 2640417,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Not specified\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"Senior Data Engineer\",\"min_years\":5,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Healthcare, digital health, research\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Bachelor\"],\"skills\":[\"Data pipeline architecture\",\"ETL/ELT\",\"Python\",\"Cloud-based data infrastructure\",\"Data modeling\",\"Schema design\",\"Data validation\",\"Data quality\",\"Time-series data\",\"Sensor data\",\"Machine learning\",\"Airflow\",\"Dagster\",\"Kubernetes\",\"AWS\",\"Google Cloud\",\"Azure\",\"CI/CD\",\"DevOps\",\"Consumer analytics\",\"Data visualization\",\"HIPAA\",\"Privacy-preserving data architecture\",\"Secure cloud data processing\",\"FDA\",\"SaMD\",\"Clinical validation\",\"Audit\",\"Regulatory documentation\",\"Data visualization\",\"Data architecture\",\"Data engineering\",\"Data science\",\"Machine learning pipelines\",\"MLOps\",\"Model evaluation\",\"Experiment tracking\",\"Reproducible ML workflows\",\"Version control\",\"Automated testing\",\"Collaborative software development\",\"Containerization\",\"Data security\",\"Data privacy\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Collaboration\",\"Problem-solving\",\"Leadership\",\"Technical tradeoffs\",\"Risk identification\",\"Documentation\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Not specified",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "Senior Data Engineer",
+      "min_years": 5.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Healthcare, digital health, research",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Bachelor"
+    ],
+    "skills": [
+      "Data pipeline architecture",
+      "ETL/ELT",
+      "Python",
+      "Cloud-based data infrastructure",
+      "Data modeling",
+      "Schema design",
+      "Data validation",
+      "Data quality",
+      "Time-series data",
+      "Sensor data",
+      "Machine learning",
+      "Airflow",
+      "Dagster",
+      "Kubernetes",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "CI/CD",
+      "DevOps",
+      "Consumer analytics",
+      "Data visualization",
+      "HIPAA",
+      "Privacy-preserving data architecture",
+      "Secure cloud data processing",
+      "FDA",
+      "SaMD",
+      "Clinical validation",
+      "Audit",
+      "Regulatory documentation",
+      "Data visualization",
+      "Data architecture",
+      "Data engineering",
+      "Data science",
+      "Machine learning pipelines",
+      "MLOps",
+      "Model evaluation",
+      "Experiment tracking",
+      "Reproducible ML workflows",
+      "Version control",
+      "Automated testing",
+      "Collaborative software development",
+      "Containerization",
+      "Data security",
+      "Data privacy"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Problem-solving",
+      "Leadership",
+      "Technical tradeoffs",
+      "Risk identification",
+      "Documentation"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

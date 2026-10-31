@@ -1,0 +1,80 @@
+{
+  "job_key": "job-1f9585f4f3358563f0b5",
+  "cache_identity": "a4599ccb8bbafba7bbefe3920b1c195974d1e43799444690e9560c423fc8f780",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:55:39.340938+00:00",
+  "wall_seconds": 21.219300957978703,
+  "prompt_eval_count": 1434,
+  "eval_count": 233,
+  "total_duration_ns": 21218631333,
+  "load_duration_ns": 2126500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"90K–130K a year\",\"min\":90000,\"max\":130000,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"early- to mid-career professional\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote position\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"vaccines and infectious diseases\",\"value\":\"Healthcare/Life sciences\"},\"education_degrees\":[\"Bachelor\",\"Master\"],\"skills\":[\"R\",\"Python\",\"SQL\",\"SAS\"],\"benefits\":[],\"job_types\":[\"Full-time\",\"Contract\"],\"certifications\":[],\"soft_skills\":[\"Analytical thinking\",\"Problem-solving\",\"Communication\",\"Written\",\"Verbal\",\"Attention to detail\",\"Self-direction\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "90K–130K a year",
+      "min": 90000.0,
+      "max": 130000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "early- to mid-career professional",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote position",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "vaccines and infectious diseases",
+      "value": "Healthcare/Life sciences"
+    },
+    "education_degrees": [
+      "Bachelor",
+      "Master"
+    ],
+    "skills": [
+      "R",
+      "Python",
+      "SQL",
+      "SAS"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time",
+      "Contract"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Analytical thinking",
+      "Problem-solving",
+      "Communication",
+      "Written",
+      "Verbal",
+      "Attention to detail",
+      "Self-direction"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

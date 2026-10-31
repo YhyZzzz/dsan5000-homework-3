@@ -1,0 +1,82 @@
+{
+  "job_key": "job-08c2f6f519a1fb7305f3",
+  "cache_identity": "1121c5fbc5ae944e15e9328b1d16b108bc9b0f05e19ec210d0359432bfc35b41",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:39:43.063701+00:00",
+  "wall_seconds": 19.133611624944024,
+  "prompt_eval_count": 1426,
+  "eval_count": 220,
+  "total_duration_ns": 19130043542,
+  "load_duration_ns": 2103750,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"2-4 years’ experience\",\"min\":2,\"max\":4,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"2-4 years’ experience\",\"min_years\":2,\"max_years\":4,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Banking\",\"value\":\"Finance\"},\"education_degrees\":[\"BS/BA\"],\"skills\":[\"MS Word\",\"Excel\",\"PowerPoint\",\"Outlook\",\"Fraud Detection\",\"Data Analysis\",\"Regulatory Compliance\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Time Management\",\"Communication\",\"Organizational Skills\"],\"company_values\":[\"Collaboration\",\"Integrity\",\"Passion\",\"High Performance\"],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":\"22 days ago\",\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "2-4 years’ experience",
+      "min": 2.0,
+      "max": 4.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2-4 years’ experience",
+      "min_years": 2.0,
+      "max_years": 4.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Banking",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "BS/BA"
+    ],
+    "skills": [
+      "MS Word",
+      "Excel",
+      "PowerPoint",
+      "Outlook",
+      "Fraud Detection",
+      "Data Analysis",
+      "Regulatory Compliance"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Time Management",
+      "Communication",
+      "Organizational Skills"
+    ],
+    "company_values": [
+      "Collaboration",
+      "Integrity",
+      "Passion",
+      "High Performance"
+    ],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": "22 days ago",
+      "posting_expiry_date": null
+    }
+  }
+}

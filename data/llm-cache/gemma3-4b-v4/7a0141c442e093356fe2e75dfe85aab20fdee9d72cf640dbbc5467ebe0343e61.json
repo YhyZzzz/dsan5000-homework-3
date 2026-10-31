@@ -1,0 +1,81 @@
+{
+  "job_key": "job-1d308e34336917d69981",
+  "cache_identity": "7a0141c442e093356fe2e75dfe85aab20fdee9d72cf640dbbc5467ebe0343e61",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:54:45.250926+00:00",
+  "wall_seconds": 41.720553416991606,
+  "prompt_eval_count": 2329,
+  "eval_count": 498,
+  "total_duration_ns": 41719694333,
+  "load_duration_ns": 2412125,
+  "done_reason": "stop",
+  "raw_response": "{\n  \"salary\": {\n    \"quote\": \"76,335.00 - 107,823.75\",\n    \"min\": 76335.00,\n    \"max\": 107823.75,\n    \"period\": null,\n    \"currency\": \"USD\"\n  },\n  \"experience\": {\n    \"quote\": \"2–4 years of professional experience in software engineering, data science, or applied R&D, with exposure to machine learning and AI system development in research, prototype, or production environments.\",\n    \"min_years\": 2,\n    \"max_years\": 4,\n    \"level\": null\n  },\n  \"work\": {\n    \"quote\": \"Fully remote work\",\n    \"value\": \"remote\"\n  },\n  \"visa\": {\n    \"quote\": null,\n    \"value\": null\n  },\n  \"industry\": {\n    \"quote\": null,\n    \"value\": \"Government\"\n  },\n  \"education_degrees\": [\n    \"Master’s\"\n  ],\n  \"skills\": [\n    \"Python\",\n    \"R\",\n    \"Machine Learning\",\n    \"AI\",\n    \"Data Visualization\",\n    \"Data Cleaning\",\n    \"ETL\",\n    \"Data Quality Assurance\"\n  ],\n  \"benefits\": [\n    \"Multiple retirement plan options with extremely generous matching\",\n    \"Tuition waiver for classes and advanced degree programs\"\n  ],\n  \"job_types\": [\n    \"Full-time\"\n  ],\n  \"certifications\": [],\n  \"soft_skills\": [\n    \"Team Player\",\n    \"Creative Thinking\",\n    \"Communication Skills\"\n  ],\n  \"company_values\": [],\n  \"collaboration_tools\": [],\n  \"required_languages\": [],\n  \"company_employees\": null,\n  \"team_size\": null,\n  \"travel_percent_max\": null,\n  \"dates\": {\n    \"application_deadline\": null,\n    \"expected_start_date\": null,\n    \"posting_expiry_date\": \"11 days ago\"\n  }\n}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "76,335.00 - 107,823.75",
+      "min": 76335.0,
+      "max": 107823.75,
+      "period": null,
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "2–4 years of professional experience in software engineering, data science, or applied R&D, with exposure to machine learning and AI system development in research, prototype, or production environments.",
+      "min_years": 2.0,
+      "max_years": 4.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": null,
+      "value": "Government"
+    },
+    "education_degrees": [
+      "Master’s"
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "AI",
+      "Data Visualization",
+      "Data Cleaning",
+      "ETL",
+      "Data Quality Assurance"
+    ],
+    "benefits": [
+      "Multiple retirement plan options with extremely generous matching",
+      "Tuition waiver for classes and advanced degree programs"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Team Player",
+      "Creative Thinking",
+      "Communication Skills"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": "11 days ago"
+    }
+  }
+}

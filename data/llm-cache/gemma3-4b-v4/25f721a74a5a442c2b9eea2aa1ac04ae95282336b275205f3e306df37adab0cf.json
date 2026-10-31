@@ -1,0 +1,106 @@
+{
+  "job_key": "job-0c57673c8eb4eaeb6435",
+  "cache_identity": "25f721a74a5a442c2b9eea2aa1ac04ae95282336b275205f3e306df37adab0cf",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:40:48.918831+00:00",
+  "wall_seconds": 29.369298250065185,
+  "prompt_eval_count": 1469,
+  "eval_count": 322,
+  "total_duration_ns": 29357046291,
+  "load_duration_ns": 1799875,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"null\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"Bachelor’s degree in engineering or Associate degree and minimum 1+ years’ experience in an Engineering discipline\",\"min_years\":1,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Consumer Products Industry\",\"value\":\"Retail/Consumer goods\"},\"education_degrees\":[\"Bachelor\",\"Associate\"],\"skills\":[\"Electrical Systems\",\"Sensors\",\"Motor Controls\",\"VFD\",\"Servo Drives\",\"Analog Instrumentation\",\"Safety Emergency Stop\",\"Guard door Systems\",\"PLC\",\"HMI\",\"Ladder Logic\",\"Function Block Programming\",\"Ethernet\",\"EtherCat\",\"Network Communication\",\"Robotics\",\"Human Robot Interfaces\",\"Collaborative Robots\",\"Vision Systems\",\"Force Gauges\",\"End of Arm Tooling\",\"Plant/Facility Design\",\"CADD/CAM\",\"Bill of Material\",\"Project Budget\",\"Microsoft Office\",\"Presentation Skills\",\"Communication Skills\",\"Teamwork\",\"Leadership\",\"Self-Start\",\"Budget Management\"],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Communication Skills\",\"Leadership Skills\",\"Teamwork\",\"Self-Start\",\"Presentation Skills\",\"Project Management\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "null",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "Bachelor’s degree in engineering or Associate degree and minimum 1+ years’ experience in an Engineering discipline",
+      "min_years": 1.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Consumer Products Industry",
+      "value": "Retail/Consumer goods"
+    },
+    "education_degrees": [
+      "Bachelor",
+      "Associate"
+    ],
+    "skills": [
+      "Electrical Systems",
+      "Sensors",
+      "Motor Controls",
+      "VFD",
+      "Servo Drives",
+      "Analog Instrumentation",
+      "Safety Emergency Stop",
+      "Guard door Systems",
+      "PLC",
+      "HMI",
+      "Ladder Logic",
+      "Function Block Programming",
+      "Ethernet",
+      "EtherCat",
+      "Network Communication",
+      "Robotics",
+      "Human Robot Interfaces",
+      "Collaborative Robots",
+      "Vision Systems",
+      "Force Gauges",
+      "End of Arm Tooling",
+      "Plant/Facility Design",
+      "CADD/CAM",
+      "Bill of Material",
+      "Project Budget",
+      "Microsoft Office",
+      "Presentation Skills",
+      "Communication Skills",
+      "Teamwork",
+      "Leadership",
+      "Self-Start",
+      "Budget Management"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication Skills",
+      "Leadership Skills",
+      "Teamwork",
+      "Self-Start",
+      "Presentation Skills",
+      "Project Management"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

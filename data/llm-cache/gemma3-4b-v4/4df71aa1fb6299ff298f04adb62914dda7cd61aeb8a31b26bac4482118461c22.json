@@ -1,0 +1,67 @@
+{
+  "job_key": "job-11c768811743d87938c0",
+  "cache_identity": "4df71aa1fb6299ff298f04adb62914dda7cd61aeb8a31b26bac4482118461c22",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:42:39.072816+00:00",
+  "wall_seconds": 16.405807791044936,
+  "prompt_eval_count": 701,
+  "eval_count": 210,
+  "total_duration_ns": 16398838333,
+  "load_duration_ns": 2296875,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"Not specified\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"Not specified\",\"min_years\":null,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Los Angeles, CA\",\"value\":\"onsite\"},\"visa\":{\"quote\":\"J-18808-Ljbffr\",\"value\":\"not_available\"},\"industry\":{\"quote\":\"e-commerce, retail, marketing, and product lifecycle\",\"value\":\"Retail/Consumer goods\"},\"education_degrees\":[],\"skills\":[],\"benefits\":[],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"strategic influence\",\"stakeholder alignment\",\"building scalable dashboards\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "Not specified",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "Not specified",
+      "min_years": null,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Los Angeles, CA",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": "J-18808-Ljbffr",
+      "value": "not_available"
+    },
+    "industry": {
+      "quote": "e-commerce, retail, marketing, and product lifecycle",
+      "value": "Retail/Consumer goods"
+    },
+    "education_degrees": [],
+    "skills": [],
+    "benefits": [],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "strategic influence",
+      "stakeholder alignment",
+      "building scalable dashboards"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

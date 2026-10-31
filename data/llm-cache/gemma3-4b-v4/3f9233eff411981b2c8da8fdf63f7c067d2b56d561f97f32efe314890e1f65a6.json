@@ -1,0 +1,86 @@
+{
+  "job_key": "job-13dcbef3b3d62c654fd8",
+  "cache_identity": "3f9233eff411981b2c8da8fdf63f7c067d2b56d561f97f32efe314890e1f65a6",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:43:42.814080+00:00",
+  "wall_seconds": 22.43034041696228,
+  "prompt_eval_count": 1679,
+  "eval_count": 264,
+  "total_duration_ns": 22395615000,
+  "load_duration_ns": 2022500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$7,650/month to $12,667/month\",\"min\":7650,\"max\":12667,\"period\":\"month\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"Currently has or is in the process of obtaining a Ph.D. degree\",\"min_years\":0,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Internet\",\"value\":\"Technology\"},\"education_degrees\":[\"Ph.D.\"],\"skills\":[\"Python\",\"C++\",\"C\",\"Java\",\"Pytorch\",\"Tensorflow\",\"Machine Learning\",\"Artificial Intelligence\",\"Deep Learning\",\"NLP\",\"Computer Vision\",\"Statistics\",\"Quantitative Approaches\"], \"benefits\":[],\"job_types\":[\"Internship\"],\"certifications\":[],\"soft_skills\":[\"Communication\",\"Collaboration\",\"Problem Solving\",\"Self-Driven Motivation\",\"Analytical\",\"Quantitative Approaches\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":\"5 days ago\"}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$7,650/month to $12,667/month",
+      "min": 7650.0,
+      "max": 12667.0,
+      "period": "month",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "Currently has or is in the process of obtaining a Ph.D. degree",
+      "min_years": 0.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Internet",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Ph.D."
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "Java",
+      "Pytorch",
+      "Tensorflow",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "Statistics",
+      "Quantitative Approaches"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Internship"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Problem Solving",
+      "Self-Driven Motivation",
+      "Analytical",
+      "Quantitative Approaches"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": "5 days ago"
+    }
+  }
+}

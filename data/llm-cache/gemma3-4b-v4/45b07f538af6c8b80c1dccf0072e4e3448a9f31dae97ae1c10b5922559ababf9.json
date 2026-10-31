@@ -1,0 +1,89 @@
+{
+  "job_key": "job-1d839e422d9a997fa861",
+  "cache_identity": "45b07f538af6c8b80c1dccf0072e4e3448a9f31dae97ae1c10b5922559ababf9",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:55:04.761187+00:00",
+  "wall_seconds": 42.25459058396518,
+  "prompt_eval_count": 1617,
+  "eval_count": 495,
+  "total_duration_ns": 42253571750,
+  "load_duration_ns": 2140458,
+  "done_reason": "stop",
+  "raw_response": "{\n  \"salary\": {\n    \"quote\": \"$135,000–$170,000 Annually\",\n    \"min\": 135000,\n    \"max\": 170000,\n    \"period\": \"year\",\n    \"currency\": \"USD\"\n  },\n  \"experience\": {\n    \"quote\": \"6+ years\",\n    \"min_years\": 6,\n    \"max_years\": null,\n    \"level\": null\n  },\n  \"work\": {\n    \"quote\": \"Remote\",\n    \"value\": \"remote\"\n  },\n  \"visa\": {\n    \"quote\": null,\n    \"value\": null\n  },\n  \"industry\": {\n    \"quote\": \"technology consulting and software development\",\n    \"value\": \"Technology\"\n  },\n  \"education_degrees\": [\n    \"Bachelor’s\",\n    \"Master’s\"\n  ],\n  \"skills\": [\n    \"Snowflake\",\n    \"Databricks\",\n    \"BigQuery\",\n    \"Redshift\",\n    \"Iceberg\",\n    \"Delta Lake\",\n    \"Hudi\",\n    \"Spark\",\n    \"Flink\",\n    \"Kafka\",\n    \"Data Modeling\",\n    \"Data Governance\",\n    \"Data Lineage\",\n    \"Data Catalog\",\n    \"Lakehouse\",\n    \"Warehouse\",\n    \"Streaming\"\n  ],\n  \"benefits\": [],\n  \"job_types\": [\n    \"Full-time\",\n    \"Direct W2\"\n  ],\n  \"certifications\": [],\n  \"soft_skills\": [\n    \"Communication\",\n    \"Facilitation\",\n    \"Stakeholder Management\"\n  ],\n  \"company_values\": [],\n  \"collaboration_tools\": [],\n  \"required_languages\": [],\n  \"company_employees\": null,\n  \"team_size\": null,\n  \"travel_percent_max\": null,\n  \"dates\": {\n    \"application_deadline\": null,\n    \"expected_start_date\": \"1 day ago\",\"posting_expiry_date\": null\n  }\n}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$135,000–$170,000 Annually",
+      "min": 135000.0,
+      "max": 170000.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "6+ years",
+      "min_years": 6.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Remote",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "technology consulting and software development",
+      "value": "Technology"
+    },
+    "education_degrees": [
+      "Bachelor’s",
+      "Master’s"
+    ],
+    "skills": [
+      "Snowflake",
+      "Databricks",
+      "BigQuery",
+      "Redshift",
+      "Iceberg",
+      "Delta Lake",
+      "Hudi",
+      "Spark",
+      "Flink",
+      "Kafka",
+      "Data Modeling",
+      "Data Governance",
+      "Data Lineage",
+      "Data Catalog",
+      "Lakehouse",
+      "Warehouse",
+      "Streaming"
+    ],
+    "benefits": [],
+    "job_types": [
+      "Full-time",
+      "Direct W2"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication",
+      "Facilitation",
+      "Stakeholder Management"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": "1 day ago",
+      "posting_expiry_date": null
+    }
+  }
+}

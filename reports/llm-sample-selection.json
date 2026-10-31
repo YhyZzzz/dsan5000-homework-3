@@ -1,0 +1,749 @@
+{
+  "scope": "User-selected existing 122-posting sample; no further production inference",
+  "sample_size": 122,
+  "population_size": 819,
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "selection_method": "Availability sample of completed valid v4 responses at the compute cutoff. Production traversed SHA-256-derived job keys in sorted order, with the five prototype jobs also included. Not a stratified or designed probability sample.",
+  "limitations": [
+    "Only 122 of 819 deduplicated postings are LLM-cleaned; 697 remain outside the LLM dataset.",
+    "The sample covers 29 of 30 search-query categories with unequal, small counts; comparisons within job categories are unstable.",
+    "Availability, prototype selection, successful completion, search-query selection, and duplicate grouping can affect representativeness.",
+    "Coverage and extractor agreement are descriptive, not accuracy, labor-market population estimates, or causal evidence.",
+    "Part 2 comparison must use the same 122 job keys; full Part 2 counts must not be compared directly with sample counts."
+  ],
+  "postings": [
+    {
+      "job_key": "job-004c4014cf8fd20da9a6",
+      "cache_identity": "3616d6c8dc57f1a5afaf87121df143bc34f515c8d6e26762fc6c1013089b3216",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/3616d6c8dc57f1a5afaf87121df143bc34f515c8d6e26762fc6c1013089b3216.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-009b1ff29cb22f89e6e0",
+      "cache_identity": "6e581e3299d3d809cdbb305e3be040d37741b279de10432877130461ee49e763",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/6e581e3299d3d809cdbb305e3be040d37741b279de10432877130461ee49e763.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-00c93d78db7b1551a08b",
+      "cache_identity": "2a5059c6806685f7749a5d914eaed5d572dda9573fb5760ba6417c14a75bd985",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/2a5059c6806685f7749a5d914eaed5d572dda9573fb5760ba6417c14a75bd985.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-00e085f93793d7472a21",
+      "cache_identity": "c661d68031613d62f7cd9c879f02c4a5cd7d55656680eb2564062e66b5b12087",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/c661d68031613d62f7cd9c879f02c4a5cd7d55656680eb2564062e66b5b12087.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-01b8da0eb42116ad9550",
+      "cache_identity": "606f0ead55641f1efc347b05c598228705a6329748909f3617abaaf9ccc84df1",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/606f0ead55641f1efc347b05c598228705a6329748909f3617abaaf9ccc84df1.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-01bf8e1e6d785841d1a6",
+      "cache_identity": "710436a40c5100bed68d896bde185fdc2f08bed2bb0f2c00c687ade6c133b639",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/710436a40c5100bed68d896bde185fdc2f08bed2bb0f2c00c687ade6c133b639.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-01d026f62522654c3710",
+      "cache_identity": "e62bacee3a2b81def37d99bf08e8d1076e9a4843ee50bc38500b1053597c5bee",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/e62bacee3a2b81def37d99bf08e8d1076e9a4843ee50bc38500b1053597c5bee.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-01f2bce75123a3dbabee",
+      "cache_identity": "4c3f151152ae3c81cdab26349ad9d213f5d901fa7d4f9b0822d3357f180afd18",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/4c3f151152ae3c81cdab26349ad9d213f5d901fa7d4f9b0822d3357f180afd18.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0212c76198931c2b145e",
+      "cache_identity": "b09988af9bc8447e62090e4a2efe5c6e7358df71da5cc4b98144c029765e062f",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b09988af9bc8447e62090e4a2efe5c6e7358df71da5cc4b98144c029765e062f.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-02be8b5c602485bb6fbc",
+      "cache_identity": "b8cbd220fd532f70a6dc5914c8021fd3d85442c8119e5ad65a78f9eb103d1b0a",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b8cbd220fd532f70a6dc5914c8021fd3d85442c8119e5ad65a78f9eb103d1b0a.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-03a0389b8185d41946ab",
+      "cache_identity": "6650b963944044fd0b946bea3fddc0e535626da2c6860fdfbd5eb96296b47f11",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/6650b963944044fd0b946bea3fddc0e535626da2c6860fdfbd5eb96296b47f11.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-04c3884a483cd7009a82",
+      "cache_identity": "58dfbb7d4496025d7a342008c0ca37ad4ad8b6ae9ca35457d97ee01bbe9f2a10",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/58dfbb7d4496025d7a342008c0ca37ad4ad8b6ae9ca35457d97ee01bbe9f2a10.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0521740a9a7089c6535d",
+      "cache_identity": "d6a37e7ad8d511bbf3646b3aed0f35e2905d3518546ad0359808a30d9f3e71e5",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/d6a37e7ad8d511bbf3646b3aed0f35e2905d3518546ad0359808a30d9f3e71e5.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-05321be0aaddac53e808",
+      "cache_identity": "287ab0f85b09f4f2bdd0877ece63489b4fe93b8d4320dac6f54b573750a8f047",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/287ab0f85b09f4f2bdd0877ece63489b4fe93b8d4320dac6f54b573750a8f047.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-05db80f4bec336468186",
+      "cache_identity": "92d757926a52c7be51522c18f2146cf7be7809a025fc9aa9087d8b72d38d43cb",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/92d757926a52c7be51522c18f2146cf7be7809a025fc9aa9087d8b72d38d43cb.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0618aae15260352f2adb",
+      "cache_identity": "375d5f14367200e1a1a15bd5206ba4ac5958ac94985fd7155e91cb4c36dc0ebc",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/375d5f14367200e1a1a15bd5206ba4ac5958ac94985fd7155e91cb4c36dc0ebc.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-068f7816b6349ea7252b",
+      "cache_identity": "85b9b150db748a210dd2bde31925ccbe5196f0c75b66cc13b3b38dd411e555bc",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/85b9b150db748a210dd2bde31925ccbe5196f0c75b66cc13b3b38dd411e555bc.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-06bd5f2dfff3ada64d6f",
+      "cache_identity": "158eaf2ffcfeef642ebfa8d366e2599206a667d8669ee3b960fcbb956cf6346b",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/158eaf2ffcfeef642ebfa8d366e2599206a667d8669ee3b960fcbb956cf6346b.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0710aedf24d39e559ed2",
+      "cache_identity": "51c4c4582e7959c90543dfcb0db0fe4ab1f1fb8f432f1d8fdd464edf71ea026f",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/51c4c4582e7959c90543dfcb0db0fe4ab1f1fb8f432f1d8fdd464edf71ea026f.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0728819dc5e83fc267fc",
+      "cache_identity": "2da12079ef9f2597e40f02c1e6bd65178d0effbc59d117c7dd66de14e5b03095",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/2da12079ef9f2597e40f02c1e6bd65178d0effbc59d117c7dd66de14e5b03095.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0731a71af46c68060b82",
+      "cache_identity": "d4206e8a848d9018fc3b0ea24b3c001339db6c346658503e29f6f24fb428b0d9",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/d4206e8a848d9018fc3b0ea24b3c001339db6c346658503e29f6f24fb428b0d9.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-081e94c0880929b545d1",
+      "cache_identity": "66874fec4bee34b99f7c1c34eb7907498418205d2f37a401c1ba78a1af2fd603",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/66874fec4bee34b99f7c1c34eb7907498418205d2f37a401c1ba78a1af2fd603.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-084674f9a3a8bfc95926",
+      "cache_identity": "0a7d18e954f5304de7e961a86558bc5783ef9b450246e94bde34be99f65f2dc8",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/0a7d18e954f5304de7e961a86558bc5783ef9b450246e94bde34be99f65f2dc8.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0849ddfc233082851c91",
+      "cache_identity": "0345b82d5b2d1cc8ddf25e6a7dd755df56afc7ad63e01b66ec9bc21655ed4c49",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/0345b82d5b2d1cc8ddf25e6a7dd755df56afc7ad63e01b66ec9bc21655ed4c49.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-087ef3ca4096e07e8529",
+      "cache_identity": "7cda5d63ce03c79c9e39c1a10d250496238b48bc5e9aa80475c1755adb9dcef2",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/7cda5d63ce03c79c9e39c1a10d250496238b48bc5e9aa80475c1755adb9dcef2.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-08c2f6f519a1fb7305f3",
+      "cache_identity": "1121c5fbc5ae944e15e9328b1d16b108bc9b0f05e19ec210d0359432bfc35b41",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1121c5fbc5ae944e15e9328b1d16b108bc9b0f05e19ec210d0359432bfc35b41.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-09a45e70a8d1ca911104",
+      "cache_identity": "1fcf5e356b84a4030194130c06c4509e2799fa50a2a945845d2eee526a571acd",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1fcf5e356b84a4030194130c06c4509e2799fa50a2a945845d2eee526a571acd.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-09ee858103eca58221a8",
+      "cache_identity": "d6873bde57edfcb08fd5fba0a37bd5297555db0ba911ed64f5ed83b80bda32fe",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/d6873bde57edfcb08fd5fba0a37bd5297555db0ba911ed64f5ed83b80bda32fe.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0a0f4786cc2fe9abc809",
+      "cache_identity": "e661ea6f677355809690e459363af1d88647d49ac08ca0404aa4aa1cef5c2535",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/e661ea6f677355809690e459363af1d88647d49ac08ca0404aa4aa1cef5c2535.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0a1a16441ad01df21c64",
+      "cache_identity": "ed4d7a9fb3816303e93028b2a1988232dfcd9d81f68ca8b341451ca7e12805d5",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/ed4d7a9fb3816303e93028b2a1988232dfcd9d81f68ca8b341451ca7e12805d5.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0a453d096a33490b566d",
+      "cache_identity": "2820ba0300f37806ae2d005ac929c775b48fcce6cf8530e00918157fdeabe5b7",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/2820ba0300f37806ae2d005ac929c775b48fcce6cf8530e00918157fdeabe5b7.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0a7b7e7800c41b80f112",
+      "cache_identity": "96fa2530ddbcaa87761a1582966dddbd76ff4505837d5a1ac29a0832de2e3fa3",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/96fa2530ddbcaa87761a1582966dddbd76ff4505837d5a1ac29a0832de2e3fa3.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0b4062907dbc2b778b52",
+      "cache_identity": "4b16b224c4741eb3c827457f70f59dc3acc0ed3d766a8b0a0b3a4139369da890",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/4b16b224c4741eb3c827457f70f59dc3acc0ed3d766a8b0a0b3a4139369da890.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0c2bc0e3fa95d5c83689",
+      "cache_identity": "60d6e203eb8260e0158c05b85778f78d3a5d566d180e2d9c4c468b284a9e59da",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/60d6e203eb8260e0158c05b85778f78d3a5d566d180e2d9c4c468b284a9e59da.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0c57673c8eb4eaeb6435",
+      "cache_identity": "25f721a74a5a442c2b9eea2aa1ac04ae95282336b275205f3e306df37adab0cf",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/25f721a74a5a442c2b9eea2aa1ac04ae95282336b275205f3e306df37adab0cf.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0ca4bf94a1bca512a356",
+      "cache_identity": "fce34777f4539b4f7b25e4a9f6382cb1fb8c875545bce5bf182281bd0657d9ce",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/fce34777f4539b4f7b25e4a9f6382cb1fb8c875545bce5bf182281bd0657d9ce.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0ca7ee9b7e6f39698b92",
+      "cache_identity": "51ac029514c30436e03f7ff28d2c45856f1473d24cf075802c41db13a0d1837a",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/51ac029514c30436e03f7ff28d2c45856f1473d24cf075802c41db13a0d1837a.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0cf7cfdf89b1bccebf8d",
+      "cache_identity": "ba2db697361d07ae7eca68fd5f8d699db3bf5e0207605c94cf4e9cef38ea6217",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/ba2db697361d07ae7eca68fd5f8d699db3bf5e0207605c94cf4e9cef38ea6217.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0d4ecfca57a1f3cd42c9",
+      "cache_identity": "00e38af74512a2af30c4f288c85bac57ca18435f7322b3dee49b9c9e14b66323",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/00e38af74512a2af30c4f288c85bac57ca18435f7322b3dee49b9c9e14b66323.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0da58db095b390d95f3b",
+      "cache_identity": "b085c3737f0cc98b0d0a8d51747d0e08a505a3587c514399ef6185d550052380",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b085c3737f0cc98b0d0a8d51747d0e08a505a3587c514399ef6185d550052380.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0df55b63e3e95771ed55",
+      "cache_identity": "49cc0c72a833b66864251e62ff1785df11e952e062db63a8f66ebd631bc2c86a",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/49cc0c72a833b66864251e62ff1785df11e952e062db63a8f66ebd631bc2c86a.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0e039240f2ad972448cf",
+      "cache_identity": "f60b1ca83ac58564e9b86e8ae82e20bf4eb9518d79d0b8ead90a68d24f1fe5fd",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/f60b1ca83ac58564e9b86e8ae82e20bf4eb9518d79d0b8ead90a68d24f1fe5fd.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0e205034507ff1870e8c",
+      "cache_identity": "5b53157796978b706d7561062065e92aaaf0946d9dc83d8dd9e3820ee3fc7998",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/5b53157796978b706d7561062065e92aaaf0946d9dc83d8dd9e3820ee3fc7998.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0e5789cdf99f84e28ed5",
+      "cache_identity": "e8d6ec7690e781bf0ec3c63b215535d722089af604941afe9422e736456d15ec",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/e8d6ec7690e781bf0ec3c63b215535d722089af604941afe9422e736456d15ec.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0e8559c68750bb96fa88",
+      "cache_identity": "9eb84c352a11b592be706cd10e5b8017f60f9bec4e3e83f57f99be5332849635",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/9eb84c352a11b592be706cd10e5b8017f60f9bec4e3e83f57f99be5332849635.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0ec7e96585822d39dad8",
+      "cache_identity": "cdc50c00d537e0800c5d797eb711cf42bc6a5e4f56133533d1997c526d1aae2d",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/cdc50c00d537e0800c5d797eb711cf42bc6a5e4f56133533d1997c526d1aae2d.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0edefe692ac6c243cbd4",
+      "cache_identity": "921ef43668413a4fc127055e950a9fb8497be14700799b22ad57effbc02f427d",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/921ef43668413a4fc127055e950a9fb8497be14700799b22ad57effbc02f427d.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0f6a7f67198d8a20aad4",
+      "cache_identity": "3bb6ce4009cca2c4edeec4ad138c477489b779b7469fb81151bb5dac663b314f",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/3bb6ce4009cca2c4edeec4ad138c477489b779b7469fb81151bb5dac663b314f.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-0f8a9fba6559fddc5d0a",
+      "cache_identity": "e8c37d418f50ca0119519829ffd335e8a3312a16ae46b0498d174fde2d11df10",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/e8c37d418f50ca0119519829ffd335e8a3312a16ae46b0498d174fde2d11df10.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-100b1cfb651bde3bf252",
+      "cache_identity": "2bf9cb5a4b13c8da6fb22a10f666c41131fa22a02dbf35ec4decfeeb640e3dd3",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/2bf9cb5a4b13c8da6fb22a10f666c41131fa22a02dbf35ec4decfeeb640e3dd3.json",
+      "source_record_count": 2
+    },
+    {
+      "job_key": "job-102626b0b3aad2b76a66",
+      "cache_identity": "3ad88233fe872c58e8b649492f1e8c3c9169d0c757712d903c562a42729b4d01",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/3ad88233fe872c58e8b649492f1e8c3c9169d0c757712d903c562a42729b4d01.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1178f24a4509dd974982",
+      "cache_identity": "8434149dcad506e4d9e71dc8969757e73502434ab232cde215ee7f4c3e0aef10",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/8434149dcad506e4d9e71dc8969757e73502434ab232cde215ee7f4c3e0aef10.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-118fd3866e35bf07a767",
+      "cache_identity": "bc44fd8a82a76ec1a0468a57d27918bb89e5f81b1668684d4f62c9c2f079f3fc",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/bc44fd8a82a76ec1a0468a57d27918bb89e5f81b1668684d4f62c9c2f079f3fc.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-11c768811743d87938c0",
+      "cache_identity": "4df71aa1fb6299ff298f04adb62914dda7cd61aeb8a31b26bac4482118461c22",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/4df71aa1fb6299ff298f04adb62914dda7cd61aeb8a31b26bac4482118461c22.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-12277c1b766c744df12c",
+      "cache_identity": "0dda4b29018239842abd3e77813d5d84abf99bbd8029a03f8932322ce6416305",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/0dda4b29018239842abd3e77813d5d84abf99bbd8029a03f8932322ce6416305.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-122d2fa12eca74798082",
+      "cache_identity": "bdbb0e13bd77d4ea65d6724dbe2647dbe922a7cfa0f7ab9e9f86c28dc9cee6a9",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/bdbb0e13bd77d4ea65d6724dbe2647dbe922a7cfa0f7ab9e9f86c28dc9cee6a9.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-127dc7fe579eb870624a",
+      "cache_identity": "7fad150d3c70cc8e106df3e6a7a5a28b50b1bb8cdb2f371600dfd26efda4580e",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/7fad150d3c70cc8e106df3e6a7a5a28b50b1bb8cdb2f371600dfd26efda4580e.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-12904a36b16f4be17687",
+      "cache_identity": "add17907c056d3cca741e9815b524587668557ae186522d475ff4e500b44e655",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/add17907c056d3cca741e9815b524587668557ae186522d475ff4e500b44e655.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-13321a3caf2288b1a809",
+      "cache_identity": "f710b0b16c35b5517f52080d3a501ddf78f55460cd2812b96efeabd5230ee440",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/f710b0b16c35b5517f52080d3a501ddf78f55460cd2812b96efeabd5230ee440.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-135576c39596d11fa076",
+      "cache_identity": "1fdd58703ff51f371038bc67c84edb13c55c474e03592599c2a677459f5a5c11",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1fdd58703ff51f371038bc67c84edb13c55c474e03592599c2a677459f5a5c11.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-138b0c02a50f3e3d9ee9",
+      "cache_identity": "67f3c7c2dfafca48e11b8ba86cada3608c25c387aaa6a2e9207fe7e2d8334a2f",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/67f3c7c2dfafca48e11b8ba86cada3608c25c387aaa6a2e9207fe7e2d8334a2f.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-13c599a1f24f60b65d78",
+      "cache_identity": "2207021eb901140fa85b573748be8992b08f241f0beba500026fc79adf7b5861",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/2207021eb901140fa85b573748be8992b08f241f0beba500026fc79adf7b5861.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-13dcbef3b3d62c654fd8",
+      "cache_identity": "3f9233eff411981b2c8da8fdf63f7c067d2b56d561f97f32efe314890e1f65a6",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/3f9233eff411981b2c8da8fdf63f7c067d2b56d561f97f32efe314890e1f65a6.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-147336e6ea33f04961e4",
+      "cache_identity": "4932deaf2a645b0e22cb007a15f55897c0bfc6f70002cce8a76e53fc4dbdf68e",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/4932deaf2a645b0e22cb007a15f55897c0bfc6f70002cce8a76e53fc4dbdf68e.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-15172ea2bc5fab3ca1a3",
+      "cache_identity": "1e4fdddb97f258700ac229f9ebd3af3394b07dc45547ded18689bbf28311565d",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1e4fdddb97f258700ac229f9ebd3af3394b07dc45547ded18689bbf28311565d.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-152061eab301e25462cf",
+      "cache_identity": "ba9dde2af6807e294405a4d508c78193e208d3e2a436db17647ee95d707b70b3",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/ba9dde2af6807e294405a4d508c78193e208d3e2a436db17647ee95d707b70b3.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1546e27909e10ced8165",
+      "cache_identity": "10e14664881fdaf640967e5af73ac480c9a8ca954a78c934d4d3ed411ba80ccc",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/10e14664881fdaf640967e5af73ac480c9a8ca954a78c934d4d3ed411ba80ccc.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-15643e21f8c075989217",
+      "cache_identity": "922473365a5e6a94739241f51d7e466c7adf629e1914e658df9f6d6e3e3520a8",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/922473365a5e6a94739241f51d7e466c7adf629e1914e658df9f6d6e3e3520a8.json",
+      "source_record_count": 2
+    },
+    {
+      "job_key": "job-15d5938e8e4610df80a6",
+      "cache_identity": "9c63542a7d56698688901565da322d8bba1519d940e5d6f00f162c5d385f027b",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/9c63542a7d56698688901565da322d8bba1519d940e5d6f00f162c5d385f027b.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-15d71f92033862edec56",
+      "cache_identity": "4d0a783054100fda903e6955380f65a8de1aef3e030564ea4973ff3185fd267a",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/4d0a783054100fda903e6955380f65a8de1aef3e030564ea4973ff3185fd267a.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-15e7e0fbff614e044e2a",
+      "cache_identity": "c91e41b0978a03908660f2323c3c8d4a70433378023cf7c40625041987e6426f",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/c91e41b0978a03908660f2323c3c8d4a70433378023cf7c40625041987e6426f.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1612aa43e504f966dba5",
+      "cache_identity": "45087a7fddca0f04e8264c34058af7fbfee315866d1b13fab8b9fef6730680ce",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/45087a7fddca0f04e8264c34058af7fbfee315866d1b13fab8b9fef6730680ce.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-16248e116536b100ba0d",
+      "cache_identity": "fa792c8539a209b22f7703e7ebdd53b938277a83a97a9234627fa35273d87cb8",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/fa792c8539a209b22f7703e7ebdd53b938277a83a97a9234627fa35273d87cb8.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1653c9103b33d6065219",
+      "cache_identity": "da3b0ed93ede72351eef0f1d4a92b23c83b5195473d149954081ac16117f4d7d",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/da3b0ed93ede72351eef0f1d4a92b23c83b5195473d149954081ac16117f4d7d.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-16be5eacf4cc31ae0aa1",
+      "cache_identity": "81d674837be83870463b56f9dcfbe31cd38d4488f3f02d2d78d2d1c6c5b0d71e",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/81d674837be83870463b56f9dcfbe31cd38d4488f3f02d2d78d2d1c6c5b0d71e.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-16c04dd63430b7a71a5f",
+      "cache_identity": "907e2ad6e5c42d3c4de4c318304a92847f00ff1ad18c0ae44e982a81d72e3ed6",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/907e2ad6e5c42d3c4de4c318304a92847f00ff1ad18c0ae44e982a81d72e3ed6.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-16dda4e0b9525e281d4b",
+      "cache_identity": "e09391e84d68beb25de4176e2e7ce6d860752ab68c97e933201e020ffbfed11c",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/e09391e84d68beb25de4176e2e7ce6d860752ab68c97e933201e020ffbfed11c.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-178f142012afac1e3f0d",
+      "cache_identity": "04904a21aa870334654593397cd3cebffdd4f44d27adba3504c65817e30763fe",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/04904a21aa870334654593397cd3cebffdd4f44d27adba3504c65817e30763fe.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-179825710a0dfce21c93",
+      "cache_identity": "751042df5ae63b32eb38b5b8229fc6c8601d3a6b68c82b982c8d025ad353d3d8",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/751042df5ae63b32eb38b5b8229fc6c8601d3a6b68c82b982c8d025ad353d3d8.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-185ff99bcc6be531a51d",
+      "cache_identity": "da2a580b7e978fdd7452e07d0403c0a358c941ad7dd6918427bae37e668bfe28",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/da2a580b7e978fdd7452e07d0403c0a358c941ad7dd6918427bae37e668bfe28.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-18d3152e7d3f0fc4f8d2",
+      "cache_identity": "edd359db7b484394a715dead5347683f8cc97385ba7e4319e8f3ddaa744d6253",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/edd359db7b484394a715dead5347683f8cc97385ba7e4319e8f3ddaa744d6253.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-18fdf51d0b80a61306d4",
+      "cache_identity": "64848941142c76d67b8befa3b67db7fd9114cae93bbb52b93ce6c966915d2685",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/64848941142c76d67b8befa3b67db7fd9114cae93bbb52b93ce6c966915d2685.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-19638f3ec91b2ce2610a",
+      "cache_identity": "36e5ebd9e6eb4ddc81fca2bdcdfbaebfb868e99e16a17f73e4a83fb8190c34ab",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/36e5ebd9e6eb4ddc81fca2bdcdfbaebfb868e99e16a17f73e4a83fb8190c34ab.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1a2ed2584cbc2d68f8c0",
+      "cache_identity": "6fd1a16bb0e06bec43702fa2b12a34f1b48b7c17f9380fac0a9d36ba24e85568",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/6fd1a16bb0e06bec43702fa2b12a34f1b48b7c17f9380fac0a9d36ba24e85568.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1a82ca8d06fd55b7ca4e",
+      "cache_identity": "b13d0a75358c1fc161a8c914f6aeda0851c6a4f7d36fc3d6a321bd23dd2c0aa2",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b13d0a75358c1fc161a8c914f6aeda0851c6a4f7d36fc3d6a321bd23dd2c0aa2.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1a89f3b332714e23b802",
+      "cache_identity": "e15da169361654cc3d82bf2abcd090e852e12a38db4c843b4d48722fc9ea1584",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/e15da169361654cc3d82bf2abcd090e852e12a38db4c843b4d48722fc9ea1584.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1a8b435dc2ff016bd879",
+      "cache_identity": "1080d7967edbfe3bc891b547a1e572ce6a48e19a00192225c768a2ade41bf437",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1080d7967edbfe3bc891b547a1e572ce6a48e19a00192225c768a2ade41bf437.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1a928b557a7eafd0c9fa",
+      "cache_identity": "8f67e68141bd868b0ef50dbf26b99a2af97fa03985354d402082879c38b37da5",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/8f67e68141bd868b0ef50dbf26b99a2af97fa03985354d402082879c38b37da5.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1aa95d3a36e39249f384",
+      "cache_identity": "1e6f65f6a84860d49a40a708aeefce9c7b171b62285caffcd4330474164184a0",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1e6f65f6a84860d49a40a708aeefce9c7b171b62285caffcd4330474164184a0.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1b0139799c24bef23741",
+      "cache_identity": "d471bfd8861be945c7ef021be706b6ce9bab57304140469454a1c2afbc762b0e",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/d471bfd8861be945c7ef021be706b6ce9bab57304140469454a1c2afbc762b0e.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1b05da426ef2b7841fe0",
+      "cache_identity": "39cd87c6b3f014da0b80ff88bcf1f173fa525d463ed2eccfe8c466cb733e11c7",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/39cd87c6b3f014da0b80ff88bcf1f173fa525d463ed2eccfe8c466cb733e11c7.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1c457548745f5cee0d0b",
+      "cache_identity": "d71b50c373fa50779b9c12e9588b8765b74745fbdad646e14203ec16c48068dc",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/d71b50c373fa50779b9c12e9588b8765b74745fbdad646e14203ec16c48068dc.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1cc2d461e1d0fde32b01",
+      "cache_identity": "2218d2a31deef3276654f9570a32aeaa6387c4c1ffac1036276a92491644d650",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/2218d2a31deef3276654f9570a32aeaa6387c4c1ffac1036276a92491644d650.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1d0bd16b98eb442288aa",
+      "cache_identity": "01294a3911b7f0fdaf0acad018fe4dea5df4dcc7302cefef5c68e87bf4c8ad76",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/01294a3911b7f0fdaf0acad018fe4dea5df4dcc7302cefef5c68e87bf4c8ad76.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1d308e34336917d69981",
+      "cache_identity": "7a0141c442e093356fe2e75dfe85aab20fdee9d72cf640dbbc5467ebe0343e61",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/7a0141c442e093356fe2e75dfe85aab20fdee9d72cf640dbbc5467ebe0343e61.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1d5a98b2ff036b4c8e4e",
+      "cache_identity": "94d64518669a9135a823acad0dbec2f5db3804dabde4e03d23a424741bdc3978",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/94d64518669a9135a823acad0dbec2f5db3804dabde4e03d23a424741bdc3978.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1d7878e400e16f9c75ff",
+      "cache_identity": "ffbf398b721eb8561621486aca7f4ae1807c85ac3ee8d33bf9973d48bf0bbbfe",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/ffbf398b721eb8561621486aca7f4ae1807c85ac3ee8d33bf9973d48bf0bbbfe.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1d839e422d9a997fa861",
+      "cache_identity": "45b07f538af6c8b80c1dccf0072e4e3448a9f31dae97ae1c10b5922559ababf9",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/45b07f538af6c8b80c1dccf0072e4e3448a9f31dae97ae1c10b5922559ababf9.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1e0476f65ec9730e0fa7",
+      "cache_identity": "4d842cddfe47d73e8e781995e03a840e5108a7ab0aede42088fd3f1d6959f6f0",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/4d842cddfe47d73e8e781995e03a840e5108a7ab0aede42088fd3f1d6959f6f0.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1e47ef4f03bf63d2ae81",
+      "cache_identity": "52b609a0aa7f973802b07dae1e25bb8d6a4cb823580db3dd3517a2b9a5399f6e",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/52b609a0aa7f973802b07dae1e25bb8d6a4cb823580db3dd3517a2b9a5399f6e.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1e58ed9287a0e83aaabc",
+      "cache_identity": "1b7e7704e036243243dc2f3da6099179af9817e9af78cc06800935518455a4ad",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1b7e7704e036243243dc2f3da6099179af9817e9af78cc06800935518455a4ad.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1edf3f41a52fa0c3925a",
+      "cache_identity": "81c5d55bd521182b4fb8db326101540f95e808a991d5b7eb27849dc5c22f1aab",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/81c5d55bd521182b4fb8db326101540f95e808a991d5b7eb27849dc5c22f1aab.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1f50770beb1ba78db49a",
+      "cache_identity": "aee17bee3fc6cc92ade931e57efcf8122076d7da2f9adea2ae554a6bd164cbc6",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/aee17bee3fc6cc92ade931e57efcf8122076d7da2f9adea2ae554a6bd164cbc6.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1f802d345622b30ec206",
+      "cache_identity": "0b8cf72d6c5e9cde462de5bfe9e82d4e69574dd43fab61f2db6c23f2083f4868",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/0b8cf72d6c5e9cde462de5bfe9e82d4e69574dd43fab61f2db6c23f2083f4868.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-1f9585f4f3358563f0b5",
+      "cache_identity": "a4599ccb8bbafba7bbefe3920b1c195974d1e43799444690e9560c423fc8f780",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/a4599ccb8bbafba7bbefe3920b1c195974d1e43799444690e9560c423fc8f780.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-203fde2fd2793f8ad1d7",
+      "cache_identity": "975e465c11b7293ced0b39b7d3bcd37b1b98377569ef8c54d78bf84e36503ce0",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/975e465c11b7293ced0b39b7d3bcd37b1b98377569ef8c54d78bf84e36503ce0.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-204edeee1978b6743600",
+      "cache_identity": "ebfd1574d5fe1dfadd9e018482e7d5a8e405cfd6d1e386c542ad52d7cb0d3505",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/ebfd1574d5fe1dfadd9e018482e7d5a8e405cfd6d1e386c542ad52d7cb0d3505.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-2058f71810289167f440",
+      "cache_identity": "95fcb4e085a39084e850d56380080024c63efa3a684cc92862b6ad3ee0bdd79e",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/95fcb4e085a39084e850d56380080024c63efa3a684cc92862b6ad3ee0bdd79e.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-205c7d0471b723c814cf",
+      "cache_identity": "6a6829373ce4f5673fa4876fc3fcee339f95c52743299ded168b83a283a2034f",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/6a6829373ce4f5673fa4876fc3fcee339f95c52743299ded168b83a283a2034f.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-215151dcf7c110b6eb1d",
+      "cache_identity": "b2397dbd07fe1b40e1cb8b97c383ee936d796197ee8e322169f446a4a0491440",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b2397dbd07fe1b40e1cb8b97c383ee936d796197ee8e322169f446a4a0491440.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-217584e7f17afe96a350",
+      "cache_identity": "1f2eaa59892d097e36fa1a09bb5f6a541ce608804e1e28d8befb606969750c46",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/1f2eaa59892d097e36fa1a09bb5f6a541ce608804e1e28d8befb606969750c46.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-21a3a02d4fe3bc8f4512",
+      "cache_identity": "814c61b08180eef0dc9ff6d46d5274dd64b3bad6fba9fe97abb83a77f9134b2d",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/814c61b08180eef0dc9ff6d46d5274dd64b3bad6fba9fe97abb83a77f9134b2d.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-21ad2aba3fcb14a6439f",
+      "cache_identity": "b8c85eabb94756effbc76790a596b0c8e9741e6886f897c47b4f7b2d4f6b7529",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b8c85eabb94756effbc76790a596b0c8e9741e6886f897c47b4f7b2d4f6b7529.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-21aec4b4d1a1e10fcc57",
+      "cache_identity": "cda020f4ca78de2610400f3e7cc995d311f5197efc04b392633378bf7b68af1c",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/cda020f4ca78de2610400f3e7cc995d311f5197efc04b392633378bf7b68af1c.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-21dd2c3b95e4b3fc4686",
+      "cache_identity": "939fea637e70cf030ace8656fcb9299deda2cd89422cb81a98bedebe10393534",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/939fea637e70cf030ace8656fcb9299deda2cd89422cb81a98bedebe10393534.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-223095affbcd4fa2b486",
+      "cache_identity": "29d178743a7898bbd508f8896f329be822918f9b8128566da65ac31b368d5688",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/29d178743a7898bbd508f8896f329be822918f9b8128566da65ac31b368d5688.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-22407fa5dd2ce54814c4",
+      "cache_identity": "3dffe60703a57cfb5c631f0a12e7387147d391886844b2b0f3aaf07ea6a44a64",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/3dffe60703a57cfb5c631f0a12e7387147d391886844b2b0f3aaf07ea6a44a64.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-226082655a14470286df",
+      "cache_identity": "db7bca690f0740de2abf70d354630ea69fb3c270ab3944e7f4f738ac2f22803c",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/db7bca690f0740de2abf70d354630ea69fb3c270ab3944e7f4f738ac2f22803c.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-812efcc9f3732f7f5ccf",
+      "cache_identity": "44df439ed06f691fbb4b5f0489251fb85706daeadab4e7f277b1d0d1da15c643",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/44df439ed06f691fbb4b5f0489251fb85706daeadab4e7f277b1d0d1da15c643.json",
+      "source_record_count": 10
+    },
+    {
+      "job_key": "job-9b47b21a1cbf0444afc7",
+      "cache_identity": "b5955d9aef921bda41b3eb9600079a6acd86f40952bd1adfa40db1d340861138",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b5955d9aef921bda41b3eb9600079a6acd86f40952bd1adfa40db1d340861138.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-b7736201ef27019079ec",
+      "cache_identity": "918e05c2cb06c98c1c5d09aa19ef869a541a14816093472ebe792ac10dbaecd0",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/918e05c2cb06c98c1c5d09aa19ef869a541a14816093472ebe792ac10dbaecd0.json",
+      "source_record_count": 1
+    },
+    {
+      "job_key": "job-c003279d400de6fd489d",
+      "cache_identity": "b0a3d3e06e291bcb4e5c1e43d92731acc725c50f9aef3fcc0aa506dcc237d267",
+      "cache_file": "data/llm-cache/gemma3-4b-v4/b0a3d3e06e291bcb4e5c1e43d92731acc725c50f9aef3fcc0aa506dcc237d267.json",
+      "source_record_count": 1
+    }
+  ]
+}

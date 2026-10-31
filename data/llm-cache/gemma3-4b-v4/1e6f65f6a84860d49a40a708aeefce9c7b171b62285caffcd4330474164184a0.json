@@ -1,0 +1,92 @@
+{
+  "job_key": "job-1aa95d3a36e39249f384",
+  "cache_identity": "1e6f65f6a84860d49a40a708aeefce9c7b171b62285caffcd4330474164184a0",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:53:44.204003+00:00",
+  "wall_seconds": 31.896728083025664,
+  "prompt_eval_count": 2337,
+  "eval_count": 291,
+  "total_duration_ns": 31895792333,
+  "load_duration_ns": 2175708,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"$161,800 - $184,600 for Prin Assoc, Quant Analysis\",\"min\":161800,\"max\":184600,\"period\":\"year\",\"currency\":\"USD\"},\"experience\":{\"quote\":\"3 years of experience in quantitative analytics\",\"min_years\":3,\"max_years\":null,\"level\":null},\"work\":{\"quote\":\"Fully remote work\",\"value\":\"remote\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Financial Services\",\"value\":\"Finance\"},\"education_degrees\":[\"Master's\",\"MBA\"],\"skills\":[\"Statistical modeling\",\"Econometric modeling\",\"Linear regression\",\"Logistic regression\",\"Python\",\"R\",\"SQL\",\"Time-series analysis\",\"Panel data analysis\",\"Cross-sectional data analysis\",\"Machine learning\",\"Data analysis\",\"Data manipulation\",\"Large datasets\"],\"benefits\":[\"Health insurance\",\"Performance based incentive compensation\",\"Long term incentives\"],\"job_types\":[\"Full-time\",\"Part-time\"],\"certifications\":[],\"soft_skills\":[\"Communication skills\",\"Presentation skills\",\"Technical guidance\",\"Cross-disciplinary team collaboration\",\"Risk Management Software\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":null,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "$161,800 - $184,600 for Prin Assoc, Quant Analysis",
+      "min": 161800.0,
+      "max": 184600.0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "experience": {
+      "quote": "3 years of experience in quantitative analytics",
+      "min_years": 3.0,
+      "max_years": null,
+      "level": null
+    },
+    "work": {
+      "quote": "Fully remote work",
+      "value": "remote"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Financial Services",
+      "value": "Finance"
+    },
+    "education_degrees": [
+      "Master's",
+      "MBA"
+    ],
+    "skills": [
+      "Statistical modeling",
+      "Econometric modeling",
+      "Linear regression",
+      "Logistic regression",
+      "Python",
+      "R",
+      "SQL",
+      "Time-series analysis",
+      "Panel data analysis",
+      "Cross-sectional data analysis",
+      "Machine learning",
+      "Data analysis",
+      "Data manipulation",
+      "Large datasets"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Performance based incentive compensation",
+      "Long term incentives"
+    ],
+    "job_types": [
+      "Full-time",
+      "Part-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Communication skills",
+      "Presentation skills",
+      "Technical guidance",
+      "Cross-disciplinary team collaboration",
+      "Risk Management Software"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": null,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}

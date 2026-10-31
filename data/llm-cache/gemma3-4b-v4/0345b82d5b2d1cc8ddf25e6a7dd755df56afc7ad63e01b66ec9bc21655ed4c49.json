@@ -1,0 +1,96 @@
+{
+  "job_key": "job-0849ddfc233082851c91",
+  "cache_identity": "0345b82d5b2d1cc8ddf25e6a7dd755df56afc7ad63e01b66ec9bc21655ed4c49",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "v4-open-mention-lists",
+  "created_at_utc": "2026-10-31T00:39:33.603543+00:00",
+  "wall_seconds": 25.890823708032258,
+  "prompt_eval_count": 1521,
+  "eval_count": 284,
+  "total_duration_ns": 25877159458,
+  "load_duration_ns": 1896500,
+  "done_reason": "stop",
+  "raw_response": "{\"salary\":{\"quote\":\"3 years of relevant experience\",\"min\":null,\"max\":null,\"period\":null,\"currency\":null},\"experience\":{\"quote\":\"Advanced degree plus 3 years of relevant experience, or bachelor’s degree plus 5 years of relevant experience\",\"min_years\":3,\"max_years\":5,\"level\":null},\"work\":{\"quote\":\"Full-time\",\"value\":\"onsite\"},\"visa\":{\"quote\":null,\"value\":null},\"industry\":{\"quote\":\"Life Sciences\",\"value\":\"Manufacturing\"},\"education_degrees\":[\"Advanced degree\",\"Bachelor’s degree\"],\"skills\":[\"PLC programming\",\"Control logic\",\"Machine vision\",\"Automation\",\"Validation\",\"GMP\",\"Data integrity\",\"Root cause analysis\",\"Troubleshooting\"],\"benefits\":[\"Dental insurance\",\"Paid time off\",\"Health insurance\",\"401K Company Match\",\"Tuition Reimbursement\",\"Employee Referral Bonus\",\"Employee Discount Program\",\"Recognition Program\",\"Charitable Gift Matching\"],\"job_types\":[\"Full-time\"],\"certifications\":[],\"soft_skills\":[\"Systems thinking\",\"Analytical troubleshooting\",\"Root-cause analysis\",\"Technical writing\",\"Communication\",\"Collaboration\",\"Organization\"],\"company_values\":[],\"collaboration_tools\":[],\"required_languages\":[\"English\"],\"company_employees\":null,\"team_size\":null,\"travel_percent_max\":50,\"dates\":{\"application_deadline\":null,\"expected_start_date\":null,\"posting_expiry_date\":null}}",
+  "status": "validated",
+  "previous_attempts": [],
+  "features": {
+    "salary": {
+      "quote": "3 years of relevant experience",
+      "min": null,
+      "max": null,
+      "period": null,
+      "currency": null
+    },
+    "experience": {
+      "quote": "Advanced degree plus 3 years of relevant experience, or bachelor’s degree plus 5 years of relevant experience",
+      "min_years": 3.0,
+      "max_years": 5.0,
+      "level": null
+    },
+    "work": {
+      "quote": "Full-time",
+      "value": "onsite"
+    },
+    "visa": {
+      "quote": null,
+      "value": null
+    },
+    "industry": {
+      "quote": "Life Sciences",
+      "value": "Manufacturing"
+    },
+    "education_degrees": [
+      "Advanced degree",
+      "Bachelor’s degree"
+    ],
+    "skills": [
+      "PLC programming",
+      "Control logic",
+      "Machine vision",
+      "Automation",
+      "Validation",
+      "GMP",
+      "Data integrity",
+      "Root cause analysis",
+      "Troubleshooting"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Paid time off",
+      "Health insurance",
+      "401K Company Match",
+      "Tuition Reimbursement",
+      "Employee Referral Bonus",
+      "Employee Discount Program",
+      "Recognition Program",
+      "Charitable Gift Matching"
+    ],
+    "job_types": [
+      "Full-time"
+    ],
+    "certifications": [],
+    "soft_skills": [
+      "Systems thinking",
+      "Analytical troubleshooting",
+      "Root-cause analysis",
+      "Technical writing",
+      "Communication",
+      "Collaboration",
+      "Organization"
+    ],
+    "company_values": [],
+    "collaboration_tools": [],
+    "required_languages": [
+      "English"
+    ],
+    "company_employees": null,
+    "team_size": null,
+    "travel_percent_max": 50.0,
+    "dates": {
+      "application_deadline": null,
+      "expected_start_date": null,
+      "posting_expiry_date": null
+    }
+  }
+}
