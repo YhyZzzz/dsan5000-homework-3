@@ -1,0 +1,14 @@
+---
+pagetitle: "Jane Doe | resume | Maintenance Data Analyst Jobs"
+format:
+  html:
+    theme: none
+    minimal: true
+    embed-resources: true
+    toc: false
+    css: ../application.css
+---
+
+```{=html}
+<article class="jane-application"><h1>Jane Doe</h1><div class="contact">jane.doe@example.com · Example City, USA</div><div class="target">Target: Maintenance Data Analyst Jobs · Entarian</div><h2>Professional summary</h2><p>Jane Doe is a data-driven analyst with a strong foundation in statistics and programming. She excels at translating data into actionable insights and optimizing processes through analytical techniques.</p><h2>Selected skills</h2><p class="skills">Python · SQL · R · Power BI</p><h2>Experience</h2><h3>Data Analyst — Northstar Analytics (fictional)</h3><div class="dates">May 2024 – Present</div><ul><li>Built eight Power BI dashboards with SQL models for a fictional retail analytics team.</li><li>Automated recurring Python and pandas reports, reducing preparation time by 30%.</li></ul><h2>Selected projects</h2><ul><li>Built a scikit-learn classification demo with train/test separation and cross-validation.</li><li>Built a containerized Python/SQL ETL demo using Docker, Git and AWS S3.</li></ul><h2>Education</h2><p><strong>M.S. in Applied Statistics</strong><br>Example University (fictional) · 2024</p><p><strong>B.S. in Mathematics</strong><br>Example State College (fictional) · 2022</p><p class="demo">Fictional Jane Doe · Academic demonstration · All candidate credentials, experience and contact information are invented.</p></article>
+```

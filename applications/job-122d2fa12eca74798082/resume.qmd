@@ -1,0 +1,14 @@
+---
+pagetitle: "Jane Doe | resume | Data Engineer"
+format:
+  html:
+    theme: none
+    minimal: true
+    embed-resources: true
+    toc: false
+    css: ../application.css
+---
+
+```{=html}
+<article class="jane-application"><h1>Jane Doe</h1><div class="contact">jane.doe@example.com · Example City, USA</div><div class="target">Target: Data Engineer · Maas Energy Works, Inc</div><h2>Professional summary</h2><p>A detail-oriented data professional with a strong foundation in statistics and data analysis, seeking to contribute to a robust and reliable data platform.</p><h2>Selected skills</h2><p class="skills">Python · SQL · Power BI · R</p><h2>Experience</h2><h3>Data Analyst — Northstar Analytics (fictional)</h3><div class="dates">May 2024 – Present</div><ul><li>Built eight Power BI dashboards with SQL models for a fictional retail analytics team.</li><li>Automated recurring Python and pandas reports, reducing preparation time by 30%.</li></ul><h2>Selected projects</h2><ul><li>Built a containerized Python/SQL ETL demo using Docker, Git and AWS S3.</li></ul><h2>Education</h2><p><strong>M.S. in Applied Statistics</strong><br>Example University (fictional) · 2024</p><p><strong>B.S. in Mathematics</strong><br>Example State College (fictional) · 2022</p><p class="demo">Fictional Jane Doe · Academic demonstration · All candidate credentials, experience and contact information are invented.</p></article>
+```

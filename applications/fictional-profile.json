@@ -1,0 +1,60 @@
+{
+  "fictional": true,
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "location": "Example City, USA",
+  "education": [
+    {
+      "degree": "M.S. in Applied Statistics",
+      "school": "Example University (fictional)",
+      "year": "2024"
+    },
+    {
+      "degree": "B.S. in Mathematics",
+      "school": "Example State College (fictional)",
+      "year": "2022"
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "R",
+    "Power BI",
+    "Excel",
+    "pandas",
+    "NumPy",
+    "scikit-learn",
+    "Docker",
+    "Git",
+    "AWS S3",
+    "Matplotlib",
+    "Statistics"
+  ],
+  "experience": [
+    {
+      "id": "E1",
+      "role": "Data Analyst",
+      "company": "Northstar Analytics (fictional)",
+      "dates": "May 2024 – Present",
+      "facts": {
+        "E1a": "Built eight Power BI dashboards with SQL models for a fictional retail analytics team.",
+        "E1b": "Automated recurring Python and pandas reports, reducing preparation time by 30%.",
+        "E1c": "Validated weekly customer datasets with SQL checks and documented data definitions."
+      }
+    },
+    {
+      "id": "E2",
+      "role": "Analytics Intern",
+      "company": "Cedar Research Studio (fictional)",
+      "dates": "September 2022 – April 2024",
+      "facts": {
+        "E2a": "Prepared Python and SQL datasets and presented descriptive analyses to a team of four."
+      }
+    }
+  ],
+  "projects": {
+    "P1": "Built a scikit-learn classification demo with train/test separation and cross-validation.",
+    "P2": "Built a containerized Python/SQL ETL demo using Docker, Git and AWS S3.",
+    "P3": "Explored public time-series datasets with R and Matplotlib."
+  }
+}

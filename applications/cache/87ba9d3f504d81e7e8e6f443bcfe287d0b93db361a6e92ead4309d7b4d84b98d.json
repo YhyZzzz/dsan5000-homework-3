@@ -1,0 +1,43 @@
+{
+  "job_key": "job-7eca8db3880555fbc7b5",
+  "cache_identity": "87ba9d3f504d81e7e8e6f443bcfe287d0b93db361a6e92ead4309d7b4d84b98d",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "jane-doe-v1",
+  "created_at_utc": "2026-10-31T01:34:23.105859+00:00",
+  "wall_seconds": 29.18117679201532,
+  "prompt_tokens": 1451,
+  "output_tokens": 233,
+  "done_reason": "stop",
+  "raw_response": "{\"summary\": \"A detail-oriented analyst with a strong foundation in statistical analysis and data visualization. Eager to apply analytical skills to drive marketing insights and support data-driven decision-making within a collaborative team environment.\",\n\"skills\": [\"Python\", \"SQL\", \"Power BI\", \"R\"],\n\"experience_fact_ids\": [\"E1a\", \"E1b\"],\n\"project_ids\": [\"P2\"],\n\"motivation\": \"I'm drawn to TurboTenant's focus on leveraging data to optimize marketing strategies and improve the customer experience. My experience in building and automating data pipelines aligns well with the role's emphasis on data management and integration.\",\n\"contribution\": \"I'm prepared to contribute to the team by developing insightful reports, streamlining data processes, and supporting the Marketing team's analytical needs through robust data visualization and analysis.\",\"job_priorities\": [\"Enhance marketing reporting capabilities\", \"Improve data integration processes\", \"Develop data-driven strategies for campaign optimization\"],\"gaps\": [\"Experience with GA4\", \"Experience with complex attribution models\", \"Experience with Halo Analysis\"]}",
+  "status": "validated",
+  "previous_attempts": [],
+  "content": {
+    "summary": "A detail-oriented analyst with a strong foundation in statistical analysis and data visualization. Eager to apply analytical skills to drive marketing insights and support data-driven decision-making within a collaborative team environment.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "R"
+    ],
+    "experience_fact_ids": [
+      "E1a",
+      "E1b"
+    ],
+    "project_ids": [
+      "P2"
+    ],
+    "motivation": "I'm drawn to TurboTenant's focus on leveraging data to optimize marketing strategies and improve the customer experience. My experience in building and automating data pipelines aligns well with the role's emphasis on data management and integration.",
+    "contribution": "I'm prepared to contribute to the team by developing insightful reports, streamlining data processes, and supporting the Marketing team's analytical needs through robust data visualization and analysis.",
+    "job_priorities": [
+      "Enhance marketing reporting capabilities",
+      "Improve data integration processes",
+      "Develop data-driven strategies for campaign optimization"
+    ],
+    "gaps": [
+      "Experience with GA4",
+      "Experience with complex attribution models",
+      "Experience with Halo Analysis"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "job_key": "job-d7cbd37cd1d625aef89c",
+  "cache_identity": "2c44e48c180ff9b244bf285ba8e0f7583cdfe8a7544fb311de558335a4b563ab",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "jane-doe-v1",
+  "created_at_utc": "2026-10-31T01:34:17.667439+00:00",
+  "wall_seconds": 23.743638708023354,
+  "prompt_tokens": 1626,
+  "output_tokens": 174,
+  "done_reason": "stop",
+  "raw_response": "{\"summary\":\"A detail-oriented statistician with a strong foundation in data analysis and visualization, seeking to leverage analytical skills to drive data-informed decisions within Lignetics’ commercial operations.\",\"skills\":[\"Python\",\"SQL\",\"Power BI\",\"Statistics\"], \"experience_fact_ids\":[\"E1a\",\"E1b\"], \"project_ids\":[\"P2\"], \"motivation\":\"Driven by a passion for translating complex data into actionable insights, I aim to contribute to Lignetics’ demand forecasting and commercial strategy by building robust BI solutions.\",\"contribution\":\"I will focus on streamlining reporting processes and integrating diverse data sources to provide timely, accurate information for strategic decision-making.\",\"job_priorities\":[\"Data Integration\",\"Demand Signal Analysis\",\"KPI Definition & Validation\"],\"gaps\":[\"AI/LLM Tool Proficiency\",\"Retail POS/Inventory Data Experience\"]}",
+  "status": "validated",
+  "previous_attempts": [],
+  "content": {
+    "summary": "A detail-oriented statistician with a strong foundation in data analysis and visualization, seeking to leverage analytical skills to drive data-informed decisions within Lignetics’ commercial operations.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Statistics"
+    ],
+    "experience_fact_ids": [
+      "E1a",
+      "E1b"
+    ],
+    "project_ids": [
+      "P2"
+    ],
+    "motivation": "Driven by a passion for translating complex data into actionable insights, I aim to contribute to Lignetics’ demand forecasting and commercial strategy by building robust BI solutions.",
+    "contribution": "I will focus on streamlining reporting processes and integrating diverse data sources to provide timely, accurate information for strategic decision-making.",
+    "job_priorities": [
+      "Data Integration",
+      "Demand Signal Analysis",
+      "KPI Definition & Validation"
+    ],
+    "gaps": [
+      "AI/LLM Tool Proficiency",
+      "Retail POS/Inventory Data Experience"
+    ]
+  }
+}

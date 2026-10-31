@@ -1,0 +1,41 @@
+{
+  "job_key": "job-9e6e2dbc492a79134369",
+  "cache_identity": "6be68c8f19cd3ac9354ec33bc8259ad02ab8ecc06e1fc1f9f046e68665320be8",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "jane-doe-v1",
+  "created_at_utc": "2026-10-31T01:34:28.454291+00:00",
+  "wall_seconds": 10.784953459049575,
+  "prompt_tokens": 1394,
+  "output_tokens": 270,
+  "done_reason": "stop",
+  "raw_response": "{\n  \"summary\": \"A detail-oriented statistician with a foundation in data analysis and visualization, seeking to leverage analytical skills to contribute to Covetrus’s consumer insights and strategic decision-making.\",\n  \"skills\": [\n    \"Python\",\n    \"SQL\",\n    \"R\",\n    \"Power BI\"\n  ],\n  \"experience_fact_ids\": [\n    \"E1a\",\n    \"E1b\"\n  ],\n  \"project_ids\": [\n    \"P2\"\n  ],\n  \"motivation\": \"Jane’s experience building and automating data pipelines aligns with Covetrus’s need for scalable, efficient data analysis processes to support consumer insights.\",\n  \"contribution\": \"Jane’s skills in data modeling and analysis will enable her to contribute to the development of predictive models and actionable insights for the Prescription Management commercial teams.\",\n  \"job_priorities\": [\n    \"Analyzing key trends and building models that predict consumer behavior.\",\n    \"Establishing scalable, efficient, automated processes for large-scale data analysis.\"\n  ],\n  \"gaps\": [\n    \"Experience with Snowflake\",\n    \"Experience in designing and building data infrastructure/automated reporting tools\"\n  ]\n}",
+  "status": "validated",
+  "previous_attempts": [],
+  "content": {
+    "summary": "A detail-oriented statistician with a foundation in data analysis and visualization, seeking to leverage analytical skills to contribute to Covetrus’s consumer insights and strategic decision-making.",
+    "skills": [
+      "Python",
+      "SQL",
+      "R",
+      "Power BI"
+    ],
+    "experience_fact_ids": [
+      "E1a",
+      "E1b"
+    ],
+    "project_ids": [
+      "P2"
+    ],
+    "motivation": "Jane’s experience building and automating data pipelines aligns with Covetrus’s need for scalable, efficient data analysis processes to support consumer insights.",
+    "contribution": "Jane’s skills in data modeling and analysis will enable her to contribute to the development of predictive models and actionable insights for the Prescription Management commercial teams.",
+    "job_priorities": [
+      "Analyzing key trends and building models that predict consumer behavior.",
+      "Establishing scalable, efficient, automated processes for large-scale data analysis."
+    ],
+    "gaps": [
+      "Experience with Snowflake",
+      "Experience in designing and building data infrastructure/automated reporting tools"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "job_key": "job-afaa480f8737c36dbe15",
+  "cache_identity": "cce70f61ee508c2c4ab175160d185b0d4bba85f84dfa07c2ed3ffc04a92eba6a",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "jane-doe-v1",
+  "created_at_utc": "2026-10-31T01:34:17.726950+00:00",
+  "wall_seconds": 23.803636041935533,
+  "prompt_tokens": 1879,
+  "output_tokens": 178,
+  "done_reason": "stop",
+  "raw_response": "{\"summary\":\"Jane Doe is a data-driven analyst with a strong foundation in statistics and programming. She excels at translating data into actionable insights and optimizing processes through analytical techniques.\",\"skills\":[\"Python\",\"SQL\",\"R\",\"Power BI\"], \"experience_fact_ids\":[\"E1a\",\"E1b\"], \"project_ids\":[\"P1\",\"P2\"], \"motivation\":\"Driven by a passion for data analysis, Jane seeks to leverage her skills in optimizing maintenance processes and improving system reliability within Entarian’s meshONE-T program.\",\"contribution\":\"Jane will contribute to data-driven decision-making by analyzing maintenance data, developing reports, and supporting predictive maintenance strategies.\",\"job_priorities\":[\"Optimize maintenance workflows\",\"Support predictive maintenance strategies\",\"Ensure data integrity in maintenance systems\"],\"gaps\":[\"Experience with CMMS/EAM systems\",\"Security Clearance\"] }",
+  "status": "validated",
+  "previous_attempts": [],
+  "content": {
+    "summary": "Jane Doe is a data-driven analyst with a strong foundation in statistics and programming. She excels at translating data into actionable insights and optimizing processes through analytical techniques.",
+    "skills": [
+      "Python",
+      "SQL",
+      "R",
+      "Power BI"
+    ],
+    "experience_fact_ids": [
+      "E1a",
+      "E1b"
+    ],
+    "project_ids": [
+      "P1",
+      "P2"
+    ],
+    "motivation": "Driven by a passion for data analysis, Jane seeks to leverage her skills in optimizing maintenance processes and improving system reliability within Entarian’s meshONE-T program.",
+    "contribution": "Jane will contribute to data-driven decision-making by analyzing maintenance data, developing reports, and supporting predictive maintenance strategies.",
+    "job_priorities": [
+      "Optimize maintenance workflows",
+      "Support predictive maintenance strategies",
+      "Ensure data integrity in maintenance systems"
+    ],
+    "gaps": [
+      "Experience with CMMS/EAM systems",
+      "Security Clearance"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "candidate": "Fictional Jane Doe",
+  "profile_sha256": "6ebf3119df8eb675c1170e22e6cadcd92c544f58f0cbf5fc4fd33eb6f875c5fd",
+  "model_profile": {
+    "model": "gemma3:4b",
+    "digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+    "capabilities": [
+      "completion",
+      "vision"
+    ],
+    "details": {
+      "parent_model": "dhiltgen/gemma3:4b-it-q4_K_M-llamacpp",
+      "format": "gguf",
+      "family": "gemma3",
+      "families": [
+        "gemma3",
+        "clip"
+      ],
+      "parameter_size": "3.9B",
+      "quantization_level": "Q4_K_M",
+      "runner": "llamacpp"
+    },
+    "ollama_version": "0.40.3"
+  },
+  "prompt_version": "jane-doe-v1",
+  "applications": [
+    {
+      "job_key": "job-afaa480f8737c36dbe15",
+      "title": "Maintenance Data Analyst Jobs",
+      "company": "Entarian",
+      "query": "Data Analyst",
+      "cache_identity": "cce70f61ee508c2c4ab175160d185b0d4bba85f84dfa07c2ed3ffc04a92eba6a",
+      "cache_file": "applications/cache/cce70f61ee508c2c4ab175160d185b0d4bba85f84dfa07c2ed3ffc04a92eba6a.json",
+      "files": {
+        "resume": {
+          "source": "applications/job-afaa480f8737c36dbe15/resume.qmd",
+          "html": "applications/job-afaa480f8737c36dbe15/resume.html",
+          "sha256": "899eb11f1b460f1556c98f7108914c307fc1ba30c8c00da26aa86f7bb07409df"
+        },
+        "cover-letter": {
+          "source": "applications/job-afaa480f8737c36dbe15/cover-letter.qmd",
+          "html": "applications/job-afaa480f8737c36dbe15/cover-letter.html",
+          "sha256": "ab9e11e200dd9f3071c5293ca6a3a0b87a0d336812f8db13de1eac83c99c3935"
+        }
+      },
+      "job_priorities": [
+        "Optimize maintenance workflows",
+        "Support predictive maintenance strategies",
+        "Ensure data integrity in maintenance systems"
+      ],
+      "gaps": [
+        "Experience with CMMS/EAM systems",
+        "Security Clearance"
+      ],
+      "removed_non_requirement_items": []
+    },
+    {
+      "job_key": "job-d7cbd37cd1d625aef89c",
+      "title": "Business Intelligence Analyst",
+      "company": "Lignetics",
+      "query": "Business Intelligence Analyst",
+      "cache_identity": "2c44e48c180ff9b244bf285ba8e0f7583cdfe8a7544fb311de558335a4b563ab",
+      "cache_file": "applications/cache/2c44e48c180ff9b244bf285ba8e0f7583cdfe8a7544fb311de558335a4b563ab.json",
+      "files": {
+        "resume": {
+          "source": "applications/job-d7cbd37cd1d625aef89c/resume.qmd",
+          "html": "applications/job-d7cbd37cd1d625aef89c/resume.html",
+          "sha256": "881787d2b67beebbd793edcbed0c0d5eea98d3f8d6edd1bee3bf62018c755544"
+        },
+        "cover-letter": {
+          "source": "applications/job-d7cbd37cd1d625aef89c/cover-letter.qmd",
+          "html": "applications/job-d7cbd37cd1d625aef89c/cover-letter.html",
+          "sha256": "7eebdc4bb784d13ba9ad7e2f38e0ed5f24bc4f8b2216001c7a5339e1f4618d3d"
+        }
+      },
+      "job_priorities": [
+        "Data Integration",
+        "Demand Signal Analysis",
+        "KPI Definition & Validation"
+      ],
+      "gaps": [
+        "AI/LLM Tool Proficiency",
+        "Retail POS/Inventory Data Experience"
+      ],
+      "removed_non_requirement_items": []
+    },
+    {
+      "job_key": "job-122d2fa12eca74798082",
+      "title": "Data Engineer",
+      "company": "Maas Energy Works, Inc",
+      "query": "Data Engineer",
+      "cache_identity": "506e36b56ec5eccbd219538831707786d6976421d74658d1129cb9b51a3f786f",
+      "cache_file": "applications/cache/506e36b56ec5eccbd219538831707786d6976421d74658d1129cb9b51a3f786f.json",
+      "files": {
+        "resume": {
+          "source": "applications/job-122d2fa12eca74798082/resume.qmd",
+          "html": "applications/job-122d2fa12eca74798082/resume.html",
+          "sha256": "f3c021877fe91cb22ad6a04a66c9dab38139ff78efd8cd52a4b04d395fc39242"
+        },
+        "cover-letter": {
+          "source": "applications/job-122d2fa12eca74798082/cover-letter.qmd",
+          "html": "applications/job-122d2fa12eca74798082/cover-letter.html",
+          "sha256": "c11696f49b81ba8a0cd54f380e1cdfa3993104399c5819fc6ab17b071d148eda"
+        }
+      },
+      "job_priorities": [
+        "Monitoring and troubleshooting data pipelines",
+        "Maintaining SQL Server environment",
+        "Supporting data consumption by analysts and developers"
+      ],
+      "gaps": [
+        "Spark framework",
+        "Microsoft certification DP-600 (Fabric Analytics Engineer) or DP-700 (Fabric Data Engineer)"
+      ],
+      "removed_non_requirement_items": [
+        "401(k) with company matching",
+        "Quarterly profit share"
+      ]
+    },
+    {
+      "job_key": "job-7eca8db3880555fbc7b5",
+      "title": "Data Analyst, Marketing",
+      "company": "TurboTenant",
+      "query": "Marketing Data Analyst",
+      "cache_identity": "87ba9d3f504d81e7e8e6f443bcfe287d0b93db361a6e92ead4309d7b4d84b98d",
+      "cache_file": "applications/cache/87ba9d3f504d81e7e8e6f443bcfe287d0b93db361a6e92ead4309d7b4d84b98d.json",
+      "files": {
+        "resume": {
+          "source": "applications/job-7eca8db3880555fbc7b5/resume.qmd",
+          "html": "applications/job-7eca8db3880555fbc7b5/resume.html",
+          "sha256": "567eee37034f7de6443e4aab40bac072fec956ab6cad7290c95f58448bb4c184"
+        },
+        "cover-letter": {
+          "source": "applications/job-7eca8db3880555fbc7b5/cover-letter.qmd",
+          "html": "applications/job-7eca8db3880555fbc7b5/cover-letter.html",
+          "sha256": "90ebf9134dd9a0efec690434b6078257b017ed87a82b781ae649ddedd84dc2f9"
+        }
+      },
+      "job_priorities": [
+        "Enhance marketing reporting capabilities",
+        "Improve data integration processes",
+        "Develop data-driven strategies for campaign optimization"
+      ],
+      "gaps": [
+        "Experience with GA4",
+        "Experience with complex attribution models",
+        "Experience with Halo Analysis"
+      ],
+      "removed_non_requirement_items": []
+    },
+    {
+      "job_key": "job-9e6e2dbc492a79134369",
+      "title": "Consumer Insight Analyst",
+      "company": "Covetrus",
+      "query": "Customer Insights Analyst",
+      "cache_identity": "6be68c8f19cd3ac9354ec33bc8259ad02ab8ecc06e1fc1f9f046e68665320be8",
+      "cache_file": "applications/cache/6be68c8f19cd3ac9354ec33bc8259ad02ab8ecc06e1fc1f9f046e68665320be8.json",
+      "files": {
+        "resume": {
+          "source": "applications/job-9e6e2dbc492a79134369/resume.qmd",
+          "html": "applications/job-9e6e2dbc492a79134369/resume.html",
+          "sha256": "0db0bae3b67bf4c829883238b72f5b7be009de7650f0c7d74bad4023bb9a8936"
+        },
+        "cover-letter": {
+          "source": "applications/job-9e6e2dbc492a79134369/cover-letter.qmd",
+          "html": "applications/job-9e6e2dbc492a79134369/cover-letter.html",
+          "sha256": "d73c2a31c797d29ebd2fdcba607a848d585ad75d7d69ed114440e9904b8327b7"
+        }
+      },
+      "job_priorities": [
+        "Analyzing key trends and building models that predict consumer behavior.",
+        "Establishing scalable, efficient, automated processes for large-scale data analysis."
+      ],
+      "gaps": [
+        "Experience with Snowflake",
+        "Experience in designing and building data infrastructure/automated reporting tools"
+      ],
+      "removed_non_requirement_items": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+---
+pagetitle: "Jane Doe | cover-letter | Consumer Insight Analyst"
+format:
+  html:
+    theme: none
+    minimal: true
+    embed-resources: true
+    toc: false
+    css: ../application.css
+---
+
+```{=html}
+<article class="jane-application"><h1>Jane Doe</h1><div class="contact">jane.doe@example.com · Example City, USA</div><p class="dates">October 30, 2026</p><p>Hiring Team<br>Covetrus</p><p class="letter-subject">Re: Consumer Insight Analyst</p><p>Dear Hiring Team,</p><p>I am applying for the Consumer Insight Analyst position at Covetrus. My experience building and automating data pipelines aligns with Covetrus’s need for scalable, efficient data analysis processes to support consumer insights.</p><p>My background includes the following work: Built eight Power BI dashboards with SQL models for a fictional retail analytics team. Automated recurring Python and pandas reports, reducing preparation time by 30%.</p><p>My skills in data modeling and analysis will enable me to contribute to the development of predictive models and actionable insights for the Prescription Management commercial teams.</p><p>Thank you for considering this application. I would welcome a conversation about how my analytical background could support your team.</p><p>Sincerely,<br>Jane Doe</p><p class="demo">Fictional Jane Doe · Academic demonstration · All candidate credentials, experience and contact information are invented.</p></article>
+```

@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETE",
+  "fictional_candidate": true,
+  "candidate_name": "Jane Doe",
+  "selected_jobs": 5,
+  "resume_html_files": 5,
+  "cover_letter_html_files": 5,
+  "quarto_sources": 10,
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "generation_wall_seconds": 34.533768083085306,
+  "input_tokens": 8159,
+  "output_tokens": 1062,
+  "cloud_api_cost_usd": 0,
+  "generated_documents_sent": false,
+  "cached_reporting_only": true,
+  "documents_embedded_in_notebook": 10,
+  "source_csv_sha256": "de10e8202beba1db6c5bb06b9ec12969fcb2bd583f53733ffb2978c01c1c5e3e"
+}

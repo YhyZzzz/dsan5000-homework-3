@@ -99,7 +99,21 @@ quarto render HW-3.4-visual-EDA.ipynb --no-execute
 
 The notebook contains eight embedded figures, covering each dataset's profile, salary sensitivity and relationships, state-level geography, shared skill/method mentions, query-group skill profiles, pairwise Spearman correlations, and matched extractor comparison. The full manual dataset has 819 rows; direct comparisons use only the same 122 source identities. The paired-pay panel narrows further to 67 jointly eligible salary observations. Unknown categories stay in denominators. Salary exclusions, assumption sensitivity, shared-vocabulary counts, pair counts, display normalization and the unchanged input hashes are exported under `reports/eda/`. Geospatial analysis uses state labels and excludes ambiguous/multiple locations; no coordinates, maps, or external services are invented or required. Matplotlib 3.10+ is required for the plotting API.
 
-See `SUBMISSION.md` for the four required HTML files and the command to export `commit-history.txt` **after the student commits Part 4**. Optional Part 5 has not been performed.
+See `SUBMISSION.md` for the four required HTML files and the command to export `commit-history.txt` **after the student commits the final homework part**. The optional Part 5 is now included; refresh the history after its final commit.
+
+Part 5 (optional bonus) is implemented as a fictional Jane Doe application pipeline. Local Gemma 3 4B returns structured content for five selected real postings; a fixed fake profile supplies all degrees, employers, experience bullets and contact information. Quarto renders five self-contained resume HTMLs and five cover-letter HTMLs from ten QMD sources. All ten finished articles are embedded directly in `HW-3.5-optional-bonus-resume-creator.html`, so the bonus report can be uploaded as one standalone file.
+
+Rebuild the already generated applications and report without inference:
+
+```bash
+python run_part5.py --stage render
+python run_part5.py --stage report
+quarto render HW-3.5-optional-bonus-resume-creator.ipynb --no-execute
+```
+
+`applications/README.md` indexes the five output pairs. `applications/fictional-profile.json`, the selected fact IDs, raw model caches, and `applications/manifest.json` make the content traceable. `reports/bonus/` contains model metadata, selected jobs, timings/tokens, removed benefit-only gap items, and verification results. Generated cover-letter prose is normalized to first person; factual bullets stay unchanged. Unsupported qualifications remain review gaps rather than candidate claims. No real person's private information is used, no applications are sent, and no paid API is called.
+
+Fresh inference is an explicit separate action: `python run_part5.py --stage generate --base-url http://127.0.0.1:11434`. It requires the previously installed `gemma3:4b` model and a running local Ollama service. The measured five-job run used a temporary service on port 11435 with four parallel slots, context 8192, zero temperature and an 800-token output cap. It was shut down after generation. The generation stage caches each job and refuses invalid/truncated content; render/report do not call the model.
 
 Final submission checklist:
 
@@ -107,6 +121,6 @@ Final submission checklist:
 - [x] Part 2: deterministic cleaning notebook, `data/processed-jobs-1.csv` (819 postings, 84 columns), provenance and quality reports, self-contained HTML.
 - [x] Part 3 (declared sample scope): executed LLM notebook/reflection, `data/processed-jobs-2.csv` (122 postings, 92 columns), frozen selection/provenance/quality reports, self-contained HTML. The remaining 697 postings are not LLM-cleaned.
 - [x] Part 4: reusable EDA class, both CSV profiles, eight figures, matched 122-job comparison, executed notebook, self-contained HTML.
-- [ ] Optional Part 5, if completed: fictitious Jane Doe resume/cover-letter pipeline and rendered HTML.
+- [x] Optional Part 5: fictional Jane Doe pipeline, five resume/cover-letter pairs, Quarto sources, executed notebook and self-contained bonus HTML with all ten articles.
 - [ ] `commit-history.txt` exported **after** the final homework commit; open it and confirm every part appears.
 - [ ] Open each final HTML and verify figures/resources are embedded; check for errors, placeholders, and leaked credentials before uploading to Canvas.

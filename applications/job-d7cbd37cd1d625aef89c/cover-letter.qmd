@@ -1,0 +1,14 @@
+---
+pagetitle: "Jane Doe | cover-letter | Business Intelligence Analyst"
+format:
+  html:
+    theme: none
+    minimal: true
+    embed-resources: true
+    toc: false
+    css: ../application.css
+---
+
+```{=html}
+<article class="jane-application"><h1>Jane Doe</h1><div class="contact">jane.doe@example.com · Example City, USA</div><p class="dates">October 30, 2026</p><p>Hiring Team<br>Lignetics</p><p class="letter-subject">Re: Business Intelligence Analyst</p><p>Dear Hiring Team,</p><p>I am applying for the Business Intelligence Analyst position at Lignetics. Driven by a passion for translating complex data into actionable insights, I aim to contribute to Lignetics’ demand forecasting and commercial strategy by building robust BI solutions.</p><p>My background includes the following work: Built eight Power BI dashboards with SQL models for a fictional retail analytics team. Automated recurring Python and pandas reports, reducing preparation time by 30%.</p><p>I will focus on streamlining reporting processes and integrating diverse data sources to provide timely, accurate information for strategic decision-making.</p><p>Thank you for considering this application. I would welcome a conversation about how my analytical background could support your team.</p><p>Sincerely,<br>Jane Doe</p><p class="demo">Fictional Jane Doe · Academic demonstration · All candidate credentials, experience and contact information are invented.</p></article>
+```

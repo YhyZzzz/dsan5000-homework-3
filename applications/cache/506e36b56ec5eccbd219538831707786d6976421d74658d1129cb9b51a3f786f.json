@@ -1,0 +1,44 @@
+{
+  "job_key": "job-122d2fa12eca74798082",
+  "cache_identity": "506e36b56ec5eccbd219538831707786d6976421d74658d1129cb9b51a3f786f",
+  "model": "gemma3:4b",
+  "model_digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+  "prompt_version": "jane-doe-v1",
+  "created_at_utc": "2026-10-31T01:34:21.576941+00:00",
+  "wall_seconds": 27.652550540980883,
+  "prompt_tokens": 1809,
+  "output_tokens": 207,
+  "done_reason": "stop",
+  "raw_response": "{\"summary\": \"A detail-oriented data professional with a strong foundation in statistics and data analysis, seeking to contribute to a robust and reliable data platform.\",\"skills\":[\"Python\",\"SQL\",\"Power BI\",\"R\"], \"experience_fact_ids\":[\"E1a\",\"E1b\"], \"project_ids\":[\"P2\"], \"motivation\": \"Jane’s experience building and automating data pipelines aligns with Maas Energy Works’ need for a reliable data platform to support operational reporting and data-driven decision-making.\", \"contribution\": \"Jane will focus on maintaining and improving the data platform’s operational backbone, ensuring data integrity and reliability for critical reporting and applications.\",\"job_priorities\":[\"Monitoring and troubleshooting data pipelines\",\"Maintaining SQL Server environment\",\"Supporting data consumption by analysts and developers\"],\"gaps\":[\"401(k) with company matching\",\"Quarterly profit share\",\"Spark framework\",\"Microsoft certification DP-600 (Fabric Analytics Engineer) or DP-700 (Fabric Data Engineer)\"]}",
+  "status": "validated",
+  "previous_attempts": [],
+  "content": {
+    "summary": "A detail-oriented data professional with a strong foundation in statistics and data analysis, seeking to contribute to a robust and reliable data platform.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "R"
+    ],
+    "experience_fact_ids": [
+      "E1a",
+      "E1b"
+    ],
+    "project_ids": [
+      "P2"
+    ],
+    "motivation": "Jane’s experience building and automating data pipelines aligns with Maas Energy Works’ need for a reliable data platform to support operational reporting and data-driven decision-making.",
+    "contribution": "Jane will focus on maintaining and improving the data platform’s operational backbone, ensuring data integrity and reliability for critical reporting and applications.",
+    "job_priorities": [
+      "Monitoring and troubleshooting data pipelines",
+      "Maintaining SQL Server environment",
+      "Supporting data consumption by analysts and developers"
+    ],
+    "gaps": [
+      "401(k) with company matching",
+      "Quarterly profit share",
+      "Spark framework",
+      "Microsoft certification DP-600 (Fabric Analytics Engineer) or DP-700 (Fabric Data Engineer)"
+    ]
+  }
+}

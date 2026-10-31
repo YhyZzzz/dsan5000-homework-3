@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "fictional_candidate_only": true,
+  "jobs": 5,
+  "resume_html_files": 5,
+  "cover_letter_html_files": 5,
+  "quarto_source_files": 10,
+  "report_embedded_articles": 10,
+  "report_collapsible_documents": 10,
+  "executed_notebook_code_cells": 5,
+  "notebook_error_outputs": 0,
+  "external_resources": 0,
+  "candidate_fact_ids_verified": true,
+  "document_hashes_verified": true,
+  "first_person_letters_verified": true,
+  "parts_1_through_4_unchanged": true,
+  "credential_scan_passed": true,
+  "test_suite_passed": 91,
+  "browser_visual_preview": "Not performed: browser tool disallows local file URLs; local structural/content checks used instead.",
+  "report_sha256": "b1c61c0138796bed1cb94b5745ada302afc7e6de512b43b241d6885ee247f0d2",
+  "documents": [
+    {
+      "job_key": "job-afaa480f8737c36dbe15",
+      "kind": "resume",
+      "file": "applications/job-afaa480f8737c36dbe15/resume.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-afaa480f8737c36dbe15",
+      "kind": "cover-letter",
+      "file": "applications/job-afaa480f8737c36dbe15/cover-letter.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-d7cbd37cd1d625aef89c",
+      "kind": "resume",
+      "file": "applications/job-d7cbd37cd1d625aef89c/resume.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-d7cbd37cd1d625aef89c",
+      "kind": "cover-letter",
+      "file": "applications/job-d7cbd37cd1d625aef89c/cover-letter.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-122d2fa12eca74798082",
+      "kind": "resume",
+      "file": "applications/job-122d2fa12eca74798082/resume.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-122d2fa12eca74798082",
+      "kind": "cover-letter",
+      "file": "applications/job-122d2fa12eca74798082/cover-letter.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-7eca8db3880555fbc7b5",
+      "kind": "resume",
+      "file": "applications/job-7eca8db3880555fbc7b5/resume.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-7eca8db3880555fbc7b5",
+      "kind": "cover-letter",
+      "file": "applications/job-7eca8db3880555fbc7b5/cover-letter.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-9e6e2dbc492a79134369",
+      "kind": "resume",
+      "file": "applications/job-9e6e2dbc492a79134369/resume.html",
+      "external_resources": 0
+    },
+    {
+      "job_key": "job-9e6e2dbc492a79134369",
+      "kind": "cover-letter",
+      "file": "applications/job-9e6e2dbc492a79134369/cover-letter.html",
+      "external_resources": 0
+    }
+  ],
+  "commit_history": "Refresh after student commits Part 5."
+}
