@@ -1,0 +1,8 @@
+
+**Observed in this snapshot.** The manual core salary median is **$142,000** across **471** available single-band advertisements. Salary and experience show a **0.43** rank association across **258** complete pairs. **Python** is the most common fixed-vocabulary term. Description length correlates with vocabulary count, so extraction coverage partly depends on text availability.
+
+**Geography and missingness.** Only **512/819** rows support a single-state footprint. Work arrangement is unknown for **538/819** rows; a remote-work proportion depends strongly on whether those unknowns remain in its denominator. No precise point map, seasonal hiring trend, or regional salary premium is justified by this snapshot.
+
+**Extraction and sampling.** The LLM result is a **122/819 (14.9%) availability sample**, not a second full crawl. Comparisons hold job identities fixed. Among **67** jobs with core pay in both files, **61** agree within the stated tolerance. Higher model coverage for work and industry does not establish accuracy; sparse model seniority and known semantic errors argue for feature-specific review. Pay missingness and differing eligible-pay subsets also limit median comparisons.
+
+**Reproduce.** Run `python run_part4.py`, then `quarto render HW-3.4-visual-EDA.ipynb --no-execute`. The class runs on both saved CSVs; no API, model, external map service or new download is used. Figures and numeric tables are saved under `reports/eda/`. The source CSV checksums are verified after execution. This part is ready for student review and a separate Git commit; the student pushes it before further work.

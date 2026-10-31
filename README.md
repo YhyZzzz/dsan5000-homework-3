@@ -90,12 +90,23 @@ All 122 final rows use the same v4 evidence-first prompt and Gemma 3 4B model. T
 
 The wrapper supports explicit inference with `--stage pilot` or `--stage extract` and `--workers`. Reporting uses the frozen sample and requires no running model service. The runner drains active requests on Ctrl+C and resumes valid caches. The measured service had four parallel slots, context 16384, and flash attention enabled.
 
+Part 4 runs offline EDA on both cleaned CSVs through the reusable `JobEDA` class in `job_eda.py`:
+
+```bash
+python run_part4.py
+quarto render HW-3.4-visual-EDA.ipynb --no-execute
+```
+
+The notebook contains eight embedded figures, covering each dataset's profile, salary sensitivity and relationships, state-level geography, shared skill/method mentions, query-group skill profiles, pairwise Spearman correlations, and matched extractor comparison. The full manual dataset has 819 rows; direct comparisons use only the same 122 source identities. The paired-pay panel narrows further to 67 jointly eligible salary observations. Unknown categories stay in denominators. Salary exclusions, assumption sensitivity, shared-vocabulary counts, pair counts, display normalization and the unchanged input hashes are exported under `reports/eda/`. Geospatial analysis uses state labels and excludes ambiguous/multiple locations; no coordinates, maps, or external services are invented or required. Matplotlib 3.10+ is required for the plotting API.
+
+See `SUBMISSION.md` for the four required HTML files and the command to export `commit-history.txt` **after the student commits Part 4**. Optional Part 5 has not been performed.
+
 Final submission checklist:
 
 - [x] Part 1: 30 titles, 90 real response files, 847 raw job records, completed collection audit, executed notebook, self-contained HTML.
 - [x] Part 2: deterministic cleaning notebook, `data/processed-jobs-1.csv` (819 postings, 84 columns), provenance and quality reports, self-contained HTML.
 - [x] Part 3 (declared sample scope): executed LLM notebook/reflection, `data/processed-jobs-2.csv` (122 postings, 92 columns), frozen selection/provenance/quality reports, self-contained HTML. The remaining 697 postings are not LLM-cleaned.
-- [ ] Part 4: visual EDA of both datasets and comparison, executed notebook, self-contained HTML.
+- [x] Part 4: reusable EDA class, both CSV profiles, eight figures, matched 122-job comparison, executed notebook, self-contained HTML.
 - [ ] Optional Part 5, if completed: fictitious Jane Doe resume/cover-letter pipeline and rendered HTML.
 - [ ] `commit-history.txt` exported **after** the final homework commit; open it and confirm every part appears.
 - [ ] Open each final HTML and verify figures/resources are embedded; check for errors, placeholders, and leaked credentials before uploading to Canvas.

@@ -1,0 +1,33 @@
+{
+  "status": "COMPLETE",
+  "manual_rows": 819,
+  "llm_rows": 122,
+  "matched_rows": 122,
+  "manual_core_salary_n": 471,
+  "llm_core_salary_n": 70,
+  "manual_core_salary_median": 142000.0,
+  "same_core_salary_pairs": 67,
+  "salary_pairs_within_tolerance": 61,
+  "salary_experience_complete_pairs": 258,
+  "salary_experience_spearman": 0.42985758160586757,
+  "manual_geographic_eligible_rows": 512,
+  "manual_unknown_work_rows": 538,
+  "plots": [
+    "correlations.png",
+    "geography.png",
+    "llm-overview.png",
+    "manual-overview.png",
+    "matched-extractors.png",
+    "query-skills.png",
+    "salary-relationships.png",
+    "skills.png"
+  ],
+  "offline_only": true,
+  "source_csvs_unchanged": true,
+  "input_sha256": {
+    "data/processed-jobs-1.csv": "de10e8202beba1db6c5bb06b9ec12969fcb2bd583f53733ffb2978c01c1c5e3e",
+    "data/processed-jobs-2.csv": "abafab46eae8acc0dac6cbc39ffaeae0066c2879f7f23e2e539ae7b7c0b5682d"
+  },
+  "pandas_version": "3.0.5",
+  "matplotlib_version": "3.11.1"
+}

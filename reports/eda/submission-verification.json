@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "manual_rows": 819,
+  "llm_rows": 122,
+  "matched_rows": 122,
+  "plot_count": 8,
+  "executed_code_cells": 12,
+  "notebook_error_outputs": 0,
+  "source_csvs_unchanged": true,
+  "parts_1_2_3_unchanged": true,
+  "credential_scan_passed": true,
+  "matched_denominators_verified": true,
+  "state_counts_verified": true,
+  "test_suite_passed": 81,
+  "html_files": [
+    {
+      "file": "HW-3.1-crawl.html",
+      "embedded_images": 0,
+      "external_resources": 0,
+      "sha256": "6e8d9cc11ef398b468d1ebebf15e6267289332f4f8f975fa0972b98317ac6697"
+    },
+    {
+      "file": "HW-3.2-cleaning-1.html",
+      "embedded_images": 1,
+      "external_resources": 0,
+      "sha256": "50602516b16b02b12509a23e098557520e619729fe9838eb0485a1aea84faf06"
+    },
+    {
+      "file": "HW-3.3-cleaning-2.html",
+      "embedded_images": 2,
+      "external_resources": 0,
+      "sha256": "8750c259af9e3015dcba7a9abc3ce233c48576127dc6af56cfe206d1aee780d5"
+    },
+    {
+      "file": "HW-3.4-visual-EDA.html",
+      "embedded_images": 8,
+      "external_resources": 0,
+      "sha256": "1d4c7c855c5b94d084c6c49f8a28373a27bb3d4c3d5c620c33071cab291a4367"
+    }
+  ],
+  "submission_instructions": "SUBMISSION.md",
+  "commit_history_status": "Must be exported after the student commits Part 4; see SUBMISSION.md."
+}
