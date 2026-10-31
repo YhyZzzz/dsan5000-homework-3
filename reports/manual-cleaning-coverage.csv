@@ -1,0 +1,85 @@
+column,dtype,observed_rows,missing_or_no_mention_rows,coverage_percent
+expected_start_date,"datetime64[s, UTC]",0,819,0.0
+salary_issue,string,3,816,0.37
+application_deadline,"datetime64[us, UTC]",4,815,0.49
+posting_expiry_date,"datetime64[us, UTC]",4,815,0.49
+team_size,Float64,6,813,0.73
+duplicate_match_rules,object,16,803,1.95
+certifications,object,19,800,2.32
+required_languages,object,21,798,2.56
+collaboration_tools,object,23,796,2.81
+company_employees,Float64,42,777,5.13
+company_size,string,42,777,5.13
+company_size_evidence,string,42,777,5.13
+travel_percent_max,Float64,51,768,6.23
+experience_years_max,Float64,61,758,7.45
+industry,string,80,739,9.77
+industry_source,string,80,739,9.77
+visa_sponsorship,string,97,722,11.84
+visa_sponsorship_evidence,string,97,722,11.84
+work_arrangement,string,281,538,34.31
+work_arrangement_evidence,string,281,538,34.31
+experience_level,string,297,522,36.26
+benefits,object,403,416,49.21
+company_values,object,406,413,49.57
+experience_evidence,string,415,404,50.67
+experience_years_min,Float64,415,404,50.67
+education_degrees,object,460,359,56.17
+education_requirements_text,string,460,359,56.17
+benefits_text,string,487,332,59.46
+salary_annual_max,Float64,493,326,60.2
+salary_annual_mid,Float64,493,326,60.2
+salary_annual_min,Float64,493,326,60.2
+salary_period,string,493,326,60.2
+salary_currency,string,496,323,60.56
+salary_currency_assumed,boolean,496,323,60.56
+salary_evidence,string,496,323,60.56
+salary_max,Float64,496,323,60.56
+salary_min,Float64,496,323,60.56
+salary_multiple_ranges,boolean,496,323,60.56
+salary_period_assumed,boolean,496,323,60.56
+salary_source,string,496,323,60.56
+city,string,517,302,63.13
+soft_skills,object,520,299,63.49
+posted_at_raw,string,544,275,66.42
+posted_date,"datetime64[us, UTC]",544,275,66.42
+posted_date_bound,string,544,275,66.42
+posted_date_precision,string,544,275,66.42
+state,string,544,275,66.42
+skills,object,680,139,83.03
+qualifications,object,684,135,83.52
+country,string,689,130,84.13
+responsibilities,object,740,79,90.35
+job_type,string,814,5,99.39
+job_types,object,814,5,99.39
+alternate_titles,object,819,0,100.0
+company_name,string,819,0,100.0
+crawl_time_utc,"datetime64[us, UTC]",819,0,100.0
+date_evidence,string,819,0,100.0
+description,string,819,0,100.0
+description_char_count,Int64,819,0,100.0
+description_length_outlier,boolean,819,0,100.0
+description_sha256,string,819,0,100.0
+description_word_count,Int64,819,0,100.0
+experience_domain_outlier,boolean,819,0,100.0
+experience_iqr_outlier,boolean,819,0,100.0
+first_seen_utc,"datetime64[us, UTC]",819,0,100.0
+job_id,string,819,0,100.0
+job_ids,object,819,0,100.0
+job_key,string,819,0,100.0
+job_title,string,819,0,100.0
+last_seen_utc,"datetime64[us, UTC]",819,0,100.0
+location_raw,string,819,0,100.0
+locations,object,819,0,100.0
+multiple_locations,boolean,819,0,100.0
+possible_duplicate,boolean,819,0,100.0
+posting_platform,string,819,0,100.0
+posting_platforms,object,819,0,100.0
+potential_non_job_posting,boolean,819,0,100.0
+quality_review,boolean,819,0,100.0
+salary_domain_outlier,boolean,819,0,100.0
+salary_iqr_outlier,boolean,819,0,100.0
+search_queries,object,819,0,100.0
+skill_count,Int64,819,0,100.0
+source_files,object,819,0,100.0
+source_record_count,Int64,819,0,100.0

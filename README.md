@@ -64,10 +64,19 @@ Use `--keys-file /absolute/path/to/keys.json` if the key is stored elsewhere out
 
 The student reviews, commits, and pushes each completed part before work starts on the next part. The runner performs no Git operations.
 
+Part 2 runs entirely from the saved JSON, using deterministic Python rules and no network/model calls:
+
+```bash
+python run_part2.py
+quarto render HW-3.2-cleaning-1.ipynb --no-execute
+```
+
+The cleaning implementation is in `manual_cleaning.py` and is also displayed in the notebook's implementation appendix, so the standalone HTML includes the extraction logic. Multivalued CSV columns are JSON arrays; missing scalars are blank. Salary assumptions, uncertain duplicate matches, multiple pay bands, and quality flags are documented in the notebook. The `reports/manual-cleaning-*` files contain coverage, provenance for every raw occurrence, duplicate links, review cases, regression examples, and the final audit.
+
 Final submission checklist:
 
 - [x] Part 1: 30 titles, 90 real response files, 847 raw job records, completed collection audit, executed notebook, self-contained HTML.
-- [ ] Part 2: manual cleaning notebook, `data/processed-jobs-1.csv`, self-contained HTML.
+- [x] Part 2: deterministic cleaning notebook, `data/processed-jobs-1.csv` (819 postings, 84 columns), provenance and quality reports, self-contained HTML.
 - [ ] Part 3: LLM cleaning notebook and reflection, `data/processed-jobs-2.csv`, self-contained HTML.
 - [ ] Part 4: visual EDA of both datasets and comparison, executed notebook, self-contained HTML.
 - [ ] Optional Part 5, if completed: fictitious Jane Doe resume/cover-letter pipeline and rendered HTML.
